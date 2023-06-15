@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2827g11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2827</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria Cleofa <surname>G.</surname></persName>
+<date type="sent">27.10.1890</date>
+<date type="received"/>
+<persName type="addressee">Bruder, Schwägerin: Joseph, Babetha <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2827g">
+<persName>
+<forename>Maria Cleofa</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1845"/>
+<death cert="unknown"/>
+<occupation>Bauerstochter</occupation>
+<residence>Engishausen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bauern</p>
+<p>Anstalt: 1877-1923</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Manie (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin hofft, zu Allerheiligen zum Urlaub nach Hause zu kommen. Sie weist darauf hin, dass sie bereits zur Kirchweih geschrieben hat, und hofft auf eine Antwort.
+                    Sie bestellt ihren Verwandten Grüße und behauptet, dass diese sie erlösen müssten, wenn sie ihr Heimweh nachfühlen könnten.
+                    Sie betont, dass ein Urlaub nur mit der Erlaubnis des Hofrats möglich ist (der Arzt hat dazu keine Befugnis).
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2827g11a.jpg" xml:id="image_031"/>
+<graphic mimeType="image/jpg" url="kfb2827g11b.jpg" xml:id="image_032"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_031"/>
+<opener>
+<dateline><hi rendition="#i"><seg ana="#pic">x</seg></hi>. Heilanstalt - Irrsee denn̄ 27<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Oktober<lb break="yes"/>
+<hi rendition="#r">1890.</hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder Joseph!<lb break="yes"/>
+<lb break="yes"/>
+				        Theure Schwägerin̄ Babetha! -</hi></salute>
+</opener>
+<p>
+<hi rendition="#i"><seg ana="#pic">x</seg></hi>/ Gott zum Gruß! <hi rendition="#i"><seg ana="#pic">x</seg></hi></p>
+<p>Ich mein letztes Briefchen jetzt<lb break="yes"/> ein Jahr in Irrsee. Ich hoffen mein<lb break="yes"/> liebster Bruder oder Frau Schwägerin̄<lb break="yes"/>
+                hollt auf Alleerheiligen, oder Seelen<lb break="no"/> son̄tag in Urlaub. Ich
+                habe schon auf<lb break="yes"/> die Kirchweih. etlich Zeilen geschrieben.<lb break="yes"/> Ich hoffe auf ein paar Zeilen, vom<lb break="yes"/> Bruder Josech.
+                oder Tochter Cleofa.<pb facs="#image_032"/>
+<seg ana="#salute">Viele tausend Grüße.<lb break="yes"/> An Euch Alle Schwestern!<lb break="yes"/> Schwäger u. Schwägerin̄en!<lb break="yes"/> Würtenberg
+                    u. Bayerns.<lb break="yes"/></seg> Ihr liebe Theuren Alle? /=<lb break="yes"/>
+                Wen̄ Ihr Alle .<hi rendition="#i">x</hi> das Heimweh<lb break="yes"/> u. so große Verlangen wüßtet<lb break="yes"/> so würdet Ihr Euch
+                gewiß nicht<lb break="yes"/> säumen Eure einze Schwester nach elf,<lb break="yes"/>
+                Jahren erlösen. Ich hoffe Antwort<lb break="yes"/> Allerheiligen. Durch Herr<lb break="yes"/> Hofrat: Kiederle muß Erlaubniß<lb break="yes"/> u. Schrift,
+                ausgehn. Julius kan nichts <lb break="yes"/> erlauben. Deine Schwester u.
+                    Schwägerin̄<lb break="yes"/>
+<seg ana="#signed">Maria Cleofa <surname>G.</surname></seg>. G.s.Ch.<lb break="yes"/> 1 C A <hi rendition="#i">X X.X</hi></p>
+</body>
+</text>
+</TEI>

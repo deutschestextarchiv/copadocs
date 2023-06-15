@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb846h09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>846</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karolina <surname>H.</surname></persName>
+<date type="sent">xx.02.1857</date>
+<date type="received"/>
+<persName type="addressee">Schwester:  <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb846h">
+<persName>
+<forename>Karolina</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1816"/>
+<death when="1888"/>
+<occupation>Schäfflerstochter</occupation>
+<residence>Rennertshofen, Monheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schäffler</p>
+<p>Anstalt: 1855-88</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Geisteskrankheit, Verrücktheit, geistig-körperliche Müdigkeit (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt1"/>
+<handNote medium="ink" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Kälte und Verlassenheit, wird verspottet, wurde von daheim fortgeschoben; 
+                    2 Monate versprochen, jetzt 2 Jahre schon, geht immer schlechter
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb846h09a.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_018"/>
+<opener>
+<dateline><add hand="arzt1">Febr. 57</add> <lb break="yes"/>
+<add hand="arzt2"><surname>H.</surname></add></dateline>
+<salute><hi rendition="#c">Liebe Schwester!</hi></salute>
+</opener>
+<p>
+Mir ist es zwar sehr lieb, daß Du meinetwegen<lb break="yes"/>
+so besorgt bist. Wenn ich aber auch nur einen Nutzen<lb break="yes"/>
+Eurer Sorge hätte<del>t</del> kön̄te ich von herzen dankbar<lb break="yes"/>
+				    dafür seyn. Aber lauter Schmerzen Leiden und Strafen<lb break="yes"/>
+schon so lange ich hier bin. Meine zwey Namenstage heuer<lb break="yes"/>
+wie voriges Jahr mußte ich in größter Kälte und Verlassenheit<lb break="yes"/>
+zubringen. <seg ana="#inst">Ohne die übrigen Mißhandlungen das ich so unschuldig<lb break="yes"/>
+erdulden muß. Der <surname>W.</surname> Egidi stand Schildwache für Andere um Lohn<lb break="yes"/>
+    aber ich habe ja gar nichts davon. Alle Tage bin ich froh und danke Gott<lb break="yes"/>
+wenn ich nur wieder mein weniges Leben habe, während Andere<lb break="yes"/>
+über mich spotten und doch als from angesehen werden und deß<lb break="no"/>
+wegen belobt und belohnt werden</seg>. Ich hatte aber gleich keinen<lb break="yes"/>
+Glauben weil Ihr mich so falsch und lügenhaft fortgeschoben habt. In dem<lb break="yes"/>
+Brief stand ich hätte zwey Monate Aufenthalt und jetzt sind es schon<lb break="yes"/>
+beynahe zwey Jahr daß ich da bin und wird im̄er schlechter anstatt besser.<lb break="yes"/>
+Ich bitte dich wenn du mir helfen kannst so erleichtere doch wenigstens<lb break="yes"/>
+mein hartes Looß ich durfte den Bruder nichts klagen vieleicht wäre<lb break="yes"/>
+es schon lange anders. Gebet kein mehr aus oder verwendet es anders<lb break="yes"/>
+als mich zu verfolgen. <seg ana="#salute">Ich grüße Euch Alle herzlich und wiederholle es<lb break="yes"/>
+nochmal gewissenhaft daß ich dein Schaden nicht gewesen wäre daheim.</seg><lb break="yes"/>
+				    Du aber trägst Haß und weißt nicht warum. <seg ana="#signed">Ich verbleibe Deine<lb break="yes"/>
+<hi rendition="#r">aufrichtige Schwester</hi></seg>
+</p>
+</body>
+</text>
+</TEI>

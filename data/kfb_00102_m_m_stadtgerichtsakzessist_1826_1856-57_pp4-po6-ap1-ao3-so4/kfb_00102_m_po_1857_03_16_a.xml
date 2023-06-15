@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb102m17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>102</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Fritz von <surname>M.</surname></persName>
+<date type="sent">16.03.1857</date>
+<date type="received"/>
+<persName type="addressee">Verwaltung: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb102m">
+<persName>
+<forename>Fritz von</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1826"/>
+<death cert="unknown"/>
+<occupation>Stadtgerichtlicher Akzessist (Freiherr)</occupation>
+<residence>München, geb. Starnberg&gt;</residence>
+<faith>p</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Adel</p>
+<p>Anstalt: 1856-1857</p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>[Fixe Ideen](1856, Selbstzuschreibung), tiefe psychische Störung (1856)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bescheinigung über zurückgegebene Gegenstände.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb102m17.jpg" xml:id="image_065"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_065"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#c"><hi rendition="#u">9.</hi>
+<lb break="yes"/>
+<hi rendition="#i">Bescheinigung</hi>. <lb break="yes"/></hi>Der Unterzeichnete
+                bescheinigt hiemit der Verwaltung der Kgl. <lb break="yes"/>Kreis=Irren=Anstalt
+                dahier den Empfang säm̄tlicher im Monat August <lb break="yes"/>und September
+                1856 von ihm mitgebrachten und für ihn von Nürnberg <lb break="yes"/>übersendeten
+                Effekten und Pretiosen, desgleichen der zwei ledernen <lb break="yes"/>Koffer, die
+                im Magazin aufbewahrt waren.<lb break="yes"/><hi rendition="#r">Irsee den 16 März
+                    1857. <lb break="yes"/><seg ana="#signed">von <hi rendition="#i"><surname>M.</surname></hi>
+<lb break="yes"/>Stadtg. Acc.</seg></hi></p>
+</body>
+</text>
+</TEI>

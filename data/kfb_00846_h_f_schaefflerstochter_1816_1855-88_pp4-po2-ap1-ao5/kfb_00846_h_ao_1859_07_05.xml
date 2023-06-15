@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb846h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>846</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender"> <surname>H.</surname></persName>
+<date type="sent">05.07.1859</date>
+<date type="received"/>
+<persName type="addressee">Direkotr:  <surname/></persName>
+<settlement type="sent">Wald</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb846h">
+<persName>
+<forename>Karolina</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1816"/>
+<death when="1888"/>
+<occupation>Schäfflerstochter</occupation>
+<residence>Rennertshofen, Monheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schäffler</p>
+<p>Anstalt: 1855-88</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Geisteskrankheit, Verrücktheit, geistig-körperliche Müdigkeit (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="bruder"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte wissen, ob es Neues von seiner Schwester gibt, weil die Gemeinde die Zahlungen einstellen will
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb846h02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb846h02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Wald</hi> den 5<hi rendition="#sup">ten</hi>
+<hi rendition="#i">Juli</hi> 1859</hi></dateline>
+<salute><hi rendition="#c">Wohlgeboren Herr Direktor!</hi></salute>
+</opener>
+<p>Meine Schwester bringt <hi rendition="#i">Ew. Wohlgeboren</hi> mit diesem<lb break="yes"/>
+                Briefe die Versicherungen meiner vollsten Hochachtung<lb break="yes"/> und
+                Ergebenheit. Ich wäre gllücklich, wenn ich persönlich<lb break="yes"/>
+<hi rendition="#i">Ew. Wohlgeboren</hi> dieselben bezeigen könnte, allein meine
+                    Berufs<lb break="no"/> geschäfte erlauben nicht, daß ich mich zwei Tage von
+                    hier<lb break="yes"/> entfernen könnte, um meine Schwester <hi rendition="#i">Karolina</hi> zu besuchen<lb break="yes"/> Die Gemeinde Rennertshofen geht mit
+                dem Gedanken um,<lb break="yes"/> die Zahlungen für die Verpflegung der <hi rendition="#i">Karolina</hi>
+<surname><hi rendition="#i">H.</hi>h<hi rendition="#i">semann</hi></surname> zu<lb break="yes"/> sistiren, was natürlich dann ihre Entfernung aus der k. Anstalt<lb break="yes"/> bedingt, da es mir u. ebenso meinen andern Geschwisterten<lb break="yes"/> unmöglich ist, die jährliche Verpflegsum̄e entrichten zu
+                    können.<lb break="yes"/> Vielleicht wissen <hi rendition="#i">Ew.
+                    Wohlgeboren</hi> schon ein Mehreres hierüber<lb break="yes"/> durch das k.
+                Landg: <hi rendition="#i">Monheim</hi>.</p><p> Meine Schwester <hi rendition="#i">Katharina</hi>, verehlichte <surname><hi rendition="#i">S.</hi></surname>, erlaubt sich<lb break="yes"/> nun die <hi rendition="#i">Karolina</hi> zu besuchen und ich ersuche <hi rendition="#i">Ew.Wohlgeboren</hi>
+<pb facs="#image_004"/> derselben zu gestatten, ein Stündlein mit Karolina zu
+                    sprechen<lb break="yes"/> zu dürfen, wenn die Statuten der Anstalt es erlauben
+                    und<lb break="yes"/> deren geistiger Zustand es möglich macht.</p><p>
+<space/> <seg ana="#salute">Unter Versicherung vollster Hochachtung u.
+                    Ergebenheit</seg><lb break="yes"/>
+<hi rendition="#c"><seg ana="#signed"><hi rendition="#i">Ew Wohlgeboren</hi></seg><lb break="yes"/>
+<hi rendition="#r">ergebenster<lb break="yes"/>
+<surname>D. <hi rendition="#i">H.</hi>h<hi rendition="#i">semann</hi></surname><lb break="yes"/>
+                    p<unclear>kt</unclear>Arzt</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

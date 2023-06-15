@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun1297s13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>1297 (K. 650)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabeth <surname>S.</surname></persName>
+<date type="sent">27.12.1903</date>
+<date type="received"/>
+<persName type="addressee">Peovinzial-Heilanstalt Marsberg:  <surname/></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mun1297s">
+<persName>
+<forename>Elisabeth</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1873-01-15"/>
+<death when="1924-06-26"/>
+<occupation>Haushälterin</occupation>
+<residence>Geburtsort: Brakel; Wohnort: Werl</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Wegemeister, Mutter: ohne Beruf</p>
+<p>Anstalt: 19.01.1901-26.06.1924</p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>einfache Seelenstörung (1901), Dementia paranoides</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin bittet um ihre Verlegung in die Provinzial-Heilanstalt Marsberg.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun1297s13a.jpg" xml:id="image_041"/>
+<graphic mimeType="image/jpg" url="mun1297s13b.jpg" xml:id="image_042"/>
+<graphic mimeType="image/jpg" url="mun1297s13c.jpg" xml:id="image_043"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_041"/>
+<opener>
+<dateline><add hand="vordruck">Provinzial-Heil-Anstalt <hi rendition="#r">Münster i. W., den</hi></add><hi rendition="#r"> 27. 12. 1903.</hi></dateline>
+<salute>An <lb break="yes"/><hi rendition="#c">die Provinzial Heilanstalt <lb break="yes"/><hi rendition="#i">Marsberg</hi>.</hi></salute>
+</opener>
+<p><surname><hi rendition="#u">S.</hi></surname>
+</p><p>
+<add hand="hand3">G 28/<hi rendition="#sub">12</hi> 03 <lb break="yes"/>ad acta
+                    Elise <surname><hi rendition="#i">S.</hi></surname>
+<lb break="yes"/><hi rendition="#c">G. </hi></add>
+</p>
+<p>Die betreffende wollte sich ger<lb break="no"/>ne verändern geht 30. diese <lb break="yes"/>Monat dort eintreffen gegen<lb break="no"/>über der Sache kann mir
+                    <lb break="yes"/>nie gesagt werden. Meine <lb break="yes"/>Eltern der Sache
+                gegenüber <pb facs="#image_042"/>hoffentlich mit ein Verständ<lb break="no"/>nis
+                Marienthal verlassen ganz <lb break="yes"/>gerne. Meine Beschäftigung <lb break="yes"/>die thu ich so wie es k<del>ö</del>ommt, <lb break="yes"/>die
+                Verändrung sieh ich vor <lb break="yes"/>hoffe das dieß vor meine Ge<lb break="no"/>sundheit vorteilhaftig ist. <lb break="yes"/>Mit
+                    dem<unclear><del>mein</del></unclear> Bruder Vikar <lb break="yes"/><hi rendition="#i">A</hi>. <surname><hi rendition="#i">S.</hi></surname> fertig
+                die <lb break="yes"/>Schwester Elisabeth <surname>S.</surname>
+<lb break="yes"/>gerne nach Marsberg mit <lb break="yes"/>Freuden hin keine
+                    verzöge<lb break="no"/>rung <hi rendition="#i">A</hi>ttest liegt am Amt <lb break="yes"/>Allendorf vor Gericht nach Hause. <pb facs="#image_043"/>Der
+                bestimmte Tag <hi rendition="#u">30.</hi> Dezem<lb break="no"/>ber von Werl die
+                Tochter <lb break="yes"/>des Wegemeister <hi rendition="#i">Anton</hi>
+<lb break="yes"/><surname><hi rendition="#i">S.</hi></surname> in <hi rendition="#i">Marsberg</hi>. </p>
+</body>
+</text>
+</TEI>

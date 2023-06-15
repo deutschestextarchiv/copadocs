@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb120h14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>120</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anne <surname>S.</surname></persName>
+<date type="sent">25.12.1855</date>
+<date type="received"/>
+<persName type="addressee">Direktor:  <surname/></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb120h">
+<persName>
+<forename>Anna</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Zimmermannstochter</occupation>
+<residence>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Zimmermann, "ohne Vermögen"</p>
+<p>Anstalt: 1854-58</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie, Geistesstörung (1854)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Neujahrswünsche an den Arzt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb120h14a.jpg" xml:id="image_054"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_054"/>
+<opener>
+<dateline><hi rendition="#r">München den 25 Dezember 1855</hi></dateline>
+<salute><hi rendition="#c">Hochwohlgeborener, Hochzuverehrenter<lb break="yes"/>Herr Direcktor</hi></salute>
+</opener>
+<p>Endschuldigen Sie meine Freiheit, mit der wage meine armselige Glückswü<add place="above">n</add>sche<lb break="yes"/>und Danckbarkeit darzulegen zu
+                herannäherung des neuen Jahres.<lb break="yes"/>der liebe Gott möge Ihnen Glück und
+                Segen ergißen laßen,<lb break="yes"/>über Sie, und Ihre werthe Familie; und moge
+                Ihnen vergelden;<lb break="yes"/>in reichliche Fülle von Ihren eigenen Kindern; für
+                all das<lb break="yes"/>Gute was Sie Hochwohlgeborner Herr Direcktor ausüben in<lb break="yes"/>wahrhaft christlicher Nächstenliebe; an meiner armen
+                    vielgebrüften<lb break="yes"/>Tochter; ich empfehle Sie nun auch für dießes neue
+                Jahr, so lange<lb break="yes"/>es der Him̄el beschloßen hat; in Ihrer
+                vätterlichen Aufsicht<lb break="yes"/>und gewogenheit; daß sind die kurzen; aber von
+                    Herzen<lb break="yes"/>gutgemeinten Wünsche und Bitten einer unglücklichen Mutter.<lb break="yes"/><seg ana="#salute">Es empfiehlt sich
+                    nun in aller Hochachtung unterthänigst</seg><lb break="yes"/><seg ana="#signed">An̄a <surname>S.</surname><lb break="yes"/>Mutter der
+                    An̄a <hi rendition="#u"><surname>H.</surname></hi></seg></p>
+<p><handShift medium="ink" scribe="arzt"/>d. 2. April 56<lb break="yes"/>Noch ungleich,
+                zuweilen <unclear>redihrt</unclear><lb break="yes"/>d. 1. Novbr 56 <del>zu</del>
+                Brief an d. Mutter. −<lb break="yes"/><del>Noch gleich; sie
+                        <unclear>bindet</unclear> sich im̄er noch ein.</del></p>
+</body>
+</text>
+</TEI>

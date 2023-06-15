@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1145l15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1145</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ignaz <surname>L.</surname></persName>
+<date type="sent">ca. 1866-1869</date>
+<date type="received"/>
+<persName type="addressee">Kaiserin:  <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1145l">
+<persName>
+<forename>Ignaz</forename>
+<surname>L.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Kreis-Kassa-Controlleur (Amtsbürgschaft 1600 Fl, Pension 1400 Fl)</occupation>
+<residence>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: </p>
+<p>Anstalt: 1866-1869</p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Hypochondrie (1865),  Trunksucht (1867)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet die Kaiser um Überreichung eines Schreibens an ihren Gatten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1145l15.jpg" xml:id="image_039"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_039"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Allerdurchlauchtigste <hi rendition="#u">Keiserin</hi></hi>
+<lb break="yes"/>⏐ </hi></salute>
+</opener>
+<p> Eine Gattin liebt Ihren Gatten eine Fürstin ihren Thron <lb break="yes"/>Auf
+                dise <unclear>begreidte</unclear> Voraussetzung hier − <del>wage ich es</del>
+<lb break="yes"/>bin ich veranlaßt. <hi rendition="#i">E. K. Maj</hi>. um die
+                    <unclear>herallerhuldvollste</unclear>
+<lb break="yes"/><unclear>bebizste</unclear> Ueberreichung der Anlage an <hi rendition="#i"><del>Ja</del> Allerhöchst <lb break="yes"/>Ihro</hi> Gemahl
+                allerehrbietigst zu bitten. </p>
+<p>Es geschieht nicht ohne Grund − die Wahl <lb break="yes"/>dieses Weges </p>
+<p>E. Kais. <hi rendition="#i">Maj</hi>. um allerhuldvollste <lb break="yes"/>Entschuldigung bittend − erflehe ich des <lb break="yes"/>Himmels Segen über
+                Allerhöchst <hi rendition="#i">Die</hi>selbe <lb break="yes"/>und Ihr ganzes Haus <lb break="yes"/><hi rendition="#c">In allertiefste Ehrfurcht ersterbe</hi>
+</p>
+</body>
+</text>
+</TEI>

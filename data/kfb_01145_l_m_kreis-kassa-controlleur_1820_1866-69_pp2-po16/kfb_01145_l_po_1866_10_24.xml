@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1145l02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Judith Willberg</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1145</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ignaz <surname>L.</surname></persName>
+<date type="sent">24.10.1866</date>
+<date type="received"/>
+<persName type="addressee">König:  <surname/></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1145l">
+<persName>
+<forename>Ignaz</forename>
+<surname>L.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Kreis-Kassa-Controlleur (Amtsbürgschaft 1600 Fl, Pension 1400 Fl)</occupation>
+<residence>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: </p>
+<p>Anstalt: 1866-1869</p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Hypochondrie (1865),  Trunksucht (1867)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet den König um Unterstützung für den Winter.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1145l02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb1145l02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Allerdurchlauchtigster <lb break="yes"/>Großmächtigster König! <lb break="yes"/>Allergnädigster
+                            König und Herr!</hi></hi>
+</salute>
+</opener>
+<p> Wenn ich von einer Stätte aus, die nur Bilder des Jammers und <lb break="yes"/>Elends bietet,. und an die ich in Folge unverständiger fehlerhafter <lb break="yes"/>Behandlung auf einige Zeit zu gehen gezwungen war, an <lb break="yes"/><hi rendition="#i">Euere Koenigliche Majestät</hi> eine
+                allerunterthänigste Bitte <lb break="yes"/>richte, so vertraue ich <hi rendition="#i">Allerhöchst Ihrem</hi> fühlenden Herzen. <lb break="yes"/>Wüßten <hi rendition="#i">Euere Koenigliche Majestät</hi> die Verhältniße <lb break="yes"/>in Wahrheit. nimmermehr würden <hi rendition="#i">Allerhöchst Sie</hi>
+<lb break="yes"/>Hülfe ensagen. </p>
+<p>Eure Unterstützung - nur dazu dienend- mich mit dem <lb break="yes"/>Nothwendigsten
+                für den Winter zu versehen - und nicht <lb break="yes"/>an mich sondern an die
+                Direcktion der Anstalt gesendet <lb break="yes"/>würde nicht nur einem wahrhaften
+                Bedürfniße abhelfen <pb facs="#image_004"/> sondern auch dem so nothwendigen
+                geistigen Muthe <lb break="yes"/>eine Stütze gewähren. </p>
+<p><hi rendition="#i">Euere</hi>
+<hi rendition="#i">Koenigliche Majestät</hi>, der Segen des Him̄els <lb break="yes"/>begleite <hi rendition="#i">Allerhöchst Sie</hi> auf der Reise nach
+                    R<hi rendition="#i">om</hi>
+<lb break="yes"/><seg ana="#salute">Mit diesem innigen Wunsche,  verharre in
+                    trostvoller <lb break="yes"/>Hoffnung in <lb break="yes"/><hi rendition="#c">allertiefster Ehrfurcht <lb break="yes"/>Vor <lb break="yes"/><hi rendition="#i">Euerer Koeniglichen Majestät</hi>
+<lb break="yes"/>⏐</hi>
+<lb break="yes"/><hi rendition="#r">allerunterthänigst <lb break="yes"/>treugehorsamster</hi>
+<lb break="yes"/>⏐ <lb break="yes"/><seg ana="#signed"><hi rendition="#i">Icnaz <surname>L.</surname></hi></seg>. <lb break="yes"/>kb p.
+                        <w>Kreis Casa <hi rendition="#i">Controlleur</hi></w></seg>
+</p>
+<p><add place="margin"><hi rendition="#i"><w>Kreis Irren Anstalt</w></hi>
+<lb break="yes"/><hi rendition="#i">Irrseè</hi>
+<lb break="yes"/>bf <hi rendition="#i">Kaufbeuern</hi>
+<lb break="yes"/>d. 24<hi rendition="#sup">t</hi>
+<hi rendition="#i">October</hi> 1866.</add>
+</p>
+</body>
+</text>
+</TEI>

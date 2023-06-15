@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun916d06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>916 (K. 440)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Katharina <surname>D.</surname></persName>
+<date type="sent">17.07.1896</date>
+<date type="received"/>
+<persName type="addressee">Ehemann:  <surname/></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mun916d">
+<persName>
+<forename>Katharina</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1822-06-06"/>
+<death cert="unknown"/>
+<occupation>Ackerfrau</occupation>
+<residence>Geburtsort: Heek; Wohnort: Heek</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Ackerer, Mutter: ohne Beruf</p>
+<p>Anstalt: 04.05.1895-08.10.1897</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1895)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand4"/>
+<handNote medium="pencil" scope="minor" scribe="hand5"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin teilt mit, dass ihr Tod naht.
+                    Sie bittet deshalb darum, dass Messen für sie gelesen werden, dass der Adressat sie besucht, und dass er es den Kindern mitteilt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun916d06.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline><add hand="hand3"><unclear>S</unclear> 17/<hi rendition="#sub">7</hi>
+                        96 <hi rendition="#u" style="hand4">ad acta</hi></add>
+<add hand="hand5"><hi rendition="#u" style="hand4"><hi rendition="#i">Frau</hi>
+<surname><hi rendition="#i">D.</hi></surname></hi></add>
+<lb break="yes"/><add hand="hand3"><hi rendition="#c">G</hi>
+</add><lb break="yes"/><add hand="vordruck">Provinzial=Anstalt zu Münster i.W.,
+                        den ...189</add></dateline>
+<salute><hi rendition="#c">Lieber Mann</hi></salute>
+</opener>
+<p>Mein Ende ist Nahe bitte <lb break="yes"/>las ein Paar h.
+                Messen <lb break="yes"/>lesen und haltet die <del>T</del> 9
+                    thägie<unclear>ge</unclear><add place="below">ge</add>
+<lb break="yes"/>andagt für mig es hält mich <lb break="yes"/>Zwar währe ich doch
+                bei euh <lb break="yes"/>Ich Vergebe euch alles wen <lb break="yes"/><w>du</w><w>eben</w> kaust so komme doch <lb break="yes"/>um den letzten
+                Alschied zu <lb break="yes"/>nehmen <seg ana="#salute">GruSze euch alle</seg>
+<lb break="yes"/>ich kann nicht mehr Schreibe <lb break="yes"/>es den Kindern </p>
+</body>
+</text>
+</TEI>

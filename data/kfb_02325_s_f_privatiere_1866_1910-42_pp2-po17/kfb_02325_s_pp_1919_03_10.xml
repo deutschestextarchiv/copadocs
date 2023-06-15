@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2325s06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2325</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>S.</surname></persName>
+<date type="sent">10.03.1919</date>
+<date type="received"/>
+<persName type="addressee">Schwester: Marie <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2325s">
+<persName>
+<forename>Anna</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1866"/>
+<death when="1942"/>
+<occupation>Privatiere</occupation>
+<residence>Augsburg, Wohnort München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: </p>
+<p>Anstalt: 1910-42</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>manisch=depressives Irresein (18.04.1911)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ballpoint" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+<handNote medium="pencil" scope="minor" scribe="unbekannt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    ist von Kaufbeuren nach Irsee gezogen, fühlt sich wohl in der Anstalt, 
+                    bittet ihre Schwester um einen Besuch
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2325s06a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="kfb2325s06b.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="kfb2325s06c.jpg" xml:id="image_019"/>
+<graphic mimeType="image/jpg" url="kfb2325s06d.jpg" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline><hi rendition="#r">Ir<hi rendition="#i">see</hi>, 10. <hi rendition="#i">März</hi> 19.</hi></dateline>
+<salute><hi rendition="#i">Meine liebe Schwester Marie!</hi></salute>
+</opener>
+<p><space/> Vor allem liebste Schwe<lb break="no"/>ster, wie geht es Dir? Bist <lb break="yes"/>Du immer gesund und <lb break="yes"/>munter? All zu gut wird <lb break="yes"/>es Dir bei den jetzigen <lb break="yes"/>schwierigen Verhältnissen
+                    <lb break="yes"/>auch nicht gehen. Besonders <lb break="yes"/>mit den
+                Lebensmitteln <lb break="yes"/>wird es sehr schwer sein. <lb break="yes"/>Es wird
+                doch bald eine <lb break="yes"/>andere Zeit kommen.<pb facs="#image_018"/>Und nun zu
+                mir. Daß ich von <lb break="yes"/><hi rendition="#i">Kaufbeuren</hi> nach Ir<hi rendition="#i">see</hi> kam, <lb break="yes"/>wirst Du wohl schon wissen. <lb break="yes"/>Es ist hier ganz gemütlich, <lb break="yes"/>auch die Verpflegung
+                ist <lb break="yes"/>sehr gut. Habe auch schon um <lb break="yes"/>etliche Pfund
+                zugenommen. <lb break="yes"/>Ich kann mich so über nichts <lb break="yes"/>beklagen.
+                Besonders freuen <lb break="yes"/>würde es mich, wenn Du <lb break="yes"/>liebe
+                Schwester einmal <lb break="yes"/>auf Besuch kommen würdest. <lb break="yes"/>Vielleicht könnten Du <lb break="yes"/>meinen Wünschen bald <lb break="yes"/>nach
+                kommen, um ein<lb break="no"/>mal gemütlich zu plaudern. <lb break="yes"/>Und nun
+                zum Schlusse <pb facs="#image_019"/>sei recht herzlich gegrüßt <lb break="yes"/>und
+                auf ein baldiges <lb break="yes"/>Wiedersehen freut sich <lb break="yes"/><hi rendition="#r">Deine <lb break="yes"/>Schwester <hi rendition="#i">Anna</hi>.</hi>
+<pb facs="#image_020"/><handShift medium="ink"/>Fräulein Marie <surname><hi rendition="#u">S.</hi></surname>
+<lb break="yes"/>in <lb break="yes"/><add place="above">Nicht ermittelt!
+                    Zurück</add><lb break="yes"/><del><hi rendition="#u"> München</hi></del>
+<lb break="yes"/><del><hi rendition="#u">Adalberstrasse 49</hi></del>
+<lb break="yes"/><handShift medium="pencil"/><del>49 I <hi rendition="#i">unbekannt</hi>
+<lb break="yes"/>Frl. <surname><hi rendition="#i">S.</hi></surname></del></p>
+</body>
+</text>
+</TEI>

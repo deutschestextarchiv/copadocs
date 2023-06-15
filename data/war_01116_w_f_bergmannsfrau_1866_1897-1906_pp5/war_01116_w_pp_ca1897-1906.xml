@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="war1116w02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 660: Warstein</collection>
+<idno>1116 (K. 240)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabeth <surname>W.</surname></persName>
+<date type="sent">ca. 1897-1906</date>
+<date type="received"/>
+<persName type="addressee">Ehemann: Bernard <surname>W.</surname></persName>
+<settlement type="sent">Warstein</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="war1116w">
+<persName>
+<forename>Elisabeth</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1866-11-06"/>
+<death when="1906-10-09"/>
+<occupation>Bergmannsfrau</occupation>
+<residence>Geburtsort: Nordenfeldmark; Wohnort: Westerloh</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Tagelöhner, Mutter: Ehefrau</p>
+<p>Anstalt: 08.06.1897-09.10.1906</p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Hebphrenie (1897)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin erkundigt sich nach dem Befinden verschiedener Familienmitglieder 
+                    und bittet darum, abgeholt zu werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="war1116w02a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="war1116w02b.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber Mann</hi></salute>
+</opener>
+<p>In der besten Gesundheit muß ich <lb break="yes"/>Dir einige Rechen schreiben, es
+                geht <lb break="yes"/><unclear>m</unclear>ir jetzt ganz gut. Aber Grämen <lb break="yes"/>kan ich mich zum Tode Wenn ich die <lb break="yes"/>lange Zeit Nachdenke die ich hier <lb break="yes"/>so Verlassen
+                gewesen bin. Schreibe <lb break="yes"/>mir wie es meinen Sohn Heinrich <lb break="yes"/>der kömmt Nächstes Jahr, geht. <lb break="yes"/>Schon zur hl
+                Kominjon Wenn du <lb break="yes"/>kanst, das diers an Geld nicht Mangelt <lb break="yes"/>laß uns mal Einmal Hinreisen <lb break="yes"/>nach Düsseldorf.
+                Schreibe mir wieder <lb break="yes"/>wie es deinen Eltern zu Oelde geht. <lb break="yes"/>Von dir Hoff ich nichts weiters das mir <lb break="yes"/>bald
+                Wiederholst. Alleine lassen sie mir <pb facs="#image_005"/>
+<del>g</del> nicht Gehen. Wie ich hoffe wirst du <lb break="yes"/> ja auch wohl
+                Gesund sein, Du muß <lb break="yes"/> mir sobald wie <w>mög lich</w> Wiederholen <lb break="yes"/> Wenn du es selbst nicht kanst, dann <lb break="yes"/> schreibe zu
+                deinen Brüdern nach Oelde <lb break="yes"/> das die mich Wiederholen. Weiters <lb break="yes"/> kann ich dich erst nicht Mehr schreiben <lb break="yes"/> Hiermit
+                will ich schließen. Der <lb break="yes"/> Brief wird dich wohl bald antreffen. <lb break="yes"/> Und Voraln nicht Nachläßig sein <lb break="yes"/> im Wiederholen.
+                <seg ana="#salute">Es grüßet deine</seg> <lb break="yes"/>
+<hi rendition="#r">Frau <seg ana="#signed"><hi rendition="#i">Liezä</hi>tte <surname><hi rendition="#i">S.</hi><!--Mädchenname--></surname></seg>. <lb break="yes"/> Untere <hi rendition="#i">A</hi>dreß<hi rendition="#i">e</hi> heißt <hi rendition="#i">A</hi>n <lb break="yes"/> <hi rendition="#i">Bernard</hi> <hi rendition="#i"><surname>W.</surname></hi>
+<lb break="yes"/> in <hi rendition="#i">Westerholt</hi> <lb break="yes"/> <hi rendition="#i">A</hi>mt <hi rendition="#i">B</hi>ur <hi rendition="#i">N</hi>r
+                        <unclear>1.</unclear>
+<lb break="yes"/> <hi rendition="#i">Wohnhaus</hi> <hi rendition="#i"><surname>E.</surname></hi></hi>
+</p>
+</body>
+</text>
+</TEI>

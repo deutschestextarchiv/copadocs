@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="war1116w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 660: Warstein</collection>
+<idno>1116 (K. 240)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabeth <surname>W.</surname></persName>
+<date type="sent">22.01.1903</date>
+<date type="received"/>
+<persName type="addressee">Mutter:  <surname/></persName>
+<settlement type="sent">Warstein</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="war1116w">
+<persName>
+<forename>Elisabeth</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1866-11-06"/>
+<death when="1906-10-09"/>
+<occupation>Bergmannsfrau</occupation>
+<residence>Geburtsort: Nordenfeldmark; Wohnort: Westerloh</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Tagelöhner, Mutter: Ehefrau</p>
+<p>Anstalt: 08.06.1897-09.10.1906</p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Hebphrenie (1897)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin berichtet, dass sie im Frühjahr nach Amerika gehen will.
+                    Sie erwartet ein Erben.
+                    Sie beklagt sich, dass man ihr ihr Kind weggenommen hat.
+                    Sie will für Heinrich etwas zur Kommunion kaufen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="war1116w04a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="war1116w04b.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="war1116w04c.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="war1116w04d.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Liebe Mutter</hi></salute>
+</opener>
+<p><add hand="hand2">22/1 03 <lb break="yes"/><hi rendition="#u" style="hand3">ad acta
+                        Frau <surname><hi rendition="#i">W.</hi>b<hi rendition="#i">esloh</hi></surname></hi></add></p>
+<p>Ich ergreife <unclear>/</unclear> die Feder um Dir <lb break="yes"/>das Nötigste
+                mitzutheilen <lb break="yes"/>Wie geht es Heinrich und <w>mei <lb break="no"/>ne</w>
+                Brüder. Ich habe nun <w>lan <lb break="no"/>ge</w> nichts von euch gehört. <lb break="yes"/>Und doch muß ich mich viel <lb break="yes"/>grämen das ich noch in der <lb break="yes"/>Anstalt bin. Es kann noch <lb break="yes"/>wohl treffen das ich im <lb break="yes"/>Frühjahr nach <hi rendition="#i">A</hi>merika <lb break="yes"/>geh, wenn ich das nötige <lb break="yes"/>Geld dazu hab, dann kans <lb break="yes"/>noch wohl werden, denn
+                    <lb break="yes"/>bei meinen <hi rendition="#i">M</hi>ann geh ich doch <lb break="yes"/><hi rendition="#c">nicht</hi>
+</p>
+<pb facs="#image_009"/>
+<p>Denn Fletur ich noch lange <lb break="yes"/>nicht. Ich hab von euch so <lb break="yes"/>wenig wie von mein Mann <lb break="yes"/>darum sollt ihr an mich
+                die <lb break="yes"/>Poten nicht abwischen. Es <lb break="yes"/>kann noch wohl
+                treffen das <lb break="yes"/>ich 38000 Thaler Erbe Königliche <lb break="yes"/><seg ana="#salute">Es grüßt</seg>
+<seg ana="#signed">eure Tochter</seg>
+<lb break="yes"/><hi rendition="#i">Verlobung</hi>
+</p>
+<pb facs="#image_010"/>
+<p>Genug ist es traurig in allen <lb break="yes"/>das ihr mir das
+                Kind <w>wegge <lb break="no"/>nommen</w> habt, und noch <w>schlech <lb break="no"/>ter</w> ist es von mein Mann <lb break="yes"/>das er ein Kind im <lb break="yes"/>Leben nicht aufpassen. <lb break="yes"/>Aber die <seg ana="#curse">Geizhälse</seg> sollen <lb break="yes"/>bald ihr Lohn zählen an <lb break="yes"/>höchsten Galgen solln noch <lb break="yes"/><space/>
+<seg ana="#salute">Es grüßt</seg>
+<seg ana="#signed">Lisätte Jappe </seg></p>
+<pb facs="#image_011"/>
+<p>Ferner helf mir denken <unclear>das</unclear>
+<lb break="yes"/>ich bald Zeug kauf für Heinr<unclear>ich</unclear>
+<lb break="yes"/>zur Konmijon, schreibe mir <lb break="yes"/>wie es ihm geht. Wenn
+                ihr <lb break="yes"/>euch nicht mehr um beküm<unclear>mert</unclear>
+<lb break="yes"/>wie ich mal selbst gesehn <lb break="yes"/>hab. Er ist eimmal in
+                        <w><hi rendition="#i">We</hi><unclear>s</unclear>
+<lb break="no"/>terholt</w> vorm Hause herheko<unclear>mmen</unclear>
+<lb break="yes"/>aber so verlassen wie er aus<unclear>sah</unclear>
+<lb break="yes"/>hab ich noch nie ein Kind gesehn <lb break="yes"/><hi rendition="#i">D</hi>as es ihm an Nahrung fehlt <lb break="yes"/>hab ich gesehn. Hirmit hab
+                ich <lb break="yes"/>mein Man aufgefordert <lb break="yes"/>wo er eigentlich wär,
+                darnach <lb break="yes"/>hab ich nachts im Traum gese<unclear>hn</unclear>
+<lb break="yes"/>das er grausam hingerichtet <lb break="yes"/>Solche Tage hab ich
+                viel zu <lb break="yes"/>sehn obs al in Erfüllung <add place="below">geht,</add>
+</p>
+</body>
+</text>
+</TEI>

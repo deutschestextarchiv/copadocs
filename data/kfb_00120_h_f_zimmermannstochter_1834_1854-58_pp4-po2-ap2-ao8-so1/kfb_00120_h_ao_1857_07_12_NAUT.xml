@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb120h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>120</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>S.</surname></persName>
+<date type="sent">12.07.1857</date>
+<date type="received"/>
+<persName type="addressee">Arzt:  <surname/></persName>
+<settlement type="sent">Schwabing</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb120h">
+<persName>
+<forename>Anna</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Zimmermannstochter</occupation>
+<residence>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Zimmermann, "ohne Vermögen"</p>
+<p>Anstalt: 1854-58</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie, Geistesstörung (1854)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>offizieller Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Mutter hofft auf Heilung der Tochter, diese denkt, von einem Arzt
+                    geheiratet zu werden (?), Arzt bezweifelt dies</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb120h01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb120h01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c">Schwabing den 12 July 1857.</hi></dateline>
+<salute><hi rendition="#c">Euer Wohlgeborn!</hi><lb break="yes"/>
+<hi rendition="#i">Hochzuverehrender Herr Doctor!</hi></salute>
+</opener>
+<p>Herzlich dankend für die dem Briefe meiner Tochter angefügten<lb break="yes"/>Zeilen
+                bezüglich der Geisteszustand gebe ich mir die Ehre Ew<lb break="yes"/>Wohlgeborn zu
+                bemerken, daß ich meiner Anna bezüglich deren<lb break="yes"/>Einbildung wegen einen
+                Assistenzarzt <hi rendition="#i"><surname>C.</surname></hi> in dem Briefe<lb break="yes"/>alle möglichen Vorstellungen gemacht habe, und bitte auch<lb break="yes"/><hi rendition="#i">Ew Wohlgeborn</hi> alles aufzubiethen um diese
+                    unglükliche<lb break="yes"/>Person wieder zur Vernunft zu
+                bringen. Ehe und bevor<lb break="yes"/>sie ganz geheilt ist, kann natürlich keine
+                    Entlassung<lb break="yes"/>erfolgen, denn ein Rükfall würde neue Kosten der<lb break="yes"/>Hinschaffung veranlassen. Vielleicht ist doch noch Hilfe<lb break="yes"/>möglich und ich vertraue ganz auf die Wissenschaft<lb break="yes"/>Ew. Wohlgeborn welcher die Wiederherstellung meiner<lb break="yes"/>Anna noch
+                gelingen wird.</p><p><seg ana="#salute">Ich empfehle mich den ferneren Wohlwollen Ew.<pb facs="#image_002"/>Wohlgeborn
+                    auf das Herzlichste sowie ich meine Tochter<lb break="yes"/>der ferneren
+                    Geneigtheit Ew Wohlgeborn empfehle<lb break="yes"/>und meinen innigsten Dank für
+                    die Mitnahme meiner<lb break="yes"/>Anna zu einer Landparthie hiemit erstatte,
+                    und Bitte<lb break="yes"/>die Gefühle der reinsten Hochverehrung und<lb break="yes"/>ausgezeichnetsten Hochachtung zu genehmigen<lb break="yes"/>mit welchen ich
+                    geharre als</seg></p>
+<p><space/> <seg ana="#signed">Euer Wohlgebren</seg></p>
+<p><seg ana="#salute"><hi rendition="#r">dankbare</hi><lb break="yes"/><seg ana="#signed">Anna
+                    <surname>S.</surname></seg></seg></p>
+<p>
+<handShift scribe="arzt"/>d. 13 Juli 57<lb break="yes"/>Ehe ich den eben
+                    angelangten<lb break="yes"/>Brief an An̄a übergebe, halte<lb break="yes"/>ich für nothwendig, nochmals an<lb break="no"/>zufragen, ob die Nachricht von<lb break="yes"/>der Verheirathung u. dem<lb break="yes"/>Tode <hi rendition="#i">Dr
+                    Chandons</hi> wirklich wahr sei.<lb break="yes"/>Ich habe Gründe daran zu
+                    zweifeln.<lb break="yes"/>Auf keinen Fall dürfte An̄a in dieser<lb break="yes"/>Beziehung etwas Unwahres vorgespielt werden, den̄<lb break="yes"/>entweder glaubt sie es nicht, oder wen̄ sie es glaubt, so
+                ist die Sache<lb break="yes"/>nach ihrer Enlassung, wen̄ sie hört, daß er
+                doch noch lebt, schlim̄er als zuvor.<lb break="yes"/>Wen̄ also die
+                Nachricht nicht wahr ist, so ersuche ich Sie, einen anderen<lb break="yes"/>Brief zu
+                schreiben, da ich in diesem Fall den bereits geschickten nicht übergeben werde. </p>
+</body>
+</text>
+</TEI>

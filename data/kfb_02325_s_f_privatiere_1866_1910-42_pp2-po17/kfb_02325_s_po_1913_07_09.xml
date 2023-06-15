@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2325s14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2325</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>S.</surname></persName>
+<date type="sent">09.07.1913</date>
+<date type="received"/>
+<persName type="addressee">Regierung von Schwaben u. Neuburg</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2325s">
+<persName>
+<forename>Anna</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1866"/>
+<death when="1942"/>
+<occupation>Privatiere</occupation>
+<residence>Augsburg, Wohnort München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: </p>
+<p>Anstalt: 1910-42</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>manisch=depressives Irresein (18.04.1911)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie bittet um Entlassung, weil sie gesund ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2325s14.jpg" xml:id="image_049"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_049"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren</hi> 9.7.13.</hi></dateline>
+<salute>An die kgl. Regierung v. <hi rendition="#i">Schwaben u. Neuburg</hi>
+<lb break="yes"/>stelle ich hiemit folgendes <lb break="yes"/><hi rendition="#c"><hi rendition="#i">Entlassungsgesuch</hi>.</hi></salute>
+</opener>
+<p>Da ich mich weder für geisteskrank, noch für <lb break="yes"/>geistesgestört
+                halte; da ich weder an Wahn<lb break="no"/>vorstellungen, fixen Ideen, Gefühls-
+                Gehörs- <lb break="yes"/>Gesichts- Sinnestäuschungen, hysterischen oder <lb break="yes"/>epileptischen Anfällen leide, noch gelitten <lb break="yes"/>habe;
+                da ich weder pflege- noch hilfsbedürftig <lb break="yes"/>bin − auch eine
+                strafbare Handlung nicht <lb break="yes"/>begangen habe, verlange ich meine <lb break="yes"/>sofortige Entlassung. <lb break="yes"/><hi rendition="#r"><hi rendition="#i"><seg ana="#signed">Anna <surname>S.</surname>.</seg></hi>
+<lb break="yes"/>z. Zt. Irrenanstalt.</hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1145l01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Judith Willberg</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1145</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ignaz <surname>L.</surname></persName>
+<date type="sent">12.09.1866</date>
+<date type="received"/>
+<persName type="addressee">Direktor:  <surname/></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1145l">
+<persName>
+<forename>Ignaz</forename>
+<surname>L.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Kreis-Kassa-Controlleur (Amtsbürgschaft 1600 Fl, Pension 1400 Fl)</occupation>
+<residence>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: </p>
+<p>Anstalt: 1866-1869</p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Hypochondrie (1865),  Trunksucht (1867)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet den Direktor um seine Zustimmung zu einem Vorhaben und um Stillschweigen darüber.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1145l01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1145l01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><space/> Euer Hochwohlgebor<unclear>en</unclear>!<lb break="yes"/>Hochverehrter Herr Direcktor!</hi></salute>
+</opener>
+<p>entschuldigen - die Freyheit einer Bitte - natürlich unter dem Vorbehalt <lb break="yes"/>strengster <hi rendition="#i">Discretion</hi>. Ihr <hi rendition="#i">Beckmann</hi> ist nicht mehr. Sie brauchen <lb break="yes"/>einen andern. Im
+                Ernst habe ich noch nie die Bühne betretten <lb break="yes"/>hätte aber Lust. Wollen
+                Sie es wagen und mich als Zögling auf<lb break="no"/>nehmen. Ich brauche in <hi rendition="#i">Wien</hi> Nichts als nur die Mittel für den <lb break="yes"/><hi rendition="#u">nothwendigst</hi>en Unterhalt; <w>Reise Kosten Vorschuß</w>.
+                und zur nöthigsten <lb break="yes"/>Ausstattung. In. 6. 7 Monaten zahle ich solchen
+                heim. da mir <lb break="yes"/>bis dahin ein <hi rendition="#i">Capital</hi>
+<unclear>einbezalt</unclear> wird. </p>
+<p>Daß ich die nöthig<unclear>e</unclear> Bildung und Anlagen besitze - darüber keine <lb break="yes"/>Sorgen - es ist ein Versuch - gelingt er nicht - gehe
+                ich zurück. <lb break="yes"/>Niemanden darf - Niemanden soll hierum wißen - das <lb break="yes"/>ist <hi rendition="#i"><foreign xml:lang="lat">conditio sine qua
+                        non</foreign></hi>. </p>
+<p>Manches. Anfangs Sonderbar scheinend ist ge<unclear>w</unclear>ichen - ich <pb facs="#image_002"/>glaube <unclear>feselz</unclear> ansprechen zu dürfen. <lb break="yes"/><space/> Sind Sie einverstanden - rasche Antwort! <lb break="yes"/><seg ana="#salute"><hi rendition="#c">Mit aller
+                        Verehrung!</hi></seg>
+<lb break="yes"/>Ihr <lb break="yes"/><add place="margin"><hi rendition="#i">Augsburg</hi> d. 12/<hi rendition="#sub">9.</hi> 66.</add>
+<hi rendition="#c">⏐</hi>
+<lb break="yes"/><hi rendition="#r">⏐</hi>
+<lb break="yes"/><hi rendition="#r">ergebenster</hi>
+<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Icnaz
+                                <surname>L.</surname></hi>.</seg></hi>
+<lb break="yes"/><hi rendition="#r">hr. t. kb. p. <lb break="yes"/>K. K. C.</hi>
+<lb break="yes"/><hi rendition="#c"><hi rendition="#u">Regenbogen</hi>
+<lb break="yes"/><hi rendition="#i">Wertach<hi rendition="#u">brucker
+                        Thor</hi></hi>
+<lb break="yes"/>1.</hi>
+</p>
+<p><add place="margin">In erster Zeit würde ich unter <lb break="yes"/>falschen Namen
+                    operien <lb break="yes"/>aus Gründen - die ich mündlich <lb break="yes"/>darlegen kann.</add>
+</p>
+</body>
+</text>
+</TEI>

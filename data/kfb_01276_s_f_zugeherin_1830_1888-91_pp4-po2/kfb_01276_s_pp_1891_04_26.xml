@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1276s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Angela Hofmann</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1276</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Charitas <surname>S.</surname></persName>
+<date type="sent">26.04.1891</date>
+<date type="received"/>
+<persName type="addressee">"Alle":  <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1276s">
+<persName>
+<forename>Charitas</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1830"/>
+<death cert="unknown"/>
+<occupation>Zugeherin in München</occupation>
+<residence>Hiltenfingen, Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Södner; Vermögen früher: "Sie sei vermögend gewesen"</p>
+<p>Anstalt: 1888-91</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>halluzinatorische Verwirrtheit (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    wundert sich über fehlende Post, kein Besuch unerklärlich
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1276s05a.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb1276s05b.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 26<hi rendition="#sup">ten</hi> Aprill 1891.</hi></dateline>
+<salute><hi rendition="#c">Meine lieben Alle!</hi></salute>
+</opener>
+<p> Was die Ursache wohl sein mag<lb break="yes"/> daß ich von Euch nichts höhre,<lb break="yes"/> seith Ihr denn <del>v</del> alle krank,<lb break="yes"/> oder zu faul, wie
+                schnell wäre eine <lb break="yes"/> Postkarte geschrieben die 5 Pfn.<lb break="yes"/> kostet, wo der Postb. thäglich zu<lb break="yes"/> Euch: komt und das Blatt
+                    bringt.<lb break="yes"/> Indem <add>ich</add> mich überzeugt habe, daß<lb break="yes"/> Ihr alle: Deusch schreiben, gelernt <lb break="yes"/> habet, wenn
+                sich die Krankheit<lb break="yes"/> bei meiner l. Schwester Kath.<lb break="yes"/>
+                verschlim̄ert, Sie hätte mich doch<lb break="yes"/> gewiß besucht, oder
+                Nachricht ge<lb break="no"/> geben. Obgleich die Witterung<lb break="yes"/> sehr
+                mißlich u. der Weg schlecht,<lb break="yes"/> so ist mirs doch unerklärlich. <pb facs="#image_017"/> Es komen Die fielen Feuer<lb break="no"/> tage, wo ich mich
+                gefreuth habe<lb break="yes"/> Euch zu sehen u. sprechen zu könen<lb break="yes"/>
+                da Ihr doch alle wustet, wo ich bin<lb break="yes"/> u. wie ich mich, um Euer
+                    haus<lb break="no"/>
+<unclear>wesen kümmerte</unclear>.<lb break="yes"/> Liebe Schwester Maria, geth
+                    es<lb break="yes"/> recht gut Ihr würdet Euch stau<lb break="no"/> nen, Herr
+                Oberartzt ließ uns<lb break="yes"/> ein Zimmer ganz allein geben<lb break="yes"/> um
+                meine l. Schwester Maria<lb break="yes"/> zu beobachten, sie ist nun seid<lb break="yes"/> 8 Tagen so gut, spricht vernünftig<lb break="yes"/> u. arbeited
+                geth, in die Küche spielt<lb break="yes"/> daß Geschirr ab, hält sich besonders <lb break="yes"/> reinlich macht auch daß bett, u. kan<lb break="yes"/> schlafen es
+                war auch ihr Mann hier<lb break="yes"/> wir freuten uns beide
+                und so denke ich<lb break="yes"/> mit Gotteshilfe, daß sie bald abgeholt wird<lb break="yes"/> u. ich dan auch frei werde, wo ich dan auch so lang<lb break="yes"/> es mir <add>bei Ihr</add> gefelt bleiben werde. Herzliche Grüße an Euch alle<lb break="yes"/>
+<hi rendition="#c">Ccharitas <surname>S.</surname>.</hi></p>
+<p><add place="margin">Zirill <surname><unclear>B.</unclear></surname> Schmidmeister in Blonhofen</add>
+</p>
+</body>
+</text>
+</TEI>

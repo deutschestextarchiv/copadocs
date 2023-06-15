@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb120h13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>120</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>H.</surname></persName>
+<date type="sent">23.05.1856</date>
+<date type="received"/>
+<persName type="addressee">Direktor:  <surname/></persName>
+<settlement type="sent">Irsee&gt;</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb120h">
+<persName>
+<forename>Anna</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Zimmermannstochter</occupation>
+<residence>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Zimmermann, "ohne Vermögen"</p>
+<p>Anstalt: 1854-58</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie, Geistesstörung (1854)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/><!--anpassen!-->
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Geburtstagsbrief an den Arzt, Lob an den Arzt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb120h13a.jpg" xml:id="image_053"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_053"/>
+<opener>
+<dateline><hi rendition="#r">Irrsee den 23 Mai<lb break="yes"/>1856.</hi></dateline>
+<salute><hi rendition="#c">Hochzuverehrender Werthester Herr Direcktor!</hi></salute>
+</opener>
+<p>An dem Tage Ihres hohen Namen̄sfestes, fühlt mein Herz,
+                mehr als sonst sich verpflichtet,<lb break="yes"/>zu danken für die vielen
+                Wohlthaten, die Sie mir durch Ihre Güte während der ganzen<lb break="yes"/>Zeit
+                meines Hierseins angedeihen ließen. der Allgütige wolle Sie noch recht viele<lb break="yes"/>solche Tage im Kreise Ihrer lieben Familie erleben laßen, auf daß
+                Sie, noch recht lange,<lb break="yes"/>gesund und vergnügt, der leidenten Menschheit
+                nützen, und durch Wohlthun und Güte<lb break="yes"/>auf die rechte Bahn
+                zurückführen, und für das Leben wieder <w>empfänglich</w><w>machen</w>. O, möge<lb break="yes"/>Ihnen als getreuen
+                Arbeiter im Garten des Herrn, nicht die Krone des ewigen<lb break="yes"/>Lebens
+                erblühen die er Allen den̄en verheißen, die den Unglücklichen mit Rath<lb break="yes"/>und That beistehen und Ihnen Gutes
+                thun. Es war recht schön hir und ich habe viele<lb break="yes"/>kleine Freuden hier erlebt, aber ich kan̄ nicht vergessen daß
+                ich die glücklichste<lb break="yes"/>Zeit meines Lebens im
+                Krankenhauße zugebracht, und ich mich mit ganzer Seele<lb break="yes"/>fort sehne.
+                Ich scheine glücklich, aber der Herr der ins Verborgene sieht
+                    weiß<lb break="yes"/>wie viele Thränen ich geweint und
+                hundertfacher Kum̄er mir am Herzen<lb break="yes"/>nagt. Ich glaube <add place="above">nicht</add> das Sie als rechtlicher
+                Man̄ meinen Glücke im Wege stehen<lb break="yes"/>und mich länger aufhalten
+                als nöthig wäre. Und ich werde mich befleißen meine<lb break="yes"/>Pflichten in
+                jeder Beziehung treulich <w>nach zu kom̄en</w>. Ich
+                möchte oft recht gerne<lb break="yes"/>reden und aufrichtig sein aber mir hat der
+                    Schmerz das Herz zugeschnürt. Ich<lb break="yes"/>hoffe
+                baldige Heimkehr und <seg ana="#salute">verbleibe mit der größten Hochachtung und
+                    Geduld</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Ihre</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">dankschuldigste Patientin<lb break="yes"/>An̄a
+                Hargaßer.</seg></hi></p>
+<p><add place="margin">So Mancher schimpft den Arzt<lb break="yes"/>und läßt <del>den</del>
+                ihn doch gewähren<lb break="yes"/>Entfernung kan̄ zwei Herzen<lb break="yes"/>nihmer
+                tren̄en doch eins zerbrechen<lb break="yes"/>Sie zerbrach das Meine.</add></p>
+</body>
+</text>
+</TEI>

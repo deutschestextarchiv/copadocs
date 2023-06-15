@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb102m05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>102</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Fritz von <surname>M.</surname></persName>
+<date type="sent">08.09.1856&gt;</date>
+<date type="received"/>
+<persName type="addressee">Schneiderin:  <surname>H.</surname></persName>
+<settlement type="sent">Irsee&gt;</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb102m">
+<persName>
+<forename>Fritz von</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1826"/>
+<death cert="unknown"/>
+<occupation>Stadtgerichtlicher Akzessist (Freiherr)</occupation>
+<residence>München, geb. Starnberg&gt;</residence>
+<faith>p</faith>
+<state>
+<p>Familienstand: l</p>
+<p>Eltern: Adel</p>
+<p>Anstalt: 1856-1857</p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>[Fixe Ideen](1856, Selbstzuschreibung), tiefe psychische Störung (1856)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bestellung verschiedener Kleidungsstücke bei einer Schneiderin (Säcklermeisterin) aus Nürnberg
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb102m05a.jpg" xml:id="image_039"/>
+<graphic mimeType="image/jpg" url="kfb102m05b.jpg" xml:id="image_040"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_039"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#u"><hi rendition="#i">Irsee bei
+				        Kaufbeuren</hi></hi><lb break="yes"/> d. 8 Sept. 56.</hi><lb break="yes"/></dateline>
+<salute><hi rendition="#c">Verehrteste <hi rendition="#i">Madam
+				        <surname>H.</surname></hi>!</hi><lb break="yes"/></salute>
+</opener>
+<p> Da Sie mich während meines Aufenthalts in Nürnberg<lb break="yes"/> mit Ihren <hi rendition="#i">Suspensorien</hi>
+<w>zufrieden gestellt</w> haben, so bin<lb break="yes"/> ich
+                geson̄en, dieselben im̄erfort von Ihnen anfertigen zu<lb break="yes"/>
+                lassen. Sie wissen auch Maaß, Qualität u. Preis.<lb break="yes"/> Ich bestelle
+                hiemit bei Ihnen <hi rendition="#u">2 <hi rendition="#i">Suspensorien</hi></hi>,<lb break="yes"/> wie gewöhnlich von doppeltem Leder. Sobald<lb break="yes"/> Eines
+                deselben fertig ist, schicken Sie mir es zu,<lb break="yes"/> unter der Adresse: <hi rendition="#u">Kgl Kreis-Irren-Anstalt<lb break="yes"/>
+<hi rendition="#i">Irsee</hi></hi>; lassen Sie mit dem zweiten das <hi rendition="#i">Conto</hi><lb break="yes"/> mitfolgen. Ich bin einer <hi rendition="#u">baldigen</hi> Sendung<lb break="yes"/> gewärtig.<lb break="yes"/>
+<seg ana="#salute"><hi rendition="#r">ergebenst<lb break="yes"/></hi>
+<seg ana="#signed">Frhr <surname>von <hi rendition="#i">M.</hi></surname></seg></seg>
+</p>
+<pb facs="#image_040"/>
+<p> An<lb break="yes"/> Frau Säcklermeisterin <surname><hi rendition="#i">H.</hi></surname><lb break="yes"/> Wohlgeb.<lb break="yes"/> in <hi rendition="#i"><hi rendition="#u">Nürnberg</hi></hi><lb break="yes"/> auf dem
+                    Herrenmarkt<lb break="yes"/> unter den bögen. </p>
+</body>
+</text>
+</TEI>

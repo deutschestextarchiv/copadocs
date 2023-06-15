@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2108r01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2108</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Cosmas <surname>R.</surname></persName>
+<date type="sent">06.04.1872</date>
+<date type="received"/>
+<persName type="addressee">Kurator:  <surname>Z.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2108r">
+<persName>
+<forename>Cosmas</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1825"/>
+<death when="1882"/>
+<occupation>Schuhmachermeister</occupation>
+<residence>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: </p>
+<p>Anstalt: 1871-1882</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Tobsucht, Erregungszustände, Geistesstörung, Paralyse, blödsinniger Größenwahn (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet den Adressaten mit der Frau des Schreibers zu ihm in die Anstalt zu kommen, da der Direktor mit beiden sprechen will.
+                    Er beteuert, dass er mit noblen Männern zusammen untergebracht ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2108r01a.jpg" xml:id="image_023"/>
+<graphic mimeType="image/jpg" url="kfb2108r01b.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_023"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 6 April 1872.</hi></dateline>
+<salute><hi rendition="#c">Verehrter Herr <surname>Z.</surname>!</hi><lb break="yes"/>
+<hi rendition="#r">in Augsburg.</hi></salute>
+</opener>
+<p> Werthester Herr Curator ich muß<lb break="yes"/> Sie bitten <add>zu mir zu komen</add> morgen
+                Sontag den 7. April.<lb break="yes"/> bis 1 Uhr sollten im Falle nicht Zeit haben<lb break="yes"/> so meine ich Sie kön̄ten Montag bis 9 Uhr
+                    <add>Früh</add><lb break="yes"/> gewiß mich besuchen in der <w>Irren Anstalt</w>.<lb break="yes"/> Sie werden Ihnen überzeugen, daß Sie sich<lb break="yes"/>
+<add>nicht</add> schiniren brauchen in dem Saale wo ich sind<lb break="yes"/> lauter
+                noble Herrn Ein Graf von <surname>G.</surname><lb break="yes"/> Ein Herr
+                Assesor u 2 Herrn Pfarrer<lb break="yes"/> Noch eine Bitte muß an Sie Vehrtester
+                    <del>mit zu bragen</del>
+<add>mit zu bringen</add><lb break="yes"/> Herr Curator richten Sie möchten die
+                    Güte<lb break="yes"/> haben <del>meine</del>
+<add>meine</add> Frau <add><unclear>m</unclear></add> Herr Anstalts <hi rendition="#i">Director</hi><lb break="yes"/> wünscht Sie beide zu sprechen.<lb break="yes"/>
+<space/> viele Grüße an meine Frau<lb break="yes"/> <seg ana="#salute">Hochachtungsvollst ergebener</seg> <seg ana="#signed">K
+                    <surname>R.</surname></seg>.<lb break="yes"/>
+<hi rendition="#r">Schuhmachermeister.</hi></p><pb facs="#image_024"/><p>Herrn
+                    Zim̄erman<lb break="yes"/> Gemeinde B<add>e</add>volmächtiger<lb break="yes"/> und Spengler in Meister Wohlgeboren<lb break="yes"/> Augsburg
+                    <unclear>T</unclear> .402. Jesuitengaße</p>
+</body>
+</text>
+</TEI>

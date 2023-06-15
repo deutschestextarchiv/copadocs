@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb846h08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>846</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karolina <surname>H.</surname></persName>
+<date type="sent">22.02.1867</date>
+<date type="received"/>
+<persName type="addressee">Doktor:  <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb846h">
+<persName>
+<forename>Karolina</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1816"/>
+<death when="1888"/>
+<occupation>Schäfflerstochter</occupation>
+<residence>Rennertshofen, Monheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schäffler</p>
+<p>Anstalt: 1855-88</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Geisteskrankheit, Verrücktheit, geistig-körperliche Müdigkeit (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will Doktor medizinischen Rat geben	
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb846h08a.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline><hi rendition="#r">Irrsee d 22<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Februar 1867.</hi></dateline>
+<salute><hi rendition="#c">Liebster Herr Docktor!</hi></salute>
+</opener>
+<p>
+<space/> Ich will in einer Art Ihr geistlicher Rath seyn.<lb break="yes"/>
+<seg ana="#med">In Augsburg hat man die Soldaten, jung Grenadier<lb break="yes"/>
+bey Herrn Major von <surname>J.</surname> in St Stephan ins Schwitzbaad<lb break="yes"/>
+ins Donau-Baad nach Neuburg. Junge Rekruten wegen dem<lb break="yes"/>
+Wurm-Fieber gehört auch ein warmes Laug-Baad von<lb break="yes"/>
+<space/> Irrsee</seg>. d.B. Augsburg <hi rendition="#i">X. H.</hi>
+</p>
+</body>
+</text>
+</TEI>

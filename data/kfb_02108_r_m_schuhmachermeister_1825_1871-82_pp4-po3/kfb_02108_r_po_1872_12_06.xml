@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2108r07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2108</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Cosmas <surname>R.</surname></persName>
+<date type="sent">06.12.1872</date>
+<date type="received"/>
+<persName type="addressee"/>
+<settlement type="sent">München</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2108r">
+<persName>
+<forename>Cosmas</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1825"/>
+<death when="1882"/>
+<occupation>Schuhmachermeister</occupation>
+<residence>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: </p>
+<p>Anstalt: 1871-1882</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Tobsucht, Erregungszustände, Geistesstörung, Paralyse, blödsinniger Größenwahn (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    nennt sich selbst Kaiser von Baiern, möchte Geld geschickt bekommen;
+                    
+                    zweite Seite sehr schlecht lesbar
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2108r07a.jpg" xml:id="image_019"/>
+<graphic mimeType="image/jpg" url="kfb2108r07b.jpg" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline><hi rendition="#r">München den 6.12.72.</hi></dateline>
+<salute><handShift medium="pencil" scribe="patient"/><unclear>Marien Laltam </unclear></salute>
+</opener>
+<p><handShift medium="ink" scribe="patient"/>Bezahle ich an Herrn
+                    <surname>H.</surname> 50 fl bitte aber Herrn <lb break="yes"/>so viel Sie a 3 fl 12 x die zu 2 fl
+                    12 xr mir zu schicken <lb break="yes"/>Kosmas I. Kaiser von Baiern
+                wegen <lb break="yes"/><hi rendition="#r">Unwohlsein z. Z. in Augsburg</hi><pb facs="#image_020"/><handShift medium="pencil" scribe="patient"/>Muß Sich F.
+                    <unclear>Ojowegen lietter <lb break="yes"/>Ichslmerk <lb break="yes"/><hi rendition="#r">Hersnin</hi>
+<lb break="yes"/>Buch ist besser.</unclear>
+<lb break="yes"/><hi rendition="#r">Augsburg</hi>
+<lb break="yes"/><unclear>Karl <surname>B.</surname> Unter Der lie den
+                    taß</unclear></p>
+<p><add place="margin"><unclear>Mer <lb break="yes"/>Gazb</unclear></add></p>
+</body>
+</text>
+</TEI>

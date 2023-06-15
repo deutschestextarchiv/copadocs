@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1145l16" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1145</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ignaz <surname>L.</surname></persName>
+<date type="sent">ca. 1866-1869</date>
+<date type="received"/>
+<persName type="addressee">Erzherzog: Albrecht <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1145l">
+<persName>
+<forename>Ignaz</forename>
+<surname>L.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Kreis-Kassa-Controlleur (Amtsbürgschaft 1600 Fl, Pension 1400 Fl)</occupation>
+<residence>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: </p>
+<p>Anstalt: 1866-1869</p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Hypochondrie (1865),  Trunksucht (1867)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber thematisiert in gedichtartiger Form militärische Belange.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1145l16a.jpg" xml:id="image_040"/>
+<graphic mimeType="image/jpg" url="kfb1145l16b.jpg" xml:id="image_041"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_040"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#i">An Erzherzog Albrecht <lb break="yes"/>Kaiserl
+                        Hoheit</hi>
+<lb break="yes"/>z. Zeit <w>Armee Oberkommandant</w> in <hi rendition="#i">Italien</hi>
+</salute>
+</opener>
+<p>Bez der Nachricht <hi rendition="#u">vom Siege bey Custozza!</hi>
+</p>
+<p>Des tapfern Vaters tapferen Sohne − <lb break="yes"/>ward hier beschieden ja
+                die <hi rendition="#u">Krone</hi>
+<lb break="yes"/>der Erst zu seyn im Waffenkranz<del>e</del>
+<lb break="yes"/>Nur verbreitend − Oestereichs Glanz! <lb break="yes"/>Sind's
+                auch nicht die <hi rendition="#u">wahren</hi> Feinde <lb break="yes"/>die im
+                Kampfe standen. <lb break="yes"/>Sind es doch die Bunds Genossen <lb break="yes"/><unclear>Irren verhohft</unclear> Treuelosen <lb break="yes"/>die im fernen
+                Norden − <lb break="yes"/>nicht wie deutsche Truppen <lb break="yes"/>wären
+                wie wilde Cohorten <lb break="yes"/>Rauben plündern und ja morden <lb break="yes"/>Deshalb trifft der Schlag <del>doch</del>
+<add place="above">auch</add> Dorten <lb break="yes"/>Kräftig treibend ein. </p>
+<pb facs="#image_041"/>
+<p> Denn die Kraft dieses Sieges trägt <lb break="yes"/>hier ein
+                    <unclear>menlischen</unclear> Gewicht <lb break="yes"/>und das reißet fort zu
+                Siegen <lb break="yes"/><del hand="ink"><hi rendition="#i">Albrecht</hi></del>-<del hand="ink">t</del><add><handShift medium="ink" scribe="patient"/>T</add><handShift medium="pencil" scribe="patient"/>reu dem Vater <handShift medium="ink" scribe="patient"/>Albrecht <lb break="yes"/><handShift medium="pencil" scribe="patient"/>still u kräftig doch gar muthig <lb break="yes"/>wenn <del hand="ink"><unclear/></del><handShift medium="ink" scribe="patient"/>du <unclear><handShift medium="pencil" scribe="patient"/>weiß<handShift medium="ink" scribe="patient"/>t</unclear>
+<handShift medium="pencil" scribe="patient"/>das Recht <lb break="yes"/><del hand="ink">J</del><handShift medium="ink" scribe="patient"/>h<handShift medium="pencil" scribe="patient"/>ehn fort auf diesen Wegen <lb break="yes"/>Gott giebt dir <del>s</del>dann seinen Segen − <lb break="yes"/>und von
+                deutschem Herzen − Alten <lb break="yes"/>wird dir freudig hoch erschallen. </p>
+</body>
+</text>
+</TEI>

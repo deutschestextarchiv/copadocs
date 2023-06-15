@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb120h17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>120</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anne <surname>S.</surname></persName>
+<date type="sent">03.10.1855</date>
+<date type="received"/>
+<persName type="addressee">:  <surname/></persName>
+<settlement type="sent">Schwabing</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb120h">
+<persName>
+<forename>Anna</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Zimmermannstochter</occupation>
+<residence>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Zimmermann, "ohne Vermögen"</p>
+<p>Anstalt: 1854-58</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie, Geistesstörung (1854)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="hand2"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+<handNote medium="ink" scope="minor" scribe="mutter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Mutter bedankt sich für die Behandlung der Tochter. Da sie von einer entlassenen Patientin erfahren hat, dass es ihrer Tochter besser geht, bittet sie darum,
+                    ihre Tochter in der Anstalt in Dienst zu nehmen.
+                    Der Arzt notiert, dass der Zustand der Tochter nicht stabil ist und entlassene Patienten nicht in der Anstalt angestellt werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb120h17a.jpg" xml:id="image_058"/>
+<graphic mimeType="image/jpg" url="kfb120h17b.jpg" xml:id="image_059"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_058"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Euer Hochwohlgeboren</hi>!</hi> </salute>
+</opener>
+<p>Nehmen Sie vor Allem meinen verbindlichsten Dank für Ihre Güte <lb break="yes"/>und Wohlgewogenheit, die Sie meiner Tochter erwiesen, den̄ ich hörte <lb break="yes"/>von der Barbara <surname>A.</surname> die in Ihrer Anstalt war
+                und geheilt zurückkam, <lb break="yes"/>daß auch meine Tochter sich sehr erholt, und
+                    <del>ich</del>
+<add place="above">sie</add> glaube, daß sie auch in Bälde her<lb break="no"/>auskommen werde; sollte dieß wirklich der Fall seyn, so wage ich an <hi rendition="#i">Euer <lb break="yes"/>Hochwohlgeboren</hi> eine gehorsamste Bitte,
+                nämlich ob es nicht möglich wäre <lb break="yes"/>sie als Wärterin aufzunehmen, da
+                selbe so vergnügt in Ihrer Anstalt ist, und <lb break="yes"/>ich ausser Stand bin,
+                sie zu beschäftigen, und noch 2 Mädchen außer ihr erhalten <lb break="yes"/>muß von
+                dem Wenigen, das ohnehin nur zur eigenen Nothdurft kaum genügt; <lb break="yes"/>In
+                einem Dienste würde sie auch nicht so schnelle Aufnahme finden, da man nach <lb break="yes"/><unclear>n</unclear>äherer Erkundigung sich doch mehr von ihr
+                zurückziehen würde. −</p>
+<p><add hand="arzt">D. 4. Nobr 55 <lb break="yes"/><hi rendition="#r">sie ist zwar im
+                        Hause ruhig u fleißig, aber noch sehr ungleich u <unclear>ohne
+                            besser</unclear></hi>
+<lb break="yes"/>sie ist noch im̄er nicht, wie sie frei stellen, bald
+                    traurig, bald übermütig <unclear>belustig</unclear>, <lb break="yes"/>zur
+                    Entlassg ist sie unter diesen Umstden noch lange nicht geeignet. <del>Übrigens
+                        kann <lb break="yes"/>Für das</del> Wen̄ sie einmal ganz gesund sein
+                        <del>sollte</del>
+<add place="above">wird</add> , werde Sie sich ihrer schon wieder <lb break="yes"/>annehm müsse, di entlassen <unclear>solle</unclear> niemals
+                        <del>hie</del> von der Anstalt in <w>Dienst</w><w>genom̄en</w>
+                    werden</add></p>
+<pb facs="#image_059"/>
+<p> Ich bitte Sie daher sich selber gütigst anzunehmen, und dadurch einem <lb break="yes"/>bedrängten Mutterherzen ihren großen Kummer
+                zu erleichtern. <lb break="yes"/><seg ana="#salute">In der Hoffnung auf <hi rendition="#i">Euer Hochwohlgeboren</hi> baldigst gnädigste Antwort <lb break="yes"/>geharrend, verbleibt in aller Hochachtung und Ehrfurcht <lb break="yes"/><hi rendition="#c"><hi rendition="#i">Euer Hochwohlgeboren</hi>
+</hi><lb break="yes"/><hi rendition="#r">ergebenste</hi></seg>
+<add hand="mutter"><hi rendition="#r"><seg ana="#signed">An̄a
+                                <surname>S.</surname></seg>
+<lb break="yes"/>vormallige An̄a <surname>H.</surname>
+<lb break="yes"/>ich undergebenste Hätte <add place="below">noch</add> eine
+                        Bitte <lb break="yes"/>zu stellen, solte man die Ana
+                            <surname>H.</surname>
+<lb break="yes"/>nicht als Wärterin verwenden könen <lb break="yes"/>so ich
+                        sie Bitte sie möchten sie zum <lb break="yes"/>Bigeln oder in Die Küche
+                        verwenden <lb break="yes"/>könen -:</hi></add>
+</p>
+<p><add place="margin">Schwabingdorf 3 Oktober <hi rendition="#u">1855.</hi></add></p>
+<p><add hand="mutter"><hi rendition="#c">Hauß N 57A, an der Alten<lb break="no"/>Schwabinger: Land<del>st<add place="above"><del>r</del></add>aße</del>:Straße</hi></add></p>
+</body>
+</text>
+</TEI>

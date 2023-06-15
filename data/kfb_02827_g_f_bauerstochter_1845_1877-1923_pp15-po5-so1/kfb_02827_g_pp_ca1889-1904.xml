@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2827g20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2827</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria Cleofa <surname>G.</surname></persName>
+<date type="sent">ca. 1889-mind.1904</date>
+<date type="received"/>
+<persName type="addressee">Schwager, Schägerin, Nichte, Neffe: Benedikt, Cresenz, Theresia, Willobold <surname>E.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2827g">
+<persName>
+<forename>Maria Cleofa</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1845"/>
+<death cert="unknown"/>
+<occupation>Bauerstochter</occupation>
+<residence>Engishausen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bauern</p>
+<p>Anstalt: 1877-1923</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Manie (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Einladung, Glückwünsche zum Namensfest, Grüße
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2827g20.jpg" xml:id="image_052"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_052"/>
+<opener>
+<dateline><hi rendition="#i">König</hi> !<hi rendition="#i">x</hi> lichl<hi rendition="#i">e</hi>. Heil!? <hi rendition="#i">x</hi>.<lb break="yes"/> Pfleg .<hi rendition="#i">x</hi>. Anstalt?<hi rendition="#i">x</hi>. <hi rendition="#i">Irrsee</hi>.</dateline>
+<salute><hi rendition="#c">Lieber Schwager + Benedikt? +<lb break="yes"/> Schwegerin̄
+                        Cresenz!- Tochter! ?</hi><lb break="yes"/>
+<hi rendition="#c">Theresia! Sohn! . Willo? bolld x<lb break="yes"/>
+<surname>E.</surname> x!?</hi></salute>
+</opener>
+<p>
+Gott zum Gruß /-</p>
+<p> Ich lade! Dich ein im August! auf<lb break="yes"/> die hl. Hochwürdige. Premits<lb break="no"/>
+                Feier! Des Hoch. <w>Geweihten</w><lb break="no"/>
+<w>Ich</w> wünsche: Dir alles Gute.<lb break="yes"/> zu
+                Deinen Namens-Feste!<lb break="yes"/> das Morgen ist: Grüße! -<lb break="yes"/>
+                Empfehlungen an die ganzen Freund<lb break="no"/> schaft: Würtenbeg =?<hi rendition="#i">x</hi>. Bayern <hi rendition="#i">x</hi><lb break="yes"/>
+<seg ana="#salute">Isch verbeibe Deine Schwägerin̄:</seg>
+<seg ana="#signed">Maria<lb break="yes"/> Cleofa! &amp;<hi rendition="#i"> x</hi>
+<surname>G.</surname></seg> Bendikt <surname>E.</surname> in
+                    Sellheim<lb break="yes"/> Post: <w>Eisabahn Statison</w> daselb Mem̄ingen
+                        <w>Bezir<lb break="no"/>Am̄t</w>
+<hi rendition="#i">x</hi>.</p>
+</body>
+</text>
+</TEI>

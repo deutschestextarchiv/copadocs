@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun1297s21" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>1297 (K. 650)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabeth <surname>S.</surname></persName>
+<date type="sent">01.06.1904</date>
+<date type="received"/>
+<persName type="addressee">Eltern:  <surname/></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mun1297s">
+<persName>
+<forename>Elisabeth</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1873-01-15"/>
+<death when="1924-06-26"/>
+<occupation>Haushälterin</occupation>
+<residence>Geburtsort: Brakel; Wohnort: Werl</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Wegemeister, Mutter: ohne Beruf</p>
+<p>Anstalt: 19.01.1901-26.06.1924</p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>einfache Seelenstörung (1901), Dementia paranoides</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin wünscht ein fröhliches Pfingstfest.
+                    Sie hofft, dass sie Besuch bekommt und abgeholt wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun1297s21a.jpg" xml:id="image_069"/>
+<graphic mimeType="image/jpg" url="mun1297s21b.jpg" xml:id="image_070"/>
+<graphic mimeType="image/jpg" url="mun1297s21c.jpg" xml:id="image_071"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_069"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt <hi rendition="#r">Münster
+                            i. W., den</hi></add><hi rendition="#r"> 1. <hi rendition="#i">Juni</hi>
+<add hand="vordruck">190</add>4.</hi></dateline>
+<salute><hi rendition="#c">Liebe Eltern!</hi></salute>
+</opener>
+<p><surname><hi rendition="#i">S.</hi></surname><hi rendition="#u">. </hi></p>
+<p><add hand="hand3"><unclear>(</unclear>12./<hi rendition="#sub">6</hi> 04 <lb break="yes"/>ad acta Elise <surname><hi rendition="#i">S.</hi></surname>
+<lb break="yes"/><hi rendition="#c"><unclear>G </unclear></hi></add></p>
+<p>Ich wünsche Euch liebe <lb break="yes"/>Eltern und liebe Geschwi<lb break="no"/>stern
+                noch ein fröhliches <lb break="yes"/>Pfingsfest nachträglich ge<lb break="no"/>genseitig von ganzen Her<lb break="no"/>zen. Liebe Mutter wie <lb break="yes"/>Du
+                mir mitteilte damals <lb break="yes"/>wo wie wird auf die Provin <pb break="no" facs="#image_070"/>zial-Heil und Pflege Anstalt <lb break="yes"/>Mariental empfielt bald kom<lb break="no"/>me holen besuchen man <lb break="yes"/>denkt hoft <w>mit nehmen</w>
+<lb break="yes"/>ge<del>sch</del>wünschte Anna komm <lb break="yes"/>ga mit Lisbeth
+                    <surname>D.</surname>
+<lb break="yes"/>gerne Stockum <hi rendition="#i">Anton</hi> u<unclear>nd</unclear>
+<lb break="yes"/><hi rendition="#i">Maria</hi> Karl haben sich <lb break="yes"/>nicht
+                lange von sich hören <w>las <lb break="yes"/>sen</w>. Heinrich und Joseph in <lb break="yes"/>Dortmund liebe Bruder <lb break="yes"/>Paul gut gehen lieber Vater
+                    <lb break="yes"/>jeden Tage immer jeden <w>Ta <lb break="yes"/>ge</w> gut rechte
+                Geduld behalten <lb break="yes"/>willig den Anordnungen der <pb facs="#image_071"/>Vorgesetzten folge leisten, Sor<lb break="no"/>ge wieder reichen wird holen ge<lb break="no"/>heilt wirst <del>gesch</del>wünschte bitte <lb break="yes"/>verschicken mit Amtgricht Werl <lb break="yes"/>ein Brief dein bezahlt wird doch
+                    <lb break="yes"/>keine Sorge machen hoft man <lb break="yes"/>auch nach Hause
+                komme. <lb break="yes"/>Zum Schluße in Hoffnung <lb break="yes"/>daß bald mit der
+                Bitte <del>mit</del>
+<lb break="yes"/>vielen Grüßen verbleiben <lb break="yes"/>ich an Euch liebende
+                Eltern <lb break="yes"/>und Geschwistern Euere Dich <lb break="yes"/>liebende
+                Tochter Elisabeth <surname>S.</surname>
+<lb break="yes"/><hi rendition="#r">zu Werl bei Soest. </hi><lb break="yes"/><hi rendition="#u">Um baldige Antwort.</hi>
+</p>
+</body>
+</text>
+</TEI>

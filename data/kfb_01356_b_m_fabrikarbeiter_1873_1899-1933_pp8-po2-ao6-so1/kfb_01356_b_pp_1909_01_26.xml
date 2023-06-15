@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1356b12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1356</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">26.01.1909</date>
+<date type="received"/>
+<persName type="addressee">Schwägerin: Anna <surname>B.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1356">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1873"/>
+<death cert="unknown"/>
+<occupation>Fabrikarbeiter, Weber</occupation>
+<residence>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bruder: Kammgarnspinnerei</p>
+<p>Anstalt: 1899-1933</p>
+<p>Brieftypen: pp, po, ao, lebenslauf</p>
+</state>
+<trait><p>Depression, [Suizidalität], Angstanfälle (1899), Halluzination (1908)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    fragt, warum sein Bruder ihm nicht schreibt und nach Schnupftabak
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1356b12a.jpg" xml:id="image_027"/>
+<graphic mimeType="image/jpg" url="kfb1356b12b.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="kfb1356b12c.jpg" xml:id="image_029"/>
+<graphic mimeType="image/jpg" url="kfb1356b12d.jpg" xml:id="image_030"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_027"/>
+<opener>
+<dateline/>
+<salute>Liebe Schwägeri <surname>Z.</surname> An̄a</salute>
+</opener>
+<p>
+Einige Zeilen schreib ich<lb break="yes"/>
+an Dich warum schreibt<lb break="yes"/>
+mier der Franz nicht<lb break="yes"/>
+Weinachten und x Neujahr<lb break="yes"/>
+iß jetz rum sei freundlich<lb break="yes"/>
+und schreib mier mer brauchts<lb break="yes"/>
+net. Wie denkt er sich ales in<lb break="yes"/>
+seim Kopf des iß ja ales net<lb break="yes"/>
+war wärer nur wieder<lb break="yes"/>
+so gut wie vor ken̄t Mutter<lb break="yes"/>
+nomal heirathen. So gehts<lb break="yes"/>
+mier schlecht im Leben<lb break="yes"/>
+weil der Bruder Benedikt<lb break="yes"/>
+und der Franz nix nutz iß<lb break="yes"/>
+wegen der <surname>S.</surname> Marie
+				    
+				    
+<pb facs="#image_028"/>
+und Lujs sin mier auf Weld<lb break="yes"/>
+kom̄a des sind Verwande<lb break="yes"/>
+zu mier</p>
+<p><hi rendition="#c"><seg ana="#salute">grüßt Dich</seg><lb break="yes"/>
+<seg ana="#signed">Dein lieber<lb break="yes"/>
+Joseph <surname>B.</surname></seg></hi></p>
+<p><hi rendition="#c">rauchen und Schmalzler schnupfen<lb break="yes"/>
+Du ich gern kan er mier bar<lb break="yes"/>
+Kornner Päkla Rauchtawak<lb break="yes"/>
+und in Schmalzler schiken</hi>
+<hi rendition="#r">freundliche Anna</hi>
+<pb facs="#image_029"/>
+so gut sol er nomal sei mich<lb break="yes"/>
+rauß holen mit Der Drotschga<lb break="yes"/>
+wens geth</p>
+<p><hi rendition="#c"><seg ana="#salute">Gruß</seg><lb break="yes"/>
+<hi rendition="#r">an Deine liebe<lb break="yes"/>
+Kinder</hi></hi><lb break="yes"/>
+<seg ana="#signed">von Vetter Joseph</seg></p>
+<p><hi rendition="#r">26. Januar 1909<lb break="yes"/>
+Heilanstald bei Irse</hi></p>
+<p>kan̄ mier der <surname>W.</surname> Haus Herr<lb break="yes"/>
+net so Gläsli englischen Wunderbaldsam<lb break="yes"/>
+<hi rendition="#r">kaufen 25 d.</hi>
+<pb facs="#image_030"/>
+<hi rendition="#c">An<lb break="yes"/>
+Frau Anna <surname>B.</surname><lb break="yes"/>
+Weberi in der neuen<lb break="yes"/>
+geborne <surname>Z.</surname> Weberrei großen Fabrik<lb break="yes"/>
+<handShift medium="pencil" scribe="patient"/>Augsburg</hi>
+</p>
+</body>
+</text>
+</TEI>

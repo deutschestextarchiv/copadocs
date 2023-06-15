@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb966b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>966</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>B.</surname></persName>
+<date type="sent">31.01.1899</date>
+<date type="received"/>
+<persName type="addressee">Mutter: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb966b">
+<persName>
+<forename>Georg</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1904"/>
+<occupation>Buchhalter, Kaufmann</occupation>
+<residence>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Huckler</p>
+<p>Anstalt: 1877-1904</p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Glückwünsche zum Namenstag (Anmerkung des Arztes, dass Eltern längst verstorben sind)
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb966b03.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r">Irsee, den 31.<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Januar 1899.</hi></dateline>
+<salute><hi rendition="#c">Liebe Mutter!</hi></salute>
+</opener>
+<p><add hand="arzt"> Eltern längst gestorben! <lb break="yes"/><hi rendition="#i">ad acta. </hi><space/> Dr S. <lb break="yes"/></add>
+<space/> Zu Deinem so werthen <lb break="yes"/>Namensfeste statte ich Dir hiemit <lb break="yes"/>die herzlichsten Glück- und Segens<lb break="no"/>wünsche für Dein
+                ferneres Wohl<lb break="no"/>ergehen ab! Mögest Du noch viele <lb break="yes"/>Jahre
+                diesen Tag in beßter Gesundheit <lb break="yes"/>erleben, und Dich Deines Lebens in
+                    <lb break="yes"/>Zufriedenheit im Kreise der Deinen <lb break="yes"/>und Deiner
+                Enkel, bis in's spät'ste <lb break="yes"/>Alter erfreuen.</p>
+<p><space/> <seg ana="#salute">Indem ich Dir hiemit diese <lb break="yes"/>meine Wünsche
+                    aus ganzem Herzen <lb break="yes"/>gemeint übersende, verbleibe ich stets
+                    </seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Dein Dich treu
+                        liebender <lb break="yes"/>Sohn <hi rendition="#i">Georg</hi>.</seg></hi></p>
+</body>
+</text>
+</TEI>

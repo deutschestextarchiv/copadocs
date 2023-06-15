@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb102m15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>102</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Fritz von <surname>M.</surname></persName>
+<date type="sent">16.08.1856</date>
+<date type="received"/>
+<persName type="addressee">k. b. Regierungspräsident:<surname>v.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb102m">
+<persName>
+<forename>Fritz von</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1826"/>
+<death cert="unknown"/>
+<occupation>Stadtgerichtlicher Akzessist (Freiherr)</occupation>
+<residence>München, geb. Starnberg&gt;</residence>
+<faith>p</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Adel</p>
+<p>Anstalt: 1856-1857</p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>[Fixe Ideen](1856, Selbstzuschreibung), tiefe psychische Störung (1856)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Pat. möchte aus der Anstalt entlassen werden, da sein Zustand sich massiv gebessert habe.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb102m15a.jpg" xml:id="image_059"/>
+<graphic mimeType="image/jpg" url="kfb102m15b.jpg" xml:id="image_060"/>
+<graphic mimeType="image/jpg" url="kfb102m15c.jpg" xml:id="image_061"/>
+<graphic mimeType="image/jpg" url="kfb102m15d.jpg" xml:id="image_062"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_059"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Ew. Hochwohlgeboren!</hi></salute>
+</opener>
+<p>Gestatten Sie mir heute einige Zeilen an <lb break="yes"/>Sie zu richten. Ich
+                wurde am 12<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> l. Mts. <lb break="yes"/>ohne mein Wissen, auf Veranlaßung meines <lb break="yes"/>Vaters
+                wegen eines vorübergehenden Zustandes <lb break="yes"/>von Gemüthskrankheit in die
+                hiesige Irren<lb break="no"/>Anstalt gebracht. Ich habe seit diesem Tage <lb break="yes"/>von keinem meiner Angehörigen Kenntniß <lb break="yes"/>erhalten,
+                obwohl ich einen Brief nach München <lb break="yes"/>absenden ließ. Mein Zustand hat
+                sich plötzlich <pb facs="#image_060"/>vollkom̄en gehoben und da ich hier
+                keine <lb break="yes"/>ernste Beschäftigung vornehmen darf und <lb break="yes"/>kann, und außerdem auf den Umgang mit <lb break="yes"/>Blödsinnigen und Irren
+                angewiesen bin, so <lb break="yes"/>können Ew. Hochwohlgeboren sich vorstellen <lb break="yes"/>in welcher mißlichen Lage ich mich befinde. <lb break="yes"/>Meine
+                Effekten befinden sich säm̄tlich in <lb break="yes"/>Nürnberg.</p>
+<p>Ich erlaube mir nun, an Ew. Hochwohlge<lb break="no"/>boren die unterthänigste Bitte
+                zu stellen <lb break="yes"/>an den zur Zeit hier fungirenden Hrn <lb break="yes"/><hi rendition="#i">Dr Engelman̄</hi> den Auftrag ergehen <pb facs="#image_061"/>zu lassen, mich ungesäumt aus <lb break="yes"/>dieser Anstalt
+                zu entlassen, indem <lb break="yes"/>ein längeres Verbleiben mich auf <lb break="yes"/>im̄er schwermüthig und unfähig zu <lb break="yes"/>jedweder
+                Berufs-Arbeit machen <lb break="yes"/>würde. </p>
+<p>Möchten Herr Präsident dieser meiner <lb break="yes"/>Bitte willfahren. </p>
+<p><hi rendition="#c"><seg ana="#salute">Ich zeichne mit der vollkom̄ensten <lb break="yes"/>Hochachtung.</seg></hi></p>
+<p><hi rendition="#r"><seg ana="#signed">Ew. Hochwohlgeboren <lb break="yes"/>gehorsamster Stadtg. Accessist <lb break="yes"/>von <hi rendition="#i"><surname>M.</surname></hi> aus Nürnberg.</seg></hi></p><p><hi rendition="#i">Irrsee</hi> den 16 <hi rendition="#i">Aug</hi>. 1856.</p>
+<pb facs="#image_062"/>
+<p><hi rendition="#c">Sr. Hochwohlgeboren <lb break="yes"/>Herrn Freiherrn <hi rendition="#u"><hi rendition="#i">von</hi>
+</hi><hi rendition="#i"><hi rendition="#u"><surname>W.</surname></hi></hi>
+<lb break="yes"/>k. b. Regierungs=Präsidenten und <lb break="yes"/>Kam̄ernherrn <lb break="yes"/>in </hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u"><hi rendition="#i">Augsburg</hi></hi></hi>.</p>
+</body>
+</text>
+</TEI>

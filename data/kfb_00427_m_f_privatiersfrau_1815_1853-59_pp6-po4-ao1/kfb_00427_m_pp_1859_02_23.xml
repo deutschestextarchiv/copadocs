@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb427m09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Angela Hofmann</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>427</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Louise <surname>M.</surname></persName>
+<date type="sent">23.02.1859</date>
+<date type="received"/>
+<persName type="addressee">Ehemann und Cousin: Jean <surname>M.</surname></persName>
+<settlement type="sent">Irsee&gt;</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb427m">
+<persName>
+<forename>Louise</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1815"/>
+<death cert="unknown"/>
+<occupation>Privatiersfrau</occupation>
+<residence>Schwabing, München</residence>
+<faith>k oder p&gt;</faith>
+<state>
+<p>Familienstand: v</p>
+<p>Eltern: niederer Stand</p>
+<p>Anstalt: 1853-1859</p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Geisteskrankheit, fixe Ideen, Angst (1853-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    wünscht Besuch mit Onkel, Zeugen der Unschuld, will Glück mit Ehemann, soll auch kleine Louise mitbringen, Sehnsucht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb427m09a.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb427m09b.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline><hi rendition="#r">Irsee d 23 Februar 1859.</hi><lb break="yes"/></dateline>
+<salute>Lieber <surname>M.</surname>!<lb break="yes"/></salute>
+</opener>
+<p>Ich bitte Dich flehentlich kom̄e doch sogleich hieher<lb break="yes"/>mit
+                Deinen Herrn Onkel <surname>W.</surname> um als<lb break="yes"/>Zeigen
+                meiner Unschuld zu seyn, ich kan̄<lb break="yes"/>mir nicht gefallen lassen 6
+                Jahre eingespert<lb break="yes"/>zu seyn aus Niederträchtigkeit eines Hofraths<lb break="yes"/>der die Ruhe einer ganzen schönen Familie<lb break="yes"/>zu Grunde
+                richtet, wir waren uns Beyde<lb break="yes"/>gut, haben uns Geheirathet was die
+                    Kirche<lb break="yes"/>uns erlaubte, und so hat uns kein Schurge<lb break="yes"/>uns zu tren̄en, ich will mit Dir glücklich<lb break="yes"/>und zufrieden
+                Leben und lasse mich von <pb facs="#image_017"/> Niemanden <add place="above">mehr</add> beherrschen, ich will nicht länger<lb break="yes"/>mehr von Euch
+                getren̄t leben, lieber will ich<lb break="yes"/>des Todes seyn, bringe auch
+                die kleine <hi rendition="#i">Louise</hi><lb break="yes"/>mit meine Sehnsucht nach ihr ist Namenlos.</p>
+<p><seg ana="#salute">In der angenehmen Hoffnung Dich recht<lb break="yes"/>bald zu sehen verbleibe ich</seg>
+<seg ana="#signed">Deine aufrichtige<lb break="yes"/><hi rendition="#r">Frau<hi rendition="#i">
+                    Louise</hi></hi></seg>
+</p>
+</body>
+</text>
+</TEI>

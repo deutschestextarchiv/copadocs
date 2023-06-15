@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1356b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1356</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Katharina <surname>B.</surname></persName>
+<date type="sent">06.06.1902</date>
+<date type="received"/>
+<persName type="addressee">Medizinalrat:  <surname/></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1356">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1873"/>
+<death cert="unknown"/>
+<occupation>Fabrikarbeiter, Weber</occupation>
+<residence>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bruder: Kammgarnspinnerei</p>
+<p>Anstalt: 1899-1933</p>
+<p>Brieftypen: pp, po, ao, lebenslauf</p>
+</state>
+<trait><p>Depression, [Suizidalität], Angstanfälle (1899), Halluzination (1908)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    fragt, wie es ihrem Sohn geht; will ihn besuchen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1356b01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg den 6<hi rendition="#sup">ten</hi> Juni 1902</hi></dateline>
+<salute><hi rendition="#c">Hochgehertter Herr <add place="above">kg</add>
+<w>Medizinnahl<lb break="no"/> Raht!</w></hi></salute>
+</opener>
+<p> Ich möchte Ihnen wieder, um<lb break="yes"/> eine kleine nachricht bitten,<lb break="yes"/>
+                über daß befinden meines<lb break="yes"/> kranken Sohnes Joseph.<lb break="yes"/>
+                Herr kg. Medizinahl-Raht ich<lb break="yes"/> bitte darf ich ihn nächstens<lb break="yes"/> besuchen, ach könte <del>i</del>ich ihn mit<lb break="yes"/> heim nehmen. Ich
+                Danke Ihnen<lb break="yes"/> für alles Herr kg. <w>Medizinahl<lb break="no"/>
+<hi rendition="#c">Raht.</hi></w><lb break="yes"/>
+<seg ana="#salute">hochachtungfoll</seg><lb break="yes"/>
+<hi rendition="#r"><seg ana="#signed">Frau Katharina<lb break="yes"/>
+<surname>B.</surname> Wittwe</seg></hi></p>
+<p><add place="margin"><hi rendition="#r">vieleicht, könt ich es probiern</hi></add></p>
+<p><handShift scribe="arzt"/>7.VI.02 Besuch steht nichts im Wege;<lb break="yes"/> Entlassung wegen
+                Gewaltthätigkeit nicht<lb break="yes"/> am Platze. <unclear>sors. Les zuk</unclear>
+</p>
+</body>
+</text>
+</TEI>

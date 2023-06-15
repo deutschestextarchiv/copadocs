@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb102m16" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>102</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Fritz von <surname>M.</surname></persName>
+<date type="sent">26.04.1857</date>
+<date type="received"/>
+<persName type="addressee">Verwalter: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb102m">
+<persName>
+<forename>Fritz von</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1826"/>
+<death cert="unknown"/>
+<occupation>Stadtgerichtlicher Akzessist (Freiherr)</occupation>
+<residence>München, geb. Starnberg&gt;</residence>
+<faith>p</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Adel</p>
+<p>Anstalt: 1856-1857</p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>[Fixe Ideen](1856, Selbstzuschreibung), tiefe psychische Störung (1856)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte, Klavier und Bücher mit einer Spedition nach Nürnberg zu senden. Antwort des Arztes, dass die Gegenstände bereits auf dem Weg sind.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb102m16a.jpg" xml:id="image_063"/>
+<graphic mimeType="image/jpg" url="kfb102m16b.jpg" xml:id="image_064"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_063"/>
+<opener>
+<dateline><add hand="arzt" place="margin"><unclear>11 Preaf</unclear> 26 April
+                        1857 <lb break="yes"/>E N 1778</add></dateline>
+<salute><hi rendition="#c">Verehrtester Herr Verwalter!</hi></salute>
+</opener>
+<p>Sie waren so freundlich, mir seit meiner Abreise von Irsee mein <lb break="yes"/>Stuttgarter Klavier und andere Effekten in Verwahr zu behalten. <lb break="yes"/>Da ich geson̄en bin, in der nächsten Woche nach Nürnberg zurück<lb break="no"/>zukehren, so ersuche ich Sie, möglichst bald mein <hi rendition="#u">Klavier</hi> nebst <lb break="yes"/>einer vom Wärter Graf
+                gepackten <hi rendition="#u">Bücherkiste</hi> durch einen <lb break="yes"/>Kaufman̄ in Kaufbeuren an das Haus <hi rendition="#i">Domayer</hi> in
+                Nürnberg <lb break="yes"/>(in der Frauenthor-Strasse.) spediren zu lassen. Ich habe
+                bereits <lb break="yes"/>vor 3 Jahren bey einem Umzug von <hi rendition="#i">Passau</hi> durch das <lb break="yes"/>Haus <hi rendition="#i">Domayer</hi> mein
+                Mobiliar bezogen und es könnte <lb break="yes"/><add hand="arzt" place="bottom">Eodem O <lb break="yes"/>Zeige hiermit an, daß am 28.5. durch <hi rendition="#i">Spediteur</hi> Friedrich Roth <lb break="yes"/>Klavier u Kiste an den
+                    gewünschten Bestim̄ungsort abgehen werde. <lb break="yes"/>Hochachtung Md
+                        <lb break="yes"/>fiat Absendung durch den <lb break="yes"/>Boten. <lb break="yes"/>Am 28.<hi rendition="#sup">ten</hi> d durch den Boten an
+                    Herrn <hi rendition="#i">Roth</hi> übermittellt <lb break="yes"/>1 Kiste mit
+                    Clavier <hi rendition="#i">M &amp; K. N</hi>. 1028 <lb break="yes"/>2 d<hi rendition="#sup">o</hi> 〃 Bucher <hi rendition="#i">C. M &amp; K
+                        N.</hi> 1029</add>
+<pb facs="#image_064"/>im̄erhin in seinem Magazine mein Instrument ein Paar
+                    <lb break="yes"/>Tage stehen bleiben, wenn ich nicht sofort eine Wohnung <lb break="yes"/>fände.</p>
+<p><seg ana="#salute">Die Ihrigen grüßend, und einer baldigen Besorgung obiger <lb break="yes"/>Angelegenheit entgegensehend </seg></p>
+<p><seg ana="#signed"><hi rendition="#r">Ihr ergebener <lb break="yes"/>Frhr von <hi rendition="#i"><surname>M.</surname></hi>
+<lb break="yes"/>Stadtg. Accessist.</hi></seg> <lb break="yes"/>München, den 25 April 1857.</p>
+</body>
+</text>
+</TEI>

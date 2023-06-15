@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1145l11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1145</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ignaz <surname>L.</surname></persName>
+<date type="sent">29.08.1867</date>
+<date type="received"/>
+<persName type="addressee">Direktor:  <surname>K.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1145l">
+<persName>
+<forename>Ignaz</forename>
+<surname>L.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Kreis-Kassa-Controlleur (Amtsbürgschaft 1600 Fl, Pension 1400 Fl)</occupation>
+<residence>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: </p>
+<p>Anstalt: 1866-1869</p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Hypochondrie (1865),  Trunksucht (1867)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet um Hilfe bei der Entlassung aus der Anstalt, weil er Sehnsucht nach seinen Söhnen hat und es für seine Genesung für erforderlich hält.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1145l11a.jpg" xml:id="image_029"/>
+<graphic mimeType="image/jpg" url="kfb1145l11b.jpg" xml:id="image_030"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_029"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Euer Hochwohlgeborn!</hi>
+</salute>
+</opener>
+<p> Die Qualen der Sehnsucht nach meinen Söhnen − des Kum̄ers und der <lb break="yes"/>Sorgen − sind zu unbezwinglichen geworden; daher nochmals die
+                    <lb break="yes"/>inständige Bitte um Beyhilfe zum schleunigsten
+                Fortkom̄en. <lb break="yes"/>In obiger Stimmung dürfte die beste Bürgschaft
+                für meine <lb break="yes"/>Heilung und deren Nachhaltigkeit liegen − warum nun
+                mich <lb break="yes"/>länger Gefahren aussetzen deren Folgen unheilbare sind? <lb break="yes"/>Soll das Opfer des einjährigen Hierseyns ein vergebliches seyn
+                − <lb break="yes"/>soll ich erst <hi rendition="#u">das</hi>
+<hi rendition="#u">werden</hi>, was ich nicht war und nicht bin! <lb break="yes"/>Lieber den Tod. </p>
+<p>An Ihre Menschlichkeit − und an den <w>Familien Vater</w>
+<lb break="yes"/>appellire ich nochmals − helfen Sie − <lb break="yes"/><seg ana="#salute"><hi rendition="#c">Mit aller Hochachtung</hi>
+<lb break="yes"/><hi rendition="#r">Ihr <lb break="yes"/><unclear>ergebe
+                            </unclear><lb break="yes"/>⏐</hi></seg>
+<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i"><surname>L.</surname></hi>.</seg></hi>
+</p>
+<p><add place="margin"><hi rendition="#u"><hi rendition="#i">Irsee</hi> d. 29/<hi rendition="#sub">8.</hi> 67</hi></add>
+</p>
+<pb facs="#image_030"/>
+<p><hi rendition="#c">Herrn</hi>
+<lb break="yes"/>Direktor <hi rendition="#i"><hi rendition="#u">Kiederle</hi></hi>
+<lb break="yes"/><hi rendition="#r">hochwohl
+                    <lb break="yes"/><hi rendition="#u">dahier </hi></hi></p>
+</body>
+</text>
+</TEI>

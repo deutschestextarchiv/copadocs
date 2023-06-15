@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb427m10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Angela Hofmann</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>427</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Louise <surname>M.</surname></persName>
+<date type="sent">29.09.1859</date>
+<date type="received"/>
+<persName type="addressee">Ehemann und Cousin: Jean <surname>M.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb427m">
+<persName>
+<forename>Louise</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1815"/>
+<death cert="unknown"/>
+<occupation>Privatiersfrau</occupation>
+<residence>Schwabing, München</residence>
+<faith>k oder p&gt;</faith>
+<state>
+<p>Familienstand: v</p>
+<p>Eltern: niederer Stand</p>
+<p>Anstalt: 1853-1859</p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Geisteskrankheit, fixe Ideen, Angst (1853-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    erwartet Mann, der sie bald abholen wird, mit Sehnsucht, wurde sehr gedemütigt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb427m10a.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="kfb427m10b.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_018"/>
+<opener>
+<dateline><hi rendition="#r">Irsee d 29 Sebtember 1859.</hi><lb break="yes"/></dateline>
+<salute>Lieber Man̄!<lb break="yes"/></salute>
+</opener>
+<p>Herr Docktor Engelman̄ brachte mir die<lb break="yes"/>freudige Nachricht daß
+                Du kom̄en wirst<lb break="yes"/>um mich abzuholen, und bitte Dich ja nicht<lb break="yes"/>zu zögern da ich Dich <add place="above">mit</add> heißer
+                Sehnsucht<lb break="yes"/>erwarte, wie schlägt mein Herz
+                bey den<lb break="yes"/>Gedanken wieder mit meinen lieben<lb break="yes"/>Angehörigen seyn zu könen, ich werde<lb break="yes"/>gewiß ruhig und gelassen
+                seyn, den̄ ich<lb break="yes"/>bin hier im Hause sehr getemühtigt worden.<lb break="yes"/>ich erken̄e dan̄ daß Dein Herz noch nicht<lb break="yes"/>verwiltert ist, und werde Dich dan mit <pb facs="#image_019"/>offenen Armen empfangen. <seg ana="#signed">Deine Dich<lb break="yes"/><hi rendition="#r">liebende<lb break="yes"/><hi rendition="#i">Louise</hi></hi></seg>
+</p>
+</body>
+</text>
+</TEI>

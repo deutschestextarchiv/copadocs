@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="war1116w01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 660: Warstein</collection>
+<idno>1116 (K. 240)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabeth <surname>W.</surname></persName>
+<date type="sent">18.01.1906</date>
+<date type="received"/>
+<persName type="addressee">Ehemann: Bernard <surname>W.</surname></persName>
+<settlement type="sent">Warstein</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="war1116w">
+<persName>
+<forename>Elisabeth</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1866-11-06"/>
+<death when="1906-10-09"/>
+<occupation>Bergmannsfrau</occupation>
+<residence>Geburtsort: Nordenfeldmark; Wohnort: Westerloh</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Tagelöhner, Mutter: Ehefrau</p>
+<p>Anstalt: 08.06.1897-09.10.1906</p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Hebphrenie (1897)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin will, dass ihr Mann sie abholt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="war1116w01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="war1116w01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="war1116w01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#i">Wahrstein</hi> d 18 Januar 1906</dateline>
+<salute><hi rendition="#c">Lieber Mann.</hi></salute>
+</opener>
+<p><add hand="hand2"><hi rendition="#i">Zur Absendung </hi>
+<space/>
+<unclear/>
+<lb break="yes"/><hi rendition="#i">nicht geeignet</hi>. z.
+                        Krankengesch.</add>
+</p>
+<p>In aller Eile muß ich Dir mittheilen <lb break="yes"/>wie leid, ich es in Wahrstein.
+                Wo ich <lb break="yes"/>von Münster kam, bin ich es Morgens <lb break="yes"/>in <hi rendition="#i">D</hi>üstern weggefahren. Ofters hab <lb break="yes"/>ich mich
+                schon nachgedacht, wie es noch <lb break="yes"/>mach, wo ich immer geholfen hab <lb break="yes"/>das man gute Hülfe behielten. <lb break="yes"/>Uberhaupt gefiel es
+                mir zu Münster <lb break="yes"/>besser wie in Wahrstein, da gibt <lb break="yes"/>es
+                schlecht Essen Fleisch ist da <lb break="yes"/>kaum zu sehen bei der Mahlzeit <lb break="yes"/>dagegen wars in Münster tausend <lb break="yes"/>mal besser, und
+                nun denk ich <lb break="yes"/>öfter an dich, das du mir nicht <lb break="yes"/>ehr
+                holst, schämen muß du dich, <lb break="yes"/>das du auf Gottes Erdboden <lb break="yes"/><space/> lebst, bist nicht werth</p>
+<pb facs="#image_002"/>
+<p>Meine Jacke habe mir <lb break="yes"/>zerschnitten und mein Kleid <lb break="yes"/>ist so bestohlen kaum das ich <lb break="yes"/>vor Werktag noch tragen <lb break="yes"/>kann. Weiter woll wir herüber <lb break="yes"/>nachdenken, um das
+                ich was <lb break="yes"/>verdien. Mich holle soll dich <lb break="yes"/>die Reise
+                wohl zu weit sein. <lb break="yes"/>besser wär es, den wir werden <lb break="yes"/>sonst Bettelarm. <seg ana="#salute">Viele <lb break="yes"/><hi rendition="#r">Grüße
+                        an Dich </hi><lb break="yes"/><seg ana="#signed">von deine Frau</seg></seg>
+<lb break="yes"/>in bester Hofnung das du bald <lb break="yes"/>komst und das dich
+                dieser <lb break="yes"/>Brief in bester Gesundheit <lb break="yes"/><hi rendition="#c">antrift</hi>
+<lb break="yes"/>an Hern Bernard <surname><hi rendition="#i">W.</hi><hi rendition="#i">s</hi>terwalbes<add place="below">loh</add></surname>
+<lb break="yes"/><hi rendition="#i">Wes</hi>terholt wohnhaus
+                    <surname>E.</surname>
+<lb break="yes"/><hi rendition="#c"><hi rendition="#i">No</hi> 120</hi>
+</p>
+<pb facs="#image_003"/>
+<p>Wo ich es so redlich mein. Mir <lb break="yes"/>wird keine Arbeit leid, aber <lb break="yes"/>jetzt hab ich mich auch wirklich <lb break="yes"/>den Entschluß
+                gefaßt zu Faullen<add place="below">zen</add>
+<lb break="yes"/><hi rendition="#i">D</hi>enk dich mal wo will <lb break="yes"/>das
+                hinaus; Wen ich Tag und Nacht <lb break="yes"/>arbeit und den noch kein Lohn <lb break="yes"/>etwas hat ich den doch gedacht <lb break="yes"/>aber nein noch
+                nicht mal <lb break="yes"/>ein Nessel Kleid darum <lb break="yes"/>will ich mich
+                auch bemühe <lb break="yes"/>das es anders geht, mein Ring <lb break="yes"/>und
+                Kreuz ist noch zu Münster <lb break="yes"/><unclear>Damast fon</unclear> Rok und Hut
+                braune <lb break="yes"/>schwarze Schürz und Talge. <lb break="yes"/>O die meinen sie
+                konten mir <lb break="yes"/>mit gestohlenen Sache abführe <lb break="yes"/>aber das
+                soll doch anders <lb break="yes"/>gemacht werden, ich will
+                    <unclear>wengsen</unclear>
+<lb break="yes"/>das <unclear>asalt</unclear> haben was <unclear>ge</unclear></p>
+</body>
+</text>
+</TEI>

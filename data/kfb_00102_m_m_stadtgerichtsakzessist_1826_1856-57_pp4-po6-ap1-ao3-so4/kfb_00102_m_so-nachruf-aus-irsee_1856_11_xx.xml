@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb102m04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>102</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Fritz von <surname>M.</surname></persName>
+<date type="sent">xx.11.1856</date>
+<date type="received"/>
+<persName type="addressee">:  <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb102m">
+<persName>
+<forename>Fritz von</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1826"/>
+<death cert="unknown"/>
+<occupation>Stadtgerichtlicher Akzessist (Freiherr)</occupation>
+<residence>München, geb. Starnberg&gt;</residence>
+<faith>p</faith>
+<state>
+<p>Familienstand: l</p>
+<p>Eltern: Adel</p>
+<p>Anstalt: 1856-1857</p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>[Fixe Ideen](1856, Selbstzuschreibung), tiefe psychische Störung (1856)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Nachruf</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gedicht: Erinnerung an eine ehemalige Geliebte, Nachruf
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb102m04a.jpg" xml:id="image_039"/>
+<graphic mimeType="image/jpg" url="kfb102m04b.jpg" xml:id="image_040"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_039"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>
+<hi rendition="#c">Nachruf aus Irsee.</hi></p>
+<p> In jener Ballnacht, als ich dir entwand<lb break="yes"/> den Strauß aus deiner
+                zarten Hand,<lb break="yes"/> Du schautest weg - und miedest meinen Blick -<lb break="yes"/> Den Strauß, den gab ich nie zurück.<lb break="yes"/> Und als wir
+                damals unsere Scherze machten<lb break="yes"/> Und mit den Epoulettenmän̄ern
+                    lachten,<lb break="yes"/> Da hast du mir auf Ein Mal zur Ehe gerathen!-<lb break="yes"/> Nun began̄en gloriose Thaten -<lb break="yes"/> Du wolltest
+                aber nur charmiren,<lb break="yes"/> Und <hi rendition="#u">hießest</hi> mich <hi rendition="#u">überall</hi> figuriren;<lb break="yes"/> Doch war dir meine
+                    Freude am Glanze nie recht;<lb break="yes"/> Ihr Mädchen
+                seyd ein drollig Geschlecht.<lb break="yes"/> Der kleine Amor, der deinen Busen oft
+                    zierte,<lb break="yes"/> War der Retter, der mich zum Ende führte.<lb break="yes"/> Der Strauß, er ist nun längst verdorrt<lb break="yes"/> Und liegt
+                an unbekanntem Ort;<lb break="yes"/> Er hat mich in ein <seg ana="#inst">Pflege-Haus</seg> gebracht,<lb break="yes"/> Wo mir Freundschaft und Liebe
+lacht.<lb break="yes"/> Du lehrtest mich ein selbstbewußtes
+                    Leben<lb break="yes"/> Hab Dank für dieses jugendliche Streben<lb break="yes"/>
+                Steure nun beherzt hinaus in die wetterschwangre<lb break="yes"/>
+<hi rendition="#r">Welt</hi>
+<pb facs="#image_040"/>
+<hi rendition="#u">Wir</hi> sehen uns wieder im Sternenzelt.<lb break="yes"/>
+                Deine Freundin̄ aber, die vor Jahren mich betrog<lb break="yes"/> Und
+                schamlos mit den Augen log,<lb break="yes"/> Rufe ich keinen Gruß mehr nach-<lb break="yes"/> In mir ist neue Liebe wach. </p>
+</body>
+</text>
+</TEI>

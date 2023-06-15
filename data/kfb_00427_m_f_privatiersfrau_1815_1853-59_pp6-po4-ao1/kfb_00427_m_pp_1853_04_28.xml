@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb427m05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Angela Hofmann</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>427</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Louise <surname>M.</surname></persName>
+<date type="sent">28-04.1853</date>
+<date type="received"/>
+<persName type="addressee">Dienstmagd: Marie <surname>K.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb427m">
+<persName>
+<forename>Louise</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1815"/>
+<death cert="unknown"/>
+<occupation>Privatiersfrau</occupation>
+<residence>Schwabing, München</residence>
+<faith>k oder p&gt;</faith>
+<state>
+<p>Familienstand: v</p>
+<p>Eltern: niederer Stand</p>
+<p>Anstalt: 1853-1859</p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Geisteskrankheit, fixe Ideen, Angst (1853-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Inhalt: Anschuldigung, dass Marie Haus verraten und verkauft hat, hatte Vermögen im Auge
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb427m05a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb427m05b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r">Irsee d 28 Apriel 1853.</hi><lb break="yes"/></dateline>
+<salute><space/>Marie!<lb break="yes"/></salute>
+</opener>
+<p>Es ist fürchterlich und Entsetzlich eine solche<lb break="yes"/>Person in hause zu
+                haben die eine<lb break="yes"/>Geisteskranke so hintergeht wie Du<lb break="yes"/>den̄ Du hast unser ganzes Haus verathen<lb break="yes"/>und verkauft und
+                mit <surname>M.</surname> ein großes<lb break="yes"/>Einverständnis
+                gehabt, ich erinere<lb break="yes"/>mich noch deütlich daß Du in <w>Regens <lb break="no"/>burg</w> in einer Anstalt warst und<lb break="yes"/>kantest
+                daher dieses Leben.<lb break="yes"/>die Magd die nach Dir hieher kam<lb break="yes"/>und Du zu mir brachtest war <surname>K.</surname>
+<lb break="yes"/>seine Schwester eine große Spionin<lb break="yes"/>warst Du daß ist
+                der Dank daß ich<lb break="yes"/>so viel gutes an Dir that, mein<lb break="yes"/>großes Vermögen war Dir im Auge <pb facs="#image_008"/>und gabst Dich aller
+                schlechten handlungen<lb break="yes"/>hin um Reich zu werden, die 1000 fl die<lb break="yes"/>Du von meinen Man erhielst waren<lb break="yes"/>Dir nicht
+                hinreichend, Ach Elende Person. <lb break="yes"/>Du entfertest mir meine gute
+                    Mutter<lb break="yes"/>und Kinder um recht die Person zu<lb break="yes"/>spielen
+                und Dich geltent zu machen.<lb break="yes"/><surname>Z.</surname> kam
+                als Artzt in das Haus<lb break="yes"/>um mich Wansinig zu machen und das<lb break="yes"/>letzte davon war die Entfehrung mit<lb break="yes"/><surname>Z.</surname> und Marie <surname>K.</surname>
+                    und<lb break="yes"/>alles kam von Dir</p>
+</body>
+</text>
+</TEI>

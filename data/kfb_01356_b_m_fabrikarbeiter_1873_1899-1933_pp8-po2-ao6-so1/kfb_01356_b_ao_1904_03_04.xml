@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1356b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1356</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Katharina <surname>B.</surname></persName>
+<date type="sent">04.03.1904</date>
+<date type="received"/>
+<persName type="addressee">Medizinalrat:  <surname/></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1356">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1873"/>
+<death cert="unknown"/>
+<occupation>Fabrikarbeiter, Weber</occupation>
+<residence>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bruder: Kammgarnspinnerei</p>
+<p>Anstalt: 1899-1933</p>
+<p>Brieftypen: pp, po, ao, lebenslauf</p>
+</state>
+<trait><p>Depression, [Suizidalität], Angstanfälle (1899), Halluzination (1908)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte wissen, wie es ihrem Sohn geht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1356b02a.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg d  4 März 1904</hi></dateline>
+<salute>Hochgehrtter kg.<lb break="yes"/>
+<w>Medizinahl Raht</w></salute>
+</opener>
+<p>
+<add hand="arzt">Lam̄<unclear>?</unclear>8</add><lb break="yes"/>
+
+Ich bitte Ihnen gütigst<lb break="yes"/>
+um eine kleine nachricht<lb break="yes"/>
+über daß befinden meines<lb break="yes"/>
+kranken Sohn Joseh<lb break="yes"/>
+<surname>B.</surname>.</p><p> Dancke zugleich für Ihre<lb break="yes"/> erhabene güte.<lb break="yes"/>
+<hi rendition="#c"><seg ana="#signed">Frau Katharina<lb break="yes"/> Braun
+                        Wietwe</seg></hi><lb break="yes"/>
+<handShift scribe="arzt"/><lb break="yes"/> 15.IV 04: körperl. sehr wohl, sonst<lb break="yes"/>
+<unclear>Mat. u. hallen</unclear><lb break="yes"/><hi rendition="#i"> h</hi>.<lb break="yes"/>
+</p>
+</body>
+</text>
+</TEI>

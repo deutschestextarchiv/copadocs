@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2827g16" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2827</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria Cleofa <surname>G.</surname></persName>
+<date type="sent">24.11.1893</date>
+<date type="received"/>
+<persName type="addressee">: Xaver <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2827g">
+<persName>
+<forename>Maria Cleofa</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1845"/>
+<death cert="unknown"/>
+<occupation>Bauerstochter</occupation>
+<residence>Enigshausen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bauern</p>
+<p>Anstalt: 1877-1923</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Manie (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Glückwünsche zum Namensfest; berichtet von Nerven- und Magenleiden; bittet darum, dass der Andressat sie besucht oder zu sich nimmt; berichtet vom Tod ihres Onkels und finanziellen Schwierigkeiten der Familie
+                    kennt seine Adresse nicht, bittet unter Angabe ihrer Adresse um Antwort
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2827g16a.jpg" xml:id="image_040"/>
+<graphic mimeType="image/jpg" url="kfb2827g16b.jpg" xml:id="image_041"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_040"/>
+<opener>
+<dateline><hi rendition="#c">Heilanstalt Irs<hi rendition="#i">ee</hi></hi><lb break="yes"/>
+<hi rendition="#r">den̄ 24<hi rendition="#sup"><hi rendition="#u">t</hi></hi> November<lb break="yes"/> 1893.</hi></dateline>
+<salute><hi rendition="#c">Lieber Doktor Xaverius!</hi><lb break="yes"/>
+<add hand="arzt">(<hi rendition="#i">Schlicting</hi>)</add></salute>
+</opener>
+<p>
+<add hand="arzt">/: Begin̄ des <unclear>Parongram̄</unclear>/</add></p>
+<p>Gott zum Gruß! </p>
+<p>Ich wünsche. Glük, Heil, u.<lb break="yes"/> Segen, zu Deinen Namensfest<lb break="yes"/> Bete
+                thu, mih besuchen mein<lb break="yes"/> Mein <seg ana="#med">Magenleiden</seg> u.
+                    <seg ana="#med"><w>Nerfen<lb break="no"/> leiden</w></seg>. Nun in Urlaub nach
+                    <lb break="yes"/> Würtenberg.</p>
+<p>vierzehn Jahre ist lang, ich<lb break="yes"/> bin sehr arm, mein unglüklicher<lb break="yes"/>
+                Bruder u. Schwägerin̄ sam̄t<lb break="yes"/> Kinder <seg ana="#metaling">ich weis keine Adresse<lb break="yes"/> schreibe mir ob Du den
+                        Brief<lb break="yes"/> erhalten</seg> wen <seg ana="#med">schwache
+                        leidende<lb break="yes"/> Nerfen</seg> u. <seg ana="#med">Magenleide</seg>
+                ich muß<pb facs="#image_041"/> Mein lieber Xaver mein<lb break="yes"/> Onkel ist
+                gestorben dar mir<lb break="yes"/> 3 Mark fünf eimahl zehn<lb break="yes"/> Mark
+                mein unglüklicher <lb break="yes"/> Bruder u. Schwägerin̄ haben<lb break="yes"/> seit 27. Jahren 27000 Mark<lb break="yes"/> Schaden in Roß
+                Viehstall heuer<lb break="yes"/> sehr wenig Futter. O! mein<lb break="yes"/> lieber
+                theurer Xaver.<lb break="yes"/> thu mich besuchen nehme<lb break="yes"/> zu dir
+                    Ulm.<lb break="yes"/>
+<seg ana="#salute">Viele <w>Grüß</w><w>an</w> Dich<lb break="yes"/> u. die Denigen schreibe<lb break="yes"/> mir
+                        Antwort.<lb break="yes"/></seg> Adresse Maria Cleofa
+                    <surname>G.</surname><lb break="yes"/> in der Heil u. Pfleganstalt<lb break="yes"/> Kaufbeuren.</p>
+</body>
+</text>
+</TEI>

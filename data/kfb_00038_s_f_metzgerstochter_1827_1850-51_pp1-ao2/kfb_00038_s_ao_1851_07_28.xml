@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb38s01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>38</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>S.</surname></persName>
+<date type="sent">28.07.1851</date>
+<date type="received"/>
+<persName type="addressee">Direktor:  <surname/></persName>
+<settlement type="sent">Landsberg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb38s">
+<persName>
+<forename>Aloysia</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1827"/>
+<death cert="unknown"/>
+<occupation>Metzgerstochter</occupation>
+<residence>Landsberg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Metzger</p>
+<p>Anstalt: 1850-51</p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Seelenstörung, Tobsucht (1850)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="vater"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet, Aloysia zu entlassen, da es ihm zu teuer wird
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb38s01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Eirero Hochwol geboren Herr Dierektor!</hi></salute>
+</opener>
+<p> Ich wahr beim Herrn Grichtsartzd, und sagte in <lb break="yes"/>das mier
+                mein̄e zwey, Mädelll zu viell kösten <lb break="yes"/><w>ver Ursachen</w>,
+                und das es schon das Jahr vorbey <lb break="yes"/>sey, wo die Alloßia in Irrße, ist.
+                Und wen <lb break="yes"/>es jetzd noch nicht beßer ist so däncke ich es wierd <lb break="yes"/>nicht mer Bäßer, dan sagte er, Ich solte es in <lb break="yes"/>Landsberg bey Sollieden layden brobierenn <lb break="yes"/>und solte es nicht
+                gudtun, so solte ich sie in Spiettall <lb break="yes"/>ein kauffen. Ich dethe
+                ihn̄en allso Biettden <lb break="yes"/>sie zu Endlaßen. <seg ana="#signed">und verbleibe im̄er ihnen <lb break="yes"/>im̄er Ergebenst und
+                    Dankbarster= <lb break="yes"/>Landsberg ten 28 Juny 1851 Joseph Simmayr <lb break="yes"/><hi rendition="#r">Biergl: Metzger </hi></seg></p>
+</body>
+</text>
+</TEI>

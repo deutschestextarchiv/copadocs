@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun1297s14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>1297 (K. 650)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabeth <surname>S.</surname></persName>
+<date type="sent">03.01.1904</date>
+<date type="received"/>
+<persName type="addressee">Onkel, Tante:  <surname/></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mun1297s">
+<persName>
+<forename>Elisabeth</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1873-01-15"/>
+<death when="1924-06-26"/>
+<occupation>Haushälterin</occupation>
+<residence>Geburtsort: Brakel; Wohnort: Werl</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Wegemeister, Mutter: ohne Beruf</p>
+<p>Anstalt: 19.01.1901-26.06.1924</p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>einfache Seelenstörung (1901), Dementia paranoides</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin wünscht Glück für das neue Jahr und hofft, dass sie bald entlassen wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun1297s14a.jpg" xml:id="image_044"/>
+<graphic mimeType="image/jpg" url="mun1297s14b.jpg" xml:id="image_045"/>
+<graphic mimeType="image/jpg" url="mun1297s14c.jpg" xml:id="image_046"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_044"/>
+<opener>
+<dateline><add hand="vordruck">Provinzial-Heil-Anstalt <hi rendition="#r">Münster i. W., den</hi></add><hi rendition="#r"> 3. Januar 1904.</hi></dateline>
+<salute><hi rendition="#c">Lieber Onkeln und liebe Tante!</hi></salute>
+</opener>
+<p><surname><hi rendition="#u">S.</hi></surname></p>
+<p><add hand="hand3"><hi rendition="#c">G 4./<hi rendition="#sub">1</hi> 04 <lb break="yes"/><hi rendition="#u" style="hand4">ad acta</hi> Elise
+                                <surname><hi rendition="#i">S.</hi></surname>
+<lb break="yes"/>G </hi></add>
+</p>
+<p>Zum <w>Jahres wechsel</w> sende ich <lb break="yes"/>Euch lieber Onkel und liebe
+                    Tan<lb break="no"/>te die besten Glückwünsche <lb break="yes"/>zum neuen Jahr
+                von ganzen <lb break="yes"/>Herzen. Es wird Euch wohl <lb break="yes"/>noch alles
+                noch gut gehen daß<lb break="no"/>gleiche mit mir jeden Tage <pb facs="#image_045"/>auch hoffe daß ich bald von hier <lb break="yes"/>aus Marienthal entlassen wer<lb break="no"/>de, selbstverständlich wieder drau<lb break="no"/>ßen sich auch
+                wieder sehen las<lb break="no"/>sen kann. Von Hause den lieben <lb break="yes"/>Eltern und lieben Geschwistern <lb break="yes"/>gut, selbstverständlich zu Hau<lb break="no"/>se fertig werden mit Gottes <lb break="yes"/>Hülfe hoft man auch,
+                besuchen <lb break="yes"/>und gleich <w>mit nehmen</w>, sonst <lb break="yes"/>brauchte ich nach hier nicht hin, <lb break="yes"/>wen daß so schwer hielt, zu
+                    Hau<lb break="no"/>se ist man besten <w>auf bewahrt</w>, <pb facs="#image_046"/>die Angst hat und kommt nicht heraus <lb break="yes"/>aller Wegen ist etwas
+                jedenke <lb break="yes"/>man seiner im Gebete heraus kom<lb break="no"/>me ich wohl
+                im Guten keinen anhal<lb break="no"/>ten. <seg ana="#salute">Zum Schlusse wiederhole
+                    ich von <lb break="yes"/>ganzen Herzen zugleich ein glückseli<lb break="no"/>ges, neues Jahr verbleibe ich mit <lb break="yes"/>vielen Grüßen. Euere Dich
+                        lieben<lb break="no"/><hi rendition="#r">de Nichte</hi></seg><hi rendition="#r">
+<seg ana="#signed">Elisabeth <surname>S.</surname></seg>. </hi><lb break="yes"/><hi rendition="#r">Werl bei Soest</hi>
+<lb break="yes"/>Um baldige Antwort. <lb break="yes"/>um Besuch mitnehmen biete, <lb break="yes"/><hi rendition="#c">vor Gircht mit.</hi>
+<lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb120h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>120</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>S.</surname></persName>
+<date type="sent">16.07.1857</date>
+<date type="received"/>
+<persName type="addressee">Direktor:  <surname/></persName>
+<settlement type="sent">na.a.</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb120h">
+<persName>
+<forename>Anna</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Zimmermannstochter</occupation>
+<residence>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Zimmermann, "ohne Vermögen"</p>
+<p>Anstalt: 1854-58</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie, Geistesstörung (1854)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="mutter"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>offizieller Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Mutter hofft, dass Anna nach Entlassung ihr Geld selbst verdienen kann
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb120h02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb120h02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Den 16<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        July 1857</hi></dateline>
+<salute><hi rendition="#c">An Herrn Herrn</hi></salute>
+</opener>
+<p>Hochwohlegeboren Herrn Herrn Dierecktor, Ich bitte Unterthänigs<lb break="yes"/>das ich
+                diesen leztten Brife nicht schreiben kon̄te weihl ich kranck<lb break="yes"/>war, und muste daher einen bekanten Schreiben lassen, es<lb break="yes"/>komt mich
+                schwer an was ich von der An̄a hörte indem das<lb break="yes"/>Ich nichts
+                weiß von einen <surname>S.</surname>, auch nie von einer<lb break="yes"/>Heiratht so lange sie in München war, Sie hätte nie<lb break="yes"/>einem
+                Gegenstand sie komte nie zu keiner Lustbarkeit<lb break="yes"/>so lange sie zu
+                zuhauße war, und wie sie im Kranken<lb break="no"/>hauß, zu Münhen war da wollte sie
+                eine Barmherzige<lb break="yes"/>Schwester werden, und aber Ihr <w>Kranckheits Zustand</w><lb break="yes"/>nicht zugelassen
+                habe, <seg ana="#med">Ich meine sie Bieldet diese Sache<lb break="yes"/>sebst in
+                    ihren Kopf hinein</seg>, Wie sie es imehr machte<lb break="yes"/>nach Irehm
+                Kopf, Sie hatte Irer Mutter gefolgt<lb break="yes"/>Sie meint fieleicht wan Sie nach
+                München <add place="above">nimer</add> darf Sie<lb break="yes"/>wieder herumlaufen
+                Wie Sie Wiell das wird aber<lb break="yes"/>nicht sein können den Ich glaube es
+                wirde Ihr<lb break="yes"/>Übel noch shlimer werden als wie forhär wie sie<lb break="yes"/>in München war den diese Sachen wo sie gemacht<lb break="yes"/>hatte Sind nicht zum Shreiben mein inigster Wunsche<lb break="yes"/>wäre, Sie
+                wirde wider das sii ihrer Brod selpstängig<lb break="yes"/>verdinen konte den Ire
+                Altern könen sie nicht<lb break="yes"/>ernähren.<pb facs="#image_004"/>Ich bütte sie
+                unterthänigst Herrn Herrn Dieräcktor<lb break="yes"/>nemen sie mir ungültig Ich als
+                vill Betränkte Mutter<lb break="yes"/>Ich dancke vill <w>thausend fach</w> für ichr
+                Gütte und<lb break="yes"/>Guthtaten die sie meiner Tochter ihmer erwissen<lb break="yes"/>Haben, der Liebe Gott wird sie wieder vergelten</p><p><lb break="yes"/><seg ana="#signed">
+<hi rendition="#r">Ihre danschuldigste</hi><lb break="yes"/><hi rendition="#r">An̄a <surname>S.</surname>
+Schwerbetrübte</hi>
+<hi rendition="#r">Mutter</hi></seg><lb break="yes"/><lb break="yes"/><add>Ich konnte manchen Tag<lb break="yes"/>nicht Arbeiten
+                    vor Kränckung
+<lb break="yes"/>wegen der An̄a</add></p>
+</body>
+</text>
+</TEI>

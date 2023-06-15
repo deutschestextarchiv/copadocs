@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1623g18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1623</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johannes <surname>G.</surname></persName>
+<date type="sent">02.12.1898</date>
+<date type="received"/>
+<persName type="addressee">Vetter: Gottfried <surname>N.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1623g">
+<persName>
+<forename>Johannes</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1905"/>
+<occupation>Zimmergeselle</occupation>
+<residence>Riedheim, Günzburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: 1874-1905</p>
+<p>Brieftypen: pp, po, Lebenslauf, Liedertafel</p>
+</state>
+<trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient schreibt, dass er gesund sei, aber dass er älter werde.
+                    Er sagt, dass seine Schwester bei dem Adressaten und dannach bei einer anderen Arbeitgeberin Magd war.
+                    Er hat von dem Arzt eine Brief seines Bruder erhalten, in dem der Bruder schreibt, dass er und seine Familie gesund sind.
+                    Der Patient entschuldigt sich für mögliche durch seine Krankheit verursachte Beleidigungen.
+                    Er hat gehört, dass eine Bekannte durch den Tod des Vaters schwermütig geworden ist, und glaubt, dass es eine Veranlagung dazu gibt.
+                    Er bestellt Grüße und zeigt sich dankbar.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1623g18a.jpg" xml:id="image_055"/>
+<graphic mimeType="image/jpg" url="kfb1623g18b.jpg" xml:id="image_056"/>
+<graphic mimeType="image/jpg" url="kfb1623g18c.jpg" xml:id="image_057"/>
+<graphic mimeType="image/jpg" url="kfb1623g18d.jpg" xml:id="image_058"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_055"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> den 2<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Dez. 1898.</hi></dateline>
+<salute><hi rendition="#c">Geehrtester Vetter!</hi></salute>
+</opener>
+<p>
+<add hand="arzt"><hi rendition="#i"><surname>G.</surname></hi></add>
+<lb break="yes"/> Ich bin Gott sey Dank gesund,<lb break="yes"/> weiß auch daß ich
+                    täglich<lb break="yes"/> älter werde, wie Iedermann:<lb break="yes"/> Meine
+                Schwester war <add>bei</add> Dir Magt<lb break="yes"/> und dann bei Der alten
+                    <surname>M.</surname><lb break="yes"/> wie sie die Riedheimer Leute<lb break="yes"/> auch nannten.<lb break="yes"/> Mein bruder in Langenau<lb break="yes"/> hat mir vor etwa 3/4 Iahr<lb break="yes"/> geschrieben. Diesen
+                Brief, habe <lb break="yes"/> ich von Herrn Oberarzt <hi rendition="#i">Julius</hi><lb break="yes"/> erhalten. Ich erfuhr darin, daß<lb break="yes"/>
+                Er gesund war und seine Familie<lb break="yes"/>
+<seg ana="#med">Lieber Vetter verzeihe mir, wenn<lb break="yes"/> ich in kranken
+                    Zuständen Dich<lb break="yes"/> beleidigt hätte. Du kennst ja<pb facs="#image_056"/> mich so gut oder fast besser als<lb break="yes"/> meine
+                    Geschwister, Die junge<lb break="yes"/>
+<surname>M.</surname> soll auch schwermüthig<lb break="yes"/> geworten
+                    sein, Der Todt <del>übeles</del><lb break="yes"/> Ihres geliebten Vaters wird<lb break="yes"/> wahrscheinlich beigetragen<lb break="yes"/> haben. Ich bin
+                    zwar kein Arzt<lb break="yes"/> aber es kennen auch <hi rendition="#i">Docktor</hi><lb break="yes"/> nicht für jedes Gemüth Sorge<lb break="yes"/>
+                    tragen. Die Natur trauert bei<lb break="yes"/> einen drüben gestimten Gemüth<lb break="yes"/> Darum heißt das Sprichwort<lb break="yes"/> Ein fröhlig Gemüth
+                    ist ein täg<lb break="no"/> liches Wohlleben.</seg></p> <p>Grüße mir Alle Bekannten und<lb break="yes"/> Verwanden. Der liebe Gott segne<lb break="yes"/>
+                es allen, welche aus guten Herzen<lb break="yes"/> für mich etwas geopfert haben<lb break="yes"/> Ich bin sehr dankbar für Die <lb break="yes"/> Gaben von
+                denjenigen, welche<pb facs="#image_057"/> aus Liebe gegeben haben.<lb break="yes"/>
+                Die Frau Gastwirthin Christina<lb break="yes"/>
+<surname>H.</surname> u Ihren Gattin Martin<lb break="yes"/> grüße mir
+                    freundlichst.<lb break="yes"/> <seg ana="#salute">Ich will schließen<lb break="yes"/> Dein<lb break="yes"/>
+<hi rendition="#c">dankschuldiger<lb break="yes"/> Vetter</hi></seg><lb break="yes"/>
+<hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Johannes</hi>
+<surname>G.</surname></seg><lb break="yes"/>  Zim̄ergeselle<lb break="yes"/>  Patiend in der kgl.<lb break="yes"/>  Anstalt <hi rendition="#i">Irsee</hi> b. Kaufbeuren</hi><pb facs="#image_058"/> Herrn<lb break="yes"/>
+<hi rendition="#r"><hi rendition="#i">Gottfried <surname>N.</surname></hi>,
+                        Schreinermeister<lb break="yes"/> in<lb break="yes"/>
+<hi rendition="#i">Riedheim.<lb break="yes"/> Post Leipheim.</hi></hi></p>
+</body>
+</text>
+</TEI>

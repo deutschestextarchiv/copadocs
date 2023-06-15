@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2325s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2325</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>S.</surname></persName>
+<date type="sent">17.12.1912</date>
+<date type="received"/>
+<persName type="addressee">:  <surname/></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2325s">
+<persName>
+<forename>Anna</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1866"/>
+<death when="1942"/>
+<occupation>Privatiere</occupation>
+<residence>Augsburg, Wohnort München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: </p>
+<p>Anstalt: 1910-42</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>manisch=depressives Irresein (18.04.1911)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patientin fordert Briefe zurück, die nicht abgeschickt wurden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2325s04.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren</hi>
+                    17.12.12.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">P.P.</hi></hi></salute>
+</opener>
+<p><space/> Am 31. <hi rendition="#i">Juli</hi> ds. Jhr. übergab <lb break="yes"/> ich
+                dem Anstaltsarzt hr. Dr <hi rendition="#i">Fuchs</hi> einen <lb break="yes"/>Brief
+                zur Besorgung an den Rechtsanwalt <lb break="yes"/><hi rendition="#i">Dr.
+                        </hi><surname><hi rendition="#i">P.</hi></surname> in <hi rendition="#i">München</hi>; sowie die Abschrift <lb break="yes"/>einer Eingabe an den
+                Stadtmagistrat <lb break="yes"/><hi rendition="#i">Augsburg</hi>. <seg ana="#cens">Da
+                    die beiden Schriftstücke von <lb break="yes"/>hier nicht abgeschickt
+                    wurden</seg>, ersuche ich <lb break="yes"/>Sie, mir dieselben zurückzubringen.
+                Ebenso <lb break="yes"/>fordere ich den Brief zurück, den ich bereits <lb break="yes"/>im Herbst 1911 an die Direktion des <lb break="yes"/>Schwabinger
+                Krankenhauses <hi rendition="#i">München</hi>
+<lb break="yes"/>gerichtet hatte; derselbe wird sich jeden<lb break="no"/>falls
+                unter den Akten befinden.</p><p><space/> <seg ana="#salute">Achtungsvoll</seg>
+<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">A.
+                            <surname>S.</surname>.</hi></seg></hi></p>
+</body>
+</text>
+</TEI>

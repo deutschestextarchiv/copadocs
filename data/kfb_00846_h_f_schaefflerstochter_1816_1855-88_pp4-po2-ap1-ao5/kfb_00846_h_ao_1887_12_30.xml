@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb846h04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>846</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Katharina <surname>S.</surname></persName>
+<date type="sent">30.12.1887</date>
+<date type="received"/>
+<persName type="addressee">Doktor:  <surname/></persName>
+<settlement type="sent">Rennertshofen</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb846h">
+<persName>
+<forename>Karolina</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1816"/>
+<death when="1888"/>
+<occupation>Schäfflerstochter</occupation>
+<residence>Rennertshofen, Monheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schäffler</p>
+<p>Anstalt: 1855-88</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Geisteskrankheit, Verrücktheit, geistig-körperliche Müdigkeit (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    lässt gute Wünsche zum neuen Jahr ausrichten, dankt für Umsorgung der Schwester
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb846h04a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb846h04b.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline>Ren̄ertshofen 30/12 87.<lb break="yes"/><add hand="arzt">3/3 88<lb break="yes"/>
+				        (bericht über Erkrkg der Karol.<surname>H.</surname>)</add></dateline>
+<salute>Verehrungwürdiger Hrr Dr.</salute>
+</opener>
+<p><space/> Vor allen meinen herzlichen Dank für Ihre Güte<lb break="yes"/>mir meine Anfrage
+                wegen meiner armen Schwester<lb break="yes"/>so gleich <w>zu</w><w>beantworten</w>. Da wir wider recht bald<lb break="yes"/>ein neues Jahr mit <w>Gottes</w><w>hilfe</w> anfangen, so kan<lb break="yes"/>ich nicht
+                unterlassen, Ihnen ein recht glückseliges<lb break="yes"/>freudenreiches neues Jahr <w>zu</w><w>wünschen</w>, Ihnen zu danken<lb break="yes"/>für Ihre
+                aufmerksamkeit die Sie meiner armen Schw.<lb break="yes"/>schenken, Möchte Ihnen
+                bitten ihr recht ville Grüße<lb break="yes"/><w>zu</w><w>sagen</w>, u alle guten Wünsche zum neuen Jahr<lb break="yes"/>u. wen sie fähig wäre auch wider einmal Heimschreiben<lb break="yes"/>zu könen, hätte ich unentliche Freude.</p> <pb facs="#image_007"/><p>Ich bitte Ihnen, in künftigen Jahr auch wider Ihre<lb break="yes"/>Liebe u. Freundschaft zu schenken. <seg ana="#salute">So schließe
+                    ich noch<lb break="no"/>mal meine Wünsche zum neuen Jahr widerhollend<lb break="yes"/>unter tausend herzlichen Begrüßungen in Hochachtung</seg></p>
+<p><seg ana="#signed">ergebenste<lb break="yes"/>Katharina <surname>S.</surname> gb.<lb break="yes"/><surname>H.</surname></seg></p>
+<p>Bitte Herrn Hofrat <lb break="yes"/>diesen Brief <w>zu</w><w>übergeben</w>.</p>
+<p><seg ana="#metaling">verzeichens der schlechten schrift<lb break="yes"/>der
+                    schreiben sam̄t Feder ist nichts nutz.</seg>
+</p>
+</body>
+</text>
+</TEI>

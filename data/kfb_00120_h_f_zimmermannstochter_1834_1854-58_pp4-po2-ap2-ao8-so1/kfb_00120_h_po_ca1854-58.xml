@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb120h07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>120</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>H.</surname></persName>
+<date type="sent">ca1854-58</date>
+<date type="received"/>
+<persName type="addressee">Direktor:  <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb120h">
+<persName>
+<forename>Anna</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Zimmermannstochter</occupation>
+<residence>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Zimmermann, "ohne Vermögen"</p>
+<p>Anstalt: 1854-58</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie, Geistesstörung (1854)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    kann Eltern nicht von Liebe zu ihnen schreiben, 
+                    beschimpft lyrisch Docktor Schade, Liebesverhältnis?
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb120h07a.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Werthester Herr Direktor</hi></salute>
+</opener>
+<p>Sie sind ein Man̄ von Ehre und ich habe nicht daß Herz<lb break="yes"/>meinen Ältern
+                zu schreiben daß die Liebe die während<lb break="yes"/>meiner Krankheit mein armes
+                Herz beunruhigte<lb break="yes"/>jetzt mit erneuerter Kraft <w>hervor trit</w> und
+                ich fast nicht<lb break="yes"/>mehr Stande bin es zu verbergen. Reden Sie mit mir<lb break="yes"/>die Wahrheit und teuschen Sie mich nicht länger wie<lb break="yes"/>der Herr Docktor <surname>L.</surname> es macht. Ich werde Ihr Vertrauen<lb break="yes"/>nie mißbrauchen. Ich möchte meine Ältern nicht wieder<lb break="yes"/>auf ein neues betrüben und Ihnen von einer
+                Liebe erzählen<lb break="yes"/>die mich vieleicht nie beklücken wird. Dem Herrn<lb break="yes"/>Docktor <surname>S.</surname> kan̄ ich nichts Anderes
+                schreiben als.<lb break="yes"/>Warum schuldigst du mich an daß ich dir hab Leids
+                    gethan<lb break="yes"/>Wollt ich doch mit deinen Herzen nim̄ermehr aus<lb break="yes"/>Leichtsin scherzen. Ob er mich liebt ich weiß es nicht<lb break="yes"/>Aus seinem Munde hab ichs nie erfahren. <seg ana="#signed">Anna</seg></p>
+</body>
+</text>
+</TEI>

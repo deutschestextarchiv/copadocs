@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb966b33" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Laurentiu Gafiuc</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>966</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Matthäus und Karolin <surname>B.</surname></persName>
+<date type="sent">12.07.1879</date>
+<date type="received"/>
+<persName type="addressee"> Verwalter:  <surname/></persName>
+<settlement type="sent">Kempten</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb966b">
+<persName>
+<forename>Georg</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1904"/>
+<occupation>Buchhalter, Kaufmann</occupation>
+<residence>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Huckler</p>
+<p>Anstalt: 1877-1904</p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Begleitschreiben zu einem Paket.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb966b33.jpg" xml:id="image_091"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_091"/>
+<opener>
+<dateline>Kempten den 12.t <hi rendition="#i">Juli</hi> 1879</dateline>
+<salute>Herr Verwalter!</salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#c">63.</hi></add></p>
+<p>Ersuche Sie freundlichst diese  Eßwaaren nebst 2 Paquete Tabak. <lb break="yes"/><hi rendition="#i">Mark</hi>. 1.60 pfg. zum Bier u etwas Zucker <lb break="yes"/>z. Zuckerwasser meinem Sohne Georg <surname>B.</surname>
+<lb break="yes"/>übergeben zu lassen, wofür ich Jhnen <lb break="yes"/>den
+                verbindlichsten Dank abstatte. <lb break="yes"/><hi rendition="#r">dessen Eltern <seg ana="#signed">Matthäus <surname>B.</surname>
+<lb break="yes"/>Karolin <surname>B.</surname></seg>
+<lb break="yes"/>Nebst Grüße.</hi></p>
+</body>
+</text>
+</TEI>
