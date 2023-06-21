@@ -1,0 +1,199 @@
+@charset "UTF-8";
+
+/* some variables */
+:root {
+  --base-font-family: "PT Sans",sans-serif;
+  --base-font-size: 10pt;
+  --base-font-weight: 300;
+  --base-color: #2a9d8f;
+}
+
+/* all things fonts */
+@font-face { font-family:JuniusVF; src:url('../fonts/JuniusVF.woff2'); font-weight:300 700; font-stretch:60% 100%; font-style:normal }
+@font-face {
+    font-family: 'Junicode';
+    src: url('../fonts/junicode-regular-webfont.eot');
+    src: url('../fonts/junicode-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Junicode.woff') format('woff'),
+         url('../fonts/Junicode.ttf') format('truetype'),
+         url('../fonts/junicode-regular-webfont.svg#JunicodeRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Junicode';
+    src: url('../fonts/junicode-italic-webfont.eot');
+    src: url('../fonts/junicode-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Junicode-Italic.woff') format('woff'),
+         url('../fonts/Junicode-Italic.ttf') format('truetype'),
+         url('../fonts/junicode-italic-webfont.svg#JunicodeItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/pt-sans-v17-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../fonts/pt-sans-v17-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/pt-sans-v17-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/pt-sans-v17-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/pt-sans-v17-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/pt-sans-v17-latin-ext_latin-regular.svg#PTSans') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/pt-sans-v17-latin-ext_latin-700.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../fonts/pt-sans-v17-latin-ext_latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/pt-sans-v17-latin-ext_latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/pt-sans-v17-latin-ext_latin-700.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/pt-sans-v17-latin-ext_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/pt-sans-v17-latin-ext_latin-700.svg#PTSans') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/pt-serif-v17-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../fonts/pt-serif-v17-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/pt-serif-v17-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/pt-serif-v17-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/pt-serif-v17-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/pt-serif-v17-latin-ext_latin-regular.svg#PTSerif') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/pt-serif-v17-latin-ext_latin-700.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../fonts/pt-serif-v17-latin-ext_latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/pt-serif-v17-latin-ext_latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/pt-serif-v17-latin-ext_latin-700.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/pt-serif-v17-latin-ext_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/pt-serif-v17-latin-ext_latin-700.svg#PTSerif') format('svg'); /* Legacy iOS */
+}
+
+/* base formatting */
+body { font-family:"PT Sans",sans-serif; background:linear-gradient(to bottom, #fff, #fff 50%, #eee 50%, #eee); background-size:100% 3px }
+
+footer { border-top:1px solid #ccc }
+h1 { font-weight:bold; border-bottom:1px solid #ddd; margin-bottom:20px }
+h2 { font-weight:normal; margin-bottom:20px }
+h3 { font-weight:bold; font-size:19pt }
+blockquote { border-left:5px solid #ddd; margin-left:3rem; padding-left:1rem }
+.blockquote-footer { text-align:right }
+
+/* navigation */
+.navbar-brand img { max-width:95vw }
+.nav-link { font-size:12pt; margin:0 10px }
+.nav-link, .nav-item a.dropdown-item { color:var(--base-color) }
+.nav-link:active,
+.nav-link.active,
+.nav-item a.dropdown-item:active,
+.nav-item a.dropdown-item.active { color:#fff !important; background:var(--base-color) !important }
+.nav-link:active, .nav-link.active { border-radius:4px }
+
+/* paging */
+.paginate_button a { color:var(--base-color) !important }
+.paginate_button.active a { background:var(--base-color) !important; border-color:var(--base-color) !important; color:#fff !important }
+.pagination a, .dataTables_info, .dataTables_length, .dataTables_filter { font-size:10pt !important }
+
+/* links and buttons */
+a { color:var(--base-color); text-decoration:none }
+a:hover { color:var(--base-color); text-decoration:underline }
+
+.btn-primary { background:#265085; border-color:#173151 }
+a.btn:hover { text-decoration:none }
+
+/* cards */
+.card-img-top { width:100%; height:10vw; min-height:160px; object-fit:cover }
+
+.popover { border-radius:0 }
+.popover-header { background:#d8e7f7; font-family:var(--base-font-family); font-weight:bold; padding:6px; border-radius:0 }
+
+/* TEI rendering */
+.tei { background:#fff; padding:20px }
+
+.tei-header { margin-bottom:20px; border-bottom:2px solid #ccc; font-family:var(--base-font-family) }
+.tei-header table td { padding:2px 10px }
+
+.tei-text { font-family:'JuniusVF'; font-size:14pt }
+
+.tei-side-figure { display:block; float:left; clear:left; width:200px; max-height:340px; background:#fff; padding:10px; text-indent:0 }
+.tei-side-figure figcaption { display:inline }
+
+@media (max-width:1100px) {
+  .tei-side-figure { display:none }
+}
+
+.tei-ab             { }
+.tei-add            { color:#060 }
+.tei-bibl           { }
+.tei-div[data-type="section"] > .tei-bibl { display:block; text-indent:-1rem; margin-left:1rem; margin-bottom:1rem }
+
+.tei-cb             { display:block; text-align:center; color:#666; margin:1rem 0; font-family:var(--base-font-family); font-size:var(--base-font-size); font-weight:var(--base-font-weight) }
+.tei-cb[data-n]::before       { content:'[Spalte ' attr(data-n) ']' }
+.tei-cb:not([data-n])::before { content:'[Spalte]' }
+
+.tei-cell           { display:table-cell !important; padding:2px 10px } /* handle <cell rendition="#c | #right"> properly */
+.tei-choice         { border-bottom:1px dotted #666 }
+.tei-date           { }
+.tei-div            { margin-top:20px }
+.tei-figure figure  { display:block; border:1px solid #ddd; padding:10px }
+.tei-figure .tei-head { font-size:14pt }
+.tei-front          { display:block; /* padding-bottom:30px; margin-bottom:30px; border-bottom:1px solid #ddd*/ }
+.tei-head           { display:block; font-weight:bold; font-size:larger; margin-top:20px }
+.tei-hi             { }
+.tei-hr             { max-width:10rem; margin-left:auto; margin-right:auto; border-top: 1px solid #999; clear:both }
+.tei-item           { display:list-item; text-indent:-2rem; margin-left:2rem }
+.tei-item .tei-label { font-weight:bold }
+.tei-l              { display:block }
+.tei-lb::after      { content:"\a "; display:block }
+.tei-lg             { margin:1rem 2rem; display:block }
+.tei-list           { margin:1rem 1rem; display:block; list-style-type:none }
+.tei-list .tei-list { margin:0 1rem }
+.tei-listBibl       { margin:1rem 1rem; display:block; list-style-type:none }
+.tei-listBibl > .tei-bibl { display:list-item; text-indent:-2rem; margin-left:2rem }
+.tei-milestone      { display:block; border-bottom:1px solid #aaa; margin:2rem 0 }
+
+.tei-note[data-type="digital_edition"] { opacity:.6; font-size:12pt }
+.tei-note[data-type="digital_edition"]::before { content:'[Anmerkung digitale Edition: ' }
+.tei-note[data-type="digital_edition"]::after  { content:']' }
+
+.tei-note-sign      { position:relative; top:-0.5em; font-size:80% }
+.tei-note-popover .tei-p:nth-of-type(1) { text-indent:0 }
+.tei-p              { display:block; margin:0 0 10px; text-indent:1rem }
+
+.tei-pb             { display:block; text-align:center; color:#666; margin:1rem 0; font-family:var(--base-font-family); font-size:var(--base-font-size); font-weight:var(--base-font-weight); letter-spacing:normal }
+.tei-pb:hover       { background:#f3f3f3 }
+.tei-pb[data-n]::before       { content:'[Seite ' attr(data-n) ']' }
+.tei-pb:not([data-n])::before { content:'[' attr(data-facs) ']' }
+
+.tei-persname       { background:#77e195; padding:4px; cursor:help }
+.tei-placename      { background:#8cc8ff; padding:4px; cursor:help }
+.tei-row            { display:table-row }
+.tei-row:nth-child(odd) { background:#f3f3f3 }
+.tei-row[data-role="label"] { display:table-header-group; font-weight:bold; background:#e0e0e0 }
+.tei-surname        { background:#77e195; cursor:help }
+.tei-surname:empty::after  { content:"👤"; opacity:.3 }
+.tei-table          { display:table; margin:20px auto }
+.tei-titlePart      { font-size:larger; display:block; margin-bottom:10px }
+.tei-titlePart[data-type="sub"] { font-size:initial }
+.tei-unclear        { opacity:.6 }
+.tei-unclear::after { content:"(?)" }
+
+[data-rendition~="#c"]   { text-align:center; display:block }
+[data-rendition~="#hr"]  { /* TODO */ }
+[data-rendition~="#i"]   { font-style:italic }
+[data-rendition~="#r"]   { /* TODO */ }
+[data-rendition~="#sup"] { position:relative; top:-0.5em; font-size:80% }
+[data-rendition~="#sub"] { position:relative; bottom:-0.5em; font-size:80% }
+[data-rendition~="#u"]   { text-decoration:underline }
+
+.tei-titlePart[data-type="column"] { display:none }
