@@ -22,7 +22,7 @@
           <div class="container mt-3 mb-5">
             <div class="row">
               <xsl:choose>
-                <xsl:when test="$page='index.html'">
+                <xsl:when test="$page='index.html' or $page='list.html'">
                   <div class="col-lg-12 col-md-12 tei mx-auto">
                     <xsl:copy-of select="."/>
                   </div>

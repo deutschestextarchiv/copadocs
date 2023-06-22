@@ -8,8 +8,8 @@
   <xsl:import href="letter-header.xsl"/>
 
   <xsl:variable name="force-exclude-all-namespaces" select="true()"/>
-  <xsl:variable name="volume-id" select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:biblFull/t:seriesStmt/t:title[@type='main']/@xml:id"/>
-  <xsl:variable name="barcode" select="substring-before(/t:TEI/t:text[1]//t:pb[1]/@facs, '/')"/>
+  <xsl:param name="dirname"/>
+  <xsl:param name="filename"/>
 
   <xsl:output method="html" media-type="text/html"/>
 
@@ -21,8 +21,13 @@
     <xsl:call-template name="doctype"/>
     <html lang="de">
       <head>
+        <xsl:variable name="title">
+          <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='sender'])"/>
+          <xsl:text>, </xsl:text>
+          <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:date[@type='sent'])"/>
+        </xsl:variable>
         <xsl:call-template name="html-header">
-          <xsl:with-param name="title" select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:title[@type='main'][1]"/>
+          <xsl:with-param name="title" select="$title"/>
         </xsl:call-template>
       </head>
       <body class="d-flex flex-column vh-100">
@@ -35,16 +40,12 @@
                   <ol class="breadcrumb mb-0">
                     <li class="breadcrumb-item"><a href="{$base}">Start</a></li>
                     <li class="breadcrumb-item">
-                      <a href="../volumes/{$volume-id}.html">
-                        <xsl:text>Band </xsl:text>
-                        <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:biblFull/t:seriesStmt/t:biblScope[@unit='volume']"/>
-                        <xsl:text>, </xsl:text>
-                        <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:biblFull/t:seriesStmt/t:biblScope[@unit='issue']"/>
+                      <a disabled="disabled">
+                        <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='sender'])"/>
                       </a>
                     </li>
                     <li class="breadcrumb-item active" aria-current="page">
-                      Artikel
-                      <xsl:value-of select="/t:TEI/t:text[1]//t:titlePart[@type='number'][1]"/>
+                      <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:date[@type='sent'])"/>
                     </li>
                   </ol>
                 </nav>

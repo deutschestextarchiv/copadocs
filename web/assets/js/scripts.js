@@ -1,30 +1,145 @@
 $( function() {
+  base = $('base').attr('href')
+
+  // tooltips
+  $('.tei-surname').attr('title', 'Nachname')
+                   .data('bs-toggle', 'tooltip')
+
+  const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+  const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
+
   // link to page images
-  /*
-  $('.tei-pb[data-facs]').append( function(i, str) {
-    let facs = $(this).data('facs')
-    let n    = $(this).data('n')
+  $('.tei-pb[data-facsimile').append( function(i, str) {
+    let facs = $(this).data('facsimile')
+    let href = window.location.href
+    let dir  = href.substring(0, href.lastIndexOf('/')).replace(/.*\//,'')
+    let src  = `${base}data/${dir}/${facs}`
+
     let marginLeft = -( $(this).position().left - $('.tei').position().left + 220)
-    return `<figure class="tei-side-figure figure" style="margin-left:${marginLeft}px">
-              <a href="../facsimile/${facs}.png" target="_blank" title="im Vollbild anzeigen" data-bs-toggle="tooltip">
-                <img src="../facsimile/${facs}.png" class="figure-img img-fluid rounded"/>
+    return `<figure class="tei-side-figure" style="margin-left:${marginLeft}px">
+              <a href="${src}" target="_blank" title="Faksimile im Vollbild anzeigen">
+                <img src="${src}" class="figure-img img-fluid rounded"/>
               </a>
-              <figcaption class="figure-caption">
-                Faksimile ${Number.isInteger(n) != 0 ? 'S. ' + n : n}
-              </figcaption>
+              <figcaption class="figure-caption">Faksimile <em>${$(this).data('facs')}</em></figcaption>
             </figure>`
-  })*/
-
-  // link to XML source
-  let file = window.location.href.match(/\/([^/]+)\.html/)
-  if ( file )
-    $('#xml-source').attr( 'href', '<!-- TODO -->' )
-
-  // XML pretty printer
-  $('.egxml').text( function() {
-    return prettyXML($(this).text())
   })
 
+  fields = {};
+  [
+    'dirname',
+    'filename',
+    'sender',
+    'dateSent',
+    'addressee',
+    'dateReceived',
+    'birthDate',
+    'deathDate',
+    'entryDate',
+    'leaveDate',
+    'letterTypes',
+    'occupation',
+    'settlement',
+    'faith',
+    'familyStatus'
+  ].forEach((x, i) => fields[x] = i )
+
+  // corpus listing
+  $('#pat-list').DataTable({
+    "processing": true,
+    "ajax": base + "list.json",
+    "columns": [
+      {
+        "render": function (data, type, row) {
+          return `<a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">📄</a>`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.sender]}`
+        }
+      },
+      {
+        "className": "text-nowrap",
+        "render": function(data, type, row) {
+          return `${row[fields.birthDate]}`
+        }
+      },
+      {
+        "className": "text-nowrap",
+        "render": function(data, type, row) {
+          return `${row[fields.deathDate]}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.occupation]}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.settlement]}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.faith]}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.familyStatus]}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.entryDate]}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.leaveDate]}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.letterTypes]}`
+        }
+      },
+    ],
+    "language": {
+      "sEmptyTable":     "Keine Daten in der Tabelle vorhanden",
+      "sInfo":           "_START_ bis _END_ von _TOTAL_ Einträgen",
+      "sInfoEmpty":      "0 bis 0 von 0 Einträgen",
+      "sInfoFiltered":   "(gefiltert aus _MAX_ Einträgen)",
+      "sInfoPostFix":    "",
+      "sInfoThousands":  ".",
+      "sLengthMenu":     "_MENU_ Einträge anzeigen",
+      "sLoadingRecords": "Wird geladen ...",
+      "sProcessing":     "<div class='d-flex justify-content-center'><div class='spinner-border' role='status'><span class='visually-hidden'>Bitte warten …</span></div></div>",
+      "sSearch":         "Suchen",
+      "sZeroRecords":    "Keine Einträge vorhanden.",
+      "oPaginate": {
+        "sFirst":    "Erste",
+        "sPrevious": "Zurück",
+        "sNext":     "Nächste",
+        "sLast":     "Letzte"
+      },
+      "oAria": {
+        "sSortAscending":  ": aktivieren, um Spalte aufsteigend zu sortieren",
+        "sSortDescending": ": aktivieren, um Spalte absteigend zu sortieren"
+      },
+      "select": {
+        "rows": {
+          "_": "%d Zeilen ausgewählt",
+          "0": "Zum Auswählen auf eine Zeile klicken",
+          "1": "1 Zeile ausgewählt"
+        }
+      }
+    }
+  })
+})
+
+$( function() {
   // search
   $('#search-error').hide()
 

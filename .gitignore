@@ -1,8 +1,16 @@
+# facimile images
 data/*/f
 
+# generated files
+web/data
+web/list.json
 web/*.html
-web/{kfb,len,mun,war}_*
+web/kfb_*
+web/len_*
+web/mun_*
+web/war_*
 
+# editor files etc.
 *.swp
 *.bak
 *~

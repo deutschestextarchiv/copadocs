@@ -34,6 +34,22 @@
     </xsl:for-each>
   </xsl:template>
 
+  <!-- pb/@facs -->
+  <xsl:template match="t:pb" priority="10">
+    <span class="tei-{local-name(.)}">
+      <xsl:call-template name="set-data-attributes"/>
+      <xsl:variable name="id">
+        <xsl:value-of select="substring-after(@facs, '#')"/>
+      </xsl:variable>
+      <xsl:if test="/t:TEI/t:facsimile/t:graphic[@xml:id=$id]">
+        <xsl:attribute name="data-facsimile">
+          <xsl:value-of select="/t:TEI/t:facsimile/@xml:base"/>
+          <xsl:value-of select="/t:TEI/t:facsimile/t:graphic[@xml:id=$id]/@url"/>
+        </xsl:attribute>
+      </xsl:if>
+    </span>
+  </xsl:template>
+
   <xsl:template name="data-attribute">
     <xsl:param name="name"/>
     <xsl:param name="value"/>
