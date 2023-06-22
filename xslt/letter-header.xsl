@@ -45,7 +45,7 @@
         <a class="btn btn-light ms-3" href="{$base}data/{$dirname}/{$filename}.xml">TEI-XML</a>
       </div>
 
-      <div class="collaps pt-3" id="collapse-meta">
+      <div class="collapse pt-3" id="collapse-meta">
         <h2>Metadaten zu diesem Dokument</h2>
         <xsl:apply-templates select="//t:fileDesc/t:titleStmt/t:editor"/>
         <xsl:apply-templates select="//t:fileDesc/t:publicationStmt/t:availability/t:licence"/>
