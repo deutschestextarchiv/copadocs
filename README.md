@@ -2,7 +2,7 @@
 
 CoPaDocs – Corpus of Patient Documents – source files
 
-This repository serves health records from the
+This repository saves patient texts from the
 [CoPaDocs](http://copadocs.de/) project.
 
 All data is provided via [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/),
