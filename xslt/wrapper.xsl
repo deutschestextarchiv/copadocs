@@ -47,7 +47,7 @@
     <nav class="navbar navbar-expand-lg bg-light">
       <div class="container-fluid">
         <a class="navbar-brand" href="{$base}index.html">
-          <img src="https://www.deutschestextarchiv.de/static/images/dta.svg" height="50" title="Logo Deutsches Textarchiv"/>
+          <img src="{$base}assets/logos/dta.svg" height="50" title="Deutsches Textarchiv" alt="Logo Deutsches Textarchiv" data-bs-toggle="tooltip" data-bs-placement="right"/>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -161,18 +161,40 @@
   </xsl:template>
 
   <xsl:template name="site-footer">
-    <footer class="footer mt-auto py-3 bg-light">
-      <div class="container">
+    <footer class="footer mt-auto mt-5 py-3 bg-white">
+      <div class="container-fluid">
         <p class="text-center">
-          <a href="{$base}kontakt.html">Kontakt</a>
-          |
           <a href="{$base}datenschutz.html">Datenschutz</a>
           |
           <a href="{$base}impressum.html">Impressum</a>
         </p>
-        <p class="text-muted text-center">
-          [Logos der beteiligten Institutionen, dazu BBAW, Text+ und CC BY-SA 4.0]
-        </p>
+        <div class="row">
+          <div class="col-12">
+            <div class="footer-box">
+              <div class="footer-col">
+                <a href="https://www.humboldt-foundation.de/" target="_blank"><img src="{$base}assets/logos/avh-stiftung.jpg" title="Alexander von Humboldt-Stiftung" alt="Logo Alexander von Humboldt-Stiftung" data-bs-toggle="tooltip"/></a>
+              </div>
+              <div class="footer-col">
+                <a href="https://www.elitenetzwerk.bayern.de/" target="_blank"><img src="{$base}assets/logos/elitenetzwerk-bayern.jpg" title="Elitenetzwerk Bayern" alt="Logo Elitenetzwerk Bayern" data-bs-toggle="tooltip"/></a>
+              </div>
+              <div class="footer-col">
+                <a href="https://www.fau.de/" target="_blank"><img src="{$base}assets/logos/fau.jpg" title="Friedrich-Alexander-Universität Erlangen-Nürnberg" alt="Logo Friedrich-Alexander-Universität Erlangen-Nürnberg" data-bs-toggle="tooltip"/></a>
+              </div>
+              <div class="footer-col">
+                <a href="https://hison.org/" target="_blank"><img src="{$base}assets/logos/hison.jpg" title="Historical Sociolinguistics Network" alt="Logo Historical Sociolinguistics Network" data-bs-toggle="tooltip"/></a>
+              </div>
+              <div class="footer-col">
+                <a href="https://www.bbaw.de/" target="_blank"><img src="{$base}assets/logos/bbaw.svg" title="Berlin-Brandenburgische Akademie der Wissenschaften" alt="Logo Berlin-Brandenburgische Akademie der Wissenschaften" data-bs-toggle="tooltip"/></a>
+              </div>
+              <div class="footer-col">
+                <a href="https://www.text-plus.org/" target="_blank"><img src="{$base}assets/logos/text-plus-logo.svg" style="height:70px" title="NFDI-Konsortium Text+" alt="Logo NFDI-Konsortium Text+" data-bs-toggle="tooltip"/></a>
+              </div>
+              <div class="footer-col">
+                <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" target="_blank"><img src="{$base}assets/logos/cc-by-sa.svg" style="height:70px" title="CC BY-SA 4.0" alt="Logo CC BY-SA 4.0" data-bs-toggle="tooltip"/></a>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </footer>
   </xsl:template>

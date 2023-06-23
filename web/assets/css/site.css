@@ -92,3 +92,14 @@ a.btn:hover { text-decoration:none }
 
 /* cards */
 .card-img-top { width:100%; height:10vw; min-height:160px; object-fit:cover }
+
+/* footer */
+.footer-box { display:flex; flex-direction:row; align-items:center; justify-content:space-around }
+.footer-col { display:flex; flex-direction:column; align-items:center; padding:10px }
+.footer-col img       { max-width:150px; opacity:.5 }
+.footer-col img:hover { opacity:1 }
+
+@media (max-width: 1000px) {
+  .footer-box { flex-direction:column }
+  .footer-col img { width:80% }
+}
