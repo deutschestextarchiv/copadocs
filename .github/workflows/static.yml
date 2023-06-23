@@ -36,12 +36,12 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Run XSLT pipeline
-        run: WEB_BASE=https://deutschestextarchiv.github.io/copadocs/web/ ./build.sh
+        run: WEB_BASE=https://deutschestextarchiv.github.io/copadocs/ ./build.sh
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload entire repository
-          path: '.'
+          path: './web'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
