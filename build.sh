@@ -4,7 +4,9 @@
 # CONFIGURATION
 #
 # website base URL
-WEB_BASE="/copadocs/"
+WEB_BASE="${WEB_BASE:-/copadocs/}"
+
+#WEB_BASE="/copadocs/"
 # END OF CONFIGURATION
 
 # debugging
