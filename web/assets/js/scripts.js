@@ -2,16 +2,67 @@ $( function() {
   base = $('base').attr('href')
 
   // tooltips
-  $('.tei-surname').attr('title', 'Nachname')
-                   .data('bs-toggle', 'tooltip')
-
-  const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
-  const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
+  $('.tei-placeName, .tei-surname').attr('title', 'Nachname')
+                                   .attr('data-bs-toggle', 'tooltip')
 
   // Fancybox
   Fancybox.bind("[data-fancybox]", {
     // Your custom options
   });
+
+  // handShift
+  $('.tei-handShift').each( function() {
+    let el = $(this)
+    el.attr('title', `Handwechsel. Medium: ${el.data('medium')}, Schreiber: ${el.data('scribe')}`)
+      .attr('data-bs-toggle', 'tooltip')
+  })
+
+  // add
+  $('.tei-add').each( function() {
+    let el = $(this)
+    let place = el.data('place')
+    let title
+    switch (place) {
+      case 'above':
+        title = 'interlineare Einfügung darüber'
+        break
+      case 'below':
+        title = 'interlineare Einfügung darunter'
+        break
+      case 'top':
+        title = 'Einfügung am oberen Seitenrand'
+        break
+      case 'bottom':
+        title = 'Einfügung am unteren Seitenrand'
+        break;
+      case 'margin':
+        title = 'Einfügung am Rand'
+        break
+      case 'inline':
+        title = 'Einfügung auf der Zeile'
+        break
+      case 'opposite':
+        title = 'Zusatz, der auf anderer Briefseite weitergeht'
+        break
+      case undefined:
+        title = 'Einfügung'
+        break
+      default:
+        title = `Einfügung: ${title}`
+    }
+
+    if ( el.data('hand') ) {
+      if ( title.length != 0 )
+        title += ' '
+      title += `; Hand: ${el.data('hand')}`
+    }
+
+    el.attr('title', title)
+      .attr('data-bs-toggle', 'tooltip')
+  })
+
+  const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+  const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
 
   // link to page images
   $('.tei-pb[data-facsimile').append( function(i, str) {

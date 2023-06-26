@@ -43,7 +43,9 @@
 .tei-dateline       { }
 .tei-del            { color:#9e6457; text-decoration:line-through }
 .tei-foreign        { }
-.tei-handShift      { }
+.tei-handShift::after { margin:0 2px; content:"┌"; vertical-align:super; font-size:10pt; cursor:help }
+.tei-handShift[data-medium="ink"]    { color:blue }
+.tei-handShift[data-medium="pencil"] { color:grey }
 .tei-hi             { }
 .tei-lb::after      { content:"\a "; display:block }
 .tei-milestone      { display:block; border-bottom:1px solid #aaa; margin:2rem 0 }
@@ -53,20 +55,20 @@
 .tei-pb:hover       { background:#f3f3f3 }
 .tei-pb[data-n]::before       { content:'[Seite ' attr(data-n) ']' }
 .tei-pb:not([data-n])::before { content:'[' attr(data-facs) ']' }
-.tei-placename      { background:#8cc8ff; padding:4px; cursor:help }
+.tei-placeName      { background:#8cc8ff; padding:4px; cursor:help }
 .tei-salute         { }
 .tei-seg            { }
 .tei-space          { }
-.tei-surname        { background:#77e195; cursor:help }
+.tei-surname        { background:#77e195; padding:4px; cursor:help }
 .tei-surname:empty::after  { content:"👤"; opacity:.3 }
 .tei-unclear        { opacity:.6 }
 .tei-unclear::after { content:"(?)" }
-.tei-w              { border:1px solid #f3f3f3; padding:1px; margin:auto 2px }
+.tei-w              { border:1px solid #ddd; padding:1px; margin:auto 2px }
 
 [data-rendition~="#c"]   { text-align:center; display:block }
-[data-rendition~="#hr"]  { /* TODO */ }
+[data-rendition~="#hr"]  { /* only as <milestone rendition="hr">, which is handled above */ }
 [data-rendition~="#i"]   { font-style:italic }
-[data-rendition~="#r"]   { /* TODO */ }
+[data-rendition~="#r"]   { text-align:right; display:block }
 [data-rendition~="#sup"] { position:relative; top:-0.5em; font-size:80% }
 [data-rendition~="#sub"] { position:relative; bottom:-0.5em; font-size:80% }
 [data-rendition~="#u"]   { text-decoration:underline }
