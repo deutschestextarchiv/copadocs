@@ -22,7 +22,7 @@ $( function() {
 
     let marginLeft = -( $(this).position().left - $('.tei').position().left + 220)
     return `<figure class="tei-side-figure" style="margin-left:${marginLeft}px">
-              <a href="${src}" target="_blank" title="Faksimile im Vollbild anzeigen">
+              <a data-fancybox="gallery" data-caption="Faksimile ${$(this).data('facs')}" href="${src}" target="_blank" title="Faksimile im Vollbild anzeigen">
                 <img src="${src}" class="figure-img img-fluid rounded"/>
               </a>
               <figcaption class="figure-caption">Faksimile <em>${$(this).data('facs')}</em></figcaption>
@@ -33,34 +33,46 @@ $( function() {
   [
     'dirname',
     'filename',
-    'sender',
-    'dateSent',
-    'addressee',
-    'dateReceived',
+    'id',
+    'patient',
     'birthDate',
-    'deathDate',
     'entryDate',
     'leaveDate',
-    'letterTypes',
+    'deathDate',
     'occupation',
-    'settlement',
+    'residence',
+    'familyStatus',
     'faith',
-    'familyStatus'
+    'textType',
+    'sender',
+    'dateSent',
+    'placeSent'
   ].forEach((x, i) => fields[x] = i )
 
+  textTypes = {
+    pp: 'Privatbrief',
+    po: 'offizieller Brief eines Patienten',
+    ap: 'Privatbrief von außen',
+    ao: 'offizieller Brief von außen',
+    so: 'sonstiger Brief'
+  }
+
   // corpus listing
-  $('#pat-list').DataTable({
+  var dt = $('#pat-list').DataTable({
     "processing": true,
     "ajax": base + "list.json",
+    "initComplete": function(settings, json) {
+      $('[data-bs-toggle="tooltip"]').tooltip();
+    },
     "columns": [
       {
         "render": function (data, type, row) {
-          return `<a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">📄</a>`
+          return `<code style="font-size:smaller"><a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">${row[fields.id]}</a></code>`
         }
       },
       {
         "render": function(data, type, row) {
-          return `${row[fields.sender]}`
+          return `${row[fields.patient]}`
         }
       },
       {
@@ -72,7 +84,19 @@ $( function() {
       {
         "className": "text-nowrap",
         "render": function(data, type, row) {
-          return `${row[fields.deathDate]}`
+          return `${row[fields.entryDate]}`
+        }
+      },
+      {
+        "className": "text-nowrap",
+        "render": function(data, type, row) {
+          return `${row[fields.leaveDate]}`
+        }
+      },
+      {
+        "className": "text-nowrap",
+        "render": function(data, type, row) {
+          return `${row[fields.deathDate] == '-' ? 'nein' : 'ja'}`
         }
       },
       {
@@ -82,12 +106,7 @@ $( function() {
       },
       {
         "render": function(data, type, row) {
-          return `${row[fields.settlement]}`
-        }
-      },
-      {
-        "render": function(data, type, row) {
-          return `${row[fields.faith]}`
+          return `${row[fields.residence]}`
         }
       },
       {
@@ -97,17 +116,27 @@ $( function() {
       },
       {
         "render": function(data, type, row) {
-          return `${row[fields.entryDate]}`
+          return `${row[fields.faith]}`
         }
       },
       {
         "render": function(data, type, row) {
-          return `${row[fields.leaveDate]}`
+          return `<abbr title="${textTypes[row[fields.textType]]}" data-bs-toggle="tooltip">${row[fields.textType]}</abbr>`
         }
       },
       {
         "render": function(data, type, row) {
-          return `${row[fields.letterTypes]}`
+          return `${row[fields.sender]}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.dateSent]}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.placeSent]}`
         }
       },
     ],
@@ -141,6 +170,12 @@ $( function() {
         }
       }
     }
+  })
+
+  $('#pat-list tbody').on('dblclick', 'tr', function () {
+    let data = dt.row( this ).data()
+    let target = `${base}${data[fields.dirname]}/${data[fields.filename]}.html`
+    window.location.href = target
   })
 })
 

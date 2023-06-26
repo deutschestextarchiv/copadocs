@@ -19,7 +19,19 @@
           <xsl:call-template name="site-header"/>
         </header>
         <main class="flex-shrink-0">
-          <div class="container mt-3 mb-5">
+          <div>
+            <xsl:choose>
+              <xsl:when test="$page='list.html'">
+                <xsl:attribute name="class">
+                  <xsl:text>container-fluid mt-3 mb-5</xsl:text>
+                </xsl:attribute>
+              </xsl:when>
+              <xsl:otherwise>
+                <xsl:attribute name="class">
+                  <xsl:text>container mt-3 mb-5</xsl:text>
+                </xsl:attribute>
+              </xsl:otherwise>
+            </xsl:choose>
             <div class="row">
               <xsl:choose>
                 <xsl:when test="$page='index.html' or $page='list.html'">

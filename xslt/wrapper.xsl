@@ -97,15 +97,6 @@
                   </a>
                 </li>
                 <li>
-                  <a href="{$base}technik.html" class="disabled">
-                    <xsl:call-template name="set-class-active">
-                      <xsl:with-param name="value" select="'dropdown-item disabled'"/>
-                      <xsl:with-param name="link" select="'technik.html'"/>
-                    </xsl:call-template>
-                    Technik, Tools, Nachnutzbarkeit
-                  </a>
-                </li>
-                <li>
                   <a href="{$base}forschungsprojekt.html">
                     <xsl:call-template name="set-class-active">
                       <xsl:with-param name="value" select="'dropdown-item'"/>
@@ -121,6 +112,15 @@
                       <xsl:with-param name="link" select="'korpus.html'"/>
                     </xsl:call-template>
                     Infos zum Korpus
+                  </a>
+                </li>
+                <li>
+                  <a href="{$base}technik.html" class="disabled">
+                    <xsl:call-template name="set-class-active">
+                      <xsl:with-param name="value" select="'dropdown-item disabled'"/>
+                      <xsl:with-param name="link" select="'technik.html'"/>
+                    </xsl:call-template>
+                    Technik, Tools, Nachnutzbarkeit
                   </a>
                 </li>
                 <li>
