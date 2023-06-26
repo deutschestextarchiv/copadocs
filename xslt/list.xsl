@@ -138,6 +138,17 @@
 
     <!-- place sent -->
     <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:settlement[@type='sent'])"/>
+    <xsl:text>&#x9;</xsl:text>
+
+    <!-- extent: pages -->
+    <xsl:value-of select="count(//t:pb)"/>
+    <xsl:text>&#x9;</xsl:text>
+
+    <!-- extent: words
+      via https://stackoverflow.com/questions/6188189/count-the-number-of-words-in-a-xml-node-using-xsl#answer-6196072 -->
+    <xsl:value-of select="string-length(normalize-space(/t:TEI/t:text))
+                          -
+                          string-length(translate(normalize-space(/t:TEI/t:text),' ','')) +1"/>
 
     <xsl:if test="1=0">
       <xsl:text>&#x9;</xsl:text>

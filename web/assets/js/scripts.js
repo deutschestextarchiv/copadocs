@@ -46,7 +46,9 @@ $( function() {
     'textType',
     'sender',
     'dateSent',
-    'placeSent'
+    'placeSent',
+    'extentPages',
+    'extentWords'
   ].forEach((x, i) => fields[x] = i )
 
   textTypes = {
@@ -137,6 +139,12 @@ $( function() {
       {
         "render": function(data, type, row) {
           return `${row[fields.placeSent]}`
+        }
+      },
+      {
+        "orderable": false,
+        "render": function(data, type, row) {
+          return `${row[fields.extentPages]} S., ca. ${row[fields.extentWords]} Wörter`
         }
       },
     ],
