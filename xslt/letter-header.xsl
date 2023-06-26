@@ -47,19 +47,19 @@
 
       <div class="collapse pt-3" id="collapse-meta">
         <h2>Metadaten zu diesem Dokument</h2>
-        <xsl:apply-templates select="//t:fileDesc/t:titleStmt/t:editor"/>
-        <xsl:apply-templates select="//t:fileDesc/t:publicationStmt/t:availability/t:licence"/>
-        <xsl:apply-templates select="//t:fileDesc/t:sourceDesc/msDesc/msIdentifier"/>
-        <xsl:apply-templates select="//t:profileDesc/t:creation"/>
-        <xsl:apply-templates select="//t:profileDesc/t:particDesc"/>
-        <xsl:apply-templates select="//t:handNotes"/>
-        <xsl:apply-templates select="//t:textDesc"/>
+        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:editor"/>
+        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:publicationStmt/t:availability/t:licence"/>
+        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/msDesc/msIdentifier"/>
+        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:creation"/>
+        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:particDesc"/>
+        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:handNotes"/>
+        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:textDesc"/>
       </div>
     </div>
   </xsl:template>
   
   <xsl:template match="t:fileDesc/t:titleStmt/t:editor">
-    <h3>Herausgeber des digitalen Dokuments</h3>
+    <h3>Bearbeiter des digitalen Dokuments (Transkription, Korrekturlesung)</h3>
     <ul>
       <xsl:for-each select="t:name">
         <li><xsl:apply-templates select="current()"/></li>
@@ -91,7 +91,7 @@
   </xsl:template>
   
   <xsl:template match="t:profileDesc/t:creation">
-    <h3>Informationen zur Konversation</h3>
+    <h3>Informationen zum Text (Schreiber und ggf. Empfänger)</h3>
     <table class="table table-sm">
       <thead>
         <tr>
@@ -120,7 +120,7 @@
 
   <xsl:template match="t:profileDesc/t:particDesc">
     <div>
-      <h3>Informationen zu beteiligten Personen</h3>
+      <h3>Informationen zum Patienten</h3>
       <div class="ms-3">
         <!-- TODO: more than 1 person? -->
         <xsl:for-each select="t:person">
@@ -180,7 +180,7 @@
         </td>
       </tr>
       <tr>
-        <th>Status</th>
+        <th>Weitere Informationen</th>
         <td>
           <ul>
             <xsl:for-each select="t:state/t:p">

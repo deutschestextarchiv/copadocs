@@ -4,8 +4,7 @@
 # CONFIGURATION
 #
 # website base URL
-WEB_BASE="/copadocs/"
-# END OF CONFIGURATION
+WEB_BASE="${WEB_BASE:-/copadocs/}"
 
 # debugging
 [ -n "$DEBUG" ] && set -x
@@ -20,9 +19,6 @@ WEB="$SCRIPT_DIR"/web
 # path to and options for xsltproc XSLT processor
 XSLTPROC="xsltproc"
 
-# path to and options for Saxon XSLT processor
-SAXONB="saxonb-xslt -ext:on"
-
 # symlink (for XML sources and images)
 DATA_LINK="$WEB"/data
 [ -L "$DATA_LINK" ] && rm "$DATA_LINK"
@@ -32,7 +28,6 @@ ln -s "$SCRIPT_DIR"/data "$DATA_LINK"
 echo "Generating documentation ..."
 for i in "$SCRIPT_DIR"/doc/*.html; do
   TARGET_FILE="$WEB"/$(basename "$i" .html).html
-  #$SAXONB -s:"$i" -xsl:"$SCRIPT_DIR"/xslt/documentation.xsl base="$WEB_BASE" page="$(basename $i)" > "$TARGET_FILE"
   $XSLTPROC --stringparam base "$WEB_BASE" --stringparam page "$(basename $i)" "$SCRIPT_DIR"/xslt/documentation.xsl "$i" > "$TARGET_FILE"
 done
 
@@ -41,7 +36,6 @@ echo "Generating JSON document index ..."
 for i in "$SCRIPT_DIR"/data/*/*.xml; do
   b=$(basename "$i" .xml)
   dir=$(basename $(dirname "$i"))
-  #$SAXONB -s:"$i" -xsl:"$SCRIPT_DIR"/xslt/list.xsl filename="$b" dirname="$dir"
   $XSLTPROC --stringparam filename "$b" --stringparam dirname "$dir" "$SCRIPT_DIR"/xslt/list.xsl "$i"
 done | \
 jq -R -s 'sub("\n$";"") | split("\n") | { "data": map(split("\t")) }' > "$WEB"/list.json

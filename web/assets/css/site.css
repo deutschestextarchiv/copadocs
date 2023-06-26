@@ -62,9 +62,10 @@
 body { font-family:"PT Sans",sans-serif; background:linear-gradient(to bottom, #fff, #fff 50%, #eee 50%, #eee); background-size:100% 3px }
 
 footer { border-top:1px solid #ccc }
-h1 { font-weight:bold; border-bottom:1px solid #ddd; margin-bottom:20px }
+h1 { font-weight:bold; border-bottom:1px solid #ddd; margin-bottom:20px; text-align:center }
 h2 { font-weight:normal; margin-bottom:20px }
 h3 { font-weight:bold; font-size:19pt }
+abbr { text-decoration-style:dotted; cursor:help }
 blockquote { border-left:5px solid #ddd; margin-left:3rem; padding-left:1rem }
 .blockquote-footer { text-align:right }
 
@@ -91,4 +92,16 @@ a:hover { color:var(--base-color); text-decoration:underline }
 a.btn:hover { text-decoration:none }
 
 /* cards */
-.card-img-top { width:100%; height:10vw; min-height:160px; object-fit:cover }
+.card-img-top { width:100%; height:10vw; min-height:160px; object-fit:cover; -webkit-transition:.3s ease-in-out; transition:.3s ease-in-out }
+.card-img-top:hover { -webkit-transform:scale(1.02); transform:scale(1.02) }
+
+/* footer */
+.footer-box { display:flex; flex-direction:row; align-items:center; justify-content:space-around }
+.footer-col { display:flex; flex-direction:column; align-items:center; padding:10px }
+.footer-col img       { max-width:150px; opacity:.5 }
+.footer-col img:hover { opacity:1 }
+
+@media (max-width: 1000px) {
+  .footer-box { flex-direction:column }
+  .footer-col img { width:80% }
+}

@@ -2,13 +2,17 @@
 
 CoPaDocs – Corpus of Patient Documents – source files
 
-This repository serves health records from the
+This repository saves patient texts from the
 [CoPaDocs](http://copadocs.de/) project.
 
 All data is provided via [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/),
 except for third party web libraries, like jQuery, Bootstrap, Datatables,
 and others, which are part of this repository to provide a complete package
 for serving a static website in compliance with the GDPR.
+
+## Preview via GitHub Pages
+
+A preview is available at https://deutschestextarchiv.github.io/copadocs/.
 
 ## Software prerequisites
 
