@@ -10,6 +10,10 @@ except for third party web libraries, like jQuery, Bootstrap, Datatables,
 and others, which are part of this repository to provide a complete package
 for serving a static website in compliance with the GDPR.
 
+## Preview via GitHub Pages
+
+A preview is available at https://deutschestextarchiv.github.io/copadocs/.
+
 ## Software prerequisites
 
 * [jq](https://stedolan.github.io/jq/)

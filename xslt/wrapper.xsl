@@ -6,6 +6,7 @@
   <xsl:output method="html"/>
 
   <xsl:param name="base" select="'http://localhost/copadocs/'"/>
+  <xsl:param name="img-base" select="'https://kaskade.dwds.de/~wiegand/copadocs/data/'"/>
   <xsl:param name="page"/>
 
   <!-- <!DOCTYPE html> declaration -->
@@ -25,9 +26,14 @@
 
     <link href="{$base}assets/bootstrap/bootstrap.min.css" rel="stylesheet"/>
     <link href="{$base}assets/datatables/datatables.min.css" rel="stylesheet"/>
+    <link href="{$base}assets/fancybox/fancybox.css" rel="stylesheet"/>
 
     <link href="{$base}assets/css/site.css" rel="stylesheet"/>
     <link href="{$base}assets/css/tei.css" rel="stylesheet"/>
+
+    <script>
+      imgBase = '<xsl:value-of select="$img-base"/>'
+    </script>
   </xsl:template>
 
   <!-- navigation links -->
@@ -96,15 +102,6 @@
                   </a>
                 </li>
                 <li>
-                  <a href="{$base}technik.html" class="disabled">
-                    <xsl:call-template name="set-class-active">
-                      <xsl:with-param name="value" select="'dropdown-item disabled'"/>
-                      <xsl:with-param name="link" select="'technik.html'"/>
-                    </xsl:call-template>
-                    Technik, Tools, Nachnutzbarkeit
-                  </a>
-                </li>
-                <li>
                   <a href="{$base}forschungsprojekt.html">
                     <xsl:call-template name="set-class-active">
                       <xsl:with-param name="value" select="'dropdown-item'"/>
@@ -120,6 +117,15 @@
                       <xsl:with-param name="link" select="'korpus.html'"/>
                     </xsl:call-template>
                     Infos zum Korpus
+                  </a>
+                </li>
+                <li>
+                  <a href="{$base}technik.html" class="disabled">
+                    <xsl:call-template name="set-class-active">
+                      <xsl:with-param name="value" select="'dropdown-item disabled'"/>
+                      <xsl:with-param name="link" select="'technik.html'"/>
+                    </xsl:call-template>
+                    Technik, Tools, Nachnutzbarkeit
                   </a>
                 </li>
                 <li>
@@ -206,6 +212,7 @@
     <script src="{$base}assets/js/holder.min.js"></script>
     <script src="{$base}assets/js/scripts.js"></script>
     <script src="{$base}assets/datatables/datatables.min.js"></script>
+    <script src="{$base}assets/fancybox/fancybox.umd.js"></script>
   </xsl:template>
 
 </xsl:stylesheet>
