@@ -47,13 +47,13 @@
 
       <div class="collapse pt-3" id="collapse-meta">
         <h2>Metadaten zu diesem Dokument</h2>
-        <xsl:apply-templates select="//t:fileDesc/t:titleStmt/t:editor"/>
-        <xsl:apply-templates select="//t:fileDesc/t:publicationStmt/t:availability/t:licence"/>
-        <xsl:apply-templates select="//t:fileDesc/t:sourceDesc/msDesc/msIdentifier"/>
-        <xsl:apply-templates select="//t:profileDesc/t:creation"/>
-        <xsl:apply-templates select="//t:profileDesc/t:particDesc"/>
-        <xsl:apply-templates select="//t:handNotes"/>
-        <xsl:apply-templates select="//t:textDesc"/>
+        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:editor"/>
+        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:publicationStmt/t:availability/t:licence"/>
+        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/msDesc/msIdentifier"/>
+        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:creation"/>
+        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:particDesc"/>
+        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:handNotes"/>
+        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:textDesc"/>
       </div>
     </div>
   </xsl:template>
