@@ -25,6 +25,7 @@
 
     <link href="{$base}assets/bootstrap/bootstrap.min.css" rel="stylesheet"/>
     <link href="{$base}assets/datatables/datatables.min.css" rel="stylesheet"/>
+    <link href="{$base}assets/fancybox/fancybox.css" rel="stylesheet"/>
 
     <link href="{$base}assets/css/site.css" rel="stylesheet"/>
     <link href="{$base}assets/css/tei.css" rel="stylesheet"/>
@@ -206,6 +207,7 @@
     <script src="{$base}assets/js/holder.min.js"></script>
     <script src="{$base}assets/js/scripts.js"></script>
     <script src="{$base}assets/datatables/datatables.min.js"></script>
+    <script src="{$base}assets/fancybox/fancybox.umd.js"></script>
   </xsl:template>
 
 </xsl:stylesheet>

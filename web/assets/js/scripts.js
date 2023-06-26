@@ -8,6 +8,11 @@ $( function() {
   const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
   const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
 
+  // Fancybox
+  Fancybox.bind("[data-fancybox]", {
+    // Your custom options
+  });
+
   // link to page images
   $('.tei-pb[data-facsimile').append( function(i, str) {
     let facs = $(this).data('facsimile')
