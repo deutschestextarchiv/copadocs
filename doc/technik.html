@@ -8,9 +8,20 @@
     <div class="card">
       <div class="card-body">
         <p>Dieses <span class="tei-add">Wort</span> ist eine Hinzufügung.</p>
+        <ul>
+          <li>Eine <span class="tei-add" data-place="above">intralineare Einfügung</span> darüber.</li>
+          <li>Eine <span class="tei-add" data-place="below">interlineare Einfügung</span> darunter.</li>
+          <li>Eine <span class="tei-add" data-place="top">Einfügung</span> am oberen Seitenrand.</li>
+          <li>Eine <span class="tei-add" data-place="bottom">Einfügung</span> am unteren Seitenrand.</li>
+          <li>Eine <span class="tei-add" data-place="margin" data-hand="arzt">Einfügung</span> am Rand der Hand <code>arzt</code>.</li>
+          <li>Eine <span class="tei-add" data-place="inline">Einfügung</span> auf der Zeile.</li>
+          <li>Ein <span class="tei-add" data-place="opposite">Zusatz</span> der auf anderer Briefseite weitergeht.</li>
+        </ul>
         <p>Dieses <span class="tei-del">Wort</span> ist eine Streichung.</p>
         <p>Nach diesem Wort <span class="tei-handShift" data-medium="ink" data-scribe="patient"/>
           findet ein Wechsel zum Medium "ink" des Schreibers "patient" statt.</p>
+        <p>Diese <span class="tei-w">zwei</span><span class="tei-w">Wörter</span> sind
+          separate Tokens.</p>
       </div>
     </div>
   </div>
@@ -20,11 +31,30 @@
     <div class="card">
       <div class="card-body">
         <p data-rendition="#c">Dieser Text ist zentriert.</p>
+        <p data-rendition="#r">Dieser Text ist rechtsbündig.</p>
         <p>Dieses <span data-rendition="#i">Wort</span> ist kursiv.</p>
         <p>Dieses <span data-rendition="#sub">Wort</span> ist tiefgestellt.</p>
         <p>Dieses <span data-rendition="#sup">Wort</span> ist hochgestellt.</p>
         <p>Dieses <span data-rendition="#u">Wort</span> ist unterstrichen.</p>
+        <p>Eine Klinik liegt in <span class="tei-placeName">Kaufbeuren</span>.</p>
+        <p><span class="tei-surname">Müller</span> ist ein Nachname.</p>
       </div>
     </div>
   </div>
+
+  <hr/>
+
+  <h2>Nachnutzung</h2>
+  <p>
+    <img src="assets/logos/cc-by-sa.svg" style="float:right; height:70px; margin:0 0 10px 10px" alt="Logo CC BY-SA 4.0"/>
+    Alle Textquellen im XML-Format TEI P5 sowie der Quellcode zur Erstellung dieser
+    Webseite sind unter Beachtung der Lizenz
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" target="_blank">Namensnennung –
+    Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</a>
+    verfügbar:
+  </p>
+  <ul>
+    <li><a href="https://github.com/deutschestextarchiv/copadocs/tree/main/data" target="_blank">Daten im Repositorium auf GitHub</a></li>
+    <li><a href="https://github.com/deutschestextarchiv/copadocs/archive/refs/heads/main.zip" target="_blank">Download des Repositoriums von GitHub</a></li>
+  </ul>
 </section>
