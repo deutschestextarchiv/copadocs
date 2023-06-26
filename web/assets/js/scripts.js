@@ -18,7 +18,7 @@ $( function() {
     let facs = $(this).data('facsimile')
     let href = window.location.href
     let dir  = href.substring(0, href.lastIndexOf('/')).replace(/.*\//,'')
-    let src  = `${base}data/${dir}/${facs}`
+    let src  = `${imgBase}/${dir}/${facs}`
 
     let marginLeft = -( $(this).position().left - $('.tei').position().left + 220)
     return `<figure class="tei-side-figure" style="margin-left:${marginLeft}px">
