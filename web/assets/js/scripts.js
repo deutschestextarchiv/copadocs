@@ -61,9 +61,6 @@ $( function() {
       .attr('data-bs-toggle', 'tooltip')
   })
 
-  const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
-  const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
-
   // link to page images
   $('.tei-pb[data-facsimile').append( function(i, str) {
     let facs = $(this).data('facsimile')
@@ -110,6 +107,12 @@ $( function() {
     so: 'sonstiger Brief'
   }
 
+  $('.cd-text-type').each( function() {
+    let el = $(this)
+    el.attr('title', textTypes[el.text()])
+      .attr('data-bs-toggle', 'tooltip')
+  })
+
   // corpus listing
   var dt = $('#pat-list').DataTable({
     "processing": true,
@@ -119,6 +122,7 @@ $( function() {
     },
     "columns": [
       {
+        "type": "natural",
         "render": function (data, type, row) {
           return `<code style="font-size:smaller"><a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">${row[fields.id]}</a></code>`
         }
@@ -236,6 +240,9 @@ $( function() {
     let target = `${base}${data[fields.dirname]}/${data[fields.filename]}.html`
     window.location.href = target
   })
+
+  const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+  const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
 })
 
 $( function() {

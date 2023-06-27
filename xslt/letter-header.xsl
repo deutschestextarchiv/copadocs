@@ -5,33 +5,6 @@
 
   <xsl:output method="html"/>
 
-  <xsl:template match="t:person">
-    <xsl:for-each select="t:persName">
-      <xsl:for-each select="t:roleName">
-        <xsl:apply-templates select="current()"/>
-        <xsl:text> </xsl:text>
-      </xsl:for-each>
-      <xsl:for-each select="t:forename">
-        <xsl:apply-templates select="current()"/>
-        <xsl:text> </xsl:text>
-      </xsl:for-each>
-      <xsl:for-each select="t:surname">
-        <xsl:apply-templates select="current()"/>
-        <xsl:text> </xsl:text>
-      </xsl:for-each>
-    </xsl:for-each>
-    <xsl:if test="t:note[@type='pnd']">
-      <xsl:text> [</xsl:text>
-      <xsl:for-each select="t:note[@type='pnd']">
-        <a href="https://d-nb.info/gnd/{text()}">GND</a>
-        <xsl:if test="position() != last()">
-          <xsl:text>, </xsl:text>
-        </xsl:if>
-      </xsl:for-each>
-      <xsl:text>]</xsl:text>
-    </xsl:if>
-  </xsl:template>
-
   <xsl:template match="t:teiHeader">
     <div class="tei-header">
       <h1>
@@ -42,22 +15,56 @@
       
       <div>
         <button class="btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-meta" aria-expanded="false" aria-controls="collapse-meta">Metadaten</button>
-        <a class="btn btn-light ms-3" href="{$base}data/{$dirname}/{$filename}.xml">TEI-XML</a>
+        <a class="btn btn-light ms-3" href="{$base}data/{$dirname}/{$filename}.xml" target="_blank">TEI-XML</a>
+        <button class="btn btn-light ms-3" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-bibl" aria-expanded="true" aria-controls="collapse-bibl">Zitationshinweis</button>
       </div>
 
-      <div class="collapse pt-3" id="collapse-meta">
-        <h2>Metadaten zu diesem Dokument</h2>
-        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:editor"/>
-        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:publicationStmt/t:availability/t:licence"/>
-        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/msDesc/msIdentifier"/>
-        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:creation"/>
-        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:particDesc"/>
-        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:handNotes"/>
-        <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:textDesc"/>
+      <div id="collapse-group">
+        <div class="collapse pt-3" id="collapse-meta" data-bs-parent="#collapse-group">
+          <h2>Metadaten zu diesem Dokument</h2>
+          <xsl:apply-templates select="/t:TEI/@xml:id"/>
+          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:editor"/>
+          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:publicationStmt/t:availability/t:licence"/>
+          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:msDesc/t:msIdentifier"/>
+          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:creation"/>
+          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:particDesc"/>
+          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:handNotes"/>
+          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:textDesc"/>
+        </div>
+
+        <div class="collapse pt-3" id="collapse-bibl" data-bs-parent="#collapse-group">
+          <h2>Zitationshinweis</h2>
+          <blockquote>
+            <cite>
+              Schiegg, Markus (Hg.): CoPaDocs – Korpus historischer Patiententexte.
+              &lt;https://www.deutschestextarchiv.de/copadocs/&gt;.
+              Quelle aus:
+              <xsl:call-template name="archive-name">
+                <xsl:with-param name="code" select="substring-before($dirname,'_')"/>
+              </xsl:call-template>
+              <xsl:text>, Patientenakte </xsl:text>
+              <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:msDesc/t:msIdentifier/t:idno"/>
+              <xsl:text>, </xsl:text>
+              <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person/t:persName)"/>
+              <xsl:text>, Text von </xsl:text>
+              <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='sender'])"/>
+              <xsl:text>, </xsl:text>
+              <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:date[@type='sent'])"/>
+              <xsl:text>.</xsl:text>
+            </cite>
+          </blockquote>
+        </div>
       </div>
     </div>
   </xsl:template>
-  
+
+  <xsl:template match="/t:TEI/@xml:id">
+    <h3>ID dieses Dokuments</h3>
+    <p>
+      <code><xsl:value-of select="."/></code>
+    </p>
+  </xsl:template>
+
   <xsl:template match="t:fileDesc/t:titleStmt/t:editor">
     <h3>Bearbeiter des digitalen Dokuments (Transkription, Korrekturlesung)</h3>
     <ul>
@@ -72,7 +79,7 @@
     <p><a href="{@target}"><xsl:apply-templates/></a></p>
   </xsl:template>
 
-  <xsl:template match="t:fileDesc/t:sourceDesc/msDesc/msIdentifier">
+  <xsl:template match="t:fileDesc/t:sourceDesc/t:msDesc/t:msIdentifier">
     <h3>Nachweis Originaldokument</h3>
     <table class="table table-sm">
       <tr>
@@ -150,7 +157,16 @@
       </tr>
       <tr>
         <th>gestorben</th>
-        <td><xsl:value-of select="t:death/@when"/></td>
+        <td>
+          <xsl:choose>
+            <xsl:when test="t:death[@cert='unknown']">
+              <i>unbekannt</i>
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:value-of select="t:death/@when"/>
+            </xsl:otherwise>
+          </xsl:choose>
+        </td>
       </tr>
       <tr>
         <th>Tätigkeit(en)</th>

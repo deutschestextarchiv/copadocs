@@ -3,6 +3,8 @@
                 exclude-result-prefixes="t"
                 xpath-default-namespace="http://www.tei-c.org/ns/1.0">
 
+  <xsl:import href="letter-type.xsl"/>
+
   <xsl:output method="text" indent="no" encoding="utf-8"/>
 
   <xsl:param name="dirname"/>
@@ -98,23 +100,9 @@
     <xsl:text>&#x9;</xsl:text>
 
     <!-- text type -->
-    <xsl:choose>
-      <xsl:when test="contains($filename, '_pp_')">
-        <xsl:text>pp</xsl:text>
-      </xsl:when>
-      <xsl:when test="contains($filename, '_po_')">
-        <xsl:text>po</xsl:text>
-      </xsl:when>
-      <xsl:when test="contains($filename, '_ap_')">
-        <xsl:text>ap</xsl:text>
-      </xsl:when>
-      <xsl:when test="contains($filename, '_ao_')">
-        <xsl:text>ao</xsl:text>
-      </xsl:when>
-      <xsl:otherwise>
-        <xsl:text>so</xsl:text>
-      </xsl:otherwise>
-    </xsl:choose>
+    <xsl:call-template name="letter-type">
+      <xsl:with-param name="filename" select="$filename"/>
+    </xsl:call-template>
     <xsl:text>&#x9;</xsl:text>
 
     <!-- sender -->

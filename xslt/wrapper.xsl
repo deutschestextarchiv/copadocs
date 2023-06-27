@@ -212,6 +212,7 @@
     <script src="{$base}assets/js/holder.min.js"></script>
     <script src="{$base}assets/js/scripts.js"></script>
     <script src="{$base}assets/datatables/datatables.min.js"></script>
+    <script src="{$base}assets/datatables/natural.js"></script>
     <script src="{$base}assets/fancybox/fancybox.umd.js"></script>
   </xsl:template>
 

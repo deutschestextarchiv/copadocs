@@ -5,6 +5,8 @@
 
   <xsl:import href="wrapper.xsl"/>
   <xsl:import href="tei-text.xsl"/>
+  <xsl:import href="archive-name.xsl"/>
+  <xsl:import href="letter-type.xsl"/>
   <xsl:import href="letter-header.xsl"/>
 
   <xsl:variable name="force-exclude-all-namespaces" select="true()"/>
@@ -41,8 +43,22 @@
                     <li class="breadcrumb-item"><a href="{$base}">Start</a></li>
                     <li class="breadcrumb-item">
                       <a disabled="disabled">
-                        <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='sender'])"/>
+                        <xsl:value-of select="substring-before($dirname,'_')"/>
+                        <xsl:text>-</xsl:text>
+                        <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:msDesc/t:msIdentifier/t:idno"/>
+                        <xsl:text> (</xsl:text>
+                        <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person/t:persName)"/>
+                        <xsl:text>)</xsl:text>
                       </a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">
+                      <abbr class="cd-text-type">
+                        <xsl:call-template name="letter-type">
+                          <xsl:with-param name="filename" select="$filename"/>
+                        </xsl:call-template>
+                      </abbr>
+                      von
+                      <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='sender'])"/>
                     </li>
                     <li class="breadcrumb-item active" aria-current="page">
                       <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:date[@type='sent'])"/>
