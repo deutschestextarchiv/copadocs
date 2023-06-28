@@ -74,29 +74,7 @@
     </ul>
   </xsl:template>
 
-  <xsl:template match="t:fileDesc/t:publicationStmt/t:availability/t:licence">
-    <h3>Nutzungsbedingungen</h3>
-    <p><a href="{@target}"><xsl:apply-templates/></a></p>
-  </xsl:template>
 
-  <xsl:template match="t:fileDesc/t:sourceDesc/t:msDesc/t:msIdentifier">
-    <h3>Nachweis Originaldokument</h3>
-    <table class="table table-sm">
-      <tr>
-        <th>Einrichtung</th>
-        <td><xsl:apply-templates select="t:repository"/></td>
-      </tr>
-      <tr>
-        <th>Sammlung</th>
-        <td><xsl:apply-templates select="t:collection"/></td>
-      </tr>
-      <tr>
-        <th>Nr.</th>
-        <td><xsl:apply-templates select="t:idno"/></td>
-      </tr>
-    </table>
-  </xsl:template>
-  
   <xsl:template match="t:profileDesc/t:creation">
     <h3>Informationen zum Text (Schreiber und ggf. Empfänger)</h3>
     <table class="table table-sm">
@@ -259,6 +237,29 @@
       <tr>
         <th>Regest</th>
         <td><xsl:apply-templates select="t:purpose"/></td>
+      </tr>
+    </table>
+  </xsl:template>
+  
+  <xsl:template match="t:fileDesc/t:publicationStmt/t:availability/t:licence">
+    <h3>Nutzungsbedingungen</h3>
+    <p><a href="{@target}"><xsl:apply-templates/></a></p>
+  </xsl:template>
+
+  <xsl:template match="t:fileDesc/t:sourceDesc/t:msDesc/t:msIdentifier">
+    <h3>Nachweis Originaldokument</h3>
+    <table class="table table-sm">
+      <tr>
+        <th>Einrichtung</th>
+        <td><xsl:apply-templates select="t:repository"/></td>
+      </tr>
+      <tr>
+        <th>Sammlung</th>
+        <td><xsl:apply-templates select="t:collection"/></td>
+      </tr>
+      <tr>
+        <th>Nr.</th>
+        <td><xsl:apply-templates select="t:idno"/></td>
       </tr>
     </table>
   </xsl:template>
