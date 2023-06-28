@@ -24,8 +24,8 @@
           <h2>Metadaten zu diesem Dokument</h2>
           <xsl:apply-templates select="/t:TEI/@xml:id"/>
           <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:creation"/>
-          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:particDesc"/>
           <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:textDesc"/>
+          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:particDesc"/>
           <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:editor"/>
           <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:publicationStmt/t:availability/t:licence"/>
           <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:msDesc/t:msIdentifier"/>
