@@ -7,11 +7,11 @@
 
   <xsl:template match="t:teiHeader">
     <div class="tei-header">
-      <h1>
+      <!--<h1>
         <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='sender'])"/>
         <xsl:text>, </xsl:text>
         <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:date[@type='sent'])"/>
-      </h1>
+      </h1>-->
       
       <div>
         <button class="btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-meta" aria-expanded="false" aria-controls="collapse-meta">Metadaten</button>
