@@ -59,6 +59,7 @@
 .tei-salute         { }
 .tei-seg            { }
 .tei-space          { }
+.tei-supplied       { color:#aaa }
 .tei-surname        { background:#77e195; padding:4px; cursor:help }
 .tei-surname:empty::after  { content:"👤"; opacity:.3 }
 .tei-unclear        { opacity:.6 }
