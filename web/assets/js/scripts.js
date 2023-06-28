@@ -117,6 +117,7 @@ $( function() {
     let line_avg = line_length/line_cnt
     if ( line_avg < 300 ) {
       $('.tei-body .tei-head, .tei-body [data-rendition="#c"], .tei-body .tei-pb').css({ 'width': '60%' })
+      $('.tei-body [data-rendition~="#r"]').css({ 'margin-right': '40%' })
     }
     else if ( line_avg < 400 ) {
       $('.tei-body .tei-head, .tei-body [data-rendition="#c"], .tei-body .tei-pb').css({ 'width': '70%' })
