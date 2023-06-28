@@ -63,17 +63,21 @@ $( function() {
 
   // link to page images
   $('.tei-pb[data-facsimile').append( function(i, str) {
-    let facs = $(this).data('facsimile')
+    let el = $(this)
+    let n         = el.data('n')
+    let facs      = el.data('facs')
+    let facsimile = el.data('facsimile')
     let href = window.location.href
     let dir  = href.substring(0, href.lastIndexOf('/')).replace(/.*\//,'')
-    let src  = `${imgBase}/${dir}/${facs}`
+    let src  = `${imgBase}/${dir}/${facsimile}`
 
-    let marginLeft = -( $(this).position().left - $('.tei').position().left + 220)
-    return `<figure class="tei-side-figure" style="margin-left:${marginLeft}px">
-              <a data-fancybox="gallery" data-caption="Faksimile ${$(this).data('facs')}" href="${src}" target="_blank" title="Faksimile im Vollbild anzeigen">
+    let marginLeft = -( el.position().left - $('.tei').position().left + 220)
+    return `<a data-fancybox="gallery-text" data-caption="Seite ${n}" href="${src}" target="_blank" title="Faksimile im Vollbild anzeigen">[Seite ${n}]</a>
+            <figure class="tei-side-figure" style="margin-left:${marginLeft}px">
+              <a data-fancybox="gallery-side" data-caption="Faksimile ${facs}" href="${src}" target="_blank" title="Faksimile im Vollbild anzeigen">
                 <img src="${src}" class="figure-img img-fluid rounded"/>
               </a>
-              <figcaption class="figure-caption">Faksimile <em>${$(this).data('facs')}</em></figcaption>
+              <figcaption class="figure-caption">Faksimile ${facs}</figcaption>
             </figure>`
   })
 

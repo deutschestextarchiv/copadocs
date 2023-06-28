@@ -53,8 +53,6 @@
 .tei-p              { display:block; margin:0 0 10px; text-indent:1rem }
 .tei-pb             { display:block; text-align:center; color:#666; margin:1rem 0; font-family:var(--base-font-family); font-size:var(--base-font-size); font-weight:var(--base-font-weight); letter-spacing:normal }
 .tei-pb:hover       { background:#f3f3f3 }
-.tei-pb[data-n]::before       { content:'[Seite ' attr(data-n) ']' }
-.tei-pb:not([data-n])::before { content:'[' attr(data-facs) ']' }
 .tei-placeName      { background:#8cc8ff; padding:4px; cursor:help }
 .tei-salute         { }
 .tei-seg            { }

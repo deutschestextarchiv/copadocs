@@ -38,6 +38,9 @@
   <xsl:template match="t:pb" priority="10">
     <span class="tei-{local-name(.)}">
       <xsl:call-template name="set-data-attributes"/>
+      <xsl:attribute name="data-n">
+        <xsl:value-of select="count(preceding::t:pb) + 1"/>
+      </xsl:attribute>
       <xsl:variable name="id">
         <xsl:value-of select="substring-after(@facs, '#')"/>
       </xsl:variable>
