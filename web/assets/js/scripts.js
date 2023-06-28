@@ -81,6 +81,41 @@ $( function() {
             </figure>`
   })
 
+  // in narrow texts centered
+  // headings and other centered text is displayed
+  // to the very left, so we calculate here the
+  // average text line width and set the width
+  // of the head container to 60% resp. 70%
+  recalculate_head_width();
+  function recalculate_head_width () {
+    // not on mobile view
+    if ( $(window).width() < 768 ) {
+      return
+    }
+
+    $('.tei-body .tei-p').contents().filter( function() {
+      return this.nodeType === 3
+    }).wrap('<span class="calc-line"/>');
+
+    let line_cnt = 0;
+    let line_length = 0;
+    $('.calc-line').each( function() {
+      const width = $(this)[0].getClientRects()[0].width
+      if ( width > 200 ) {
+        line_cnt++;
+        line_length += width;
+      }
+    })
+    let line_avg = line_length/line_cnt
+    if ( line_avg < 300 ) {
+      $('.tei-body .tei-head, .tei-body [data-rendition="#c"], .tei-body .tei-pb').css({ 'width': '60%' })
+    }
+    else if ( line_avg < 400 ) {
+      $('.tei-body .tei-head, .tei-body [data-rendition="#c"], .tei-body .tei-pb').css({ 'width': '70%' })
+      $('.tei-body [data-rendition~="#r"]').css({ 'margin-right': '50%' })
+    }
+  }
+
   fields = {};
   [
     'dirname',
