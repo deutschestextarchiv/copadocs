@@ -39,12 +39,12 @@ You’ll need a webserver to serve the HTML files.
 A setup for Apache may look like:
 
 ```apacheconf
-<Directory /your/path/to/copadocs>
+<Directory /your/path/to/copadocs/web>
   DirectoryIndex index.html
   Options +Indexes
   Require all granted
 </Directory>
-Alias /copadocs /your/path/to/copadocs
+Alias /copadocs /your/path/to/copadocs/web
 ```
 
 ## Contact
