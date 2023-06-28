@@ -23,13 +23,13 @@
         <div class="collapse pt-3" id="collapse-meta" data-bs-parent="#collapse-group">
           <h2>Metadaten zu diesem Dokument</h2>
           <xsl:apply-templates select="/t:TEI/@xml:id"/>
+          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:creation"/>
+          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:particDesc"/>
+          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:textDesc"/>
           <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:editor"/>
           <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:publicationStmt/t:availability/t:licence"/>
           <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:msDesc/t:msIdentifier"/>
-          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:creation"/>
-          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:particDesc"/>
           <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:handNotes"/>
-          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:textDesc"/>
         </div>
 
         <div class="collapse pt-3" id="collapse-bibl" data-bs-parent="#collapse-group">
@@ -76,7 +76,7 @@
 
 
   <xsl:template match="t:profileDesc/t:creation">
-    <h3>Informationen zum Text (Schreiber und ggf. Empfänger)</h3>
+    <h3>Informationen zum Text <!--(Schreiber und ggf. Empfänger)--></h3>
     <table class="table table-sm">
       <thead>
         <tr>
@@ -218,7 +218,7 @@
   </xsl:template>
 
   <xsl:template match="t:textDesc">
-    <h3>Informationen zum Text</h3>
+    <!--<h3>Informationen zum Text</h3>-->
     <table class="table table-sm">
       <!--
         always empty(?):
