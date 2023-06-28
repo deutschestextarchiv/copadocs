@@ -72,7 +72,7 @@
             <li class="nav-item">
               <a aria-current="page" href="{$base}geobrowser.html">
                 <xsl:call-template name="set-class-active">
-                  <xsl:with-param name="value" select="'nav-link disabled'"/>
+                  <xsl:with-param name="value" select="'nav-link'"/>
                   <xsl:with-param name="link" select="'geobrowser.html'"/>
                 </xsl:call-template>
                 Geobrowser
