@@ -81,6 +81,14 @@ $( function() {
             </figure>`
   })
 
+  // <seg ana="#pic">
+  $('.tei-seg[data-ana="#pic"]').each( function() {
+    let el = $(this)
+    el.attr('title', el.html())
+      .attr('data-bs-toggle', 'tooltip')
+      .html('')
+  })
+
   // in narrow texts centered
   // headings and other centered text is displayed
   // to the very left, so we calculate here the
