@@ -52,12 +52,6 @@
   <xsl:template name="site-header">
     <nav class="navbar navbar-expand-lg bg-light">
       <div class="container-fluid">
-        <!--<a class="navbar-brand" href="{$base}index.html">
-          <img src="{$base}assets/logos/dta.svg" height="50" title="Deutsches Textarchiv" alt="Logo Deutsches Textarchiv" data-bs-toggle="tooltip" data-bs-placement="right"/>
-        </a>-->
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
@@ -149,15 +143,18 @@
               </ul>
             </li>
           </ul>
-          <form class="d-flex mb-1" role="search">
+          <form class="d-flex mb-1 me-5" role="search">
             <input class="form-control me-2" type="search" placeholder="Suche" aria-label="Search" disabled="disabled"/>
             <button class="btn btn-outline-success" type="submit" disabled="disabled">Suche</button>
           </form>
         </div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="https://www.deutschestextarchiv.de/" target="_blank">
+          <img src="{$base}assets/logos/dta.svg" height="50" title="Deutsches Textarchiv" alt="Logo Deutsches Textarchiv" data-bs-toggle="tooltip" data-bs-placement="right"/>
+        </a>
       </div>
-      <a class="navbar-brand" href="https://deutschestextarchiv.de/">
-        <img src="{$base}assets/logos/dta.svg" height="50" title="Deutsches Textarchiv" alt="Logo Deutsches Textarchiv" data-bs-toggle="tooltip" data-bs-placement="right"/>
-      </a>
     </nav>
 
     <div class="container">
