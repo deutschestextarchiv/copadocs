@@ -86,6 +86,7 @@ $( function() {
     let el = $(this)
     el.attr('title', el.html())
       .attr('data-bs-toggle', 'tooltip')
+      .attr('data-bs-placement', 'bottom')
       .html('')
   })
 
