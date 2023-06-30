@@ -87,6 +87,15 @@
                 Gesamtkorpus
               </a>
             </li>
+            <li class="nav-item">
+              <a aria-current="page" href="{$base}patientenakten.html">
+                <xsl:call-template name="set-class-active">
+                  <xsl:with-param name="value" select="'nav-link disabled'"/>
+                  <xsl:with-param name="link" select="'patientenakten.html'"/>
+                </xsl:call-template>
+                Patientenakten
+              </a>
+            </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 Dokumentation
