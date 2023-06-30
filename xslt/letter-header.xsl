@@ -279,5 +279,6 @@
 
   <xsl:template match="t:residence">
     <xsl:value-of select="text()"/>
+    <a href="https://www.openstreetmap.de/karte/?zoom=13&amp;lat={substring-before(t:geo,' ')}&amp;lon={substring-after(t:geo,' ')}" target="_blank">📍</a>
   </xsl:template>
 </xsl:stylesheet>
