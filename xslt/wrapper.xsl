@@ -52,9 +52,6 @@
   <xsl:template name="site-header">
     <nav class="navbar navbar-expand-lg bg-light">
       <div class="container-fluid">
-        <a class="navbar-brand" href="{$base}index.html">
-          <img src="{$base}assets/logos/dta.svg" height="50" title="Deutsches Textarchiv" alt="Logo Deutsches Textarchiv" data-bs-toggle="tooltip" data-bs-placement="right"/>
-        </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -146,6 +143,9 @@
           </form>
         </div>
       </div>
+      <a class="navbar-brand" href="{$base}index.html">
+        <img src="{$base}assets/logos/dta.svg" height="50" title="Deutsches Textarchiv" alt="Logo Deutsches Textarchiv" data-bs-toggle="tooltip" data-bs-placement="right"/>
+      </a>
     </nav>
 
     <div class="container">
