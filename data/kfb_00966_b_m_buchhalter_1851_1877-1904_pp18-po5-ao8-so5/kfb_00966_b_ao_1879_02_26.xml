@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Amalie <surname>B.</surname></persName>
 <date type="sent">26.02.1879</date>
-<date type="received"/>
-<persName type="addressee"> Direktion:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee"> Direktion: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Kempten</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb966b">
@@ -43,12 +43,12 @@
 <birth when="1851"/>
 <death when="1904"/>
 <occupation>Buchhalter, Kaufmann</occupation>
-<residence>Kempten</residence>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: verheiratet</p>
 <p>Eltern: Huckler</p>
-<p>Anstalt: 1877-1904</p>
+<p>Anstalt: <date from="1877" to="1904">1877-1904</date></p>
 <p>Brieftypen: pp, po, ao</p>
 </state>
 <trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
@@ -85,17 +85,13 @@
 <salute><hi rendition="#c"><hi rendition="#i">Euer
                     Hochwohlgeboren!</hi></hi></salute>
 </opener>
-<p><add hand="arzt"><hi rendition="#r">56 <unclear/> 22 <unclear/>
-<lb break="yes"/>No 1113</hi></add></p> <p><space/> Heute erhiehlt ich die Aufforderung <lb break="yes"/> aus der Anstalt betreff der
-                erwachsenen <lb break="yes"/> Kosten im Betrage von 44 <hi rendition="#i">Mrk</hi> 41
-                K, <lb break="yes"/> allein ich muß Ihnen erwiedern <lb break="yes"/> daß ich
-                benannte Sum̄e, am 15 t februar <lb break="yes"/> auf dem hiesiegen
-                Magistrate <lb break="yes"/> bezahlte, ich bitte deßhalb sich <lb break="yes"/>
-                gefälligst an Magistrat zu wenden. <lb break="yes"/> Anbei erlaube ich mir höflichst
-                zu fragen <lb break="yes"/> wie es mit meinem l Manne geth <lb break="yes"/> ich
-                bitte mich gelegentlich in Kenntniß <lb break="yes"/> zu setzen. <seg ana="#salute">Unterdessen zeichnet <lb break="yes"/><hi rendition="#r">Achtungsvollst</hi></seg>
-<lb break="yes"/><hi rendition="#r">ergebenst <lb break="yes"/><seg ana="#signed"><hi rendition="#i">Amalie </hi><surname><hi rendition="#i">B.</hi></surname></seg>
-<lb break="yes"/>Buchhaltersgattin</hi></p>
+<p><add hand="arzt"><hi rendition="#r">56 <unclear/> 22 <unclear/><lb break="yes"/>No 1113</hi></add></p> <p><space/> Heute erhiehlt ich die Aufforderung<lb break="yes"/>aus der Anstalt betreff der
+                erwachsenen<lb break="yes"/>Kosten im Betrage von 44 <hi rendition="#i">Mrk</hi> 41
+                K,<lb break="yes"/>allein ich muß Ihnen erwiedern<lb break="yes"/>daß ich
+                benannte Sum̄e, am 15 t februar<lb break="yes"/>auf dem hiesiegen
+                Magistrate<lb break="yes"/>bezahlte, ich bitte deßhalb sich<lb break="yes"/>gefälligst an Magistrat zu wenden.<lb break="yes"/>Anbei erlaube ich mir höflichst
+                zu fragen<lb break="yes"/>wie es mit meinem l Manne geth<lb break="yes"/>ich
+                bitte mich gelegentlich in Kenntniß<lb break="yes"/>zu setzen. <seg ana="#salute">Unterdessen zeichnet<lb break="yes"/><hi rendition="#r">Achtungsvollst</hi></seg><lb break="yes"/><hi rendition="#r">ergebenst<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Amalie </hi><surname><hi rendition="#i">B.</hi></surname></seg><lb break="yes"/>Buchhaltersgattin</hi></p>
 </body>
 </text>
 </TEI>

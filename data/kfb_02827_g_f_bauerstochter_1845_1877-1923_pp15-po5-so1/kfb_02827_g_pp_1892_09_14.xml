@@ -31,10 +31,10 @@
 <creation>
 <persName type="sender">Maria Cleofa <surname>G.</surname></persName>
 <date type="sent">14.09.1892</date>
-<date type="received"/>
-<persName type="addressee">Bruder, Schwägerin, Vetter:  <surname>G.</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder, Schwägerin, Vetter: n.a. <surname>G.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2827g">
@@ -45,12 +45,12 @@
 <birth when="1845"/>
 <death cert="unknown"/>
 <occupation>Bauerstochter</occupation>
-<residence>Engishausen, Illertissen</residence>
+<residence><geo decls="#WGS">48.1082257 10.2728225</geo>Engishausen, Illertissen</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bauern</p>
-<p>Anstalt: 1877-1923</p>
+<p>Anstalt: <date from="1877" to="1923">1877-1923</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Manie (1923)</p></trait>
@@ -83,21 +83,15 @@
 <pb facs="#image_034"/>
 <opener>
 <dateline><hi rendition="#r"><hi rendition="#i"><seg ana="#pic">x.x.x</seg></hi>. Irrs<hi rendition="#i">ee</hi>
-                        den̄ 14 Sepbtemer <lb break="yes"/>
-                    18<del>8</del>92.</hi></dateline>
-<salute><hi rendition="#c">Lieber Bud u. Schwägerin̄!<lb break="yes"/>
-				        Herr Vetter An̄ton!-<lb break="yes"/>
-				        Herr Vormund x!-?</hi></salute>
+                        den̄ 14 Sepbtemer<lb break="yes"/>18<del>8</del>92.</hi></dateline>
+<salute><hi rendition="#c">Lieber Bud u. Schwägerin̄!<lb break="yes"/>Herr Vetter An̄ton!-<lb break="yes"/>Herr Vormund x!-?</hi></salute>
 </opener>
 <p> Gott zum Gruß <hi rendition="#i">x</hi>.</p>
-<p> Ein paar Zeilen ich habe<del>r</del> von<lb break="yes"/> Herr Dierektor Erlaubniß.<lb break="yes"/>
-<hi rendition="#c">Täglich darf Du kom̄en?</hi><lb break="yes"/> mich in
-                In̄ Urlaub holen.<lb break="yes"/> Einem leidenden Fuß u. Magen<lb break="yes"/> jetzt hat man̄ mir noch Mittag<lb break="yes"/> den̄
-                    Kaff<hi rendition="#i">ee</hi> abgeschrieben. Ich bitten<lb break="yes"/>
-                den̄ Bruder An̄ton Vetter vom<lb break="yes"/> Vater selig. mir zum
-                    Kaff<hi rendition="#i">ee</hi><lb break="yes"/> u. heimreisen ein Geld
-                    schicken.<lb break="yes"/>
-<seg ana="#salute"><hi rendition="#c">Viele Grüß an Euh Alle.</hi></seg></p>
+<p> Ein paar Zeilen ich habe<del>r</del> von<lb break="yes"/>Herr Dierektor Erlaubniß.<lb break="yes"/><hi rendition="#c">Täglich darf Du kom̄en?</hi><lb break="yes"/>mich in
+                In̄ Urlaub holen.<lb break="yes"/>Einem leidenden Fuß u. Magen<lb break="yes"/>jetzt hat man̄ mir noch Mittag<lb break="yes"/>den̄
+                    Kaff<hi rendition="#i">ee</hi> abgeschrieben. Ich bitten<lb break="yes"/>den̄ Bruder An̄ton Vetter vom<lb break="yes"/>Vater selig. mir zum
+                    Kaff<hi rendition="#i">ee</hi><lb break="yes"/>u. heimreisen ein Geld
+                    schicken.<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Viele Grüß an Euh Alle.</hi></seg></p>
 </body>
 </text>
 </TEI>

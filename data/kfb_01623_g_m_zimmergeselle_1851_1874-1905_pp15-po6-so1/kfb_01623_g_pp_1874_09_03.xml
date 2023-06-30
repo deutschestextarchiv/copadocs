@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Johannes <surname>G.</surname></persName>
 <date type="sent">03.09.1874</date>
-<date type="received"/>
-<persName type="addressee">Eltern, Geschwister, Freunde:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern, Geschwister, Freunde: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb1623g">
@@ -44,12 +44,12 @@
 <birth when="1851"/>
 <death when="1905"/>
 <occupation>Zimmergeselle</occupation>
-<residence>Riedheim, Günzburg</residence>
+<residence><geo decls="#WGS">48.4613104 10.1908503</geo>Riedheim, Günzburg</residence>
 <faith>protestantisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Söldner</p>
-<p>Anstalt: 1874-1905</p>
+<p>Anstalt: <date from="1874" to="1905">1874-1905</date></p>
 <p>Brieftypen: pp, po, Lebenslauf, Liedertafel</p>
 </state>
 <trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
@@ -85,49 +85,45 @@
 <body>
 <pb facs="#image_025"/>
 <opener>
-<dateline><hi rendition="#c"><hi rendition="#i">Irsee</hi><lb break="yes"/>
-				        Donnerstag den 3<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> September 1874.</hi></dateline>
+<dateline><hi rendition="#c"><hi rendition="#i">Irsee</hi><lb break="yes"/>Donnerstag den 3<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> September 1874.</hi></dateline>
 <salute><hi rendition="#c">Liebe Eltern und Geswister und Freünde!</hi></salute>
 </opener>
 <p>
-                Es sind nun bis zum heutigen schönen Tage, 14 Tage<lb break="yes"/> verflossen, wo mich mein guter Vetter Gottfried <surname>N.</surname><lb break="yes"/> und mein aufrichtiger Nachbar Johannes <surname>S.</surname>
-                    Sohn, des<lb break="yes"/> Gemeindepflegers Joh.<surname>S.</surname>. nach
-                    Irsee bekleidet haben<lb break="yes"/> mit der Freüde das
-                        in<del>g</del> Augsburg das Feuerwehrfest<lb break="yes"/> an dem folgendten
+                Es sind nun bis zum heutigen schönen Tage, 14 Tage<lb break="yes"/>verflossen, wo mich mein guter Vetter Gottfried <surname>N.</surname><lb break="yes"/>und mein aufrichtiger Nachbar Johannes <surname>S.</surname>
+                    Sohn, des<lb break="yes"/>Gemeindepflegers Joh.<surname>S.</surname>. nach
+                    Irsee bekleidet haben<lb break="yes"/>mit der Freüde das
+                        in<del>g</del> Augsburg das Feuerwehrfest<lb break="yes"/>an dem folgendten
                     Tage <del>das Feüerwehrfest</del>
-<add>gefeüert werde</add> zur <lb break="yes"/> Erinnerung <del>gehalten oder
-                        gefeüert werde</del>; Indem, es<lb break="yes"/> aber Einen ganz andern Weg
-                    ginge, wo die Freüde<lb break="yes"/> wie es in dem Sprichwort heißt in den
-                    Brunnen fiel.<lb break="yes"/> in dieser Hinsicht, weil alles nur auch aus
-                        gutem<lb break="yes"/> Willen und Zuschickung von unserm lieben
-                    <del>Herrgott</del><lb break="yes"/> <w>Herr Gott</w> zugelassen wurde in diesen
-                    Falle denke<lb break="yes"/> Ich mir, <del>wir</del> wird man dieses so listig
-                    und sehr gut<lb break="yes"/> eingefädelt u s ausstudiert haben, damit es dem
-                        gut<lb break="yes"/> Vernünftigen <hi rendition="#i">Johannes
-                            <surname>G.</surname> aus Riedheim<lb break="yes"/> geboren
-                        nicht so aufallent vorckomme.</hi> Denn wenn<lb break="yes"/> dieses
-                der liestige N N <add>Namen</add> gewußt hätte würde er<lb break="yes"/> schön
-                höfrig u bescheiden gefragt haben, seine<lb break="yes"/> Angehörigen Vergläger,
-                wegen was und aus welcher<lb break="yes"/> Beziehung u Grunde habe ich dieses
-                verschuldete mich<lb break="yes"/> in die Krankenanstalt nach Irsee zu thun, u
-                    man<lb break="yes"/> würde dann mir zur Antwort gegeben haben<lb break="yes"/>
-                wenn nicht zu rathen ist, dann ist auch nicht zu<lb break="yes"/> helfen, was man
-                erst eins<del>t</del>ieht, wenn man <lb break="yes"/><add place="above"><seg ana="#metaling">Ich habe mich <w>ein</w><w>wenig</w><lb break="yes"/> verschrieben<lb break="yes"/> dewegen hat man das ausdreichen<lb break="yes"/> auch
+<add>gefeüert werde</add> zur<lb break="yes"/>Erinnerung <del>gehalten oder
+                        gefeüert werde</del>; Indem, es<lb break="yes"/>aber Einen ganz andern Weg
+                    ginge, wo die Freüde<lb break="yes"/>wie es in dem Sprichwort heißt in den
+                    Brunnen fiel.<lb break="yes"/>in dieser Hinsicht, weil alles nur auch aus
+                        gutem<lb break="yes"/>Willen und Zuschickung von unserm lieben
+                    <del>Herrgott</del><lb break="yes"/><w>Herr Gott</w> zugelassen wurde in diesen
+                    Falle denke<lb break="yes"/>Ich mir, <del>wir</del> wird man dieses so listig
+                    und sehr gut<lb break="yes"/>eingefädelt u s ausstudiert haben, damit es dem
+                        gut<lb break="yes"/>Vernünftigen <hi rendition="#i">Johannes
+                            <surname>G.</surname> aus Riedheim<lb break="yes"/>geboren
+                        nicht so aufallent vorckomme.</hi> Denn wenn<lb break="yes"/>dieses
+                der liestige N N <add>Namen</add> gewußt hätte würde er<lb break="yes"/>schön
+                höfrig u bescheiden gefragt haben, seine<lb break="yes"/>Angehörigen Vergläger,
+                wegen was und aus welcher<lb break="yes"/>Beziehung u Grunde habe ich dieses
+                verschuldete mich<lb break="yes"/>in die Krankenanstalt nach Irsee zu thun, u
+                    man<lb break="yes"/>würde dann mir zur Antwort gegeben haben<lb break="yes"/>wenn nicht zu rathen ist, dann ist auch nicht zu<lb break="yes"/>helfen, was man
+                erst eins<del>t</del>ieht, wenn man<lb break="yes"/><add place="above"><seg ana="#metaling">Ich habe mich <w>ein</w><w>wenig</w><lb break="yes"/>verschrieben<lb break="yes"/>dewegen hat man das ausdreichen<lb break="yes"/>auch
                         gelernt</seg></add><pb facs="#image_026"/> auf dem rechten Wege dargestellt
-                ist, durch Hilfe und<lb break="yes"/> Beistand des heiligen Geistes, und Zuschickung
-                    Gottes,<lb break="yes"/> dann erst durch Menschen u guter Behandlung geholfen<lb break="yes"/> werden kann. Denn der schöne Liedervers macht uns<lb break="yes"/>
-                jedem offenbar, wer in gelernt hat. Wer nur den<lb break="yes"/> lieben Gott läsßt
-                walten u hoffet auf in alle Zeit<lb break="yes"/> Den wird er wurderbar erhalten in
-				    allem Kreuz<lb break="yes"/> und Traurigkeit, wer Gott dem allerhösten traut, der<lb break="yes"/> hat <del>hösten</del> auf keinen Sand gebaut. Wer nun diese<lb break="yes"/> Krankenanstalt schon gebraucht in Erfahrung genossen<lb break="yes"/> hat, danke alle Tage dem dreieinigen Gott Vater Sohn und<lb break="yes"/> heiligen Geist. das er wieder in Gnaden angenom̄en <lb break="yes"/> worden ist, u bei gutem Verstand dargestellt ist. <w>Denn</w><w>es</w><lb break="yes"/> ist nur eine <del>Pfr</del> Probe vom Gott dem allmächtigen<lb break="yes"/> Schöpfer Him̄els u der Erde, u ein jeder Mensch bette<lb break="yes"/> für diejenigen, welchem dieses unnaussprechliche Elend<lb break="yes"/> u Schicksal wiederfahren ist. Denn ein solches ist es<lb break="yes"/> nicht selbst im Stande weil im die Geistesgegen<lb break="no"/>
-                wart ganz entwichen ist. Ich hoffe jndem ich mein<lb break="yes"/> Schreiben
+                ist, durch Hilfe und<lb break="yes"/>Beistand des heiligen Geistes, und Zuschickung
+                    Gottes,<lb break="yes"/>dann erst durch Menschen u guter Behandlung geholfen<lb break="yes"/>werden kann. Denn der schöne Liedervers macht uns<lb break="yes"/>jedem offenbar, wer in gelernt hat. Wer nur den<lb break="yes"/>lieben Gott läsßt
+                walten u hoffet auf in alle Zeit<lb break="yes"/>Den wird er wurderbar erhalten in
+				    allem Kreuz<lb break="yes"/>und Traurigkeit, wer Gott dem allerhösten traut, der<lb break="yes"/>hat <del>hösten</del> auf keinen Sand gebaut. Wer nun diese<lb break="yes"/>Krankenanstalt schon gebraucht in Erfahrung genossen<lb break="yes"/>hat, danke alle Tage dem dreieinigen Gott Vater Sohn und<lb break="yes"/>heiligen Geist. das er wieder in Gnaden angenom̄en<lb break="yes"/>worden ist, u bei gutem Verstand dargestellt ist. <w>Denn</w><w>es</w><lb break="yes"/>ist nur eine <del>Pfr</del> Probe vom Gott dem allmächtigen<lb break="yes"/>Schöpfer Him̄els u der Erde, u ein jeder Mensch bette<lb break="yes"/>für diejenigen, welchem dieses unnaussprechliche Elend<lb break="yes"/>u Schicksal wiederfahren ist. Denn ein solches ist es<lb break="yes"/>nicht selbst im Stande weil im die Geistesgegen<lb break="no"/>wart ganz entwichen ist. Ich hoffe jndem ich mein<lb break="yes"/>Schreiben
                     je<del>h</del>tzt schließe <add>daß Euch <del>mein Schreiben</del></add>
-<add> daselbe</add> bei guter Gesundheit antreffen<lb break="yes"/> wird u werde ich
-                auch Ihr lieben Elltern nicht<lb break="yes"/> sagen können Ein verlorner Sohn
-                    mich<lb break="yes"/> nennen zu brauchen.<lb break="yes"/> <seg ana="#salute">Ich schließe nun
-                jetzt mein Schreiben mit herzlichen<lb break="yes"/> grüßen Vater Mutter Brüder u
-                Schwestern überhaupt<lb break="yes"/> alle meine Verwandte u Bekante diejenigen
-                        welche<lb break="yes"/> mich gekant haben.</seg> Was ich noch zum Schluße liebe
-                    Mutter<lb break="yes"/> vom Grund meines Herzens erbitten, möchte, daß Du<lb break="yes"/> oder der Herr Pfarrer, Vetter Bürgermeister oder der Herr<lb break="yes"/> Schüllehrer, am nächsten Sonntag. Mich besuchen möchte<lb break="yes"/> indem ich ganz gut u bescheiden hergellst bin</p>
+<add> daselbe</add> bei guter Gesundheit antreffen<lb break="yes"/>wird u werde ich
+                auch Ihr lieben Elltern nicht<lb break="yes"/>sagen können Ein verlorner Sohn
+                    mich<lb break="yes"/>nennen zu brauchen.<lb break="yes"/><seg ana="#salute">Ich schließe nun
+                jetzt mein Schreiben mit herzlichen<lb break="yes"/>grüßen Vater Mutter Brüder u
+                Schwestern überhaupt<lb break="yes"/>alle meine Verwandte u Bekante diejenigen
+                        welche<lb break="yes"/>mich gekant haben.</seg> Was ich noch zum Schluße liebe
+                    Mutter<lb break="yes"/>vom Grund meines Herzens erbitten, möchte, daß Du<lb break="yes"/>oder der Herr Pfarrer, Vetter Bürgermeister oder der Herr<lb break="yes"/>Schüllehrer, am nächsten Sonntag. Mich besuchen möchte<lb break="yes"/>indem ich ganz gut u bescheiden hergellst bin</p>
 </body>
 </text>
 </TEI>

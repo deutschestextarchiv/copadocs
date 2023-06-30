@@ -30,13 +30,13 @@
 <creation>
 <persName type="sender">Josef <surname>B.</surname></persName>
 <date type="sent">28.09.1913</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Schwägerin: Anna <surname>B.</surname></persName>
-<settlement type="sent"/>
-<settlement type="received"/>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
-<person sex="m" xml:id="kfb1356">
+<person sex="m" xml:id="kfb1356b">
 <persName>
 <forename>Josef</forename>
 <surname>B.</surname>
@@ -44,12 +44,12 @@
 <birth when="1873"/>
 <death cert="unknown"/>
 <occupation>Fabrikarbeiter, Weber</occupation>
-<residence>Augsburg</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bruder: Kammgarnspinnerei</p>
-<p>Anstalt: 1899-1933</p>
+<p>Anstalt: <date from="1899" to="1933">1899-1933</date></p>
 <p>Brieftypen: pp, po, ao, lebenslauf</p>
 </state>
 <trait><p>Depression, [Suizidalität], Angstanfälle (1899), Halluzination (1908)</p></trait>
@@ -85,34 +85,28 @@
 <pb facs="#image_043"/>
 <opener>
 <dateline><add hand="arzt"><hi rendition="#r">28. 9. 13</hi></add></dateline>
-<salute><hi rendition="#c">Wohlgeborene<lb break="yes"/>
-<surname>Z.</surname> Anna Vrau <surname>B.</surname><lb break="yes"/>
-				        Schwägeri</hi></salute>
+<salute><hi rendition="#c">Wohlgeborene<lb break="yes"/><surname>Z.</surname> Anna Vrau <surname>B.</surname><lb break="yes"/>Schwägeri</hi></salute>
 </opener>
-<p> Ich will Dir schreiben das ich ganz geheihlt<lb break="yes"/> bin und mich gebeßert habe; Du
-                solst mier<lb break="yes"/> getrue sei mich rausholen weil ich doch<lb break="yes"/>
-                endlassen werden kan̄ durch sechsjährige<lb break="yes"/> Arbeit. Ich möcht
-                dieses Jahr noch rauß<lb break="yes"/> sei zu mier so freundlich und getrue<lb break="yes"/> und Du beim Mediezienahlraht Alfreth<lb break="yes"/> Prienzing
-                eingeben das ich entlassen<lb break="yes"/> werden kan̄. erst ist
-                    <surname>O.</surname> Josef und <surname>W.</surname><lb break="yes"/> entlaßen worden. Dus auch ressgieren und<lb break="yes"/> fahr her
-                und nim̄ mi mit zu Dier heim.<lb break="yes"/> nach Haus ich grieg wieder
-                Arbeit in einer<lb break="yes"/> Fabriek und eine Schlafstel ich hab ein sehr
-                    guts<lb break="yes"/> Nerven̄siestem und kan̄ mich zu jeder<lb break="yes"/> Maschienen unscheniehrt wagen. <pb facs="#image_044"/> ich
-                bin̄ nu nie geisteskrank gewesen<lb break="yes"/> und gemeingefährlich wegen
-                    einem<lb break="yes"/> vorüber geenden Leiden ins Kranken<lb break="no"/> haus
-                nei gangen i häts solen dem<lb break="yes"/> Schreiber Dokter Mediezinalrath
-                    sagen.<lb break="yes"/>
-<space/> sagen du is net und wen̄ i verek<lb break="yes"/> drum is mier so
-                schlecht gangen.<lb break="yes"/> herzliche <surname>Z.</surname> Anna ich will
-                    <lb break="yes"/> von <surname>M.</surname> nig mer wissen<lb break="yes"/> die sollen Stadtv<add>er</add>weiss griegen<lb break="yes"/> und
-                ich kan̄ vileicht mit einem<lb break="yes"/> Schatz
-                    <surname>R.</surname> Frieda wieder weiter<lb break="yes"/> leben in
-                    Augsburg.<lb break="yes"/> gute Seelen finden sich<lb break="yes"/> einander
+<p> Ich will Dir schreiben das ich ganz geheihlt<lb break="yes"/>bin und mich gebeßert habe; Du
+                solst mier<lb break="yes"/>getrue sei mich rausholen weil ich doch<lb break="yes"/>endlassen werden kan̄ durch sechsjährige<lb break="yes"/>Arbeit. Ich möcht
+                dieses Jahr noch rauß<lb break="yes"/>sei zu mier so freundlich und getrue<lb break="yes"/>und Du beim Mediezienahlraht Alfreth<lb break="yes"/>Prienzing
+                eingeben das ich entlassen<lb break="yes"/>werden kan̄. erst ist
+                    <surname>O.</surname> Josef und <surname>W.</surname><lb break="yes"/>entlaßen worden. Dus auch ressgieren und<lb break="yes"/>fahr her
+                und nim̄ mi mit zu Dier heim.<lb break="yes"/>nach Haus ich grieg wieder
+                Arbeit in einer<lb break="yes"/>Fabriek und eine Schlafstel ich hab ein sehr
+                    guts<lb break="yes"/>Nerven̄siestem und kan̄ mich zu jeder<lb break="yes"/>Maschienen unscheniehrt wagen. <pb facs="#image_044"/> ich
+                bin̄ nu nie geisteskrank gewesen<lb break="yes"/>und gemeingefährlich wegen
+                    einem<lb break="yes"/>vorüber geenden Leiden ins Kranken<lb break="no"/>haus
+                nei gangen i häts solen dem<lb break="yes"/>Schreiber Dokter Mediezinalrath
+                    sagen.<lb break="yes"/><space/> sagen du is net und wen̄ i verek<lb break="yes"/>drum is mier so
+                schlecht gangen.<lb break="yes"/>herzliche <surname>Z.</surname> Anna ich will<lb break="yes"/>von <surname>M.</surname> nig mer wissen<lb break="yes"/>die sollen Stadtv<add>er</add>weiss griegen<lb break="yes"/>und
+                ich kan̄ vileicht mit einem<lb break="yes"/>Schatz
+                    <surname>R.</surname> Frieda wieder weiter<lb break="yes"/>leben in
+                    Augsburg.<lb break="yes"/>gute Seelen finden sich<lb break="yes"/>einander
                 wieder. <pb facs="#image_045"/>
-<hi rendition="#c">Ich teile Dir mit das<lb break="yes"/> mier auch ein Briefle<lb break="yes"/> schreiben dusch diese<lb break="yes"/> Woche wen̄
+<hi rendition="#c">Ich teile Dir mit das<lb break="yes"/>mier auch ein Briefle<lb break="yes"/>schreiben dusch diese<lb break="yes"/>Woche wen̄
                     wils.</hi></p>
-<p><hi rendition="#c">Vrau Anna <surname>B.</surname> geborene <surname>Z.</surname><lb break="yes"/>
-neue Weberrei grose Fabriek.</hi>
+<p><hi rendition="#c">Vrau Anna <surname>B.</surname> geborene <surname>Z.</surname><lb break="yes"/>neue Weberrei grose Fabriek.</hi>
 </p>
 </body>
 </text>

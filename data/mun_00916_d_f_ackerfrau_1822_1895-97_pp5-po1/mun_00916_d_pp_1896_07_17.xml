@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Katharina <surname>D.</surname></persName>
 <date type="sent">17.07.1896</date>
-<date type="received"/>
-<persName type="addressee">Ehemann:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Münster</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="mun916d">
@@ -44,12 +44,12 @@
 <birth when="1822-06-06"/>
 <death cert="unknown"/>
 <occupation>Ackerfrau</occupation>
-<residence>Geburtsort: Heek; Wohnort: Heek</residence>
+<residence><geo decls="#WGS">52.1242301 7.1011759</geo>Geburtsort: Heek; Wohnort: Heek</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: verheiratet</p>
 <p>Eltern: Vater: Ackerer, Mutter: ohne Beruf</p>
-<p>Anstalt: 04.05.1895-08.10.1897</p>
+<p>Anstalt: <date from="04.05.1895" to="08.10.1897">04.05.1895-08.10.1897</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>einfache Seelenstörung (1895)</p></trait>
@@ -89,19 +89,16 @@
 <dateline><add hand="hand3"><unclear>S</unclear> 17/<hi rendition="#sub">7</hi>
                         96 <hi rendition="#u" style="hand4">ad acta</hi></add>
 <add hand="hand5"><hi rendition="#u" style="hand4"><hi rendition="#i">Frau</hi>
-<surname><hi rendition="#i">D.</hi></surname></hi></add>
-<lb break="yes"/><add hand="hand3"><hi rendition="#c">G</hi>
+<surname><hi rendition="#i">D.</hi></surname></hi></add><lb break="yes"/><add hand="hand3"><hi rendition="#c">G</hi>
 </add><lb break="yes"/><add hand="vordruck">Provinzial=Anstalt zu Münster i.W.,
                         den ...189</add></dateline>
 <salute><hi rendition="#c">Lieber Mann</hi></salute>
 </opener>
-<p>Mein Ende ist Nahe bitte <lb break="yes"/>las ein Paar h.
-                Messen <lb break="yes"/>lesen und haltet die <del>T</del> 9
-                    thägie<unclear>ge</unclear><add place="below">ge</add>
-<lb break="yes"/>andagt für mig es hält mich <lb break="yes"/>Zwar währe ich doch
-                bei euh <lb break="yes"/>Ich Vergebe euch alles wen <lb break="yes"/><w>du</w><w>eben</w> kaust so komme doch <lb break="yes"/>um den letzten
-                Alschied zu <lb break="yes"/>nehmen <seg ana="#salute">GruSze euch alle</seg>
-<lb break="yes"/>ich kann nicht mehr Schreibe <lb break="yes"/>es den Kindern </p>
+<p>Mein Ende ist Nahe bitte<lb break="yes"/>las ein Paar h.
+                Messen<lb break="yes"/>lesen und haltet die <del>T</del> 9
+                    thägie<unclear>ge</unclear><add place="below">ge</add><lb break="yes"/>andagt für mig es hält mich<lb break="yes"/>Zwar währe ich doch
+                bei euh<lb break="yes"/>Ich Vergebe euch alles wen<lb break="yes"/><w>du</w><w>eben</w> kaust so komme doch<lb break="yes"/>um den letzten
+                Alschied zu<lb break="yes"/>nehmen <seg ana="#salute">GruSze euch alle</seg><lb break="yes"/>ich kann nicht mehr Schreibe<lb break="yes"/>es den Kindern </p>
 </body>
 </text>
 </TEI>

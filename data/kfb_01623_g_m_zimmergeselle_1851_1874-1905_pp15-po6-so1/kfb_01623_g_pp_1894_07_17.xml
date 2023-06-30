@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Johannes <surname>G.</surname></persName>
 <date type="sent">17.07.1894</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Bruder: Michael <surname>G.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb1623g">
@@ -44,12 +44,12 @@
 <birth when="1851"/>
 <death when="1905"/>
 <occupation>Zimmergeselle</occupation>
-<residence>Riedheim , Günzburg</residence>
+<residence><geo decls="#WGS">48.4613104 10.1908503</geo>Riedheim , Günzburg</residence>
 <faith>protestantisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Söldner</p>
-<p>Anstalt: 1874-1905</p>
+<p>Anstalt: <date from="1874" to="1905">1874-1905</date></p>
 <p>Brieftypen: pp, po, Lebenslauf, Liedertafel</p>
 </state>
 <trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
@@ -94,43 +94,28 @@
 </opener>
 <p>
 <add hand="arzt"><hi rendition="#i"><surname>G.</surname></hi></add></p>
-<p> Du hast dir eingebildet ich<lb break="yes"/> wäre Dir nicht mehr gut.<lb break="yes"/> Dießes
-                ist aber nicht der Fall<lb break="yes"/> weil ich ein halbes Iahr<lb break="yes"/>
-                nicht mehr geschrieben habe,<lb break="yes"/> sondern der deutliche Brief<lb break="yes"/> am 2.<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
-                Januar dieses Iahrgangs<lb break="yes"/> 1894. Die Schwester Katharina<lb break="yes"/> ist nicht ganz auf den Kopf<lb break="yes"/> gestürzt: Erfahrung
-                    macht<lb break="yes"/> klug. Ich ve<del>h</del>rmahn aus<lb break="yes"/> dem
-                Brief manges begreiflige<lb break="yes"/> Wort. gesund seit ihr gottlob<lb break="yes"/> alle 3 Geschwister und<lb break="yes"/> deine Frau u Kinder,<lb break="yes"/> dein Sohn Johannes soll<pb facs="#image_041"/> besonders von mir
-                als unbekannter<lb break="yes"/> Vetter gegrüßt sein, die Liese<lb break="yes"/>
-                    de<add>s</add>gleichen u dein Schwieger<lb break="no"/> vater u Stiefsohn
-                    Martin<lb break="yes"/> welcher die Bäckerei gelernt<lb break="yes"/> hat. Den
-                Herrn Pfarrer und<lb break="yes"/> die Frau Pfarrerin in Riedhein<lb break="yes"/>
-                deßgleichen auch den Vetter<lb break="yes"/> Gottfrid <surname>N.</surname>
-                    Schreinermeister<lb break="yes"/> und alle die nach mir fragen<lb break="yes"/>
-                möchten. <seg ana="#salute">Ich schliese mit<lb break="yes"/> dankbarem Gruß.<lb break="yes"/>
-<hi rendition="#c">Dein</hi><lb break="yes"/>
-<hi rendition="#r">dankbarer Bruder</hi><lb break="yes"/>
-<seg ana="#signed"><hi rendition="#i">Johannes <surname>G.</surname></hi></seg><lb break="yes"/>
-                        Patiend<lb break="yes"/> in der kgl. Heil u Pfleganstalt<lb break="yes"/>
-<hi rendition="#i">Irrsee</hi> bei Kaufbeuren.</seg><pb facs="#image_042"/> Das
-                Gedreite soll dieses Iahr<lb break="yes"/> heuer sehr gedeihen wie ich<lb break="yes"/> in deinem Brief gelesen.<lb break="yes"/> voriges Iahr die Gerste
-                    nuhr<lb break="yes"/> Fingerstlang ist schon eine<lb break="yes"/> Seltenheit
-                für das Langmauer<lb break="yes"/> Feld, <seg ana="#inst">wir sind letzten
-                        Sonntag<lb break="yes"/> auch in das Feld spazieren<lb break="yes"/>
-                    gegangen die besern von den<lb break="yes"/> Patienten 19 Mann</seg>; Kllee<lb break="yes"/> Roggen Kartofel u Gerste habe<lb break="yes"/> ich gesehen zum
-                Theil sehr schön,<lb break="yes"/> wo guter Grund ist u edler<lb break="yes"/>
-                Samen, zur rechten Zeit Regen<lb break="yes"/> u Somenschein wie auf allen<lb break="yes"/> 5 Welttheilen Amen.</p>
-<p><hi rendition="#c">Michael <surname>G.</surname> Schuh und<lb break="yes"/> Stiefelsmacher in<lb break="yes"/> Langenau.</hi><lb break="yes"/>
-<add><hi rendition="#u">frei</hi></add></p><pb facs="#image_043"/><p> das die Katharina so fleißig<lb break="yes"/> gefragt hat ob nicht wieder ein<lb break="yes"/>
-                Brief von mir erhalten habest<lb break="yes"/> glaube ich wohl sie halt doch<lb break="yes"/> meine Schwester Katharina.<lb break="yes"/> Die Grethe ist auch
-                recht braf<lb break="yes"/> u hat den Herrn Pfarrer<lb break="yes"/> vor 10 Iahr
-                gebeten, aber jetzt<lb break="yes"/> wird er Die Feder nicht mehr<lb break="yes"/>
-                gern in Die Tinte tauchen<lb break="yes"/> weil die Margaretha nicht<lb break="yes"/> in Riedheim geblieben ist<lb break="yes"/> sie hätte vielleicht auch in<lb break="yes"/> Riedheim einen Ehegatten<lb break="yes"/> bekom̄en nun
-                wohlan ist<lb break="yes"/> meine nuhr Storch <seg ana="#pic">
+<p> Du hast dir eingebildet ich<lb break="yes"/>wäre Dir nicht mehr gut.<lb break="yes"/>Dießes
+                ist aber nicht der Fall<lb break="yes"/>weil ich ein halbes Iahr<lb break="yes"/>nicht mehr geschrieben habe,<lb break="yes"/>sondern der deutliche Brief<lb break="yes"/>am 2.<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                Januar dieses Iahrgangs<lb break="yes"/>1894. Die Schwester Katharina<lb break="yes"/>ist nicht ganz auf den Kopf<lb break="yes"/>gestürzt: Erfahrung
+                    macht<lb break="yes"/>klug. Ich ve<del>h</del>rmahn aus<lb break="yes"/>dem
+                Brief manges begreiflige<lb break="yes"/>Wort. gesund seit ihr gottlob<lb break="yes"/>alle 3 Geschwister und<lb break="yes"/>deine Frau u Kinder,<lb break="yes"/>dein Sohn Johannes soll<pb facs="#image_041"/> besonders von mir
+                als unbekannter<lb break="yes"/>Vetter gegrüßt sein, die Liese<lb break="yes"/>de<add>s</add>gleichen u dein Schwieger<lb break="no"/>vater u Stiefsohn
+                    Martin<lb break="yes"/>welcher die Bäckerei gelernt<lb break="yes"/>hat. Den
+                Herrn Pfarrer und<lb break="yes"/>die Frau Pfarrerin in Riedhein<lb break="yes"/>deßgleichen auch den Vetter<lb break="yes"/>Gottfrid <surname>N.</surname>
+                    Schreinermeister<lb break="yes"/>und alle die nach mir fragen<lb break="yes"/>möchten. <seg ana="#salute">Ich schliese mit<lb break="yes"/>dankbarem Gruß.<lb break="yes"/><hi rendition="#c">Dein</hi><lb break="yes"/><hi rendition="#r">dankbarer Bruder</hi><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Johannes <surname>G.</surname></hi></seg><lb break="yes"/>Patiend<lb break="yes"/>in der kgl. Heil u Pfleganstalt<lb break="yes"/><hi rendition="#i">Irrsee</hi> bei Kaufbeuren.</seg><pb facs="#image_042"/> Das
+                Gedreite soll dieses Iahr<lb break="yes"/>heuer sehr gedeihen wie ich<lb break="yes"/>in deinem Brief gelesen.<lb break="yes"/>voriges Iahr die Gerste
+                    nuhr<lb break="yes"/>Fingerstlang ist schon eine<lb break="yes"/>Seltenheit
+                für das Langmauer<lb break="yes"/>Feld, <seg ana="#inst">wir sind letzten
+                        Sonntag<lb break="yes"/>auch in das Feld spazieren<lb break="yes"/>gegangen die besern von den<lb break="yes"/>Patienten 19 Mann</seg>; Kllee<lb break="yes"/>Roggen Kartofel u Gerste habe<lb break="yes"/>ich gesehen zum
+                Theil sehr schön,<lb break="yes"/>wo guter Grund ist u edler<lb break="yes"/>Samen, zur rechten Zeit Regen<lb break="yes"/>u Somenschein wie auf allen<lb break="yes"/>5 Welttheilen Amen.</p>
+<p><hi rendition="#c">Michael <surname>G.</surname> Schuh und<lb break="yes"/>Stiefelsmacher in<lb break="yes"/>Langenau.</hi><lb break="yes"/><add><hi rendition="#u">frei</hi></add></p><pb facs="#image_043"/><p> das die Katharina so fleißig<lb break="yes"/>gefragt hat ob nicht wieder ein<lb break="yes"/>Brief von mir erhalten habest<lb break="yes"/>glaube ich wohl sie halt doch<lb break="yes"/>meine Schwester Katharina.<lb break="yes"/>Die Grethe ist auch
+                recht braf<lb break="yes"/>u hat den Herrn Pfarrer<lb break="yes"/>vor 10 Iahr
+                gebeten, aber jetzt<lb break="yes"/>wird er Die Feder nicht mehr<lb break="yes"/>gern in Die Tinte tauchen<lb break="yes"/>weil die Margaretha nicht<lb break="yes"/>in Riedheim geblieben ist<lb break="yes"/>sie hätte vielleicht auch in<lb break="yes"/>Riedheim einen Ehegatten<lb break="yes"/>bekom̄en nun
+                wohlan ist<lb break="yes"/>meine nuhr Storch <seg ana="#pic">
                     [Strichmännchen]</seg></p>
-<p><hi rendition="#c">Adresse<lb break="yes"/>  Michael
-                        <surname>G.</surname><lb break="yes"/> untere Stadt Langenau.
-                        würtenberg<lb break="yes"/> (deutsches Reich)</hi><lb break="yes"/>
-</p>
+<p><hi rendition="#c">Adresse<lb break="yes"/>Michael
+                        <surname>G.</surname><lb break="yes"/>untere Stadt Langenau.
+                        würtenberg<lb break="yes"/>(deutsches Reich)</hi><lb break="yes"/></p>
 </body>
 </text>
 </TEI>

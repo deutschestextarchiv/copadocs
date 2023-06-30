@@ -30,13 +30,13 @@
 <creation>
 <persName type="sender">Katharina <surname>B.</surname></persName>
 <date type="sent">19.12.1904</date>
-<date type="received"/>
-<persName type="addressee">Medizinalrat:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Augsburg</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
-<person sex="m" xml:id="kfb1356">
+<person sex="m" xml:id="kfb1356b">
 <persName>
 <forename>Josef</forename>
 <surname>B.</surname>
@@ -44,12 +44,12 @@
 <birth when="1873"/>
 <death cert="unknown"/>
 <occupation>Fabrikarbeiter, Weber</occupation>
-<residence>Augsburg</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bruder: Kammgarnspinnerei</p>
-<p>Anstalt: 1899-1933</p>
+<p>Anstalt: <date from="1899" to="1933">1899-1933</date></p>
 <p>Brieftypen: pp, po, ao, lebenslauf</p>
 </state>
 <trait><p>Depression, [Suizidalität], Angstanfälle (1899), Halluzination (1908)</p></trait>
@@ -84,12 +84,11 @@
 <pb facs="#image_004"/>
 <opener>
 <dateline><hi rendition="#r">Augsburg de 19 Dezember 1904</hi></dateline>
-<salute><hi rendition="#c">Hochgehrter Herr klg.</hi><lb break="yes"/>
-<lb break="yes"/><w>Medizinahl Raht</w></salute>
+<salute><hi rendition="#c">Hochgehrter Herr klg.</hi><lb break="yes"/><lb break="yes"/><w>Medizinahl Raht</w></salute>
 </opener>
-<p> bitte um eine kleine<lb break="yes"/> nachricht über daß befinden<lb break="yes"/> meines
-                kranken Sohne<lb break="yes"/> Joseph <surname>B.</surname>. Wird Er<lb break="yes"/> den nicht mehr ach <lb break="yes"/> ich möchte es so gerne<lb break="yes"/> probier wen̄ es der<lb break="yes"/> klg. <w>Medizinnahl<lb break="no"/> Raht</w> erlauben könte.<lb break="yes"/> Hochachtungsvoll<lb break="yes"/> Frau Katharina <surname>B.</surname>
-<pb facs="#image_005"/> Darf er vieleicht<lb break="yes"/> nicht hie und da<lb break="yes"/> eine brag Cigare<lb break="yes"/> Rauchen</p>
+<p> bitte um eine kleine<lb break="yes"/>nachricht über daß befinden<lb break="yes"/>meines
+                kranken Sohne<lb break="yes"/>Joseph <surname>B.</surname>. Wird Er<lb break="yes"/>den nicht mehr ach<lb break="yes"/>ich möchte es so gerne<lb break="yes"/>probier wen̄ es der<lb break="yes"/>klg. <w>Medizinnahl<lb break="no"/>Raht</w> erlauben könte.<lb break="yes"/>Hochachtungsvoll<lb break="yes"/>Frau Katharina <surname>B.</surname>
+<pb facs="#image_005"/> Darf er vieleicht<lb break="yes"/>nicht hie und da<lb break="yes"/>eine brag Cigare<lb break="yes"/>Rauchen</p>
 <p><add hand="arzt"/>Kurzschrift
 </p>
 </body>

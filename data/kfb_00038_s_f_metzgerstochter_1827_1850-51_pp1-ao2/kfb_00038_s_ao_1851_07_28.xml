@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Joseph <surname>S.</surname></persName>
 <date type="sent">28.07.1851</date>
-<date type="received"/>
-<persName type="addressee">Direktor:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Landsberg</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb38s">
@@ -44,12 +44,12 @@
 <birth when="1827"/>
 <death cert="unknown"/>
 <occupation>Metzgerstochter</occupation>
-<residence>Landsberg</residence>
+<residence><geo decls="#WGS">48.0514973 10.8737728</geo>Landsberg</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Metzger</p>
-<p>Anstalt: 1850-51</p>
+<p>Anstalt: <date from="1850" to="1851">1850-51</date></p>
 <p>Brieftypen: pp, ao</p>
 </state>
 <trait><p>Seelenstörung, Tobsucht (1850)</p></trait>
@@ -84,13 +84,13 @@
 <dateline/>
 <salute><hi rendition="#c">Eirero Hochwol geboren Herr Dierektor!</hi></salute>
 </opener>
-<p> Ich wahr beim Herrn Grichtsartzd, und sagte in <lb break="yes"/>das mier
-                mein̄e zwey, Mädelll zu viell kösten <lb break="yes"/><w>ver Ursachen</w>,
-                und das es schon das Jahr vorbey <lb break="yes"/>sey, wo die Alloßia in Irrße, ist.
-                Und wen <lb break="yes"/>es jetzd noch nicht beßer ist so däncke ich es wierd <lb break="yes"/>nicht mer Bäßer, dan sagte er, Ich solte es in <lb break="yes"/>Landsberg bey Sollieden layden brobierenn <lb break="yes"/>und solte es nicht
-                gudtun, so solte ich sie in Spiettall <lb break="yes"/>ein kauffen. Ich dethe
-                ihn̄en allso Biettden <lb break="yes"/>sie zu Endlaßen. <seg ana="#signed">und verbleibe im̄er ihnen <lb break="yes"/>im̄er Ergebenst und
-                    Dankbarster= <lb break="yes"/>Landsberg ten 28 Juny 1851 Joseph Simmayr <lb break="yes"/><hi rendition="#r">Biergl: Metzger </hi></seg></p>
+<p> Ich wahr beim Herrn Grichtsartzd, und sagte in<lb break="yes"/>das mier
+                mein̄e zwey, Mädelll zu viell kösten<lb break="yes"/><w>ver Ursachen</w>,
+                und das es schon das Jahr vorbey<lb break="yes"/>sey, wo die Alloßia in Irrße, ist.
+                Und wen<lb break="yes"/>es jetzd noch nicht beßer ist so däncke ich es wierd<lb break="yes"/>nicht mer Bäßer, dan sagte er, Ich solte es in<lb break="yes"/>Landsberg bey Sollieden layden brobierenn<lb break="yes"/>und solte es nicht
+                gudtun, so solte ich sie in Spiettall<lb break="yes"/>ein kauffen. Ich dethe
+                ihn̄en allso Biettden<lb break="yes"/>sie zu Endlaßen. <seg ana="#signed">und verbleibe im̄er ihnen<lb break="yes"/>im̄er Ergebenst und
+                    Dankbarster=<lb break="yes"/>Landsberg ten 28 Juny 1851 Joseph <surname>S.</surname><lb break="yes"/><hi rendition="#r">Biergl: Metzger </hi></seg></p>
 </body>
 </text>
 </TEI>

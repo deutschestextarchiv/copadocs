@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Katharina <surname>D.</surname></persName>
 <date type="sent">10.09.1895</date>
-<date type="received"/>
-<persName type="addressee">:  <surname>H.</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>H.</surname></persName>
 <settlement type="sent">Münster</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="mun916d">
@@ -44,12 +44,12 @@
 <birth when="1822-06-06"/>
 <death cert="unknown"/>
 <occupation>Ackerfrau</occupation>
-<residence>Geburtsort: Heek; Wohnort: Heek</residence>
+<residence><geo decls="#WGS">52.1242301 7.1011759</geo>Geburtsort: Heek; Wohnort: Heek</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: verheiratet</p>
 <p>Eltern: Vater: Ackerer, Mutter: ohne Beruf</p>
-<p>Anstalt: 04.05.1895-08.10.1897</p>
+<p>Anstalt: <date from="04.05.1895" to="08.10.1897">04.05.1895-08.10.1897</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>einfache Seelenstörung (1895)</p></trait>
@@ -91,54 +91,47 @@
 <pb facs="#image_001"/>
 <opener>
 <dateline><add hand="vordruck">Provinzial=Anstalt</add>
-<add hand="hand3"><unclear>G </unclear>ii/<hi rendition="#sub">9</hi> 95 <hi rendition="#i">ad acta</hi> Frau <surname><hi rendition="#i">D.</hi></surname></add>
-<lb break="yes"/><add hand="vordruck"><space/> Marienthal zu Münster i. W.,
+<add hand="hand3"><unclear>G </unclear>ii/<hi rendition="#sub">9</hi> 95 <hi rendition="#i">ad acta</hi> Frau <surname><hi rendition="#i">D.</hi></surname></add><lb break="yes"/><add hand="vordruck"><space/> Marienthal zu Münster i. W.,
                         den</add> 10. <hi rendition="#i">September</hi>
 <add hand="vordruck">189</add></dateline>
 <salute><hi rendition="#c">Liebe Frau <surname><hi rendition="#i">H.</hi></surname>= und Kinder</hi></salute>
 </opener>
-<p><w>Da</w><w>ich</w> schon Drei und ¼ Jahr Kranck <lb break="yes"/>bin so
-                dachte ich doch ihr würdet mier doch <lb break="yes"/>gewis <del>eimahl</del> eimahl
-                einen Besug gemagt <lb break="yes"/>haben als ich noch in Heek war aber meine <lb break="yes"/>Hofnung war immer Vergebens. Von <lb break="yes"/>Luise habe ich
-                Vernomen das Johanna auf <lb break="yes"/>ihre Hochzeit in Epe gewesen währe und <lb break="yes"/>ihre Mutter auch Gelitten hat an die <lb break="yes"/><seg ana="#med">Gigt</seg>. Wovon meine Kranckheit von gekommen <lb break="yes"/>ist
-                wisset ihr gewis manches von, was <lb break="yes"/>Herman mit mier Verfaren hat, wen
-                er Betrun<add place="below">ken</add>
-<lb break="yes"/>war, das letzte mahl weil ich Franz in <lb break="yes"/>Hamburg ein
-                Paket Geschigt hatte <pb facs="#image_002"/>das war die Junge Leute zum Verdruß <lb break="yes"/>und mein Mann stiemte darmitein weil <lb break="yes"/>ich ihm nicht
-                darum <w>Gefragt</w><w>hate</w> er <del>f</del>lief <lb break="yes"/>Zur Post und
-                noch nach 3 andern Häuser <lb break="yes"/>ob die Leute mier auch ein Pakät
-                    mitgenom<add place="below">men</add>
-<lb break="yes"/>hatten zur Post, ich Sagte es darum nicht <lb break="yes"/>weil ich
-                wohl wuste <add place="above">das</add> Hermann es nicht haben <lb break="yes"/>konte. <del>d</del> und ich Dachte Vier Menschen hatten <lb break="yes"/>an 800
-                Pfund Schweinefleiß und noch <lb break="yes"/>mannigmahl
-                    <w>Rindpfleisch</w><w>genug</w>. Es war <lb break="yes"/>auch ja mein Eigen,
-                Herman braugte ja <lb break="yes"/>nicht für Schwitzsen er lag Mangmahl <lb break="yes"/>auf Werktage des Nachmittags bis <lb break="yes"/>Vier Uhr im Beet
-                wen er <del>im</del> betrunken <lb break="yes"/>war das bekam ihm wohl Ofters über
-                    <lb break="yes"/>mein Mann sagte ihm nichts darvon ich <lb break="yes"/>Glaube
-                er war bange vor ihm, und Herman <lb break="yes"/>konte auch gut Schmeigeln das war
-                    <pb facs="#image_003"/>mein Mann Angenehm <del>.</del> das Verstand <lb break="yes"/>Franz nicht so gut, und er hat auch nicht so <lb break="yes"/>viel
-                1000 Gulden mit seine Frau <lb break="yes"/>Bekommen, und dannoch Kranck wurde <lb break="yes"/>und <w>Unglücklieger weise</w> beina um <lb break="yes"/>sein
-                Ganses Vermöchen kam, und <lb break="yes"/>sein Vater um Geldleien ansprag so <lb break="yes"/>war er nicht sein Liebling. sein Oheim <lb break="yes"/>hat 4000
-                Tausend Thaler an die Kasse <lb break="yes"/>in Cosfeld stehen und Viel unter die
-                    <lb break="yes"/>Leute. der Packt es auch nicht. Es geht <lb break="yes"/>in der
-                Weld wie das Sprichword ist <lb break="yes"/>Freunde in der Noht Gehen dreitzig <lb break="yes"/>auf ein Loht. Von Hamburg ist er nach <lb break="yes"/>Ciminati
-                Gesogen nach seine Brü<del>b</del>der <lb break="yes"/>wer da Englisg kan. der kan
-                da viel <lb break="yes"/>Geld verdienen aber das muste er noch <lb break="yes"/>erst
-                Lernen. Franz hat im Merz Geschrieben <lb break="yes"/>er währe gesonnen im April
-                wieder <lb break="yes"/><add place="margin">Viele Grüße Grüßet Verwante und Bekante.
+<p><w>Da</w><w>ich</w> schon Drei und ¼ Jahr Kranck<lb break="yes"/>bin so
+                dachte ich doch ihr würdet mier doch<lb break="yes"/>gewis <del>eimahl</del> eimahl
+                einen Besug gemagt<lb break="yes"/>haben als ich noch in Heek war aber meine<lb break="yes"/>Hofnung war immer Vergebens. Von<lb break="yes"/>Luise habe ich
+                Vernomen das Johanna auf<lb break="yes"/>ihre Hochzeit in Epe gewesen währe und<lb break="yes"/>ihre Mutter auch Gelitten hat an die<lb break="yes"/><seg ana="#med">Gigt</seg>. Wovon meine Kranckheit von gekommen<lb break="yes"/>ist
+                wisset ihr gewis manches von, was<lb break="yes"/>Herman mit mier Verfaren hat, wen
+                er Betrun<add place="below">ken</add><lb break="yes"/>war, das letzte mahl weil ich Franz in<lb break="yes"/>Hamburg ein
+                Paket Geschigt hatte <pb facs="#image_002"/>das war die Junge Leute zum Verdruß<lb break="yes"/>und mein Mann stiemte darmitein weil<lb break="yes"/>ich ihm nicht
+                darum <w>Gefragt</w><w>hate</w> er <del>f</del>lief<lb break="yes"/>Zur Post und
+                noch nach 3 andern Häuser<lb break="yes"/>ob die Leute mier auch ein Pakät
+                    mitgenom<add place="below">men</add><lb break="yes"/>hatten zur Post, ich Sagte es darum nicht<lb break="yes"/>weil ich
+                wohl wuste <add place="above">das</add> Hermann es nicht haben<lb break="yes"/>konte. <del>d</del> und ich Dachte Vier Menschen hatten<lb break="yes"/>an 800
+                Pfund Schweinefleiß und noch<lb break="yes"/>mannigmahl
+                    <w>Rindpfleisch</w><w>genug</w>. Es war<lb break="yes"/>auch ja mein Eigen,
+                Herman braugte ja<lb break="yes"/>nicht für Schwitzsen er lag Mangmahl<lb break="yes"/>auf Werktage des Nachmittags bis<lb break="yes"/>Vier Uhr im Beet
+                wen er <del>im</del> betrunken<lb break="yes"/>war das bekam ihm wohl Ofters über<lb break="yes"/>mein Mann sagte ihm nichts darvon ich<lb break="yes"/>Glaube
+                er war bange vor ihm, und Herman<lb break="yes"/>konte auch gut Schmeigeln das war
+                    <pb facs="#image_003"/>mein Mann Angenehm <del>.</del> das Verstand<lb break="yes"/>Franz nicht so gut, und er hat auch nicht so<lb break="yes"/>viel
+                1000 Gulden mit seine Frau<lb break="yes"/>Bekommen, und dannoch Kranck wurde<lb break="yes"/>und <w>Unglücklieger weise</w> beina um<lb break="yes"/>sein
+                Ganses Vermöchen kam, und<lb break="yes"/>sein Vater um Geldleien ansprag so<lb break="yes"/>war er nicht sein Liebling. sein Oheim<lb break="yes"/>hat 4000
+                Tausend Thaler an die Kasse<lb break="yes"/>in Cosfeld stehen und Viel unter die<lb break="yes"/>Leute. der Packt es auch nicht. Es geht<lb break="yes"/>in der
+                Weld wie das Sprichword ist<lb break="yes"/>Freunde in der Noht Gehen dreitzig<lb break="yes"/>auf ein Loht. Von Hamburg ist er nach<lb break="yes"/>Ciminati
+                Gesogen nach seine Brü<del>b</del>der<lb break="yes"/>wer da Englisg kan. der kan
+                da viel<lb break="yes"/>Geld verdienen aber das muste er noch<lb break="yes"/>erst
+                Lernen. Franz hat im Merz Geschrieben<lb break="yes"/>er währe gesonnen im April
+                wieder<lb break="yes"/><add place="margin">Viele Grüße Grüßet Verwante und Bekante.
                     Bitte um Baldige Antword</add>
-<pb facs="#image_004"/>nach Deütland zu kommen, hat aber noch <lb break="yes"/>nicht
-                wieder Geschrieben. Adolf hat mier <lb break="yes"/>Gesagt er sei in Neuporg und
-                seine Frau <lb break="yes"/>währe auch noch Kranck. ich wolte gern <lb break="yes"/>mahl dordhin Schreiben. weis aber seine <lb break="yes"/><w>Adresse</w><w>nicht</w>. Ich bitte Schreibet miar die <lb break="yes"/>Adresse von eure Kinder die werden ihm <lb break="yes"/>den Brief wohlbesorgen.
-                Von Hermann <lb break="yes"/>und Theodor höre ich garnitz ich Bete alle <lb break="yes"/>Morgen fir alle in der h= Messe mehr kan ich nicht <lb break="yes"/>darvon ab. Es Gefält mier hier gut. Die Hern und <lb break="yes"/>und die l=
-                Schwesstern sind alle sehr guht für. <lb break="yes"/>uns <seg ana="#inst">und
-                    machen uns manches Vergüngen oft <lb break="yes"/>Kaffemahl im Großen Sahl. mit
-                    Schüsseln vol <lb break="yes"/>feine Kaffe Kuchen darbei. und Schone Muzick aus
-                        <lb break="yes"/>Münster</seg>. Ich habe Gott sei Dank meinen Verstand <lb break="yes"/>wieder und Gehe sobald noch nicht wieder nach <lb break="yes"/>Heek
-                hin dan mögte ich wieder Kranck werden <lb break="yes"/>mein Mann hat es ja nach
-                seine Wunsch bekommen <lb break="yes"/>der Herr Pastor müste mier noch 2 mahl Sagen
-                    <lb break="yes"/>das wier das Vermögen nach unseren Tode das <lb break="yes"/>Vermögen Verschrieben liesen damit die andren <lb break="yes"/>Kinder nicht mehr
-                bekämen wen ich Vieleigt <lb break="yes"/><add place="margin">am Längsten beim Leben
+<pb facs="#image_004"/>nach Deütland zu kommen, hat aber noch<lb break="yes"/>nicht
+                wieder Geschrieben. Adolf hat mier<lb break="yes"/>Gesagt er sei in Neuporg und
+                seine Frau<lb break="yes"/>währe auch noch Kranck. ich wolte gern<lb break="yes"/>mahl dordhin Schreiben. weis aber seine<lb break="yes"/><w>Adresse</w><w>nicht</w>. Ich bitte Schreibet miar die<lb break="yes"/>Adresse von eure Kinder die werden ihm<lb break="yes"/>den Brief wohlbesorgen.
+                Von Hermann<lb break="yes"/>und Theodor höre ich garnitz ich Bete alle<lb break="yes"/>Morgen fir alle in der h= Messe mehr kan ich nicht<lb break="yes"/>darvon ab. Es Gefält mier hier gut. Die Hern und<lb break="yes"/>und die l=
+                Schwesstern sind alle sehr guht für.<lb break="yes"/>uns <seg ana="#inst">und
+                    machen uns manches Vergüngen oft<lb break="yes"/>Kaffemahl im Großen Sahl. mit
+                    Schüsseln vol<lb break="yes"/>feine Kaffe Kuchen darbei. und Schone Muzick aus<lb break="yes"/>Münster</seg>. Ich habe Gott sei Dank meinen Verstand<lb break="yes"/>wieder und Gehe sobald noch nicht wieder nach<lb break="yes"/>Heek
+                hin dan mögte ich wieder Kranck werden<lb break="yes"/>mein Mann hat es ja nach
+                seine Wunsch bekommen<lb break="yes"/>der Herr Pastor müste mier noch 2 mahl Sagen<lb break="yes"/>das wier das Vermögen nach unseren Tode das<lb break="yes"/>Vermögen Verschrieben liesen damit die andren<lb break="yes"/>Kinder nicht mehr
+                bekämen wen ich Vieleigt<lb break="yes"/><add place="margin">am Längsten beim Leben
                         bliebe<del>n</del>. Ich war in <hi rendition="#i">Heek</hi>
                         das Leben Satt</add>
 </p>

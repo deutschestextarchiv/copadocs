@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Matthäus und Karolin <surname>B.</surname></persName>
 <date type="sent">12.07.1879</date>
-<date type="received"/>
-<persName type="addressee"> Verwalter:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee"> Verwalter: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Kempten</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb966b">
@@ -43,12 +43,12 @@
 <birth when="1851"/>
 <death when="1904"/>
 <occupation>Buchhalter, Kaufmann</occupation>
-<residence>Kempten</residence>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: verheiratet</p>
 <p>Eltern: Huckler</p>
-<p>Anstalt: 1877-1904</p>
+<p>Anstalt: <date from="1877" to="1904">1877-1904</date></p>
 <p>Brieftypen: pp, po, ao</p>
 </state>
 <trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
@@ -85,11 +85,8 @@
 <salute>Herr Verwalter!</salute>
 </opener>
 <p><add hand="arzt"><hi rendition="#c">63.</hi></add></p>
-<p>Ersuche Sie freundlichst diese  Eßwaaren nebst 2 Paquete Tabak. <lb break="yes"/><hi rendition="#i">Mark</hi>. 1.60 pfg. zum Bier u etwas Zucker <lb break="yes"/>z. Zuckerwasser meinem Sohne Georg <surname>B.</surname>
-<lb break="yes"/>übergeben zu lassen, wofür ich Jhnen <lb break="yes"/>den
-                verbindlichsten Dank abstatte. <lb break="yes"/><hi rendition="#r">dessen Eltern <seg ana="#signed">Matthäus <surname>B.</surname>
-<lb break="yes"/>Karolin <surname>B.</surname></seg>
-<lb break="yes"/>Nebst Grüße.</hi></p>
+<p>Ersuche Sie freundlichst diese  Eßwaaren nebst 2 Paquete Tabak.<lb break="yes"/><hi rendition="#i">Mark</hi>. 1.60 pfg. zum Bier u etwas Zucker<lb break="yes"/>z. Zuckerwasser meinem Sohne Georg <surname>B.</surname><lb break="yes"/>übergeben zu lassen, wofür ich Jhnen<lb break="yes"/>den
+                verbindlichsten Dank abstatte.<lb break="yes"/><hi rendition="#r">dessen Eltern <seg ana="#signed">Matthäus <surname>B.</surname><lb break="yes"/>Karolin <surname>B.</surname></seg><lb break="yes"/>Nebst Grüße.</hi></p>
 </body>
 </text>
 </TEI>

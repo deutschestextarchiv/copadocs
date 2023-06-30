@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Elisabeth <surname>S.</surname></persName>
 <date type="sent">26.12.1906</date>
-<date type="received"/>
-<persName type="addressee">Eltern:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Münster</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="mun1297s">
@@ -44,12 +44,12 @@
 <birth when="1873-01-15"/>
 <death when="1924-06-26"/>
 <occupation>Haushälterin</occupation>
-<residence>Geburtsort: Brakel; Wohnort: Werl</residence>
+<residence><geo decls="#WGS">51.5533457 7.9155558</geo>Geburtsort: Brakel; Wohnort: Werl</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Vater: Wegemeister, Mutter: ohne Beruf</p>
-<p>Anstalt: 19.01.1901-26.06.1924</p>
+<p>Anstalt: <date from="19.01.1901" to="26.06.1924">19.01.1901-26.06.1924</date></p>
 <p>Brieftypen: pp, po, so</p>
 </state>
 <trait><p>einfache Seelenstörung (1901), Dementia paranoides</p></trait>
@@ -96,65 +96,54 @@
 <p><surname><hi rendition="#i">S.</hi></surname> (zb.) </p>
 <p><add hand="unbekannt"><hi rendition="#c"><unclear>E</unclear>
 <hi rendition="#sup">i.</hi>/<hi rendition="#sub">i</hi> 07 <hi rendition="#u" style="hand4">ad acta Elise</hi>
-<surname><hi rendition="#i">S.</hi></surname>
-<lb break="yes"/>G </hi></add></p>
-<p><add place="margin">Bitte l. Eltern l.Geschwistern bitten um darf <lb break="yes"/>eine <w>Neujahrs Karten</w> wünschen l. Elisabeth <surname>H.</surname>
-<lb break="yes"/>Anna Schwestern wen sie es Elise Tochter.
-                <unclear><surname>V.</surname></unclear>
-<lb break="yes"/>Herrn <surname>H.</surname> Kindern bestens wünschen ist
+<surname><hi rendition="#i">S.</hi></surname><lb break="yes"/>G </hi></add></p>
+<p><add place="margin">Bitte l. Eltern l.Geschwistern bitten um darf<lb break="yes"/>eine <w>Neujahrs Karten</w> wünschen l. Elisabeth <surname>H.</surname><lb break="yes"/>Anna Schwestern wen sie es Elise Tochter.
+                <unclear><surname>V.</surname></unclear><lb break="yes"/>Herrn <surname>H.</surname> Kindern bestens wünschen ist
                 Marie<del>t</del>nthal</add></p>
-<p>Ich bedanke mich liebe Christ<lb break="no"/>kind auch gut bedacht hat auf <lb break="yes"/>daher ich bin ob nicht bitten daß <lb break="yes"/>wen liebe
-                Schwägerin Elisa<lb break="no"/>beth mich um besorgt ist auch <lb break="yes"/>gehen
-                besuchen, oher sie Dich <lb break="yes"/>mahl <w>mit nehmen</w> dürfen <lb break="yes"/>weshalb den nicht <w>mit brin<lb break="no"/>gen</w>, (Jürgens Dr.)
-                anfragen in <lb break="yes"/>Werl zu sein, Trauringe be <pb break="no" facs="#image_080"/>daure hin kommen um weh <lb break="yes"/>zu kommen ob draußen doch
-                    <lb break="yes"/>noch, was sein Brot verdienen <lb break="yes"/>gehen, wird um
-                gute Stelle <lb break="yes"/>bekommen darf noch Wogen <lb break="yes"/>schließen.
-                andere letzte <lb break="yes"/>Stelle bei andern zu Hause <lb break="yes"/>sein
-                fraglich, gute Tochter im <lb break="yes"/>Hause ein zu Muthe ist bis <lb break="yes"/>zum Frühjahr besuchen, um <lb break="yes"/>dann könnte ihr ja bei
-                Herrn <lb break="yes"/>Geheimrath anfragen mahl <lb break="yes"/>Elise gute Tochter
-                zu Hause ist <lb break="yes"/>Herde arbeiten muß (zb.) man <lb break="yes"/><add>Nährein (<hi rendition="#u">an</hi>) Winter gut halten.
-                        <unclear>Mr</unclear></add>
-<lb break="yes"/>aller (w:) zb. sein stein, Wartsein <lb break="yes"/>alles
-                Anstalten Kopf abschl. R. zb. R. zb. Köln <lb break="yes"/>niedergeschlagen nicht
-                besser wird aber l. Gott<unclear> zotrahe</unclear> ist. <lb break="yes"/><add place="margin"><hi rendition="#i">Anna</hi> Elisabeth
+<p>Ich bedanke mich liebe Christ<lb break="no"/>kind auch gut bedacht hat auf<lb break="yes"/>daher ich bin ob nicht bitten daß<lb break="yes"/>wen liebe
+                Schwägerin Elisa<lb break="no"/>beth mich um besorgt ist auch<lb break="yes"/>gehen
+                besuchen, oher sie Dich<lb break="yes"/>mahl <w>mit nehmen</w> dürfen<lb break="yes"/>weshalb den nicht <w>mit brin<lb break="no"/>gen</w>, (Jürgens Dr.)
+                anfragen in<lb break="yes"/>Werl zu sein, Trauringe be <pb break="no" facs="#image_080"/>daure hin kommen um weh<lb break="yes"/>zu kommen ob draußen doch<lb break="yes"/>noch, was sein Brot verdienen<lb break="yes"/>gehen, wird um
+                gute Stelle<lb break="yes"/>bekommen darf noch Wogen<lb break="yes"/>schließen.
+                andere letzte<lb break="yes"/>Stelle bei andern zu Hause<lb break="yes"/>sein
+                fraglich, gute Tochter im<lb break="yes"/>Hause ein zu Muthe ist bis<lb break="yes"/>zum Frühjahr besuchen, um<lb break="yes"/>dann könnte ihr ja bei
+                Herrn<lb break="yes"/>Geheimrath anfragen mahl<lb break="yes"/>Elise gute Tochter
+                zu Hause ist<lb break="yes"/>Herde arbeiten muß (zb.) man<lb break="yes"/><add>Nährein (<hi rendition="#u">an</hi>) Winter gut halten.
+                        <unclear>Mr</unclear></add><lb break="yes"/>aller (w:) zb. sein stein, Wartsein<lb break="yes"/>alles
+                Anstalten Kopf abschl. R. zb. R. zb. Köln<lb break="yes"/>niedergeschlagen nicht
+                besser wird aber l. Gott<unclear> zotrahe</unclear> ist.<lb break="yes"/><add place="margin"><hi rendition="#i">Anna</hi> Elisabeth
                     Lieber Paul wollten ja so gerne <w>mit kommen</w> freuen
                         <unclear>mimnt</unclear> bedan<lb break="no"/>ken, in
                         <surname>N.</surname> Dr. S<unclear>pannen</unclear> Frau
-                        <surname>N.</surname> viele grüße bestellen und <lb break="yes"/>sagen wollte seine l. Schwester Elise, Liesi wieder holen, in Frühjahr recht
+                        <surname>N.</surname> viele grüße bestellen und<lb break="yes"/>sagen wollte seine l. Schwester Elise, Liesi wieder holen, in Frühjahr recht
                     bald Marienthal</add>
 </p>
 <pb facs="#image_081"/>
-<p>sein in Anstalten es kostes <lb break="yes"/>ja soviel nicht Kranke nächstes <lb break="yes"/>Jahresrunde Tr. T sieben auf <w>Marien <lb break="no"/>thal</w> zu
-                sein in geglichen Dr Fischer <lb break="yes"/>Herrn noch Erkundigen um ich <lb break="yes"/>Elise wieder besser ist was an<lb break="no"/>sich hat sieht
-                anderen freuen <lb break="yes"/>nicht (zb.) Dritte Tisch zu Hause auch <lb break="yes"/>zufrieden man den liebe Gott <lb break="yes"/><w>lenk</w><w>es</w>
-                doch zum bestes was an<lb break="no"/>betrifft, liebe Mutter bedanke für <lb break="yes"/>erste Mahl wieder abgeholt hast, den<lb break="no"/>ke noch Elise
-                nah um zu versuchen zu <lb break="yes"/>Hause sein in alle lagen zuschicken dieß <lb break="yes"/>mahl längere der Weg ist nicht aufgegra<lb break="no"/>ben alles
-                mündlich mehr könnt mich zum <lb break="yes"/>Frühjahr besuchen um dann ein <w>mit
-                    nehmen</w>
-<lb break="yes"/>schreintes schreinten lautens gutes noch Geduld <lb break="yes"/>behalten gerne veränderen, sie alle auf sich nehmen <lb break="yes"/><hi rendition="#r">Jammern ist ein schrecklich Gedanke </hi><lb break="yes"/><add place="margin">nicht auftreten man siehts jetzts aller Stunden ein. Zur
-                    Anstalten abschluten wird fer<unclear/>
-<lb break="yes"/>könnten in Werl zb umfragen zu müssen (Um baldige
+<p>sein in Anstalten es kostes<lb break="yes"/>ja soviel nicht Kranke nächstes<lb break="yes"/>Jahresrunde Tr. T sieben auf <w>Marien<lb break="no"/>thal</w> zu
+                sein in geglichen Dr Fischer<lb break="yes"/>Herrn noch Erkundigen um ich<lb break="yes"/>Elise wieder besser ist was an<lb break="no"/>sich hat sieht
+                anderen freuen<lb break="yes"/>nicht (zb.) Dritte Tisch zu Hause auch<lb break="yes"/>zufrieden man den liebe Gott<lb break="yes"/><w>lenk</w><w>es</w>
+                doch zum bestes was an<lb break="no"/>betrifft, liebe Mutter bedanke für<lb break="yes"/>erste Mahl wieder abgeholt hast, den<lb break="no"/>ke noch Elise
+                nah um zu versuchen zu<lb break="yes"/>Hause sein in alle lagen zuschicken dieß<lb break="yes"/>mahl längere der Weg ist nicht aufgegra<lb break="no"/>ben alles
+                mündlich mehr könnt mich zum<lb break="yes"/>Frühjahr besuchen um dann ein <w>mit
+                    nehmen</w><lb break="yes"/>schreintes schreinten lautens gutes noch Geduld<lb break="yes"/>behalten gerne veränderen, sie alle auf sich nehmen<lb break="yes"/><hi rendition="#r">Jammern ist ein schrecklich Gedanke </hi><lb break="yes"/><add place="margin">nicht auftreten man siehts jetzts aller Stunden ein. Zur
+                    Anstalten abschluten wird fer<unclear/><lb break="yes"/>könnten in Werl zb umfragen zu müssen (Um baldige
                     Antwort)</add>
 </p>
 <pb facs="#image_082"/>
-<p>Grabe zu Grade laute ja bischen zu scharf <lb break="yes"/>mehr längste Leb bekommen
-                alles <lb break="yes"/>Fliken alles los trenen ich bedanke <lb break="yes"/>mich vor
-                die Weihnachtsgeschenke Blou<lb break="no"/>se etwas enge ist ihr wen ich die <lb break="yes"/>Nähte lostrenne gerne wen ein for<lb break="no"/>ne zu machen
-                bedancken muß man <lb break="yes"/>Schwestern Leben fordert zu viel in <lb break="yes"/>geglicher bezahlt der Platz auf dem ich auch <lb break="yes"/>sitzen, Telgse, odern schließlich alles ist Kuchen <lb break="yes"/>Äpfeln,
-                Korset, Schürzen und Schuhe ztraanbetrifft <lb break="yes"/>Umfang anbetrifft gut
-                passen geschwünschtes <lb break="yes"/>mündlich mehr Karten Werl Wahlfahrtskir<lb break="no"/>che Neue gefreut hattes ein, ob Anfang o<lb break="no"/>der Ende
+<p>Grabe zu Grade laute ja bischen zu scharf<lb break="yes"/>mehr längste Leb bekommen
+                alles<lb break="yes"/>Fliken alles los trenen ich bedanke<lb break="yes"/>mich vor
+                die Weihnachtsgeschenke Blou<lb break="no"/>se etwas enge ist ihr wen ich die<lb break="yes"/>Nähte lostrenne gerne wen ein for<lb break="no"/>ne zu machen
+                bedancken muß man<lb break="yes"/>Schwestern Leben fordert zu viel in<lb break="yes"/>geglicher bezahlt der Platz auf dem ich auch<lb break="yes"/>sitzen, Telgse, odern schließlich alles ist Kuchen<lb break="yes"/>Äpfeln,
+                Korset, Schürzen und Schuhe ztraanbetrifft<lb break="yes"/>Umfang anbetrifft gut
+                passen geschwünschtes<lb break="yes"/>mündlich mehr Karten Werl Wahlfahrtskir<lb break="no"/>che Neue gefreut hattes ein, ob Anfang o<lb break="no"/>der Ende
                     <w>nicht</w><w>zu rükschrecken</w> Gericht an<lb break="no"/>derfalls, in guten
-                (zb.) Dr Kramer zb alles <lb break="yes"/>lauten wird, <w>wo</w><w>man</w> gesetzen
-                ruchtes <hi rendition="#u">Sauerland</hi>
-<lb break="yes"/>längst in Telgte wird gut verwahrt zu sein Karte <lb break="yes"/>aus Werl verwahrt im Kleidern zu enge <add place="above">nichts wird</add>
-<lb break="yes"/>siestens, Louse <surname>M.</surname> Frl. in Neuß ist oder Werl
-                    <lb break="yes"/>Witten bedanke Anna Schwester die Blouse <lb break="yes"/>Bluse
-                gutes gemacht hatt noch verbrauchtes alles <lb break="yes"/>ja was sich keinen Zaum
-                mündlich bezahlt gebügelt <lb break="yes"/>verändernlichen ist im Gebeten <seg ana="#salute">ein fröhliches Christfest <lb break="yes"/>wünschen lieben Eltern
-                    lieben Geschwistern l. Schwägerin <lb break="yes"/>bleiben schließen Herrn Dr
+                (zb.) Dr Kramer zb alles<lb break="yes"/>lauten wird, <w>wo</w><w>man</w> gesetzen
+                ruchtes <hi rendition="#u">Sauerland</hi><lb break="yes"/>längst in Telgte wird gut verwahrt zu sein Karte<lb break="yes"/>aus Werl verwahrt im Kleidern zu enge <add place="above">nichts wird</add><lb break="yes"/>siestens, Louse <surname>M.</surname> Frl. in Neuß ist oder Werl<lb break="yes"/>Witten bedanke Anna Schwester die Blouse<lb break="yes"/>Bluse
+                gutes gemacht hatt noch verbrauchtes alles<lb break="yes"/>ja was sich keinen Zaum
+                mündlich bezahlt gebügelt<lb break="yes"/>verändernlichen ist im Gebeten <seg ana="#salute">ein fröhliches Christfest<lb break="yes"/>wünschen lieben Eltern
+                    lieben Geschwistern l. Schwägerin<lb break="yes"/>bleiben schließen Herrn Dr
                     Fisscher anfragen schließen</seg>
-<seg ana="#signed">Elise <surname>S.</surname></seg>
-<lb break="yes"/><add place="margin">Elisabeth, Frau <surname>D.</surname>,
+<seg ana="#signed">Elise <surname>S.</surname></seg><lb break="yes"/><add place="margin">Elisabeth, Frau <surname>D.</surname>,
                     Herrn Vikar <surname>S.</surname> Herrn Propst <surname>K.</surname>,
                     Frau <surname>N.</surname> ein glük<lb break="no"/>seliges Neujahr im Gebeten
                     im vereinen liebenden Eltern wünschen in Kloster Werl vielen grüßen</add>

@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Anna <surname>S.</surname></persName>
 <date type="sent">17.12.1912</date>
-<date type="received"/>
-<persName type="addressee">:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Kaufbeuren</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2325s">
@@ -43,12 +43,12 @@
 <birth when="1866"/>
 <death when="1942"/>
 <occupation>Privatiere</occupation>
-<residence>Augsburg, Wohnort München</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, Wohnort München</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
-<p>Eltern: </p>
-<p>Anstalt: 1910-42</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1910" to="1942">1910-42</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>manisch=depressives Irresein (18.04.1911)</p></trait>
@@ -84,18 +84,16 @@
                     17.12.12.</hi></dateline>
 <salute><hi rendition="#c"><hi rendition="#i">P.P.</hi></hi></salute>
 </opener>
-<p><space/> Am 31. <hi rendition="#i">Juli</hi> ds. Jhr. übergab <lb break="yes"/> ich
-                dem Anstaltsarzt hr. Dr <hi rendition="#i">Fuchs</hi> einen <lb break="yes"/>Brief
-                zur Besorgung an den Rechtsanwalt <lb break="yes"/><hi rendition="#i">Dr.
-                        </hi><surname><hi rendition="#i">P.</hi></surname> in <hi rendition="#i">München</hi>; sowie die Abschrift <lb break="yes"/>einer Eingabe an den
-                Stadtmagistrat <lb break="yes"/><hi rendition="#i">Augsburg</hi>. <seg ana="#cens">Da
-                    die beiden Schriftstücke von <lb break="yes"/>hier nicht abgeschickt
-                    wurden</seg>, ersuche ich <lb break="yes"/>Sie, mir dieselben zurückzubringen.
-                Ebenso <lb break="yes"/>fordere ich den Brief zurück, den ich bereits <lb break="yes"/>im Herbst 1911 an die Direktion des <lb break="yes"/>Schwabinger
-                Krankenhauses <hi rendition="#i">München</hi>
-<lb break="yes"/>gerichtet hatte; derselbe wird sich jeden<lb break="no"/>falls
-                unter den Akten befinden.</p><p><space/> <seg ana="#salute">Achtungsvoll</seg>
-<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">A.
+<p><space/> Am 31. <hi rendition="#i">Juli</hi> ds. Jhr. übergab<lb break="yes"/>ich
+                dem Anstaltsarzt hr. Dr <hi rendition="#i">Fuchs</hi> einen<lb break="yes"/>Brief
+                zur Besorgung an den Rechtsanwalt<lb break="yes"/><hi rendition="#i">Dr.
+                        </hi><surname><hi rendition="#i">P.</hi></surname> in <hi rendition="#i">München</hi>; sowie die Abschrift<lb break="yes"/>einer Eingabe an den
+                Stadtmagistrat<lb break="yes"/><hi rendition="#i">Augsburg</hi>. <seg ana="#cens">Da
+                    die beiden Schriftstücke von<lb break="yes"/>hier nicht abgeschickt
+                    wurden</seg>, ersuche ich<lb break="yes"/>Sie, mir dieselben zurückzubringen.
+                Ebenso<lb break="yes"/>fordere ich den Brief zurück, den ich bereits<lb break="yes"/>im Herbst 1911 an die Direktion des<lb break="yes"/>Schwabinger
+                Krankenhauses <hi rendition="#i">München</hi><lb break="yes"/>gerichtet hatte; derselbe wird sich jeden<lb break="no"/>falls
+                unter den Akten befinden.</p><p><space/> <seg ana="#salute">Achtungsvoll</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">A.
                             <surname>S.</surname>.</hi></seg></hi></p>
 </body>
 </text>

@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Karolina <surname>H.</surname></persName>
 <date type="sent">01.12.1861</date>
-<date type="received"/>
-<persName type="addressee">: Joseph <surname>G.</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Joseph <surname>G.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb846h">
@@ -44,12 +44,12 @@
 <birth when="1816"/>
 <death when="1888"/>
 <occupation>Schäfflerstochter</occupation>
-<residence>Rennertshofen, Monheim</residence>
+<residence><geo decls="#WGS">48.7564558 11.0494652</geo>Rennertshofen, Monheim</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Schäffler</p>
-<p>Anstalt: 1855-88</p>
+<p>Anstalt: <date from="1855" to="1888">1855-88</date></p>
 <p>Brieftypen: pp, po, ap, ao</p>
 </state>
 <trait><p>Geisteskrankheit, Verrücktheit, geistig-körperliche Müdigkeit (1855)</p></trait>
@@ -86,37 +86,27 @@
 <dateline><hi rendition="#r">Irrsee d 1<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Dezember 1861</hi></dateline>
 <salute><hi rendition="#c">Liebster Herr <surname>G.</surname>!</hi></salute>
 </opener>
-<p> Als ich im Schlosse zu Berdolzheim war, <lb break="yes"/> da war die Rede von den Kamin in
-                der <lb break="yes"/> Küche. Ich konnte darauf keine Antwort geben, <lb break="yes"/> weil ich seitdem nicht nach Momheim kam, <lb break="yes"/> um es den Herrn
-                    <surname>H.</surname> den Kamin<lb break="no"/> kehrer=Meister zu
-                schaffen. Weil aber <lb break="yes"/> Ihr Sohn der Herr <surname>B.</surname>
-                mir einmal <lb break="yes"/> sagte und die Köchin zu Leitcheim im Schloße <lb break="yes"/> daß es so finster ist und oft die Frau Gräfinn da<lb break="no"/>
-                von geht, ohne fertig gekocht. Wäre kein Fehler <lb break="yes"/> so hätte Sie noch
-                manche Stunde in der angeh<lb break="no"/> nem̄en Kochkunst zu arbeithen, daß
-                die Kräften <lb break="yes"/> stärkt. Zum Schlusse des Jahres wäre mein sehn<lb break="no"/> lichster Wunsch, wenn ein Vater seinem Sohne <lb break="yes"/> und
+<p> Als ich im Schlosse zu Berdolzheim war,<lb break="yes"/>da war die Rede von den Kamin in
+                der<lb break="yes"/>Küche. Ich konnte darauf keine Antwort geben,<lb break="yes"/>weil ich seitdem nicht nach Momheim kam,<lb break="yes"/>um es den Herrn
+                    <surname>H.</surname> den Kamin<lb break="no"/>kehrer=Meister zu
+                schaffen. Weil aber<lb break="yes"/>Ihr Sohn der Herr <surname>B.</surname>
+                mir einmal<lb break="yes"/>sagte und die Köchin zu Leitcheim im Schloße<lb break="yes"/>daß es so finster ist und oft die Frau Gräfinn da<lb break="no"/>von geht, ohne fertig gekocht. Wäre kein Fehler<lb break="yes"/>so hätte Sie noch
+                manche Stunde in der angeh<lb break="no"/>nem̄en Kochkunst zu arbeithen, daß
+                die Kräften<lb break="yes"/>stärkt. Zum Schlusse des Jahres wäre mein sehn<lb break="no"/>lichster Wunsch, wenn ein Vater seinem Sohne<lb break="yes"/>und
                 der andere Vater seinem Herr Sohn − <pb facs="#image_024"/> diese Feuertage
-                schicken würde um eine <lb break="yes"/> Nachsicht zu halten, oder wie es die Herrn
-                    <lb break="yes"/> Meister befehlen, anschaffen oder richten wollen. <lb break="yes"/> Damit auch der Herr Baron <surname>T.</surname> und die Frau
-                Gräfin <lb break="yes"/>
-<surname>D.</surname> zufrieden sind. <seg ana="#salute">Ich grüße Sie Alle
-                        <lb break="yes"/> recht schön und ich und der Bruder essen auch <lb break="yes"/> alle Tage ein königliches Brod, haben schon <lb break="yes"/>
-                    viele Geschäfte mit der Post gehabt und recht <lb break="yes"/> oft mit Liebe
-                    mich an Sie erin̄ert.</seg> Ich tröste <lb break="yes"/> Sie in Namen
-                meines Bruders der sich auch noch <lb break="yes"/> recht oft an unsern Feuerbrand
-                erin̄ert und <lb break="yes"/> dabey spricht, wenn Hölle und Fegfeuer abge<lb break="no"/> rechnet werden dan̄ ist es kein verborgenes <lb break="yes"/> Opfer vor Gott als Feuer=Werker schon ge<lb break="no"/> arbeithet zu haben und
-                doch noch mit solch einen <lb break="yes"/> Segen noch davon gekom̄en zu
-                seyn. Ich habe <lb break="yes"/> mih nun entledigt meines Befehls <seg ana="#signed">wiederholle <lb break="yes"/> meine Hochachtung und verbleibe dankbarst.</seg>
+                schicken würde um eine<lb break="yes"/>Nachsicht zu halten, oder wie es die Herrn<lb break="yes"/>Meister befehlen, anschaffen oder richten wollen.<lb break="yes"/>Damit auch der Herr Baron <surname>T.</surname> und die Frau
+                Gräfin<lb break="yes"/><surname>D.</surname> zufrieden sind. <seg ana="#salute">Ich grüße Sie Alle<lb break="yes"/>recht schön und ich und der Bruder essen auch<lb break="yes"/>alle Tage ein königliches Brod, haben schon<lb break="yes"/>viele Geschäfte mit der Post gehabt und recht<lb break="yes"/>oft mit Liebe
+                    mich an Sie erin̄ert.</seg> Ich tröste<lb break="yes"/>Sie in Namen
+                meines Bruders der sich auch noch<lb break="yes"/>recht oft an unsern Feuerbrand
+                erin̄ert und<lb break="yes"/>dabey spricht, wenn Hölle und Fegfeuer abge<lb break="no"/>rechnet werden dan̄ ist es kein verborgenes<lb break="yes"/>Opfer vor Gott als Feuer=Werker schon ge<lb break="no"/>arbeithet zu haben und
+                doch noch mit solch einen<lb break="yes"/>Segen noch davon gekom̄en zu
+                seyn. Ich habe<lb break="yes"/>mih nun entledigt meines Befehls <seg ana="#signed">wiederholle<lb break="yes"/>meine Hochachtung und verbleibe dankbarst.</seg>
 </p>
-<p><seg ana="#signed"><hi rendition="#c">Ihre</hi>
-<lb break="yes"/>
-<hi rendition="#r">Freundin! <lb break="yes"/> Karolina
+<p><seg ana="#signed"><hi rendition="#c">Ihre</hi><lb break="yes"/><hi rendition="#r">Freundin!<lb break="yes"/>Karolina
                             <surname>H.</surname></hi></seg>
 <pb facs="#image_025"/>
-<hi rendition="#c"><hi rendition="#u">dem </hi><lb break="yes"/> Herrn Joseph
-                        <surname>G.</surname>
-<lb break="yes"/> Kamin Kehrer Meister <lb break="yes"/> in <hi rendition="#u"><surname>D.</surname>.</hi></hi>
-<lb break="yes"/>
-</p>
+<hi rendition="#c"><hi rendition="#u">dem </hi><lb break="yes"/>Herrn Joseph
+                        <surname>G.</surname><lb break="yes"/>Kamin Kehrer Meister<lb break="yes"/>in <hi rendition="#u"><surname>D.</surname>.</hi></hi><lb break="yes"/></p>
 </body>
 </text>
 </TEI>

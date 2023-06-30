@@ -28,11 +28,11 @@
 <profileDesc>
 <creation>
 <persName type="sender">Anna <surname>S.</surname></persName>
-<date type="sent"/>
-<date type="received"/>
+<date type="sent">ca1910-42</date>
+<date type="received">n.a.</date>
 <persName type="addressee">Magistrat</persName>
-<settlement type="sent"/>
-<settlement type="received"/>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2325s">
@@ -43,12 +43,12 @@
 <birth when="1866"/>
 <death when="1942"/>
 <occupation>Privatiere</occupation>
-<residence>Augsburg, Wohnort München</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, Wohnort München</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
-<p>Eltern: </p>
-<p>Anstalt: 1910-42</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1910" to="1942">1910-42</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>manisch=depressives Irresein (18.04.1911)</p></trait>
@@ -87,91 +87,80 @@
 <dateline/>
 <salute><hi rendition="#c">hochlöblicher <hi rendition="#i">Magistrat</hi>!</hi></salute>
 </opener>
-<p><space/> Ganz energisch möchte ich den hochl. <lb break="yes"/>Magistrat
-                auffordern, für mich die Zahlungen für die <lb break="yes"/>Verpflegungskosten in
-                der hiesigen "Heilanstalt" <lb break="yes"/>gefälligst einstellen zu wollen, damit
-                diesem mehr <lb break="yes"/>als unerhört gemeinen <del>S</del>schwindelhaften
-                Treiben endlich <lb break="yes"/>ein Ende gemacht wird u. meine Entlassung endgültig
-                    <lb break="yes"/>erfolgen dürfte − In diesem Hause findet man so <lb break="yes"/>recht den Ausspruch eines Reichstages Abgeordneten <lb break="yes"/>bestätigt, den derselbe gelegentlich einer Reichstags<lb break="no"/>sitzung getan
-                hat: "Mit keiner Sache der Welt wird ein <lb break="yes"/>größerer Schwindel
+<p><space/> Ganz energisch möchte ich den hochl.<lb break="yes"/>Magistrat
+                auffordern, für mich die Zahlungen für die<lb break="yes"/>Verpflegungskosten in
+                der hiesigen "Heilanstalt"<lb break="yes"/>gefälligst einstellen zu wollen, damit
+                diesem mehr<lb break="yes"/>als unerhört gemeinen <del>S</del>schwindelhaften
+                Treiben endlich<lb break="yes"/>ein Ende gemacht wird u. meine Entlassung endgültig<lb break="yes"/>erfolgen dürfte − In diesem Hause findet man so<lb break="yes"/>recht den Ausspruch eines Reichstages Abgeordneten<lb break="yes"/>bestätigt, den derselbe gelegentlich einer Reichstags<lb break="no"/>sitzung getan
+                hat: "Mit keiner Sache der Welt wird ein<lb break="yes"/>größerer Schwindel
                 getrieben, als mit den Irren<lb break="no"/>Anstalten; die Irrenanstalten sind ein
-                <seg ana="#med">Krebsschaden</seg> <lb break="yes"/>für die ganze Menschheit."</p>
-<p><space/> Dem hochl. Magistrat dürfte es hinlänglich bekannt <lb break="yes"/>sein,
-                daß ich bereits am 3. Oktober 1910 von der <hi rendition="#i">Münchner</hi>
-<lb break="yes"/>Polizei − dem Bezirksarzt <hi rendition="#i">Henkel</hi> in
-                die Irrenanstalt <lb break="yes"/>geschickt wurde u. zwar nicht wegen
-                Geisteskrankheit, <lb break="yes"/>sondern auf Grund einer falschen Anzeige, wegen
-                    <lb break="yes"/>"angeblicher Gemeingefährlichkeit". Es ist erwiesen, daß <lb break="yes"/>die damals gegen mich erstattete Anzeige reine Erfindung <lb break="yes"/>war, was sich schon in den ersten Tagen meines Aufenthaltes <lb break="yes"/>im Irrenhaus herausgestellt hatte; trotzdem wurde ich <lb break="yes"/>volle drei Monate im Irrenhaus zurückgehalten, mit <lb break="yes"/>der Ausrede, ich wäre zur Erholung dort. − Am 2. <hi rendition="#i">Januar</hi>
-<lb break="yes"/>1911 wurde ich entlassen. Allerdings wäre es für mich <lb break="yes"/>angebracht gewesen, nach meiner Entlassung den ge<lb break="no"/>richtlichen Weg zu beschreiten u. gegen den Urheber meines <lb break="yes"/>Unglückes, einen gewissen <hi rendition="#i">Dr. Jaudt</hi> wegen falscher <lb break="yes"/>Anschuldigung Klage zu stellen. Ich war jedoch damals <lb break="yes"/>in einer solchen tiefen Verstim̄ung über das mir zu<lb break="no"/>gefügte Unrecht, daß es mir ganz unmöglich war, in <lb break="yes"/>der Sache vorzugehen.</p>
-<p><space/> Am 18. <hi rendition="#i">März</hi> 1911 mußte ich nun einer Lappalie <lb break="yes"/>wegen, worüber jeder Mensch nur lachen würde, u. die <lb break="yes"/>mir dem oben erwähnten <hi rendition="#i">Jaudt</hi>
+                <seg ana="#med">Krebsschaden</seg><lb break="yes"/>für die ganze Menschheit."</p>
+<p><space/> Dem hochl. Magistrat dürfte es hinlänglich bekannt<lb break="yes"/>sein,
+                daß ich bereits am 3. Oktober 1910 von der <hi rendition="#i">Münchner</hi><lb break="yes"/>Polizei − dem Bezirksarzt <hi rendition="#i">Henkel</hi> in
+                die Irrenanstalt<lb break="yes"/>geschickt wurde u. zwar nicht wegen
+                Geisteskrankheit,<lb break="yes"/>sondern auf Grund einer falschen Anzeige, wegen<lb break="yes"/>"angeblicher Gemeingefährlichkeit". Es ist erwiesen, daß<lb break="yes"/>die damals gegen mich erstattete Anzeige reine Erfindung<lb break="yes"/>war, was sich schon in den ersten Tagen meines Aufenthaltes<lb break="yes"/>im Irrenhaus herausgestellt hatte; trotzdem wurde ich<lb break="yes"/>volle drei Monate im Irrenhaus zurückgehalten, mit<lb break="yes"/>der Ausrede, ich wäre zur Erholung dort. − Am 2. <hi rendition="#i">Januar</hi><lb break="yes"/>1911 wurde ich entlassen. Allerdings wäre es für mich<lb break="yes"/>angebracht gewesen, nach meiner Entlassung den ge<lb break="no"/>richtlichen Weg zu beschreiten u. gegen den Urheber meines<lb break="yes"/>Unglückes, einen gewissen <hi rendition="#i">Dr. Jaudt</hi> wegen falscher<lb break="yes"/>Anschuldigung Klage zu stellen. Ich war jedoch damals<lb break="yes"/>in einer solchen tiefen Verstim̄ung über das mir zu<lb break="no"/>gefügte Unrecht, daß es mir ganz unmöglich war, in<lb break="yes"/>der Sache vorzugehen.</p>
+<p><space/> Am 18. <hi rendition="#i">März</hi> 1911 mußte ich nun einer Lappalie<lb break="yes"/>wegen, worüber jeder Mensch nur lachen würde, u. die<lb break="yes"/>mir dem oben erwähnten <hi rendition="#i">Jaudt</hi>
                 zusam̄enhängt, im <pb facs="#image_046"/>Polizei-Gebäude erscheinen u.
-                schickte mich Bezirksarzt <lb break="yes"/><hi rendition="#i">Henkel</hi> abermals in
+                schickte mich Bezirksarzt<lb break="yes"/><hi rendition="#i">Henkel</hi> abermals in
                 die Irrenanstalt mit der "Be<lb break="no"/>gründung", daß ich "erregt" wäre um
-                dortselbst "ruhiger" <lb break="yes"/>zu werden. Nach einem mehrtägigen Aufenthalt
-                in <lb break="yes"/>der <hi rendition="#i">Psychiatrischen</hi> Klinik in <hi rendition="#i">München</hi> wurde ich nach <lb break="yes"/><hi rendition="#i">Eglfing</hi> gebracht, nach einem dreiwöchentlichen Aufent<lb break="no"/>halt
-                dortselbst machte mir am 18. <hi rendition="#i">April</hi> die Eröffnung, <lb break="yes"/>daß ich in die hiesige "Heilanstalt" überführt würde, <lb break="yes"/>allerdings mit der Versicherung, daß mein Aufenthalt <lb break="yes"/>dortselbst nur einige Wochen zu währen hätte, blos um <lb break="yes"/>der <hi rendition="#i">Münchner</hi> Polizei Genüge zu tun. Auch
-                hier gab man <lb break="yes"/>mir die Versicherung, daß ich so bald als möglich
-                entlassen <lb break="yes"/>werde. − (Ueberhaupt ist es mir ganz
-                unverständlich, aus <lb break="yes"/>welchen Gründen man mich von <hi rendition="#i">Eglfing</hi> hieher gebracht hat; <lb break="yes"/>da ich seit 10 Jahren in <hi rendition="#i">München</hi> ansässig bin, dortselbst <lb break="yes"/>meine
-                Steuern-Abgaben bezahlt habe, bin ich in <hi rendition="#i">München</hi>
-<lb break="yes"/>ebenso heimatberechtigt, als in A<hi rendition="#i">ugsburg</hi>.)
+                dortselbst "ruhiger"<lb break="yes"/>zu werden. Nach einem mehrtägigen Aufenthalt
+                in<lb break="yes"/>der <hi rendition="#i">Psychiatrischen</hi> Klinik in <hi rendition="#i">München</hi> wurde ich nach<lb break="yes"/><hi rendition="#i">Eglfing</hi> gebracht, nach einem dreiwöchentlichen Aufent<lb break="no"/>halt
+                dortselbst machte mir am 18. <hi rendition="#i">April</hi> die Eröffnung,<lb break="yes"/>daß ich in die hiesige "Heilanstalt" überführt würde,<lb break="yes"/>allerdings mit der Versicherung, daß mein Aufenthalt<lb break="yes"/>dortselbst nur einige Wochen zu währen hätte, blos um<lb break="yes"/>der <hi rendition="#i">Münchner</hi> Polizei Genüge zu tun. Auch
+                hier gab man<lb break="yes"/>mir die Versicherung, daß ich so bald als möglich
+                entlassen<lb break="yes"/>werde. − (Ueberhaupt ist es mir ganz
+                unverständlich, aus<lb break="yes"/>welchen Gründen man mich von <hi rendition="#i">Eglfing</hi> hieher gebracht hat;<lb break="yes"/>da ich seit 10 Jahren in <hi rendition="#i">München</hi> ansässig bin, dortselbst<lb break="yes"/>meine
+                Steuern-Abgaben bezahlt habe, bin ich in <hi rendition="#i">München</hi><lb break="yes"/>ebenso heimatberechtigt, als in A<hi rendition="#i">ugsburg</hi>.)
                 −</p>
-<p>Im Sinne des Bezirksarzt <hi rendition="#i">Henkel</hi> wäre es nun gewesen, <lb break="yes"/>mich in diesem Hause vor jeder, auch der kleinsten Auf<lb break="no"/>regung zu bewahren. Statt dessen geschah nun hier u. ganz <lb break="yes"/>besonders (des) von Seite des Anstalsdirektors alles, um <lb break="yes"/>mich aufzuregen, aufzureizen u. mein Gemüt zu <lb break="yes"/>beunruhigen. So ließ er mich zu wiederholten Malen <lb break="yes"/>in sein Büro
+<p>Im Sinne des Bezirksarzt <hi rendition="#i">Henkel</hi> wäre es nun gewesen,<lb break="yes"/>mich in diesem Hause vor jeder, auch der kleinsten Auf<lb break="no"/>regung zu bewahren. Statt dessen geschah nun hier u. ganz<lb break="yes"/>besonders (des) von Seite des Anstalsdirektors alles, um<lb break="yes"/>mich aufzuregen, aufzureizen u. mein Gemüt zu<lb break="yes"/>beunruhigen. So ließ er mich zu wiederholten Malen<lb break="yes"/>in sein Büro
                 kom̄en, reizte mich durch frivole Redens<lb break="no"/>arten, machte mir
-                unliebsame Mitteillungen, von <lb break="yes"/>denen er im Voraus wußte, daß
-                dieselben mich auf das <lb break="yes"/>höchste aufbrachten; u. seine heilige
-                Pflicht wäre es gewesen, <lb break="yes"/>das Gegenteilige zu tun. Offenbar findet
-                er ein <lb break="yes"/>Vergnügen daran, die Leute seelisch zu
-                    <unclear>heuzen</unclear> u. seelisch zu <lb break="yes"/>mißhandeln. Und nicht
-                nur meine, sondern vieler Insassen <lb break="yes"/>Ansicht geht dahin, daß dieser
-                Mensch zu einer derartigen <lb break="yes"/>Stellung vollständig ungeeignet ist.
-                Zudem ließ er <lb break="yes"/>es an jeglichem Entgegekom̄en mir gegenüber
-                fehlen, u. <lb break="yes"/>eben durch dieses Nichtentgegenkom̄en warten nach
-                    <lb break="yes"/>meiner Heimkehr die denkbar größten Unannehmlich<lb break="no"/>keiten auf mich u. der Gedanke trägt wahrlich nicht zur <lb break="yes"/>Beruhigung des Gemütes bei. − Zu allem Ueberfluß <lb break="yes"/>erkühnte
-                sich derselbe noch, sich unberechtigterweise u. ohne <lb break="yes"/>mich davon in
-                Ken̄tnis gesetzt zu haben, in meine <lb break="yes"/>Private Angelegenheit
-                einzumischen; allerdings wird <lb break="yes"/>ihn dieses mehr als dreiste
-                Unterfangen, diese geradezu <lb break="yes"/>bodenlose Frechheit, diese grenzenlose
-                Unverschämtheit <lb break="yes"/>Gemeinheit, Niederträchtigkeit u. -Bosheit unter
-                    <pb facs="#image_047"/>Umständen recht teuer zu stehen kommen, denn mit der <lb break="yes"/>nämlichen Rücksichtslosigkeit mit der man hier gegen <lb break="yes"/>mich vorgegangen ist, mit d. nämlichen Rücksichtslosigkeit <lb break="yes"/>u. unnachsichtigen Strenge werde auch ich verfahren. − <lb break="yes"/>Alles in Allem genom̄en, glaube ich nicht, daß es einen <lb break="yes"/>unehrenhafteren, gewissenloseren Leiter einer derartigen <lb break="yes"/>Anstalt gibt, als den hiesigen Anstaltsdirektor − Diesem <lb break="yes"/>Menschen ist <add place="above">es</add> ja blos darum zu tun, sein
-                Haus möglichst <lb break="yes"/>besetzt zu haben, ob die Leute darüber zu Grunde
-                gehen, <lb break="yes"/>ist ihm egal. Es ist sein Prinzip, die Leute möglichst lang
-                    <lb break="yes"/>zurückzuhalten u. zwar aus dem einfachen Grund, weil <lb break="yes"/>dieses Haus in jeder Hinsicht u. mit Recht in dem denkbar <lb break="yes"/>schlechtesten Rufe steht, was nicht nur von den Insassen <lb break="yes"/>vollauf bestätigt werden kann, sondern es haben sich in <lb break="yes"/>diesem Sinn schon solche geäußert, die früher hier als Arzt <lb break="yes"/>gewirkt haben u. ist darum auch der Zugang nur ein <lb break="yes"/>ganz geringer − Um nun auf das Gebahren des Anstalts<lb break="no"/>direktors zurückzukom̄en. Wie kann es dieser Mensch <lb break="yes"/>mit
-                seimen Gewissen vereinbaren, mich diese endlos lange <lb break="yes"/>Zeit
-                hierbehalten zu haben. Geistig fühle u. fühlte ich mich <lb break="yes"/>stets
-                vollkom̄en wohl, allerdings nicht so frisch, als wen̄ <lb break="yes"/>man in der Außenwelt ist, weil ja das Internirtsein <lb break="yes"/>u. besonders
-                in diesem Haus stets niederdrückend auf das <lb break="yes"/>Gemüt wirkt. Im Übrigen
-                bin ich weder "pflege" noch <lb break="yes"/>"hilfsbedürftig", finde mich in jeder
-                Lebenslage zurecht, brauche <lb break="yes"/>draußen niemand zur Last zu fallen,
-                (brauche draußen <lb break="yes"/>niemand zur) bin im Stande etwas zu erwerben u.
-                bin <lb break="yes"/>nicht mittellos − Bereits im Juni vor. Jhr. wurde mir die
-                    <lb break="yes"/>Entlassung angekündigt, aber im̄er wieder hinaus<lb break="no"/>geschoben, mit der "Motivierung", ich wäre nicht "ruhig" <lb break="yes"/>genug; als ob man im Irrenhaus u. besonders in diesem <lb break="yes"/>überhaupt die rechte Ruhe finden könnte. −</p>
-<p>Vom 1. Tag meiner Enlieferung bis auf den heutigen <lb break="yes"/>war ich stets bei
-                vollem Bewußtsein u. mein ganzes <lb break="yes"/>"Vergehen", das ich mir in diesem
-                Haus zu schulden kom̄en <lb break="yes"/>ließ, bestand einzig darin, daß ich
-                meiner in̄eren Qual u. <lb break="yes"/>Pein, u. meinem Mißmut über das mir
-                zugefügte <lb break="yes"/>him̄elschreiende Unrecht durch Raissonieren,
-                Zanken <unclear>eh.</unclear>
-<lb break="yes"/>Wettern Luft machte. Und wer an meiner Stelle hätte <lb break="yes"/>das nicht getan. denn wenn sich da nicht alles in einem <lb break="yes"/>empört,
-                wen̄ einem da die Zornesader nicht schwillt, wenn <lb break="yes"/>man da
+                unliebsame Mitteillungen, von<lb break="yes"/>denen er im Voraus wußte, daß
+                dieselben mich auf das<lb break="yes"/>höchste aufbrachten; u. seine heilige
+                Pflicht wäre es gewesen,<lb break="yes"/>das Gegenteilige zu tun. Offenbar findet
+                er ein<lb break="yes"/>Vergnügen daran, die Leute seelisch zu
+                    <unclear>heuzen</unclear> u. seelisch zu<lb break="yes"/>mißhandeln. Und nicht
+                nur meine, sondern vieler Insassen<lb break="yes"/>Ansicht geht dahin, daß dieser
+                Mensch zu einer derartigen<lb break="yes"/>Stellung vollständig ungeeignet ist.
+                Zudem ließ er<lb break="yes"/>es an jeglichem Entgegekom̄en mir gegenüber
+                fehlen, u.<lb break="yes"/>eben durch dieses Nichtentgegenkom̄en warten nach<lb break="yes"/>meiner Heimkehr die denkbar größten Unannehmlich<lb break="no"/>keiten auf mich u. der Gedanke trägt wahrlich nicht zur<lb break="yes"/>Beruhigung des Gemütes bei. − Zu allem Ueberfluß<lb break="yes"/>erkühnte
+                sich derselbe noch, sich unberechtigterweise u. ohne<lb break="yes"/>mich davon in
+                Ken̄tnis gesetzt zu haben, in meine<lb break="yes"/>Private Angelegenheit
+                einzumischen; allerdings wird<lb break="yes"/>ihn dieses mehr als dreiste
+                Unterfangen, diese geradezu<lb break="yes"/>bodenlose Frechheit, diese grenzenlose
+                Unverschämtheit<lb break="yes"/>Gemeinheit, Niederträchtigkeit u. -Bosheit unter
+                    <pb facs="#image_047"/>Umständen recht teuer zu stehen kommen, denn mit der<lb break="yes"/>nämlichen Rücksichtslosigkeit mit der man hier gegen<lb break="yes"/>mich vorgegangen ist, mit d. nämlichen Rücksichtslosigkeit<lb break="yes"/>u. unnachsichtigen Strenge werde auch ich verfahren. −<lb break="yes"/>Alles in Allem genom̄en, glaube ich nicht, daß es einen<lb break="yes"/>unehrenhafteren, gewissenloseren Leiter einer derartigen<lb break="yes"/>Anstalt gibt, als den hiesigen Anstaltsdirektor − Diesem<lb break="yes"/>Menschen ist <add place="above">es</add> ja blos darum zu tun, sein
+                Haus möglichst<lb break="yes"/>besetzt zu haben, ob die Leute darüber zu Grunde
+                gehen,<lb break="yes"/>ist ihm egal. Es ist sein Prinzip, die Leute möglichst lang<lb break="yes"/>zurückzuhalten u. zwar aus dem einfachen Grund, weil<lb break="yes"/>dieses Haus in jeder Hinsicht u. mit Recht in dem denkbar<lb break="yes"/>schlechtesten Rufe steht, was nicht nur von den Insassen<lb break="yes"/>vollauf bestätigt werden kann, sondern es haben sich in<lb break="yes"/>diesem Sinn schon solche geäußert, die früher hier als Arzt<lb break="yes"/>gewirkt haben u. ist darum auch der Zugang nur ein<lb break="yes"/>ganz geringer − Um nun auf das Gebahren des Anstalts<lb break="no"/>direktors zurückzukom̄en. Wie kann es dieser Mensch<lb break="yes"/>mit
+                seimen Gewissen vereinbaren, mich diese endlos lange<lb break="yes"/>Zeit
+                hierbehalten zu haben. Geistig fühle u. fühlte ich mich<lb break="yes"/>stets
+                vollkom̄en wohl, allerdings nicht so frisch, als wen̄<lb break="yes"/>man in der Außenwelt ist, weil ja das Internirtsein<lb break="yes"/>u. besonders
+                in diesem Haus stets niederdrückend auf das<lb break="yes"/>Gemüt wirkt. Im Übrigen
+                bin ich weder "pflege" noch<lb break="yes"/>"hilfsbedürftig", finde mich in jeder
+                Lebenslage zurecht, brauche<lb break="yes"/>draußen niemand zur Last zu fallen,
+                (brauche draußen<lb break="yes"/>niemand zur) bin im Stande etwas zu erwerben u.
+                bin<lb break="yes"/>nicht mittellos − Bereits im Juni vor. Jhr. wurde mir die<lb break="yes"/>Entlassung angekündigt, aber im̄er wieder hinaus<lb break="no"/>geschoben, mit der "Motivierung", ich wäre nicht "ruhig"<lb break="yes"/>genug; als ob man im Irrenhaus u. besonders in diesem<lb break="yes"/>überhaupt die rechte Ruhe finden könnte. −</p>
+<p>Vom 1. Tag meiner Enlieferung bis auf den heutigen<lb break="yes"/>war ich stets bei
+                vollem Bewußtsein u. mein ganzes<lb break="yes"/>"Vergehen", das ich mir in diesem
+                Haus zu schulden kom̄en<lb break="yes"/>ließ, bestand einzig darin, daß ich
+                meiner in̄eren Qual u.<lb break="yes"/>Pein, u. meinem Mißmut über das mir
+                zugefügte<lb break="yes"/>him̄elschreiende Unrecht durch Raissonieren,
+                Zanken <unclear>eh.</unclear><lb break="yes"/>Wettern Luft machte. Und wer an meiner Stelle hätte<lb break="yes"/>das nicht getan. denn wenn sich da nicht alles in einem<lb break="yes"/>empört,
+                wen̄ einem da die Zornesader nicht schwillt, wenn<lb break="yes"/>man da
                 seine Ruhe, seine Gelassenheit u. seinen Gleichmut <pb facs="#image_048"/>nicht
-                verliert, dann ist man gar kein Menscht mehr, sondern <lb break="yes"/>ein <seg ana="#curse">Idiot</seg>, ein <seg ana="#curse">Kretine</seg>, der mit sich
-                anfangen läßt, was man <lb break="yes"/>mag. − Daß ich nervenkrank od. nervös
+                verliert, dann ist man gar kein Menscht mehr, sondern<lb break="yes"/>ein <seg ana="#curse">Idiot</seg>, ein <seg ana="#curse">Kretine</seg>, der mit sich
+                anfangen läßt, was man<lb break="yes"/>mag. − Daß ich nervenkrank od. nervös
                 bin, läugne ich keines<lb break="no"/>falls, nur ist für ein derartiges Uebel der
-                Aufenthalt in diesem <lb break="yes"/>Haus dem Menschen ganz u. gar unzuträglich,
-                weil man <lb break="yes"/>hier gezwungen ist, die widersinnigste Lebensweise zu <lb break="yes"/>führen, die sich denken läßt, durch den Aufenthalt in diesem <lb break="yes"/>Hause habe ich an meiner Gesundheit den denkbar größten <lb break="yes"/>Schaden davongetragen u. ist mein Aussehen nicht mehr <lb break="yes"/>halb das, als ich hieherkam, was von vielen Insassen bestätigt <lb break="yes"/>werden kann. − Alles jedoch, was man dem hochl. Magistrat <lb break="yes"/>von einer geistigen Erkrankung od. geistigen Umnachtung <lb break="yes"/>meinerseits mitgeteilt hat, war ganz gemeine Lüge u. <lb break="yes"/>Entstellung. − Zu Nutz u. From̄en er Anstalt
+                Aufenthalt in diesem<lb break="yes"/>Haus dem Menschen ganz u. gar unzuträglich,
+                weil man<lb break="yes"/>hier gezwungen ist, die widersinnigste Lebensweise zu<lb break="yes"/>führen, die sich denken läßt, durch den Aufenthalt in diesem<lb break="yes"/>Hause habe ich an meiner Gesundheit den denkbar größten<lb break="yes"/>Schaden davongetragen u. ist mein Aussehen nicht mehr<lb break="yes"/>halb das, als ich hieherkam, was von vielen Insassen bestätigt<lb break="yes"/>werden kann. − Alles jedoch, was man dem hochl. Magistrat<lb break="yes"/>von einer geistigen Erkrankung od. geistigen Umnachtung<lb break="yes"/>meinerseits mitgeteilt hat, war ganz gemeine Lüge u.<lb break="yes"/>Entstellung. − Zu Nutz u. From̄en er Anstalt
                     hereinzu<lb break="no"/>sitzen, ein geradezu beklagenswertes Schicksal zu
-                tragen, <lb break="yes"/>der Freiheit beraubt zu sein, meine Gesundheit zu unter<lb break="no"/>graben, ist mir denn doch zu dumm.</p>
-<p>Und so möchte ich den hochl. Magistrat höflichst gebeten <lb break="yes"/>haben, in
-                dieser Sache energisch einschreiten zu wollen. <lb break="yes"/>Meiner Ansicht nach
-                wird es wohl das Vernünftigste sein, <lb break="yes"/>wen̄ einer der Herrn
-                des hochl. Magistrats sich hieher bemühen <lb break="yes"/>würde um dieser geradezu
-                unwürdigen <hi rendition="#i">Misire</hi> ein <lb break="yes"/>Ende zu machen.</p>
-<p>In der sicheren Annahme, daß meinem Wunsche <lb break="yes"/>baldigst entsprochen
-                wird, zeichne ich <lb break="yes"/><hi rendition="#c">achtungsvoll</hi>
-<lb break="yes"/><hi rendition="#r"><hi rendition="#i"><seg ana="#signed">A.
-                                <surname>S.</surname></seg>.</hi>
-<lb break="yes"/>z. Zt. Irrenhaus.</hi></p>
+                tragen,<lb break="yes"/>der Freiheit beraubt zu sein, meine Gesundheit zu unter<lb break="no"/>graben, ist mir denn doch zu dumm.</p>
+<p>Und so möchte ich den hochl. Magistrat höflichst gebeten<lb break="yes"/>haben, in
+                dieser Sache energisch einschreiten zu wollen.<lb break="yes"/>Meiner Ansicht nach
+                wird es wohl das Vernünftigste sein,<lb break="yes"/>wen̄ einer der Herrn
+                des hochl. Magistrats sich hieher bemühen<lb break="yes"/>würde um dieser geradezu
+                unwürdigen <hi rendition="#i">Misire</hi> ein<lb break="yes"/>Ende zu machen.</p>
+<p>In der sicheren Annahme, daß meinem Wunsche<lb break="yes"/>baldigst entsprochen
+                wird, zeichne ich<lb break="yes"/><hi rendition="#c">achtungsvoll</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><seg ana="#signed">A.
+                                <surname>S.</surname></seg>.</hi><lb break="yes"/>z. Zt. Irrenhaus.</hi></p>
 </body>
 </text>
 </TEI>

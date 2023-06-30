@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Elisabeth <surname>W.</surname></persName>
 <date type="sent">ca. 1897-1906</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Ehemann: Bernard <surname>W.</surname></persName>
 <settlement type="sent">Warstein</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="war1116w">
@@ -44,12 +44,12 @@
 <birth when="1866-11-06"/>
 <death when="1906-10-09"/>
 <occupation>Bergmannsfrau</occupation>
-<residence>Geburtsort: Nordenfeldmark; Wohnort: Westerloh</residence>
+<residence><geo decls="#WGS">52.7366219 7.4899452</geo>Geburtsort: Nordenfeldmark; Wohnort: Westerloh</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: verheiratet</p>
 <p>Eltern: Vater: Tagelöhner, Mutter: Ehefrau</p>
-<p>Anstalt: 08.06.1897-09.10.1906</p>
+<p>Anstalt: <date from="08.06.1897" to="09.10.1906">08.06.1897-09.10.1906</date></p>
 <p>Brieftypen: pp</p>
 </state>
 <trait><p>Hebphrenie (1897)</p></trait>
@@ -86,21 +86,18 @@
 <dateline/>
 <salute><hi rendition="#c">Lieber Mann</hi></salute>
 </opener>
-<p>In der besten Gesundheit muß ich <lb break="yes"/>Dir einige Rechen schreiben, es
-                geht <lb break="yes"/><unclear>m</unclear>ir jetzt ganz gut. Aber Grämen <lb break="yes"/>kan ich mich zum Tode Wenn ich die <lb break="yes"/>lange Zeit Nachdenke die ich hier <lb break="yes"/>so Verlassen
-                gewesen bin. Schreibe <lb break="yes"/>mir wie es meinen Sohn Heinrich <lb break="yes"/>der kömmt Nächstes Jahr, geht. <lb break="yes"/>Schon zur hl
-                Kominjon Wenn du <lb break="yes"/>kanst, das diers an Geld nicht Mangelt <lb break="yes"/>laß uns mal Einmal Hinreisen <lb break="yes"/>nach Düsseldorf.
-                Schreibe mir wieder <lb break="yes"/>wie es deinen Eltern zu Oelde geht. <lb break="yes"/>Von dir Hoff ich nichts weiters das mir <lb break="yes"/>bald
+<p>In der besten Gesundheit muß ich<lb break="yes"/>Dir einige Rechen schreiben, es
+                geht<lb break="yes"/><unclear>m</unclear>ir jetzt ganz gut. Aber Grämen<lb break="yes"/>kan ich mich zum Tode Wenn ich die<lb break="yes"/>lange Zeit Nachdenke die ich hier<lb break="yes"/>so Verlassen
+                gewesen bin. Schreibe<lb break="yes"/>mir wie es meinen Sohn Heinrich<lb break="yes"/>der kömmt Nächstes Jahr, geht.<lb break="yes"/>Schon zur hl
+                Kominjon Wenn du<lb break="yes"/>kanst, das diers an Geld nicht Mangelt<lb break="yes"/>laß uns mal Einmal Hinreisen<lb break="yes"/>nach Düsseldorf.
+                Schreibe mir wieder<lb break="yes"/>wie es deinen Eltern zu Oelde geht.<lb break="yes"/>Von dir Hoff ich nichts weiters das mir<lb break="yes"/>bald
                 Wiederholst. Alleine lassen sie mir <pb facs="#image_005"/>
-<del>g</del> nicht Gehen. Wie ich hoffe wirst du <lb break="yes"/> ja auch wohl
-                Gesund sein, Du muß <lb break="yes"/> mir sobald wie <w>mög lich</w> Wiederholen <lb break="yes"/> Wenn du es selbst nicht kanst, dann <lb break="yes"/> schreibe zu
-                deinen Brüdern nach Oelde <lb break="yes"/> das die mich Wiederholen. Weiters <lb break="yes"/> kann ich dich erst nicht Mehr schreiben <lb break="yes"/> Hiermit
-                will ich schließen. Der <lb break="yes"/> Brief wird dich wohl bald antreffen. <lb break="yes"/> Und Voraln nicht Nachläßig sein <lb break="yes"/> im Wiederholen.
-                <seg ana="#salute">Es grüßet deine</seg> <lb break="yes"/>
-<hi rendition="#r">Frau <seg ana="#signed"><hi rendition="#i">Liezä</hi>tte <surname><hi rendition="#i">S.</hi><!--Mädchenname--></surname></seg>. <lb break="yes"/> Untere <hi rendition="#i">A</hi>dreß<hi rendition="#i">e</hi> heißt <hi rendition="#i">A</hi>n <lb break="yes"/> <hi rendition="#i">Bernard</hi> <hi rendition="#i"><surname>W.</surname></hi>
-<lb break="yes"/> in <hi rendition="#i">Westerholt</hi> <lb break="yes"/> <hi rendition="#i">A</hi>mt <hi rendition="#i">B</hi>ur <hi rendition="#i">N</hi>r
-                        <unclear>1.</unclear>
-<lb break="yes"/> <hi rendition="#i">Wohnhaus</hi> <hi rendition="#i"><surname>E.</surname></hi></hi>
+<del>g</del> nicht Gehen. Wie ich hoffe wirst du<lb break="yes"/>ja auch wohl
+                Gesund sein, Du muß<lb break="yes"/>mir sobald wie <w>mög lich</w> Wiederholen<lb break="yes"/>Wenn du es selbst nicht kanst, dann<lb break="yes"/>schreibe zu
+                deinen Brüdern nach Oelde<lb break="yes"/>das die mich Wiederholen. Weiters<lb break="yes"/>kann ich dich erst nicht Mehr schreiben<lb break="yes"/>Hiermit
+                will ich schließen. Der<lb break="yes"/>Brief wird dich wohl bald antreffen.<lb break="yes"/>Und Voraln nicht Nachläßig sein<lb break="yes"/>im Wiederholen.
+                <seg ana="#salute">Es grüßet deine</seg><lb break="yes"/><hi rendition="#r">Frau <seg ana="#signed"><hi rendition="#i">Liezä</hi>tte <surname><hi rendition="#i">S.</hi><!--Mädchenname--></surname></seg>.<lb break="yes"/>Untere <hi rendition="#i">A</hi>dreß<hi rendition="#i">e</hi> heißt <hi rendition="#i">A</hi>n<lb break="yes"/><hi rendition="#i">Bernard</hi> <hi rendition="#i"><surname>W.</surname></hi><lb break="yes"/>in <hi rendition="#i">Westerholt</hi><lb break="yes"/><hi rendition="#i">A</hi>mt <hi rendition="#i">B</hi>ur <hi rendition="#i">N</hi>r
+                        <unclear>1.</unclear><lb break="yes"/><hi rendition="#i">Wohnhaus</hi> <hi rendition="#i"><surname>E.</surname></hi></hi>
 </p>
 </body>
 </text>

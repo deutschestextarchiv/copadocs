@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Georg <surname>B.</surname></persName>
 <date type="sent">31.01.1899</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Mutter: <!--Vorname--> <surname><!--Nachname--></surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb966b">
@@ -43,12 +43,12 @@
 <birth when="1851"/>
 <death when="1904"/>
 <occupation>Buchhalter, Kaufmann</occupation>
-<residence>Kempten</residence>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: verheiratet</p>
 <p>Eltern: Huckler</p>
-<p>Anstalt: 1877-1904</p>
+<p>Anstalt: <date from="1877" to="1904">1877-1904</date></p>
 <p>Brieftypen: pp, po, ao</p>
 </state>
 <trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
@@ -84,16 +84,15 @@
 <dateline><hi rendition="#r">Irsee, den 31.<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Januar 1899.</hi></dateline>
 <salute><hi rendition="#c">Liebe Mutter!</hi></salute>
 </opener>
-<p><add hand="arzt"> Eltern längst gestorben! <lb break="yes"/><hi rendition="#i">ad acta. </hi><space/> Dr S. <lb break="yes"/></add>
-<space/> Zu Deinem so werthen <lb break="yes"/>Namensfeste statte ich Dir hiemit <lb break="yes"/>die herzlichsten Glück- und Segens<lb break="no"/>wünsche für Dein
-                ferneres Wohl<lb break="no"/>ergehen ab! Mögest Du noch viele <lb break="yes"/>Jahre
-                diesen Tag in beßter Gesundheit <lb break="yes"/>erleben, und Dich Deines Lebens in
-                    <lb break="yes"/>Zufriedenheit im Kreise der Deinen <lb break="yes"/>und Deiner
-                Enkel, bis in's spät'ste <lb break="yes"/>Alter erfreuen.</p>
-<p><space/> <seg ana="#salute">Indem ich Dir hiemit diese <lb break="yes"/>meine Wünsche
-                    aus ganzem Herzen <lb break="yes"/>gemeint übersende, verbleibe ich stets
+<p><add hand="arzt"> Eltern längst gestorben!<lb break="yes"/><hi rendition="#i">ad acta. </hi><space/> Dr S.<lb break="yes"/></add>
+<space/> Zu Deinem so werthen<lb break="yes"/>Namensfeste statte ich Dir hiemit<lb break="yes"/>die herzlichsten Glück- und Segens<lb break="no"/>wünsche für Dein
+                ferneres Wohl<lb break="no"/>ergehen ab! Mögest Du noch viele<lb break="yes"/>Jahre
+                diesen Tag in beßter Gesundheit<lb break="yes"/>erleben, und Dich Deines Lebens in<lb break="yes"/>Zufriedenheit im Kreise der Deinen<lb break="yes"/>und Deiner
+                Enkel, bis in's spät'ste<lb break="yes"/>Alter erfreuen.</p>
+<p><space/> <seg ana="#salute">Indem ich Dir hiemit diese<lb break="yes"/>meine Wünsche
+                    aus ganzem Herzen<lb break="yes"/>gemeint übersende, verbleibe ich stets
                     </seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Dein Dich treu
-                        liebender <lb break="yes"/>Sohn <hi rendition="#i">Georg</hi>.</seg></hi></p>
+                        liebender<lb break="yes"/>Sohn <hi rendition="#i">Georg</hi>.</seg></hi></p>
 </body>
 </text>
 </TEI>

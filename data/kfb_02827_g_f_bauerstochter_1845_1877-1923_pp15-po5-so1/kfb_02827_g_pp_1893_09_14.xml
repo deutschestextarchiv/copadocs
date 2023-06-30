@@ -31,10 +31,10 @@
 <creation>
 <persName type="sender">Maria Cleofa <surname>G.</surname></persName>
 <date type="sent">14.09.1893</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Bruder, Schwägerin: Joseph, Babetha <surname>G.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2827g">
@@ -45,12 +45,12 @@
 <birth when="1845"/>
 <death cert="unknown"/>
 <occupation>Bauerstochter</occupation>
-<residence>Engishausen, Illertissen</residence>
+<residence><geo decls="#WGS">48.1082257 10.2728225</geo>Engishausen, Illertissen</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bauern</p>
-<p>Anstalt: 1877-1923</p>
+<p>Anstalt: <date from="1877" to="1923">1877-1923</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Manie (1923)</p></trait>
@@ -83,30 +83,23 @@
 <body>
 <pb facs="#image_038"/>
 <opener>
-<dateline>Heilanstalt-Irrs<hi rendition="#i">ee</hi>:<lb break="yes"/>
-<hi rendition="#r">den̄ 14<hi rendition="#sup"><hi rendition="#u">t</hi></hi> September 1893,</hi></dateline>
+<dateline>Heilanstalt-Irrs<hi rendition="#i">ee</hi>:<lb break="yes"/><hi rendition="#r">den̄ 14<hi rendition="#sup"><hi rendition="#u">t</hi></hi> September 1893,</hi></dateline>
 <salute><hi rendition="#c">Lieber Bruder u. Schwägerin̄!</hi></salute>
 </opener>
 <p>
 Gott zum Gruß!</p>
-<p>Schon bereits zwei Monat daß ich Euch<lb break="yes"/>
-geschrieben habe keine Antwort erhalten</p>
-<p>Ich bitte Dich Bruder :u Schwägerin 1.<lb break="yes"/> das Ihr mih besuchen nächtet. aber
-                    nicht<lb break="yes"/> so lange warten. Ich bin krank zwar<lb break="yes"/>
-                nicht so gefährlich schwer ab<del>l</del>er doch bitte<lb break="yes"/> Euch nich
-                nach zwei Jahren wieder<lb break="yes"/> eimahl zu. besuchen: Sobald als möglih.<lb break="yes"/>
-<seg ana="#salute">Viele Grüß;- an Euch Alle! besonders -<lb break="yes"/> an
-                    Sebastain. alle Kider. Ich vebleibe<lb break="yes"/> Deine unvergeßliche
-                    Schwester :- Schwägerin̄!<lb break="yes"/> auf ein baldiges Wiedersehen
-                    u. Wiederkehr.<lb break="yes"/> Grüße an Dich Bruder u. Schwägerin̄.<pb facs="#image_039"/> Grüße u. Empfehlungen an<lb break="yes"/> Deine
-                    Schwestern u. Bruder!<lb break="yes"/> Auch Wilobold u. Bendikt<lb break="yes"/>
-<surname>E.</surname>.<lb break="yes"/>
-<hi rendition="#c">An Deine Familie.</hi><lb break="yes"/> Alle Bekante u.
-                        Verwandte.<lb break="yes"/> die nach mir fragen.</seg> Ich bin 4. Jahr in
-                Irrse. 10 Jahr <lb break="yes"/> Kaufbeuren. mein Wunsch<lb break="yes"/> wär
-                erlöst. zu werden. Gruß!<lb break="yes"/>
-<seg ana="#salute">An Vormud u. Vetter<lb break="yes"/> Baltus
-                        <surname>K.</surname> an Baase<lb break="yes"/> Cresenz Josep u.
+<p>Schon bereits zwei Monat daß ich Euch<lb break="yes"/>geschrieben habe keine Antwort erhalten</p>
+<p>Ich bitte Dich Bruder :u Schwägerin 1.<lb break="yes"/>das Ihr mih besuchen nächtet. aber
+                    nicht<lb break="yes"/>so lange warten. Ich bin krank zwar<lb break="yes"/>nicht so gefährlich schwer ab<del>l</del>er doch bitte<lb break="yes"/>Euch nich
+                nach zwei Jahren wieder<lb break="yes"/>eimahl zu. besuchen: Sobald als möglih.<lb break="yes"/><seg ana="#salute">Viele Grüß;- an Euch Alle! besonders -<lb break="yes"/>an
+                    Sebastain. alle Kider. Ich vebleibe<lb break="yes"/>Deine unvergeßliche
+                    Schwester :- Schwägerin̄!<lb break="yes"/>auf ein baldiges Wiedersehen
+                    u. Wiederkehr.<lb break="yes"/>Grüße an Dich Bruder u. Schwägerin̄.<pb facs="#image_039"/> Grüße u. Empfehlungen an<lb break="yes"/>Deine
+                    Schwestern u. Bruder!<lb break="yes"/>Auch Wilobold u. Bendikt<lb break="yes"/><surname>E.</surname>.<lb break="yes"/><hi rendition="#c">An Deine Familie.</hi><lb break="yes"/>Alle Bekante u.
+                        Verwandte.<lb break="yes"/>die nach mir fragen.</seg> Ich bin 4. Jahr in
+                Irrse. 10 Jahr<lb break="yes"/>Kaufbeuren. mein Wunsch<lb break="yes"/>wär
+                erlöst. zu werden. Gruß!<lb break="yes"/><seg ana="#salute">An Vormud u. Vetter<lb break="yes"/>Baltus
+                        <surname>K.</surname> an Baase<lb break="yes"/>Cresenz Josep u.
                     Josepa.</seg></p>
 </body>
 </text>

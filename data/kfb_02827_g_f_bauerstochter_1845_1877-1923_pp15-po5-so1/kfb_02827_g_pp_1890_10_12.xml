@@ -31,10 +31,10 @@
 <creation>
 <persName type="sender">Maria Cleofa <surname>G.</surname></persName>
 <date type="sent">12.10.1890</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Bruder, Schwägerin: Joseph, Babetha <surname>G.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2827g">
@@ -45,12 +45,12 @@
 <birth when="1845"/>
 <death cert="unknown"/>
 <occupation>Bauerstochter</occupation>
-<residence>Engishausen, Illertissen</residence>
+<residence><geo decls="#WGS">48.1082257 10.2728225</geo>Engishausen, Illertissen</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand:ledig</p>
 <p>Eltern: Bauern</p>
-<p>Anstalt: 1877-1923</p>
+<p>Anstalt: <date from="1877" to="1923">1877-1923</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Manie (1923)</p></trait>
@@ -85,28 +85,20 @@
 <body>
 <pb facs="#image_027"/>
 <opener>
-<dateline><hi rendition="#c">Heilanstalt-<hi rendition="#i">Irsee</hi>.-<lb break="yes"/> den̄
+<dateline><hi rendition="#c">Heilanstalt-<hi rendition="#i">Irsee</hi>.-<lb break="yes"/>den̄
                             12<hi rendition="#sup"><hi rendition="#u">t</hi></hi>
-                        Oktober</hi><lb break="yes"/>
-<hi rendition="#r">1890</hi></dateline>
-<salute><hi rendition="#c">Lieber Bruder Joseph!<lb break="yes"/> Theure- Schwägerin̄
+                        Oktober</hi><lb break="yes"/><hi rendition="#r">1890</hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder Joseph!<lb break="yes"/>Theure- Schwägerin̄
                         Babetha!-</hi></salute>
 </opener>
-<p> Gott!=<hi rendition="#i">x</hi>.<lb break="yes"/> zum Gruß!=<hi rendition="#i">x.</hi></p>
-<p>Mit Erlaubniß, des gnädigen:<lb break="yes"/>
-<hi rendition="#u">Herrn!?</hi> Hofrath! Kiederle.<lb break="yes"/> zuerst Urlaub;
-                wie vor deri,<lb break="yes"/> Jahren, heute acht Tagen, ist:-<lb break="yes"/> der
+<p> Gott!=<hi rendition="#i">x</hi>.<lb break="yes"/>zum Gruß!=<hi rendition="#i">x.</hi></p>
+<p>Mit Erlaubniß, des gnädigen:<lb break="yes"/><hi rendition="#u">Herrn!?</hi> Hofrath! Kiederle.<lb break="yes"/>zuerst Urlaub;
+                wie vor deri,<lb break="yes"/>Jahren, heute acht Tagen, ist:-<lb break="yes"/>der
                     19.<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Oktober
-                    allgemein;-<lb break="yes"/> Kirchwei?.-x Da würdet Ihr mir <lb break="yes"/>
-                die gröste; Freude machen, mich<lb break="yes"/> am
-                Donn̄erstag oder Freitag;<lb break="yes"/> mich hier in <hi rendition="#i">Irrsee</hi> abzuholen.<pb facs="#image_028"/> Lieber Bruder und Schwägerin.<lb break="yes"/> Wenn̄ unser; gnädiger, Herr Oberarzt.-<lb break="yes"/>
-                Julius; es erlaubt. Wo ich seit im <lb break="yes"/> 8<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Dezember 1888 keinen <seg ana="#med">Anfall</seg><lb break="yes"/> mehr habe kan ich allein heim<lb break="yes"/>
-                fahren wen nicht; kan̄ Kleofa<lb break="yes"/> kom̄en mih abholen
-                wen̄ Du<lb break="yes"/> Bruder! oder Schwägerinen, nicht<lb break="yes"/>
-                kom̄en kan̄st von Deinem großen<lb break="yes"/> Hauswesen.<lb break="yes"/>
-<seg ana="#salute"><hi rendition="#r">Ich beschliese mein</hi><lb break="yes"/>
-                    Schreiben mit vielen Grüsen<lb break="yes"/> an Deine ganze Familie.<lb break="yes"/> auf ein fröhliches Wiedersehn ?..<lb break="yes"/> Deine gute Schwester u.<lb break="yes"/> wohlmeinende
-                        Schwägerin̄.<lb break="yes"/> es würd Euch Alle gewieß freuen.</seg></p>
+                    allgemein;-<lb break="yes"/>Kirchwei?.-x Da würdet Ihr mir<lb break="yes"/>die gröste; Freude machen, mich<lb break="yes"/>am
+                Donn̄erstag oder Freitag;<lb break="yes"/>mich hier in <hi rendition="#i">Irrsee</hi> abzuholen.<pb facs="#image_028"/> Lieber Bruder und Schwägerin.<lb break="yes"/>Wenn̄ unser; gnädiger, Herr Oberarzt.-<lb break="yes"/>Julius; es erlaubt. Wo ich seit im<lb break="yes"/>8<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Dezember 1888 keinen <seg ana="#med">Anfall</seg><lb break="yes"/>mehr habe kan ich allein heim<lb break="yes"/>fahren wen nicht; kan̄ Kleofa<lb break="yes"/>kom̄en mih abholen
+                wen̄ Du<lb break="yes"/>Bruder! oder Schwägerinen, nicht<lb break="yes"/>kom̄en kan̄st von Deinem großen<lb break="yes"/>Hauswesen.<lb break="yes"/><seg ana="#salute"><hi rendition="#r">Ich beschliese mein</hi><lb break="yes"/>Schreiben mit vielen Grüsen<lb break="yes"/>an Deine ganze Familie.<lb break="yes"/>auf ein fröhliches Wiedersehn ?..<lb break="yes"/>Deine gute Schwester u.<lb break="yes"/>wohlmeinende
+                        Schwägerin̄.<lb break="yes"/>es würd Euch Alle gewieß freuen.</seg></p>
 </body>
 </text>
 </TEI>

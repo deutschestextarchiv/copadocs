@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Anna <surname>S.</surname></persName>
 <date type="sent">16.07.1857</date>
-<date type="received"/>
-<persName type="addressee">Direktor:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
 <settlement type="sent">na.a.</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb120h">
@@ -44,12 +44,12 @@
 <birth when="1834"/>
 <death cert="unknown"/>
 <occupation>Zimmermannstochter</occupation>
-<residence>München</residence>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Zimmermann, "ohne Vermögen"</p>
-<p>Anstalt: 1854-58</p>
+<p>Anstalt: <date from="1854" to="1858">1854-58</date></p>
 <p>Brieftypen: pp, po, ap, ao</p>
 </state>
 <trait><p>Melancholie, Geistesstörung (1854)</p></trait>
@@ -110,8 +110,7 @@
 <hi rendition="#r">Ihre danschuldigste</hi><lb break="yes"/><hi rendition="#r">An̄a <surname>S.</surname>
 Schwerbetrübte</hi>
 <hi rendition="#r">Mutter</hi></seg><lb break="yes"/><lb break="yes"/><add>Ich konnte manchen Tag<lb break="yes"/>nicht Arbeiten
-                    vor Kränckung
-<lb break="yes"/>wegen der An̄a</add></p>
+                    vor Kränckung<lb break="yes"/>wegen der An̄a</add></p>
 </body>
 </text>
 </TEI>

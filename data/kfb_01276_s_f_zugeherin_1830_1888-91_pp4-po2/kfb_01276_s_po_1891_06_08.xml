@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Charitas <surname>S.</surname></persName>
 <date type="sent">08.06.1891</date>
-<date type="received"/>
-<persName type="addressee">Bürgermeister:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb1276s">
@@ -44,12 +44,12 @@
 <birth when="1830"/>
 <death cert="unknown"/>
 <occupation>Zugeherin in München</occupation>
-<residence>Hiltenfingen, Augsburg</residence>
+<residence><geo decls="#WGS">48.1620724 10.7194164</geo>Hiltenfingen, Augsburg</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Södner; Vermögen früher: "Sie sei vermögend gewesen"</p>
-<p>Anstalt: 1888-91</p>
+<p>Anstalt: <date from="1888" to="1891">1888-91</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>halluzinatorische Verwirrtheit (1890)</p></trait>
@@ -85,41 +85,35 @@
 <body>
 <pb facs="#image_001"/>
 <opener>
-<dateline>heil u. Pfleg Anstaltd Irrsee am 8 <add>ten</add> Juni<lb break="yes"/>
-<hi rendition="#r">1890. 1891</hi></dateline>
+<dateline>heil u. Pfleg Anstaltd Irrsee am 8 <add>ten</add> Juni<lb break="yes"/><hi rendition="#r">1890. 1891</hi></dateline>
 <salute>Geehrter Herr Bürgermeister!</salute>
 </opener>
 <p>
-<w>Seid dem</w> Sie hier waren, und<lb break="yes"/> mich
-                besuchten in diesem mir<lb break="yes"/> so Unvergesslichen Hause hat<lb break="yes"/> mich sehr gefreut. ich glaubte<lb break="yes"/> darmahls daß ich in nächsten <lb break="yes"/> Tagen abgeholt werde.<lb break="yes"/> Nun kamen aber viele
-                    Tage<lb break="yes"/> wo ich selbst vielte daß ich kaum<lb break="yes"/> anfing
-                krank zu sein mein<lb break="yes"/> Gedächtniß sammelte sich<lb break="yes"/> auch
-                so nach u. nach von stunde<lb break="yes"/> zu stunde der l. Gott vergist <lb break="yes"/> die Seinen nicht daß die in<lb break="yes"/> jedem Hauße auf dem
-                Land <lb break="yes"/> so auch in Städten gezählt<lb break="yes"/> sind wen̄
-                noch so viele Menschen <pb facs="#image_002"/> beisamen sind ob Alt ob Jung<lb break="yes"/> alles muß ein gedragen sein<lb break="yes"/> daß wir auch einen
-                Vater hatten<lb break="yes"/> der für uns Sorge hat beson<lb break="no"/> ders wo
-                wir im Kindlichen<lb break="yes"/> Alter waren und die Ältern<lb break="yes"/> viel
-                    <w>durch machten</w> bis war alle<lb break="yes"/> nur
-                daß nöthigste was wir an<lb break="yes"/> Kleidung brauchten, für Winter<lb break="yes"/> u. Somer so auch Narung es <lb break="yes"/> sind nur so
-                    rückerinnerungen<lb break="yes"/> so kam das Alter mir oft vor<lb break="yes"/>
-                wie eine pflanze wo heute blieth<lb break="yes"/> u. über den andern Tag ver<lb break="no"/> welkt ich meinte oft ich traumte<lb break="yes"/> mir so wurde ich
-				    wach wie froh<lb break="yes"/> war ich daß ich erwachte, u so <lb break="yes"/>
-freute ich mich daß ich noch<lb break="yes"/> Angehörichen habe, die sich<lb break="yes"/> meiner an nahmen besonders<lb break="yes"/> werde mich bemühen
-                meine <pb facs="#image_003"/> Schuld zum theil wieder abtragen<lb break="yes"/> was
-                mein einziger Wunsch wär <del>.</del><lb break="yes"/> so lange zu leben mir
-                verdienen <lb break="yes"/> zu können was ich von der<lb break="yes"/> Gemeinde
-                Hiltenfingen erhilt.<lb break="yes"/> Lieber Herr Bürgermeister ich<lb break="yes"/>
-                danke Ihnen vielmahl für daß<lb break="yes"/> erhaltene, u. bitte Ihnen für <lb break="yes"/> weitere Unterstützung auch näbst<lb break="yes"/> befreung, wo ich
-                mich gewiß<lb break="yes"/> dankbaar auf meine Lebenszeit <lb break="yes"/> sein
-                werde wo ich jeden Tag so auch<lb break="yes"/> schon Wochen rechnete obgleich<lb break="yes"/> ich keine klage haben kan es wurde<lb break="yes"/> mir von aller
-                Seite Erleichterung<lb break="yes"/> verschaft was ich nicht alles zu<lb break="yes"/> papir bringen kan̄ nur mündlich<lb break="yes"/> es dan erzehlen werde,
-                    welche<lb break="yes"/> wohltat alle genießen wo es<lb break="yes"/> möglich ist
-                auch alles auf bithtet<lb break="yes"/> um jedes zu enthlassen um alle <pb facs="#image_004"/> Gesund zu entlaßen <seg ana="#salute">nun schlise<lb break="yes"/> ich mein schreiben mit der bitte<lb break="yes"/> mich
-                        abzuhohlen<lb break="yes"/> viele schöne Grüsse an alle die<lb break="yes"/>
-                    Ihrigen so auch an die bekanten<lb break="yes"/> Geschwisterten u.
+<w>Seid dem</w> Sie hier waren, und<lb break="yes"/>mich
+                besuchten in diesem mir<lb break="yes"/>so Unvergesslichen Hause hat<lb break="yes"/>mich sehr gefreut. ich glaubte<lb break="yes"/>darmahls daß ich in nächsten<lb break="yes"/>Tagen abgeholt werde.<lb break="yes"/>Nun kamen aber viele
+                    Tage<lb break="yes"/>wo ich selbst vielte daß ich kaum<lb break="yes"/>anfing
+                krank zu sein mein<lb break="yes"/>Gedächtniß sammelte sich<lb break="yes"/>auch
+                so nach u. nach von stunde<lb break="yes"/>zu stunde der l. Gott vergist<lb break="yes"/>die Seinen nicht daß die in<lb break="yes"/>jedem Hauße auf dem
+                Land<lb break="yes"/>so auch in Städten gezählt<lb break="yes"/>sind wen̄
+                noch so viele Menschen <pb facs="#image_002"/> beisamen sind ob Alt ob Jung<lb break="yes"/>alles muß ein gedragen sein<lb break="yes"/>daß wir auch einen
+                Vater hatten<lb break="yes"/>der für uns Sorge hat beson<lb break="no"/>ders wo
+                wir im Kindlichen<lb break="yes"/>Alter waren und die Ältern<lb break="yes"/>viel
+                    <w>durch machten</w> bis war alle<lb break="yes"/>nur
+                daß nöthigste was wir an<lb break="yes"/>Kleidung brauchten, für Winter<lb break="yes"/>u. Somer so auch Narung es<lb break="yes"/>sind nur so
+                    rückerinnerungen<lb break="yes"/>so kam das Alter mir oft vor<lb break="yes"/>wie eine pflanze wo heute blieth<lb break="yes"/>u. über den andern Tag ver<lb break="no"/>welkt ich meinte oft ich traumte<lb break="yes"/>mir so wurde ich
+				    wach wie froh<lb break="yes"/>war ich daß ich erwachte, u so<lb break="yes"/>freute ich mich daß ich noch<lb break="yes"/>Angehörichen habe, die sich<lb break="yes"/>meiner an nahmen besonders<lb break="yes"/>werde mich bemühen
+                meine <pb facs="#image_003"/> Schuld zum theil wieder abtragen<lb break="yes"/>was
+                mein einziger Wunsch wär <del>.</del><lb break="yes"/>so lange zu leben mir
+                verdienen<lb break="yes"/>zu können was ich von der<lb break="yes"/>Gemeinde
+                Hiltenfingen erhilt.<lb break="yes"/>Lieber Herr Bürgermeister ich<lb break="yes"/>danke Ihnen vielmahl für daß<lb break="yes"/>erhaltene, u. bitte Ihnen für<lb break="yes"/>weitere Unterstützung auch näbst<lb break="yes"/>befreung, wo ich
+                mich gewiß<lb break="yes"/>dankbaar auf meine Lebenszeit<lb break="yes"/>sein
+                werde wo ich jeden Tag so auch<lb break="yes"/>schon Wochen rechnete obgleich<lb break="yes"/>ich keine klage haben kan es wurde<lb break="yes"/>mir von aller
+                Seite Erleichterung<lb break="yes"/>verschaft was ich nicht alles zu<lb break="yes"/>papir bringen kan̄ nur mündlich<lb break="yes"/>es dan erzehlen werde,
+                    welche<lb break="yes"/>wohltat alle genießen wo es<lb break="yes"/>möglich ist
+                auch alles auf bithtet<lb break="yes"/>um jedes zu enthlassen um alle <pb facs="#image_004"/> Gesund zu entlaßen <seg ana="#salute">nun schlise<lb break="yes"/>ich mein schreiben mit der bitte<lb break="yes"/>mich
+                        abzuhohlen<lb break="yes"/>viele schöne Grüsse an alle die<lb break="yes"/>Ihrigen so auch an die bekanten<lb break="yes"/>Geschwisterten u.
                     Verwanten</seg></p>
-<p><seg ana="#signed"><hi rendition="#r">Ihr dankschulde<lb break="yes"/>
-Ccharitas <surname>S.</surname></hi></seg>
+<p><seg ana="#signed"><hi rendition="#r">Ihr dankschulde<lb break="yes"/>Ccharitas <surname>S.</surname></hi></seg>
 </p>
 </body>
 </text>

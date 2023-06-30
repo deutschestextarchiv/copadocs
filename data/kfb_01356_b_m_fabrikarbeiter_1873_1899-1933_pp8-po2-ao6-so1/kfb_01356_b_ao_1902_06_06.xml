@@ -30,13 +30,13 @@
 <creation>
 <persName type="sender">Katharina <surname>B.</surname></persName>
 <date type="sent">06.06.1902</date>
-<date type="received"/>
-<persName type="addressee">Medizinalrat:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Augsburg</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
-<person sex="m" xml:id="kfb1356">
+<person sex="m" xml:id="kfb1356b">
 <persName>
 <forename>Josef</forename>
 <surname>B.</surname>
@@ -44,12 +44,12 @@
 <birth when="1873"/>
 <death cert="unknown"/>
 <occupation>Fabrikarbeiter, Weber</occupation>
-<residence>Augsburg</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bruder: Kammgarnspinnerei</p>
-<p>Anstalt: 1899-1933</p>
+<p>Anstalt: <date from="1899" to="1933">1899-1933</date></p>
 <p>Brieftypen: pp, po, ao, lebenslauf</p>
 </state>
 <trait><p>Depression, [Suizidalität], Angstanfälle (1899), Halluzination (1908)</p></trait>
@@ -84,19 +84,13 @@
 <opener>
 <dateline><hi rendition="#r">Augsburg den 6<hi rendition="#sup">ten</hi> Juni 1902</hi></dateline>
 <salute><hi rendition="#c">Hochgehertter Herr <add place="above">kg</add>
-<w>Medizinnahl<lb break="no"/> Raht!</w></hi></salute>
+<w>Medizinnahl<lb break="no"/>Raht!</w></hi></salute>
 </opener>
-<p> Ich möchte Ihnen wieder, um<lb break="yes"/> eine kleine nachricht bitten,<lb break="yes"/>
-                über daß befinden meines<lb break="yes"/> kranken Sohnes Joseph.<lb break="yes"/>
-                Herr kg. Medizinahl-Raht ich<lb break="yes"/> bitte darf ich ihn nächstens<lb break="yes"/> besuchen, ach könte <del>i</del>ich ihn mit<lb break="yes"/> heim nehmen. Ich
-                Danke Ihnen<lb break="yes"/> für alles Herr kg. <w>Medizinahl<lb break="no"/>
-<hi rendition="#c">Raht.</hi></w><lb break="yes"/>
-<seg ana="#salute">hochachtungfoll</seg><lb break="yes"/>
-<hi rendition="#r"><seg ana="#signed">Frau Katharina<lb break="yes"/>
-<surname>B.</surname> Wittwe</seg></hi></p>
+<p> Ich möchte Ihnen wieder, um<lb break="yes"/>eine kleine nachricht bitten,<lb break="yes"/>über daß befinden meines<lb break="yes"/>kranken Sohnes Joseph.<lb break="yes"/>Herr kg. Medizinahl-Raht ich<lb break="yes"/>bitte darf ich ihn nächstens<lb break="yes"/>besuchen, ach könte <del>i</del>ich ihn mit<lb break="yes"/>heim nehmen. Ich
+                Danke Ihnen<lb break="yes"/>für alles Herr kg. <w>Medizinahl<lb break="no"/><hi rendition="#c">Raht.</hi></w><lb break="yes"/><seg ana="#salute">hochachtungfoll</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Frau Katharina<lb break="yes"/><surname>B.</surname> Wittwe</seg></hi></p>
 <p><add place="margin"><hi rendition="#r">vieleicht, könt ich es probiern</hi></add></p>
-<p><handShift scribe="arzt"/>7.VI.02 Besuch steht nichts im Wege;<lb break="yes"/> Entlassung wegen
-                Gewaltthätigkeit nicht<lb break="yes"/> am Platze. <unclear>sors. Les zuk</unclear>
+<p><handShift scribe="arzt"/>7.VI.02 Besuch steht nichts im Wege;<lb break="yes"/>Entlassung wegen
+                Gewaltthätigkeit nicht<lb break="yes"/>am Platze. <unclear>sors. Les zuk</unclear>
 </p>
 </body>
 </text>

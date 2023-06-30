@@ -31,10 +31,10 @@
 <creation>
 <persName type="sender">Maria Cleofa <surname>G.</surname></persName>
 <date type="sent">24.11.1893</date>
-<date type="received"/>
-<persName type="addressee">: Xaver <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Xaver <surname>n.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2827g">
@@ -45,12 +45,12 @@
 <birth when="1845"/>
 <death cert="unknown"/>
 <occupation>Bauerstochter</occupation>
-<residence>Enigshausen, Illertissen</residence>
+<residence><geo decls="#WGS">48.1082257 10.2728225</geo>Enigshausen, Illertissen</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bauern</p>
-<p>Anstalt: 1877-1923</p>
+<p>Anstalt: <date from="1877" to="1923">1877-1923</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Manie (1923)</p></trait>
@@ -85,31 +85,26 @@
 <body>
 <pb facs="#image_040"/>
 <opener>
-<dateline><hi rendition="#c">Heilanstalt Irs<hi rendition="#i">ee</hi></hi><lb break="yes"/>
-<hi rendition="#r">den̄ 24<hi rendition="#sup"><hi rendition="#u">t</hi></hi> November<lb break="yes"/> 1893.</hi></dateline>
-<salute><hi rendition="#c">Lieber Doktor Xaverius!</hi><lb break="yes"/>
-<add hand="arzt">(<hi rendition="#i">Schlicting</hi>)</add></salute>
+<dateline><hi rendition="#c">Heilanstalt Irs<hi rendition="#i">ee</hi></hi><lb break="yes"/><hi rendition="#r">den̄ 24<hi rendition="#sup"><hi rendition="#u">t</hi></hi> November<lb break="yes"/>1893.</hi></dateline>
+<salute><hi rendition="#c">Lieber Doktor Xaverius!</hi><lb break="yes"/><add hand="arzt">(<hi rendition="#i">Schlicting</hi>)</add></salute>
 </opener>
 <p>
 <add hand="arzt">/: Begin̄ des <unclear>Parongram̄</unclear>/</add></p>
 <p>Gott zum Gruß! </p>
-<p>Ich wünsche. Glük, Heil, u.<lb break="yes"/> Segen, zu Deinen Namensfest<lb break="yes"/> Bete
-                thu, mih besuchen mein<lb break="yes"/> Mein <seg ana="#med">Magenleiden</seg> u.
-                    <seg ana="#med"><w>Nerfen<lb break="no"/> leiden</w></seg>. Nun in Urlaub nach
-                    <lb break="yes"/> Würtenberg.</p>
-<p>vierzehn Jahre ist lang, ich<lb break="yes"/> bin sehr arm, mein unglüklicher<lb break="yes"/>
-                Bruder u. Schwägerin̄ sam̄t<lb break="yes"/> Kinder <seg ana="#metaling">ich weis keine Adresse<lb break="yes"/> schreibe mir ob Du den
-                        Brief<lb break="yes"/> erhalten</seg> wen <seg ana="#med">schwache
-                        leidende<lb break="yes"/> Nerfen</seg> u. <seg ana="#med">Magenleide</seg>
-                ich muß<pb facs="#image_041"/> Mein lieber Xaver mein<lb break="yes"/> Onkel ist
-                gestorben dar mir<lb break="yes"/> 3 Mark fünf eimahl zehn<lb break="yes"/> Mark
-                mein unglüklicher <lb break="yes"/> Bruder u. Schwägerin̄ haben<lb break="yes"/> seit 27. Jahren 27000 Mark<lb break="yes"/> Schaden in Roß
-                Viehstall heuer<lb break="yes"/> sehr wenig Futter. O! mein<lb break="yes"/> lieber
-                theurer Xaver.<lb break="yes"/> thu mich besuchen nehme<lb break="yes"/> zu dir
-                    Ulm.<lb break="yes"/>
-<seg ana="#salute">Viele <w>Grüß</w><w>an</w> Dich<lb break="yes"/> u. die Denigen schreibe<lb break="yes"/> mir
+<p>Ich wünsche. Glük, Heil, u.<lb break="yes"/>Segen, zu Deinen Namensfest<lb break="yes"/>Bete
+                thu, mih besuchen mein<lb break="yes"/>Mein <seg ana="#med">Magenleiden</seg> u.
+                    <seg ana="#med"><w>Nerfen<lb break="no"/>leiden</w></seg>. Nun in Urlaub nach<lb break="yes"/>Würtenberg.</p>
+<p>vierzehn Jahre ist lang, ich<lb break="yes"/>bin sehr arm, mein unglüklicher<lb break="yes"/>Bruder u. Schwägerin̄ sam̄t<lb break="yes"/>Kinder <seg ana="#metaling">ich weis keine Adresse<lb break="yes"/>schreibe mir ob Du den
+                        Brief<lb break="yes"/>erhalten</seg> wen <seg ana="#med">schwache
+                        leidende<lb break="yes"/>Nerfen</seg> u. <seg ana="#med">Magenleide</seg>
+                ich muß<pb facs="#image_041"/> Mein lieber Xaver mein<lb break="yes"/>Onkel ist
+                gestorben dar mir<lb break="yes"/>3 Mark fünf eimahl zehn<lb break="yes"/>Mark
+                mein unglüklicher<lb break="yes"/>Bruder u. Schwägerin̄ haben<lb break="yes"/>seit 27. Jahren 27000 Mark<lb break="yes"/>Schaden in Roß
+                Viehstall heuer<lb break="yes"/>sehr wenig Futter. O! mein<lb break="yes"/>lieber
+                theurer Xaver.<lb break="yes"/>thu mich besuchen nehme<lb break="yes"/>zu dir
+                    Ulm.<lb break="yes"/><seg ana="#salute">Viele <w>Grüß</w><w>an</w> Dich<lb break="yes"/>u. die Denigen schreibe<lb break="yes"/>mir
                         Antwort.<lb break="yes"/></seg> Adresse Maria Cleofa
-                    <surname>G.</surname><lb break="yes"/> in der Heil u. Pfleganstalt<lb break="yes"/> Kaufbeuren.</p>
+                    <surname>G.</surname><lb break="yes"/>in der Heil u. Pfleganstalt<lb break="yes"/>Kaufbeuren.</p>
 </body>
 </text>
 </TEI>

@@ -35,12 +35,12 @@
 </fileDesc>
 <profileDesc>
 <creation>
-<persName type="sender"> <surname/></persName>
+<persName type="sender">n.a. <surname>n.</surname></persName>
 <date type="sent">11.11.1862</date>
-<date type="received"/>
-<persName type="addressee">Verwalter:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwalter: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Rennertshofen</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb846h">
@@ -51,12 +51,12 @@
 <birth when="1816"/>
 <death when="1888"/>
 <occupation>Schäfflerstochter</occupation>
-<residence>Rennertshofen, Monheim</residence>
+<residence><geo decls="#WGS">48.7564558 11.0494652</geo>Rennertshofen, Monheim</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Schäffler</p>
-<p>Anstalt: 1855-88</p>
+<p>Anstalt: <date from="1855" to="1888">1855-88</date></p>
 <p>Brieftypen: pp, po, ap, ao</p>
 </state>
 <trait><p>Geisteskrankheit, Verrücktheit, geistig-körperliche Müdigkeit (1855)</p></trait>
@@ -90,31 +90,23 @@
 <body>
 <pb facs="#image_005"/>
 <opener>
-<dateline>Ren̄ertshofen 11/11 62.<lb break="yes"/>
-<add hand="arzt">pr. 13 Nov.</add><lb break="yes"/>
-<add hand="unbekannt"><hi rendition="#u">541</hi></add></dateline>
+<dateline>Ren̄ertshofen 11/11 62.<lb break="yes"/><add hand="arzt">pr. 13 Nov.</add><lb break="yes"/><add hand="unbekannt"><hi rendition="#u">541</hi></add></dateline>
 <salute><hi rendition="#c">Verehrungswürdiger Hr: Verwalter!</hi></salute>
 </opener>
 <p>
-<space/> Ich kom̄e wider, Ihnen mit einer Bitte <w>zu</w><w>belästigen</w><lb break="yes"/> Sie haben mir
-                ja versprochen selbes thun zu dürfen,<lb break="yes"/> Anliegend erhalten Sie eine
-                Schachtl mit der<lb break="yes"/> Adresse an Karoline <surname>H.</surname>,
-                ich bitte<lb break="yes"/> Ihnen daher recht herzlich selbe, wo nicht ihr selbst<lb break="yes"/> der Fr: Oberwärterin zu übergeben, mit einen<lb break="yes"/> Gruß
-                u. bitte selbe meiner Schwester zu<lb break="yes"/> geben, villeicht hat sie doch
-                auch wider eine Freude.<lb break="yes"/> Vergangenen Freitag
-                erhielt ich <add place="above">von meiner Schwester</add> wie auch vom Hrrn<lb break="yes"/> Direktor einen Brief welches mich unentlich<lb break="yes"/>
-freute, ihr Brief war nathürlich recht ver<lb break="no"/>
-                wirrt, ich erkan̄te doch daraus <del>z</del> das sie sich <pb facs="#image_00X"/>
+<space/> Ich kom̄e wider, Ihnen mit einer Bitte <w>zu</w><w>belästigen</w><lb break="yes"/>Sie haben mir
+                ja versprochen selbes thun zu dürfen,<lb break="yes"/>Anliegend erhalten Sie eine
+                Schachtl mit der<lb break="yes"/>Adresse an Karoline <surname>H.</surname>,
+                ich bitte<lb break="yes"/>Ihnen daher recht herzlich selbe, wo nicht ihr selbst<lb break="yes"/>der Fr: Oberwärterin zu übergeben, mit einen<lb break="yes"/>Gruß
+                u. bitte selbe meiner Schwester zu<lb break="yes"/>geben, villeicht hat sie doch
+                auch wider eine Freude.<lb break="yes"/>Vergangenen Freitag
+                erhielt ich <add place="above">von meiner Schwester</add> wie auch vom Hrrn<lb break="yes"/>Direktor einen Brief welches mich unentlich<lb break="yes"/>freute, ihr Brief war nathürlich recht ver<lb break="no"/>wirrt, ich erkan̄te doch daraus <del>z</del> das sie sich <pb facs="#image_00X"/>
 <!--Seite fehlt!-->
 <pb facs="#image_006"/><add hand="arzt" place="top"><hi rendition="#c"><hi rendition="#u">56.</hi>
 <space/>
-<hi rendition="#u">544.</hi></hi></add>
-<lb break="yes"/><hi rendition="#r">Eine Schachtel mit Obst und <lb break="yes"/>Backwerk, von der die <lb break="yes"/>Adresse heruntergerissen <lb break="yes"/>war, ist heute für die <lb break="yes"/>Patientin
-                        <surname>H.</surname>
-<lb break="yes"/>angekomen. <lb break="yes"/>am 14. <hi rendition="#i">Nov</hi>.
-                    1862. <lb break="yes"/>Gr.</hi>
-<lb break="yes"/><del>Erhalten <hi rendition="#i">eodem</hi></del>
-<lb break="yes"/>Empfang bescheinigt <lb break="yes"/>und eine leere Schachtel <lb break="yes"/>retour. <hi rendition="#i">eodem</hi></p>
+<hi rendition="#u">544.</hi></hi></add><lb break="yes"/><hi rendition="#r">Eine Schachtel mit Obst und<lb break="yes"/>Backwerk, von der die<lb break="yes"/>Adresse heruntergerissen<lb break="yes"/>war, ist heute für die<lb break="yes"/>Patientin
+                        <surname>H.</surname><lb break="yes"/>angekomen.<lb break="yes"/>am 14. <hi rendition="#i">Nov</hi>.
+                    1862.<lb break="yes"/>Gr.</hi><lb break="yes"/><del>Erhalten <hi rendition="#i">eodem</hi></del><lb break="yes"/>Empfang bescheinigt<lb break="yes"/>und eine leere Schachtel<lb break="yes"/>retour. <hi rendition="#i">eodem</hi></p>
 </body>
 </text>
 </TEI>

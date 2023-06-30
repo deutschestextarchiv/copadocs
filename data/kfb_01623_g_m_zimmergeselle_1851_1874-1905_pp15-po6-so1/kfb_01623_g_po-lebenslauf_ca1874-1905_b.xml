@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Johannes <surname>G.</surname></persName>
 <date type="sent">ca. 1874-1905</date>
-<date type="received"/>
-<persName type="addressee">:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb1623g">
@@ -44,12 +44,12 @@
 <birth when="1851"/>
 <death when="1905"/>
 <occupation>Zimmergeselle</occupation>
-<residence>Riedheim, Günzburg</residence>
+<residence><geo decls="#WGS">48.4613104 10.1908503</geo>Riedheim, Günzburg</residence>
 <faith>protestantisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Söldner</p>
-<p>Anstalt: 1874-1905</p>
+<p>Anstalt: <date from="1874" to="1905">1874-1905</date></p>
 <p>Brieftypen: pp, po, Lebenslauf, Liedertafel</p>
 </state>
 <trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
@@ -83,28 +83,27 @@
 <body>
 <pb facs="#image_001"/>
 <p>
-<hi rendition="#r">Beschreibung meines Lebens-Laufes!</hi><lb break="yes"/> Ich bin
-                geboren in <hi rendition="#i">Riedheim</hi> 1851. den 19<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> März<lb break="yes"/> In meinem 5 Jahr hatte
-                ich das <seg ana="#med">Scharlachfieber</seg><lb break="yes"/>
-<seg ana="#metaling">Im sechten Jahr kam ich in die allgemeine Schule<lb break="yes"/> Im Jahr 1864 kam ich aus der Werktagsschule</seg><lb break="yes"/> Im Jahr
-                1866 kam ich in die Lehre als Zim̄erjunge<lb break="yes"/> Zu Herrn Michael
-                    <surname>H.</surname> Zim̄ermeister Leipheim<lb break="yes"/> Wo
-                ich gelernt hatte das Zim̄erhandwerk in Riedheim<lb break="yes"/> Den ersten
-                Tag kam ich kleich fest ans Ruder?<lb break="yes"/> Denn der Meister war sehr
-                gestreng mit dem Hausthier<lb break="yes"/> Er mußte der schwersten Arbeit
-                    <del>k</del> gleich vorstehen<lb break="yes"/> Und ich war sehr ängstlich und
-                sehr empfändlig<lb break="yes"/> Deswegen glaube ich das der größte Fehler<lb break="yes"/> an dieser meiner bisherigen Krankheit war<lb break="yes"/> weil
-                ich von Hause nicht vortkam war ich schüchtern<lb break="yes"/> und sehr ängstlig, der Zimerflegelmeister hat<lb break="yes"/> das
+<hi rendition="#r">Beschreibung meines Lebens-Laufes!</hi><lb break="yes"/>Ich bin
+                geboren in <hi rendition="#i">Riedheim</hi> 1851. den 19<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> März<lb break="yes"/>In meinem 5 Jahr hatte
+                ich das <seg ana="#med">Scharlachfieber</seg><lb break="yes"/><seg ana="#metaling">Im sechten Jahr kam ich in die allgemeine Schule<lb break="yes"/>Im Jahr 1864 kam ich aus der Werktagsschule</seg><lb break="yes"/>Im Jahr
+                1866 kam ich in die Lehre als Zim̄erjunge<lb break="yes"/>Zu Herrn Michael
+                    <surname>H.</surname> Zim̄ermeister Leipheim<lb break="yes"/>Wo
+                ich gelernt hatte das Zim̄erhandwerk in Riedheim<lb break="yes"/>Den ersten
+                Tag kam ich kleich fest ans Ruder?<lb break="yes"/>Denn der Meister war sehr
+                gestreng mit dem Hausthier<lb break="yes"/>Er mußte der schwersten Arbeit
+                    <del>k</del> gleich vorstehen<lb break="yes"/>Und ich war sehr ängstlich und
+                sehr empfändlig<lb break="yes"/>Deswegen glaube ich das der größte Fehler<lb break="yes"/>an dieser meiner bisherigen Krankheit war<lb break="yes"/>weil
+                ich von Hause nicht vortkam war ich schüchtern<lb break="yes"/>und sehr ängstlig, der Zimerflegelmeister hat<lb break="yes"/>das
                 kleine Hänschen gar zu gestrenge behandelt<pb facs="#image_002"/> Warum? ich mußte
-                (Herr Docktor!) gleich mit<lb break="yes"/> dem Meister welcher sehr
-                g<del>l</del>roß war einstechen<lb break="yes"/> das heist mit der Axt zu zweit
-				    gegen einanden<lb break="yes"/> hauen an einem unbehauenen Baum aso!? <seg ana="#pic">[Dreieck]</seg><lb break="yes"/> Ja und i bi halt so gloi gwea das i
-                    hät<lb break="yes"/> köna am Moischtar dur sai Kradal<lb break="yes"/> springa
-                und er <del>er</del> hat en firgtaga<lb break="yes"/> graua Bart ket Ho! hoi! hau i
-                    nau<lb break="yes"/> denk, des spielt amaul net schlecht<lb break="yes"/> kloi
-                da erschta halba Tag dau ket<lb break="yes"/> mer <w>d</w><w>Freüd</w> vergau aber der<lb break="yes"/> hat mi scho so an
-                TSchlauf na kschlaga<lb break="yes"/> daß e, be, an Balka na kfala nau<lb break="yes"/> hatt er gsait des maul binihalt a -<lb break="yes"/> weng zhizeg
-                gwe Bua sduad guat<lb break="yes"/> von jung gewohnt alt gotahn! Aber!</p>
+                (Herr Docktor!) gleich mit<lb break="yes"/>dem Meister welcher sehr
+                g<del>l</del>roß war einstechen<lb break="yes"/>das heist mit der Axt zu zweit
+				    gegen einanden<lb break="yes"/>hauen an einem unbehauenen Baum aso!? <seg ana="#pic">[Dreieck]</seg><lb break="yes"/>Ja und i bi halt so gloi gwea das i
+                    hät<lb break="yes"/>köna am Moischtar dur sai Kradal<lb break="yes"/>springa
+                und er <del>er</del> hat en firgtaga<lb break="yes"/>graua Bart ket Ho! hoi! hau i
+                    nau<lb break="yes"/>denk, des spielt amaul net schlecht<lb break="yes"/>kloi
+                da erschta halba Tag dau ket<lb break="yes"/>mer <w>d</w><w>Freüd</w> vergau aber der<lb break="yes"/>hat mi scho so an
+                TSchlauf na kschlaga<lb break="yes"/>daß e, be, an Balka na kfala nau<lb break="yes"/>hatt er gsait des maul binihalt a -<lb break="yes"/>weng zhizeg
+                gwe Bua sduad guat<lb break="yes"/>von jung gewohnt alt gotahn! Aber!</p>
 </body>
 </text>
 </TEI>

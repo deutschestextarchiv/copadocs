@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Ludwig <surname>E.</surname></persName>
 <date type="sent">28.11.1877</date>
-<date type="received"/>
-<persName type="addressee"> Direktor:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee"> Direktor: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Kempten</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb966b">
@@ -43,12 +43,12 @@
 <birth when="1851"/>
 <death when="1904"/>
 <occupation>Buchhalter, Kaufmann</occupation>
-<residence>Kempten</residence>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: verheiratet</p>
 <p>Eltern: Huckler</p>
-<p>Anstalt: 1877-1904</p>
+<p>Anstalt: <date from="1877" to="1904">1877-1904</date></p>
 <p>Brieftypen: pp, po, ao</p>
 </state>
 <trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
@@ -81,20 +81,19 @@
 <body>
 <pb facs="#image_087"/>
 <opener>
-<dateline><hi rendition="#r">Kempten d. 28/11. 77.. <lb break="yes"/> <add hand="arzt">M. 29. <unclear/> 77</add></hi></dateline>
+<dateline><hi rendition="#r">Kempten d. 28/11. 77..<lb break="yes"/><add hand="arzt">M. 29. <unclear/> 77</add></hi></dateline>
 <salute>Euer Wohlgeborn Herrn Direktor!
                 </salute>
 </opener>
-<p><space/> Schon wider muß ich Sie mit einer <lb break="yes"/>Bitte belästigen, nämlich die Eltern <lb break="yes"/>des H. Georg
-                    <surname>B.</surname> sowie auch ich sind <lb break="yes"/>der Ansicht, das es
-                mit der Gesundheit <lb break="yes"/>des H. <surname>B.</surname>
-<add place="above">besser</add> wäre, wann man einen Versuch <lb break="yes"/>machen
-                wirde Ihn auf einige Tage zu Hause <lb break="yes"/>zu nehmen, indem er auch nichts
-                anders <lb break="yes"/>verlangt als das er zu seinen Eltern <lb break="yes"/>will
-                auch bei selben nur Gesund werden <lb break="yes"/>kann ist stets seine Aussage; </p><p>Was sagen nun Sie Geehrtester Herr <lb break="yes"/>Direktor dazu,
-                bitte Sie freundlichst, <lb break="yes"/>wann möglich geben Sie mir noch vor <lb break="yes"/>komenten Sonntag Nachricht, <seg ana="#salute">im Voraus <lb break="yes"/>Ihnen bestens dankend, zeichnet <lb break="yes"/><hi rendition="#r">mit aller
-                    Hochachtung <lb break="yes"/>ergebenst</hi></seg>
-<lb break="yes"/>Gemächtigter der Familie Buk <seg ana="#signed"><hi rendition="#i">Lud<hi rendition="#u">w.
+<p><space/> Schon wider muß ich Sie mit einer<lb break="yes"/>Bitte belästigen, nämlich die Eltern<lb break="yes"/>des H. Georg
+                    <surname>B.</surname> sowie auch ich sind<lb break="yes"/>der Ansicht, das es
+                mit der Gesundheit<lb break="yes"/>des H. <surname>B.</surname>
+<add place="above">besser</add> wäre, wann man einen Versuch<lb break="yes"/>machen
+                wirde Ihn auf einige Tage zu Hause<lb break="yes"/>zu nehmen, indem er auch nichts
+                anders<lb break="yes"/>verlangt als das er zu seinen Eltern<lb break="yes"/>will
+                auch bei selben nur Gesund werden<lb break="yes"/>kann ist stets seine Aussage; </p><p>Was sagen nun Sie Geehrtester Herr<lb break="yes"/>Direktor dazu,
+                bitte Sie freundlichst,<lb break="yes"/>wann möglich geben Sie mir noch vor<lb break="yes"/>komenten Sonntag Nachricht, <seg ana="#salute">im Voraus<lb break="yes"/>Ihnen bestens dankend, zeichnet<lb break="yes"/><hi rendition="#r">mit aller
+                    Hochachtung<lb break="yes"/>ergebenst</hi></seg><lb break="yes"/>Gemächtigter der Familie Buk <seg ana="#signed"><hi rendition="#i">Lud<hi rendition="#u">w.
                     <surname>E.</surname></hi>.</hi></seg></p>
 </body>
 </text>

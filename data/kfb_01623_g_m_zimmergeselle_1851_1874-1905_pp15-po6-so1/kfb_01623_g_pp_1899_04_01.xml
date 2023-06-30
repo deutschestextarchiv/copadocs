@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Johannes <surname>G.</surname></persName>
 <date type="sent">01.04.1899</date>
-<date type="received"/>
-<persName type="addressee">Bruder:  <surname>G.</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: n.a. <surname>G.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb1623g">
@@ -44,12 +44,12 @@
 <birth when="1851"/>
 <death when="1905"/>
 <occupation>Zimmergeselle</occupation>
-<residence>Riedheim, Günzburg</residence>
+<residence><geo decls="#WGS">48.4613104 10.1908503</geo>Riedheim, Günzburg</residence>
 <faith>protestantisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Söldner</p>
-<p>Anstalt: 1874-1905</p>
+<p>Anstalt: <date from="1874" to="1905">1874-1905</date></p>
 <p>Brieftypen: pp, po, Lebenslauf, Liedertafel</p>
 </state>
 <trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
@@ -91,31 +91,25 @@
 <dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> den 1. April 1899.</hi></dateline>
 <salute><hi rendition="#c">Lieber Bruder!</hi></salute>
 </opener>
-<p> Es sind fast 1.1/4 Iahr, daß ich<lb break="yes"/> den letzten Brief, welchen du<lb break="yes"/> an mich geschrieben hast empfing<lb break="yes"/>
-<seg ana="#inst">Ich war gerade in<del>m</del> unserm<lb break="yes"/> Garten mit
-                    Ästen <w>zusamen<lb break="no"/>tragen</w> beschäfftigt: Der Herr<lb break="yes"/>
-                    Ober-Arzt. <hi rendition="#i">Julius</hi> hat in mir<lb break="yes"/> in meine
-                    Hände selbst gegeben.</seg><lb break="yes"/> Ich war deßwegen so lange<lb break="yes"/> in guter Ruhe, weil der Inhalt<lb break="yes"/> mich beruhigt
-                    hat.</p><p> Schreibe mir so bald als möglich<lb break="yes"/> und
-                sende in auf die billichste<lb break="yes"/> Post. Bist Du gesund Frau<lb break="yes"/> u deine ganze Fa<del>l</del>milie!<lb break="yes"/> Schwestern,
-                Katharina und<lb break="yes"/> Grethe in Setzingen.<pb facs="#image_060"/> Lieber
-                Bruder es geht mir<lb break="yes"/> gegenwärtig nicht schlecht, blos<lb break="yes"/> habe ich keine passende Arbeit<lb break="yes"/> Ich möchte halt am liebsten<lb break="yes"/> wieder nach Riedheim, da würde<lb break="yes"/> man froh sein,
-                wenn man wüste<lb break="yes"/> daß Ich gesund und zu jeder<lb break="yes"/> Arbeit
-                tauglich bin, Du hast<lb break="yes"/> geschrieben, daß Die Zim̄erleute<lb break="yes"/> und Maurer auch keine Arbeit<lb break="yes"/> hätten in Langenau.
-                Ich muß<lb break="yes"/> ja nicht in Langenau sein.<lb break="yes"/> Ich
-                    <add>bin</add> doch Bürger im Pfarrdorf<lb break="yes"/> Riedheim. Aber wen
-                    die<lb break="yes"/> Gemeinde Riedheim mich nicht<lb break="yes"/> haben will,
-                weil unser Bruder<lb break="yes"/> Matthes nicht mehr lebt, dann<lb break="yes"/>
-<del>nhst</del> ists Ihre Schuld. Grus<lb break="yes"/> an Iedermann in Riedheim<lb break="yes"/> und Langenau.<pb facs="#image_061"/>
-<seg ana="#inst">Von Leipheim ist auch Einer<lb break="yes"/> in meiner
-                        Abtheilung.<lb break="yes"/> Die Anstalt ist in verschiedene<lb break="yes"/> Abtheilungen eingetheilt.<lb break="yes"/> A.B.C.D. u F wie in den<lb break="yes"/> Kasernen.</seg> Neues weis Ich<lb break="yes"/> nichts, als
-                daß noch rauh<lb break="yes"/> und kalt ist, in Langenau <lb break="yes"/> werden
-                die Felder auch<lb break="yes"/> nicht viel voran gehen weil<lb break="yes"/> es an
-                Sonnenschein fehlt.<lb break="yes"/> wird schon noch kom̄en.<lb break="yes"/>
-<seg ana="#salute">Ich schließe nun meinen<lb break="yes"/> Brief in der Hoffnung<lb break="yes"/> auf
-                ein gutes Jahr wirds<lb break="yes"/> Jedermann glauben <add>u</add> annehmen<lb break="yes"/> verbleibe<lb break="yes"/>
-<hi rendition="#c">dein Bruder</hi></seg><lb break="yes"/>
-<hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Johannes</hi>
+<p> Es sind fast 1.1/4 Iahr, daß ich<lb break="yes"/>den letzten Brief, welchen du<lb break="yes"/>an mich geschrieben hast empfing<lb break="yes"/><seg ana="#inst">Ich war gerade in<del>m</del> unserm<lb break="yes"/>Garten mit
+                    Ästen <w>zusamen<lb break="no"/>tragen</w> beschäfftigt: Der Herr<lb break="yes"/>Ober-Arzt. <hi rendition="#i">Julius</hi> hat in mir<lb break="yes"/>in meine
+                    Hände selbst gegeben.</seg><lb break="yes"/>Ich war deßwegen so lange<lb break="yes"/>in guter Ruhe, weil der Inhalt<lb break="yes"/>mich beruhigt
+                    hat.</p><p> Schreibe mir so bald als möglich<lb break="yes"/>und
+                sende in auf die billichste<lb break="yes"/>Post. Bist Du gesund Frau<lb break="yes"/>u deine ganze Fa<del>l</del>milie!<lb break="yes"/>Schwestern,
+                Katharina und<lb break="yes"/>Grethe in Setzingen.<pb facs="#image_060"/> Lieber
+                Bruder es geht mir<lb break="yes"/>gegenwärtig nicht schlecht, blos<lb break="yes"/>habe ich keine passende Arbeit<lb break="yes"/>Ich möchte halt am liebsten<lb break="yes"/>wieder nach Riedheim, da würde<lb break="yes"/>man froh sein,
+                wenn man wüste<lb break="yes"/>daß Ich gesund und zu jeder<lb break="yes"/>Arbeit
+                tauglich bin, Du hast<lb break="yes"/>geschrieben, daß Die Zim̄erleute<lb break="yes"/>und Maurer auch keine Arbeit<lb break="yes"/>hätten in Langenau.
+                Ich muß<lb break="yes"/>ja nicht in Langenau sein.<lb break="yes"/>Ich
+                    <add>bin</add> doch Bürger im Pfarrdorf<lb break="yes"/>Riedheim. Aber wen
+                    die<lb break="yes"/>Gemeinde Riedheim mich nicht<lb break="yes"/>haben will,
+                weil unser Bruder<lb break="yes"/>Matthes nicht mehr lebt, dann<lb break="yes"/><del>nhst</del> ists Ihre Schuld. Grus<lb break="yes"/>an Iedermann in Riedheim<lb break="yes"/>und Langenau.<pb facs="#image_061"/>
+<seg ana="#inst">Von Leipheim ist auch Einer<lb break="yes"/>in meiner
+                        Abtheilung.<lb break="yes"/>Die Anstalt ist in verschiedene<lb break="yes"/>Abtheilungen eingetheilt.<lb break="yes"/>A.B.C.D. u F wie in den<lb break="yes"/>Kasernen.</seg> Neues weis Ich<lb break="yes"/>nichts, als
+                daß noch rauh<lb break="yes"/>und kalt ist, in Langenau<lb break="yes"/>werden
+                die Felder auch<lb break="yes"/>nicht viel voran gehen weil<lb break="yes"/>es an
+                Sonnenschein fehlt.<lb break="yes"/>wird schon noch kom̄en.<lb break="yes"/><seg ana="#salute">Ich schließe nun meinen<lb break="yes"/>Brief in der Hoffnung<lb break="yes"/>auf
+                ein gutes Jahr wirds<lb break="yes"/>Jedermann glauben <add>u</add> annehmen<lb break="yes"/>verbleibe<lb break="yes"/><hi rendition="#c">dein Bruder</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Johannes</hi>
 <surname>G.</surname></seg></hi></p>
 </body>
 </text>

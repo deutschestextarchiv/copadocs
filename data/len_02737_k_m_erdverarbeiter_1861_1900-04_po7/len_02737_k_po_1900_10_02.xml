@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Karl <surname>K.</surname></persName>
 <date type="sent">02.10.1900</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Kriegsministerium in Berlin</persName>
 <settlement type="sent">Lengerich</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="len2737k">
@@ -44,15 +44,15 @@
 <birth when="1861-02-22"/>
 <death cert="unknown"/>
 <occupation>Erdverarbeiter</occupation>
-<residence>Geburtsort: Klein-Schimanen; Wohnort: Bochum</residence>
+<residence><geo decls="#WGS">51.4818111 7.2196635</geo>Geburtsort: Klein-Schimanen; Wohnort: Bochum</residence>
 <faith>protestantisch</faith>
 <state>
 <p>Familienstand: ledig</p>
-<p>Eltern: Vater: , Mutter: ohne</p>
-<p>Anstalt: 23.05.1900-05.06.1904</p>
+<p>Eltern: Vater: n.a., Mutter: ohne</p>
+<p>Anstalt: <date from="23.05.1900" to="05.06.1904">23.05.1900-05.06.1904</date></p>
 <p>Brieftypen: po</p>
 </state>
-<trait><p/></trait>
+<trait><p>n.a.</p></trait>
 </person>
 </particDesc>
 <langUsage>
@@ -89,34 +89,27 @@
 <dateline><hi rendition="#c">den 2 ten Oktober 1.900</hi></dateline>
 <salute/>
 </opener>
-<p>Ich erlaube mir einen Sreiben <lb break="yes"/>das ich befende mich in der <lb break="yes"/>Anschtalt Bahdesda in Westvalen <lb break="yes"/>bei Legerlig ich
-                war nur 5 Monate <lb break="yes"/>in diesen Ort und den Nach dem <lb break="yes"/>in
-                Anower in Käniglichen <lb break="yes"/><w>Straf
-                    anschtahlt</w> gehwesen zu <lb break="yes"/>Zelle 9 Monahte von 17 ten
-                    <del>F</del> Februar <lb break="yes"/><del>f</del> 1.899 bes 3 ten Noweber da
-                haben <lb break="yes"/>mir Nach Magdalen Kloster <lb break="yes"/>Gebracht Nach von
-                dort haben <lb break="yes"/>Wider mir Mir higer geschlept <lb break="yes"/>den 23
-                ten Mäy 1900 in dieser <lb break="yes"/>Anschtalt zusachen Wert Mir <lb break="yes"/>Wie Mort gemacht davom <lb break="yes"/>ich elaube Mir einen Sreiben <lb break="yes"/>Machen und den antrach zu <lb break="yes"/>Stelen endweder kom ich
-                Nach <lb break="yes"/>Meiner heimat Oder Nach <lb break="yes"/>Börlin zu untersuchen
-                    <pb facs="#image_022"/><seg ana="#inst">den higer Werden die <del>krake</del>
-<lb break="yes"/>Mänschen nur krak gemacht</seg>
-<lb break="yes"/>Wen Sie komen den die <w>auf <lb break="no"/>Name</w> Wert bahlt zusachen meht <lb break="yes"/>Gedem auf heil Stahtzigon
-                genam. <lb break="yes"/>Nach dem den in Behtgelecht so <lb break="yes"/>Lage bes der
-                Mensch ist zu Sande <lb break="yes"/><space/> gemacht den Lasen im <lb break="yes"/>kurtzen zeigt aufschtegen <lb break="yes"/>Nach dem wen Sie Sehen das <lb break="yes"/>der krake fodert entlasog <lb break="yes"/>den Bechen im <w>noch</w><w>eimahl</w>
-<lb break="yes"/>in Beht und das zusachen <lb break="yes"/>Auf die kreklichste Stube
-                was <lb break="yes"/>Sie haben so ersuche die <lb break="yes"/><w>Krichs Mänistrom</w> Siech <lb break="yes"/><w>die</w><w>sache</w>
-<w>über nemen</w> Wollen <lb break="yes"/>und so Bahlt Wie
-                Mechlich <lb break="yes"/><w>aus <del>V</del> Viren</w> Wolen behte sonst <lb break="yes"/>ist Mir Wie Sklawereg <lb break="yes"/><add place="bottom"><del>Behtesda anschtalt in Westvalen</del></add>
+<p>Ich erlaube mir einen Sreiben<lb break="yes"/>das ich befende mich in der<lb break="yes"/>Anschtalt Bahdesda in Westvalen<lb break="yes"/>bei Legerlig ich
+                war nur 5 Monate<lb break="yes"/>in diesen Ort und den Nach dem<lb break="yes"/>in
+                Anower in Käniglichen<lb break="yes"/><w>Straf
+                    anschtahlt</w> gehwesen zu<lb break="yes"/>Zelle 9 Monahte von 17 ten
+                    <del>F</del> Februar<lb break="yes"/><del>f</del> 1.899 bes 3 ten Noweber da
+                haben<lb break="yes"/>mir Nach Magdalen Kloster<lb break="yes"/>Gebracht Nach von
+                dort haben<lb break="yes"/>Wider mir Mir higer geschlept<lb break="yes"/>den 23
+                ten Mäy 1900 in dieser<lb break="yes"/>Anschtalt zusachen Wert Mir<lb break="yes"/>Wie Mort gemacht davom<lb break="yes"/>ich elaube Mir einen Sreiben<lb break="yes"/>Machen und den antrach zu<lb break="yes"/>Stelen endweder kom ich
+                Nach<lb break="yes"/>Meiner heimat Oder Nach<lb break="yes"/>Börlin zu untersuchen
+                    <pb facs="#image_022"/><seg ana="#inst">den higer Werden die <del>krake</del><lb break="yes"/>Mänschen nur krak gemacht</seg><lb break="yes"/>Wen Sie komen den die <w>auf<lb break="no"/>Name</w> Wert bahlt zusachen meht<lb break="yes"/>Gedem auf heil Stahtzigon
+                genam.<lb break="yes"/>Nach dem den in Behtgelecht so<lb break="yes"/>Lage bes der
+                Mensch ist zu Sande<lb break="yes"/><space/> gemacht den Lasen im<lb break="yes"/>kurtzen zeigt aufschtegen<lb break="yes"/>Nach dem wen Sie Sehen das<lb break="yes"/>der krake fodert entlasog<lb break="yes"/>den Bechen im <w>noch</w><w>eimahl</w><lb break="yes"/>in Beht und das zusachen<lb break="yes"/>Auf die kreklichste Stube
+                was<lb break="yes"/>Sie haben so ersuche die<lb break="yes"/><w>Krichs Mänistrom</w> Siech<lb break="yes"/><w>die</w><w>sache</w>
+<w>über nemen</w> Wollen<lb break="yes"/>und so Bahlt Wie
+                Mechlich<lb break="yes"/><w>aus <del>V</del> Viren</w> Wolen behte sonst<lb break="yes"/>ist Mir Wie Sklawereg<lb break="yes"/><add place="bottom"><del>Behtesda anschtalt in Westvalen</del></add>
 </p>
-<pb facs="#image_023"/><p><hi rendition="#c">zusachen <hi rendition="#i">Carl <surname>K.</surname></hi>
-<lb break="yes"/>geboren in klein <lb break="yes"/>Sichmanen Kerschpiel <lb break="yes"/>Wineberg Kreis <lb break="yes"/>Ortelsborg <w>Ost <lb break="no"/>Preisen</w> behte <lb break="yes"/>Erbarmog zu <lb break="yes"/>haben Wolen</hi></p>
+<pb facs="#image_023"/><p><hi rendition="#c">zusachen <hi rendition="#i">Carl <surname>K.</surname></hi><lb break="yes"/>geboren in klein<lb break="yes"/>Sichmanen Kerschpiel<lb break="yes"/>Wineberg Kreis<lb break="yes"/>Ortelsborg <w>Ost<lb break="no"/>Preisen</w> behte<lb break="yes"/>Erbarmog zu<lb break="yes"/>haben Wolen</hi></p>
 <pb facs="#image_024"/>
-<p><add hand="arzt1" place="top"><hi rendition="#i">Journal <hi rendition="#u"><surname>K.</surname></hi></hi></add>
-<lb break="yes"/><add hand="arzt2" place="top">3.10.1900. <hi rendition="#i">D
+<p><add hand="arzt1" place="top"><hi rendition="#i">Journal <hi rendition="#u"><surname>K.</surname></hi></hi></add><lb break="yes"/><add hand="arzt2" place="top">3.10.1900. <hi rendition="#i">D
                         Schneider</hi>
-</add>
-<lb break="yes"/>An <w>Krichs Münstrom</w>
-<lb break="yes"/><space/>in <lb break="yes"/><space/>Börlin. </p>
+</add><lb break="yes"/>An <w>Krichs Münstrom</w><lb break="yes"/><space/>in<lb break="yes"/><space/>Börlin. </p>
 </body>
 </text>
 </TEI>

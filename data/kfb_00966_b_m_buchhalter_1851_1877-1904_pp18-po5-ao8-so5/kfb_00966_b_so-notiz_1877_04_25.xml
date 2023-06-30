@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Georg <surname>B.</surname></persName>
 <date type="sent">25.04.1877</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee"><!--Beziehung-->: <!--Vorname--> <surname><!--Nachname--></surname></persName>
 <settlement type="sent"><!--Schreibort--></settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb966b">
@@ -43,12 +43,12 @@
 <birth when="1851"/>
 <death when="1904"/>
 <occupation>Buchhalter, Kaufmann</occupation>
-<residence>Kempten</residence>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: verheiratet</p>
 <p>Eltern: Huckler</p>
-<p>Anstalt: 1877-1904</p>
+<p>Anstalt: <date from="1877" to="1904">1877-1904</date></p>
 <p>Brieftypen: pp, po, ao</p>
 </state>
 <trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
@@ -86,33 +86,19 @@
 <dateline><hi rendition="#c">1877. angebl. 25/3-4.</hi></dateline>
 <salute/>
 </opener>
-<p><add hand="arzt"><hi rendition="#u">Buck</hi></add>
-<lb break="yes"/><hi rendition="#i">Die</hi> bisher les. ergeben für <hi rendition="#i">Naturanl</hi>. <lb break="yes"/><hi rendition="#i">Gebäude</hi>
-<hi rendition="#i">Welt</hi> U, <hi rendition="#i">Bequem</hi>lichkeit Vergangen <lb break="yes"/>aufrechthaltung der Ordnung <add place="above">u.
-                        <unclear>auk?</unclear></add> U. unzähl. <lb break="yes"/>noch dieselben
-                niedrigen Gesin̄ungen <lb break="yes"/>vermuthl. et. erfolgter U. (u. Gicht)
-                    <lb break="yes"/>in allen Theilen des Landes ist eine <lb break="yes"/>Umgestaltung. </p>
-<p>Besuchte<hi rendition="#i"> Bäder </hi>sind <lb break="yes"/>erklärte <hi rendition="#i">Räthsel</hi> auf <hi rendition="#i">Wissenschft</hi>
-<lb break="yes"/>Kämpfe, nie erklärl. in Ihren <lb break="yes"/>Festhalten auf
-                unersetzl. <hi rendition="#i">Beleidgung</hi>
-<lb break="yes"/>Verlust auch auf Festland ausdehnbar <lb break="yes"/>für
-                Genoßensch. Flucht bei <hi rendition="#i">Frau</hi> r. <lb break="yes"/>Von Alter
-                bekan̄ter <hi rendition="#i">Tiefe Angriff</hi>
-<lb break="yes"/>Was <hi rendition="#i">contre</hi> bay. <hi rendition="#i">Postgeb</hi>. <unclear>Volksgera?</unclear>
-<lb break="yes"/>fuß L. erkl. mit früheren <lb break="yes"/><hi rendition="#i">KW</hi>. nothw. s erkl. Unglücksfälle <add place="below">Abzähligen</add>
-<lb break="yes"/>Rfm <hi rendition="#i">Zoll Amt</hi> Selbsttbt waren <lb break="yes"/>wegen eine Veränderung schon <lb break="yes"/>Stellungen erkl. sonst sehr <lb break="yes"/>engen <unclear/> erklr. <lb break="yes"/>Mangelnd sind noch was <lb break="yes"/>mir zugehörende <hi rendition="#i">Schieß</hi>. Waffe <pb facs="#image_073"/> für meinen Gebrauch, da <lb break="yes"/>Sicherheit trotz
-                Gesetz ( imer auch <add place="below">nie</add>
-<lb break="yes"/>nicht) nach Wunsch. <lb break="yes"/>Bis jetzt bemerkbar <lb break="yes"/>Volksstützen-Gebäude <hi rendition="#i">Theater</hi>
-<add place="below"><hi rendition="#i">Possen</hi></add>
-<lb break="yes"/>Belustigung feindl <lb break="yes"/><hi rendition="#i">Eisenb.
-                    Anlage</hi> auf 2). erkl. <lb break="yes"/>weil <unclear>solos, <hi rendition="#i">Vern</hi>hlsp Be</unclear>
-<lb break="yes"/>sonst alten Plan neu <lb break="yes"/>nicht Beßer. <lb break="yes"/>Ohne Beachtung aller Gesetze <lb break="yes"/>war <hi rendition="#i">Derselbe</hi>
-<lb break="yes"/><hi rendition="#i">Träume</hi> von einst erzählend <lb break="yes"/>gewirkt <hi rendition="#i">heute</hi> u <hi rendition="#i">Begriff</hi>, nur <lb break="yes"/>wahr wie früher für <hi rendition="#i">Unten</hi>. <lb break="yes"/>Bei aber noch allgemein <lb break="yes"/>Geduldeter Gesetzlosigkeit zu leistg <lb break="yes"/>erklärl. mit Minister. <lb break="yes"/><hi rendition="#c"><hi rendition="#i">Nur Schwächlinge</hi></hi>
-<pb facs="#image_074"/>Wir wollen keine Ergänzungen <lb break="yes"/>Whbs sind
-                erkan̄t. <lb break="yes"/><milestone rendition="#hr" unit="section"/>
-<lb break="yes"/>Bisher gehaltene Pos. ist <lb break="yes"/>nach Verlaßen gerrdeter
-                    <lb break="yes"/>Man̄schaft umgewandelt gemißbraucht <lb break="yes"/>um̄auert. <lb break="yes"/><space/> Muß nach unseren <lb break="yes"/>Verlaßen so bestehen bleiben. <lb break="yes"/><space/> Wer hatte <hi rendition="#i">Neuburg</hi> gebaut. <lb break="yes"/>Auf Verkürzung berechnet.
-                    <lb break="yes"/>Kirchl. ohne <hi rendition="#i">Waffe</hi>.</p>
+<p><add hand="arzt"><hi rendition="#u">Buck</hi></add><lb break="yes"/><hi rendition="#i">Die</hi> bisher les. ergeben für <hi rendition="#i">Naturanl</hi>.<lb break="yes"/><hi rendition="#i">Gebäude</hi>
+<hi rendition="#i">Welt</hi> U, <hi rendition="#i">Bequem</hi>lichkeit Vergangen<lb break="yes"/>aufrechthaltung der Ordnung <add place="above">u.
+                        <unclear>auk?</unclear></add> U. unzähl.<lb break="yes"/>noch dieselben
+                niedrigen Gesin̄ungen<lb break="yes"/>vermuthl. et. erfolgter U. (u. Gicht)<lb break="yes"/>in allen Theilen des Landes ist eine<lb break="yes"/>Umgestaltung. </p>
+<p>Besuchte<hi rendition="#i"> Bäder </hi>sind<lb break="yes"/>erklärte <hi rendition="#i">Räthsel</hi> auf <hi rendition="#i">Wissenschft</hi><lb break="yes"/>Kämpfe, nie erklärl. in Ihren<lb break="yes"/>Festhalten auf
+                unersetzl. <hi rendition="#i">Beleidgung</hi><lb break="yes"/>Verlust auch auf Festland ausdehnbar<lb break="yes"/>für
+                Genoßensch. Flucht bei <hi rendition="#i">Frau</hi> r.<lb break="yes"/>Von Alter
+                bekan̄ter <hi rendition="#i">Tiefe Angriff</hi><lb break="yes"/>Was <hi rendition="#i">contre</hi> bay. <hi rendition="#i">Postgeb</hi>. <unclear>Volksgera?</unclear><lb break="yes"/>fuß L. erkl. mit früheren<lb break="yes"/><hi rendition="#i">KW</hi>. nothw. s erkl. Unglücksfälle <add place="below">Abzähligen</add><lb break="yes"/>Rfm <hi rendition="#i">Zoll Amt</hi> Selbsttbt waren<lb break="yes"/>wegen eine Veränderung schon<lb break="yes"/>Stellungen erkl. sonst sehr<lb break="yes"/>engen <unclear/> erklr.<lb break="yes"/>Mangelnd sind noch was<lb break="yes"/>mir zugehörende <hi rendition="#i">Schieß</hi>. Waffe <pb facs="#image_073"/> für meinen Gebrauch, da<lb break="yes"/>Sicherheit trotz
+                Gesetz ( imer auch <add place="below">nie</add><lb break="yes"/>nicht) nach Wunsch.<lb break="yes"/>Bis jetzt bemerkbar<lb break="yes"/>Volksstützen-Gebäude <hi rendition="#i">Theater</hi>
+<add place="below"><hi rendition="#i">Possen</hi></add><lb break="yes"/>Belustigung feindl<lb break="yes"/><hi rendition="#i">Eisenb.
+                    Anlage</hi> auf 2). erkl.<lb break="yes"/>weil <unclear>solos, <hi rendition="#i">Vern</hi>hlsp Be</unclear><lb break="yes"/>sonst alten Plan neu<lb break="yes"/>nicht Beßer.<lb break="yes"/>Ohne Beachtung aller Gesetze<lb break="yes"/>war <hi rendition="#i">Derselbe</hi><lb break="yes"/><hi rendition="#i">Träume</hi> von einst erzählend<lb break="yes"/>gewirkt <hi rendition="#i">heute</hi> u <hi rendition="#i">Begriff</hi>, nur<lb break="yes"/>wahr wie früher für <hi rendition="#i">Unten</hi>.<lb break="yes"/>Bei aber noch allgemein<lb break="yes"/>Geduldeter Gesetzlosigkeit zu leistg<lb break="yes"/>erklärl. mit Minister.<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Nur Schwächlinge</hi></hi>
+<pb facs="#image_074"/>Wir wollen keine Ergänzungen<lb break="yes"/>Whbs sind
+                erkan̄t.<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Bisher gehaltene Pos. ist<lb break="yes"/>nach Verlaßen gerrdeter<lb break="yes"/>Man̄schaft umgewandelt gemißbraucht<lb break="yes"/>um̄auert.<lb break="yes"/><space/> Muß nach unseren<lb break="yes"/>Verlaßen so bestehen bleiben.<lb break="yes"/><space/> Wer hatte <hi rendition="#i">Neuburg</hi> gebaut.<lb break="yes"/>Auf Verkürzung berechnet.<lb break="yes"/>Kirchl. ohne <hi rendition="#i">Waffe</hi>.</p>
 </body>
 </text>
 </TEI>

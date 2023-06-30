@@ -30,13 +30,13 @@
 <creation>
 <persName type="sender">Josef <surname>B.</surname></persName>
 <date type="sent">24.12.1915</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Bruder: Franz <surname>B.</surname></persName>
-<settlement type="sent"/>
-<settlement type="received"/>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
-<person sex="m" xml:id="kfb1356">
+<person sex="m" xml:id="kfb1356b">
 <persName>
 <forename>Josef</forename>
 <surname>B.</surname>
@@ -44,12 +44,12 @@
 <birth when="1873"/>
 <death cert="unknown"/>
 <occupation>Fabrikarbeiter, Weber</occupation>
-<residence>Augsburg</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bruder: Kammgarnspinnerei</p>
-<p>Anstalt: 1899-1933</p>
+<p>Anstalt: <date from="1899" to="1933">1899-1933</date></p>
 <p>Brieftypen: pp, po, ao, lebenslauf</p>
 </state>
 <trait><p>Depression, [Suizidalität], Angstanfälle (1899), Halluzination (1908)</p></trait>
@@ -87,26 +87,10 @@
 <salute><hi rendition="#c">Lieber Bruder</hi></salute>
 </opener>
 <p>
-Wie das kom̄t das Du mier den Besuch nig geben hast weiß ich<lb break="yes"/>
-schon̄ aber das sagd mier kein Mensch von deinem Bruder Lentz<lb break="yes"/>
-oder wie er eigendlich heist will ich nig den der iß <seg ana="#curse">unverschähmt<lb break="yes"/>
-dum und ausgschähmt</seg>. Will mier doch dieses Weinachten ein<lb break="yes"/>
-Gristkindlein Geschenk schiken aber viel einen Hurtzelbrodleib um<lb break="yes"/>
-zwei Mark und Lebkuchen und veine Bom̄bon̄s. Jetzd weil ich<lb break="yes"/>
-von der Heimd fort bin̄ meint dein Bruder ich bin̄ kran̄k <seg ana="#med">wen̄<lb break="yes"/>
-ich nur kei östreichische Krankheit hab und ich bi umschonst eingspehrd<lb break="yes"/>
-wegen nig:</seg> gscheid machen kan̄ mich kein Dokter und Mediezinnahl<lb break="no"/>
-raht weil ich mier net lassen mag. <seg ana="#med">Die östreichische Krankheit wird<lb break="yes"/>
-kein Dokter und Mediezinahlraht verstehen den̄ ich sags keinem<lb break="yes"/>
-und keiner wirds rausgriegen</seg> verkalvaktern und ausriechten<lb break="yes"/>
-laß ich mich schon deswegen sind mier gewanter Maschienen<lb break="yes"/>
-Weber und Aufsteker und Ansetzer bei deim Vather geworden.
+Wie das kom̄t das Du mier den Besuch nig geben hast weiß ich<lb break="yes"/>schon̄ aber das sagd mier kein Mensch von deinem Bruder Lentz<lb break="yes"/>oder wie er eigendlich heist will ich nig den der iß <seg ana="#curse">unverschähmt<lb break="yes"/>dum und ausgschähmt</seg>. Will mier doch dieses Weinachten ein<lb break="yes"/>Gristkindlein Geschenk schiken aber viel einen Hurtzelbrodleib um<lb break="yes"/>zwei Mark und Lebkuchen und veine Bom̄bon̄s. Jetzd weil ich<lb break="yes"/>von der Heimd fort bin̄ meint dein Bruder ich bin̄ kran̄k <seg ana="#med">wen̄<lb break="yes"/>ich nur kei östreichische Krankheit hab und ich bi umschonst eingspehrd<lb break="yes"/>wegen nig:</seg> gscheid machen kan̄ mich kein Dokter und Mediezinnahl<lb break="no"/>raht weil ich mier net lassen mag. <seg ana="#med">Die östreichische Krankheit wird<lb break="yes"/>kein Dokter und Mediezinahlraht verstehen den̄ ich sags keinem<lb break="yes"/>und keiner wirds rausgriegen</seg> verkalvaktern und ausriechten<lb break="yes"/>laß ich mich schon deswegen sind mier gewanter Maschienen<lb break="yes"/>Weber und Aufsteker und Ansetzer bei deim Vather geworden.
 
 <pb facs="#image_047"/>
-genanter Franz <surname>B.</surname><lb break="yes"/>
-<hi rendition="#r">neue Weberei grose Fabrick<lb break="yes"/>
-am Lech.</hi><lb break="yes"/>
-</p>
+genanter Franz <surname>B.</surname><lb break="yes"/><hi rendition="#r">neue Weberei grose Fabrick<lb break="yes"/>am Lech.</hi><lb break="yes"/></p>
 </body>
 </text>
 </TEI>

@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Anna <surname>H.</surname></persName>
 <date type="sent">30.12.1856</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Mutter: Anna <surname>S.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb120h">
@@ -44,12 +44,12 @@
 <birth when="1834"/>
 <death cert="unknown"/>
 <occupation>Zimmermannstochter</occupation>
-<residence>München</residence>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Zimmermann, "ohne Vermögen"</p>
-<p>Anstalt: 1854-58</p>
+<p>Anstalt: <date from="1854" to="1858">1854-58</date></p>
 <p>Brieftypen: pp, po, ap, ao</p>
 </state>
 <trait><p>Melancholie, Geistesstörung (1854)</p></trait>
@@ -85,8 +85,7 @@
 <body>
 <pb facs="#image_016"/>
 <opener>
-<dateline><hi rendition="#r">Irrsee den 30 Dezember<lb break="yes"/>
-				        1856</hi></dateline>
+<dateline><hi rendition="#r">Irrsee den 30 Dezember<lb break="yes"/>1856</hi></dateline>
 <salute><hi rendition="#c">Liebe, gute Mutter!</hi></salute>
 </opener>
 <p>Zum neuen Jahre fühle ich mich mehr als sonst verpflichtet,<lb break="yes"/>Ihnen für das viele Gute und die treue Liebe, die Sie mir<lb break="yes"/>die ganze Zeit meines Lebens erwiesen haben, zu danken.<lb break="yes"/>Der liebe Gott wolle Sie segnen, und Sie vor All dem<lb break="yes"/>Kum̄er und Leid bewahren, daß Sie im vergangenen<lb break="yes"/>Jahre

@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Matthaeus <surname>B.</surname></persName>
 <date type="sent">18.07.1879</date>
-<date type="received"/>
-<persName type="addressee"> Verwalter:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee"> Verwalter: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Kempten</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb966b">
@@ -43,12 +43,12 @@
 <birth when="1851"/>
 <death when="1904"/>
 <occupation>Buchhalter, Kaufmann</occupation>
-<residence>Kempten</residence>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: verheiratet</p>
 <p>Eltern: Huckler</p>
-<p>Anstalt: 1877-1904</p>
+<p>Anstalt: <date from="1877" to="1904">1877-1904</date></p>
 <p>Brieftypen: pp, po, ao</p>
 </state>
 <trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
@@ -85,12 +85,10 @@
 <salute><hi rendition="#c">Geehrter Herr Verwalter!</hi></salute>
 </opener>
 <p><add hand="arzt"><hi rendition="#c">64.</hi></add></p>
-<p>Sie werden gütigest entschuldigen <lb break="yes"/>ich muß Sie schon wieder mit
-                einer <lb break="yes"/>Bitte belästigen. Sind Sie doch so gütig <lb break="yes"/>und
-                übergeben Sie diese Kleinigkeiten <lb break="yes"/>für meinen Sohn <hi rendition="#i">Georg </hi><surname><hi rendition="#i">B.</hi></surname>. <lb break="yes"/>wofür ich Jhnen meinen verbindlichsten <lb break="yes"/>Dank hiemit abstatte. <lb break="yes"/>Den Empfang brauchen Sie mir nicht <lb break="yes"/>mittzutheilen.
-                    <lb break="yes"/><hi rendition="#r"><seg ana="#salute">Freundlichen Gruß. <lb break="yes"/>Verbleibe mit Hochachtung <lb break="yes"/>ergebenster</seg>
-<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Matthaeus
-                                </hi><surname><hi rendition="#i">B.</hi></surname></seg>.</hi></p><p>Bitte beiliegenden Brief <lb break="yes"/>an meinen Sohn zu übergeben.
+<p>Sie werden gütigest entschuldigen<lb break="yes"/>ich muß Sie schon wieder mit
+                einer<lb break="yes"/>Bitte belästigen. Sind Sie doch so gütig<lb break="yes"/>und
+                übergeben Sie diese Kleinigkeiten<lb break="yes"/>für meinen Sohn <hi rendition="#i">Georg </hi><surname><hi rendition="#i">B.</hi></surname>.<lb break="yes"/>wofür ich Jhnen meinen verbindlichsten<lb break="yes"/>Dank hiemit abstatte.<lb break="yes"/>Den Empfang brauchen Sie mir nicht<lb break="yes"/>mittzutheilen.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Freundlichen Gruß.<lb break="yes"/>Verbleibe mit Hochachtung<lb break="yes"/>ergebenster</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Matthaeus
+                                </hi><surname><hi rendition="#i">B.</hi></surname></seg>.</hi></p><p>Bitte beiliegenden Brief<lb break="yes"/>an meinen Sohn zu übergeben.
             </p>
 </body>
 </text>

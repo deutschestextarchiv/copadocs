@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Karolina <surname>H.</surname></persName>
 <date type="sent">xx.02.1857</date>
-<date type="received"/>
-<persName type="addressee">Schwester:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb846h">
@@ -44,12 +44,12 @@
 <birth when="1816"/>
 <death when="1888"/>
 <occupation>Schäfflerstochter</occupation>
-<residence>Rennertshofen, Monheim</residence>
+<residence><geo decls="#WGS">48.7564558 11.0494652</geo>Rennertshofen, Monheim</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Schäffler</p>
-<p>Anstalt: 1855-88</p>
+<p>Anstalt: <date from="1855" to="1888">1855-88</date></p>
 <p>Brieftypen: pp, po, ap, ao</p>
 </state>
 <trait><p>Geisteskrankheit, Verrücktheit, geistig-körperliche Müdigkeit (1855)</p></trait>
@@ -84,33 +84,11 @@
 <body>
 <pb facs="#image_018"/>
 <opener>
-<dateline><add hand="arzt1">Febr. 57</add> <lb break="yes"/>
-<add hand="arzt2"><surname>H.</surname></add></dateline>
+<dateline><add hand="arzt1">Febr. 57</add><lb break="yes"/><add hand="arzt2"><surname>H.</surname></add></dateline>
 <salute><hi rendition="#c">Liebe Schwester!</hi></salute>
 </opener>
 <p>
-Mir ist es zwar sehr lieb, daß Du meinetwegen<lb break="yes"/>
-so besorgt bist. Wenn ich aber auch nur einen Nutzen<lb break="yes"/>
-Eurer Sorge hätte<del>t</del> kön̄te ich von herzen dankbar<lb break="yes"/>
-				    dafür seyn. Aber lauter Schmerzen Leiden und Strafen<lb break="yes"/>
-schon so lange ich hier bin. Meine zwey Namenstage heuer<lb break="yes"/>
-wie voriges Jahr mußte ich in größter Kälte und Verlassenheit<lb break="yes"/>
-zubringen. <seg ana="#inst">Ohne die übrigen Mißhandlungen das ich so unschuldig<lb break="yes"/>
-erdulden muß. Der <surname>W.</surname> Egidi stand Schildwache für Andere um Lohn<lb break="yes"/>
-    aber ich habe ja gar nichts davon. Alle Tage bin ich froh und danke Gott<lb break="yes"/>
-wenn ich nur wieder mein weniges Leben habe, während Andere<lb break="yes"/>
-über mich spotten und doch als from angesehen werden und deß<lb break="no"/>
-wegen belobt und belohnt werden</seg>. Ich hatte aber gleich keinen<lb break="yes"/>
-Glauben weil Ihr mich so falsch und lügenhaft fortgeschoben habt. In dem<lb break="yes"/>
-Brief stand ich hätte zwey Monate Aufenthalt und jetzt sind es schon<lb break="yes"/>
-beynahe zwey Jahr daß ich da bin und wird im̄er schlechter anstatt besser.<lb break="yes"/>
-Ich bitte dich wenn du mir helfen kannst so erleichtere doch wenigstens<lb break="yes"/>
-mein hartes Looß ich durfte den Bruder nichts klagen vieleicht wäre<lb break="yes"/>
-es schon lange anders. Gebet kein mehr aus oder verwendet es anders<lb break="yes"/>
-als mich zu verfolgen. <seg ana="#salute">Ich grüße Euch Alle herzlich und wiederholle es<lb break="yes"/>
-nochmal gewissenhaft daß ich dein Schaden nicht gewesen wäre daheim.</seg><lb break="yes"/>
-				    Du aber trägst Haß und weißt nicht warum. <seg ana="#signed">Ich verbleibe Deine<lb break="yes"/>
-<hi rendition="#r">aufrichtige Schwester</hi></seg>
+Mir ist es zwar sehr lieb, daß Du meinetwegen<lb break="yes"/>so besorgt bist. Wenn ich aber auch nur einen Nutzen<lb break="yes"/>Eurer Sorge hätte<del>t</del> kön̄te ich von herzen dankbar<lb break="yes"/>dafür seyn. Aber lauter Schmerzen Leiden und Strafen<lb break="yes"/>schon so lange ich hier bin. Meine zwey Namenstage heuer<lb break="yes"/>wie voriges Jahr mußte ich in größter Kälte und Verlassenheit<lb break="yes"/>zubringen. <seg ana="#inst">Ohne die übrigen Mißhandlungen das ich so unschuldig<lb break="yes"/>erdulden muß. Der <surname>W.</surname> Egidi stand Schildwache für Andere um Lohn<lb break="yes"/>aber ich habe ja gar nichts davon. Alle Tage bin ich froh und danke Gott<lb break="yes"/>wenn ich nur wieder mein weniges Leben habe, während Andere<lb break="yes"/>über mich spotten und doch als from angesehen werden und deß<lb break="no"/>wegen belobt und belohnt werden</seg>. Ich hatte aber gleich keinen<lb break="yes"/>Glauben weil Ihr mich so falsch und lügenhaft fortgeschoben habt. In dem<lb break="yes"/>Brief stand ich hätte zwey Monate Aufenthalt und jetzt sind es schon<lb break="yes"/>beynahe zwey Jahr daß ich da bin und wird im̄er schlechter anstatt besser.<lb break="yes"/>Ich bitte dich wenn du mir helfen kannst so erleichtere doch wenigstens<lb break="yes"/>mein hartes Looß ich durfte den Bruder nichts klagen vieleicht wäre<lb break="yes"/>es schon lange anders. Gebet kein mehr aus oder verwendet es anders<lb break="yes"/>als mich zu verfolgen. <seg ana="#salute">Ich grüße Euch Alle herzlich und wiederholle es<lb break="yes"/>nochmal gewissenhaft daß ich dein Schaden nicht gewesen wäre daheim.</seg><lb break="yes"/>Du aber trägst Haß und weißt nicht warum. <seg ana="#signed">Ich verbleibe Deine<lb break="yes"/><hi rendition="#r">aufrichtige Schwester</hi></seg>
 </p>
 </body>
 </text>

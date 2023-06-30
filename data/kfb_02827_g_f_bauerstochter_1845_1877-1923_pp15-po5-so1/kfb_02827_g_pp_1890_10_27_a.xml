@@ -31,10 +31,10 @@
 <creation>
 <persName type="sender">Maria Cleofa <surname>G.</surname></persName>
 <date type="sent">27.10.1890</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Bruder, Schwägerin: Joseph, Babetha <surname>G.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2827g">
@@ -45,12 +45,12 @@
 <birth when="1845"/>
 <death cert="unknown"/>
 <occupation>Bauerstochter</occupation>
-<residence>Engishausen, Illertissen</residence>
+<residence><geo decls="#WGS">48.1082257 10.2728225</geo>Engishausen, Illertissen</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bauern</p>
-<p>Anstalt: 1877-1923</p>
+<p>Anstalt: <date from="1877" to="1923">1877-1923</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Manie (1923)</p></trait>
@@ -86,25 +86,21 @@
 <pb facs="#image_029"/>
 <opener>
 <dateline><hi rendition="#i"><seg ana="#pic">X.X.X</seg></hi> Heil u. Pfleg-Anstalt Irrsee<hi rendition="#i">
-                        X</hi>/<lb break="yes"/> / den̄ 27<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Oktober 1890 /.</dateline>
-<salute>/ Lieber Bruder Joseph /.<lb break="yes"/>
-				        Theure Schwägerin̄<lb break="yes"/>
-				        Barbara Bolbetha /:</salute>
+                        X</hi>/<lb break="yes"/>/ den̄ 27<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Oktober 1890 /.</dateline>
+<salute>/ Lieber Bruder Joseph /.<lb break="yes"/>Theure Schwägerin̄<lb break="yes"/>Barbara Bolbetha /:</salute>
 </opener>
 <p>
-<add place="margin">Gott zu Gruß Im Kreuz ist Heil<del>l</del> u. Sieg Koram <hi rendition="#i">x. x. x</hi>.</add><lb break="yes"/> Ich hoffe, von Irrsee aus
-                    meim<lb break="yes"/> letztes Briefchen. Kurz. Am Don̄ers<lb break="no"/>
-                Tag den̄ 30<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Oktober
-                    <unclear>air</unclear> Freitag<lb break="no"/> der 31<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Oktober wird es, zwölf Momt<lb break="yes"/>
-                oder 1 Jahr: das ich bin nach, Irrsee<lb break="yes"/> gefahren worden, ich mit
-                    Erlaubniß<lb break="yes"/> des Horfrath Kiederle auf<lb break="yes"/> Freitag
+<add place="margin">Gott zu Gruß Im Kreuz ist Heil<del>l</del> u. Sieg Koram <hi rendition="#i">x. x. x</hi>.</add><lb break="yes"/>Ich hoffe, von Irrsee aus
+                    meim<lb break="yes"/>letztes Briefchen. Kurz. Am Don̄ers<lb break="no"/>Tag den̄ 30<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Oktober
+                    <unclear>air</unclear> Freitag<lb break="no"/>der 31<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Oktober wird es, zwölf Momt<lb break="yes"/>oder 1 Jahr: das ich bin nach, Irrsee<lb break="yes"/>gefahren worden, ich mit
+                    Erlaubniß<lb break="yes"/>des Horfrath Kiederle auf<lb break="yes"/>Freitag
                 oder Sam̄stag Urlaub<pb facs="#image_030"/> Schon kurz geschrieben, auf
-                    die<lb break="yes"/> Kirchwei <hi rendition="#i">x.x.x</hi> Der Herr Oberazt<lb break="yes"/> Iulius /. hat nicht nach Engishause<lb break="yes"/> geschickt.
-                Schreibe mir sogleich <lb break="yes"/> oder Cleofa: ich kan̄ allein<lb break="yes"/> bis nach Heimertingen fahren.<lb break="yes"/> Du kan̄st
-                Thun wie es Hofrah<lb break="yes"/> bestim̄t per Eisenbahn in<lb break="yes"/> Kaubfbeuren / oder Pforzen holen<lb break="yes"/> oder mit deinen einge Pferd
-                    u<lb break="yes"/> Kuthe oder Schörse. <seg ana="#salute">Viele Grüße <lb break="yes"/> an Euch Alle,</seg>
-<handShift medium="ink" scribe="patient"/>Joseph <surname>G.</surname><lb break="yes"/> Okonon Engishausen Hofbauer.<lb break="yes"/> Post Landgericht
-                Babenhausen. <hi rendition="#i">X</hi>.<lb break="yes"/> G.s. Ch C W.</p>
+                    die<lb break="yes"/>Kirchwei <hi rendition="#i">x.x.x</hi> Der Herr Oberazt<lb break="yes"/>Iulius /. hat nicht nach Engishause<lb break="yes"/>geschickt.
+                Schreibe mir sogleich<lb break="yes"/>oder Cleofa: ich kan̄ allein<lb break="yes"/>bis nach Heimertingen fahren.<lb break="yes"/>Du kan̄st
+                Thun wie es Hofrah<lb break="yes"/>bestim̄t per Eisenbahn in<lb break="yes"/>Kaubfbeuren / oder Pforzen holen<lb break="yes"/>oder mit deinen einge Pferd
+                    u<lb break="yes"/>Kuthe oder Schörse. <seg ana="#salute">Viele Grüße<lb break="yes"/>an Euch Alle,</seg>
+<handShift medium="ink" scribe="patient"/>Joseph <surname>G.</surname><lb break="yes"/>Okonon Engishausen Hofbauer.<lb break="yes"/>Post Landgericht
+                Babenhausen. <hi rendition="#i">X</hi>.<lb break="yes"/>G.s. Ch C W.</p>
 </body>
 </text>
 </TEI>

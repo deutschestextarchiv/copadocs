@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Anna <surname>S.</surname></persName>
 <date type="sent">18.05.1914</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Rechtsanwalt: <!--Vorname--> Dr. <surname>P.</surname></persName>
 <settlement type="sent">Kaufbeuren</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2325s">
@@ -43,12 +43,12 @@
 <birth when="1866"/>
 <death when="1942"/>
 <occupation>Privatiere</occupation>
-<residence>Augsburg, Wohnort München</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, Wohnort München</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
-<p>Eltern: </p>
-<p>Anstalt: 1910-42</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1910" to="1942">1910-42</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>manisch=depressives Irresein (18.04.1911)</p></trait>
@@ -83,14 +83,12 @@
 <dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren</hi> 18. 5.
                     14.</hi></dateline>
 <salute><hi rendition="#c">Herrn Rechtsanwalt <hi rendition="#i">Dr.
-                                </hi><surname><hi rendition="#i">P.</hi></surname>!</hi>
-<lb break="yes"/><hi rendition="#r">hochwolgeboren.</hi></salute>
+                                </hi><surname><hi rendition="#i">P.</hi></surname>!</hi><lb break="yes"/><hi rendition="#r">hochwolgeboren.</hi></salute>
 </opener>
-<p><space/> Es wird Ihnen bekannt sein, <lb break="yes"/>daß ich noch immer im
-                Irrenhaus <lb break="yes"/>schmachte. Heute machte man mir <lb break="yes"/>nun die
-                Eröffnung, daß ich von Seite <lb break="yes"/>des hiesigen Anstaltsleiters entlassen
-                    <lb break="yes"/>sei; er bedürfe nur noch Ihrer <lb break="yes"/>"Genehmigung." </p><p><space/> Ich ersuche daher <hi rendition="#i">Ew. Wolg.</hi> mir um<lb break="no"/>gehend eine
-                zustimmende Antwort <lb break="yes"/>zukommen zu lassen u. <seg ana="#salute">zeichne <lb break="yes"/>achtungsvoll </seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">A. </hi><surname><hi rendition="#i">S.</hi></surname>.</seg></hi></p>
+<p><space/> Es wird Ihnen bekannt sein,<lb break="yes"/>daß ich noch immer im
+                Irrenhaus<lb break="yes"/>schmachte. Heute machte man mir<lb break="yes"/>nun die
+                Eröffnung, daß ich von Seite<lb break="yes"/>des hiesigen Anstaltsleiters entlassen<lb break="yes"/>sei; er bedürfe nur noch Ihrer<lb break="yes"/>"Genehmigung." </p><p><space/> Ich ersuche daher <hi rendition="#i">Ew. Wolg.</hi> mir um<lb break="no"/>gehend eine
+                zustimmende Antwort<lb break="yes"/>zukommen zu lassen u. <seg ana="#salute">zeichne<lb break="yes"/>achtungsvoll </seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">A. </hi><surname><hi rendition="#i">S.</hi></surname>.</seg></hi></p>
 </body>
 </text>
 </TEI>

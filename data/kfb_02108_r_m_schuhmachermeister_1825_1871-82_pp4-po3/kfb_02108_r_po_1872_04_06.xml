@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Cosmas <surname>R.</surname></persName>
 <date type="sent">06.04.1872</date>
-<date type="received"/>
-<persName type="addressee">Kurator:  <surname>Z.</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Kurator: n.a. <surname>Z.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb2108r">
@@ -44,12 +44,12 @@
 <birth when="1825"/>
 <death when="1882"/>
 <occupation>Schuhmachermeister</occupation>
-<residence>Augsburg</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: verheiratet</p>
-<p>Eltern: </p>
-<p>Anstalt: 1871-1882</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1871" to="1882">1871-1882</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Tobsucht, Erregungszustände, Geistesstörung, Paralyse, blödsinniger Größenwahn (1872)</p></trait>
@@ -84,23 +84,19 @@
 <pb facs="#image_023"/>
 <opener>
 <dateline><hi rendition="#r">Irsee den 6 April 1872.</hi></dateline>
-<salute><hi rendition="#c">Verehrter Herr <surname>Z.</surname>!</hi><lb break="yes"/>
-<hi rendition="#r">in Augsburg.</hi></salute>
+<salute><hi rendition="#c">Verehrter Herr <surname>Z.</surname>!</hi><lb break="yes"/><hi rendition="#r">in Augsburg.</hi></salute>
 </opener>
-<p> Werthester Herr Curator ich muß<lb break="yes"/> Sie bitten <add>zu mir zu komen</add> morgen
-                Sontag den 7. April.<lb break="yes"/> bis 1 Uhr sollten im Falle nicht Zeit haben<lb break="yes"/> so meine ich Sie kön̄ten Montag bis 9 Uhr
-                    <add>Früh</add><lb break="yes"/> gewiß mich besuchen in der <w>Irren Anstalt</w>.<lb break="yes"/> Sie werden Ihnen überzeugen, daß Sie sich<lb break="yes"/>
-<add>nicht</add> schiniren brauchen in dem Saale wo ich sind<lb break="yes"/> lauter
-                noble Herrn Ein Graf von <surname>G.</surname><lb break="yes"/> Ein Herr
-                Assesor u 2 Herrn Pfarrer<lb break="yes"/> Noch eine Bitte muß an Sie Vehrtester
+<p> Werthester Herr Curator ich muß<lb break="yes"/>Sie bitten <add>zu mir zu komen</add> morgen
+                Sontag den 7. April.<lb break="yes"/>bis 1 Uhr sollten im Falle nicht Zeit haben<lb break="yes"/>so meine ich Sie kön̄ten Montag bis 9 Uhr
+                    <add>Früh</add><lb break="yes"/>gewiß mich besuchen in der <w>Irren Anstalt</w>.<lb break="yes"/>Sie werden Ihnen überzeugen, daß Sie sich<lb break="yes"/><add>nicht</add> schiniren brauchen in dem Saale wo ich sind<lb break="yes"/>lauter
+                noble Herrn Ein Graf von <surname>G.</surname><lb break="yes"/>Ein Herr
+                Assesor u 2 Herrn Pfarrer<lb break="yes"/>Noch eine Bitte muß an Sie Vehrtester
                     <del>mit zu bragen</del>
-<add>mit zu bringen</add><lb break="yes"/> Herr Curator richten Sie möchten die
-                    Güte<lb break="yes"/> haben <del>meine</del>
-<add>meine</add> Frau <add><unclear>m</unclear></add> Herr Anstalts <hi rendition="#i">Director</hi><lb break="yes"/> wünscht Sie beide zu sprechen.<lb break="yes"/>
-<space/> viele Grüße an meine Frau<lb break="yes"/> <seg ana="#salute">Hochachtungsvollst ergebener</seg> <seg ana="#signed">K
-                    <surname>R.</surname></seg>.<lb break="yes"/>
-<hi rendition="#r">Schuhmachermeister.</hi></p><pb facs="#image_024"/><p>Herrn
-                    Zim̄erman<lb break="yes"/> Gemeinde B<add>e</add>volmächtiger<lb break="yes"/> und Spengler in Meister Wohlgeboren<lb break="yes"/> Augsburg
+<add>mit zu bringen</add><lb break="yes"/>Herr Curator richten Sie möchten die
+                    Güte<lb break="yes"/>haben <del>meine</del>
+<add>meine</add> Frau <add><unclear>m</unclear></add> Herr Anstalts <hi rendition="#i">Director</hi><lb break="yes"/>wünscht Sie beide zu sprechen.<lb break="yes"/><space/> viele Grüße an meine Frau<lb break="yes"/><seg ana="#salute">Hochachtungsvollst ergebener</seg> <seg ana="#signed">K
+                    <surname>R.</surname></seg>.<lb break="yes"/><hi rendition="#r">Schuhmachermeister.</hi></p><pb facs="#image_024"/><p>Herrn
+                    Zim̄erman<lb break="yes"/>Gemeinde B<add>e</add>volmächtiger<lb break="yes"/>und Spengler in Meister Wohlgeboren<lb break="yes"/>Augsburg
                     <unclear>T</unclear> .402. Jesuitengaße</p>
 </body>
 </text>

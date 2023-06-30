@@ -31,10 +31,10 @@
 <creation>
 <persName type="sender">Maria Cleofa <surname>G.</surname></persName>
 <date type="sent">14.05.1890</date>
-<date type="received"/>
-<persName type="addressee">Freundin: Monika <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Freundin: Monika <surname>n.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2827g">
@@ -45,12 +45,12 @@
 <birth when="1845"/>
 <death cert="unknown"/>
 <occupation>Bauerstochter</occupation>
-<residence>Engishausen, Illertissen</residence>
+<residence><geo decls="#WGS">48.1082257 10.2728225</geo>Engishausen, Illertissen</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bauern</p>
-<p>Anstalt: 1877-1923</p>
+<p>Anstalt: <date from="1877" to="1923">1877-1923</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Manie (1923)</p></trait>
@@ -95,63 +95,45 @@
 <p>
 Gott zum Gruß!</p>
 <p>
-Ich danke Dir für Dein Brieflein:<lb break="yes"/>
-u. schönes Bildlein zu meinem,<lb break="yes"/>
-Namens-Tag: Da aber Dein Namens<lb break="no"/>
-fest, bald vierzehn Tagen vorbei ist -<lb break="yes"/>
-wirst Du gedacht haben, jetzt ist kom̄t<lb break="yes"/>
-kein Brieflein! Liebe gute theure Freundin<lb break="yes"/>
-<hi rendition="#r">Monika</hi>.-<lb break="yes"/>
-Ich wünsche Dir nachträglich auch Alles x.<lb break="yes"/>
-erdenkliche Gute kurz u. gut, was Du mir<lb break="yes"/>
-gewunschen beten thue ich für Dich..</p>
-<p>Ich schreibe wenige Worte über mein<lb break="yes"/> halbjähriges Befinden: Der zeiten Heli<lb break="no"/> u. Pfleg-Anstalt will ich Dir in aller<lb break="yes"/> kurzen u.
+Ich danke Dir für Dein Brieflein:<lb break="yes"/>u. schönes Bildlein zu meinem,<lb break="yes"/>Namens-Tag: Da aber Dein Namens<lb break="no"/>fest, bald vierzehn Tagen vorbei ist -<lb break="yes"/>wirst Du gedacht haben, jetzt ist kom̄t<lb break="yes"/>kein Brieflein! Liebe gute theure Freundin<lb break="yes"/><hi rendition="#r">Monika</hi>.-<lb break="yes"/>Ich wünsche Dir nachträglich auch Alles x.<lb break="yes"/>erdenkliche Gute kurz u. gut, was Du mir<lb break="yes"/>gewunschen beten thue ich für Dich..</p>
+<p>Ich schreibe wenige Worte über mein<lb break="yes"/>halbjähriges Befinden: Der zeiten Heli<lb break="no"/>u. Pfleg-Anstalt will ich Dir in aller<lb break="yes"/>kurzen u.
                 wenigen Zeilen mitheilen.<pb facs="#image_021"/> Der traurige
-                Winter hat, sich.<lb break="yes"/> eintlaubt: Gott sei tausend Dank.-<lb break="yes"/> für den herrlichbn Frühling.-<lb break="yes"/> u. Blüthenmonat Mai.<lb break="yes"/> Ich bin gut durch den̄ Winter gekom̄en<lb break="yes"/> in Irrsee: Nach einem recht schweren<lb break="yes"/>
-<seg ana="#med">Brust u. Magenkathar</seg> habe ich vor<lb break="yes"/> Ostern
-                bekom̄en am hl. Carrfreitag<lb break="yes"/> war ich den̄ ganzen Tag
-                im Bett.<lb break="yes"/> Am hl. Carrsams-Tag kon̄te ich 1 1/2 Stunde<lb break="yes"/> das hl. Grab besuchen u. der Auferstehung<lb break="yes"/>
-                beiwohnen das war meine gröste Oster<lb break="no"/>Freud nach
-                meinem Namens-Tag<lb break="yes"/> mußte ich nochmahl <w>drei</w><w>tag</w> ins Bett.<lb break="yes"/>
-<seg ana="#med">Dan̄ bekam ich von gnädigen Herrn<lb break="yes"/> Oberarzt
-                    Xaverius Julius zuerst eiwischthee<lb break="yes"/> dan̄ Brustthee mit
-                    Manteltropfen u.<lb break="yes"/> Hoffman̄stropfen Zuker u.
-                            <w>Pfeffermünz<lb break="yes"/> zeltchen</w> war meine Chuhr.</seg> Ich
-                bin soweit<lb break="yes"/> gerne in Irrsee ich habe alles die<lb break="yes"/> gut
-                Behandlung von den̄ Vorgesetzten!<lb break="yes"/> Besonders Fräulein
-                Johan̄a <surname>D.</surname>!<lb break="yes"/> Oberpflegerin ist sehr
+                Winter hat, sich.<lb break="yes"/>eintlaubt: Gott sei tausend Dank.-<lb break="yes"/>für den herrlichbn Frühling.-<lb break="yes"/>u. Blüthenmonat Mai.<lb break="yes"/>Ich bin gut durch den̄ Winter gekom̄en<lb break="yes"/>in Irrsee: Nach einem recht schweren<lb break="yes"/><seg ana="#med">Brust u. Magenkathar</seg> habe ich vor<lb break="yes"/>Ostern
+                bekom̄en am hl. Carrfreitag<lb break="yes"/>war ich den̄ ganzen Tag
+                im Bett.<lb break="yes"/>Am hl. Carrsams-Tag kon̄te ich 1 1/2 Stunde<lb break="yes"/>das hl. Grab besuchen u. der Auferstehung<lb break="yes"/>beiwohnen das war meine gröste Oster<lb break="no"/>Freud nach
+                meinem Namens-Tag<lb break="yes"/>mußte ich nochmahl <w>drei</w><w>tag</w> ins Bett.<lb break="yes"/><seg ana="#med">Dan̄ bekam ich von gnädigen Herrn<lb break="yes"/>Oberarzt
+                    Xaverius Julius zuerst eiwischthee<lb break="yes"/>dan̄ Brustthee mit
+                    Manteltropfen u.<lb break="yes"/>Hoffman̄stropfen Zuker u.
+                            <w>Pfeffermünz<lb break="yes"/>zeltchen</w> war meine Chuhr.</seg> Ich
+                bin soweit<lb break="yes"/>gerne in Irrsee ich habe alles die<lb break="yes"/>gut
+                Behandlung von den̄ Vorgesetzten!<lb break="yes"/>Besonders Fräulein
+                Johan̄a <surname>D.</surname>!<lb break="yes"/>Oberpflegerin ist sehr
                 from̄ g<del>e</del>ristlich u. brav.<pb facs="#image_022"/> Alle Pflegerinen
-                insgesam̄t sind<lb break="yes"/> fleißig u. brav mit mir. Am der<lb break="yes"/> neuen Krankheit sei heißt <seg ana="#med">Inuflenzia</seg><lb break="yes"/> Da sind diesen Winter! - in Irrsee! -<lb break="yes"/> alle
-                Pflegerin̄en recht krank dagelegen.<lb break="yes"/> da ist man̄ sehr
-                    froh gewesen um<lb break="yes"/> mich: ich
-                    helfe<del>r</del> wüschen u. putzen:<lb break="yes"/> u. thue in der Küche
-                helfen wir<lb break="yes"/> haben sehr viel Arbeit bereits<lb break="yes"/> mehr als
-                wir thun kön̄en.<lb break="yes"/>
-<seg ana="#inst">Weil man̄ Irr<hi rendition="#i">se</hi>ee Heilanstalt<lb break="yes"/> zu Arbeit wenig brauchen weil die<lb break="yes"/> meisten
-                    unter dem großen Haufen<lb break="yes"/> Blödsinig sind.</seg> Gestern hatten
-                    wir<lb break="yes"/>
-<w>so</w><w>viel</w> Arbeit, da haben
-                wir uns sehr<lb break="yes"/> anstrengen müssen: So kön̄te ich <lb break="yes"/> nicht <del>T</del>alle Tage arbeiten dan̄ müßte<lb break="yes"/> ich Küchen gehen aufgeben.<lb break="yes"/> Ich kan̄ Dir
-                von meinen Krankheits<lb break="no"/> zustande schreiben. das ist seit dem 8<hi rendition="#u">t</hi>
-<lb break="yes"/> Dezember 1888 habe ich den̄ <seg ana="#med">Anfall</seg>
-                    nicht<lb break="yes"/> mehr bekom̄en. Mit den̄ <seg ana="#med">Blut- u. Nerven<lb break="no"/> krämpf</seg> hab ich sehr wenig zu
-                    beklagen,-<pb facs="#image_023"/> mit der <seg ana="#med">geistes-Krankheit</seg> habe ich gar <lb break="yes"/> nichts mehr zu beklagen.
-                Ich bitte noch<lb break="yes"/> den̄ Hochwohlgeborenen: H gnädigen <hi rendition="#u">Herrn</hi><lb break="yes"/> Ober-Arzt Julius: Auf das hl.
-                    Pfüng-Fest:<lb break="yes"/> wieder zu meinen lieben theuren Bruder<lb break="yes"/> Ich bitte noch den̄ Herrn Oberarzt:/ Babetha <add place="above">Joseph!</add><lb break="yes"/> daß Dir umein Hochwürdigen Herr
-                    Onkel:<lb break="yes"/> wie mit steht: meine Erlösung in meine liebe<lb break="yes"/> theure Heimath wäre meine größte Freude:
-                    ein<lb break="yes"/> Brieflein vom Herrn Onkel würde mich sehr<lb break="yes"/>
-freuen. Im Irrsee: geht die Son̄e so schön :?<lb break="yes"/> auf: wie in Kaufbeuren: Es wird alle Tag. Tag<lb break="yes"/> u.
-                Nacht. Im August ist ein erstes hl. Meßopfer die<lb break="yes"/> Irrseher habe
-                schöne reinliche Häuser!- Gehen fleißig:<lb break="yes"/> an Ihr Tagwerk Große
-                schöne Män̄er!- stattliche<lb break="yes"/> Frauenzim̄er? Von Fräulein
-                Wärterin̄?/ Einen schönen<lb break="yes"/> Gruß an Dich an mein Herrn Onkel!
-                Sie heißt Walburga<lb break="yes"/>
-<surname>L.</surname> von Unterthängau. Sie läßt Ihren Hoch Herrn<lb break="yes"/> Vetter! Durch Dich oder Onkel! freundlichst grüßen. Er<lb break="yes"/> soll uns
-                einmahl besuchen; den̄ Hw Herrn Pfarr u.<lb break="yes"/> Inspektor
-                    <surname>F.</surname> in <del>Niederrieden</del> Rieden u.<lb break="yes"/> den Pfarra Xaver <surname>H.</surname> in Boos. <seg ana="#salute">Ins hl. Herz Jesu Maria<lb break="yes"/> empfehlend verbleibe ich
+                insgesam̄t sind<lb break="yes"/>fleißig u. brav mit mir. Am der<lb break="yes"/>neuen Krankheit sei heißt <seg ana="#med">Inuflenzia</seg><lb break="yes"/>Da sind diesen Winter! - in Irrsee! -<lb break="yes"/>alle
+                Pflegerin̄en recht krank dagelegen.<lb break="yes"/>da ist man̄ sehr
+                    froh gewesen um<lb break="yes"/>mich: ich
+                    helfe<del>r</del> wüschen u. putzen:<lb break="yes"/>u. thue in der Küche
+                helfen wir<lb break="yes"/>haben sehr viel Arbeit bereits<lb break="yes"/>mehr als
+                wir thun kön̄en.<lb break="yes"/><seg ana="#inst">Weil man̄ Irr<hi rendition="#i">se</hi>ee Heilanstalt<lb break="yes"/>zu Arbeit wenig brauchen weil die<lb break="yes"/>meisten
+                    unter dem großen Haufen<lb break="yes"/>Blödsinig sind.</seg> Gestern hatten
+                    wir<lb break="yes"/><w>so</w><w>viel</w> Arbeit, da haben
+                wir uns sehr<lb break="yes"/>anstrengen müssen: So kön̄te ich<lb break="yes"/>nicht <del>T</del>alle Tage arbeiten dan̄ müßte<lb break="yes"/>ich Küchen gehen aufgeben.<lb break="yes"/>Ich kan̄ Dir
+                von meinen Krankheits<lb break="no"/>zustande schreiben. das ist seit dem 8<hi rendition="#u">t</hi><lb break="yes"/>Dezember 1888 habe ich den̄ <seg ana="#med">Anfall</seg>
+                    nicht<lb break="yes"/>mehr bekom̄en. Mit den̄ <seg ana="#med">Blut- u. Nerven<lb break="no"/>krämpf</seg> hab ich sehr wenig zu
+                    beklagen,-<pb facs="#image_023"/> mit der <seg ana="#med">geistes-Krankheit</seg> habe ich gar<lb break="yes"/>nichts mehr zu beklagen.
+                Ich bitte noch<lb break="yes"/>den̄ Hochwohlgeborenen: H gnädigen <hi rendition="#u">Herrn</hi><lb break="yes"/>Ober-Arzt Julius: Auf das hl.
+                    Pfüng-Fest:<lb break="yes"/>wieder zu meinen lieben theuren Bruder<lb break="yes"/>Ich bitte noch den̄ Herrn Oberarzt:/ Babetha <add place="above">Joseph!</add><lb break="yes"/>daß Dir umein Hochwürdigen Herr
+                    Onkel:<lb break="yes"/>wie mit steht: meine Erlösung in meine liebe<lb break="yes"/>theure Heimath wäre meine größte Freude:
+                    ein<lb break="yes"/>Brieflein vom Herrn Onkel würde mich sehr<lb break="yes"/>freuen. Im Irrsee: geht die Son̄e so schön :?<lb break="yes"/>auf: wie in Kaufbeuren: Es wird alle Tag. Tag<lb break="yes"/>u.
+                Nacht. Im August ist ein erstes hl. Meßopfer die<lb break="yes"/>Irrseher habe
+                schöne reinliche Häuser!- Gehen fleißig:<lb break="yes"/>an Ihr Tagwerk Große
+                schöne Män̄er!- stattliche<lb break="yes"/>Frauenzim̄er? Von Fräulein
+                Wärterin̄?/ Einen schönen<lb break="yes"/>Gruß an Dich an mein Herrn Onkel!
+                Sie heißt Walburga<lb break="yes"/><surname>L.</surname> von Unterthängau. Sie läßt Ihren Hoch Herrn<lb break="yes"/>Vetter! Durch Dich oder Onkel! freundlichst grüßen. Er<lb break="yes"/>soll uns
+                einmahl besuchen; den̄ Hw Herrn Pfarr u.<lb break="yes"/>Inspektor
+                    <surname>F.</surname> in <del>Niederrieden</del> Rieden u.<lb break="yes"/>den Pfarra Xaver <surname>H.</surname> in Boos. <seg ana="#salute">Ins hl. Herz Jesu Maria<lb break="yes"/>empfehlend verbleibe ich
                     Deine unvergeßliche Freundin̄</seg>
-<seg ana="#signed">Maria <lb break="yes"/>
-<hi rendition="#r">Cleofa</hi></seg>.</p>
+<seg ana="#signed">Maria<lb break="yes"/><hi rendition="#r">Cleofa</hi></seg>.</p>
 </body>
 </text>
 </TEI>

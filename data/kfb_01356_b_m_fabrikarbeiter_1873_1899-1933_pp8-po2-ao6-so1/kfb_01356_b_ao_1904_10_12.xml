@@ -30,13 +30,13 @@
 <creation>
 <persName type="sender">Katharina <surname>B.</surname></persName>
 <date type="sent">12.10.1904</date>
-<date type="received"/>
-<persName type="addressee">Medizinalrat:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Augsburg</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
-<person sex="m" xml:id="kfb1356">
+<person sex="m" xml:id="kfb1356b">
 <persName>
 <forename>Josef</forename>
 <surname>B.</surname>
@@ -44,12 +44,12 @@
 <birth when="1873"/>
 <death cert="unknown"/>
 <occupation>Fabrikarbeiter, Weber</occupation>
-<residence>Augsburg</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bruder: Kammgarnspinnerei</p>
-<p>Anstalt: 1899-1933</p>
+<p>Anstalt: <date from="1899" to="1933">1899-1933</date></p>
 <p>Brieftypen: pp, po, ao, lebenslauf</p>
 </state>
 <trait><p>Depression, [Suizidalität], Angstanfälle (1899), Halluzination (1908)</p></trait>
@@ -83,26 +83,12 @@
 <body>
 <pb facs="#image_003"/>
 <opener>
-<dateline><hi rendition="#r">Augsburg de 12 Oktober<lb break="yes"/>
-				        1904</hi></dateline>
-<salute><hi rendition="#c">Hochgehrter, Herr kgl.<lb break="yes"/>
-<w>Medizienahl Raht</w>.</hi></salute>
+<dateline><hi rendition="#r">Augsburg de 12 Oktober<lb break="yes"/>1904</hi></dateline>
+<salute><hi rendition="#c">Hochgehrter, Herr kgl.<lb break="yes"/><w>Medizienahl Raht</w>.</hi></salute>
 </opener>
 <p>
 <add hand="arzt1"><hi rendition="#i"><hi rendition="#u">Marke</hi></hi></add></p>
-<p>Darf ich Ihnen gütigst<lb break="yes"/>
-bitten um eine kleine<lb break="yes"/>
-nachricht über daß befinden<lb break="yes"/>
-meines kranken Sohne<lb break="yes"/>
-<hi rendition="#u" style="arzt2">Joseph <surname>B.</surname></hi>, ist es noch<lb break="yes"/>
-nicht besser, oder habe ich<lb break="yes"/>
-noch Hofnug daß es wieder<lb break="yes"/>
-gut wird. Ist Er vieleicht<lb break="yes"/>
-bös über mich daß er<lb break="yes"/>
-seiner Mutter gar nicht<lb break="yes"/>
-schreibt. Es dankt für<lb break="yes"/>
-alles. <seg ana="#signed">Frau Katharina <surname>B.</surname><lb break="yes"/>
-Hochachtungsvoll Mutter</seg>
+<p>Darf ich Ihnen gütigst<lb break="yes"/>bitten um eine kleine<lb break="yes"/>nachricht über daß befinden<lb break="yes"/>meines kranken Sohne<lb break="yes"/><hi rendition="#u" style="arzt2">Joseph <surname>B.</surname></hi>, ist es noch<lb break="yes"/>nicht besser, oder habe ich<lb break="yes"/>noch Hofnug daß es wieder<lb break="yes"/>gut wird. Ist Er vieleicht<lb break="yes"/>bös über mich daß er<lb break="yes"/>seiner Mutter gar nicht<lb break="yes"/>schreibt. Es dankt für<lb break="yes"/>alles. <seg ana="#signed">Frau Katharina <surname>B.</surname><lb break="yes"/>Hochachtungsvoll Mutter</seg>
 </p>
 </body>
 </text>

@@ -31,10 +31,10 @@
 <creation>
 <persName type="sender">Marie Cleofa <surname>G.</surname></persName>
 <date type="sent">15.05.1891</date>
-<date type="received"/>
-<persName type="addressee">Vormund, Bürgermeister, Landrichter:  <surname>u.</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Vormund, Bürgermeister, Landrichter: n.a. <surname>u.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2827g">
@@ -45,12 +45,12 @@
 <birth when="1845"/>
 <death cert="unknown"/>
 <occupation>Bauerstochter</occupation>
-<residence>Engishausen, Illertissen</residence>
+<residence><geo decls="#WGS">48.1082257 10.2728225</geo>Engishausen, Illertissen</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bauern</p>
-<p>Anstalt: 1877-1923</p>
+<p>Anstalt: <date from="1877" to="1923">1877-1923</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Manie (1923)</p></trait>
@@ -84,19 +84,16 @@
 <opener>
 <dateline><hi rendition="#c">Heilanstalt-<hi rendition="#i">Irr</hi>se<hi rendition="#i">ee</hi>.</hi><lb break="yes"/><hi rendition="#r">den̄ 15 Mai
                         1891.</hi></dateline>
-<salute><hi rendition="#r">Theuerster. Herr Vetter u. Vormund!<lb break="yes"/> Theuer Herr
-                        Vetter.− Bürgemeister!−<lb break="yes"/> Hochwohl, geboren
-                            gnädiger!<lb break="yes"/> Landrichter
-                            <surname>S.</surname>!−<lb break="yes"/> als ganz
+<salute><hi rendition="#r">Theuerster. Herr Vetter u. Vormund!<lb break="yes"/>Theuer Herr
+                        Vetter.− Bürgemeister!−<lb break="yes"/>Hochwohl, geboren
+                            gnädiger!<lb break="yes"/>Landrichter
+                            <surname>S.</surname>!−<lb break="yes"/>als ganz
                         Unbekan̄t.− </hi></salute>
 </opener>
 <p>
 G. I. Ch.</p>
-<p>Mit Erlaubniß des Herrn Oeberarzt:<lb break="yes"/> Julius: Mit großer Freude wir mir<lb break="yes"/> du Euch Alle die Entassung gegeben.<lb break="yes"/> Noch durch den̄ letzten Brief mit<lb break="yes"/>
-                Bestättigung: des neuen Dierektor.<lb break="yes"/> Doktor! Ulrich.<lb break="yes"/>
-<seg ana="#salute">Viele :- Grüße u. Enpfehlungen-<lb break="yes"/> Eure
-                    dankbare.</seg><lb break="yes"/>
-<hi rendition="#r">Baase <seg ana="#signed">Maria Clofa
+<p>Mit Erlaubniß des Herrn Oeberarzt:<lb break="yes"/>Julius: Mit großer Freude wir mir<lb break="yes"/>du Euch Alle die Entassung gegeben.<lb break="yes"/>Noch durch den̄ letzten Brief mit<lb break="yes"/>Bestättigung: des neuen Dierektor.<lb break="yes"/>Doktor! Ulrich.<lb break="yes"/><seg ana="#salute">Viele :- Grüße u. Enpfehlungen-<lb break="yes"/>Eure
+                    dankbare.</seg><lb break="yes"/><hi rendition="#r">Baase <seg ana="#signed">Maria Clofa
                             <surname>G.</surname></seg></hi>
 </p>
 </body>

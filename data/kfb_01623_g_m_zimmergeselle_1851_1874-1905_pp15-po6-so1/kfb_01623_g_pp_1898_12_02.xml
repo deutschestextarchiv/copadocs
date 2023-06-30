@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Johannes <surname>G.</surname></persName>
 <date type="sent">02.12.1898</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Vetter: Gottfried <surname>N.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb1623g">
@@ -44,12 +44,12 @@
 <birth when="1851"/>
 <death when="1905"/>
 <occupation>Zimmergeselle</occupation>
-<residence>Riedheim, Günzburg</residence>
+<residence><geo decls="#WGS">48.4613104 10.1908503</geo>Riedheim, Günzburg</residence>
 <faith>protestantisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Söldner</p>
-<p>Anstalt: 1874-1905</p>
+<p>Anstalt: <date from="1874" to="1905">1874-1905</date></p>
 <p>Brieftypen: pp, po, Lebenslauf, Liedertafel</p>
 </state>
 <trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
@@ -94,32 +94,20 @@
 <salute><hi rendition="#c">Geehrtester Vetter!</hi></salute>
 </opener>
 <p>
-<add hand="arzt"><hi rendition="#i"><surname>G.</surname></hi></add>
-<lb break="yes"/> Ich bin Gott sey Dank gesund,<lb break="yes"/> weiß auch daß ich
-                    täglich<lb break="yes"/> älter werde, wie Iedermann:<lb break="yes"/> Meine
-                Schwester war <add>bei</add> Dir Magt<lb break="yes"/> und dann bei Der alten
-                    <surname>M.</surname><lb break="yes"/> wie sie die Riedheimer Leute<lb break="yes"/> auch nannten.<lb break="yes"/> Mein bruder in Langenau<lb break="yes"/> hat mir vor etwa 3/4 Iahr<lb break="yes"/> geschrieben. Diesen
-                Brief, habe <lb break="yes"/> ich von Herrn Oberarzt <hi rendition="#i">Julius</hi><lb break="yes"/> erhalten. Ich erfuhr darin, daß<lb break="yes"/>
-                Er gesund war und seine Familie<lb break="yes"/>
-<seg ana="#med">Lieber Vetter verzeihe mir, wenn<lb break="yes"/> ich in kranken
-                    Zuständen Dich<lb break="yes"/> beleidigt hätte. Du kennst ja<pb facs="#image_056"/> mich so gut oder fast besser als<lb break="yes"/> meine
-                    Geschwister, Die junge<lb break="yes"/>
-<surname>M.</surname> soll auch schwermüthig<lb break="yes"/> geworten
-                    sein, Der Todt <del>übeles</del><lb break="yes"/> Ihres geliebten Vaters wird<lb break="yes"/> wahrscheinlich beigetragen<lb break="yes"/> haben. Ich bin
-                    zwar kein Arzt<lb break="yes"/> aber es kennen auch <hi rendition="#i">Docktor</hi><lb break="yes"/> nicht für jedes Gemüth Sorge<lb break="yes"/>
-                    tragen. Die Natur trauert bei<lb break="yes"/> einen drüben gestimten Gemüth<lb break="yes"/> Darum heißt das Sprichwort<lb break="yes"/> Ein fröhlig Gemüth
-                    ist ein täg<lb break="no"/> liches Wohlleben.</seg></p> <p>Grüße mir Alle Bekannten und<lb break="yes"/> Verwanden. Der liebe Gott segne<lb break="yes"/>
-                es allen, welche aus guten Herzen<lb break="yes"/> für mich etwas geopfert haben<lb break="yes"/> Ich bin sehr dankbar für Die <lb break="yes"/> Gaben von
-                denjenigen, welche<pb facs="#image_057"/> aus Liebe gegeben haben.<lb break="yes"/>
-                Die Frau Gastwirthin Christina<lb break="yes"/>
-<surname>H.</surname> u Ihren Gattin Martin<lb break="yes"/> grüße mir
-                    freundlichst.<lb break="yes"/> <seg ana="#salute">Ich will schließen<lb break="yes"/> Dein<lb break="yes"/>
-<hi rendition="#c">dankschuldiger<lb break="yes"/> Vetter</hi></seg><lb break="yes"/>
-<hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Johannes</hi>
-<surname>G.</surname></seg><lb break="yes"/>  Zim̄ergeselle<lb break="yes"/>  Patiend in der kgl.<lb break="yes"/>  Anstalt <hi rendition="#i">Irsee</hi> b. Kaufbeuren</hi><pb facs="#image_058"/> Herrn<lb break="yes"/>
-<hi rendition="#r"><hi rendition="#i">Gottfried <surname>N.</surname></hi>,
-                        Schreinermeister<lb break="yes"/> in<lb break="yes"/>
-<hi rendition="#i">Riedheim.<lb break="yes"/> Post Leipheim.</hi></hi></p>
+<add hand="arzt"><hi rendition="#i"><surname>G.</surname></hi></add><lb break="yes"/>Ich bin Gott sey Dank gesund,<lb break="yes"/>weiß auch daß ich
+                    täglich<lb break="yes"/>älter werde, wie Iedermann:<lb break="yes"/>Meine
+                Schwester war <add>bei</add> Dir Magt<lb break="yes"/>und dann bei Der alten
+                    <surname>M.</surname><lb break="yes"/>wie sie die Riedheimer Leute<lb break="yes"/>auch nannten.<lb break="yes"/>Mein bruder in Langenau<lb break="yes"/>hat mir vor etwa 3/4 Iahr<lb break="yes"/>geschrieben. Diesen
+                Brief, habe<lb break="yes"/>ich von Herrn Oberarzt <hi rendition="#i">Julius</hi><lb break="yes"/>erhalten. Ich erfuhr darin, daß<lb break="yes"/>Er gesund war und seine Familie<lb break="yes"/><seg ana="#med">Lieber Vetter verzeihe mir, wenn<lb break="yes"/>ich in kranken
+                    Zuständen Dich<lb break="yes"/>beleidigt hätte. Du kennst ja<pb facs="#image_056"/> mich so gut oder fast besser als<lb break="yes"/>meine
+                    Geschwister, Die junge<lb break="yes"/><surname>M.</surname> soll auch schwermüthig<lb break="yes"/>geworten
+                    sein, Der Todt <del>übeles</del><lb break="yes"/>Ihres geliebten Vaters wird<lb break="yes"/>wahrscheinlich beigetragen<lb break="yes"/>haben. Ich bin
+                    zwar kein Arzt<lb break="yes"/>aber es kennen auch <hi rendition="#i">Docktor</hi><lb break="yes"/>nicht für jedes Gemüth Sorge<lb break="yes"/>tragen. Die Natur trauert bei<lb break="yes"/>einen drüben gestimten Gemüth<lb break="yes"/>Darum heißt das Sprichwort<lb break="yes"/>Ein fröhlig Gemüth
+                    ist ein täg<lb break="no"/>liches Wohlleben.</seg></p> <p>Grüße mir Alle Bekannten und<lb break="yes"/>Verwanden. Der liebe Gott segne<lb break="yes"/>es allen, welche aus guten Herzen<lb break="yes"/>für mich etwas geopfert haben<lb break="yes"/>Ich bin sehr dankbar für Die<lb break="yes"/>Gaben von
+                denjenigen, welche<pb facs="#image_057"/> aus Liebe gegeben haben.<lb break="yes"/>Die Frau Gastwirthin Christina<lb break="yes"/><surname>H.</surname> u Ihren Gattin Martin<lb break="yes"/>grüße mir
+                    freundlichst.<lb break="yes"/><seg ana="#salute">Ich will schließen<lb break="yes"/>Dein<lb break="yes"/><hi rendition="#c">dankschuldiger<lb break="yes"/>Vetter</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Johannes</hi>
+<surname>G.</surname></seg><lb break="yes"/>Zim̄ergeselle<lb break="yes"/>Patiend in der kgl.<lb break="yes"/>Anstalt <hi rendition="#i">Irsee</hi> b. Kaufbeuren</hi><pb facs="#image_058"/> Herrn<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Gottfried <surname>N.</surname></hi>,
+                        Schreinermeister<lb break="yes"/>in<lb break="yes"/><hi rendition="#i">Riedheim.<lb break="yes"/>Post Leipheim.</hi></hi></p>
 </body>
 </text>
 </TEI>

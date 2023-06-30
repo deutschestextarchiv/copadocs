@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Elisabeth <surname>S.</surname></persName>
 <date type="sent">15.06.1903</date>
-<date type="received"/>
-<persName type="addressee">Arzt:  <surname> .</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a. <surname> .</surname></persName>
 <settlement type="sent">Münster</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="mun1297s">
@@ -44,12 +44,12 @@
 <birth when="1873-01-15"/>
 <death when="1924-06-26"/>
 <occupation>Haushälterin</occupation>
-<residence>Geburtsort: Brakel; Wohnort: Werl</residence>
+<residence><geo decls="#WGS">51.5533457 7.9155558</geo>Geburtsort: Brakel; Wohnort: Werl</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Vater: Wegemeister, Mutter: ohne Beruf</p>
-<p>Anstalt: 19.01.1901-26.06.1924</p>
+<p>Anstalt: <date from="19.01.1901" to="26.06.1924">19.01.1901-26.06.1924</date></p>
 <p>Brieftypen: pp, po, so</p>
 </state>
 <trait><p>einfache Seelenstörung (1901), Dementia paranoides</p></trait>
@@ -90,25 +90,22 @@
 <dateline><add hand="vordruck">Provinzial-Heil-Anstalt  <hi rendition="#r">Münster i. W., den</hi></add><hi rendition="#r"> 15.6. Juni 1903.</hi></dateline>
 <salute/>
 </opener>
-<p><add hand="hand3"><surname><hi rendition="#i">S.</hi></surname></add>
-<lb break="yes"/><add hand="hand4"><unclear>E</unclear>
-<hi rendition="#sup">17</hi>/<hi rendition="#sub">6</hi> 03 <lb break="yes"/><space/>
+<p><add hand="hand3"><surname><hi rendition="#i">S.</hi></surname></add><lb break="yes"/><add hand="hand4"><unclear>E</unclear>
+<hi rendition="#sup">17</hi>/<hi rendition="#sub">6</hi> 03<lb break="yes"/><space/>
 <hi rendition="#u" style="hand5">ad acta</hi> Elise <surname><hi rendition="#i">S.</hi></surname>
 </add></p>
 <p>Den 16. werde ich von der Provinzial<lb break="no"/>Irrenanstalt Marienthal
-                entlassen, <lb break="yes"/>und denke den 18. dieses Monats <lb break="yes"/>nach
-                Bochum zu kommen. Von Hau<lb break="no"/>se von Werl meiner Eltern kom<lb break="no"/>me ich dort hin. In betref habe ich <lb break="yes"/>hir in Waschhaus mit heises
-                Wasser <lb break="yes"/>hatte mir eine Kranke aus Un<lb break="no"/>vorsichtigkeit
+                entlassen,<lb break="yes"/>und denke den 18. dieses Monats<lb break="yes"/>nach
+                Bochum zu kommen. Von Hau<lb break="no"/>se von Werl meiner Eltern kom<lb break="no"/>me ich dort hin. In betref habe ich<lb break="yes"/>hir in Waschhaus mit heises
+                Wasser<lb break="yes"/>hatte mir eine Kranke aus Un<lb break="no"/>vorsichtigkeit
                 in der Hand am Wasser<lb break="no"/>krahn und knallte <w>an</w><w>der</w> linke
-                Hand <lb break="yes"/>Seite ab, und gekratzt oben drein auf <lb break="yes"/>der
+                Hand<lb break="yes"/>Seite ab, und gekratzt oben drein auf<lb break="yes"/>der
                 rechten Hand, ich siehe zu Rate <pb facs="#image_021"/>Herr Proffessor Lönbker weil
-                Sie <lb break="yes"/>damals Bruder Joseph <surname>S.</surname>
-<lb break="yes"/>in Behandlung gehabt haben aufs <lb break="yes"/>weitere mündlich
-                mehr. In übrigen <lb break="yes"/>bin ich zwei Jahr und 4 Monate hir <lb break="yes"/>wären der Zeit ganz ruhig ge<lb break="no"/>halten, werde von meiner Mut<lb break="no"/>ter Morgen den 16. dieses Monat <lb break="yes"/>geholt,
-                        <del><unclear>auft</unclear></del> Schwierigkeiten habe <lb break="yes"/>ich
-                viel <w>mit gemacht</w> das andere <lb break="yes"/>Befördern weiter. Ich bin die
-                Tochter <lb break="yes"/>des Wegemeister <hi rendition="#i">A. </hi><surname><hi rendition="#i">S.</hi></surname>
-<lb break="yes"/>zu Werl. <lb break="yes"/>Münster den 1<del>6</del>5. 6. Juni 1903. </p>
+                Sie<lb break="yes"/>damals Bruder Joseph <surname>S.</surname><lb break="yes"/>in Behandlung gehabt haben aufs<lb break="yes"/>weitere mündlich
+                mehr. In übrigen<lb break="yes"/>bin ich zwei Jahr und 4 Monate hir<lb break="yes"/>wären der Zeit ganz ruhig ge<lb break="no"/>halten, werde von meiner Mut<lb break="no"/>ter Morgen den 16. dieses Monat<lb break="yes"/>geholt,
+                        <del><unclear>auft</unclear></del> Schwierigkeiten habe<lb break="yes"/>ich
+                viel <w>mit gemacht</w> das andere<lb break="yes"/>Befördern weiter. Ich bin die
+                Tochter<lb break="yes"/>des Wegemeister <hi rendition="#i">A. </hi><surname><hi rendition="#i">S.</hi></surname><lb break="yes"/>zu Werl.<lb break="yes"/>Münster den 1<del>6</del>5. 6. Juni 1903. </p>
 </body>
 </text>
 </TEI>

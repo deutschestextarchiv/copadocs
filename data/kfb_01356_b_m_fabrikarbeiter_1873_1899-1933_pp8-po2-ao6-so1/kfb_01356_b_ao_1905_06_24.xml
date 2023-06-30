@@ -30,13 +30,13 @@
 <creation>
 <persName type="sender">Katharina <surname>B.</surname></persName>
 <date type="sent">24.06.1905</date>
-<date type="received"/>
-<persName type="addressee">Medizinalrat:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Lechhausen</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
-<person sex="m" xml:id="kfb1356">
+<person sex="m" xml:id="kfb1356b">
 <persName>
 <forename>Josef</forename>
 <surname>B.</surname>
@@ -44,12 +44,12 @@
 <birth when="1873"/>
 <death cert="unknown"/>
 <occupation>Fabrikarbeiter, Weber</occupation>
-<residence>Augsburg</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bruder: Kammgarnspinnerei</p>
-<p>Anstalt: 1899-1933</p>
+<p>Anstalt: <date from="1899" to="1933">1899-1933</date></p>
 <p>Brieftypen: pp, po, ao, lebenslauf</p>
 </state>
 <trait><p>Depression, [Suizidalität], Angstanfälle (1899), Halluzination (1908)</p></trait>
@@ -82,17 +82,12 @@
 <pb facs="#image_006"/>
 <opener>
 <dateline><hi rendition="#r"><hi rendition="#i">Lechhausen 24.6.05</hi></hi></dateline>
-<salute>Hochgeehrtester Herr<lb break="yes"/>
-<hi rendition="#i">kgl. Medizinahlrath</hi>!</salute>
+<salute>Hochgeehrtester Herr<lb break="yes"/><hi rendition="#i">kgl. Medizinahlrath</hi>!</salute>
 </opener>
-<p> Möchte Sie höfl. bitten,<lb break="yes"/> um Auskunft über das<lb break="yes"/> Befinden
-                meines kranken<lb break="yes"/> Sohnes <hi rendition="#i">Josef
-                        <surname>B.</surname></hi>; und<lb break="yes"/> ob es möglich wäre,
-                    Ihn<lb break="yes"/> bald zu besuchen.<lb break="yes"/>
-<hi rendition="#r"><seg ana="#signed">Im voraus höflichst<lb break="yes"/> dankend<lb break="yes"/>
-<hi rendition="#i">Katharina <surname>B.</surname><lb break="yes"/>
-                            Wittwe.</hi></seg></hi><lb break="yes"/> Adresse <hi rendition="#i">Ludwigstraße N<hi rendition="#sup"><hi rendition="#u">o</hi></hi>2.<lb break="yes"/>
-<hi rendition="#c">Lechhausen</hi></hi>
+<p> Möchte Sie höfl. bitten,<lb break="yes"/>um Auskunft über das<lb break="yes"/>Befinden
+                meines kranken<lb break="yes"/>Sohnes <hi rendition="#i">Josef
+                        <surname>B.</surname></hi>; und<lb break="yes"/>ob es möglich wäre,
+                    Ihn<lb break="yes"/>bald zu besuchen.<lb break="yes"/><hi rendition="#r"><seg ana="#signed">Im voraus höflichst<lb break="yes"/>dankend<lb break="yes"/><hi rendition="#i">Katharina <surname>B.</surname><lb break="yes"/>Wittwe.</hi></seg></hi><lb break="yes"/>Adresse <hi rendition="#i">Ludwigstraße N<hi rendition="#sup"><hi rendition="#u">o</hi></hi>2.<lb break="yes"/><hi rendition="#c">Lechhausen</hi></hi>
 </p>
 </body>
 </text>

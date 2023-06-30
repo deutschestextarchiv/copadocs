@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Anna <surname>S.</surname></persName>
 <date type="sent">12.07.1857</date>
-<date type="received"/>
-<persName type="addressee">Arzt:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Schwabing</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb120h">
@@ -44,12 +44,12 @@
 <birth when="1834"/>
 <death cert="unknown"/>
 <occupation>Zimmermannstochter</occupation>
-<residence>München</residence>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Zimmermann, "ohne Vermögen"</p>
-<p>Anstalt: 1854-58</p>
+<p>Anstalt: <date from="1854" to="1858">1854-58</date></p>
 <p>Brieftypen: pp, po, ap, ao</p>
 </state>
 <trait><p>Melancholie, Geistesstörung (1854)</p></trait>
@@ -87,8 +87,7 @@
 <pb facs="#image_001"/>
 <opener>
 <dateline><hi rendition="#c">Schwabing den 12 July 1857.</hi></dateline>
-<salute><hi rendition="#c">Euer Wohlgeborn!</hi><lb break="yes"/>
-<hi rendition="#i">Hochzuverehrender Herr Doctor!</hi></salute>
+<salute><hi rendition="#c">Euer Wohlgeborn!</hi><lb break="yes"/><hi rendition="#i">Hochzuverehrender Herr Doctor!</hi></salute>
 </opener>
 <p>Herzlich dankend für die dem Briefe meiner Tochter angefügten<lb break="yes"/>Zeilen
                 bezüglich der Geisteszustand gebe ich mir die Ehre Ew<lb break="yes"/>Wohlgeborn zu

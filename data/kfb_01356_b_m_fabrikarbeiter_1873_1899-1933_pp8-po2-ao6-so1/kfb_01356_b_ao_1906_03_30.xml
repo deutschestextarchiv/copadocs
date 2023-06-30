@@ -30,13 +30,13 @@
 <creation>
 <persName type="sender">Franz <surname>B.</surname></persName>
 <date type="sent">30.03.1906</date>
-<date type="received"/>
-<persName type="addressee">Direktor:  <surname>n.</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Augsburg</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
-<person sex="m" xml:id="kfb1356">
+<person sex="m" xml:id="kfb1356b">
 <persName>
 <forename>Josef</forename>
 <surname>B.</surname>
@@ -44,12 +44,12 @@
 <birth when="1873"/>
 <death cert="unknown"/>
 <occupation>Fabrikarbeiter, Weber</occupation>
-<residence>Augsburg</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bruder: Kammgarnspinnerei</p>
-<p>Anstalt: 1899-1933</p>
+<p>Anstalt: <date from="1899" to="1933">1899-1933</date></p>
 <p>Brieftypen: pp, po, ao, lebenslauf</p>
 </state>
 <trait><p>Depression, [Suizidalität], Angstanfälle (1899), Halluzination (1908)</p></trait>
@@ -88,31 +88,14 @@
 <salute>Hochgeehrter Herr Direktor!</salute>
 </opener>
 <p>
-<space/> Der ergebenst Unter<lb break="no"/>
-zeichnete möchte der kgl. Direktion<lb break="yes"/>
-hiedurch mittheilen, daß die Mutter,<lb break="yes"/>
-des in der Heilanstalt Kaufbeuren<lb break="yes"/>
-verpflegten Joseph <surname>B.</surname> inzwischen<lb break="yes"/>
-gestorben ist. Dieselbe hat von der<lb break="yes"/>
-kgl. Direktion allmonatlich eine Be<lb break="no"/>
-stättigung, zweks einer Invaliden<lb break="yes"/>
-rente, erhalten.
+<space/> Der ergebenst Unter<lb break="no"/>zeichnete möchte der kgl. Direktion<lb break="yes"/>hiedurch mittheilen, daß die Mutter,<lb break="yes"/>des in der Heilanstalt Kaufbeuren<lb break="yes"/>verpflegten Joseph <surname>B.</surname> inzwischen<lb break="yes"/>gestorben ist. Dieselbe hat von der<lb break="yes"/>kgl. Direktion allmonatlich eine Be<lb break="no"/>stättigung, zweks einer Invaliden<lb break="yes"/>rente, erhalten.
 				    
 <pb facs="#image_008"/>
-Bitte um gütige Mittheilung<lb break="yes"/>
-über das Befinden meines<lb break="yes"/>
-kranken Bruders.</p>
-<p>Achtungsvollst<lb break="yes"/>
-<hi rendition="#r">Franz <surname>B.</surname>.</hi></p>
-<p>Proviantbachquartier <hi rendition="#i">N<hi rendition="#sup"><hi rendition="#u">o</hi></hi></hi>7.<lb break="yes"/>
-Augsburg</p>
-<p><add hand="arzt1"/>Vermerkt. <hi rendition="#i">Retur</hi><lb break="yes"/> 214.</p>
-<p><handShift scribe="arzt2"/><hi rendition="#i">Eignet sich nicht<lb break="yes"/>
-zur Entlassung<lb break="yes"/>
-ist pflege- u. anstalts<lb break="yes"/>
-bedürfnis.<lb break="yes"/>
-Vielleicht später einmal<lb break="yes"/>
-Vorerst hat er sich gebess</hi>
+Bitte um gütige Mittheilung<lb break="yes"/>über das Befinden meines<lb break="yes"/>kranken Bruders.</p>
+<p>Achtungsvollst<lb break="yes"/><hi rendition="#r">Franz <surname>B.</surname>.</hi></p>
+<p>Proviantbachquartier <hi rendition="#i">N<hi rendition="#sup"><hi rendition="#u">o</hi></hi></hi>7.<lb break="yes"/>Augsburg</p>
+<p><add hand="arzt1"/>Vermerkt. <hi rendition="#i">Retur</hi><lb break="yes"/>214.</p>
+<p><handShift scribe="arzt2"/><hi rendition="#i">Eignet sich nicht<lb break="yes"/>zur Entlassung<lb break="yes"/>ist pflege- u. anstalts<lb break="yes"/>bedürfnis.<lb break="yes"/>Vielleicht später einmal<lb break="yes"/>Vorerst hat er sich gebess</hi>
 </p>
 </body>
 </text>

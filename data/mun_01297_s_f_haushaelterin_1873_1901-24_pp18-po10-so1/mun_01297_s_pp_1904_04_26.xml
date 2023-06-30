@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Elisabeth <surname>S.</surname></persName>
 <date type="sent">26.04.1904</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Bruder: Anton <surname>S.</surname></persName>
 <settlement type="sent">Münster</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="mun1297s">
@@ -44,12 +44,12 @@
 <birth when="1873-01-15"/>
 <death when="1924-06-26"/>
 <occupation>Haushälterin</occupation>
-<residence>Geburtsort: Brakel; Wohnort: Werl</residence>
+<residence><geo decls="#WGS">51.5533457 7.9155558</geo>Geburtsort: Brakel; Wohnort: Werl</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Vater: Wegemeister, Mutter: ohne Beruf</p>
-<p>Anstalt: 19.01.1901-26.06.1924</p>
+<p>Anstalt: <date from="19.01.1901" to="26.06.1924">19.01.1901-26.06.1924</date></p>
 <p>Brieftypen: pp, po, so</p>
 </state>
 <trait><p>einfache Seelenstörung (1901), Dementia paranoides</p></trait>
@@ -94,50 +94,41 @@
 <salute><hi rendition="#c">Lieber Bruder <hi rendition="#i">Anton</hi>!</hi></salute>
 </opener>
 <p><surname><hi rendition="#i">S.</hi></surname><hi rendition="#u">. </hi></p>
-<p><add hand="hand3"><unclear>E</unclear> 24./<hi rendition="#sub">5</hi> 04 <lb break="yes"/><hi rendition="#u" style="hand4">ad acta</hi> Elise
-                            <surname><hi rendition="#i">S.</hi></surname>
-<lb break="yes"/><hi rendition="#c">G </hi></add></p>
+<p><add hand="hand3"><unclear>E</unclear> 24./<hi rendition="#sub">5</hi> 04<lb break="yes"/><hi rendition="#u" style="hand4">ad acta</hi> Elise
+                            <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/><hi rendition="#c">G </hi></add></p>
 <p><add place="bottom"><unclear>oder
                 Mutter</unclear> Elisabeth <surname>S.</surname></add></p>
-<p>Eine Bitte lieber Bruder <lb break="yes"/><hi rendition="#i">Anton</hi> gerne etwas
-                von <lb break="yes"/>hören wie es geht <hi rendition="#i">Maria</hi>
-<lb break="yes"/>Karl hoffentlich gut daßglei<lb break="no"/>che mit mir jeden Tage
-                    <lb break="yes"/>auch gut, und hoffe auch <lb break="yes"/>daß man mich
-                    <del>auch</del> gerne <lb break="yes"/> zu Hause errinert nicht verges<pb break="no" facs="#image_066"/>sen verschicken. Ich wünsche <lb break="yes"/>daß
-                mir eine schwarze Jacke; <lb break="yes"/>Sommerhut schwarzen, einen <lb break="yes"/>schwarzen Unterrock und wollen <lb break="yes"/>Unterrock Sommerhandschuhe 1.
-                Paar. <lb break="yes"/>1 Paar schwarze Strümpfe gerne <lb break="yes"/>lieber Bruder
+<p>Eine Bitte lieber Bruder<lb break="yes"/><hi rendition="#i">Anton</hi> gerne etwas
+                von<lb break="yes"/>hören wie es geht <hi rendition="#i">Maria</hi><lb break="yes"/>Karl hoffentlich gut daßglei<lb break="no"/>che mit mir jeden Tage<lb break="yes"/>auch gut, und hoffe auch<lb break="yes"/>daß man mich
+                    <del>auch</del> gerne<lb break="yes"/>zu Hause errinert nicht verges<pb break="no" facs="#image_066"/>sen verschicken. Ich wünsche<lb break="yes"/>daß
+                mir eine schwarze Jacke;<lb break="yes"/>Sommerhut schwarzen, einen<lb break="yes"/>schwarzen Unterrock und wollen<lb break="yes"/>Unterrock Sommerhandschuhe 1.
+                Paar.<lb break="yes"/>1 Paar schwarze Strümpfe gerne<lb break="yes"/>lieber Bruder
                     <hi rendition="#i">Anton</hi> folgen be<lb break="no"/>sorgen gerne und besuchen
-                freue <lb break="yes"/>mich doch auf 1. neues Korset wen <lb break="yes"/>es geht
-                liebe Schwester Maria <lb break="yes"/>kommt nach Münster nicht <lb break="yes"/>vergessen <w>mit gebracht</w> wird. <lb break="yes"/><hi rendition="#i">Dortmund
-                    Heinri</hi>ch Joseph geht <lb break="yes"/>hoffentlich gut, lieben Eltern <lb break="yes"/>und lieben Geschwistern auch <lb break="yes"/><add place="margin">neues <lb break="yes"/>Skapulier <lb break="yes"/>bekomme. <lb break="yes"/>blau <lb break="yes"/>Strümpfe <lb break="yes"/><w>mit<lb break="no"/>gebracht</w>.</add>
+                freue<lb break="yes"/>mich doch auf 1. neues Korset wen<lb break="yes"/>es geht
+                liebe Schwester Maria<lb break="yes"/>kommt nach Münster nicht<lb break="yes"/>vergessen <w>mit gebracht</w> wird.<lb break="yes"/><hi rendition="#i">Dortmund
+                    Heinri</hi>ch Joseph geht<lb break="yes"/>hoffentlich gut, lieben Eltern<lb break="yes"/>und lieben Geschwistern auch<lb break="yes"/><add place="margin">neues<lb break="yes"/>Skapulier<lb break="yes"/>bekomme.<lb break="yes"/>blau<lb break="yes"/>Strümpfe<lb break="yes"/><w>mit<lb break="no"/>gebracht</w>.</add>
 </p>
 <pb facs="#image_067"/>
-<p>gute Wort halten empfielt sich seiner <lb break="yes"/>im Gebet hoffe man daß gesund
-                zu Hau<lb break="no"/>se geheilt wird es wie geht rechte Geduld <lb break="yes"/>behalten alle Tage Anordnungen <lb break="yes"/>deiner Vorgesetzten folge willig
-                    <lb break="yes"/>wird auch besser. </p>
+<p>gute Wort halten empfielt sich seiner<lb break="yes"/>im Gebet hoffe man daß gesund
+                zu Hau<lb break="no"/>se geheilt wird es wie geht rechte Geduld<lb break="yes"/>behalten alle Tage Anordnungen<lb break="yes"/>deiner Vorgesetzten folge willig<lb break="yes"/>wird auch besser. </p>
 <p>In betreff der Sache an geht verschi<lb break="no"/>cken wen ich Besuch bekomme
-                Herrn <lb break="yes"/>Geheimrat Sanitäsrat Rubarth aus <lb break="yes"/>Marsberg,
-                an den Herrn <w>Landes <lb break="yes"/>hauptmann</w> Holle wen ich
-                <del>gern</del>nicht Hau<lb break="no"/>se dan gerne nach Marsberg (wie <lb break="yes"/>Gott will) auch nicht anders geht geheilt <lb break="yes"/>wird es
-                nach <del>Lengerich</del> geht wende dich <lb break="yes"/>bitte <add place="above">Herrn</add> Rektor Engelking <del>(Herrn)</del>
-<add place="above"><hi rendition="#i">Münster</hi></add> verändern <lb break="yes"/><del>Lengrich</del> Dr. Schäfer schweigen. </p>
+                Herrn<lb break="yes"/>Geheimrat Sanitäsrat Rubarth aus<lb break="yes"/>Marsberg,
+                an den Herrn <w>Landes<lb break="yes"/>hauptmann</w> Holle wen ich
+                <del>gern</del>nicht Hau<lb break="no"/>se dan gerne nach Marsberg (wie<lb break="yes"/>Gott will) auch nicht anders geht geheilt<lb break="yes"/>wird es
+                nach <del>Lengerich</del> geht wende dich<lb break="yes"/>bitte <add place="above">Herrn</add> Rektor Engelking <del>(Herrn)</del>
+<add place="above"><hi rendition="#i">Münster</hi></add> verändern<lb break="yes"/><del>Lengrich</del> Dr. Schäfer schweigen. </p>
 <pb facs="#image_068"/>
-<p>blaue dein oben im Krankenhause zu Haspe <lb break="yes"/>gerne ganz anders
-                körperliche Kranken <lb break="yes"/><add>Herrn Dr.</add> Geheimrat Sanitäsrat
-                Reismann <lb break="yes"/><add>Haspe</add> Behandlung sehr gut treue geopfert <lb break="yes"/>wird mir Freuden dort hin Vorge<lb break="no"/>setzten geachtet
-                auch im Gebet <lb break="yes"/>Gericht halte doch bei zu Hause mit <lb break="yes"/>mein teures Weisenhaus zu Haspe <lb break="yes"/>gerne wieder hin nach mein gute
-                    <lb break="yes"/>Schwester sonst laufe von Marientha<unclear>l</unclear>
-<lb break="yes"/>von nach Mauritz <del>bittere</del> Behandlung <lb break="yes"/>mit
-                Freuden nach lieber Onkel und <lb break="yes"/>liebe Tante nach Mauritz gerne dort
-                    <lb break="yes"/>hin. Ich wünsche ich Euch lieber <lb break="yes"/>Bruder <hi rendition="#i">Anton Maria</hi> und <lb break="yes"/>lieber Bruder Karl
-                fröhliches <w>Pfing<unclear>st</unclear>
-<lb break="yes"/>fest</w>
-<seg ana="#salute">mit vielen Grüßen <w><del>ver</del>blei <lb break="yes"/>ben</w>
-                    immer stets Euere Dich <w>lieben <lb break="yes"/><unclear>de</unclear></w>
+<p>blaue dein oben im Krankenhause zu Haspe<lb break="yes"/>gerne ganz anders
+                körperliche Kranken<lb break="yes"/><add>Herrn Dr.</add> Geheimrat Sanitäsrat
+                Reismann<lb break="yes"/><add>Haspe</add> Behandlung sehr gut treue geopfert<lb break="yes"/>wird mir Freuden dort hin Vorge<lb break="no"/>setzten geachtet
+                auch im Gebet<lb break="yes"/>Gericht halte doch bei zu Hause mit<lb break="yes"/>mein teures Weisenhaus zu Haspe<lb break="yes"/>gerne wieder hin nach mein gute<lb break="yes"/>Schwester sonst laufe von Marientha<unclear>l</unclear><lb break="yes"/>von nach Mauritz <del>bittere</del> Behandlung<lb break="yes"/>mit
+                Freuden nach lieber Onkel und<lb break="yes"/>liebe Tante nach Mauritz gerne dort<lb break="yes"/>hin. Ich wünsche ich Euch lieber<lb break="yes"/>Bruder <hi rendition="#i">Anton Maria</hi> und<lb break="yes"/>lieber Bruder Karl
+                fröhliches <w>Pfing<unclear>st</unclear><lb break="yes"/>fest</w>
+<seg ana="#salute">mit vielen Grüßen <w><del>ver</del>blei<lb break="yes"/>ben</w>
+                    immer stets Euere Dich <w>lieben<lb break="yes"/><unclear>de</unclear></w>
                     Geschwustern</seg>
 <seg ana="#signed">Elise</seg>
-<unclear>Schweh</unclear>
-<lb break="yes"/><add place="margin">2. Messe in guter Meinunge 24. Mai verstorben
+<unclear>Schweh</unclear><lb break="yes"/><add place="margin">2. Messe in guter Meinunge 24. Mai verstorben
                         <hi rendition="#u">Simar</hi>.</add>
 </p>
 </body>

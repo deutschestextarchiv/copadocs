@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Anna <surname>S.</surname></persName>
 <date type="sent">20.04.1913</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Staatsanwaltschaft München</persName>
 <settlement type="sent">Kaufbeuren</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2325s">
@@ -43,12 +43,12 @@
 <birth when="1866"/>
 <death when="1942"/>
 <occupation>Privatiere</occupation>
-<residence>Augsburg, Wohnort München</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, Wohnort München</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
-<p>Eltern: </p>
-<p>Anstalt: 1910-42</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1910" to="1942">1910-42</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>manisch=depressives Irresein (18.04.1911)</p></trait>
@@ -85,33 +85,30 @@
 <dateline><hi rendition="#c">Kaufbeuren 20.4.13.</hi> </dateline>
 <salute>Kgl. Staatsanwaltschaft München!</salute>
 </opener>
-<p><add place="top">Auf das Schreiben der Staatsanwaltschaft <lb break="yes"/>antworte <add place="above">ich</add>wie folgt:</add></p>
-<p><space/> In Erwiderung des Schreibens vom <lb break="yes"/>12. ds. Monats (das ich
-                nebenbei bemerkt, erst <lb break="yes"/>viel später erhielt) möchte ich der kgl. <lb break="yes"/>Staatsanwaltschaft erwidern, daß ich mich <lb break="yes"/>durch
-                eben dieses Schreiben in gar keiner <lb break="yes"/>Weise irre machen, irre führen,
-                od. in meinen <lb break="yes"/>Angaben wankend machen lassen, u. daß ich <lb break="yes"/>meine bereits gemachten Angaben mit <lb break="yes"/>aller
-                Bestimmtheit aufrecht erhalten <lb break="yes"/>werde, da ich meiner Sache zu sicher
-                bin. <lb break="yes"/><space/> Kommt die Angelegenheit bz. des <lb break="yes"/><surname><hi rendition="#i">J.</hi></surname> in richtigen Fluß u.
-                sollte der <lb break="yes"/><surname><hi rendition="#i">J.</hi></surname> sich
-                auf das Leugnen verlegen wollen, <lb break="yes"/>wie es bei diesem erbärmlichen
-                Menschen <lb break="yes"/>aller Voraussicht nach der Fall sein dürfte, <pb facs="#image_037"/>so werde ich dieses Subjekt kurzer Hand zum <lb break="yes"/>Eid treiben u. ich denke, daß ihn dieses wohl <lb break="yes"/>zur Besinnung
-                bringen dürfte. </p><p><space/> Im Übrigen ist mir der Gesetzesparagraph <lb break="yes"/>in dieser Sache hinlänglich bekannt. <lb break="yes"/>Wenn eine<add place="above">4</add> Person<add place="above">5</add> gegen<add place="above">3</add> irgend<add place="above">1</add> Jemanden<add place="above">2</add>
-<lb break="yes"/>eine falsche Anzeige erstattet u. die be<lb break="no"/>treffende
-                Person, gegen welche die falsche <lb break="yes"/>Anzeige erstattet wurde, erleidet
-                dadurch <lb break="yes"/>an ihrer Gesundheit Schaden od. an ihrer <lb break="yes"/>Freiheit Einbuße (wie bei mir beides der <lb break="yes"/>Fall ist.) so wird
-                diejenige Person, die die <lb break="yes"/>falsche Anzeige erstattet hat mit
-                    Zucht<lb break="no"/>haus von 6 Monaten bis zu 1 Jahr bestraft. <lb break="yes"/>Das wird das Los sein, das diesem Schurken <lb break="yes"/>blüht. </p><p>Weiterem Verlauf der Sache entgegen<lb break="no"/>sehend <lb break="yes"/><hi rendition="#r">A.
-                            <surname><hi rendition="#i">S.</hi></surname>
-<lb break="yes"/>z. Zt. Irrenhaus. </hi>
-<lb break="yes"/><hi rendition="#r">umwenden</hi><pb facs="#image_038"/><hi rendition="#i">P. S</hi>. Nun möchte ich aber noch drei Fragen <lb break="yes"/>aufwerfen: Kann man die Zeit, die man <lb break="yes"/>mir von meinen Leben
-                förmlich abgestohlen <lb break="yes"/>hat, zurückkaufen? </p><p>Kann (mit)
-                man die entsetzlichen, maßlosen, <lb break="yes"/>unsagbaren, namenlosen Qualen, die
-                ich <lb break="yes"/>durch das Interniertsein in diesem Irren<lb break="no"/>haus
-                erdulden mußte, ungeschehen machen? <lb break="yes"/>Wie will man das Verbrechen
-                sühnen, <lb break="yes"/>das an mir begangen wurde? wie u. <lb break="yes"/>was??
-                Wenn man so mit den Menschen <lb break="yes"/>umgeht, wie man mit mir umgegangen <lb break="yes"/>ist, dann darf man sich nicht mehr wundern, <lb break="yes"/>über
-                die zunehmenden Selbstmorde. Man <lb break="yes"/>zwingt die Menschen förmlich zu
-                allen <lb break="yes"/>möglichen Untaten. Es gehört ein starker <lb break="yes"/>Geist dazu, um nicht zu unterliegen. <lb break="yes"/><hi rendition="#c"><hi rendition="#i">V. O</hi>.</hi></p>
+<p><add place="top">Auf das Schreiben der Staatsanwaltschaft<lb break="yes"/>antworte <add place="above">ich</add>wie folgt:</add></p>
+<p><space/> In Erwiderung des Schreibens vom<lb break="yes"/>12. ds. Monats (das ich
+                nebenbei bemerkt, erst<lb break="yes"/>viel später erhielt) möchte ich der kgl.<lb break="yes"/>Staatsanwaltschaft erwidern, daß ich mich<lb break="yes"/>durch
+                eben dieses Schreiben in gar keiner<lb break="yes"/>Weise irre machen, irre führen,
+                od. in meinen<lb break="yes"/>Angaben wankend machen lassen, u. daß ich<lb break="yes"/>meine bereits gemachten Angaben mit<lb break="yes"/>aller
+                Bestimmtheit aufrecht erhalten<lb break="yes"/>werde, da ich meiner Sache zu sicher
+                bin.<lb break="yes"/><space/> Kommt die Angelegenheit bz. des<lb break="yes"/><surname><hi rendition="#i">J.</hi></surname> in richtigen Fluß u.
+                sollte der<lb break="yes"/><surname><hi rendition="#i">J.</hi></surname> sich
+                auf das Leugnen verlegen wollen,<lb break="yes"/>wie es bei diesem erbärmlichen
+                Menschen<lb break="yes"/>aller Voraussicht nach der Fall sein dürfte, <pb facs="#image_037"/>so werde ich dieses Subjekt kurzer Hand zum<lb break="yes"/>Eid treiben u. ich denke, daß ihn dieses wohl<lb break="yes"/>zur Besinnung
+                bringen dürfte. </p><p><space/> Im Übrigen ist mir der Gesetzesparagraph<lb break="yes"/>in dieser Sache hinlänglich bekannt.<lb break="yes"/>Wenn eine<add place="above">4</add> Person<add place="above">5</add> gegen<add place="above">3</add> irgend<add place="above">1</add> Jemanden<add place="above">2</add><lb break="yes"/>eine falsche Anzeige erstattet u. die be<lb break="no"/>treffende
+                Person, gegen welche die falsche<lb break="yes"/>Anzeige erstattet wurde, erleidet
+                dadurch<lb break="yes"/>an ihrer Gesundheit Schaden od. an ihrer<lb break="yes"/>Freiheit Einbuße (wie bei mir beides der<lb break="yes"/>Fall ist.) so wird
+                diejenige Person, die die<lb break="yes"/>falsche Anzeige erstattet hat mit
+                    Zucht<lb break="no"/>haus von 6 Monaten bis zu 1 Jahr bestraft.<lb break="yes"/>Das wird das Los sein, das diesem Schurken<lb break="yes"/>blüht. </p><p>Weiterem Verlauf der Sache entgegen<lb break="no"/>sehend<lb break="yes"/><hi rendition="#r">A.
+                            <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/>z. Zt. Irrenhaus. </hi><lb break="yes"/><hi rendition="#r">umwenden</hi><pb facs="#image_038"/><hi rendition="#i">P. S</hi>. Nun möchte ich aber noch drei Fragen<lb break="yes"/>aufwerfen: Kann man die Zeit, die man<lb break="yes"/>mir von meinen Leben
+                förmlich abgestohlen<lb break="yes"/>hat, zurückkaufen? </p><p>Kann (mit)
+                man die entsetzlichen, maßlosen,<lb break="yes"/>unsagbaren, namenlosen Qualen, die
+                ich<lb break="yes"/>durch das Interniertsein in diesem Irren<lb break="no"/>haus
+                erdulden mußte, ungeschehen machen?<lb break="yes"/>Wie will man das Verbrechen
+                sühnen,<lb break="yes"/>das an mir begangen wurde? wie u.<lb break="yes"/>was??
+                Wenn man so mit den Menschen<lb break="yes"/>umgeht, wie man mit mir umgegangen<lb break="yes"/>ist, dann darf man sich nicht mehr wundern,<lb break="yes"/>über
+                die zunehmenden Selbstmorde. Man<lb break="yes"/>zwingt die Menschen förmlich zu
+                allen<lb break="yes"/>möglichen Untaten. Es gehört ein starker<lb break="yes"/>Geist dazu, um nicht zu unterliegen.<lb break="yes"/><hi rendition="#c"><hi rendition="#i">V. O</hi>.</hi></p>
 </body>
 </text>
 </TEI>

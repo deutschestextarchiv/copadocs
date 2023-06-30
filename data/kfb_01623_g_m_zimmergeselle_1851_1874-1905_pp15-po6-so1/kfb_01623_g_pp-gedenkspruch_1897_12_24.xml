@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Johannes <surname>G.</surname></persName>
 <date type="sent">24.12.1897</date>
-<date type="received"/>
-<persName type="addressee">Bruder:  <surname>G.</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: n.a. <surname>G.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb1623g">
@@ -44,12 +44,12 @@
 <birth when="1851"/>
 <death when="1905"/>
 <occupation>Zimmergeselle</occupation>
-<residence>Riedheim, Günzburg</residence>
+<residence><geo decls="#WGS">48.4613104 10.1908503</geo>Riedheim, Günzburg</residence>
 <faith>protestantisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Söldner</p>
-<p>Anstalt: 1874-1905</p>
+<p>Anstalt: <date from="1874" to="1905">1874-1905</date></p>
 <p>Brieftypen: pp, po, Lebenslauf, Liedertafel</p>
 </state>
 <trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
@@ -96,45 +96,35 @@
 </opener>
 <p>
 <add hand="arzt1"><hi rendition="#c">Irsee Akt Nr
-                    1623</hi></add><lb break="yes"/>
-<add hand="arzt2"><hi rendition="#i"><surname>G.</surname></hi></add><lb break="yes"/>
-<space/> Deinen Brief von dir
-                    geschrieben<lb break="yes"/> erhielt ich und vernahm darin,<lb break="yes"/> daß
-                vor jeden Haus ein Stein<lb break="yes"/> liegt, damit wolltes Du mir<lb break="yes"/> sagen, daß jeder Mensch ein<lb break="yes"/> Kreuz habe. Deine Gesundheit<lb break="yes"/> beruhigte mich sam̄t deiner<lb break="yes"/> Familie, wie
-                auch unsere<lb break="yes"/> Schwestern Katharina, u Margretha.<lb break="yes"/> Der
-                Müllermeister Georg <surname>D.</surname><lb break="yes"/> soll auch schon
-                gestorben sein<lb break="yes"/> wie ich vernahm aus deinem<lb break="yes"/> Brief,
-				    und Thochter Barbara,<lb break="yes"/> soll <seg ana="#med">schwermüthig</seg> sein.<lb break="yes"/> Die
-                Veronicka welche in Langenau<lb break="yes"/> verheirathet ist, grüße mir<pb facs="#image_050"/> freundlichst. Die Barbara ist<lb break="yes"/> also in der
-                Anstalt in Göppingen<lb break="yes"/> wie ich weis aus deinem<lb break="yes"/>
-                Brief, die Frau <surname>B.</surname>,<lb break="yes"/> des Herrn Bürgermeister
-                    Weib<lb break="yes"/> von Irsee, war auch eine<lb break="yes"/> Zeit lang in der
-                    Anstalt<lb break="yes"/> Kaufbeuren, es geht Ihr<lb break="yes"/> aber wieder
-                gut und ich<lb break="yes"/> wünsche noch jeden wer sich<lb break="yes"/> nicht
-                trösten kann mit Gottes<lb break="yes"/>
-<add>Wort</add> ein segensreiches Jahr 1898.<lb break="yes"/> Damit man sagen
-                    könnte<lb break="yes"/> Ende gut alles gut.<lb break="yes"/> <seg ana="#salute">Ich schließe nun
-                    meinen<lb break="yes"/> Brief mit Gruß an Alle<lb break="yes"/> Menschen<lb break="yes"/>
-<hi rendition="#c">Dein</hi><lb break="yes"/>
-<hi rendition="#r">dankbarer<lb break="yes"/> Bruder</hi> <seg ana="#signed"><hi rendition="#i">Johannes</hi>
+                    1623</hi></add><lb break="yes"/><add hand="arzt2"><hi rendition="#i"><surname>G.</surname></hi></add><lb break="yes"/><space/> Deinen Brief von dir
+                    geschrieben<lb break="yes"/>erhielt ich und vernahm darin,<lb break="yes"/>daß
+                vor jeden Haus ein Stein<lb break="yes"/>liegt, damit wolltes Du mir<lb break="yes"/>sagen, daß jeder Mensch ein<lb break="yes"/>Kreuz habe. Deine Gesundheit<lb break="yes"/>beruhigte mich sam̄t deiner<lb break="yes"/>Familie, wie
+                auch unsere<lb break="yes"/>Schwestern Katharina, u Margretha.<lb break="yes"/>Der
+                Müllermeister Georg <surname>D.</surname><lb break="yes"/>soll auch schon
+                gestorben sein<lb break="yes"/>wie ich vernahm aus deinem<lb break="yes"/>Brief,
+				    und Thochter Barbara,<lb break="yes"/>soll <seg ana="#med">schwermüthig</seg> sein.<lb break="yes"/>Die
+                Veronicka welche in Langenau<lb break="yes"/>verheirathet ist, grüße mir<pb facs="#image_050"/> freundlichst. Die Barbara ist<lb break="yes"/>also in der
+                Anstalt in Göppingen<lb break="yes"/>wie ich weis aus deinem<lb break="yes"/>Brief, die Frau <surname>B.</surname>,<lb break="yes"/>des Herrn Bürgermeister
+                    Weib<lb break="yes"/>von Irsee, war auch eine<lb break="yes"/>Zeit lang in der
+                    Anstalt<lb break="yes"/>Kaufbeuren, es geht Ihr<lb break="yes"/>aber wieder
+                gut und ich<lb break="yes"/>wünsche noch jeden wer sich<lb break="yes"/>nicht
+                trösten kann mit Gottes<lb break="yes"/><add>Wort</add> ein segensreiches Jahr 1898.<lb break="yes"/>Damit man sagen
+                    könnte<lb break="yes"/>Ende gut alles gut.<lb break="yes"/><seg ana="#salute">Ich schließe nun
+                    meinen<lb break="yes"/>Brief mit Gruß an Alle<lb break="yes"/>Menschen<lb break="yes"/><hi rendition="#c">Dein</hi><lb break="yes"/><hi rendition="#r">dankbarer<lb break="yes"/>Bruder</hi> <seg ana="#signed"><hi rendition="#i">Johannes</hi>
 <surname>G.</surname></seg>.</seg></p><pb facs="#image_051"/>
-<p><hi rendition="#c">Gedenkspruch<lb break="yes"/> unserer<lb break="yes"/> Seelichen
+<p><hi rendition="#c">Gedenkspruch<lb break="yes"/>unserer<lb break="yes"/>Seelichen
                     entschlaffenen Mutter.</hi></p>
-<p> Ach müssen wir es wirklich glauben,<lb break="yes"/> daß unsere Mutter nicht
-                    mehr<lb break="yes"/> lebt, daß Sie der Herr lies<lb break="yes"/> eilend
-                rauben, vom Todt der Sie<lb break="yes"/> nun sanft unschwebt, ist Sie<lb break="yes"/> nun nim̄er zu erwecken von<lb break="yes"/> Ihrem selg'en
-                todtes Traum<lb break="yes"/> muß man mit Erde sie zudecken<lb break="yes"/> dort in
-                dem stillen Friedhofsraum<lb break="yes"/> gibt unsere teuerste Gefährtin<lb break="yes"/> Uns nim̄er einen Guten Rath,<lb break="yes"/> muß Wonne, Glück zum Leide<lb break="yes"/> werden, des Morgens früh und<lb break="yes"/>
-                Abends spat. Ach ja so mußt<lb break="yes"/> es leider kom̄en nach Gottes<pb facs="#image_052"/> heiligem Rath und Will'n, der Sie<lb break="yes"/> wollt
-                haben bei den From̄en<lb break="yes"/> u der er mas Ihr Lebens Ziel<lb break="yes"/> Er nur sah ein in Ihr Gemüthe<lb break="yes"/> das voller Klag und
-                    Kum̄er war<lb break="yes"/>
-<unclear>wo</unclear>mit sie sorgenvoll u müde<lb break="yes"/> vollendet hat Ihr letztes Jahr.<lb break="yes"/> Es mußte ja Ihr Herze klagen<lb break="yes"/> dieweil in dem Gemüthe krank.<lb break="yes"/> Der Vater seine
-                schönsten Tage<lb break="yes"/> verlebt mit solchem Leidenstrank.<lb break="yes"/>
-                So hat Sie doppelt Leid getragen<lb break="yes"/> und wirklich vieles
-                    durchgemacht,<lb break="yes"/> so daß Wir alle müssen sagen<lb break="yes"/> wie
-                sanft wird Ihr die Grabesnacht,<lb break="yes"/> wie wird der süße Grabesfriede<lb break="yes"/> Ihr mühendes Gebein umwehn und<lb break="yes"/> wie Ihr Geist in
-                schönster Blühte<lb break="yes"/> verklärt vor Gottes Throne stehn.<lb break="yes"/>
-<hi rendition="#c">Elisabetha <surname>G.</surname>.</hi></p>
+<p> Ach müssen wir es wirklich glauben,<lb break="yes"/>daß unsere Mutter nicht
+                    mehr<lb break="yes"/>lebt, daß Sie der Herr lies<lb break="yes"/>eilend
+                rauben, vom Todt der Sie<lb break="yes"/>nun sanft unschwebt, ist Sie<lb break="yes"/>nun nim̄er zu erwecken von<lb break="yes"/>Ihrem selg'en
+                todtes Traum<lb break="yes"/>muß man mit Erde sie zudecken<lb break="yes"/>dort in
+                dem stillen Friedhofsraum<lb break="yes"/>gibt unsere teuerste Gefährtin<lb break="yes"/>Uns nim̄er einen Guten Rath,<lb break="yes"/>muß Wonne, Glück zum Leide<lb break="yes"/>werden, des Morgens früh und<lb break="yes"/>Abends spat. Ach ja so mußt<lb break="yes"/>es leider kom̄en nach Gottes<pb facs="#image_052"/> heiligem Rath und Will'n, der Sie<lb break="yes"/>wollt
+                haben bei den From̄en<lb break="yes"/>u der er mas Ihr Lebens Ziel<lb break="yes"/>Er nur sah ein in Ihr Gemüthe<lb break="yes"/>das voller Klag und
+                    Kum̄er war<lb break="yes"/><unclear>wo</unclear>mit sie sorgenvoll u müde<lb break="yes"/>vollendet hat Ihr letztes Jahr.<lb break="yes"/>Es mußte ja Ihr Herze klagen<lb break="yes"/>dieweil in dem Gemüthe krank.<lb break="yes"/>Der Vater seine
+                schönsten Tage<lb break="yes"/>verlebt mit solchem Leidenstrank.<lb break="yes"/>So hat Sie doppelt Leid getragen<lb break="yes"/>und wirklich vieles
+                    durchgemacht,<lb break="yes"/>so daß Wir alle müssen sagen<lb break="yes"/>wie
+                sanft wird Ihr die Grabesnacht,<lb break="yes"/>wie wird der süße Grabesfriede<lb break="yes"/>Ihr mühendes Gebein umwehn und<lb break="yes"/>wie Ihr Geist in
+                schönster Blühte<lb break="yes"/>verklärt vor Gottes Throne stehn.<lb break="yes"/><hi rendition="#c">Elisabetha <surname>G.</surname>.</hi></p>
 </body>
 </text>
 </TEI>

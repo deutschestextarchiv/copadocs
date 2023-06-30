@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Elisabeth <surname>S.</surname></persName>
 <date type="sent">18.04.1904</date>
-<date type="received"/>
-<persName type="addressee">Onkel, Tante:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Onkel, Tante: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Münster</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="mun1297s">
@@ -44,12 +44,12 @@
 <birth when="1873-01-15"/>
 <death when="1924-06-26"/>
 <occupation>Haushälterin</occupation>
-<residence>Geburtsort: Brakel; Wohnort: Werl</residence>
+<residence><geo decls="#WGS">51.5533457 7.9155558</geo>Geburtsort: Brakel; Wohnort: Werl</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Vater: Wegemeister, Mutter: ohne Beruf</p>
-<p>Anstalt: 19.01.1901-26.06.1924</p>
+<p>Anstalt: <date from="19.01.1901" to="26.06.1924">19.01.1901-26.06.1924</date></p>
 <p>Brieftypen: pp, po, so</p>
 </state>
 <trait><p>einfache Seelenstörung (1901), Dementia paranoides</p></trait>
@@ -94,31 +94,24 @@
 <p><hi rendition="#i"><hi rendition="#u">E</hi></hi><hi rendition="#u">.
                         </hi><surname><hi rendition="#i">S.</hi></surname><hi rendition="#u"> aus Werl bei Soest.</hi>
 </p>
-<p><add hand="unbekannt">G <hi rendition="#sup">20</hi>/<hi rendition="#sub">4</hi> 04
-                        <lb break="yes"/>ad acta Elise <surname><hi rendition="#i">S.</hi></surname>
-<lb break="yes"/><space/> G </add>
+<p><add hand="unbekannt">G <hi rendition="#sup">20</hi>/<hi rendition="#sub">4</hi> 04<lb break="yes"/>ad acta Elise <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/><space/> G </add>
 </p>
-<p>Vergeben warte ich auf einige <lb break="yes"/>Zeilen von mir meine Ant<lb break="no"/>wort bekomme freut zu <lb break="yes"/>hören wie es dort geht liebe <lb break="yes"/>Onkel und liebe Tante lieben Cosin<lb break="no"/>nen liebe Vettern
-                gut, hoffentlich <lb break="yes"/>mit mir geht es jeden Tage gut <lb break="yes"/>mein Befinden nicht verschlechtet. <pb facs="#image_062"/>Zu dem fröhlichen
-                Pfingstfest <lb break="yes"/>empfange meine herzlichen <lb break="yes"/>Glück und
-                Segenswünsche. Mein<unclear>e</unclear>
-<lb break="yes"/>lieben Eltern und lieben Geschwi<lb break="no"/>stern geht es gut
-                will auch rechte <lb break="yes"/>Geduld behalten, den <hi rendition="#u">20. <hi rendition="#i">April</hi>
-<lb break="yes"/>holt</hi> mir mein lieber Bruder <lb break="yes"/><hi rendition="#i">Anton</hi> von Marien<hi rendition="#i">thal</hi> deine <lb break="yes"/>Elise Schwester hoffe bald zu Hau<lb break="no"/>se stetes mein
-                Gebet gegen<lb break="no"/>seitig zum l. Gott, meine Anna <lb break="yes"/>Schwester
-                gesund, treumgeopfert <lb break="yes"/>wird aller Wegen ist etwas <lb break="yes"/>zu Hause ist am besten guter <pb facs="#image_063"/>lieber Onkel in Werl wen ich
-                    <hi rendition="#u">davon <lb break="yes"/>laufen kann</hi> ich aber bis den
-                20. <hi rendition="#i">April</hi> nach <lb break="yes"/>Mauritz hin, nicht mehr aus
-                    <del>bis</del> man <lb break="yes"/>kommt 4. Jahre auf <del>auf</del> Marienthal
-                    <lb break="yes"/>während ganz gut aufgeführt in <lb break="yes"/>Minden jedenken
-                in geschlossen <lb break="yes"/>lieber Onkel wo bin auch heraus <lb break="yes"/>helfen in treue Minden wird wohl <lb break="yes"/>am besten sein geheilt wird es
-                    <lb break="yes"/>bis jetzt habe die 3. Klasse gehabt. <lb break="yes"/>dahin gut
-                vertragen eine Bitte <lb break="yes"/>alles bezahlt ohne Sorge oder <lb break="yes"/>verschicken nach Hause wie es <lb break="yes"/>am besten fügen den Anordnungen <pb facs="#image_064"/>der Vorgesetzten. <seg ana="#salute">In freundlichen <lb break="yes"/>Errinnerung mit besten Grüßen und <lb break="yes"/><add place="margin">immer</add>
-                bleiben ich in Hoffnung <add place="above">daß ich</add> meinen <lb break="yes"/>lieben Eltern nach Hause komme <lb break="yes"/><space/> getreue bin</seg> <seg ana="#signed">Elisabeth
+<p>Vergeben warte ich auf einige<lb break="yes"/>Zeilen von mir meine Ant<lb break="no"/>wort bekomme freut zu<lb break="yes"/>hören wie es dort geht liebe<lb break="yes"/>Onkel und liebe Tante lieben Cosin<lb break="no"/>nen liebe Vettern
+                gut, hoffentlich<lb break="yes"/>mit mir geht es jeden Tage gut<lb break="yes"/>mein Befinden nicht verschlechtet. <pb facs="#image_062"/>Zu dem fröhlichen
+                Pfingstfest<lb break="yes"/>empfange meine herzlichen<lb break="yes"/>Glück und
+                Segenswünsche. Mein<unclear>e</unclear><lb break="yes"/>lieben Eltern und lieben Geschwi<lb break="no"/>stern geht es gut
+                will auch rechte<lb break="yes"/>Geduld behalten, den <hi rendition="#u">20. <hi rendition="#i">April</hi><lb break="yes"/>holt</hi> mir mein lieber Bruder<lb break="yes"/><hi rendition="#i">Anton</hi> von Marien<hi rendition="#i">thal</hi> deine<lb break="yes"/>Elise Schwester hoffe bald zu Hau<lb break="no"/>se stetes mein
+                Gebet gegen<lb break="no"/>seitig zum l. Gott, meine Anna<lb break="yes"/>Schwester
+                gesund, treumgeopfert<lb break="yes"/>wird aller Wegen ist etwas<lb break="yes"/>zu Hause ist am besten guter <pb facs="#image_063"/>lieber Onkel in Werl wen ich
+                    <hi rendition="#u">davon<lb break="yes"/>laufen kann</hi> ich aber bis den
+                20. <hi rendition="#i">April</hi> nach<lb break="yes"/>Mauritz hin, nicht mehr aus
+                    <del>bis</del> man<lb break="yes"/>kommt 4. Jahre auf <del>auf</del> Marienthal<lb break="yes"/>während ganz gut aufgeführt in<lb break="yes"/>Minden jedenken
+                in geschlossen<lb break="yes"/>lieber Onkel wo bin auch heraus<lb break="yes"/>helfen in treue Minden wird wohl<lb break="yes"/>am besten sein geheilt wird es<lb break="yes"/>bis jetzt habe die 3. Klasse gehabt.<lb break="yes"/>dahin gut
+                vertragen eine Bitte<lb break="yes"/>alles bezahlt ohne Sorge oder<lb break="yes"/>verschicken nach Hause wie es<lb break="yes"/>am besten fügen den Anordnungen <pb facs="#image_064"/>der Vorgesetzten. <seg ana="#salute">In freundlichen<lb break="yes"/>Errinnerung mit besten Grüßen und<lb break="yes"/><add place="margin">immer</add>
+                bleiben ich in Hoffnung <add place="above">daß ich</add> meinen<lb break="yes"/>lieben Eltern nach Hause komme<lb break="yes"/><space/> getreue bin</seg> <seg ana="#signed">Elisabeth
                     <add place="above">Henritte</add>
-<surname><hi rendition="#i">S.</hi></surname></seg>
-<lb break="yes"/><hi rendition="#r">Marienthal zu Münster. </hi><lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Um baldige
-                Antwort. <lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+<surname><hi rendition="#i">S.</hi></surname></seg><lb break="yes"/><hi rendition="#r">Marienthal zu Münster. </hi><lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Um baldige
+                Antwort.<lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
 </body>
 </text>
 </TEI>

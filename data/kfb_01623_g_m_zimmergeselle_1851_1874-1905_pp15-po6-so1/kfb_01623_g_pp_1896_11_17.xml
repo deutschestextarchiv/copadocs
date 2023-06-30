@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Johannes <surname>G.</surname></persName>
 <date type="sent">17.11.1896</date>
-<date type="received"/>
-<persName type="addressee">Bruder:  <surname>G.</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: n.a. <surname>G.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb1623g">
@@ -44,12 +44,12 @@
 <birth when="1851"/>
 <death when="1905"/>
 <occupation>Zimmergeselle</occupation>
-<residence>Riedheim, Günzburg</residence>
+<residence><geo decls="#WGS">48.4613104 10.1908503</geo>Riedheim, Günzburg</residence>
 <faith>protestantisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Söldner</p>
-<p>Anstalt: 1874-1905</p>
+<p>Anstalt: <date from="1874" to="1905">1874-1905</date></p>
 <p>Brieftypen: pp, po, Lebenslauf, Liedertafel</p>
 </state>
 <trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
@@ -88,26 +88,17 @@
 <dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> den 17 <hi rendition="#i">November</hi> 1896.</hi></dateline>
 <salute><hi rendition="#c">Lieber Bruder!</hi></salute>
 </opener>
-<p> Ich fühle mich gesund und<lb break="yes"/> sende Dir einen kurzen Brief<lb break="yes"/>
-                Durch unsern jetz königlich<lb break="yes"/> angestellten Herrn Direcktor<lb break="yes"/>
-<hi rendition="#i">Docktor</hi> Ulrich nebst seinen<lb break="yes"/> drei
-                untergebenen Herrn.<lb break="yes"/> Nähmlich Herr Franz <hi rendition="#i">Xaver<lb break="yes"/> Julius</hi> Oberarzt.<lb break="yes"/> Der Herr Oberpfleger
-                und <lb break="yes"/> seine <add>Frau</add> kennen mich so genau<lb break="yes"/>
-                wie unsere jetzt nun nicht<lb break="yes"/> mehr am Leben Befindente<lb break="yes"/> Eltern. Gott gebe Ihnen Ruhe<lb break="yes"/> und Frieden Ihrer ausgehauchten<lb break="yes"/> Seele. Ich habe <w>gestern</w><w>das</w><lb break="yes"/> heilige Abendmahl
-                    genossen<lb break="yes"/> in der Kapelle der Anstalt<lb break="yes"/> mit <w>Gottes
-                        vertrauen</w> u gläubiger<lb break="yes"/> Andacht<pb facs="#image_048"/> Es hat in
-                Irsee heute einen<lb break="yes"/> starken Nebel in Langenau<lb break="yes"/> wird
-				    der Him̄el auch nicht<lb break="yes"/> ganz <w>Wolken frei</w> sein<lb break="yes"/>
-                so viel ich mir vorstellen<lb break="yes"/> kann. Wenn die Gemeinde<lb break="yes"/>
-                Riedheim mich haben will<lb break="yes"/> kennen sie mich in Irsee<lb break="yes"/>
-                haben ich will den Herrn<lb break="yes"/>
-<hi rendition="#i">Docktoren</hi> nichts einreden<lb break="yes"/> <seg ana="#salute">Indem ich mein
-                    Schreiben<lb break="yes"/> schließe verbleibe ich<lb break="yes"/> Dein
-                    aufrichtigster Bruder</seg><lb break="yes"/>
-<hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Johannes</hi>
-<surname>G.</surname></seg><lb break="yes"/> Zimmergeselle<lb break="yes"/>
-                    von dem <lb break="yes"/> Pfarrdorf Riedheim<lb break="yes"/> Landgericht
-                        Unter<lb break="no"/> Günzburg.</hi></p>
+<p> Ich fühle mich gesund und<lb break="yes"/>sende Dir einen kurzen Brief<lb break="yes"/>Durch unsern jetz königlich<lb break="yes"/>angestellten Herrn Direcktor<lb break="yes"/><hi rendition="#i">Docktor</hi> Ulrich nebst seinen<lb break="yes"/>drei
+                untergebenen Herrn.<lb break="yes"/>Nähmlich Herr Franz <hi rendition="#i">Xaver<lb break="yes"/>Julius</hi> Oberarzt.<lb break="yes"/>Der Herr Oberpfleger
+                und<lb break="yes"/>seine <add>Frau</add> kennen mich so genau<lb break="yes"/>wie unsere jetzt nun nicht<lb break="yes"/>mehr am Leben Befindente<lb break="yes"/>Eltern. Gott gebe Ihnen Ruhe<lb break="yes"/>und Frieden Ihrer ausgehauchten<lb break="yes"/>Seele. Ich habe <w>gestern</w><w>das</w><lb break="yes"/>heilige Abendmahl
+                    genossen<lb break="yes"/>in der Kapelle der Anstalt<lb break="yes"/>mit <w>Gottes
+                        vertrauen</w> u gläubiger<lb break="yes"/>Andacht<pb facs="#image_048"/> Es hat in
+                Irsee heute einen<lb break="yes"/>starken Nebel in Langenau<lb break="yes"/>wird
+				    der Him̄el auch nicht<lb break="yes"/>ganz <w>Wolken frei</w> sein<lb break="yes"/>so viel ich mir vorstellen<lb break="yes"/>kann. Wenn die Gemeinde<lb break="yes"/>Riedheim mich haben will<lb break="yes"/>kennen sie mich in Irsee<lb break="yes"/>haben ich will den Herrn<lb break="yes"/><hi rendition="#i">Docktoren</hi> nichts einreden<lb break="yes"/><seg ana="#salute">Indem ich mein
+                    Schreiben<lb break="yes"/>schließe verbleibe ich<lb break="yes"/>Dein
+                    aufrichtigster Bruder</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Johannes</hi>
+<surname>G.</surname></seg><lb break="yes"/>Zimmergeselle<lb break="yes"/>von dem<lb break="yes"/>Pfarrdorf Riedheim<lb break="yes"/>Landgericht
+                        Unter<lb break="no"/>Günzburg.</hi></p>
 </body>
 </text>
 </TEI>

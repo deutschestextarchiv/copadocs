@@ -31,10 +31,10 @@
 <creation>
 <persName type="sender">Maria Cleofa <surname>G.</surname></persName>
 <date type="sent">ca. 1889-mind.1904</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Schwager, Schägerin, Nichte, Neffe: Benedikt, Cresenz, Theresia, Willobold <surname>E.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2827g">
@@ -45,12 +45,12 @@
 <birth when="1845"/>
 <death cert="unknown"/>
 <occupation>Bauerstochter</occupation>
-<residence>Engishausen, Illertissen</residence>
+<residence><geo decls="#WGS">48.1082257 10.2728225</geo>Engishausen, Illertissen</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bauern</p>
-<p>Anstalt: 1877-1923</p>
+<p>Anstalt: <date from="1877" to="1923">1877-1923</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Manie (1923)</p></trait>
@@ -82,23 +82,17 @@
 <body>
 <pb facs="#image_052"/>
 <opener>
-<dateline><hi rendition="#i">König</hi> !<hi rendition="#i">x</hi> lichl<hi rendition="#i">e</hi>. Heil!? <hi rendition="#i">x</hi>.<lb break="yes"/> Pfleg .<hi rendition="#i">x</hi>. Anstalt?<hi rendition="#i">x</hi>. <hi rendition="#i">Irrsee</hi>.</dateline>
-<salute><hi rendition="#c">Lieber Schwager + Benedikt? +<lb break="yes"/> Schwegerin̄
-                        Cresenz!- Tochter! ?</hi><lb break="yes"/>
-<hi rendition="#c">Theresia! Sohn! . Willo? bolld x<lb break="yes"/>
-<surname>E.</surname> x!?</hi></salute>
+<dateline><hi rendition="#i">König</hi> !<hi rendition="#i">x</hi> lichl<hi rendition="#i">e</hi>. Heil!? <hi rendition="#i">x</hi>.<lb break="yes"/>Pfleg .<hi rendition="#i">x</hi>. Anstalt?<hi rendition="#i">x</hi>. <hi rendition="#i">Irrsee</hi>.</dateline>
+<salute><hi rendition="#c">Lieber Schwager + Benedikt? +<lb break="yes"/>Schwegerin̄
+                        Cresenz!- Tochter! ?</hi><lb break="yes"/><hi rendition="#c">Theresia! Sohn! . Willo? bolld x<lb break="yes"/><surname>E.</surname> x!?</hi></salute>
 </opener>
 <p>
 Gott zum Gruß /-</p>
-<p> Ich lade! Dich ein im August! auf<lb break="yes"/> die hl. Hochwürdige. Premits<lb break="no"/>
-                Feier! Des Hoch. <w>Geweihten</w><lb break="no"/>
-<w>Ich</w> wünsche: Dir alles Gute.<lb break="yes"/> zu
-                Deinen Namens-Feste!<lb break="yes"/> das Morgen ist: Grüße! -<lb break="yes"/>
-                Empfehlungen an die ganzen Freund<lb break="no"/> schaft: Würtenbeg =?<hi rendition="#i">x</hi>. Bayern <hi rendition="#i">x</hi><lb break="yes"/>
-<seg ana="#salute">Isch verbeibe Deine Schwägerin̄:</seg>
-<seg ana="#signed">Maria<lb break="yes"/> Cleofa! &amp;<hi rendition="#i"> x</hi>
+<p> Ich lade! Dich ein im August! auf<lb break="yes"/>die hl. Hochwürdige. Premits<lb break="no"/>Feier! Des Hoch. <w>Geweihten</w><lb break="no"/><w>Ich</w> wünsche: Dir alles Gute.<lb break="yes"/>zu
+                Deinen Namens-Feste!<lb break="yes"/>das Morgen ist: Grüße! -<lb break="yes"/>Empfehlungen an die ganzen Freund<lb break="no"/>schaft: Würtenbeg =?<hi rendition="#i">x</hi>. Bayern <hi rendition="#i">x</hi><lb break="yes"/><seg ana="#salute">Isch verbeibe Deine Schwägerin̄:</seg>
+<seg ana="#signed">Maria<lb break="yes"/>Cleofa! &amp;<hi rendition="#i"> x</hi>
 <surname>G.</surname></seg> Bendikt <surname>E.</surname> in
-                    Sellheim<lb break="yes"/> Post: <w>Eisabahn Statison</w> daselb Mem̄ingen
+                    Sellheim<lb break="yes"/>Post: <w>Eisabahn Statison</w> daselb Mem̄ingen
                         <w>Bezir<lb break="no"/>Am̄t</w>
 <hi rendition="#i">x</hi>.</p>
 </body>

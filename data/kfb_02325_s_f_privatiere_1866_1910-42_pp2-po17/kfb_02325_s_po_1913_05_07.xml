@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Anna <surname>S.</surname></persName>
 <date type="sent">07.05.1913</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Rechtsanwalt: <!--Vorname--> Dr. <surname>P.</surname></persName>
 <settlement type="sent">Kaufbeuren</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2325s">
@@ -43,12 +43,12 @@
 <birth when="1866"/>
 <death when="1942"/>
 <occupation>Privatiere</occupation>
-<residence>Augsburg, Wohnort München</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, Wohnort München</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
-<p>Eltern: </p>
-<p>Anstalt: 1910-42</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1910" to="1942">1910-42</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>manisch=depressives Irresein (18.04.1911)</p></trait>
@@ -85,48 +85,40 @@
 <opener>
 <dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren</hi>
                     7.5.13.</hi></dateline>
-<salute>Herrn Rechtsanwalt Dr. <surname><hi rendition="#i">P.</hi></surname>!
-                        <lb break="yes"/><hi rendition="#r">hochwolgeboren.</hi></salute>
+<salute>Herrn Rechtsanwalt Dr. <surname><hi rendition="#i">P.</hi></surname>!<lb break="yes"/><hi rendition="#r">hochwolgeboren.</hi></salute>
 </opener>
 <p><space/> In Erwiderung Ihrer geschätzten Zu<lb break="no"/>schrift vom 25.3. ds.
-                Jhr. teile ich Ihnen mit, <lb break="yes"/>daß ich mich umgehend an die kgl.
-                    Staats<lb break="no"/>anwaltschaft gewendet habe. Das Schreiben <lb break="yes"/>hatte folgenden Wortlaut: </p><p><hi rendition="#c"><hi rendition="#i">Kaufbeuren</hi> 26.3.13. <lb break="yes"/>Kgl.
-                    Staatsanwaltschaft <hi rendition="#i">München</hi>!</hi></p><p><space/> Ein gewisser <hi rendition="#i"><surname>F.</surname></hi>, prakt. Arzt <lb break="yes"/>in <hi rendition="#i">München</hi>, wohnhaft dortselbst <hi rendition="#i">Müller</hi><lb break="no"/><hi rendition="#i">straße</hi> 31. I. erstattete am
-                19. August 1910 <lb break="yes"/>bei der (kgl. Staatsanwaltschaft) Polizei<lb break="no"/>Direktion <hi rendition="#i">München</hi> gegen mich die falsche <lb break="yes"/>Anzeige, ich wäre ihm am genannten <pb facs="#image_007"/>Tage
-                Vormittags 10 Uhr in der <hi rendition="#i">Müllerstr</hi>. <lb break="yes"/>mit
-                gezücktem Messer nachgerannt u. hätte <lb break="yes"/>ihn mit Erstechen bedroht. Am
-                3. Oktober 1910 <lb break="yes"/>war ich nun in dieser Angelegenheit im <lb break="yes"/>Polizei-Gebäude vorgeladen. Natürlich bestritt <lb break="yes"/>ich
-                die Sache auf das Allerentschiedenste. <lb break="yes"/>Anstatt nun die Sache, wie
-                es angebracht <lb break="yes"/>gewesen wäre, dem Untersuchungsrichter <lb break="yes"/>zu unterbreiten, schickte mich der Polizei<lb break="no"/>Arzt
-                        <surname><hi rendition="#i">H.</hi></surname> ohne jeden Grund u. Ursache
-                    <lb break="yes"/>in die <hi rendition="#i">psychiatrische</hi> Klinik, u. ohne
-                den <lb break="yes"/>Fall untersucht zu haben u. ohne mir den <lb break="yes"/>Schutz eines Rechtsanwalts angedeihen zu <lb break="yes"/>lassen, wie es in der
-                Ordnung gewesen <lb break="yes"/>wäre, wurde ich kurzerhand am 6. Okt. nach <lb break="yes"/><hi rendition="#i">Eglfing</hi> geschickt u. nach einem fünfwöchigen
-                    <lb break="yes"/>Aufenthalt dortselbst hieher überführt. <lb break="yes"/>Am 2.
-                Januar 1911 wurde ich von hier <lb break="yes"/>entlassen. - Anstatt daß nun die <hi rendition="#i">Münchner</hi>
-<lb break="yes"/>Polizei mir für das zugefügte gerade <add place="above">zu</add>
+                Jhr. teile ich Ihnen mit,<lb break="yes"/>daß ich mich umgehend an die kgl.
+                    Staats<lb break="no"/>anwaltschaft gewendet habe. Das Schreiben<lb break="yes"/>hatte folgenden Wortlaut: </p><p><hi rendition="#c"><hi rendition="#i">Kaufbeuren</hi> 26.3.13.<lb break="yes"/>Kgl.
+                    Staatsanwaltschaft <hi rendition="#i">München</hi>!</hi></p><p><space/> Ein gewisser <hi rendition="#i"><surname>F.</surname></hi>, prakt. Arzt<lb break="yes"/>in <hi rendition="#i">München</hi>, wohnhaft dortselbst <hi rendition="#i">Müller</hi><lb break="no"/><hi rendition="#i">straße</hi> 31. I. erstattete am
+                19. August 1910<lb break="yes"/>bei der (kgl. Staatsanwaltschaft) Polizei<lb break="no"/>Direktion <hi rendition="#i">München</hi> gegen mich die falsche<lb break="yes"/>Anzeige, ich wäre ihm am genannten <pb facs="#image_007"/>Tage
+                Vormittags 10 Uhr in der <hi rendition="#i">Müllerstr</hi>.<lb break="yes"/>mit
+                gezücktem Messer nachgerannt u. hätte<lb break="yes"/>ihn mit Erstechen bedroht. Am
+                3. Oktober 1910<lb break="yes"/>war ich nun in dieser Angelegenheit im<lb break="yes"/>Polizei-Gebäude vorgeladen. Natürlich bestritt<lb break="yes"/>ich
+                die Sache auf das Allerentschiedenste.<lb break="yes"/>Anstatt nun die Sache, wie
+                es angebracht<lb break="yes"/>gewesen wäre, dem Untersuchungsrichter<lb break="yes"/>zu unterbreiten, schickte mich der Polizei<lb break="no"/>Arzt
+                        <surname><hi rendition="#i">H.</hi></surname> ohne jeden Grund u. Ursache<lb break="yes"/>in die <hi rendition="#i">psychiatrische</hi> Klinik, u. ohne
+                den<lb break="yes"/>Fall untersucht zu haben u. ohne mir den<lb break="yes"/>Schutz eines Rechtsanwalts angedeihen zu<lb break="yes"/>lassen, wie es in der
+                Ordnung gewesen<lb break="yes"/>wäre, wurde ich kurzerhand am 6. Okt. nach<lb break="yes"/><hi rendition="#i">Eglfing</hi> geschickt u. nach einem fünfwöchigen<lb break="yes"/>Aufenthalt dortselbst hieher überführt.<lb break="yes"/>Am 2.
+                Januar 1911 wurde ich von hier<lb break="yes"/>entlassen. - Anstatt daß nun die <hi rendition="#i">Münchner</hi><lb break="yes"/>Polizei mir für das zugefügte gerade <add place="above">zu</add>
                     him̄el<lb break="no"/>schreiende Unrecht Genugtuung verschafft <pb facs="#image_008"/>hätte, (da sich die Grundlosigkeit der An<lb break="no"/>gaben des <surname><hi rendition="#i">F.</hi></surname> hinlänglich erwiesen
-                hatte) <lb break="yes"/>schickte mich Polizeiarzt <surname><hi rendition="#i">H.</hi></surname> am 18. <hi rendition="#i">März</hi>
-<lb break="yes"/>1911 einer Lappilie wegen, die mit dem <lb break="yes"/>erwähnten
-                        <surname><hi rendition="#i">F.</hi></surname> zusammenhängt u. worüber <lb break="yes"/>jeder Mensch nur lachen würde, abermals <lb break="yes"/>in die <hi rendition="#i">psychiatrische</hi> Klinik; von dort wurde <lb break="yes"/>ich am
+                hatte)<lb break="yes"/>schickte mich Polizeiarzt <surname><hi rendition="#i">H.</hi></surname> am 18. <hi rendition="#i">März</hi><lb break="yes"/>1911 einer Lappilie wegen, die mit dem<lb break="yes"/>erwähnten
+                        <surname><hi rendition="#i">F.</hi></surname> zusammenhängt u. worüber<lb break="yes"/>jeder Mensch nur lachen würde, abermals<lb break="yes"/>in die <hi rendition="#i">psychiatrische</hi> Klinik; von dort wurde<lb break="yes"/>ich am
                 23. <hi rendition="#i">März</hi> nach <hi rendition="#i">Eglfing</hi> gebracht; am 18.
-                    <hi rendition="#i">April</hi>
-<lb break="yes"/>machte man mir dortselbst die Eröffnung, daß <lb break="yes"/>ich
-                in die hiesige Anstalt überführt werde. Da ich <lb break="yes"/>dagegen heftig
-                protestirte, gab man (man) mir <lb break="yes"/>die Versicherung, daß mein
-                Aufenthalt dort<lb break="no"/>selbst nur einige Wochen währen würde, blos <lb break="yes"/>um der <hi rendition="#i">Münchener</hi> Polizei Genüge zu tun. <lb break="yes"/>Seit diesem Tage schmachte ich nun in der <lb break="yes"/>hiesigen
-                Irrenanstalt. Mein ganzes "Vergehen" <lb break="yes"/>nun, das ich mir in diesem
-                Haus zu Schulden <lb break="yes"/>kommen ließ, bestand einzig darin, daß ich <lb break="yes"/>"wütete". Der Vogel wütet auch, wenn man <lb break="yes"/>ihn der
-                Freiheit beraubt u. sperrt ihn in einen <lb break="yes"/>Käfig, u. ist nur ein
+                    <hi rendition="#i">April</hi><lb break="yes"/>machte man mir dortselbst die Eröffnung, daß<lb break="yes"/>ich
+                in die hiesige Anstalt überführt werde. Da ich<lb break="yes"/>dagegen heftig
+                protestirte, gab man (man) mir<lb break="yes"/>die Versicherung, daß mein
+                Aufenthalt dort<lb break="no"/>selbst nur einige Wochen währen würde, blos<lb break="yes"/>um der <hi rendition="#i">Münchener</hi> Polizei Genüge zu tun.<lb break="yes"/>Seit diesem Tage schmachte ich nun in der<lb break="yes"/>hiesigen
+                Irrenanstalt. Mein ganzes "Vergehen"<lb break="yes"/>nun, das ich mir in diesem
+                Haus zu Schulden<lb break="yes"/>kommen ließ, bestand einzig darin, daß ich<lb break="yes"/>"wütete". Der Vogel wütet auch, wenn man<lb break="yes"/>ihn der
+                Freiheit beraubt u. sperrt ihn in einen<lb break="yes"/>Käfig, u. ist nur ein
                 vernunftloses Tier; <pb facs="#image_009"/>warum soll sich der Mensch nicht
-                auflehnen, <lb break="yes"/>gegen ein herbes Los, u. kann es ein herberes <lb break="yes"/>Schicksal geben, als mit vollem Bewußtsein, im <lb break="yes"/>Irrenhaus <add place="above">zu</add> sein u. namentlich in diesem, das als <lb break="yes"/>ein schweres Irrenhaus (sein) gilt.- Um nun aus <lb break="yes"/>meiner mehr als verzweiflungsvollen Lage he<lb break="no"/>rauszukom̄en,
+                auflehnen,<lb break="yes"/>gegen ein herbes Los, u. kann es ein herberes<lb break="yes"/>Schicksal geben, als mit vollem Bewußtsein, im<lb break="yes"/>Irrenhaus <add place="above">zu</add> sein u. namentlich in diesem, das als<lb break="yes"/>ein schweres Irrenhaus (sein) gilt.- Um nun aus<lb break="yes"/>meiner mehr als verzweiflungsvollen Lage he<lb break="no"/>rauszukom̄en,
                 möchte ich die kgl. Staatsan<lb break="no"/>waltschaft dringend gebeten haben, in
-                dieser <lb break="yes"/>Sache einschreiten zu wollen u. gegen mich die <lb break="yes"/>Anklage zu erheben, wegen Mordversuchs, den <lb break="yes"/>ich
-                "angeblicherweise" unternom̄en haben soll, <lb break="yes"/>u. meine
+                dieser<lb break="yes"/>Sache einschreiten zu wollen u. gegen mich die<lb break="yes"/>Anklage zu erheben, wegen Mordversuchs, den<lb break="yes"/>ich
+                "angeblicherweise" unternom̄en haben soll,<lb break="yes"/>u. meine
                 sofortige Ueberführung in das Unter<lb break="no"/>suchungsgefängnis anordnen zu
-                wollen. Gerne <lb break="yes"/>vertausche ich den Aufenthalt in einem <hi rendition="#i">Münchner</hi>
-<lb break="yes"/>Gefängnis mit dem des hiesigen Irrenhauses. </p><p><space/> Ich dagegen stelle sofort Gegenklage <lb break="yes"/>gegen den <surname><hi rendition="#i">F.</hi></surname> wegen falscher Anschuldi<lb break="no"/>gung. Siegerin bin u. bleibe ich.</p><p><space/> In der sicheren Annahme, daß die <lb break="yes"/>kgl. Staatsanwaltschaft meinen Wünschen
-                    <lb break="yes"/>baldigst nachkom̄en dürfte <lb break="yes"/><hi rendition="#c">zeichne ich <lb break="yes"/><seg ana="#signed">achtungsvoll <lb break="yes"/>A. <surname><hi rendition="#i">S.</hi></surname>. <lb break="yes"/>z. Zt Irrenhaus:</seg></hi></p><p>Als Antwort hierauf erhielt ich beiliegendes <lb break="yes"/>Schreiben. <lb break="yes"/><hi rendition="#r">D. O.</hi></p>
+                wollen. Gerne<lb break="yes"/>vertausche ich den Aufenthalt in einem <hi rendition="#i">Münchner</hi><lb break="yes"/>Gefängnis mit dem des hiesigen Irrenhauses. </p><p><space/> Ich dagegen stelle sofort Gegenklage<lb break="yes"/>gegen den <surname><hi rendition="#i">F.</hi></surname> wegen falscher Anschuldi<lb break="no"/>gung. Siegerin bin u. bleibe ich.</p><p><space/> In der sicheren Annahme, daß die<lb break="yes"/>kgl. Staatsanwaltschaft meinen Wünschen<lb break="yes"/>baldigst nachkom̄en dürfte<lb break="yes"/><hi rendition="#c">zeichne ich<lb break="yes"/><seg ana="#signed">achtungsvoll<lb break="yes"/>A. <surname><hi rendition="#i">S.</hi></surname>.<lb break="yes"/>z. Zt Irrenhaus:</seg></hi></p><p>Als Antwort hierauf erhielt ich beiliegendes<lb break="yes"/>Schreiben.<lb break="yes"/><hi rendition="#r">D. O.</hi></p>
 </body>
 </text>
 </TEI>

@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Cosmas <surname>R.</surname></persName>
 <date type="sent">24.01.1872</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Ehefrau: Kreszentia <surname>R.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb2108r">
@@ -44,12 +44,12 @@
 <birth when="1825"/>
 <death when="1882"/>
 <occupation>Schuhmachermeister</occupation>
-<residence>Augsburg</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: verheiratet</p>
-<p>Eltern: </p>
-<p>Anstalt: 1871-1882</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1871" to="1882">1871-1882</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Tobsucht, Erregungszustände, Geistesstörung, Paralyse, blödsinniger Größenwahn (1872)</p></trait>
@@ -84,32 +84,27 @@
 <body>
 <pb facs="#image_023"/>
 <opener>
-<dateline><hi rendition="#r"><del>Augsb</del>Irsee<lb break="yes"/>
-				        Irrsee den 24 Januar. <lb break="yes"/>
-				        1872.</hi></dateline>
+<dateline><hi rendition="#r"><del>Augsb</del>Irsee<lb break="yes"/>Irrsee den 24 Januar.<lb break="yes"/>1872.</hi></dateline>
 <salute><hi rendition="#c">Liebe Frau Kreszentia!</hi></salute>
 </opener>
-<p> Da Du mich mit Herrn <surname>R.</surname> Ballester<lb break="yes"/> im
-                Krankenhauße abholtest. Hat genanter<lb break="yes"/> Herr
-                    <surname>R.</surname> Dir erklärt mit uns nach<lb break="yes"/> München
-                    <hi rendition="#i">per</hi> Eisenbahn̄ fahren zu wollen.<lb break="yes"/>
-<del>mit hat</del> um Leder zu kaufen. ich erklärte<lb break="yes"/> aber Herrn
-                    <surname>R.</surname> und meiner <add>lieben</add> Frau<lb break="yes"/> Gemahlin, das jezt keine Zeit zum Leder<lb break="yes"/> ist <add>kaufen
-                    ist</add> das muß ich besser wissen wo und<lb break="yes"/> wenn und vom wem ich
-                mein <add>Leder</add> kaufen soll<lb break="yes"/> und muß. Da hat mir Herr
-                    <surname>R.</surname> nichts<lb break="yes"/> einzureden wen̄ Du
-                liebe Frau mir etwas<lb break="yes"/> zu sagen oder nützen köntest sollte
+<p> Da Du mich mit Herrn <surname>R.</surname> Ballester<lb break="yes"/>im
+                Krankenhauße abholtest. Hat genanter<lb break="yes"/>Herr
+                    <surname>R.</surname> Dir erklärt mit uns nach<lb break="yes"/>München
+                    <hi rendition="#i">per</hi> Eisenbahn̄ fahren zu wollen.<lb break="yes"/><del>mit hat</del> um Leder zu kaufen. ich erklärte<lb break="yes"/>aber Herrn
+                    <surname>R.</surname> und meiner <add>lieben</add> Frau<lb break="yes"/>Gemahlin, das jezt keine Zeit zum Leder<lb break="yes"/>ist <add>kaufen
+                    ist</add> das muß ich besser wissen wo und<lb break="yes"/>wenn und vom wem ich
+                mein <add>Leder</add> kaufen soll<lb break="yes"/>und muß. Da hat mir Herr
+                    <surname>R.</surname> nichts<lb break="yes"/>einzureden wen̄ Du
+                liebe Frau mir etwas<lb break="yes"/>zu sagen oder nützen köntest sollte
                     <add>es</add> mich recht freuen<pb facs="#image_024"/> Es kan̄ mich nur
-                    <add>Freuen</add> öfter brieflich liebe Frau<lb break="yes"/> mit Dir Ansichten
-                auszutauschen wegen<lb break="yes"/> Geschäftsangelegenheiten häußlichen Sachen<lb break="yes"/> und u. <w>Familien An<del>n</del>gelegenheiten</w> meiner<lb break="yes"/> lieben Tochter Kathinka und von der braven<lb break="yes"/> Kreszentia, ob Zenzi
-                gegen ihr liebe und<lb break="yes"/> gute Mutter und recht braven, <add>u</add>
-                    fleißigen<lb break="yes"/> Katharina recht freundlich und brav ist.<lb break="yes"/> Mein<del>n</del>e Person will Alles thun um gute<lb break="yes"/>
-                angenehme Stunden so viel in meinen<lb break="yes"/> Kräften liegt und der gute Gott
-                    mir<lb break="yes"/> Gnade und seinen göttlichen Segen <add>giebt</add>;<lb break="yes"/> ohne Gott und Hilfe der Mutter Gottes<lb break="yes"/> und unsers
-                göttlichen Erlösers und und des<lb break="yes"/> Hl. Geistes. Amen. Ersuche Dich
-                    liebe<lb break="yes"/> Frau wen̄ dir möglich mir Kamm, eine alte<lb break="yes"/> Haarbürste und vom Laden in <w>der</w><w>ersten</w><lb break="yes"/>
-<del>od</del> Schublade im Komod Kasten oder 2. Schublade<lb break="yes"/> neben dem
-                Ofen Kästchen von der Kreszens und<lb break="yes"/> Kathi.</p>
+                    <add>Freuen</add> öfter brieflich liebe Frau<lb break="yes"/>mit Dir Ansichten
+                auszutauschen wegen<lb break="yes"/>Geschäftsangelegenheiten häußlichen Sachen<lb break="yes"/>und u. <w>Familien An<del>n</del>gelegenheiten</w> meiner<lb break="yes"/>lieben Tochter Kathinka und von der braven<lb break="yes"/>Kreszentia, ob Zenzi
+                gegen ihr liebe und<lb break="yes"/>gute Mutter und recht braven, <add>u</add>
+                    fleißigen<lb break="yes"/>Katharina recht freundlich und brav ist.<lb break="yes"/>Mein<del>n</del>e Person will Alles thun um gute<lb break="yes"/>angenehme Stunden so viel in meinen<lb break="yes"/>Kräften liegt und der gute Gott
+                    mir<lb break="yes"/>Gnade und seinen göttlichen Segen <add>giebt</add>;<lb break="yes"/>ohne Gott und Hilfe der Mutter Gottes<lb break="yes"/>und unsers
+                göttlichen Erlösers und und des<lb break="yes"/>Hl. Geistes. Amen. Ersuche Dich
+                    liebe<lb break="yes"/>Frau wen̄ dir möglich mir Kamm, eine alte<lb break="yes"/>Haarbürste und vom Laden in <w>der</w><w>ersten</w><lb break="yes"/><del>od</del> Schublade im Komod Kasten oder 2. Schublade<lb break="yes"/>neben dem
+                Ofen Kästchen von der Kreszens und<lb break="yes"/>Kathi.</p>
 </body>
 </text>
 </TEI>

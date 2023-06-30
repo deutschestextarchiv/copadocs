@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Amalie <surname>B.</surname></persName>
 <date type="sent">03.06.1878</date>
-<date type="received"/>
-<persName type="addressee"> Anstaltsleitung:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee"> Anstaltsleitung: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Kempten</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb966b">
@@ -43,12 +43,12 @@
 <birth when="1851"/>
 <death when="1904"/>
 <occupation>Buchhalter, Kaufmann</occupation>
-<residence>Kempten</residence>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: verheiratet</p>
 <p>Eltern: Huckler</p>
-<p>Anstalt: 1877-1904</p>
+<p>Anstalt: <date from="1877" to="1904">1877-1904</date></p>
 <p>Brieftypen: pp, po, ao</p>
 </state>
 <trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
@@ -84,16 +84,10 @@
 <dateline/>
 <salute><hi rendition="#i">Euer Hochwohlgeboren</hi>!</salute>
 </opener>
-<p><add hand="arzt"><hi rendition="#r">83 <lb break="yes"/><unclear/> 4. Juni 78</hi></add></p> <p><hi rendition="#u">siehe </hi><hi rendition="#i"><hi rendition="#u">Coupon</hi></hi>. <lb break="yes"/>Sende hiemit für meinen <lb break="yes"/>lieben Mann eine neue <hi rendition="#i">Joppe</hi>
-<lb break="yes"/>Stiefeletten dan noch ältere. Rock <lb break="yes"/>Hose 4 St.
-                Sacktücher <lb break="yes"/><space/> 2 St. <hi rendition="#i">Cravatten</hi>
-<lb break="yes"/><space/> 6 St. <hi rendition="#i">Krägen</hi> mit der Bitte <lb break="yes"/>meinem Mann es zu geben nebst herzlichem <lb break="yes"/>Gruß.
-                Wenn sich der Zustand meines <lb break="yes"/>lieben Mannes ändert bitte höflichst
-                    <lb break="yes"/>mich wieder um in Kentniß zu setzen. <lb break="yes"/><seg ana="#salute">Unterdessen zeichnet <lb break="yes"/><hi rendition="#r">Hochachtungsvollst <lb break="yes"/>ergebenst</hi>
-<lb break="yes"/><hi rendition="#i"/><seg ana="#signed"><hi rendition="#i">Amalie
-                                </hi><surname><hi rendition="#i">B.</hi></surname></seg>
-<lb break="yes"/>Buchhaltersgattin.</seg>
-<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Kempten den </hi>3 ten <hi rendition="#i">Juni</hi> 1878.</hi>
+<p><add hand="arzt"><hi rendition="#r">83<lb break="yes"/><unclear/> 4. Juni 78</hi></add></p> <p><hi rendition="#u">siehe </hi><hi rendition="#i"><hi rendition="#u">Coupon</hi></hi>.<lb break="yes"/>Sende hiemit für meinen<lb break="yes"/>lieben Mann eine neue <hi rendition="#i">Joppe</hi><lb break="yes"/>Stiefeletten dan noch ältere. Rock<lb break="yes"/>Hose 4 St.
+                Sacktücher<lb break="yes"/><space/> 2 St. <hi rendition="#i">Cravatten</hi><lb break="yes"/><space/> 6 St. <hi rendition="#i">Krägen</hi> mit der Bitte<lb break="yes"/>meinem Mann es zu geben nebst herzlichem<lb break="yes"/>Gruß.
+                Wenn sich der Zustand meines<lb break="yes"/>lieben Mannes ändert bitte höflichst<lb break="yes"/>mich wieder um in Kentniß zu setzen.<lb break="yes"/><seg ana="#salute">Unterdessen zeichnet<lb break="yes"/><hi rendition="#r">Hochachtungsvollst<lb break="yes"/>ergebenst</hi><lb break="yes"/><hi rendition="#i"/><seg ana="#signed"><hi rendition="#i">Amalie
+                                </hi><surname><hi rendition="#i">B.</hi></surname></seg><lb break="yes"/>Buchhaltersgattin.</seg><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Kempten den </hi>3 ten <hi rendition="#i">Juni</hi> 1878.</hi>
 </p>
 </body>
 </text>

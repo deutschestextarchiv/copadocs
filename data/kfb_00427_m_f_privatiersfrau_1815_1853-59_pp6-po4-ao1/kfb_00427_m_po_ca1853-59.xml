@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Louise <surname>M.</surname></persName>
 <date type="sent">ca. 1853-1859</date>
-<date type="received"/>
-<persName type="addressee">Doktor (Anwalt?):  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor (Anwalt?): n.a. <surname>n.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb427m">
@@ -44,12 +44,12 @@
 <birth when="1815"/>
 <death cert="unknown"/>
 <occupation>Privatiersfrau</occupation>
-<residence>Schwabing, München</residence>
-<faith>k oder p&gt;</faith>
+<residence><geo decls="#WGS">48.1700887 11.5884858</geo>Schwabing, München</residence>
+<faith>k oder p</faith>
 <state>
-<p>Familienstand: v</p>
+<p>Familienstand: verheiratet</p>
 <p>Eltern: niederer Stand</p>
-<p>Anstalt: 1853-1859</p>
+<p>Anstalt: <date from="1853" to="1859">1853-1859</date></p>
 <p>Brieftypen: pp, po, ao</p>
 </state>
 <trait><p>Geisteskrankheit, fixe Ideen, Angst (1853-1859)</p></trait>
@@ -88,7 +88,7 @@
                 jetzt vergebens, ich bitte Sie dacher<lb break="yes"/>dringend so bald wie möglich
                 zu kom̄en da<lb break="yes"/>ich wegen meinen familien Angelegenheiten<lb break="yes"/>mit Ihnen sprechen möchte, und Sie mir als<lb break="yes"/>Rechtsbeistand mir angewißen wurden ich<lb break="yes"/>bin jetzt bereits 5 Jahren
                 in dieser fürchterlichen<lb break="yes"/>Lage und ich glaube nicht daß ich es
-                verdient <lb break="yes"/>habe wen̄ ich 13 Jahre mit einem ersten
+                verdient<lb break="yes"/>habe wen̄ ich 13 Jahre mit einem ersten
                     Ma<unclear>n</unclear><lb break="yes"/>glücklich lebte
                     <add place="above"><del>und wen man</del> auch kein Verbrechen begangen
                         <unclear>hat</unclear></add> daß man mich in Irsee
@@ -96,7 +96,7 @@
                 bestimt war, wen<lb break="yes"/>mein Geist aufgeregt <add place="above">war</add>
                 in meiner Wohnung so glaube<lb break="yes"/>ich nicht daß der Hausarzt daß Recht hat
                 mich <del>mich</del><lb break="yes"/>von meiner Heimath <del>g</del>und von meiner
-                Familie <w>heraus <lb break="no"/>zu reißen</w> um mich in eine Anstalt zu
+                Familie <w>heraus<lb break="no"/>zu reißen</w> um mich in eine Anstalt zu
                     bringen.<lb break="yes"/><del>wen̄ al ich bitte</del>
 <seg ana="#salute">in der Hoffung Sie recht bald<lb break="yes"/>zu sehen schliese
                     ich mit Achtung</seg>

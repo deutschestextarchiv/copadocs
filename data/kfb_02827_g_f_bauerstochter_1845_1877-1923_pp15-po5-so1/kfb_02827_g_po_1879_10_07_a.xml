@@ -31,10 +31,10 @@
 <creation>
 <persName type="sender">Marie Cleofa <surname>G.</surname></persName>
 <date type="sent">07.10.1879</date>
-<date type="received"/>
-<persName type="addressee">:  <surname>H.</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>H.</surname></persName>
 <settlement type="sent">Enigshausen</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2827g">
@@ -45,12 +45,12 @@
 <birth when="1845"/>
 <death cert="unknown"/>
 <occupation>Bauerstochter</occupation>
-<residence>Engishausen, Illertissen</residence>
+<residence><geo decls="#WGS">48.1082257 10.2728225</geo>Engishausen, Illertissen</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bauern</p>
-<p>Anstalt: 1877-1923</p>
+<p>Anstalt: <date from="1877" to="1923">1877-1923</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Manie (1923)</p></trait>
@@ -89,56 +89,42 @@
 <body>
 <pb facs="#image_003"/>
 <opener>
-<dateline><hi rendition="#r">Engishausen den 7. Oktober <lb break="yes"/>
-				        187<del>7</del>9.</hi></dateline>
+<dateline><hi rendition="#r">Engishausen den 7. Oktober<lb break="yes"/>187<del>7</del>9.</hi></dateline>
 <salute><hi rendition="#c">Geehrte Frau <surname>H.</surname>!</hi></salute>
 </opener>
 <p> Gott zum Gruß.</p>
-<p> Ich habe mit mein Versprechen<lb break="yes"/> zu schreiben lang gewartet,<lb break="yes"/>
-<del>ich kon̄te</del> zuerst war ich hie u. da<lb break="yes"/> so des Monats
-                krank. In der Ablaß<lb break="no"/> zeit war ich vier Wochen in<lb break="yes"/>
-                Baumgärtle u. Bedernau beim<lb break="yes"/>
-<add place="inline">Hoch.</add> Herrn Vetter zur Aushielf am
-                    <unclear>Steken</unclear><lb break="yes"/> mußte <add place="above">ich</add>
-                nah Bedernau maschieren<lb break="yes"/> dan̄ kam es besser. Der Hw. Herr<lb break="yes"/> Pater <surname>T.</surname> ist vom Americka<pb facs="#image_004"/> auf Ostern gekom̄en hat mit<lb break="no"/> gebracht
-                seinen Bruder als Lehrer<lb break="yes"/> u. drei Knaben aus der Stadt zum<lb break="yes"/> sin̄gen u. studieren, jetzt sind Sie<lb break="yes"/> nach
-                Wallerstein gekom̄en. Tausend<lb break="yes"/> Komionen hat Er der How. Pater
-                    <surname>T.</surname><lb break="yes"/> gespendet während der vier Wochen<lb break="yes"/> Ablaßzeit. Mein Vetter Mathias<lb break="yes"/> u. Vetter Jakob
-                von Vater u. Mutter<lb break="yes"/> Geschwiestern sind um Jakobi gestorben<lb break="yes"/> ich habe den̄ Mathias vier Wochen<lb break="yes"/>
-                gepflekt. An der <seg ana="#med">Halsbreune</seg> sind<lb break="yes"/> auch Kinder
-                gestorben eine<lb break="yes"/> Erwachsene Baase mit 21. Jahren<lb break="yes"/> ist
-                auch gestorben u. so viele<lb break="yes"/> es ist während der Zeit viel<lb break="yes"/> verwechsellt worden gegenseitig.<lb break="yes"/> Mir ist es gut
-                gegangen ich habe<lb break="yes"/> noch jetzt bei meinem Bruder<lb break="yes"/>
-                achzehnhundert Gulden auf die<lb break="yes"/> ersten Hypodek u. mein naher
-                    Vetter<lb break="yes"/> ist Curat. Darauf haben mich<pb facs="#image_005"/> die
-                Meiningen im̄er hart behandelt<lb break="yes"/> aus lauter Zorn alle vier Wochen<lb break="yes"/> eingesperrt die Läden
-                    zugenagelt<lb break="yes"/> u. geschlagen u. gestoßen. Ich kon̄te<lb break="yes"/> doch nicht dafür das mir der liebe Gott<lb break="yes"/> so viel
-                Leiden schickte. Gott sei Dank<lb break="yes"/> jetz ist wieder alles so
-                zim̄lich vor vier<lb break="yes"/> Wochen hat man mein Kresinzia<lb break="yes"/> getauft wie Ihre Mutter heißt ich bin<lb break="yes"/> die
-                Taufpath u. die Pflegerin̄ <add place="above">gewesen</add> ich<lb break="yes"/> verzeihe gerne ich war auch sehr<lb break="yes"/>
-aufgeregt. Aber jetzt Gott sei Dank<lb break="yes"/> geht es
-                recht gut. Ich war wallfahrten<lb break="yes"/> auf dem Kapiteljahrtag in
-                    Ottobeuren<lb break="yes"/> u. Kaufbeuren Wegen dem Iregen<lb break="yes"/>
-                kon̄te ich Sie nicht besuchen es that<lb break="yes"/> mir sehr leid ich hoff
-                das nechste Jahr.<lb break="yes"/> hr Heute reise ich ab nach Roggenburg Maria<lb break="yes"/> Hilf dan̄ nach Wettenhausen zu <del>Kal</del><lb break="yes"/> hl. Berg Kalvaria beten Sie auch<lb break="yes"/> für mich ich bet
+<p> Ich habe mit mein Versprechen<lb break="yes"/>zu schreiben lang gewartet,<lb break="yes"/><del>ich kon̄te</del> zuerst war ich hie u. da<lb break="yes"/>so des Monats
+                krank. In der Ablaß<lb break="no"/>zeit war ich vier Wochen in<lb break="yes"/>Baumgärtle u. Bedernau beim<lb break="yes"/><add place="inline">Hoch.</add> Herrn Vetter zur Aushielf am
+                    <unclear>Steken</unclear><lb break="yes"/>mußte <add place="above">ich</add>
+                nah Bedernau maschieren<lb break="yes"/>dan̄ kam es besser. Der Hw. Herr<lb break="yes"/>Pater <surname>T.</surname> ist vom Americka<pb facs="#image_004"/> auf Ostern gekom̄en hat mit<lb break="no"/>gebracht
+                seinen Bruder als Lehrer<lb break="yes"/>u. drei Knaben aus der Stadt zum<lb break="yes"/>sin̄gen u. studieren, jetzt sind Sie<lb break="yes"/>nach
+                Wallerstein gekom̄en. Tausend<lb break="yes"/>Komionen hat Er der How. Pater
+                    <surname>T.</surname><lb break="yes"/>gespendet während der vier Wochen<lb break="yes"/>Ablaßzeit. Mein Vetter Mathias<lb break="yes"/>u. Vetter Jakob
+                von Vater u. Mutter<lb break="yes"/>Geschwiestern sind um Jakobi gestorben<lb break="yes"/>ich habe den̄ Mathias vier Wochen<lb break="yes"/>gepflekt. An der <seg ana="#med">Halsbreune</seg> sind<lb break="yes"/>auch Kinder
+                gestorben eine<lb break="yes"/>Erwachsene Baase mit 21. Jahren<lb break="yes"/>ist
+                auch gestorben u. so viele<lb break="yes"/>es ist während der Zeit viel<lb break="yes"/>verwechsellt worden gegenseitig.<lb break="yes"/>Mir ist es gut
+                gegangen ich habe<lb break="yes"/>noch jetzt bei meinem Bruder<lb break="yes"/>achzehnhundert Gulden auf die<lb break="yes"/>ersten Hypodek u. mein naher
+                    Vetter<lb break="yes"/>ist Curat. Darauf haben mich<pb facs="#image_005"/> die
+                Meiningen im̄er hart behandelt<lb break="yes"/>aus lauter Zorn alle vier Wochen<lb break="yes"/>eingesperrt die Läden
+                    zugenagelt<lb break="yes"/>u. geschlagen u. gestoßen. Ich kon̄te<lb break="yes"/>doch nicht dafür das mir der liebe Gott<lb break="yes"/>so viel
+                Leiden schickte. Gott sei Dank<lb break="yes"/>jetz ist wieder alles so
+                zim̄lich vor vier<lb break="yes"/>Wochen hat man mein Kresinzia<lb break="yes"/>getauft wie Ihre Mutter heißt ich bin<lb break="yes"/>die
+                Taufpath u. die Pflegerin̄ <add place="above">gewesen</add> ich<lb break="yes"/>verzeihe gerne ich war auch sehr<lb break="yes"/>aufgeregt. Aber jetzt Gott sei Dank<lb break="yes"/>geht es
+                recht gut. Ich war wallfahrten<lb break="yes"/>auf dem Kapiteljahrtag in
+                    Ottobeuren<lb break="yes"/>u. Kaufbeuren Wegen dem Iregen<lb break="yes"/>kon̄te ich Sie nicht besuchen es that<lb break="yes"/>mir sehr leid ich hoff
+                das nechste Jahr.<lb break="yes"/>hr Heute reise ich ab nach Roggenburg Maria<lb break="yes"/>Hilf dan̄ nach Wettenhausen zu <del>Kal</del><lb break="yes"/>hl. Berg Kalvaria beten Sie auch<lb break="yes"/>für mich ich bet
                 auch für Sie u. Alle<pb facs="#image_006"/> Tage u. für die ganze Anstallt. Ich
-                    bin<lb break="yes"/> sehr muter heitter u. vergnüg in<lb break="yes"/> meinem einsam̄en stillen Häuslchen<lb break="yes"/> Gott tausendmahl Dank. Ich bitte Sie<lb break="yes"/> Frau
-                    <surname>H.</surname> nehmen Sie meiner<lb break="yes"/> an wegen der
-                Kresenzia <surname>M.</surname><lb break="yes"/> Sie mir den̄ neuen
-                Som̄erhut um<lb break="yes"/> einen alten verdauscht das Haaröhl<lb break="yes"/> abgeleugnet u. meinen weißen<lb break="yes"/>
-<w>Kranz</w><w>mit</w> 15 Rosen zum weißen <lb break="yes"/> Kleid hat gekostet
-                einen Gulden.<lb break="yes"/> Mein Bruder hat Ihr noch einige Pfenige<lb break="yes"/> geben Sie solle den̄ Kranz durch die Josepha<lb break="yes"/>
-<surname>G.</surname> besorgen. Sie hat gesagt er sei<lb break="yes"/> nach
-                im Piro dan̄ sagte ich noch zu Ihr Sie<lb break="yes"/> darf den̄ Herr
-                    <surname>S.</surname> nicht mehr von der<lb break="yes"/> Mahllzeit stören
-                ich kan̄ Ihn doch nicht haben.<lb break="yes"/> Ich war schon bei der Josepha
-                    <surname>G.</surname> Sie<lb break="yes"/> sagte Es wüße m Niemand
-                nichts von dem Kranz.<lb break="yes"/>
-<seg ana="#salute">Mit Dank u. Hochachtung Grüß ich Sie vielmahl<lb break="yes"/>
-                    Frau <surname>K.</surname> Bregenzer Wärterin̄ Josepha im<lb break="yes"/>
-<seg ana="#inst">Tobhaus</seg> Alle Bekan̄t die <w>nach</w><w>mir</w>
-                    fragen Ich verbleibe</seg><lb break="yes"/> Ihre Bekan̄te <seg ana="#signed">Maria Kleopha <surname>G.</surname></seg>.<lb break="yes"/>
-<seg ana="#metaling">Ich bitt um entschuldigung es war Nacht 2 Uhr.</seg></p>
+                    bin<lb break="yes"/>sehr muter heitter u. vergnüg in<lb break="yes"/>meinem einsam̄en stillen Häuslchen<lb break="yes"/>Gott tausendmahl Dank. Ich bitte Sie<lb break="yes"/>Frau
+                    <surname>H.</surname> nehmen Sie meiner<lb break="yes"/>an wegen der
+                Kresenzia <surname>M.</surname><lb break="yes"/>Sie mir den̄ neuen
+                Som̄erhut um<lb break="yes"/>einen alten verdauscht das Haaröhl<lb break="yes"/>abgeleugnet u. meinen weißen<lb break="yes"/><w>Kranz</w><w>mit</w> 15 Rosen zum weißen<lb break="yes"/>Kleid hat gekostet
+                einen Gulden.<lb break="yes"/>Mein Bruder hat Ihr noch einige Pfenige<lb break="yes"/>geben Sie solle den̄ Kranz durch die Josepha<lb break="yes"/><surname>G.</surname> besorgen. Sie hat gesagt er sei<lb break="yes"/>nach
+                im Piro dan̄ sagte ich noch zu Ihr Sie<lb break="yes"/>darf den̄ Herr
+                    <surname>S.</surname> nicht mehr von der<lb break="yes"/>Mahllzeit stören
+                ich kan̄ Ihn doch nicht haben.<lb break="yes"/>Ich war schon bei der Josepha
+                    <surname>G.</surname> Sie<lb break="yes"/>sagte Es wüße m Niemand
+                nichts von dem Kranz.<lb break="yes"/><seg ana="#salute">Mit Dank u. Hochachtung Grüß ich Sie vielmahl<lb break="yes"/>Frau <surname>K.</surname> Bregenzer Wärterin̄ Josepha im<lb break="yes"/><seg ana="#inst">Tobhaus</seg> Alle Bekan̄t die <w>nach</w><w>mir</w>
+                    fragen Ich verbleibe</seg><lb break="yes"/>Ihre Bekan̄te <seg ana="#signed">Maria Kleopha <surname>G.</surname></seg>.<lb break="yes"/><seg ana="#metaling">Ich bitt um entschuldigung es war Nacht 2 Uhr.</seg></p>
 </body>
 </text>
 </TEI>

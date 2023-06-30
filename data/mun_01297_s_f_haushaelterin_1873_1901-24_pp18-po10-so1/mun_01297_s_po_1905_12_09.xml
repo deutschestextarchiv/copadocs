@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Elisabeth <surname>S.</surname></persName>
 <date type="sent">09.12.1905</date>
-<date type="received"/>
-<persName type="addressee">Landeshauptmann:  <surname>H.</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Landeshauptmann: n.a. <surname>H.</surname></persName>
 <settlement type="sent">Münster</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="mun1297s">
@@ -44,12 +44,12 @@
 <birth when="1873-01-15"/>
 <death when="1924-06-26"/>
 <occupation>Haushälterin</occupation>
-<residence>Geburtsort: Brakel; Wohnort: Werl</residence>
+<residence><geo decls="#WGS">51.5533457 7.9155558</geo>Geburtsort: Brakel; Wohnort: Werl</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Vater: Wegemeister, Mutter: ohne Beruf</p>
-<p>Anstalt: 19.01.1901-26.06.1924</p>
+<p>Anstalt: <date from="19.01.1901" to="26.06.1924">19.01.1901-26.06.1924</date></p>
 <p>Brieftypen: pp, po, so</p>
 </state>
 <trait><p>einfache Seelenstörung (1901), Dementia paranoides</p></trait>
@@ -86,18 +86,17 @@
 <pb facs="#image_072"/>
 <opener>
 <dateline><add hand="vordruck">Provinzialheilanstalt <hi rendition="#r">Münster i. W., den</hi></add><hi rendition="#r"> 9. Dezember <add hand="vordruck">190</add>5.</hi></dateline>
-<salute>Herrn Landeshauptmann Dr. Hammer<lb break="no"/> <hi rendition="#r">schmidt.</hi></salute>
+<salute>Herrn Landeshauptmann Dr. Hammer<lb break="no"/><hi rendition="#r">schmidt.</hi></salute>
 </opener>
 <p><surname><hi rendition="#i">S.</hi></surname><hi rendition="#u">. </hi></p>
-<p><add hand="hand3"><space/> G 9./<hi rendition="#sub">12</hi> 05 <lb break="yes"/><space/> <hi rendition="#u" style="hand4">ad acta</hi>
-                    Elise <surname><hi rendition="#i">S.</hi></surname>
-<lb break="yes"/><hi rendition="#c">G </hi></add></p>
-<p>Mit Erlaubnis gerne nach <lb break="yes"/>der <hi rendition="#u">Provinzialheilanstalt War<lb break="no"/>stein</hi> vor Weihnachten noch <lb break="yes"/>jeden Tage gehen wird <lb break="yes"/>es die Tochter des
-                    Wegemei<lb break="no"/>ster <hi rendition="#i">A</hi>. <surname><hi rendition="#i">S.</hi></surname> aus <lb break="yes"/>Werl verschicken mit, die <lb break="yes"/>Kranke Elilsabeth <surname><hi rendition="#i">S.</hi></surname>
-<pb facs="#image_073"/>auf Marienthal, nach der <lb break="yes"/>Provinzial=Gebäude
-                    War<lb break="no"/>stein gerne hin um <lb break="yes"/>Bitte Aufnahme dort <lb break="yes"/>noch vor Weihnachten gehen <lb break="yes"/>wird um baldige Ant<lb break="no"/>wort, nach Anstalt=Warstein <lb break="yes"/><add>Die Kranke</add>
+<p><add hand="hand3"><space/> G 9./<hi rendition="#sub">12</hi> 05<lb break="yes"/><space/> <hi rendition="#u" style="hand4">ad acta</hi>
+                    Elise <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/><hi rendition="#c">G </hi></add></p>
+<p>Mit Erlaubnis gerne nach<lb break="yes"/>der <hi rendition="#u">Provinzialheilanstalt War<lb break="no"/>stein</hi> vor Weihnachten noch<lb break="yes"/>jeden Tage gehen wird<lb break="yes"/>es die Tochter des
+                    Wegemei<lb break="no"/>ster <hi rendition="#i">A</hi>. <surname><hi rendition="#i">S.</hi></surname> aus<lb break="yes"/>Werl verschicken mit, die<lb break="yes"/>Kranke Elilsabeth <surname><hi rendition="#i">S.</hi></surname>
+<pb facs="#image_073"/>auf Marienthal, nach der<lb break="yes"/>Provinzial=Gebäude
+                    War<lb break="no"/>stein gerne hin um<lb break="yes"/>Bitte Aufnahme dort<lb break="yes"/>noch vor Weihnachten gehen<lb break="yes"/>wird um baldige Ant<lb break="no"/>wort, nach Anstalt=Warstein<lb break="yes"/><add>Die Kranke</add>
 <seg ana="#signed">Elisabeth <surname><hi rendition="#i">S.</hi></surname></seg>
-                aus <lb break="yes"/>Werl bei Soest. <lb break="yes"/><hi rendition="#u">Um
+                aus<lb break="yes"/>Werl bei Soest.<lb break="yes"/><hi rendition="#u">Um
                     baldige Antwort.</hi>
 </p>
 </body>

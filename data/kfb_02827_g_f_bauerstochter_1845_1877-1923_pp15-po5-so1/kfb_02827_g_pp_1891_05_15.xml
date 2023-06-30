@@ -31,10 +31,10 @@
 <creation>
 <persName type="sender">Maria Cleofa <surname>G.</surname></persName>
 <date type="sent">15.05.1891</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Bruder, Schwägerin: Joseph, Babetha <surname>G.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2827g">
@@ -45,12 +45,12 @@
 <birth when="1845"/>
 <death cert="unknown"/>
 <occupation>Bauerstochter</occupation>
-<residence>Engishausen, Illertissen</residence>
+<residence><geo decls="#WGS">48.1082257 10.2728225</geo>Engishausen, Illertissen</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bauern</p>
-<p>Anstalt: 1877-1923</p>
+<p>Anstalt: <date from="1877" to="1923">1877-1923</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Manie (1923)</p></trait>
@@ -82,26 +82,16 @@
 <body>
 <pb facs="#image_033"/>
 <opener>
-<dateline><hi rendition="#c">Heilanstalt-<hi rendition="#i">Irrsee</hi>.<lb break="yes"/>
-                        den̄ 15<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Mai
+<dateline><hi rendition="#c">Heilanstalt-<hi rendition="#i">Irrsee</hi>.<lb break="yes"/>den̄ 15<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Mai
                         1891.</hi></dateline>
-<salute><hi rendition="#c">Lieber Brud<hi rendition="#i">er</hi> Joseph!<lb break="yes"/>
-                        Theure! Schwägerin̄ Babetha!</hi></salute>
+<salute><hi rendition="#c">Lieber Brud<hi rendition="#i">er</hi> Joseph!<lb break="yes"/>Theure! Schwägerin̄ Babetha!</hi></salute>
 </opener>
 <p>
 Gott zum Gruß!</p>
-<p><w>In den</w> ich gestern von Hochwohl<lb break="no"/> gebornen Herrn
-                Oberarz! die Erlaubniß<lb break="yes"/> bekom̄en Euch zu schreiben das
-                    ist-<lb break="yes"/> mein letzter Brief:?-</p>
-<p>Du lieber Brud darfst mich auf das<lb break="yes"/>
-hl. Pfünst-Fest heim oder die.<lb break="yes"/>
-Liebe Schwägerin̄ Babeth.-<lb break="yes"/>
-<seg ana="#salute">auf viele Grüße:- fröhliches<lb break="yes"/>
-wiedersehn nach vier Jahr.<lb break="yes"/>
-Deine liebe Schwester.- Deine Theure!-<lb break="yes"/>
-    Schwägerin̄</seg> <seg ana="#signed">Maria! Cleofa <surname>G.</surname></seg>.<lb break="yes"/>
-<hi rendition="#r">G. I. Ch.</hi><lb break="yes"/>
-</p>
+<p><w>In den</w> ich gestern von Hochwohl<lb break="no"/>gebornen Herrn
+                Oberarz! die Erlaubniß<lb break="yes"/>bekom̄en Euch zu schreiben das
+                    ist-<lb break="yes"/>mein letzter Brief:?-</p>
+<p>Du lieber Brud darfst mich auf das<lb break="yes"/>hl. Pfünst-Fest heim oder die.<lb break="yes"/>Liebe Schwägerin̄ Babeth.-<lb break="yes"/><seg ana="#salute">auf viele Grüße:- fröhliches<lb break="yes"/>wiedersehn nach vier Jahr.<lb break="yes"/>Deine liebe Schwester.- Deine Theure!-<lb break="yes"/>Schwägerin̄</seg> <seg ana="#signed">Maria! Cleofa <surname>G.</surname></seg>.<lb break="yes"/><hi rendition="#r">G. I. Ch.</hi><lb break="yes"/></p>
 </body>
 </text>
 </TEI>

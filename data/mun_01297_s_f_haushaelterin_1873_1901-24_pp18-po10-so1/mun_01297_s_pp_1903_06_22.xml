@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Elisabeth <surname>S.</surname></persName>
 <date type="sent">22.06.1903</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Bruder: A. <surname>S.</surname></persName>
 <settlement type="sent">Münster</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="mun1297s">
@@ -44,12 +44,12 @@
 <birth when="1873-01-15"/>
 <death when="1924-06-26"/>
 <occupation>Haushälterin</occupation>
-<residence>Geburtsort: Brakel; Wohnort: Werl</residence>
+<residence><geo decls="#WGS">51.5533457 7.9155558</geo>Geburtsort: Brakel; Wohnort: Werl</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Vater: Wegemeister, Mutter: ohne Beruf</p>
-<p>Anstalt: 19.01.1901-26.06.1924</p>
+<p>Anstalt: <date from="19.01.1901" to="26.06.1924">19.01.1901-26.06.1924</date></p>
 <p>Brieftypen: pp, po, so</p>
 </state>
 <trait><p>einfache Seelenstörung (1901), Dementia paranoides</p></trait>
@@ -89,29 +89,19 @@
 <dateline><add hand="vordruck">Provinzial-Heil-Anstalt <hi rendition="#r">Münster i. W., den</hi></add><hi rendition="#r"> 22. Juni 1903.</hi></dateline>
 <salute><hi rendition="#c">Lieber Bruder!</hi></salute>
 </opener>
-<p><add hand="hand3"><hi rendition="#u" style="hand4">ad acta</hi> Elise <surname><hi rendition="#i">S.</hi></surname>
-<lb break="yes"/><space/> G</add></p>
-<p>Von Hause hätte ganz gerne <lb break="yes"/>wen liebe Mutter kommt diese <lb break="yes"/>Woche ganz bestimmt, man ver<lb break="no"/>liert die Geduld
-                    nähe<del>s</del>re Nachricht <lb break="yes"/>auf um jede Rückantwort <lb break="yes"/>man sorgt doch <add place="above">auch</add> das ich abgeholt <lb break="yes"/>werde, die 14. Tage sind doch <add place="above">ruhig</add> verlau
-                    <pb break="no" facs="#image_026"/>fen Maria und Anna hatten <lb break="yes"/>
-                doch versprochen <add place="above">das</add> Mutter kommt <lb break="yes"/> kannst
-                du lieber Bruder ab<lb break="no"/> kommen ganz gerne von ei<lb break="no"/> nen Tag
-                zum andern nicht gut <lb break="yes"/> geht von Hause einer. Es wird <lb break="yes"/> doch dort oben in Sauerlanden <lb break="yes"/> sowie Maria, Karl und dir gut <lb break="yes"/> gehen mit mir jeden Tage <lb break="yes"/> ganz gut. <del>Zu</del>
-                den lieben El<lb break="no"/> tern und Geschwistern wird es <lb break="yes"/>
-                hoffentlich gut gehen. Mit vielen <lb break="yes"/> <add place="margin">Grüßen</add> an Euch lieben
-                Geschwistern <lb break="yes"/> diesen Sommer wieder oben in <hi rendition="#u">Sauerlande</hi>
-<lb break="yes"/>
-<hi rendition="#r">bin freue doch <lb break="yes"/> auf Hause</hi>
-<lb break="yes"/>
-<add place="margin">festhalten lasse ich mich hir nicht mehr.</add>
+<p><add hand="hand3"><hi rendition="#u" style="hand4">ad acta</hi> Elise <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/><space/> G</add></p>
+<p>Von Hause hätte ganz gerne<lb break="yes"/>wen liebe Mutter kommt diese<lb break="yes"/>Woche ganz bestimmt, man ver<lb break="no"/>liert die Geduld
+                    nähe<del>s</del>re Nachricht<lb break="yes"/>auf um jede Rückantwort<lb break="yes"/>man sorgt doch <add place="above">auch</add> das ich abgeholt<lb break="yes"/>werde, die 14. Tage sind doch <add place="above">ruhig</add> verlau
+                    <pb break="no" facs="#image_026"/>fen Maria und Anna hatten<lb break="yes"/>doch versprochen <add place="above">das</add> Mutter kommt<lb break="yes"/>kannst
+                du lieber Bruder ab<lb break="no"/>kommen ganz gerne von ei<lb break="no"/>nen Tag
+                zum andern nicht gut<lb break="yes"/>geht von Hause einer. Es wird<lb break="yes"/>doch dort oben in Sauerlanden<lb break="yes"/>sowie Maria, Karl und dir gut<lb break="yes"/>gehen mit mir jeden Tage<lb break="yes"/>ganz gut. <del>Zu</del>
+                den lieben El<lb break="no"/>tern und Geschwistern wird es<lb break="yes"/>hoffentlich gut gehen. Mit vielen<lb break="yes"/><add place="margin">Grüßen</add> an Euch lieben
+                Geschwistern<lb break="yes"/>diesen Sommer wieder oben in <hi rendition="#u">Sauerlande</hi><lb break="yes"/><hi rendition="#r">bin freue doch<lb break="yes"/>auf Hause</hi><lb break="yes"/><add place="margin">festhalten lasse ich mich hir nicht mehr.</add>
 <pb facs="#image_027"/><seg ana="#salute">verbleibe ich Eure dich lieben<lb break="no"/>de Schwester</seg>
-<seg ana="#signed">Elisabeth <surname>S.</surname></seg>. <lb break="yes"/>Nach
-                Hause benachrichte doch auf <lb break="yes"/>kurze das kommen noch diese <lb break="yes"/>Woche <hi rendition="#u">Telphon</hi> abgeben nach <hi rendition="#u">Hause <lb break="yes"/>auf verlassen</hi>
-<seg ana="#salute">freundlich Gruß <lb break="yes"/>deine Schwester</seg>
-<seg ana="#signed">Elise</seg>. <lb break="yes"/>Herrn Vikar <hi rendition="#i">A</hi>. <surname><hi rendition="#i">S.</hi></surname>
-<lb break="yes"/><hi rendition="#c">Hochwürden <lb break="yes"/><hi rendition="#u"><hi rendition="#i">Stockum</hi>. Kreis <hi rendition="#i">Arnsberg</hi></hi>
-<lb break="yes"/>Amt Allendorf.</hi>
-<lb break="yes"/><hi rendition="#u">Um baldiges Kommen bitte ich <lb break="yes"/><space/> Briefe liefern doch ab.</hi>
+<seg ana="#signed">Elisabeth <surname>S.</surname></seg>.<lb break="yes"/>Nach
+                Hause benachrichte doch auf<lb break="yes"/>kurze das kommen noch diese<lb break="yes"/>Woche <hi rendition="#u">Telphon</hi> abgeben nach <hi rendition="#u">Hause<lb break="yes"/>auf verlassen</hi>
+<seg ana="#salute">freundlich Gruß<lb break="yes"/>deine Schwester</seg>
+<seg ana="#signed">Elise</seg>.<lb break="yes"/>Herrn Vikar <hi rendition="#i">A</hi>. <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/><hi rendition="#c">Hochwürden<lb break="yes"/><hi rendition="#u"><hi rendition="#i">Stockum</hi>. Kreis <hi rendition="#i">Arnsberg</hi></hi><lb break="yes"/>Amt Allendorf.</hi><lb break="yes"/><hi rendition="#u">Um baldiges Kommen bitte ich<lb break="yes"/><space/> Briefe liefern doch ab.</hi>
 </p>
 </body>
 </text>

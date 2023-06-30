@@ -31,10 +31,10 @@
 <creation>
 <persName type="sender">Maria Cleofa <surname>G.</surname></persName>
 <date type="sent">27.10.1890</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Bruder, Schwägerin: Joseph, Babetha <surname>G.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2827g">
@@ -45,12 +45,12 @@
 <birth when="1845"/>
 <death cert="unknown"/>
 <occupation>Bauerstochter</occupation>
-<residence>Engishausen, Illertissen</residence>
+<residence><geo decls="#WGS">48.1082257 10.2728225</geo>Engishausen, Illertissen</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bauern</p>
-<p>Anstalt: 1877-1923</p>
+<p>Anstalt: <date from="1877" to="1923">1877-1923</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Manie (1923)</p></trait>
@@ -85,26 +85,19 @@
 <body>
 <pb facs="#image_031"/>
 <opener>
-<dateline><hi rendition="#i"><seg ana="#pic">x</seg></hi>. Heilanstalt - Irrsee denn̄ 27<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Oktober<lb break="yes"/>
-<hi rendition="#r">1890.</hi></dateline>
-<salute><hi rendition="#c">Lieber Bruder Joseph!<lb break="yes"/>
-<lb break="yes"/>
-				        Theure Schwägerin̄ Babetha! -</hi></salute>
+<dateline><hi rendition="#i"><seg ana="#pic">x</seg></hi>. Heilanstalt - Irrsee denn̄ 27<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Oktober<lb break="yes"/><hi rendition="#r">1890.</hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder Joseph!<lb break="yes"/><lb break="yes"/>Theure Schwägerin̄ Babetha! -</hi></salute>
 </opener>
 <p>
 <hi rendition="#i"><seg ana="#pic">x</seg></hi>/ Gott zum Gruß! <hi rendition="#i"><seg ana="#pic">x</seg></hi></p>
-<p>Ich mein letztes Briefchen jetzt<lb break="yes"/> ein Jahr in Irrsee. Ich hoffen mein<lb break="yes"/> liebster Bruder oder Frau Schwägerin̄<lb break="yes"/>
-                hollt auf Alleerheiligen, oder Seelen<lb break="no"/> son̄tag in Urlaub. Ich
-                habe schon auf<lb break="yes"/> die Kirchweih. etlich Zeilen geschrieben.<lb break="yes"/> Ich hoffe auf ein paar Zeilen, vom<lb break="yes"/> Bruder Josech.
+<p>Ich mein letztes Briefchen jetzt<lb break="yes"/>ein Jahr in Irrsee. Ich hoffen mein<lb break="yes"/>liebster Bruder oder Frau Schwägerin̄<lb break="yes"/>hollt auf Alleerheiligen, oder Seelen<lb break="no"/>son̄tag in Urlaub. Ich
+                habe schon auf<lb break="yes"/>die Kirchweih. etlich Zeilen geschrieben.<lb break="yes"/>Ich hoffe auf ein paar Zeilen, vom<lb break="yes"/>Bruder Josech.
                 oder Tochter Cleofa.<pb facs="#image_032"/>
-<seg ana="#salute">Viele tausend Grüße.<lb break="yes"/> An Euch Alle Schwestern!<lb break="yes"/> Schwäger u. Schwägerin̄en!<lb break="yes"/> Würtenberg
-                    u. Bayerns.<lb break="yes"/></seg> Ihr liebe Theuren Alle? /=<lb break="yes"/>
-                Wen̄ Ihr Alle .<hi rendition="#i">x</hi> das Heimweh<lb break="yes"/> u. so große Verlangen wüßtet<lb break="yes"/> so würdet Ihr Euch
-                gewiß nicht<lb break="yes"/> säumen Eure einze Schwester nach elf,<lb break="yes"/>
-                Jahren erlösen. Ich hoffe Antwort<lb break="yes"/> Allerheiligen. Durch Herr<lb break="yes"/> Hofrat: Kiederle muß Erlaubniß<lb break="yes"/> u. Schrift,
-                ausgehn. Julius kan nichts <lb break="yes"/> erlauben. Deine Schwester u.
-                    Schwägerin̄<lb break="yes"/>
-<seg ana="#signed">Maria Cleofa <surname>G.</surname></seg>. G.s.Ch.<lb break="yes"/> 1 C A <hi rendition="#i">X X.X</hi></p>
+<seg ana="#salute">Viele tausend Grüße.<lb break="yes"/>An Euch Alle Schwestern!<lb break="yes"/>Schwäger u. Schwägerin̄en!<lb break="yes"/>Würtenberg
+                    u. Bayerns.<lb break="yes"/></seg> Ihr liebe Theuren Alle? /=<lb break="yes"/>Wen̄ Ihr Alle .<hi rendition="#i">x</hi> das Heimweh<lb break="yes"/>u. so große Verlangen wüßtet<lb break="yes"/>so würdet Ihr Euch
+                gewiß nicht<lb break="yes"/>säumen Eure einze Schwester nach elf,<lb break="yes"/>Jahren erlösen. Ich hoffe Antwort<lb break="yes"/>Allerheiligen. Durch Herr<lb break="yes"/>Hofrat: Kiederle muß Erlaubniß<lb break="yes"/>u. Schrift,
+                ausgehn. Julius kan nichts<lb break="yes"/>erlauben. Deine Schwester u.
+                    Schwägerin̄<lb break="yes"/><seg ana="#signed">Maria Cleofa <surname>G.</surname></seg>. G.s.Ch.<lb break="yes"/>1 C A <hi rendition="#i">X X.X</hi></p>
 </body>
 </text>
 </TEI>

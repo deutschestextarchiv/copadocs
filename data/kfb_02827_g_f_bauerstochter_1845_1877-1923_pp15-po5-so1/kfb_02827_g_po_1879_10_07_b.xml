@@ -31,10 +31,10 @@
 <creation>
 <persName type="sender">Marie Cleofa <surname>G.</surname></persName>
 <date type="sent">07.10.1879</date>
-<date type="received"/>
-<persName type="addressee">Direktor:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Enigshausen</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2827g">
@@ -45,12 +45,12 @@
 <birth when="1845"/>
 <death cert="unknown"/>
 <occupation>Bauerstochter</occupation>
-<residence>Engishausen, Illertissen</residence>
+<residence><geo decls="#WGS">48.1082257 10.2728225</geo>Engishausen, Illertissen</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bauern</p>
-<p>Anstalt: 1877-1923</p>
+<p>Anstalt: <date from="1877" to="1923">1877-1923</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Manie (1923)</p></trait>
@@ -88,45 +88,30 @@
 <body>
 <pb facs="#image_007"/>
 <opener>
-<dateline><hi rendition="#r">Engishausen den̄ 7 Oktober<lb break="yes"/>
-				        1879.</hi></dateline>
-<salute><hi rendition="#c">Hochgeehrter Herr,<lb break="yes"/>  Direktor!</hi></salute>
+<dateline><hi rendition="#r">Engishausen den̄ 7 Oktober<lb break="yes"/>1879.</hi></dateline>
+<salute><hi rendition="#c">Hochgeehrter Herr,<lb break="yes"/>Direktor!</hi></salute>
 </opener>
 <p>
 Gott zum Gruß!</p>
-<p> Erst kürzlich vor 14 Tagen, war<lb break="yes"/> ich in Ottobeuren, auf dem <lb break="yes"/>
-                Kapiteljahrtag u. dan̄ am<lb break="yes"/> Mittwoch u. Don̄erstag
-                    auch<lb break="yes"/> in Kaufbeuren. Allein es<lb break="yes"/> war mir nicht
-                die Freude
-<lb break="yes"/>
-<add place="bottom"><hi rendition="#r">verwechsellt:/</hi></add>
-<pb facs="#image_008"/> es zu regnen anfing ich hoffe<lb break="yes"/> ein späteres
-                    Wiedersehn!<lb break="yes"/> Ein schönen Gruß Enpfehlung<lb break="yes"/> An <hi rendition="#u">Frau Dierettor Fräulein<lb break="yes"/> Augusta</hi> u. <hi rendition="#u">Liella</hi> Oberpflegerin<lb break="yes"/>
-<hi rendition="#u">Kapelan Doktor Cill</hi>.<lb break="yes"/> Mite der
-                    <del>Pfleg</del> Wärterin̄ Kresenz<lb break="yes"/>
-<surname>M.</surname> bin ich nicht <w>zu frieden</w><lb break="yes"/> Sie hatt
-                mir den̄ neuen Som̄erhut<lb break="yes"/> um einem alten verdauscht
-                das Haaröhl<lb break="yes"/> wo ich im Doktor Cill selbst zeigte ab<lb break="no"/>
-                geläugent u. meinen weißen Kranz mit<lb break="yes"/> 15 Rosen hatt
-                    <w>gekostet</w><w>einen</w> Gulden u.<lb break="yes"/> gehört zum weißen
-                    <del>G</del> Kleid. Das ist nicht<lb break="yes"/> schön habe ich soviel Geld
-                der Heilanstallt<lb break="yes"/> be<del>t</del>zahlt u. dan̄ noch die
-                Efekten stehlen.<lb break="yes"/>
-<seg ana="#salute">Ich grüße Sie vielmahl, mit Dank<lb break="yes"/> u.
+<p> Erst kürzlich vor 14 Tagen, war<lb break="yes"/>ich in Ottobeuren, auf dem<lb break="yes"/>Kapiteljahrtag u. dan̄ am<lb break="yes"/>Mittwoch u. Don̄erstag
+                    auch<lb break="yes"/>in Kaufbeuren. Allein es<lb break="yes"/>war mir nicht
+                die Freude<lb break="yes"/><add place="bottom"><hi rendition="#r">verwechsellt:/</hi></add>
+<pb facs="#image_008"/> es zu regnen anfing ich hoffe<lb break="yes"/>ein späteres
+                    Wiedersehn!<lb break="yes"/>Ein schönen Gruß Enpfehlung<lb break="yes"/>An <hi rendition="#u">Frau Dierettor Fräulein<lb break="yes"/>Augusta</hi> u. <hi rendition="#u">Liella</hi> Oberpflegerin<lb break="yes"/><hi rendition="#u">Kapelan Doktor Cill</hi>.<lb break="yes"/>Mite der
+                    <del>Pfleg</del> Wärterin̄ Kresenz<lb break="yes"/><surname>M.</surname> bin ich nicht <w>zu frieden</w><lb break="yes"/>Sie hatt
+                mir den̄ neuen Som̄erhut<lb break="yes"/>um einem alten verdauscht
+                das Haaröhl<lb break="yes"/>wo ich im Doktor Cill selbst zeigte ab<lb break="no"/>geläugent u. meinen weißen Kranz mit<lb break="yes"/>15 Rosen hatt
+                    <w>gekostet</w><w>einen</w> Gulden u.<lb break="yes"/>gehört zum weißen
+                    <del>G</del> Kleid. Das ist nicht<lb break="yes"/>schön habe ich soviel Geld
+                der Heilanstallt<lb break="yes"/>be<del>t</del>zahlt u. dan̄ noch die
+                Efekten stehlen.<lb break="yes"/><seg ana="#salute">Ich grüße Sie vielmahl, mit Dank<lb break="yes"/>u.
                     Hochachtung.</seg>
-<seg ana="#metaling">Als Pazientent <hi rendition="#u">Ich bitte</hi><lb break="yes"/>
-<seg ana="#signed">Maria Kleopha <surname>G.</surname></seg>.<lb break="yes"/> um Entschuldigung es war 2 Uhr Morgens.</seg><pb facs="#image_009"/>
-<space/>gegön̄t. Sie u. die Frau<lb break="yes"/>
-<surname>H.</surname> zu besuchen u. sogleich<lb break="yes"/> auch die
-                Glükwünsche zum<lb break="yes"/> hohen Namens-Feste darbringen.<lb break="yes"/>
-                Jetzt wünsche ich noch nach<lb break="no"/> träglich alles Gute zum<lb break="yes"/>
-                Namens-Feste. Gott gebe<lb break="yes"/> Ihnen neue Gnade u. Gesund<lb break="no"/>
-                heit. noch viele reihe von Jahren<lb break="yes"/> als Kranken-Vater zu dienen<lb break="yes"/> u. die Sieges-Krone im Him̄el.<pb facs="#image_010"/> Ich
-                bin Ihnen noch stes<lb break="yes"/> Dankbar für Alles u. bete<lb break="yes"/>
-                täglich für Sie u. Ihrigen u.<lb break="yes"/> auch besonders für die lieben<lb break="yes"/> Kranken. Ich bin Gott sei<lb break="yes"/> Dank recht gesund u.
-                will auch<lb break="yes"/> hoffen wen̄ ich wieder nach<lb break="yes"/>
-                Kaufbeuren kom daß ich<lb break="yes"/> Sie besuchen kan̄. Die Witter<lb break="no"/> ung es kam zum regnen u.<lb break="yes"/> ich hatte gerade die
-                perit dan̄<lb break="yes"/> kam ich bereits nach <unclear>Ehein</unclear>
+<seg ana="#metaling">Als Pazientent <hi rendition="#u">Ich bitte</hi><lb break="yes"/><seg ana="#signed">Maria Kleopha <surname>G.</surname></seg>.<lb break="yes"/>um Entschuldigung es war 2 Uhr Morgens.</seg><pb facs="#image_009"/>
+<space/>gegön̄t. Sie u. die Frau<lb break="yes"/><surname>H.</surname> zu besuchen u. sogleich<lb break="yes"/>auch die
+                Glükwünsche zum<lb break="yes"/>hohen Namens-Feste darbringen.<lb break="yes"/>Jetzt wünsche ich noch nach<lb break="no"/>träglich alles Gute zum<lb break="yes"/>Namens-Feste. Gott gebe<lb break="yes"/>Ihnen neue Gnade u. Gesund<lb break="no"/>heit. noch viele reihe von Jahren<lb break="yes"/>als Kranken-Vater zu dienen<lb break="yes"/>u. die Sieges-Krone im Him̄el.<pb facs="#image_010"/> Ich
+                bin Ihnen noch stes<lb break="yes"/>Dankbar für Alles u. bete<lb break="yes"/>täglich für Sie u. Ihrigen u.<lb break="yes"/>auch besonders für die lieben<lb break="yes"/>Kranken. Ich bin Gott sei<lb break="yes"/>Dank recht gesund u.
+                will auch<lb break="yes"/>hoffen wen̄ ich wieder nach<lb break="yes"/>Kaufbeuren kom daß ich<lb break="yes"/>Sie besuchen kan̄. Die Witter<lb break="no"/>ung es kam zum regnen u.<lb break="yes"/>ich hatte gerade die
+                perit dan̄<lb break="yes"/>kam ich bereits nach <unclear>Ehein</unclear>
                 bis</p>
 </body>
 </text>

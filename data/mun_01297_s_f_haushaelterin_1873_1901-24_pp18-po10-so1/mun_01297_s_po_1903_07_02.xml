@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Elisabeth <surname>S.</surname></persName>
 <date type="sent">02.07.1903</date>
-<date type="received"/>
-<persName type="addressee">Bürgermeister:  <surname>P.</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: n.a. <surname>P.</surname></persName>
 <settlement type="sent">Münster</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="mun1297s">
@@ -44,12 +44,12 @@
 <birth when="1873-01-15"/>
 <death when="1924-06-26"/>
 <occupation>Haushälterin</occupation>
-<residence>Geburtsort: Brakel; Wohnort: Werl</residence>
+<residence><geo decls="#WGS">51.5533457 7.9155558</geo>Geburtsort: Brakel; Wohnort: Werl</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Vater: Wegemeister, Mutter: ohne Beruf</p>
-<p>Anstalt: 19.01.1901-26.06.1924</p>
+<p>Anstalt: <date from="19.01.1901" to="26.06.1924">19.01.1901-26.06.1924</date></p>
 <p>Brieftypen: pp, po, so</p>
 </state>
 <trait><p>einfache Seelenstörung (1901), Dementia paranoides</p></trait>
@@ -88,23 +88,19 @@
 <pb facs="#image_028"/>
 <opener>
 <dateline><add hand="vordruck">Provinzial-Heil-Anstalt <hi rendition="#r">Münster i. W., den</hi></add><hi rendition="#r"> 2. Juli 1903.</hi></dateline>
-<salute>Herrn Bürgermeister Pannig <lb break="yes"/>
-<hi rendition="#c"><hi rendition="#i">Werl</hi></hi></salute>
+<salute>Herrn Bürgermeister Pannig<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Werl</hi></hi></salute>
 </opener>
-<p><add hand="hand3">G 4./<hi rendition="#sub">7</hi> 03 <lb break="yes"/><hi rendition="#u" style="hand4">ad acta</hi> Elise <surname><hi rendition="#i">S.</hi></surname>
-<lb break="yes"/><hi rendition="#c">G </hi></add></p>
-<p>Ersuche daß ich bald aus der <lb break="yes"/>Anstalt Marienthal entlassen <lb break="yes"/>werde meine Angehörigen <lb break="yes"/>sowie meine
-                <del>B</del>beiden Schwestern <lb break="yes"/><hi rendition="#i">Anna</hi> war hier
-                Freuden wie<lb break="no"/>der mit der 2. Juni ruhig <w>mit <lb break="no"/>gehen</w> mein<del>en</del> alten Vater ger<lb break="no"/>ne wieder sehen,
-                damals mein <pb facs="#image_029"/>Vater nie zu nah getreten, in <lb break="yes"/>versprochen der Sache auftreten, <lb break="yes"/>gegenüber wie in mündich sowie
-                    <lb break="yes"/>schriflich daß ich Sie als Bürger<lb break="no"/>meister
-                niemals zu nahe getre<lb break="no"/>ten habe, eine Bitte mein Vater <lb break="yes"/>Nachricht in Kenntnis zu setzen <lb break="yes"/>kommen und holen mich. Von <lb break="yes"/>Werl bin ich 2. Jahr und 6. Mo<lb break="no"/>nate fort, das erste
-                Mal dort <lb break="yes"/>braugte nach hier nicht wieder <lb break="yes"/>hin viel
-                Unannehmes gehabt <lb break="yes"/>nie früher niemals was zu <pb facs="#image_030"/>Schulden kommen lassen. Die <lb break="yes"/>Derektion tritt zu scharf auf es <lb break="yes"/>mich an Kopf geworfen worden, <lb break="yes"/>in Besuch Rate jeden
-                ein an <lb break="yes"/>sowie in Zeuge mit gehen ande<lb break="no"/>re besorgt
-                draußen tretten nicht <lb break="yes"/>zu scharf auf laufe dieses Sommer <lb break="yes"/>dort zu sein ich bin die Tochter <lb break="yes"/>des Wegemeister
-                    <hi rendition="#i">A</hi>. <surname><hi rendition="#i">S.</hi></surname>
-<lb break="yes"/><hi rendition="#c">zu Werl.</hi>
+<p><add hand="hand3">G 4./<hi rendition="#sub">7</hi> 03<lb break="yes"/><hi rendition="#u" style="hand4">ad acta</hi> Elise <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/><hi rendition="#c">G </hi></add></p>
+<p>Ersuche daß ich bald aus der<lb break="yes"/>Anstalt Marienthal entlassen<lb break="yes"/>werde meine Angehörigen<lb break="yes"/>sowie meine
+                <del>B</del>beiden Schwestern<lb break="yes"/><hi rendition="#i">Anna</hi> war hier
+                Freuden wie<lb break="no"/>der mit der 2. Juni ruhig <w>mit<lb break="no"/>gehen</w> mein<del>en</del> alten Vater ger<lb break="no"/>ne wieder sehen,
+                damals mein <pb facs="#image_029"/>Vater nie zu nah getreten, in<lb break="yes"/>versprochen der Sache auftreten,<lb break="yes"/>gegenüber wie in mündich sowie<lb break="yes"/>schriflich daß ich Sie als Bürger<lb break="no"/>meister
+                niemals zu nahe getre<lb break="no"/>ten habe, eine Bitte mein Vater<lb break="yes"/>Nachricht in Kenntnis zu setzen<lb break="yes"/>kommen und holen mich. Von<lb break="yes"/>Werl bin ich 2. Jahr und 6. Mo<lb break="no"/>nate fort, das erste
+                Mal dort<lb break="yes"/>braugte nach hier nicht wieder<lb break="yes"/>hin viel
+                Unannehmes gehabt<lb break="yes"/>nie früher niemals was zu <pb facs="#image_030"/>Schulden kommen lassen. Die<lb break="yes"/>Derektion tritt zu scharf auf es<lb break="yes"/>mich an Kopf geworfen worden,<lb break="yes"/>in Besuch Rate jeden
+                ein an<lb break="yes"/>sowie in Zeuge mit gehen ande<lb break="no"/>re besorgt
+                draußen tretten nicht<lb break="yes"/>zu scharf auf laufe dieses Sommer<lb break="yes"/>dort zu sein ich bin die Tochter<lb break="yes"/>des Wegemeister
+                    <hi rendition="#i">A</hi>. <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/><hi rendition="#c">zu Werl.</hi>
 </p>
 </body>
 </text>

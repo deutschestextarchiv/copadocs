@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Elisabeth <surname>S.</surname></persName>
 <date type="sent">29.08.1903</date>
-<date type="received"/>
-<persName type="addressee">Amt Allendorf:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Amt Allendorf: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Münster</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="mun1297s">
@@ -44,12 +44,12 @@
 <birth when="1873-01-15"/>
 <death when="1924-06-26"/>
 <occupation>Haushälterin</occupation>
-<residence>Geburtsort: Brakel; Wohnort: Werl</residence>
+<residence><geo decls="#WGS">51.5533457 7.9155558</geo>Geburtsort: Brakel; Wohnort: Werl</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Vater: Wegemeister, Mutter: ohne Beruf</p>
-<p>Anstalt: 19.01.1901-26.06.1924</p>
+<p>Anstalt: <date from="19.01.1901" to="26.06.1924">19.01.1901-26.06.1924</date></p>
 <p>Brieftypen: pp, po, so</p>
 </state>
 <trait><p>einfache Seelenstörung (1901), Dementia paranoides</p></trait>
@@ -89,26 +89,20 @@
 <opener>
 <dateline><add hand="vordruck">Provinzial-Heil-Anstalt <hi rendition="#r">Münster
                             i. W., den</hi></add><hi rendition="#r"> 29. <hi rendition="#i">A</hi>ugust 1903.</hi></dateline>
-<salute>An <lb break="yes"/>
-<hi rendition="#c">das Amt Allendorf.</hi></salute>
+<salute>An<lb break="yes"/><hi rendition="#c">das Amt Allendorf.</hi></salute>
 </opener>
-<p><add hand="unbekannt"><hi rendition="#c">G <hi rendition="#sup">30</hi>/<hi rendition="#sub">8</hi> 03 <lb break="yes"/><hi rendition="#u" style="hand4"><hi rendition="#i">ad acta</hi> Elise</hi>
-<surname><hi rendition="#i">S.</hi></surname>
-<lb break="yes"/>G </hi></add></p>
-<p>Ersuche<del>n</del> von Amt aus mei<lb break="no"/>nen Bruder Vikar <hi rendition="#i">A</hi>. <surname><hi rendition="#i">S.</hi></surname>
-<lb break="yes"/>daß seine Schwester Elisabeth <lb break="yes"/><surname><hi rendition="#i">S.</hi></surname> von Provinzial-Heil <lb break="yes"/>und Pflegeanstalt <hi rendition="#i">Marienthal</hi>
-<lb break="yes"/>abgeholt wird bin seit 1901. hier <pb facs="#image_036"/>hoffe nach
+<p><add hand="unbekannt"><hi rendition="#c">G <hi rendition="#sup">30</hi>/<hi rendition="#sub">8</hi> 03<lb break="yes"/><hi rendition="#u" style="hand4"><hi rendition="#i">ad acta</hi> Elise</hi>
+<surname><hi rendition="#i">S.</hi></surname><lb break="yes"/>G </hi></add></p>
+<p>Ersuche<del>n</del> von Amt aus mei<lb break="no"/>nen Bruder Vikar <hi rendition="#i">A</hi>. <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/>daß seine Schwester Elisabeth<lb break="yes"/><surname><hi rendition="#i">S.</hi></surname> von Provinzial-Heil<lb break="yes"/>und Pflegeanstalt <hi rendition="#i">Marienthal</hi><lb break="yes"/>abgeholt wird bin seit 1901. hier <pb facs="#image_036"/>hoffe nach
                     <hi rendition="#i">Stockum</hi> bei Allen<lb break="no"/>do<del>f</del>rf den 20.
-                September benach<lb break="no"/>richten durch den Polzeidiener <lb break="yes"/><surname>H.</surname> Erkundigung <lb break="yes"/>einziehen, wollte
-                wieder <lb break="yes"/>bei meinen Bruder Vikar <lb break="yes"/><hi rendition="#i">Anton</hi>
+                September benach<lb break="no"/>richten durch den Polzeidiener<lb break="yes"/><surname>H.</surname> Erkundigung<lb break="yes"/>einziehen, wollte
+                wieder<lb break="yes"/>bei meinen Bruder Vikar<lb break="yes"/><hi rendition="#i">Anton</hi>
 <surname><hi rendition="#i">S.</hi></surname> sein die<lb break="no"/>sen Herbst
-                noch, aber auch <lb break="yes"/>bestimmt pünklich um die <lb break="yes"/>betreffende Zeit abgeholt <lb break="yes"/>werden. Den 2. Juni hat ich <lb break="yes"/>Besuch mit Freuden wieder <pb facs="#image_037"/>mit meine
-                Schwester <hi rendition="#i">Maria</hi>
-<lb break="yes"/>war hier gerne <w>mit nehmen</w>, <lb break="yes"/>wie in fern ist
-                daß hier die <lb break="yes"/>Behandlung ich bin ab<del>g</del>schreckt <lb break="yes"/>worden,
-                und bange gemacht <lb break="yes"/>wieder 14. Tage in übrigen <lb break="yes"/>müssen weiter wenden. <lb break="yes"/>Ich habe <w>an<del>m</del> dere</w> Empfelung <lb break="yes"/>sonst weiter an Amt Werl bei <lb break="yes"/>Soest die Eltern die
-                Tochter <lb break="yes"/>des Wegemeister <hi rendition="#i">A</hi>. <surname><hi rendition="#i">S.</hi></surname>. <lb break="yes"/><hi rendition="#c">unterzeichnete</hi>
-<lb break="yes"/>ist die Haushälterin Elisabeth bei Herrn <pb facs="#image_038"/><surname>S.</surname> Vikar in <hi rendition="#i">Stockum</hi>. </p>
+                noch, aber auch<lb break="yes"/>bestimmt pünklich um die<lb break="yes"/>betreffende Zeit abgeholt<lb break="yes"/>werden. Den 2. Juni hat ich<lb break="yes"/>Besuch mit Freuden wieder <pb facs="#image_037"/>mit meine
+                Schwester <hi rendition="#i">Maria</hi><lb break="yes"/>war hier gerne <w>mit nehmen</w>,<lb break="yes"/>wie in fern ist
+                daß hier die<lb break="yes"/>Behandlung ich bin ab<del>g</del>schreckt<lb break="yes"/>worden,
+                und bange gemacht<lb break="yes"/>wieder 14. Tage in übrigen<lb break="yes"/>müssen weiter wenden.<lb break="yes"/>Ich habe <w>an<del>m</del> dere</w> Empfelung<lb break="yes"/>sonst weiter an Amt Werl bei<lb break="yes"/>Soest die Eltern die
+                Tochter<lb break="yes"/>des Wegemeister <hi rendition="#i">A</hi>. <surname><hi rendition="#i">S.</hi></surname>.<lb break="yes"/><hi rendition="#c">unterzeichnete</hi><lb break="yes"/>ist die Haushälterin Elisabeth bei Herrn <pb facs="#image_038"/><surname>S.</surname> Vikar in <hi rendition="#i">Stockum</hi>. </p>
 </body>
 </text>
 </TEI>

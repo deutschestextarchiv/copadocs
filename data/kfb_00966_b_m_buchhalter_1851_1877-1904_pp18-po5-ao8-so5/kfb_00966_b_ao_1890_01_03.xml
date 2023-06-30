@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Matthäus <surname>B.</surname></persName>
 <date type="sent">03.01.1890</date>
-<date type="received"/>
-<persName type="addressee"> Verwalter:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee"> Verwalter: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Kempten</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb966b">
@@ -43,12 +43,12 @@
 <birth when="1851"/>
 <death when="1904"/>
 <occupation>Buchhalter, Kaufmann</occupation>
-<residence>Kempten</residence>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: verheiratet</p>
 <p>Eltern: Huckler</p>
-<p>Anstalt: 1877-1904</p>
+<p>Anstalt: <date from="1877" to="1904">1877-1904</date></p>
 <p>Brieftypen: pp, po, ao</p>
 </state>
 <trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
@@ -85,10 +85,8 @@
 <salute>Geerhetester Herr Verwalter!</salute>
 </opener>
 <p><add hand="arzt"><hi rendition="#r"><unclear/> 4. I 90</hi></add></p>
-<p>Jch ersuche Sie gütigst. dieses <lb break="yes"/>Kistch Eßwaaren meinem Sohne <lb break="yes"/>Georg <surname>B.</surname> übergeben zu lassen. <lb break="yes"/>Wünsche Jhnen ein recht gutes <lb break="yes"/>neues Jahr. <seg ana="#salute">Nebst Gruß. <lb break="yes"/><hi rendition="#r">Zeiche mit Hochachtung <lb break="yes"/>ergebenst.</hi>
-<lb break="yes"/><seg ana="#signed">Matthäus
-                    <surname>B.</surname></seg>.</seg>
-<lb break="yes"/><unclear/>
+<p>Jch ersuche Sie gütigst. dieses<lb break="yes"/>Kistch Eßwaaren meinem Sohne<lb break="yes"/>Georg <surname>B.</surname> übergeben zu lassen.<lb break="yes"/>Wünsche Jhnen ein recht gutes<lb break="yes"/>neues Jahr. <seg ana="#salute">Nebst Gruß.<lb break="yes"/><hi rendition="#r">Zeiche mit Hochachtung<lb break="yes"/>ergebenst.</hi><lb break="yes"/><seg ana="#signed">Matthäus
+                    <surname>B.</surname></seg>.</seg><lb break="yes"/><unclear/>
 </p>
 </body>
 </text>

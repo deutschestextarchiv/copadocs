@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Anna <surname>S.</surname></persName>
 <date type="sent">10.03.1919</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Schwester: Marie <surname>S.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2325s">
@@ -43,12 +43,12 @@
 <birth when="1866"/>
 <death when="1942"/>
 <occupation>Privatiere</occupation>
-<residence>Augsburg, Wohnort München</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, Wohnort München</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
-<p>Eltern: </p>
-<p>Anstalt: 1910-42</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1910" to="1942">1910-42</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>manisch=depressives Irresein (18.04.1911)</p></trait>
@@ -89,24 +89,19 @@
 <dateline><hi rendition="#r">Ir<hi rendition="#i">see</hi>, 10. <hi rendition="#i">März</hi> 19.</hi></dateline>
 <salute><hi rendition="#i">Meine liebe Schwester Marie!</hi></salute>
 </opener>
-<p><space/> Vor allem liebste Schwe<lb break="no"/>ster, wie geht es Dir? Bist <lb break="yes"/>Du immer gesund und <lb break="yes"/>munter? All zu gut wird <lb break="yes"/>es Dir bei den jetzigen <lb break="yes"/>schwierigen Verhältnissen
-                    <lb break="yes"/>auch nicht gehen. Besonders <lb break="yes"/>mit den
-                Lebensmitteln <lb break="yes"/>wird es sehr schwer sein. <lb break="yes"/>Es wird
-                doch bald eine <lb break="yes"/>andere Zeit kommen.<pb facs="#image_018"/>Und nun zu
-                mir. Daß ich von <lb break="yes"/><hi rendition="#i">Kaufbeuren</hi> nach Ir<hi rendition="#i">see</hi> kam, <lb break="yes"/>wirst Du wohl schon wissen. <lb break="yes"/>Es ist hier ganz gemütlich, <lb break="yes"/>auch die Verpflegung
-                ist <lb break="yes"/>sehr gut. Habe auch schon um <lb break="yes"/>etliche Pfund
-                zugenommen. <lb break="yes"/>Ich kann mich so über nichts <lb break="yes"/>beklagen.
-                Besonders freuen <lb break="yes"/>würde es mich, wenn Du <lb break="yes"/>liebe
-                Schwester einmal <lb break="yes"/>auf Besuch kommen würdest. <lb break="yes"/>Vielleicht könnten Du <lb break="yes"/>meinen Wünschen bald <lb break="yes"/>nach
-                kommen, um ein<lb break="no"/>mal gemütlich zu plaudern. <lb break="yes"/>Und nun
-                zum Schlusse <pb facs="#image_019"/>sei recht herzlich gegrüßt <lb break="yes"/>und
-                auf ein baldiges <lb break="yes"/>Wiedersehen freut sich <lb break="yes"/><hi rendition="#r">Deine <lb break="yes"/>Schwester <hi rendition="#i">Anna</hi>.</hi>
-<pb facs="#image_020"/><handShift medium="ink"/>Fräulein Marie <surname><hi rendition="#u">S.</hi></surname>
-<lb break="yes"/>in <lb break="yes"/><add place="above">Nicht ermittelt!
-                    Zurück</add><lb break="yes"/><del><hi rendition="#u"> München</hi></del>
-<lb break="yes"/><del><hi rendition="#u">Adalberstrasse 49</hi></del>
-<lb break="yes"/><handShift medium="pencil"/><del>49 I <hi rendition="#i">unbekannt</hi>
-<lb break="yes"/>Frl. <surname><hi rendition="#i">S.</hi></surname></del></p>
+<p><space/> Vor allem liebste Schwe<lb break="no"/>ster, wie geht es Dir? Bist<lb break="yes"/>Du immer gesund und<lb break="yes"/>munter? All zu gut wird<lb break="yes"/>es Dir bei den jetzigen<lb break="yes"/>schwierigen Verhältnissen<lb break="yes"/>auch nicht gehen. Besonders<lb break="yes"/>mit den
+                Lebensmitteln<lb break="yes"/>wird es sehr schwer sein.<lb break="yes"/>Es wird
+                doch bald eine<lb break="yes"/>andere Zeit kommen.<pb facs="#image_018"/>Und nun zu
+                mir. Daß ich von<lb break="yes"/><hi rendition="#i">Kaufbeuren</hi> nach Ir<hi rendition="#i">see</hi> kam,<lb break="yes"/>wirst Du wohl schon wissen.<lb break="yes"/>Es ist hier ganz gemütlich,<lb break="yes"/>auch die Verpflegung
+                ist<lb break="yes"/>sehr gut. Habe auch schon um<lb break="yes"/>etliche Pfund
+                zugenommen.<lb break="yes"/>Ich kann mich so über nichts<lb break="yes"/>beklagen.
+                Besonders freuen<lb break="yes"/>würde es mich, wenn Du<lb break="yes"/>liebe
+                Schwester einmal<lb break="yes"/>auf Besuch kommen würdest.<lb break="yes"/>Vielleicht könnten Du<lb break="yes"/>meinen Wünschen bald<lb break="yes"/>nach
+                kommen, um ein<lb break="no"/>mal gemütlich zu plaudern.<lb break="yes"/>Und nun
+                zum Schlusse <pb facs="#image_019"/>sei recht herzlich gegrüßt<lb break="yes"/>und
+                auf ein baldiges<lb break="yes"/>Wiedersehen freut sich<lb break="yes"/><hi rendition="#r">Deine<lb break="yes"/>Schwester <hi rendition="#i">Anna</hi>.</hi>
+<pb facs="#image_020"/><handShift medium="ink"/>Fräulein Marie <surname><hi rendition="#u">S.</hi></surname><lb break="yes"/>in<lb break="yes"/><add place="above">Nicht ermittelt!
+                    Zurück</add><lb break="yes"/><del><hi rendition="#u"> München</hi></del><lb break="yes"/><del><hi rendition="#u">Adalberstrasse 49</hi></del><lb break="yes"/><handShift medium="pencil"/><del>49 I <hi rendition="#i">unbekannt</hi><lb break="yes"/>Frl. <surname><hi rendition="#i">S.</hi></surname></del></p>
 </body>
 </text>
 </TEI>

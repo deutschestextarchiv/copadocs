@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Karl <surname>K.</surname></persName>
 <date type="sent">03.06.1900</date>
-<date type="received"/>
-<persName type="addressee">Arzt in Königsberg:  <surname>S.</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt in Königsberg: n.a. <surname>S.</surname></persName>
 <settlement type="sent">Lengerich</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="len2737k">
@@ -44,15 +44,15 @@
 <birth when="1861-02-22"/>
 <death cert="unknown"/>
 <occupation>Erdverarbeiter</occupation>
-<residence>Geburtsort: Klein-Schimanen; Wohnort: Bochum</residence>
+<residence><geo decls="#WGS">51.4818111 7.2196635</geo>Geburtsort: Klein-Schimanen; Wohnort: Bochum</residence>
 <faith>protestantisch</faith>
 <state>
 <p>Familienstand: ledig</p>
-<p>Eltern: Vater: , Mutter: ohne</p>
-<p>Anstalt: 23.05.1900-05.06.1904</p>
+<p>Eltern: Vater: n.a., Mutter: ohne</p>
+<p>Anstalt: <date from="23.05.1900" to="05.06.1904">23.05.1900-05.06.1904</date></p>
 <p>Brieftypen: po</p>
 </state>
-<trait><p/></trait>
+<trait><p>n.a.</p></trait>
 </person>
 </particDesc>
 <langUsage>
@@ -86,25 +86,19 @@
 <dateline><space/> den 3 ten Juny 1.900</dateline>
 <salute/>
 </opener>
-<p><add hand="arzt" place="top"><hi rendition="#u"><hi rendition="#i"><surname>K.</surname></hi> 3.6.00</hi></add>
-<lb break="yes"/>Ich Ersuche Sie Herr Dokter das Sie <lb break="yes"/>Müch in
-                sollche Sweiniche Anschtalte <lb break="yes"/>Lasen so füll Kvelen das kann ich
-                nicht <lb break="yes"/>Begreiven so ersuche Sie und behte Sie <lb break="yes"/>um
-                ürehm freintlich=keit das Sie mechten <lb break="yes"/>die gühte haben und die sache
-                Siech <lb break="yes"/>Reinlechen Wen dieser Vahl soll Sein <lb break="yes"/>soll
-                das Sie geht sehr Bekvem den <lb break="yes"/>Behte Sie dort einen Raht zu machen
-                    <lb break="yes"/>und so bahlt Wie mechlich mir <w>ruas
-                    hollen</w>
-<lb break="yes"/>es ist mir gar Son higer gehsacht <lb break="yes"/>Worden von
-                Derektor selben das er ist <lb break="yes"/>klein Gott darom habe die behte an Sie
-                    <lb break="yes"/>Gehschtelt Mür von die lopen Sehen <lb break="yes"/>so Bahlt
-                Wie Mechlich raus zunemen <lb break="yes"/>Mür haben in beht gehlecht und <lb break="yes"/>Lahsen gar nicht auf Stehen <del>Behs</del>
-<lb break="yes"/>so ersuche Sie und Behte so Bahlt Wie <lb break="yes"/>Mechlich mir
-                zu Siech nehmen weiter <lb break="yes"/>werde ich nicht mir Sreiben Sie kenen <lb break="yes"/><del>Sie</del> die geschichte <seg ana="#signed">Ergebntz <hi rendition="#i">Carl <lb break="yes"/><hi rendition="#c"><surname>K.</surname></hi></hi></seg>
+<p><add hand="arzt" place="top"><hi rendition="#u"><hi rendition="#i"><surname>K.</surname></hi> 3.6.00</hi></add><lb break="yes"/>Ich Ersuche Sie Herr Dokter das Sie<lb break="yes"/>Müch in
+                sollche Sweiniche Anschtalte<lb break="yes"/>Lasen so füll Kvelen das kann ich
+                nicht<lb break="yes"/>Begreiven so ersuche Sie und behte Sie<lb break="yes"/>um
+                ürehm freintlich=keit das Sie mechten<lb break="yes"/>die gühte haben und die sache
+                Siech<lb break="yes"/>Reinlechen Wen dieser Vahl soll Sein<lb break="yes"/>soll
+                das Sie geht sehr Bekvem den<lb break="yes"/>Behte Sie dort einen Raht zu machen<lb break="yes"/>und so bahlt Wie mechlich mir <w>ruas
+                    hollen</w><lb break="yes"/>es ist mir gar Son higer gehsacht<lb break="yes"/>Worden von
+                Derektor selben das er ist<lb break="yes"/>klein Gott darom habe die behte an Sie<lb break="yes"/>Gehschtelt Mür von die lopen Sehen<lb break="yes"/>so Bahlt
+                Wie Mechlich raus zunemen<lb break="yes"/>Mür haben in beht gehlecht und<lb break="yes"/>Lahsen gar nicht auf Stehen <del>Behs</del><lb break="yes"/>so ersuche Sie und Behte so Bahlt Wie<lb break="yes"/>Mechlich mir
+                zu Siech nehmen weiter<lb break="yes"/>werde ich nicht mir Sreiben Sie kenen<lb break="yes"/><del>Sie</del> die geschichte <seg ana="#signed">Ergebntz <hi rendition="#i">Carl<lb break="yes"/><hi rendition="#c"><surname>K.</surname></hi></hi></seg>
 </p>
 <pb facs="#image_012"/>
-<p><hi rendition="#c">An <lb break="yes"/>Herr Steinert <w>Gehburtz helver</w>
-<lb break="yes"/>Mehdezin Pra<unclear>kht</unclear> Artz <lb break="yes"/>in <lb break="yes"/><w>Königs berg</w> ost <lb break="yes"/><w>Niegedam gase</w> N 11 <lb break="yes"/><w>Priwat Klinig</w> für <lb break="yes"/>Nerweleiden </hi></p><p><hi rendition="#c">Legerlich in <lb break="yes"/>Westvelisch</hi></p>
+<p><hi rendition="#c">An<lb break="yes"/>Herr Steinert <w>Gehburtz helver</w><lb break="yes"/>Mehdezin Pra<unclear>kht</unclear> Artz<lb break="yes"/>in<lb break="yes"/><w>Königs berg</w> ost<lb break="yes"/><w>Niegedam gase</w> N 11<lb break="yes"/><w>Priwat Klinig</w> für<lb break="yes"/>Nerweleiden </hi></p><p><hi rendition="#c">Legerlich in<lb break="yes"/>Westvelisch</hi></p>
 </body>
 </text>
 </TEI>

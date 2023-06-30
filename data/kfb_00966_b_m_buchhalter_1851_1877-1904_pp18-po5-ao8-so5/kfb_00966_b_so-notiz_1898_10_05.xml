@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Georg <surname>B.</surname></persName>
 <date type="sent">05.10.1898</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee"><!--Beziehung-->: <!--Vorname--> <surname><!--Nachname--></surname></persName>
 <settlement type="sent"><!--Schreibort--></settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb966b">
@@ -43,12 +43,12 @@
 <birth when="1851"/>
 <death when="1904"/>
 <occupation>Buchhalter, Kaufmann</occupation>
-<residence>Kempten</residence>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: verheiratet</p>
 <p>Eltern: Huckler</p>
-<p>Anstalt: 1877-1904</p>
+<p>Anstalt: <date from="1877" to="1904">1877-1904</date></p>
 <p>Brieftypen: pp, po, ao</p>
 </state>
 <trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
@@ -85,17 +85,15 @@
 <dateline/>
 <salute/>
 </opener>
-<p> Die mit 13,000 Einwohner bemerkte <lb break="yes"/>Stadt "Kempten" mit einer <hi rendition="#i">Infernalie</hi>
-<lb break="yes"/>Planeten-Führung auf die "Schweiz" <lb break="yes"/>Republik! einer
-                Sonnenführung <lb break="yes"/>von Osten nach Westen, für 4. Jahres<lb break="no"/>zeiten am Tage, und einer Nacht<lb break="no"/>beleuchtung vom Monde, sowie <lb break="yes"/>Planeten; <hi rendition="#i">Fix-</hi> und Wandelster<lb break="no"/>nen, sämtliche als Ozeanische <lb break="yes"/><w>Sicherheits Punkte</w> für den
-                    <lb break="yes"/>Weltverkehr in alle Länder <lb break="yes"/>der Erde oder
-                Welttheile <lb break="yes"/>hat in Bezugnahme auf die <lb break="yes"/>der "Sonne"
-                zugezählte 2 ½ <lb break="yes"/>Milionen zählende "Stadt" <lb break="yes"/>Paris und "Lage" derselben <lb break="yes"/>von Osten nach Westen dem <lb break="yes"/>Meere zu und von Norden <lb break="yes"/>nach Süden, dem Aufgang
-                der <lb break="yes"/>Sonne zu, eine <seg ana="#pic">□ <hi rendition="#sup">++</hi></seg> Mittel<lb break="no"/>punkts-Lebens-und-Todes<lb break="no"/>Beweisführung auf die
+<p> Die mit 13,000 Einwohner bemerkte<lb break="yes"/>Stadt "Kempten" mit einer <hi rendition="#i">Infernalie</hi><lb break="yes"/>Planeten-Führung auf die "Schweiz"<lb break="yes"/>Republik! einer
+                Sonnenführung<lb break="yes"/>von Osten nach Westen, für 4. Jahres<lb break="no"/>zeiten am Tage, und einer Nacht<lb break="no"/>beleuchtung vom Monde, sowie<lb break="yes"/>Planeten; <hi rendition="#i">Fix-</hi> und Wandelster<lb break="no"/>nen, sämtliche als Ozeanische<lb break="yes"/><w>Sicherheits Punkte</w> für den<lb break="yes"/>Weltverkehr in alle Länder<lb break="yes"/>der Erde oder
+                Welttheile<lb break="yes"/>hat in Bezugnahme auf die<lb break="yes"/>der "Sonne"
+                zugezählte 2 ½<lb break="yes"/>Milionen zählende "Stadt"<lb break="yes"/>Paris und "Lage" derselben<lb break="yes"/>von Osten nach Westen dem<lb break="yes"/>Meere zu und von Norden<lb break="yes"/>nach Süden, dem Aufgang
+                der<lb break="yes"/>Sonne zu, eine <seg ana="#pic">□ <hi rendition="#sup">++</hi></seg> Mittel<lb break="no"/>punkts-Lebens-und-Todes<lb break="no"/>Beweisführung auf die
                     außer<lb break="no"/>halb beider begriffenen ein<lb break="no"/>zeln Personen 3.
                 nach Re<lb break="no"/>ligions Sonnenkriegsbeding<lb break="no"/>ungen und
-                    Götter-Glauben<lb break="no"/>bekenntnißen, festgestellt <lb break="yes"/>welche
-                aus, wie nachstehend <pb facs="#image_084"/>bemerkt, zu Unserer Rechfer<unclear reason="damage">ti</unclear><lb break="no"/>gung dienen; <lb break="yes"/><add hand="arzt"> 5 X 98</add></p>
+                    Götter-Glauben<lb break="no"/>bekenntnißen, festgestellt<lb break="yes"/>welche
+                aus, wie nachstehend <pb facs="#image_084"/>bemerkt, zu Unserer Rechfer<unclear reason="damage">ti</unclear><lb break="no"/>gung dienen;<lb break="yes"/><add hand="arzt"> 5 X 98</add></p>
 </body>
 </text>
 </TEI>

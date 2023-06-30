@@ -29,10 +29,10 @@
 <creation>
 <persName type="sender">Anna <surname>S.</surname></persName>
 <date type="sent">09.07.1913</date>
-<date type="received"/>
+<date type="received">n.a.</date>
 <persName type="addressee">Regierung von Schwaben u. Neuburg</persName>
 <settlement type="sent">Kaufbeuren</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2325s">
@@ -43,12 +43,12 @@
 <birth when="1866"/>
 <death when="1942"/>
 <occupation>Privatiere</occupation>
-<residence>Augsburg, Wohnort München</residence>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, Wohnort München</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
-<p>Eltern: </p>
-<p>Anstalt: 1910-42</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1910" to="1942">1910-42</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>manisch=depressives Irresein (18.04.1911)</p></trait>
@@ -81,15 +81,13 @@
 <pb facs="#image_049"/>
 <opener>
 <dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren</hi> 9.7.13.</hi></dateline>
-<salute>An die kgl. Regierung v. <hi rendition="#i">Schwaben u. Neuburg</hi>
-<lb break="yes"/>stelle ich hiemit folgendes <lb break="yes"/><hi rendition="#c"><hi rendition="#i">Entlassungsgesuch</hi>.</hi></salute>
+<salute>An die kgl. Regierung v. <hi rendition="#i">Schwaben u. Neuburg</hi><lb break="yes"/>stelle ich hiemit folgendes<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Entlassungsgesuch</hi>.</hi></salute>
 </opener>
-<p>Da ich mich weder für geisteskrank, noch für <lb break="yes"/>geistesgestört
+<p>Da ich mich weder für geisteskrank, noch für<lb break="yes"/>geistesgestört
                 halte; da ich weder an Wahn<lb break="no"/>vorstellungen, fixen Ideen, Gefühls-
-                Gehörs- <lb break="yes"/>Gesichts- Sinnestäuschungen, hysterischen oder <lb break="yes"/>epileptischen Anfällen leide, noch gelitten <lb break="yes"/>habe;
-                da ich weder pflege- noch hilfsbedürftig <lb break="yes"/>bin − auch eine
-                strafbare Handlung nicht <lb break="yes"/>begangen habe, verlange ich meine <lb break="yes"/>sofortige Entlassung. <lb break="yes"/><hi rendition="#r"><hi rendition="#i"><seg ana="#signed">Anna <surname>S.</surname>.</seg></hi>
-<lb break="yes"/>z. Zt. Irrenanstalt.</hi></p>
+                Gehörs-<lb break="yes"/>Gesichts- Sinnestäuschungen, hysterischen oder<lb break="yes"/>epileptischen Anfällen leide, noch gelitten<lb break="yes"/>habe;
+                da ich weder pflege- noch hilfsbedürftig<lb break="yes"/>bin − auch eine
+                strafbare Handlung nicht<lb break="yes"/>begangen habe, verlange ich meine<lb break="yes"/>sofortige Entlassung.<lb break="yes"/><hi rendition="#r"><hi rendition="#i"><seg ana="#signed">Anna <surname>S.</surname>.</seg></hi><lb break="yes"/>z. Zt. Irrenanstalt.</hi></p>
 </body>
 </text>
 </TEI>

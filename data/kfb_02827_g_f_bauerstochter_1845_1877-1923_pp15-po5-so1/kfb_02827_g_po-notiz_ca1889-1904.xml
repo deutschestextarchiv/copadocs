@@ -31,10 +31,10 @@
 <creation>
 <persName type="sender">Marie Cleofa <surname>G.</surname></persName>
 <date type="sent">1877-1923</date>
-<date type="received"/>
-<persName type="addressee">: Barbara und Franz Joseph <surname>G.</surname></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Barbara und Franz Joseph <surname>G.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb2827g">
@@ -45,12 +45,12 @@
 <birth when="1845"/>
 <death cert="unknown"/>
 <occupation>Bauerstochter</occupation>
-<residence>Engishausen, Illertissen</residence>
+<residence><geo decls="#WGS">48.1082257 10.2728225</geo>Engishausen, Illertissen</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bauer</p>
-<p>Anstalt: 1889-mind.1904</p>
+<p>Anstalt: <date from="1877" to="1923">1877-1923</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>Manie (1923)</p></trait>
@@ -83,12 +83,9 @@
 <text>
 <body>
 <pb facs="#image_001"/>
-<p> Jesus <lb break="yes"/> Jesus dir leb<lb break="yes"/> Jesus dir serb<lb break="yes"/> Jesus
-                dein bin<lb break="yes"/> Jm Leben u<lb break="yes"/>
-<unclear reason="damage">[ABGERISSEN</unclear></p>
-<pb facs="#image_002"/><p><handShift medium="ink" scribe="patient"/>An Frau Barbara <surname>G.</surname><lb break="yes"/> Hofbeurin̄ in Engishausen Post<lb break="yes"/>
-                Babenhausen. An Franz Joseph<lb break="yes"/>
-<surname>G.</surname> Okonom Hofbauer<lb break="yes"/> in Engishausen Post
+<p> Jesus<lb break="yes"/>Jesus dir leb<lb break="yes"/>Jesus dir serb<lb break="yes"/>Jesus
+                dein bin<lb break="yes"/>Jm Leben u<lb break="yes"/><unclear reason="damage">[ABGERISSEN</unclear></p>
+<pb facs="#image_002"/><p><handShift medium="ink" scribe="patient"/>An Frau Barbara <surname>G.</surname><lb break="yes"/>Hofbeurin̄ in Engishausen Post<lb break="yes"/>Babenhausen. An Franz Joseph<lb break="yes"/><surname>G.</surname> Okonom Hofbauer<lb break="yes"/>in Engishausen Post
                 Babenhausen.</p>
 </body>
 </text>

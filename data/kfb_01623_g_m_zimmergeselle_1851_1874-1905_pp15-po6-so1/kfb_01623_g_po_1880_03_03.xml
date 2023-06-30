@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Johannes <surname>G.</surname></persName>
 <date type="sent">03.03.1880</date>
-<date type="received"/>
-<persName type="addressee">Arzt:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb1623g">
@@ -44,12 +44,12 @@
 <birth when="1851"/>
 <death when="1905"/>
 <occupation>Zimmergeselle</occupation>
-<residence>Riedheim, Günzburg</residence>
+<residence><geo decls="#WGS">48.4613104 10.1908503</geo>Riedheim, Günzburg</residence>
 <faith>protestantisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Söldner</p>
-<p>Anstalt: 1874-1905</p>
+<p>Anstalt: <date from="1874" to="1905">1874-1905</date></p>
 <p>Brieftypen: pp, po, Lebenslauf, Liedertafel</p>
 </state>
 <trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
@@ -89,36 +89,27 @@
 <dateline><hi rendition="#i">Nro: I Kaufbeuern</hi> den 3<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> <hi rendition="#i">März</hi> 1880</dateline>
 <salute><hi rendition="#c">Geehrtester Herr Docktor!</hi></salute>
 </opener>
-<p> Sie würden weinen, wenn sie denn Kampf<lb break="yes"/> eines <seg ana="#med"><w>geistes
-                        Kranken</w></seg>: Menschen, begreifen<lb break="yes"/> im Standte währen;
-                Liebligster Freud!<lb break="yes"/> sie allein, sind der Erforscher an mir:?<lb break="yes"/> Sie allein haben <seg ana="#med">heibende metizinirte<lb break="yes"/> Kuren</seg> an mir gemacht, wo ich darum<lb break="yes"/> zur
-                Prüfung des Herrn Hofrats mich<lb break="yes"/> auffordern lasse, aber
-                    lieb<del>e</del>lichter Herr!<lb break="yes"/> Da gehört, auch noch zu mir und
-                    dem<lb break="yes"/> Weltlichen Arzt, der Patient wo nach<lb break="yes"/> Geld
-                und Gut draußen wenn er noch<lb break="yes"/>
-<hi rendition="#r">nicht gestorben ist.</hi><pb facs="#image_022"/><hi rendition="#i">Nro: II</hi> Warum?/////////<lb break="yes"/>
-</p>
-<p><hi rendition="#c">Gemeide Riedheim und<lb break="yes"/> Marktfleck Leipheim
-                    antwortet.....</hi><lb break="yes"/> Herr Pfarrer <surname>M.</surname>,
-                und mein<lb break="yes"/> Schullehrer Friedrich <surname>M.</surname>, wo mich<lb break="yes"/> gelernt hat ist meiner Schulzeit bis<lb break="yes"/> auf die Zeit
-                zu erfragen, so lange<lb break="yes"/> er in Riedheim zugebracht hat<lb break="yes"/> Den allein nehme ich zur Wehr<lb break="yes"/> meiner Riedheimer Verwaltung?<lb break="yes"/> ausgeschlossen, die jenigen die wegen<lb break="yes"/> albern sein
-                mich unterdrücken wollen<lb break="yes"/> der Müller heißt Georg
-                    <surname>D.</surname> welcher<lb break="yes"/>
-<add>reichbegabt ist<lb break="yes"/> an Geld....?s.</add><pb facs="#image_023"/>Also: Georg <surname>D.</surname> Müller....<lb break="yes"/>
-<hi rendition="#c">Ich danke Gott! und ehre die<lb break="yes"/> Ärzte meiner
-                    Heil&amp; Pfleganstalt<lb break="yes"/>
-<hi rendition="#i">Kaufbeuern</hi> nebst der<lb break="yes"/> Anstalt <hi rendition="#i">Irsee</hi> beten konnte ich auswendig<lb break="yes"/>
-<add>ohne Pfarrer <surname>Z.</surname>.</add><lb break="yes"/> Wenn Gott es
-                    haben will steht in<lb break="yes"/> Riedheim d Mühle still man̄ ket<lb break="yes"/> ohnaweag der Riedamar Müller<lb break="yes"/> sam̄t
-                    Frauholmidoch! lachen mit<lb break="yes"/> Deiner Erligkeit zahla duas i gern<lb break="yes"/> Dir?.....</hi><lb break="yes"/>
-<hi rendition="#r">derf mei Tochter heirathen</hi><lb break="yes"/>
-<seg ana="#pic">[Rad mit 8 Speichen]</seg><pb facs="#image_024"/> III <hi rendition="#i">Mühl</hi> Arzt denk wass<unclear>erreich</unclear><lb break="yes"/> aber: Nicht im Gehirn wie die<lb break="yes"/> Bauern, sondern wer ein Kind<lb break="yes"/> und einen Docktor beleidigt ist<lb break="yes"/> sein eigener
-                Feind, warum: brauch<lb break="yes"/> ich Niedmand erklären, denn es wird<lb break="yes"/> schon jeder, wie es heißt begreifen<lb break="yes"/> Wenn
-                    <add>(A)</add> Baur <surname>H.</surname> verkauft.<lb break="yes"/> Und ein Esel frist, das
-                Geld? und....?<lb break="yes"/> und schreit I-A wen er auf<lb break="yes"/> gezehrt
-                ist. <seg ana="#pic">[Blatt]</seg><lb break="yes"/>
-<seg ana="#salute"><hi rendition="#r">gegrüßt sind Alle dies nicht<lb break="yes"/> begreifen, wenn man
-                        <seg ana="#signed"><hi rendition="#i">Johannes</hi></seg><lb break="yes"/> nicht bissig
+<p> Sie würden weinen, wenn sie denn Kampf<lb break="yes"/>eines <seg ana="#med"><w>geistes
+                        Kranken</w></seg>: Menschen, begreifen<lb break="yes"/>im Standte währen;
+                Liebligster Freud!<lb break="yes"/>sie allein, sind der Erforscher an mir:?<lb break="yes"/>Sie allein haben <seg ana="#med">heibende metizinirte<lb break="yes"/>Kuren</seg> an mir gemacht, wo ich darum<lb break="yes"/>zur
+                Prüfung des Herrn Hofrats mich<lb break="yes"/>auffordern lasse, aber
+                    lieb<del>e</del>lichter Herr!<lb break="yes"/>Da gehört, auch noch zu mir und
+                    dem<lb break="yes"/>Weltlichen Arzt, der Patient wo nach<lb break="yes"/>Geld
+                und Gut draußen wenn er noch<lb break="yes"/><hi rendition="#r">nicht gestorben ist.</hi><pb facs="#image_022"/><hi rendition="#i">Nro: II</hi> Warum?/////////<lb break="yes"/></p>
+<p><hi rendition="#c">Gemeide Riedheim und<lb break="yes"/>Marktfleck Leipheim
+                    antwortet.....</hi><lb break="yes"/>Herr Pfarrer <surname>M.</surname>,
+                und mein<lb break="yes"/>Schullehrer Friedrich <surname>M.</surname>, wo mich<lb break="yes"/>gelernt hat ist meiner Schulzeit bis<lb break="yes"/>auf die Zeit
+                zu erfragen, so lange<lb break="yes"/>er in Riedheim zugebracht hat<lb break="yes"/>Den allein nehme ich zur Wehr<lb break="yes"/>meiner Riedheimer Verwaltung?<lb break="yes"/>ausgeschlossen, die jenigen die wegen<lb break="yes"/>albern sein
+                mich unterdrücken wollen<lb break="yes"/>der Müller heißt Georg
+                    <surname>D.</surname> welcher<lb break="yes"/><add>reichbegabt ist<lb break="yes"/>an Geld....?s.</add><pb facs="#image_023"/>Also: Georg <surname>D.</surname> Müller....<lb break="yes"/><hi rendition="#c">Ich danke Gott! und ehre die<lb break="yes"/>Ärzte meiner
+                    Heil&amp; Pfleganstalt<lb break="yes"/><hi rendition="#i">Kaufbeuern</hi> nebst der<lb break="yes"/>Anstalt <hi rendition="#i">Irsee</hi> beten konnte ich auswendig<lb break="yes"/><add>ohne Pfarrer <surname>Z.</surname>.</add><lb break="yes"/>Wenn Gott es
+                    haben will steht in<lb break="yes"/>Riedheim d Mühle still man̄ ket<lb break="yes"/>ohnaweag der Riedamar Müller<lb break="yes"/>sam̄t
+                    Frauholmidoch! lachen mit<lb break="yes"/>Deiner Erligkeit zahla duas i gern<lb break="yes"/>Dir?.....</hi><lb break="yes"/><hi rendition="#r">derf mei Tochter heirathen</hi><lb break="yes"/><seg ana="#pic">[Rad mit 8 Speichen]</seg><pb facs="#image_024"/> III <hi rendition="#i">Mühl</hi> Arzt denk wass<unclear>erreich</unclear><lb break="yes"/>aber: Nicht im Gehirn wie die<lb break="yes"/>Bauern, sondern wer ein Kind<lb break="yes"/>und einen Docktor beleidigt ist<lb break="yes"/>sein eigener
+                Feind, warum: brauch<lb break="yes"/>ich Niedmand erklären, denn es wird<lb break="yes"/>schon jeder, wie es heißt begreifen<lb break="yes"/>Wenn
+                    <add>(A)</add> Baur <surname>H.</surname> verkauft.<lb break="yes"/>Und ein Esel frist, das
+                Geld? und....?<lb break="yes"/>und schreit I-A wen er auf<lb break="yes"/>gezehrt
+                ist. <seg ana="#pic">[Blatt]</seg><lb break="yes"/><seg ana="#salute"><hi rendition="#r">gegrüßt sind Alle dies nicht<lb break="yes"/>begreifen, wenn man
+                        <seg ana="#signed"><hi rendition="#i">Johannes</hi></seg><lb break="yes"/>nicht bissig
                     nennt</hi></seg></p>
 </body>
 </text>

@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Charitas <surname>S.</surname></persName>
 <date type="sent">25.07.1889</date>
-<date type="received"/>
-<persName type="addressee">"Alle Alle":  <surname/></persName>
-<settlement type="sent"/>
-<settlement type="received"/>
+<date type="received">n.a.</date>
+<persName type="addressee">"Alle Alle": n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb1276s">
@@ -44,12 +44,12 @@
 <birth when="1830"/>
 <death cert="unknown"/>
 <occupation>Zugeherin in München</occupation>
-<residence>Hiltenfingen, Augsburg</residence>
+<residence><geo decls="#WGS">48.1620724 10.7194164</geo>Hiltenfingen, Augsburg</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Södner; Vermögen früher: "Sie sei vermögend gewesen"</p>
-<p>Anstalt: 1888-91</p>
+<p>Anstalt: <date from="1888" to="1891">1888-91</date></p>
 <p>Brieftypen: pp, po</p>
 </state>
 <trait><p>halluzinatorische Verwirrtheit (1890)</p></trait>
@@ -86,39 +86,26 @@
 <dateline/>
 <salute><hi rendition="#c">Meine Lieben Alle Alle!</hi></salute>
 </opener>
-<p> Liebe Schwester Katharina. Gestern<lb break="yes"/> richtete mir Frl <w>Ober Pflegerin</w>,<lb break="yes"/> einen schönen Gruß,
-                von dir an mich <add>aus</add>.<lb break="yes"/> ich war ganz, erstaunt, u.
-                    <unclear>beeitz</unclear> er<lb break="no"/> schrocken, daß du l. Schwester, in
-                    <lb break="yes"/> Kaufbeuren sein solltest, und<lb break="yes"/> dich nicht
-                selbst, überzeugen,<lb break="yes"/> in die Anstald, zu gehen um<lb break="yes"/>
-                mündliche Rücksprache, zu nähmen.<lb break="yes"/> Liebe Kath. Du weist und hast
-                    mich<lb break="yes"/> gesehen daß, ich körper- so auch<lb break="yes"/> geistig,
-				    lange ja sehr lange, Gesund<lb break="yes"/> und munter bin; meine einzige freide<lb break="yes"/> die sehnsucht ist, zu dir u zu Euch<lb break="yes"/> Alle sehen
-                und mich dan̄ eine zeit.<lb break="yes"/> auf zu halten. <pb facs="#image_010"/> Ihr Lieben, jung u. Alt die Ihr<lb break="yes"/> mich hier
-                besuchehten, auser <unclear>Frenz<lb break="no"/> sech</unclear> werdet. besonders
-                    letzteren<lb break="yes"/> könnet mich daß, ich im̄er daß richtige<lb break="yes"/> gewollt, um den Frieden gewiß nicht<lb break="yes"/> zu stören,
-                auch mehr die Ruhe genieße<lb break="yes"/> die <add>ich</add> hier nicht habe.<lb break="yes"/> Der Friede ist ja Reich wo Gottes<lb break="yes"/> Segen haust,
-                ist Einnigkeit, von<lb break="yes"/> allem, an seine Arbeit, u. da gibt<lb break="yes"/> es, keine Zeit, da ich ganze kurze<lb break="yes"/> Zeit, bei Euch
-                war um euer Glück,<lb break="yes"/> und Wohlstand, im Winter, alles<lb break="yes"/>
-                sah, so doch auch jetzt Euhre Grund<lb break="no"/> stüke sehen möchte, und auch die
-                    Gegend<lb break="yes"/> wo ich früher, nie sah. Im vorbeifahren<lb break="yes"/>
-                nur flüchtig, wo es nur wenig zu sehen<lb break="yes"/> gibt.<lb break="yes"/> Nun
-                habe ich Euch geschrieben daß<lb break="yes"/> Ihr mich jeden Tag hohlen dürfed<lb break="yes"/> nur in der früh Stunde die Me<del>d</del>ldung<lb break="yes"/>
-                machen, <seg ana="#cens">wen es Euch den Herr hof<lb break="no"/>Rath <pb facs="#image_011"/> erlauben wird da alles durch seine<lb break="yes"/> Hand
-                    geht u daß ich die Warheit<lb break="yes"/> schreibe, daß dürfet, Ihr mir
-                    glaugben,<lb break="yes"/></seg> mit großer sehnsucht er wartet jede<lb break="yes"/> Stunde.<lb break="yes"/>
-<seg ana="#signed"><hi rendition="#c">Euere</hi><lb break="yes"/>
-<hi rendition="#r">Euch liebende Karitas</hi></seg></p>
-<p>Heil u. Pfleg Anstald Kaufbeuren<lb break="yes"/>
-am 25 Julie 1889. welches dan<lb break="yes"/>
-komt ich habe lange schon die Erlaub<lb break="yes"/>
-niß die Freiheit wer Angehöriche hat<lb break="yes"/>
-mit zu gehen, allso nicht zögern daß<lb break="yes"/>
-weitere dan mündlich. Obige.</p>
-<p>bitte Herrn Hof. Rath mir meine<lb break="yes"/>
-bitte zu gewehren oder dessen Stellvertter.</p>
+<p> Liebe Schwester Katharina. Gestern<lb break="yes"/>richtete mir Frl <w>Ober Pflegerin</w>,<lb break="yes"/>einen schönen Gruß,
+                von dir an mich <add>aus</add>.<lb break="yes"/>ich war ganz, erstaunt, u.
+                    <unclear>beeitz</unclear> er<lb break="no"/>schrocken, daß du l. Schwester, in<lb break="yes"/>Kaufbeuren sein solltest, und<lb break="yes"/>dich nicht
+                selbst, überzeugen,<lb break="yes"/>in die Anstald, zu gehen um<lb break="yes"/>mündliche Rücksprache, zu nähmen.<lb break="yes"/>Liebe Kath. Du weist und hast
+                    mich<lb break="yes"/>gesehen daß, ich körper- so auch<lb break="yes"/>geistig,
+				    lange ja sehr lange, Gesund<lb break="yes"/>und munter bin; meine einzige freide<lb break="yes"/>die sehnsucht ist, zu dir u zu Euch<lb break="yes"/>Alle sehen
+                und mich dan̄ eine zeit.<lb break="yes"/>auf zu halten. <pb facs="#image_010"/> Ihr Lieben, jung u. Alt die Ihr<lb break="yes"/>mich hier
+                besuchehten, auser <unclear>Frenz<lb break="no"/>sech</unclear> werdet. besonders
+                    letzteren<lb break="yes"/>könnet mich daß, ich im̄er daß richtige<lb break="yes"/>gewollt, um den Frieden gewiß nicht<lb break="yes"/>zu stören,
+                auch mehr die Ruhe genieße<lb break="yes"/>die <add>ich</add> hier nicht habe.<lb break="yes"/>Der Friede ist ja Reich wo Gottes<lb break="yes"/>Segen haust,
+                ist Einnigkeit, von<lb break="yes"/>allem, an seine Arbeit, u. da gibt<lb break="yes"/>es, keine Zeit, da ich ganze kurze<lb break="yes"/>Zeit, bei Euch
+                war um euer Glück,<lb break="yes"/>und Wohlstand, im Winter, alles<lb break="yes"/>sah, so doch auch jetzt Euhre Grund<lb break="no"/>stüke sehen möchte, und auch die
+                    Gegend<lb break="yes"/>wo ich früher, nie sah. Im vorbeifahren<lb break="yes"/>nur flüchtig, wo es nur wenig zu sehen<lb break="yes"/>gibt.<lb break="yes"/>Nun
+                habe ich Euch geschrieben daß<lb break="yes"/>Ihr mich jeden Tag hohlen dürfed<lb break="yes"/>nur in der früh Stunde die Me<del>d</del>ldung<lb break="yes"/>machen, <seg ana="#cens">wen es Euch den Herr hof<lb break="no"/>Rath <pb facs="#image_011"/> erlauben wird da alles durch seine<lb break="yes"/>Hand
+                    geht u daß ich die Warheit<lb break="yes"/>schreibe, daß dürfet, Ihr mir
+                    glaugben,<lb break="yes"/></seg> mit großer sehnsucht er wartet jede<lb break="yes"/>Stunde.<lb break="yes"/><seg ana="#signed"><hi rendition="#c">Euere</hi><lb break="yes"/><hi rendition="#r">Euch liebende Karitas</hi></seg></p>
+<p>Heil u. Pfleg Anstald Kaufbeuren<lb break="yes"/>am 25 Julie 1889. welches dan<lb break="yes"/>komt ich habe lange schon die Erlaub<lb break="yes"/>niß die Freiheit wer Angehöriche hat<lb break="yes"/>mit zu gehen, allso nicht zögern daß<lb break="yes"/>weitere dan mündlich. Obige.</p>
+<p>bitte Herrn Hof. Rath mir meine<lb break="yes"/>bitte zu gewehren oder dessen Stellvertter.</p>
 <p><seg ana="#signed"><hi rendition="#c"><w>Achtung volst</w> Ihre
-                            Patzentin<lb break="yes"/> Charitas
+                            Patzentin<lb break="yes"/>Charitas
                     <surname>S.</surname>.</hi></seg></p>
 </body>
 </text>

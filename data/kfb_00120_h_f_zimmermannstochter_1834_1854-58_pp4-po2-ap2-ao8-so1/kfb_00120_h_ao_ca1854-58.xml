@@ -31,10 +31,10 @@
 <creation>
 <persName type="sender">Johann <surname>S.</surname></persName>
 <date type="sent">ca1854-58</date>
-<date type="received"/>
-<persName type="addressee">Direktor:  <surname/></persName>
-<settlement type="sent"/>
-<settlement type="received"/>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="f" xml:id="kfb120h">
@@ -45,12 +45,12 @@
 <birth when="1834"/>
 <death cert="unknown"/>
 <occupation>Zimmermannstochter</occupation>
-<residence>München</residence>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
 <faith>katholisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Zimmermann, "ohne Vermögen"</p>
-<p>Anstalt: 1854-58</p>
+<p>Anstalt: <date from="1854" to="1858">1854-58</date></p>
 <p>Brieftypen: pp, po, ap, ao</p>
 </state>
 <trait><p>Melancholie, Geistesstörung (1854)</p></trait>
@@ -87,16 +87,14 @@
 <pb facs="#image_008"/>
 <opener>
 <dateline> </dateline>
-<salute><hi rendition="#r">Euer Geerder Herr<lb break="yes"/>
-				        Docktor</hi></salute>
+<salute><hi rendition="#r">Euer Geerder Herr<lb break="yes"/>Docktor</hi></salute>
 </opener>
-<p>ich habe meinem beküm̄erten Herzen Luft <lb break="yes"/>Gemacht, ich bitte
-                wen̄ es die Tochter so wie <lb break="yes"/>ich es geschrieben habe, nicht
-                sollte ertragen <lb break="yes"/>kön̄en nach gnädigstem Ermessen beizubringen
-                    <lb break="yes"/>Ich möchte mit Eier Gnaden gerne mündlich<lb break="yes"/>reden
+<p>ich habe meinem beküm̄erten Herzen Luft<lb break="yes"/>Gemacht, ich bitte
+                wen̄ es die Tochter so wie<lb break="yes"/>ich es geschrieben habe, nicht
+                sollte ertragen<lb break="yes"/>kön̄en nach gnädigstem Ermessen beizubringen<lb break="yes"/>Ich möchte mit Eier Gnaden gerne mündlich<lb break="yes"/>reden
                 aber meine Mittel erlauben mir<lb break="yes"/>die Reise nicht<lb break="yes"/><hi rendition="#c"><seg ana="#signed">gehorsamst Johan̄<lb break="yes"/>unterthänigst <surname>S.</surname></seg></hi></p>
 <pb facs="#image_009"/>
-<p><hi rendition="#r">Gnaden Herrn <lb break="yes"/>Tocktor.</hi></p>
+<p><hi rendition="#r">Gnaden Herrn<lb break="yes"/>Tocktor.</hi></p>
 </body>
 </text>
 </TEI>

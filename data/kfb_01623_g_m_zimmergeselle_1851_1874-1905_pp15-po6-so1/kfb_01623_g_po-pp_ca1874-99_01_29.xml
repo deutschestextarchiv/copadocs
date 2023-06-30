@@ -30,10 +30,10 @@
 <creation>
 <persName type="sender">Johannes <surname>G.</surname></persName>
 <date type="sent">29.01. ca.1874-1899</date>
-<date type="received"/>
-<persName type="addressee">Pfarrer, Vetter, Bürgermeister, Vater, Geschwister:  <surname/></persName>
+<date type="received">n.a.</date>
+<persName type="addressee">Pfarrer, Vetter, Bürgermeister, Vater, Geschwister: n.a. <surname>n.</surname></persName>
 <settlement type="sent">Irsee</settlement>
-<settlement type="received"/>
+<settlement type="received">n.a.</settlement>
 </creation>
 <particDesc>
 <person sex="m" xml:id="kfb1623g">
@@ -44,12 +44,12 @@
 <birth when="1851"/>
 <death when="1905"/>
 <occupation>Zimmergeselle</occupation>
-<residence>Riedheim, Günzburg</residence>
+<residence><geo decls="#WGS">48.4613104 10.1908503</geo>Riedheim, Günzburg</residence>
 <faith>protestantisch</faith>
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Söldner</p>
-<p>Anstalt: 1874-1905</p>
+<p>Anstalt: <date from="1874" to="1905">1874-1905</date></p>
 <p>Brieftypen: pp, po, Lebenslauf, Liedertafel</p>
 </state>
 <trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
@@ -89,37 +89,26 @@
 <dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren</hi> den 29<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>I 18:</hi></dateline>
 <salute><hi rendition="#c">Euer Hochwürden Herr Pfarrer!</hi></salute>
 </opener>
-<p> Ich ergreife die Feder einige Zeilen<lb break="yes"/> an sie zu senden, und
-                    <add>möchte</add> Ihnen<lb break="yes"/> meine Genesung mittheilen<lb break="yes"/> wie die gesunde Menschenvernunft<lb break="yes"/> auch zur
-                Dankbarkeit antreibet:<lb break="yes"/> Hochwürdiger Herr Pfarren!<lb break="yes"/>
-                Sie werden erfahren haben,daß<lb break="yes"/> Ich den Sommer und auch diesen<lb break="yes"/> Winter zu Hause in meinen<lb break="yes"/> Väterlichen Hause
-                im̄erhin fleißig<lb break="yes"/> und stillschweigend . gearbeitet<lb break="yes"/> habe, und wo man mich zu Hause<lb break="yes"/> entbehren konnte
-                auch bei andern<lb break="yes"/>
-<add place="margin">Sind ohne <lb break="yes"/> falsch<lb break="yes"/> wie<lb break="yes"/> die Dauben <seg ana="#pic">[Vogel]</seg></add><lb break="yes"/>
-<add place="margin">gestern hatte ich nach Ulm geschrieben.</add><pb facs="#image_018"/> Leuten ausgeholfen hatte.<lb break="yes"/> Welches auch mein
-                    Blutsverwander<lb break="yes"/> bezeugen kann, nemlich Gottfried<lb break="yes"/>
-<surname>N.</surname> Schreinermeister in<lb break="yes"/>
-<hi rendition="#i">Riedheim</hi>; Lieber Vetter du<lb break="yes"/> kannst dir
-                vielleicht nur sehr<lb break="yes"/> schwachen Begriff eines <seg ana="#med">geistes<lb break="no"/>
-                    Kranken</seg> machen, aber ich wollte<lb break="yes"/> dir es erzählen, danket mit<lb break="yes"/> aufgehobenen Händen meine<lb break="yes"/> lieben Mitbrüder und
-                    Mitschwestern<lb break="yes"/> wie viel und großes der gnädige<lb break="yes"/>
-                und allein weise allmächtige<lb break="yes"/> Gott <add>(gethan hat)</add>, zur Ehre
-                Gottes des Vaters!<lb break="yes"/> des Sohnes! u des heiligen Geistes!<pb facs="#image_019"/>
-<hi rendition="#c">Geehrtester Herr Bürgermeister!</hi><lb break="yes"/> Ich kann
-                mich Gott sey Dank<lb break="yes"/> gut erinnern, daß ich am<lb break="yes"/>
-                Heiligen Weihnachts-Tag noch<lb break="yes"/> zum Abendmahl gegangen<lb break="yes"/> und nach der Kirche, dann<lb break="yes"/> sie in ihrem Schloß besuchte, wo<lb break="yes"/> ich <w>zufälliger Weise</w>, Euch beim<lb break="yes"/> Mitagessen
-                antraf, bei geschnittenen<lb break="yes"/> Nudeln Rindfleisch u Schweine<lb break="no"/> Fleisch, und wo mich die Bas<lb break="yes"/> zu essen eingeladen
-                    hatte.<lb break="yes"/> Die Hochzeit eurer Tochter<lb break="yes"/> Katharina
-                wird vorüber sein:<lb break="yes"/> <seg ana="#salute">seid gegrüßt alle menschliche<lb break="yes"/>
-<hi rendition="#r">Herzen u Gemüther!</hi></seg><pb facs="#image_020"/>
-<hi rendition="#c">Lieber Vater u Geschwister!</hi><lb break="yes"/> Wir wollen
-                alles dem lieben<lb break="yes"/> Gott überlassen, der gesagt hat<lb break="yes"/>
-                wer nicht sein Kreutz trägt<lb break="yes"/> und mir nachfolget der kann<lb break="yes"/> nicht mein Jünger sein.<lb break="yes"/> Dieses Kreutz lieber
-                    Vater!<lb break="yes"/> hast du schon oft empfunden<lb break="yes"/> und ich
-                    des<del>t</del>gleichen, und in<lb break="yes"/> einem Augenblick, kann er<lb break="yes"/> Dir auch wieder dein schweres<lb break="yes"/> Gemüth in Freüde
-                    verwandeln<lb break="yes"/> wie er es an Dir schon eimal<lb break="yes"/> in
-				    einer <w>Weihnachts Nacht</w> gethan<lb break="yes"/> und es dir wie abgeblasen war<lb break="yes"/>
-<seg ana="#pic">[Blumen]</seg>
+<p> Ich ergreife die Feder einige Zeilen<lb break="yes"/>an sie zu senden, und
+                    <add>möchte</add> Ihnen<lb break="yes"/>meine Genesung mittheilen<lb break="yes"/>wie die gesunde Menschenvernunft<lb break="yes"/>auch zur
+                Dankbarkeit antreibet:<lb break="yes"/>Hochwürdiger Herr Pfarren!<lb break="yes"/>Sie werden erfahren haben,daß<lb break="yes"/>Ich den Sommer und auch diesen<lb break="yes"/>Winter zu Hause in meinen<lb break="yes"/>Väterlichen Hause
+                im̄erhin fleißig<lb break="yes"/>und stillschweigend . gearbeitet<lb break="yes"/>habe, und wo man mich zu Hause<lb break="yes"/>entbehren konnte
+                auch bei andern<lb break="yes"/><add place="margin">Sind ohne<lb break="yes"/>falsch<lb break="yes"/>wie<lb break="yes"/>die Dauben <seg ana="#pic">[Vogel]</seg></add><lb break="yes"/><add place="margin">gestern hatte ich nach Ulm geschrieben.</add><pb facs="#image_018"/> Leuten ausgeholfen hatte.<lb break="yes"/>Welches auch mein
+                    Blutsverwander<lb break="yes"/>bezeugen kann, nemlich Gottfried<lb break="yes"/><surname>N.</surname> Schreinermeister in<lb break="yes"/><hi rendition="#i">Riedheim</hi>; Lieber Vetter du<lb break="yes"/>kannst dir
+                vielleicht nur sehr<lb break="yes"/>schwachen Begriff eines <seg ana="#med">geistes<lb break="no"/>Kranken</seg> machen, aber ich wollte<lb break="yes"/>dir es erzählen, danket mit<lb break="yes"/>aufgehobenen Händen meine<lb break="yes"/>lieben Mitbrüder und
+                    Mitschwestern<lb break="yes"/>wie viel und großes der gnädige<lb break="yes"/>und allein weise allmächtige<lb break="yes"/>Gott <add>(gethan hat)</add>, zur Ehre
+                Gottes des Vaters!<lb break="yes"/>des Sohnes! u des heiligen Geistes!<pb facs="#image_019"/>
+<hi rendition="#c">Geehrtester Herr Bürgermeister!</hi><lb break="yes"/>Ich kann
+                mich Gott sey Dank<lb break="yes"/>gut erinnern, daß ich am<lb break="yes"/>Heiligen Weihnachts-Tag noch<lb break="yes"/>zum Abendmahl gegangen<lb break="yes"/>und nach der Kirche, dann<lb break="yes"/>sie in ihrem Schloß besuchte, wo<lb break="yes"/>ich <w>zufälliger Weise</w>, Euch beim<lb break="yes"/>Mitagessen
+                antraf, bei geschnittenen<lb break="yes"/>Nudeln Rindfleisch u Schweine<lb break="no"/>Fleisch, und wo mich die Bas<lb break="yes"/>zu essen eingeladen
+                    hatte.<lb break="yes"/>Die Hochzeit eurer Tochter<lb break="yes"/>Katharina
+                wird vorüber sein:<lb break="yes"/><seg ana="#salute">seid gegrüßt alle menschliche<lb break="yes"/><hi rendition="#r">Herzen u Gemüther!</hi></seg><pb facs="#image_020"/>
+<hi rendition="#c">Lieber Vater u Geschwister!</hi><lb break="yes"/>Wir wollen
+                alles dem lieben<lb break="yes"/>Gott überlassen, der gesagt hat<lb break="yes"/>wer nicht sein Kreutz trägt<lb break="yes"/>und mir nachfolget der kann<lb break="yes"/>nicht mein Jünger sein.<lb break="yes"/>Dieses Kreutz lieber
+                    Vater!<lb break="yes"/>hast du schon oft empfunden<lb break="yes"/>und ich
+                    des<del>t</del>gleichen, und in<lb break="yes"/>einem Augenblick, kann er<lb break="yes"/>Dir auch wieder dein schweres<lb break="yes"/>Gemüth in Freüde
+                    verwandeln<lb break="yes"/>wie er es an Dir schon eimal<lb break="yes"/>in
+				    einer <w>Weihnachts Nacht</w> gethan<lb break="yes"/>und es dir wie abgeblasen war<lb break="yes"/><seg ana="#pic">[Blumen]</seg>
 <hi rendition="#r">Gelobt sey <hi rendition="#i">Jesus</hi> Christus!</hi></p>
 <p><add place="margin">Diesen Brief<del>e</del> Erhalte u bewahre Gott!</add>
 </p>
