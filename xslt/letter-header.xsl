@@ -105,7 +105,16 @@
 
   <xsl:template match="t:profileDesc/t:particDesc">
     <div>
-      <h3>Informationen zum Patienten</h3>
+      <h3>
+        <xsl:choose>
+          <xsl:when test="t:person/@sex='f'">
+            Informationen zur Patientin
+          </xsl:when>
+          <xsl:otherwise>
+            Informationen zum Patienten
+          </xsl:otherwise>
+        </xsl:choose>
+      </h3>
       <div class="ms-3">
         <!-- TODO: more than 1 person? -->
         <xsl:for-each select="t:person">
