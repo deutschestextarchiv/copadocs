@@ -32,44 +32,11 @@
     <xsl:text>&#x9;</xsl:text>
 
     <!-- entry date -->
-    <!--<xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:state/t:p[starts-with(., 'Anstalt: ')]/date/@from)"/>
-    <xsl:text>&#x9;</xsl:text>-->
-
-    <xsl:variable name="entry-date">
-      <xsl:call-template name="reformat-date">
-        <xsl:with-param name="date">
-          <xsl:value-of select="normalize-space(
-                                  substring-before(
-                                    substring-after(
-                                      /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:state/t:p[starts-with(., 'Anstalt: ')],
-                                      'Anstalt: '
-                                    ),
-                                    '-'
-                                  )
-                                )"/>
-        </xsl:with-param>
-      </xsl:call-template>
-    </xsl:variable>
-    <xsl:value-of select="$entry-date"/>
+    <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:state/t:p[starts-with(., 'Anstalt: ')]/t:date/@from)"/>
     <xsl:text>&#x9;</xsl:text>
 
     <!-- leave date -->
-    <!--<xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:state/t:p[starts-with(., 'Anstalt: ')]/date/@to)"/>
-    <xsl:text>&#x9;</xsl:text>-->
-    <xsl:call-template name="reformat-date">
-      <xsl:with-param name="date">
-        <xsl:value-of select="normalize-space(
-                                substring-after(
-                                  substring-after(
-                                    /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:state/t:p[starts-with(., 'Anstalt: ')],
-                                    'Anstalt: '
-                                  ),
-                                  '-'
-                                )
-                              )"/>
-      </xsl:with-param>
-      <xsl:with-param name="start" select="$entry-date"/>
-    </xsl:call-template>
+    <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:state/t:p[starts-with(., 'Anstalt: ')]/t:date/@to)"/>
     <xsl:text>&#x9;</xsl:text>
 
     <!-- death date -->
