@@ -84,7 +84,7 @@
                   <xsl:with-param name="value" select="'nav-link'"/>
                   <xsl:with-param name="link" select="'list.html'"/>
                 </xsl:call-template>
-                Übersicht Briefe
+                Gesamtkorpus
               </a>
             </li>
             <li class="nav-item dropdown">
