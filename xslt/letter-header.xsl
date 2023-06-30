@@ -267,4 +267,8 @@
   <xsl:template match="t:surname[string-length(.)=0]">
     [Nachname]
   </xsl:template>
+
+  <xsl:template match="t:residence">
+    <xsl:value-of select="text()"/>
+  </xsl:template>
 </xsl:stylesheet>

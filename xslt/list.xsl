@@ -88,7 +88,7 @@
     <xsl:text>&#x9;</xsl:text>
 
     <!-- residence -->
-    <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:residence)"/>
+    <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:residence/text())"/>
     <xsl:text>&#x9;</xsl:text>
 
     <!-- family status -->
