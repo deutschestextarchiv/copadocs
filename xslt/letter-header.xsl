@@ -29,6 +29,7 @@
           <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:editor"/>
           <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:publicationStmt/t:availability/t:licence"/>
           <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:msDesc/t:msIdentifier"/>
+          <xsl:apply-templates select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:msDesc/t:physDesc"/>
           <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:handNotes"/>
         </div>
 
@@ -273,6 +274,17 @@
     </table>
   </xsl:template>
 
+  <xsl:template match="t:fileDesc/t:sourceDesc/t:msDesc/t:physDesc">
+    <h3>Weitere Angaben zum Originaldokument</h3>
+    <xsl:apply-templates/>
+  </xsl:template>
+
+  <xsl:template match="t:physDesc//t:p">
+    <p>
+      <xsl:apply-templates/>
+    </p>
+  </xsl:template>
+
   <xsl:template match="t:surname[string-length(.)=0]">
     [Nachname]
   </xsl:template>
@@ -281,4 +293,5 @@
     <xsl:value-of select="text()"/>
     <a href="https://www.openstreetmap.de/karte/?zoom=13&amp;lat={substring-before(t:geo,' ')}&amp;lon={substring-after(t:geo,' ')}" target="_blank">📍</a>
   </xsl:template>
+
 </xsl:stylesheet>
