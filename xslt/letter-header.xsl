@@ -7,14 +7,14 @@
 
   <xsl:template match="t:teiHeader">
     <div class="tei-header">
-      <h3>
+      <h1 style="font-size:13pt">
         <xsl:text>Text von </xsl:text>
         <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='sender'])"/>
         <xsl:text>, </xsl:text>
         <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:date[@type='sent'])"/>
-      </h3>
+      </h1>
       
-      <div>
+      <div class="text-center">
         <button class="btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-meta" aria-expanded="false" aria-controls="collapse-meta">Metadaten</button>
         <a class="btn btn-light ms-3" href="{$base}data/{$dirname}/{$filename}.xml" target="_blank">TEI-XML</a>
         <button class="btn btn-light ms-3" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-bibl" aria-expanded="true" aria-controls="collapse-bibl">Zitationshinweis</button>
