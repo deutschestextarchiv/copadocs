@@ -34,7 +34,7 @@ $( function() {
         break
       case 'bottom':
         title = 'Einfügung am unteren Seitenrand'
-        break;
+        break
       case 'margin':
         title = 'Einfügung am Rand'
         break
@@ -104,26 +104,27 @@ $( function() {
 
     $('.tei-body .tei-p').contents().filter( function() {
       return this.nodeType === 3
-    }).wrap('<span class="calc-line"/>');
+    }).wrap('<span class="calc-line"/>')
 
-    let line_cnt = 0;
-    let line_length = 0;
+    let line_cnt        = 0
+    let line_length     = 0
+    let line_max_length = 0
     $('.calc-line').each( function() {
       const width = $(this)[0].getClientRects()[0].width
+      line_max_length = width > line_max_length ? width : line_max_length
       if ( width > 200 ) {
-        line_cnt++;
-        line_length += width;
+        line_cnt++
+        line_length += width
       }
     })
     let line_avg = line_length/line_cnt
     if ( line_avg < 300 ) {
       $('.tei-body .tei-head, .tei-body [data-rendition="#c"], .tei-body .tei-pb').css({ 'width': '60%' })
-      $('.tei-body [data-rendition~="#r"]').css({ 'margin-right': '40%' })
     }
     else if ( line_avg < 400 ) {
       $('.tei-body .tei-head, .tei-body [data-rendition="#c"], .tei-body .tei-pb').css({ 'width': '70%' })
-      $('.tei-body [data-rendition~="#r"]').css({ 'margin-right': '50%' })
     }
+    $('.tei-body [data-rendition~="#r"]').css({ 'margin-right': ($('.tei-body').width() - line_max_length) + 'px' })
   }
 
   fields = {};
