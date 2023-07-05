@@ -78,7 +78,7 @@
                   <xsl:with-param name="value" select="'nav-link'"/>
                   <xsl:with-param name="link" select="'list.html'"/>
                 </xsl:call-template>
-                Gesamtkorpus
+                Korpus
               </a>
             </li>
             <li class="nav-item">
