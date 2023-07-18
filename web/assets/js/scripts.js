@@ -132,6 +132,9 @@ $( function() {
     'dirname',
     'filename',
     'id',
+    'archiveShort',
+    'archive',
+    'record',
     'patient',
     'birthDate',
     'entryDate',
@@ -163,13 +166,45 @@ $( function() {
       .attr('data-bs-toggle', 'tooltip')
   })
 
+  let dt_l10n = {
+    "sEmptyTable":     "Keine Daten in der Tabelle vorhanden",
+    "sInfo":           "_START_ bis _END_ von _TOTAL_ Einträgen",
+    "sInfoEmpty":      "0 bis 0 von 0 Einträgen",
+    "sInfoFiltered":   "(gefiltert aus _MAX_ Einträgen)",
+    "sInfoPostFix":    "",
+    "sInfoThousands":  ".",
+    "sLengthMenu":     "_MENU_ Einträge anzeigen",
+    "sLoadingRecords": "Wird geladen ...",
+    "sProcessing":     "<div class='d-flex justify-content-center'><div class='spinner-border' role='status'><span class='visually-hidden'>Bitte warten …</span></div></div>",
+    "sSearch":         "Suchen",
+    "sZeroRecords":    "Keine Einträge vorhanden.",
+    "oPaginate": {
+      "sFirst":    "Erste",
+      "sPrevious": "Zurück",
+      "sNext":     "Nächste",
+      "sLast":     "Letzte"
+    },
+    "oAria": {
+      "sSortAscending":  ": aktivieren, um Spalte aufsteigend zu sortieren",
+      "sSortDescending": ": aktivieren, um Spalte absteigend zu sortieren"
+    },
+    "select": {
+      "rows": {
+        "_": "%d Zeilen ausgewählt",
+        "0": "Zum Auswählen auf eine Zeile klicken",
+        "1": "1 Zeile ausgewählt"
+      }
+    }
+  }
+
   // corpus listing
-  var dt = $('#pat-list').DataTable({
+  var dt_pat = $('#pat-list').DataTable({
     "processing": true,
     "ajax": base + "list.json",
     "initComplete": function(settings, json) {
       $('[data-bs-toggle="tooltip"]').tooltip();
     },
+    "language": dt_l10n,
     "columns": [
       {
         "type": "natural",
@@ -252,43 +287,124 @@ $( function() {
           return `${row[fields.extentPages]} S., ca. ${row[fields.extentWords]} Wörter`
         }
       },
-    ],
-    "language": {
-      "sEmptyTable":     "Keine Daten in der Tabelle vorhanden",
-      "sInfo":           "_START_ bis _END_ von _TOTAL_ Einträgen",
-      "sInfoEmpty":      "0 bis 0 von 0 Einträgen",
-      "sInfoFiltered":   "(gefiltert aus _MAX_ Einträgen)",
-      "sInfoPostFix":    "",
-      "sInfoThousands":  ".",
-      "sLengthMenu":     "_MENU_ Einträge anzeigen",
-      "sLoadingRecords": "Wird geladen ...",
-      "sProcessing":     "<div class='d-flex justify-content-center'><div class='spinner-border' role='status'><span class='visually-hidden'>Bitte warten …</span></div></div>",
-      "sSearch":         "Suchen",
-      "sZeroRecords":    "Keine Einträge vorhanden.",
-      "oPaginate": {
-        "sFirst":    "Erste",
-        "sPrevious": "Zurück",
-        "sNext":     "Nächste",
-        "sLast":     "Letzte"
-      },
-      "oAria": {
-        "sSortAscending":  ": aktivieren, um Spalte aufsteigend zu sortieren",
-        "sSortDescending": ": aktivieren, um Spalte absteigend zu sortieren"
-      },
-      "select": {
-        "rows": {
-          "_": "%d Zeilen ausgewählt",
-          "0": "Zum Auswählen auf eine Zeile klicken",
-          "1": "1 Zeile ausgewählt"
-        }
-      }
-    }
+    ]
   })
 
   $('#pat-list tbody').on('dblclick', 'tr', function () {
-    let data = dt.row( this ).data()
+    let data = dt_pat.row( this ).data()
     let target = `${base}${data[fields.dirname]}/${data[fields.filename]}.html`
     window.location.href = target
+  })
+
+  // records listing
+  var dt_rec = $('#record-list').DataTable({
+    "processing": true,
+    //"ajax": base + "list.json",
+    "ajax": {
+      "url": base + "list.json",
+      "dataSrc": function (json) {
+        let ret  = new Array()
+        let seen = new Array()
+        let tt   = new Array()
+        for ( var i of json.data) {
+          let key = i[fields.archiveShort] + '-' + i[fields.record]
+          if ( seen[key] === undefined ) {
+            seen[key] = {
+              "cnt": 0,
+              "tt": new Set(),
+            }
+          }
+          seen[key].cnt++;
+          seen[key]['tt'].add( i[fields.textType] )
+          if ( seen[key].cnt > 1 )
+            continue
+          ret.push(i)
+        }
+        for ( var i of ret ) {
+          let key = i[fields.archiveShort] + '-' + i[fields.record]
+          i.push( seen[key].cnt, seen[key].tt )
+        }
+        return ret
+      }
+    },
+    "initComplete": function(settings, json) {
+      $('[data-bs-toggle="tooltip"]').tooltip();
+    },
+    "language": dt_l10n,
+    "columns": [
+      {
+        "render": function (data, type, row) {
+          return `${row[fields.archiveShort]}`
+        }
+      },
+      {
+        "className": "text-nowrap",
+        "render": function(data, type, row) {
+          return `${row[fields.record]}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.patient]}`
+        }
+      },
+      {
+        "className": "text-nowrap",
+        "render": function(data, type, row) {
+          return `${row[fields.birthDate]}`
+        }
+      },
+      {
+        "className": "text-nowrap",
+        "render": function(data, type, row) {
+          return `${row[fields.entryDate]}`
+        }
+      },
+      {
+        "className": "text-nowrap",
+        "render": function(data, type, row) {
+          return `${row[fields.leaveDate]}`
+        }
+      },
+      {
+        "className": "text-nowrap",
+        "render": function(data, type, row) {
+          return `${row[fields.deathDate] == '-' ? 'nein' : 'ja'}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.occupation]}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.residence]}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.familyStatus]}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.faith]}`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return Array.from(row[row.length - 1]).map(x => `<abbr title="${textTypes[x]}" data-bs-toggle="tooltip">${x}</abbr>`).join(', ')
+        }
+      },
+      {
+        "className": "text-end",
+        "render": function(data, type, row) {
+          console.log(row)
+          return `${row[row.length - 2]} Texte`
+        }
+      }
+    ]
   })
 
   const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
@@ -564,25 +680,3 @@ class Pager {
       return
   }
 }
-
-function prettyXML (str) {
-  var xmlDoc = new DOMParser().parseFromString('<ROOT>'+str+'</ROOT>', 'application/xml');
-  var xsltDoc = new DOMParser().parseFromString([
-      '<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">',
-      '  <xsl:strip-space elements="*"/>',
-      '  <xsl:template match="para[content-style][not(text())]">',
-      '    <xsl:value-of select="normalize-space(.)"/>',
-      '  </xsl:template>',
-      '  <xsl:template match="node()|@*">',
-      '    <xsl:copy><xsl:apply-templates select="node()|@*"/></xsl:copy>',
-      '  </xsl:template>',
-      '  <xsl:output indent="yes"/>',
-      '</xsl:stylesheet>',
-  ].join('\n'), 'application/xml');
-
-  var xsltProcessor = new XSLTProcessor();
-  xsltProcessor.importStylesheet(xsltDoc);
-  var resultDoc = xsltProcessor.transformToDocument(xmlDoc);
-  var resultXml = new XMLSerializer().serializeToString(resultDoc);
-  return resultXml.replace(/<\/?ROOT>/g, '').replace(/^  /mg, '').replace(/^\s+/, '').replace(/ͤ/g, '&#x364;')
-};

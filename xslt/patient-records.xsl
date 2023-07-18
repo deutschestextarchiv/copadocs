@@ -3,7 +3,6 @@
                 exclude-result-prefixes="t"
                 xpath-default-namespace="http://www.tei-c.org/ns/1.0">
 
-  <xsl:import href="archive-name.xsl"/>
   <xsl:import href="letter-type.xsl"/>
 
   <xsl:output method="text" indent="no" encoding="utf-8"/>
@@ -22,20 +21,6 @@
 
     <!-- id -->
     <xsl:value-of select="/t:TEI/@xml:id"/>
-    <xsl:text>&#x9;</xsl:text>
-
-    <!-- archive (short) -->
-    <xsl:value-of select="substring-before($dirname,'_')"/>
-    <xsl:text>&#x9;</xsl:text>
-
-    <!-- archive (full name) -->
-    <xsl:call-template name="archive-name">
-      <xsl:with-param name="code" select="substring-before($dirname,'_')"/>
-    </xsl:call-template>
-    <xsl:text>&#x9;</xsl:text>
-
-    <!-- record number -->
-    <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:msDesc/t:msIdentifier/t:idno)"/>
     <xsl:text>&#x9;</xsl:text>
 
     <!-- patient -->

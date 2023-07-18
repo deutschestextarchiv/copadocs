@@ -21,7 +21,7 @@
         <main class="flex-shrink-0">
           <div>
             <xsl:choose>
-              <xsl:when test="$page='list.html'">
+              <xsl:when test="$page='list.html' or $page='patientenakten.html'">
                 <xsl:attribute name="class">
                   <xsl:text>container-fluid mt-3 mb-5</xsl:text>
                 </xsl:attribute>
@@ -34,7 +34,7 @@
             </xsl:choose>
             <div class="row">
               <xsl:choose>
-                <xsl:when test="$page='geobrowser.html' or $page='index.html' or $page='list.html'">
+                <xsl:when test="$page='geobrowser.html' or $page='index.html' or $page='list.html' or $page='patientenakten.html'">
                   <div class="col-lg-12 col-md-12 tei mx-auto">
                     <xsl:copy-of select="."/>
                   </div>
