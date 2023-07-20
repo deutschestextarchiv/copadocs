@@ -90,11 +90,9 @@ $( function() {
       .html('')
   })
 
-  // in narrow texts centered
-  // headings and other centered text is displayed
-  // to the very left, so we calculate here the
-  // average text line width and set the width
-  // of the head container to 60% resp. 70%
+  // in narrow texts centered headings and other centered text is displayed
+  // to the very left, so we calculate here the average text line width and
+  // set the width of the head container to 60 % resp. 70 %
   recalculate_head_width();
   function recalculate_head_width () {
     // not on mobile view
@@ -127,6 +125,7 @@ $( function() {
     $('.tei-body [data-rendition~="#r"]').css({ 'margin-right': ($('.tei-body').width() - line_max_length) + 'px' })
   }
 
+  // table views
   fields = {};
   [
     'dirname',
@@ -197,6 +196,13 @@ $( function() {
     }
   }
 
+  function yearOfDate(date) {
+    return date.replace(/-\d+-\d+/,'')
+  }
+
+  function showRecord(id) {
+  }
+
   // corpus listing
   var dt_pat = $('#pat-list').DataTable({
     "processing": true,
@@ -220,19 +226,19 @@ $( function() {
       {
         "className": "text-nowrap",
         "render": function(data, type, row) {
-          return `${row[fields.birthDate]}`
+          return `${yearOfDate(row[fields.birthDate])}`
         }
       },
       {
         "className": "text-nowrap",
         "render": function(data, type, row) {
-          return `${row[fields.entryDate]}`
+          return `${yearOfDate(row[fields.entryDate])}`
         }
       },
       {
         "className": "text-nowrap",
         "render": function(data, type, row) {
-          return `${row[fields.leaveDate]}`
+          return `${yearOfDate(row[fields.leaveDate])}`
         }
       },
       {
@@ -340,7 +346,7 @@ $( function() {
       {
         "className": "text-nowrap",
         "render": function(data, type, row) {
-          return `${row[fields.record]}`
+          return `<a class="btn-link" data-archive="${row[fields.archiveShort]}" data-record="${row[fields.record]}" style="cursor:pointer">${row[fields.record]}</a>`
         }
       },
       {
@@ -351,19 +357,19 @@ $( function() {
       {
         "className": "text-nowrap",
         "render": function(data, type, row) {
-          return `${row[fields.birthDate]}`
+          return `${yearOfDate(row[fields.birthDate])}`
         }
       },
       {
         "className": "text-nowrap",
         "render": function(data, type, row) {
-          return `${row[fields.entryDate]}`
+          return `${yearOfDate(row[fields.entryDate])}`
         }
       },
       {
         "className": "text-nowrap",
         "render": function(data, type, row) {
-          return `${row[fields.leaveDate]}`
+          return `${yearOfDate(row[fields.leaveDate])}`
         }
       },
       {
@@ -401,7 +407,7 @@ $( function() {
         "className": "text-end",
         "render": function(data, type, row) {
           console.log(row)
-          return `${row[row.length - 2]} Texte`
+          return `${row[row.length - 2]}`
         }
       }
     ]
