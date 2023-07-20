@@ -24,7 +24,8 @@
     <xsl:text>&#x9;</xsl:text>
 
     <!-- patient -->
-    <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName)"/>
+    <!--<xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName)"/>-->
+    <xsl:value-of select="normalize-space(concat(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:forename, ' ', /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:surname))"/>
     <xsl:text>&#x9;</xsl:text>
 
     <!-- birth date -->
