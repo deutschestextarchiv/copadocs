@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2105z05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2105</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>Z.</surname></persName>
+<date type="sent">07.01.1868</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sohn: Fritz <surname>Z.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2105z">
+<persName>
+<forename>Johann</forename>
+<surname>Z.</surname>
+</persName>
+<birth when="1816"/>
+<death when="1882"/>
+<occupation>Hafnermeister</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1867" to="1882">1867-1882</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Fixe Ideen, Wahnideen (1867)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="amanuensis"/>
+<handNote medium="ink" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet inständig um Besuch seines Sohnes, noch in dieser Woche
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2105z05a.jpg" xml:id="image_030"/>
+<graphic mimeType="image/jpg" url="kfb2105z05b.jpg" xml:id="image_031"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_030"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irrsee den 7. Januar 1868.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Lieber Sohn Fritz!</hi></hi></salute>
+</opener>
+<p>Ich habe seither einige Zeilen von Dir er<lb break="no"/>wartet, doch meine
+                Sehnsucht war<lb break="yes"/>vergebens. Das Neue Jahre ist nun<lb break="yes"/>da, und hoffe es wird anderst werden.<lb break="yes"/>Ich denke sehr oft an Dich
+                mein Sohn<lb break="yes"/>Fritz, <w>so wie</w> an unsere
+                Familie, &amp;<lb break="yes"/>erwarte Dich täglich, ja sogar stündlich.<lb break="yes"/>Komme Du daher sicher noch im Ver<lb break="no"/>lauf dieser Woche
+                hierher nach <hi rendition="#i">Ir<del>r</del>see</hi> &amp;<lb break="yes"/>nehme
+                die Mutter mit. <seg ana="#salute"><hi rendition="#i">Marie</hi> &amp; <hi rendition="#i">Riché</hi><lb break="yes"/><hi rendition="#i">Babette</hi> grüße mir ebenfalls.</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Euer Vater<lb break="yes"/><handShift scribe="patient"/>Johann <surname>Z.</surname><lb break="yes"/>Offene Fabrickand</seg></hi>
+<pb facs="#image_031"/>
+<handShift scribe="amanuensis"/><hi rendition="#c">An<lb break="yes"/><hi rendition="#i">Herrn Fritz <surname>Z.</surname></hi><lb break="yes"/>K b. Officier im III Inf. R<hi rendition="#i">eg</hi>.<lb break="yes"/><hi rendition="#i">Prinz Carl.</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb6270r33" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>6270</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>R.</surname></persName>
+<date type="sent">27.03.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb6270r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1895"/>
+<death cert="unknown"/>
+<occupation>Schuhmacher</occupation>
+<residence><geo decls="#WGS">48.0048016 10.4324403</geo>Erisried, Mindelheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schuhmacher</p>
+<p>Anstalt: <date from="1920" to="1931">1920-31</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Schizophrenie (1934), vorl. Diagn. Dementia praecox (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Entlassung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb6270r33a.jpg" xml:id="image_082"/>
+<graphic mimeType="image/jpg" url="kfb6270r33b.jpg" xml:id="image_083"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_082"/>
+<opener>
+<dateline><add hand="arzt">27.III.22</add></dateline>
+<salute><hi rendition="#u">Gemeindebehörde!</hi><lb break="yes"/>Sehr
+                    geherter Herr Bürgem.</salute>
+</opener>
+<p><space/> Bitte <hi rendition="#u">Sie freundlichst</hi><lb break="yes"/>daß
+                jemand für mich eintritt<lb break="yes"/>einschreiten möchte; kann von<lb break="yes"/>hier aus nicht sorgen.</p>
+<p><space/> <hi rendition="#i">Bitte Herrn Direktor</hi><lb break="yes"/><add place="above">sofortige</add><hi rendition="#i">um Entlassung!</hi><lb break="yes"/>Lasse zu
+                    <hi rendition="#i">Hause den<lb break="yes"/>Arzt kom̄en.</hi></p><p><hi rendition="#r"><seg ana="#signed"><hi rendition="#i"><surname>R.</surname> Joseph</hi></seg></hi></p>
+<p><hi rendition="#i">Wen̄ Eltern gestorben sind<lb break="yes"/>kan̄ sind Sie nicht mehr<lb break="yes"/><hi rendition="#r">zu sprechen.</hi></hi><lb break="yes"/>Gelt ist keins
+                    angekom̄en!</p>
+<pb facs="#image_083"/>
+<p>Lassen Sie meinetwegen jeden Tag<lb break="yes"/>jemand herkomen!<lb break="yes"/>Ersuche Sie nochmals!? −</p>
+<p><add place="margin">Welche Kosten<unclear>.</unclear></add></p>
+</body>
+</text>
+</TEI>

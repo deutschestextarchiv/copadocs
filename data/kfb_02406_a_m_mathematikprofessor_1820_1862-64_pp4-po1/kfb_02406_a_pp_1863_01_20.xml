@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2406a03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2406</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hugo <surname>A.</surname></persName>
+<date type="sent">20.01.1863</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Frau: Mina <surname>A.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2406a">
+<persName>
+<forename>Hugo</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1820"/>
+<death when="1864"/>
+<occupation>Professor der Mathematik, hat an Schulen unterrichtet</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Professor der Mathematik (in der Schule St. Anna)</p>
+<p>Anstalt: <date from="1862" to="1864">1862-64</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Melancholie (1862)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet seine Frau um Bücher, Bänder und Wäsche
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2406a03a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb2406a03b.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb2406a03c.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb2406a03d.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#c">Augsburg den 20<hi rendition="#sup"><hi rendition="#u">ten</hi></hi><lb break="yes"/>Januar 1863</hi></dateline>
+<salute><hi rendition="#c">Meine liebe, gute Mina!</hi></salute>
+</opener>
+<p>Am ersten Oktober nehmen wir.<lb break="yes"/>drei Zöglinge an. Ein jeder <w>Zög<lb break="no"/>ling</w> an; er hat 20 Gulden zu<lb break="yes"/>zahlen,
+                für 3 Zöglinge erhalten<lb break="yes"/>wir 60 fl. in einem Vierteljahre.<lb break="yes"/>An den Unterhosen sind die Bänder<lb break="yes"/>so kurz, daß ich
+                bitte, daß ich<lb break="yes"/>Dich bitten mir 2 Ellen weiße<lb break="yes"/>Bänder zu holen bei Hauser<lb break="yes"/>in der Wintergasse, woselbst<lb break="yes"/>Du auch Roßhaarbänder zu<lb break="yes"/>haben sind. Den weißem
+                    <pb facs="#image_006"/>und schwarzen Faden, eine Hals<lb break="no"/>binde, aber
+                nicht die blaue, eine<lb break="yes"/>andere. Sende mir ferner die<lb break="yes"/>die großen weissen Knöpfe 8<lb break="yes"/>Stück und 8 Stück Hemdknöpfen,<lb break="yes"/>diese müssen mit der engli<lb break="no"/>schen Nehnadel befestigt
+                    wer<lb break="no"/>den. 8 Stecknadeln, um die Bin<lb break="no"/>de an das Hemd
+                zu befestigen.<lb break="yes"/>Schau in den Büchern nach.<lb break="yes"/>Sende
+                mir Hofmans <w>Arithme<lb break="no"/>tick</w> 3 Bände grün eingebunden.<lb break="yes"/>Ohms Mathematik 1 2 3 Band.<lb break="yes"/>Die englische
+                Grammatik, die <pb facs="#image_007"/>ich vom <surname>H.</surname> erhielt. Ein
+                    Feder<lb break="no"/>messer und ein Radirmesser und<lb break="yes"/>ein
+                besonderes Radiermesser werden<lb break="yes"/>im blauen Tintenzeug liegen. Ein<lb break="yes"/>deutsches Wörterbuch (Stunz)<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Dein Dich liebender Gatte<lb break="yes"/>Hugo.</seg></hi>
+<pb facs="#image_008"/>
+<hi rendition="#c">An Frau Professorin <surname>A.</surname><lb break="yes"/>bei Materiast Keller.<lb break="yes"/>Am Prädiger Berg
+                    </hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Augsburg</hi>. </hi>
+</p>
+</body>
+</text>
+</TEI>

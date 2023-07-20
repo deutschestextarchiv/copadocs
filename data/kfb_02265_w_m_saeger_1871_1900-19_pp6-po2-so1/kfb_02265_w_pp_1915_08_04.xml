@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2265w07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2265</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>W.</surname></persName>
+<date type="sent">04.08.1915</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Johann Georg <surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2265w">
+<persName>
+<forename>Josef</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1871"/>
+<death when="1919"/>
+<occupation>Säger</occupation>
+<residence><geo decls="#WGS">47.5538309 10.0206483</geo>Oberstaufen, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Bruder: Bauschlosser</p>
+<p>Anstalt: <date from="1900" to="1919">1900-1919</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Halluzinationen, geistig zurückgeblieben (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Glückwünsche zum Namenstagsfest;
+                    teilweise Aneinanderreihungen von Wörtern "Zu Haben Können Geben Gehen Bekommen Haben."
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2265w07a.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb2265w07b.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="kfb2265w07c.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline><hi rendition="#c">Irse, Der 22 <hi rendition="#u" style="arzt">Juni</hi> 1915<lb break="yes"/><add hand="arzt">4.Aug.</add></hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder!</hi></salute>
+</opener>
+<p>
+For der Zeid als jedzt, Der<lb break="yes"/>Fesdtag Johan der Taüfer Forgeen<lb break="yes"/>zu gegen der Nahmenstag Befiended,<lb break="yes"/>mache ich jedzt For Sie Maiene<lb break="yes"/>Gliegkgruß auf Seinnen Namenstagge<lb break="yes"/>Fest. Ich Begrüße Sie Freindlichsd saiene<lb break="yes"/>Namenstag Gliegkwunschgruß Gesund<lb break="yes"/>Erlebens, Grosse Lebensdauer Ermunderndes<lb break="yes"/>Wohlbefienden Ergehen Forkommen<lb break="yes"/>Bekommen erhalden.<lb break="yes"/><seg ana="#salute">Nebst Freindliechem gruße<lb break="yes"/>schlüse ich einen Brief.</seg><lb break="yes"/>Ich Habe In der Zaied Befiendung,<lb break="yes"/>In 22 Juni 1915. Auch Irse In der<lb break="yes"/>Ansdald Bewohnd.
+
+<pb facs="#image_017"/>
+Indem ich zu dem Forgehen der<lb break="yes"/>Nauflasung Begeben Erreichen,<lb break="yes"/>Hab mein Fordgehen zu Beschefdiegung,<lb break="yes"/>Forgeben noch niegs Bekommen Erhalden.<lb break="yes"/>Auch Freindlieche Gliegkwunschgriesse<lb break="yes"/>For Josef <surname>W.</surname>, Alberd <surname>B.</surname>.<lb break="yes"/>Theresiea <surname>B.</surname> und Geschwiesdern<lb break="yes"/>zu der Bewohndden Zaied. In Obersdaufen,<lb break="yes"/>Machede ich Freindliechstde grus angabe<lb break="yes"/>Begegnung zur Antword.<lb break="yes"/>Ich Wärde Sobald als Mögliech<lb break="yes"/>Forkommen Kan, Nach Arbeidbeschäfdiegder<lb break="yes"/>Gschäfdordnung Als Forgehen der Fordlassung<lb break="yes"/>Hab können Zur Geschäfdsbeschäfdiegung<lb break="yes"/>Arbeid Hab Geben Bekommens Fordlassung<lb break="yes"/>Nach Arbeidordnung konde Fortkommen<lb break="yes"/>Geschehener Alaiennieger Berechdiegung<lb break="yes"/>Ordnung Befienden konde Gehen Haben.<lb break="yes"/>Maiene Ordnungsfarbaied diensd Pfliechd<lb break="yes"/>Wärde Ich Mögliechsd bald Erhalden<lb break="yes"/>Zu Haben Können Geben Gehen Bekommen Haben.
+
+<pb facs="#image_018"/>
+<seg ana="#salute">Zu Freindliechem Gruß habe ich Geschrieben<lb break="yes"/>Sie Freindliechsd Griesend schließ ich den Brief</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Der bruder<lb break="yes"/>Josef <surname>W.</surname>.</seg><lb break="yes"/>Absendder. Brief Aberschieckd</hi></p>
+<p>Adres: An Hern Johan Georg <surname>W.</surname><lb break="yes"/><space/> Seilermeisder in Oberstaufen<lb break="yes"/>Ibergeben Zu Hern Sohn Johan <surname>W.</surname></p>
+<p>Fon Abgangener Adreß Brief ankunfd<lb break="yes"/>deß Enfangnemens. Fon Befiendung<lb break="yes"/>wen niechd zu bladz hab gangen,<lb break="yes"/>kön Brief Zuriegksenden An<lb break="yes"/>Josef <surname>W.</surname> Absendder des Brief<lb break="yes"/>Befiended Wohnhafd in der Anstald Irse,<lb break="yes"/>Schwaben Neieburg.
+</p>
+</body>
+</text>
+</TEI>

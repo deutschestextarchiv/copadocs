@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1697e02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1697</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>E.</surname></persName>
+<date type="sent">14.02.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>E.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1697e">
+<persName>
+<forename>Maria</forename>
+<surname>E.</surname>
+</persName>
+<birth when="1858"/>
+<death when="1912"/>
+<occupation>Monteursehefrau</occupation>
+<residence><geo decls="#WGS">47.457056800000004 10.271660845701515</geo>Fischen, Sonthofen, geb. Zülen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1906" to="1912">1906-12</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>[Epilepsie], [Halluzination], [Suizidalität] (1906)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie fragt nach dem Sohn der Adressatin und nach dieser selbst und möchte sie gerne in Kempten besuchen. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1697e02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb1697e02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r"><w>Kauf Bayern</w> 14. Februar 1908</hi></dateline>
+<salute>Liebe Frau <surname>E.</surname></salute>
+</opener>
+<p>Mein Name war bisher<lb break="yes"/>derselbe, u ich bin so frei Erlaube<lb break="yes"/>mir eine anfrage ob Sie noch<lb break="yes"/>Leben und ob Sie
+                nichts wißen<lb break="yes"/>wo ihr Sohn Joseph ist oder<lb break="yes"/>ob er nicht
+                mehr auf Gottes<lb break="yes"/>Boden lebt denn ich hab doch<lb break="yes"/>Seine
+                Briefe gesehn wen er von<lb break="yes"/>Berlin an Sie oder Schwester Rosa<lb break="yes"/>oder Rosalie geschrieben hat und<lb break="yes"/>ich bin Ihn, von
+                Berlin den <unclear>B</unclear>ayern<lb break="yes"/>von Staate nachgeschickt jetzt
+                    wollt<lb break="yes"/>ich Sie besuchen es wurde mir gesagt<lb break="yes"/>erst
+                zu fragen denn es denkt vileicht<lb break="yes"/>ein jeder das es unsicher sei<lb break="yes"/>aber Sie wie die Geschwister gehören<lb break="yes"/>doch dort, da
+                werden Sie nicht auß<lb break="yes"/>Kem̄pten ziehn wies der
+                Josefs schon<lb break="yes"/>in der Jugend nachte als<del>s</del>o Bi<del>i</del>tte
+                    noch<lb break="yes"/>einnmal ob ich selbst anfrag<unclear>e</unclear>n<lb break="yes"/>oder sonst den bescheit darüber bekomnen<lb break="yes"/>kan. <seg ana="#salute">Nun
+                einen Herzlichen Gruß<lb break="yes"/>Frau <surname>E.</surname> u Geschwister
+                Rosa u Rosalie</seg></p>
+<pb facs="#image_004"/>
+<p><hi rendition="#c">An</hi><lb break="yes"/>Frau <surname>E.</surname> Wittwe<lb break="yes"/><hi rendition="#c">in Kempten</hi><lb break="yes"/><hi rendition="#r">an. d. Markteke</hi></p>
+</body>
+</text>
+</TEI>

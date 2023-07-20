@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3349f18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3349</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>F.</surname></persName>
+<date type="sent">01.08.1924</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Regierung von Schwaben und Neuburg <surname/></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3349f">
+<persName>
+<forename>Jakob</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888"/>
+<death when="1935"/>
+<occupation>Landwirt, Dienstknecht</occupation>
+<residence><geo decls="#WGS">48.2473553 10.4500832</geo>Premach, Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landwirt</p>
+<p>Anstalt: <date from="1907" to="1935">1907-35</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>maniakalischer Erregungszustand (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beschwerde bei Regierung: Protest gegen polizeiliche Einweisung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3349f18a.jpg" xml:id="image_055"/>
+<graphic mimeType="image/jpg" url="kfb3349f18b.jpg" xml:id="image_056"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_055"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">An die hohe Regierung</hi></hi><hi rendition="#i"> </hi><hi rendition="#r"><lb break="yes"/><hi rendition="#i">von
+                            Schwaben und Neuburg</hi></hi><hi rendition="#i"> </hi><hi rendition="#c"><lb break="yes"/><hi rendition="#i">Kammer des
+                        Innern.</hi></hi></salute>
+</opener>
+<p>
+<hi rendition="#i">Betreff</hi>:<lb break="yes"/>Beschwerde:<lb break="yes"/><space/> Fühle mich veranlaßt, der hohen<lb break="yes"/><hi rendition="#i">Regierung</hi>, folgende Beschwerde vorzubringen: </p><p>Unterzeichneter wurde am 24.V 1924, durch das<lb break="yes"/>Bezirksamt Mindelheim, polizeilich
+                in hiesige<lb break="yes"/>Anstalt eingewiesen. Gegen dieses Verfahren<lb break="yes"/>erhebe ich Protest; und verweise nachdrücklich<lb break="yes"/>auf
+                die von der <hi rendition="#i">Verfassung</hi>, bezüglich der Gesetz<lb break="no"/>gebung, Rechtsprechung ausgesprochene Grundsätze:<lb break="yes"/><hi rendition="#i">Freiheit der Gewissen und gewissenhafte </hi><lb break="yes"/><hi rendition="#i">Scheidung und Schützung dessen was des </hi><lb break="yes"/><hi rendition="#i">Staates und der Kirche ist</hi>; <hi rendition="#i">Unparteilich</hi><lb break="no"/><hi rendition="#i">keit und
+                        <del>Unparteilich</del> unaufhaltbarkeit </hi><lb break="yes"/><hi rendition="#i">der Rechtspflege</hi>; falls dem 9.XI.1918 die<lb break="yes"/>Verfassung vom 26.V.1818 nicht zum Opfer gefallen<lb break="yes"/>ist?</p>
+<p>Da ich mich nur vor meinem Gewissen verant<lb break="no"/>worten kan̄, was ich
+                gethan, und der weltlichen<lb break="yes"/>Gerechtigkeit, Genugthuung leisten will,
+                erkläre<lb break="yes"/>und verpflichte mich, als Bewährungsfrist:<lb break="yes"/>1.) Ein volles <hi rendition="#i">Jahr</hi> mich vom öffentlichen Leben<lb break="yes"/>fernzuhalten. </p>
+<pb facs="#image_056"/>
+<p> 2.) Als Buse will ich der staatlichen <hi rendition="#i">Anstalt Ursberg</hi> ein
+                Jahr<lb break="yes"/>hindurch, gegen freie Station, unentgeldlich arbeiten, um<lb break="yes"/>sonach Staat und Kirche dienlich zu sein. </p><p>Mit der
+                in̄igsten Bitte, vorstehendes bewerkstelligen zu wollen,<lb break="yes"/>verbleibe ich der hohen <hi rendition="#i">Regierung</hi> im voraus dankend, </p>
+<p><seg ana="#signed"><hi rendition="#r">Ihr<lb break="yes"/>ergebenster, gehorsamster Unterthan.<lb break="yes"/><hi rendition="#i">Jakob <surname>F.</surname></hi>.<lb break="yes"/>Dienstknecht<lb break="yes"/>z. Zeit Heil-Pflegeanstalt<lb break="yes"/>als Patient<lb break="yes"/><hi rendition="#i">in Kaufbeuren</hi>.</hi></seg></p>
+<p><hi rendition="#i">Kaufbeuren den 1. A<del>g</del>ugust 1924</hi>.</p>
+</body>
+</text>
+</TEI>

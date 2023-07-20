@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2085s01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2085</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Richard <surname>S.</surname></persName>
+<date type="sent">04.11.1886</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Kurator: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2085s">
+<persName>
+<forename>Richard</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1855"/>
+<death when="1895"/>
+<occupation>Goldarbeiter</occupation>
+<residence><geo decls="#WGS">48.5581296 10.6448177</geo>Binswangen, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Goldarbeiter</p>
+<p>Anstalt: <date from="1886" to="1895">1886-95</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Melancholie, Suizidalität, Wahnideen (1886)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet flehentlich um seine Entlassung aus der Anstalt. Er hofft auf Mitleid. Er ist sich sicher, dass er bei seiner Familie bald gesund wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2085s01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren</hi>, den 4. Nov. 1886.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Hochgeehrter Herr Kurator!</hi></hi></salute>
+</opener>
+<p> Ich bitte mit aufgehobenen Händen<lb break="yes"/>erlösen Sie mich doch aus dieser<lb break="yes"/>Heilanstalt. Ich füge mich bereit<lb break="no"/>willig in jede
+                Anordnung, die<lb break="yes"/>Sie mir ertheilen. Ich kan̄ oft<lb break="yes"/>halbe Nächte lang nicht schlafen,<lb break="yes"/>wen̄<hi rendition="#u" style="arzt">nur Jemand <hi rendition="#u">Mitleid</hi>
+                        hätte<lb break="yes"/>und mich geistig sehend machen<lb break="yes"/>würde.</hi> Wen̄ ich wieder bei meinen<lb break="yes"/>lieben
+                Geschwisterten oder Verwanten<lb break="yes"/>sein dürfte, wäre ich mit Gottes<lb break="yes"/>Hilfe bald gesundt.</p>
+<p> <seg ana="#salute">Mit ausgezeichneter Hochachtung<lb break="yes"/>sieht einer
+                baldigen Entlaßung<lb break="yes"/>entgegen<lb break="yes"/><hi rendition="#r">Ihr ergebenster</hi><lb break="yes"/><hi rendition="#i"><seg ana="#signed">Richard <surname>S.</surname></seg>.</hi></seg></p>
+</body>
+</text>
+</TEI>

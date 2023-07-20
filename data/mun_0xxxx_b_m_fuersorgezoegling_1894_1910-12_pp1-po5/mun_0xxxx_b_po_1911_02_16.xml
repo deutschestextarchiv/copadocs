@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="munxxxb06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>xxxx (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>B.</surname></persName>
+<date type="sent">16.02.1911</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Landeshauptmann: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster i. W.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="munxxxb">
+<persName>
+<forename>Wilhelm</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1894-10-06"/>
+<death cert="unknown"/>
+<occupation>Fürsorgezögling</occupation>
+<residence><geo decls="#WGS">51.956874 7.0038803</geo>Geburtsort: Dortmund; Wohnort: Gescher</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1910-01-21" to="1912-01-03">21.01.1910-03.01.1912</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geisteskrankheit (1910)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="pencil" scope="minor" scribe="hand3"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Er bittet wieder in die Erziehungsanstalt gebracht zu werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun0xxxxb06a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="mun0xxxxb06b.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt <hi rendition="#r">Münster i. W., den</hi></add> <hi rendition="#r">16. Februar <add hand="vordruck">19</add>11.</hi></dateline>
+<salute><hi rendition="#c">Hochwohlgeborner, gnädiger Herr<lb break="yes"/>Landeshauptmann!</hi></salute>
+</opener>
+<p><add hand="hand3"><surname>B.</surname></add>
+</p><p><add hand="hand2">G <hi rendition="#sup">15</hi>/2 <hi rendition="#sup">ii</hi><lb break="yes"/>i:26/2 ii <unclear><lb break="yes"/>der 14 Balsl. von von<lb break="yes"/>21. u 25. a mehr errect<lb break="yes"/><unclear/>
+                        isolirt!</unclear><lb break="yes"/>Ad acta <surname><hi rendition="#i">B.</hi></surname><lb break="yes"/>Gernach</add>
+</p><p>Ein armer Knabe nimmt sich<lb break="yes"/>die Freiheit, an Euer Gnaden<lb break="yes"/>zu
+                schreiben. Ich habe soeben<lb break="yes"/>von dem Herrn Direcktor Weis<lb break="yes"/>einen Brief <w>zu geschickt</w> bekommen.<lb break="yes"/>In
+                welchen er mir schreibt daß<lb break="yes"/>er mir ohne weiteres nicht<lb break="yes"/>wieder nach der Anstalt <w>zurück<lb break="no"/>nehmen</w> könnte,
+                daß hätten<lb break="yes"/>Sie zu bestimmen.<lb break="yes"/>Deshalb möchte ich
+                Ihnen bitten<lb break="yes"/>mir wieder nach der Erziehungs<lb break="no"/>anstalt
+                zuschicken. Ich werde<lb break="yes"/>mich dort gut führen. <pb facs="#image_018"/>und nicht mehr wechlaufen<lb break="yes"/><hi rendition="#c">Euer Gnaden<lb break="yes"/>untertänigster Diener<lb break="yes"/><seg ana="#signed">Wilhelm
+                        <surname>B.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

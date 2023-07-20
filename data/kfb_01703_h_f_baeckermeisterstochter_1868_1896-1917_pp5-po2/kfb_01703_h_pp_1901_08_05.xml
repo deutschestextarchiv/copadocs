@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1703h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Susanne Klohn</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1703</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franziska <surname>H.</surname></persName>
+<date type="sent">05.08.1901</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: n.a. <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1703h">
+<persName>
+<forename>Franziska</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1917"/>
+<occupation>Bäckermeisterstochter</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bäckermeister</p>
+<p>Anstalt: <date from="1896" to="1917">1896-1917</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Imbezillität (1897)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Namenstagswunsch, betet für Mutter, gesund, möchte mit Mutter sprechen, 
+                    Besuch, wenn nicht möglich, dann soll sie jemand anderer aus der Familie besuchen, schimpft und flucht deswegen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1703h02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb1703h02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 5. August 1901</hi></dateline>
+<salute><hi rendition="#c">Liebe Mutter!</hi></salute>
+</opener>
+<p> Zu Ihrem Nam̄entsag wünsche ich Ihnen viel<lb break="yes"/>Glück, langes Leben,
+                Gesundheit und dan̄ den<lb break="yes"/>Him̄el. In meinem täglichen
+                Gebete vergeße ich<lb break="yes"/>Ihnen niemals und für ihre Eltern selig auch<lb break="yes"/>und schließe fleißig ein für Sie zu beten, wie<lb break="yes"/>Sie mir auch so viel gethan haben wie Sie lb.<lb break="yes"/>Mutter auch viel
+                gethan haben und jetzt auch<lb break="yes"/>noch im̄er für mich sorgen. Der
+                    Him̄elvater<lb break="yes"/>wolle Ihnen schon in der andern Welt im<lb break="yes"/>Him̄el eine reiche Belohnung vergelten für die<lb break="yes"/>vielen Wohlthaten welche Sie mir gethan haben.<lb break="yes"/>Mir geht es gut bin Gott sei dank gesund, bin<lb break="yes"/>mit Allem zufrieden,
+                aber mein Wunsch<lb break="yes"/>wäre es, Ihnen einmal wieder sehen dürfen<lb break="yes"/>mit Ihnen unterhalten sprechen, es wird mich<lb break="yes"/>schon recht freuen wen̄ Sie meinen Wunsch<lb break="yes"/>erfüllen und Sie
+                auf Besuch zu mir käm̄en.<lb break="yes"/>Sagen Sie ihrer Schwester, ich
+                habe Ihnen geschrie <pb break="no" facs="#image_004"/> ben, Sie solle mich besuchen
+                oder wen̄ Sie mich<lb break="yes"/>nicht besuchen wollen, soll halt entweder
+                    ihre<lb break="yes"/>Schwester oder die An̄a, oder vom Vetter Bruder<lb break="yes"/>wen̄ er so viele Brüder hat oder seine Eltern<lb break="yes"/>oder vom Vater Bruder oder Schwester. Sagen Sie<lb break="yes"/>halt zum Herrn Vetter, er solle mir Freud<lb break="yes"/>machen daß einer von
+                seinen Eigenen mich<lb break="yes"/>besucht wen̄ aber schon Alle in
+                    Dillingen<lb break="yes"/>sind, dan̄ könt schon einer mich besuchen<lb break="yes"/>bis Ende August machen Sie mir die Freude<lb break="yes"/>Ich
+                mache Ihnen auch Freud durch gutes Betragen,<lb break="yes"/>Ich schimpfe und
+                fluche alle Morgen über die<lb break="yes"/>Herrn, weil ich Ihnen wieder einmal
+                    sehen<lb break="yes"/>will. <seg ana="#salute">Sagen Sie viele Grüße an Herrn Vetter<lb break="yes"/>An̄a und ihre Schwester</seg> und ich möcht halt<lb break="yes"/>im̄er Besuch von den Meinigen. <seg ana="#salute">Unter vielen<lb break="yes"/>Grüßen an Sie
+                lb. Mutter</seg> <seg ana="#signed">bin ich<lb break="yes"/><hi rendition="#c">Ihre</hi><lb break="yes"/><hi rendition="#r">dankbare Tochter<lb break="yes"/>Franziska
+                        <surname>H.</surname></hi></seg>
+</p>
+</body>
+</text>
+</TEI>

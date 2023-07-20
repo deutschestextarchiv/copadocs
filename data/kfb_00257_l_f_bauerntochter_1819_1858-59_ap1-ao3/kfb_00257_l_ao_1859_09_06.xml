@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb257l02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>257</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>L.</surname></persName>
+<date type="sent">06.09.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a.</persName>
+<settlement type="sent">Brüssel</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb257l">
+<persName>
+<forename>Therese</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1819"/>
+<death when="1859"/>
+<occupation>Köchin, Bauerntochter</occupation>
+<residence><geo decls="#WGS">47.8743013 10.5341514</geo>Friesenried, Obergünzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1858" to="1859">1858-1859</date></p>
+<p>Brieftypen: ap, ao</p>
+</state>
+<trait><p>Blödsinnigkeit, Schwermut (1858)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwester"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schwester der Patientin bittet den Direktor der Anstalt um genauere Informationen über den Zustand der Patientin. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb257l02a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb257l02b.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Werthester Herr Direktor!</hi></salute>
+</opener>
+<p>Auf die schreckliche Nachricht meines Bruders<lb break="yes"/>über das jetzige
+                Befinden meiner unglicklichen<lb break="yes"/>Schwester Therese, kan̄ ich
+                nicht ruhen als unbekan̄<lb break="yes"/>mir die Freihet zu nähmen, Ihnen
+                einige Zeilen<lb break="yes"/>zu übersenden, Und mich über <add place="above">den</add> jetzigen Zustand<lb break="yes"/>der Kranken zu erkundigen. Nun
+                bitte ich Sie<lb break="yes"/>mir Nachricht zu geben, ob Sie alle Erfordernisse<lb break="yes"/>haben zu ihrem jetzigen Zustande, zu ihrer<lb break="yes"/>Verpflegung, hat sie den gehörige Wäsche x x<lb break="yes"/>den̄ ich
+                möchte nicht haben, daß ihr was abgeht.<lb break="yes"/>Mein Bruder konte mir nicht
+                genug schildern<lb break="yes"/>das gräuliche Schiksal das sie seit kürzester Zeit<lb break="yes"/>getroffen und die erbärmliche Lage in welcher<lb break="yes"/>sie sich befindet. Sie kön̄en Ihnen wohl denken<lb break="yes"/>welchen
+                Eindruck diese Nachricht auf mein<lb break="yes"/>Gefühl machte, indem sie mir noch
+                im Monat<lb break="yes"/>März einen<del>e</del> Brief schickte und glaubte ich<lb break="yes"/>kom̄e sie <w>zu</w><w>besuchen</w>, hatte sie vielleicht<lb break="yes"/>eine
+                große Sehnsucht mich <add place="above">zu</add>sehen fragte sie <pb facs="#image_005"/>oder sprach sie oft von mir. Auch wurde mir<lb break="yes"/>sowohl von ihr so auch von meinem Bruder<lb break="yes"/>berichtet daß Sie Herr
+                Direktor mit größter<lb break="yes"/>Sorgfalt und Güte, die Arme Pflegen laßen,<lb break="yes"/>was <add place="above">mir</add> viel Trost brachte, Und wofür ich
+                Ihnen<lb break="yes"/>meinen verbindlichsten Dank abstatte.<lb break="yes"/>Dan
+                habe ich besondere Gründe, Sie dringend<lb break="yes"/>zu bitten, mir Nachricht
+                    <add place="above">zu</add>geben von dem jetzigen<lb break="yes"/>Zustande und
+                ob sie den lange kan̄ in einem<lb break="yes"/>solchen erbärmlichen
+                kläglichen Dasein ohne<lb break="yes"/>Veränderung bleiben. Und nun<del>d</del>
+                empfehle ich die<lb break="yes"/>Ärmste ferner Ihrem Schutze und Sorgfalt.<lb break="yes"/>Zu der Hoffnung daß <add place="above">Sie</add>mir als Schwester
+                baldige<lb break="yes"/>und genaue Nachricht schicken, nen̄e ich mich<lb break="yes"/>nebst vielen Empfelungen an Sie<lb break="yes"/><hi rendition="#c">Ihre</hi><lb break="yes"/><add>Brüssel den 6 September 1859</add>
+                Dankschuldige <seg ana="#signed">Maria <surname>L.</surname></seg></p>
+<p>Meine Adreße ist<lb break="yes"/><hi rendition="#i">M<hi rendition="#sup"><hi rendition="#u">elle</hi></hi> Marie
+                        </hi><surname><hi rendition="#i">L.</hi></surname><hi rendition="#i">, hez
+                    Madame </hi><lb break="yes"/><hi rendition="#i"> la Princehse Antoine
+                        </hi><surname><hi rendition="#i">d.</hi></surname><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i"> </hi><hi rendition="#r"><hi rendition="#i">à Bruxelles</hi></hi></p>
+</body>
+</text>
+</TEI>

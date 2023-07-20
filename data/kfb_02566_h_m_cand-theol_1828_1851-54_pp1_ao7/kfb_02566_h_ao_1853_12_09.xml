@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2566h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2566</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Kaspar <surname>H.</surname></persName>
+<date type="sent">09.12.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Reichenhall</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2566h">
+<persName>
+<forename>Nikolaus</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1828"/>
+<death cert="unknown"/>
+<occupation>cand. Theologie Uni München</occupation>
+<residence><geo decls="#WGS">47.7169589 12.8629459</geo>Reichenhall</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1851" to="1854">1851-54</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>"Schwermuth", [Verwirrtheit], [Manie] (1852)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="bruder2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Da der Patient bald aus der Anstalt entlassen werden soll, teilt der Schreiber der Direktion mit, 
+                    dass er es aus beruflichen Gründen erst im Januar schaffe, diesen abzuholen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2566h02.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Hochwohlgeboren<lb break="yes"/>Hochzuehrender Herr
+                            <hi rendition="#i">Doctor</hi>! </hi></salute>
+</opener>
+<p><space/> Aus Jhrer freundlichen Zuschrift vom 17ten Nov:<lb break="yes"/>vernehme ich freudig und dankbar die Nachricht<lb break="yes"/>daß mit der
+                Entlassung des Bruders Nikolaus der<lb break="yes"/>Versuch gemacht werden könne. </p><p><space/> Da ich aber vor Weihnachten wegen dringender<lb break="yes"/>Geschäfte unmöglich Zeit
+                habe diese Reise zu unter<lb break="no"/>nehmen, so werde ich dann, da ich ohnedieß
+                im Jänner<lb break="yes"/>zur Dult nach München kom̄e, während dieser Zeit
+                    da<lb break="no"/>hin kom̄en, mich von dem Befinden des Bruders Nikolaus<lb break="yes"/>überzeugen und ihn sodann mit nach Hause nehmen. </p><p><space/> Sollten aber Herr Doktor es für besser finden, ihn<lb break="yes"/>vor Weihnachten noch
+                zu entlassen, so bitte ich um Jhre<lb break="yes"/>gütige Nachricht und ich würde
+                dann den geistlichen Herrn<lb break="yes"/>Bruder beauftragen ihn abzuholen. </p><p><space/> Wiederholt Jhnen für die gütige Mittheilung dieser<lb break="yes"/>freudigen Kunde
+                dankend, bitte ich Sie mich bald<lb break="yes"/>wieder mit guten Nachrichten zu
+                erfreuen und <seg ana="#salute">ich<lb break="yes"/>empfehle mich Jhnen mit aller Hochachtung
+                ergebenst </seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Kaspar
+                            <surname>H.</surname></seg><lb break="yes"/>Holzwaarenverleger. </hi></p><p>Reichenhall den <hi rendition="#sub">9</hi> Dez. 1853.</p>
+</body>
+</text>
+</TEI>

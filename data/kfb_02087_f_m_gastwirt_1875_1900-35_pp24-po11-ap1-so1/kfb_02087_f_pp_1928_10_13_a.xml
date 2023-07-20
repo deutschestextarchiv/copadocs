@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2087f07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2087</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>F.</surname></persName>
+<date type="sent">13.10.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vetter: Xaver <surname>R.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2087f">
+<persName>
+<forename>Ludwig</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1935"/>
+<occupation>Gastwirt, Landwirt</occupation>
+<residence><geo decls="#WGS">47.6283377 9.9102676</geo>Heimenkirch, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Gastwirt</p>
+<p>Anstalt: <date from="1900" to="1935">1900-1935</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Manie (1930), Ideenflucht, Größenwahn (1900-35), Halluzination (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber erklärt, dass sein Aufenthalt in der Anstalt schon lange dauert, dass er nun aber wieder gesund ist.
+                    Sein ältester Sohn befindet sich wegen einer Blinddarmoperation im Krankenhaus. Daher bittet er den Vetter, den Sohn zu besuchen und von seinem Zustand zu berichten.
+                    Wenn das Sägewerk zu verkaufen ist, will er es erwerben, denn er hat die Möglichkeit, einen Kredit aufzunehmen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2087f07a.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="kfb2087f07b.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_018"/>
+<opener>
+<dateline><hi rendition="#i">Am 13.Oktober 1928.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Lieber Vetter!</hi></hi></salute>
+</opener>
+<p> Herrn <hi rendition="#i">Xaver <surname>R.</surname><lb break="yes"/>Sägebesitzer &amp; Landwirt<lb break="yes"/>Trogen b. Weiler<lb break="yes"/>Allgäu.</hi></p>
+<p><hi rendition="#i">Ludwig <surname>F.</surname><lb break="yes"/>z.Z. Heilanstalt
+                    Kaufbeuern.</hi><lb break="yes"/>Lange dauert mein<lb break="yes"/>unfreiwilliger Auf<lb break="no"/>enthalt dahier, aber<lb break="yes"/>nun bin ich wieder<lb break="yes"/>sehr
+                gut hergestellt. Von<lb break="yes"/>Zuhause habe ich Nachricht<pb facs="#image_019"/>erhalten, das der älteste <hi rendition="#i">Sohn Josef im
+                        Kottacher<lb break="yes"/>Krankenhaus</hi> sich befindet und wegen <seg ana="#med"><hi rendition="#i">Blind<lb break="no"/>darmoperation</hi>, jedenfalls längere
+                    Zeit<lb break="yes"/>dortselbst verweilen muß. Der Fall soll sehr<lb break="yes"/>schwierig sein, da derselbe schon eiterte und<lb break="yes"/>sehr verwachsen ist.</seg> <hi rendition="#i">Sei</hi> so gut besuche Ihn<lb break="yes"/>gelegentlich und schreibe mir, wie es demselben<lb break="yes"/>geht. Wen̄
+                das Sägewerk von <hi rendition="#i"><surname>R.</surname></hi>,
+                    <surname>S.</surname><lb break="yes"/>feil ist, hätte ich Absicht, es zu
+                erwerben, da mir<lb break="yes"/><hi rendition="#i">Comerzienrat <surname>W.</surname> &amp; Milchfabrik
+                        <surname>R.</surname></hi>, wohin<lb break="yes"/>ich schon im 26
+                Jahr Milch liefere <hi rendition="#i">Krediedieren</hi> nach<lb break="yes"/>Bedarf.
+                In der Gem. <hi rendition="#i">Scheffau</hi> hat mir der <hi rendition="#i"><surname>N.</surname></hi><lb break="yes"/>von Hagspiel gesagt
+                wären 1000 Festmeter Holz von einem<lb break="yes"/>zu kaufen, wäre also was zu
+                machen <seg ana="#salute"><hi rendition="#i">Frdl Gruß auch</hi><lb break="yes"/><hi rendition="#r">an <hi rendition="#i">Kinder &amp; <unclear>Tervant</unclear></hi></hi>
+<seg ana="#signed"><hi rendition="#i">Ludwig.</hi></seg></seg></p>
+</body>
+</text>
+</TEI>

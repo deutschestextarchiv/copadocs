@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1480g05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1480</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>G.</surname></persName>
+<date type="sent">04.01.1901</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Stadtmagistrat: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1480g">
+<persName>
+<forename>Karl</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1911"/>
+<occupation>Handlungskommissar</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1891" to="1911">1891-1911</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>[Epilepsie] (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gesuch Stelle als Schreiber beim kgl. Rentamt/Bezirksamt; 'leeres Herumgesitz' hat keinen Wert
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1480g05a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb1480g05b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee,</hi> 4. Januar 1901.</hi></dateline>
+<salute><hi rendition="#i">Geehrter Herr Stadtmagistrat!</hi></salute>
+</opener>
+<p><space/>Der ergebenst Unterzeichnete<lb break="yes"/>erlaubt sich
+                hiermit nochmals beim<lb break="yes"/>wohllöblichen Herrn Stadtmagistrat sein<lb break="yes"/>Gesuch um eine Stelle als Schreiber beim<lb break="yes"/>königlichen Rentamt, oder Bezirksamt ein<lb break="no"/>zureichen, eventuell um
+                wieder einen<lb break="yes"/>Ernährungszweig, oder zu irgendwelchen<lb break="yes"/>einer Beschäftigung in meiner Heimath<lb break="yes"/>zu erhalten; ich bin jetzt
+                bereits schon seit<lb break="yes"/>1892 hier in dieser Heilanstalt unterge<lb break="no"/>bracht und verheirathet, ich muß wieder<lb break="yes"/>Stellung
+                erhalten, und möchte Sie geehr<lb break="no"/>tester Herr Stadtmagistrat bitten, um
+                    mir<lb break="yes"/>behilflich zu sein, daß Sie mir baldigst Nach<lb break="no"/>richt zukommen laßen, ferner erlaube mir<lb break="yes"/>noch zu bemerken, daß
+                dieses leere herum<lb break="no"/>gesitz für mich von Jahr zu Jahr keinen<pb facs="#image_010"/>Werth hat, dieses Entgegenkommen dürfte ich<lb break="yes"/>daher vom Herrn wohllöblichen Herrn Direk<lb break="no"/>tor als keine Reellität
+                mehr ansehen, ich möchte<lb break="yes"/>doch wieder in meine frühere <hi rendition="#i">Carriere</hi> ein<lb break="no"/>treten, die Herrn Ärzte,
+                eventuell der Herr<lb break="yes"/>Oberarzt wird sich erlauben Ihnen weitere<lb break="yes"/>Auskunft über mich zu ertheilen.<lb break="yes"/><space/>Meine herzlichste Gratulation zum<lb break="yes"/>neuen Jahre erlaube mir noch beizufügen<lb break="yes"/>und wünsche Ihnen mit
+                Ihrer werthen<lb break="yes"/>Familie viel Gesundheit und langes Leben.<lb break="yes"/>Sollte ich von Ihnen nicht baldigst Nachricht<lb break="yes"/>bekommen, so wäre ich gezwungen mich<lb break="yes"/>an die königliche Regierung
+                zu wenden<lb break="yes"/>nach München.<lb break="yes"/><seg ana="#salute">Indem ich
+                    mein Schreiben schließe begrüßt<lb break="yes"/>Sie inzwischen<lb break="yes"/><hi rendition="#c">Mit aller Hochachtung</hi><lb break="yes"/><hi rendition="#r">ergebenst!</hi><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Karl <surname>G.</surname></hi></seg><lb break="yes"/><add>Patient in der Heil und<lb break="yes"/>Pflegeanstalt <hi rendition="#u">in <hi rendition="#i">Irsee</hi></hi><lb break="yes"/>bei <hi rendition="#i">Kaufbeuern</hi></add></seg></p>
+</body>
+</text>
+</TEI>

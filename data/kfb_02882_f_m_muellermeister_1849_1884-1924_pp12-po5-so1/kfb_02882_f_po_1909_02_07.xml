@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2882f05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2882</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>F.</surname></persName>
+<date type="sent">07.02.1909</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Genereal: Karl <surname>O.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2882f">
+<persName>
+<forename>Karl</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1849"/>
+<death when="1924"/>
+<occupation>Soldat Infantrie (ausgebildeter Gemeiner), Müllermeister</occupation>
+<residence><geo decls="#WGS">48.5733342 10.8365563</geo>Westendorf, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonom</p>
+<p>Anstalt: <date from="1884" to="1924">1884-1924</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistige Verrücktheit, Halluzinatorische Verwirrtheit, religiöser und Beschenkungswahn, fixe Ideen (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+<handNote medium="pencil" scope="minor" scribe="unbekannt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bericht über Karl Orff
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2882f05a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb2882f05b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><add hand="arzt">7.2 09</add></dateline>
+<salute/>
+</opener>
+<p>
+<surname>O.</surname> Karl von Könik l<lb break="yes"/>Peurischer General
+                    Entfanteri<lb break="yes"/>1875 bis 1890 Komanteur des<lb break="yes"/>2
+                ArmeKorps einner letzten<lb break="yes"/>Unter den Peurischen Herfürhren<lb break="yes"/>der Ren Namen unblößbar;<lb break="yes"/>2 mit den Großtaten Von
+                    1870<lb break="yes"/>Verbunten ist Am 10 <hi rendition="#i">Dezemper</hi><lb break="yes"/>1817 Zu Alzey Geborren<lb break="yes"/>Baba
+                    <surname>O.</surname> Karl<lb break="yes"/>Am 31 jannuar 1895 Ingolstat<lb break="yes"/>13 Regiment Herr Oberst<lb break="yes"/><surname>O.</surname> Karl; Reutschul<lb break="yes"/>K <unclear reason="damage">C</unclear>urß
+                    <surname>F.</surname> Leonhart, <pb facs="#image_010"/> Hir schöpfe ich
+                Gristin<lb break="yes"/>Blut, das ist vür<lb break="yes"/>Sieuntsibzigerleu<lb break="yes"/><hi rendition="#c">Viber Gut</hi></p>
+<p><add hand="unbekannt" place="margin">
+50 <space/> 10<lb break="yes"/>30 <space/> 40<lb break="yes"/>20 <space/> 50<lb break="yes"/>100</add>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1869j04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1869</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vormund: Hermann <surname>D.</surname></persName>
+<date type="sent">06.06.1914</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>Z.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1869j">
+<persName>
+<forename>Wilhelm</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1849"/>
+<death when="1915"/>
+<occupation>Handlungs-Commis</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Kaufmann</p>
+<p>Anstalt: <date from="1877" to="1915">1877-1915</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hyperaesthesie des Gemeingefühls, Hypochondrie" (1876)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vormund"/>
+<handNote medium="print" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Gibt an, dass der Patient im Falle seines Todes am protestantischen Friedhof in Augsburg
+                   beerdigt werden soll, und erkundigt sich nach seinem Befinden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1869j04.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r"><add hand="vordruck"><hi rendition="#i">AUGSBURG</hi>,</add> 6. <hi rendition="#i">Juni</hi>
+<add hand="vordruck">19</add>14</hi><lb break="yes"/><hi rendition="#c"><add hand="vordruck"><hi rendition="#i">TELEPHON</hi> 826 </add></hi></dateline>
+<salute>Herrn <hi rendition="#i">Oberarzt</hi>
+<hi rendition="#i">D</hi><hi rendition="#sup"><hi rendition="#i"><hi rendition="#u">r</hi></hi></hi>
+<hi rendition="#i">Zierl</hi>,<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Irsee</hi>! </hi></salute>
+</opener>
+<p><space/> Im Besitze Ihres werten<lb break="yes"/>Schreibens vom 5. <unclear>ds</unclear>. teile Ihnen<lb break="yes"/>mit, daß bei ev. Ableben
+                meines<lb break="yes"/>Mündels Herrn <hi rendition="#i">Wilhelm</hi>
+<surname><hi rendition="#i">J.</hi></surname> die<lb break="yes"/>Leiche nach
+                Augsburg prot. Fried<lb break="no"/>hof überführt wird.</p><p><space/> Ich bitte Sie, mir frdl.<lb break="yes"/>vom Befinden des Patienten<lb break="yes"/>Nachricht zukom̄en zu<lb break="yes"/>lassen und <seg ana="#salute">begrüße Sie<lb break="yes"/><hi rendition="#r">Hochachtungsvoll<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">H</hi>.
+                                <surname><hi rendition="#i">D.</hi></surname></seg>.</hi></p>
+</body>
+</text>
+</TEI>

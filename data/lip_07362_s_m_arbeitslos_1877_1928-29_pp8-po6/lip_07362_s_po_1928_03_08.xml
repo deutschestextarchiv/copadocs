@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7362s13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7362 (K. 350)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>S.</surname></persName>
+<date type="sent">08.03.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sanitätsrat: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Eickelborn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip7362">
+<persName>
+<forename>Karl</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1877-10-10"/>
+<death cert="unknown"/>
+<occupation>arbeitslos</occupation>
+<residence><geo decls="#WGS">51.521581 6.929204</geo>Geburtsort: Seeligenstadt; Wohnort: Bottrop</residence>
+<faith>Dissident</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Zimmermann; Mutter: n.a.</p>
+<p>Anstalt: <date from="1928-07-02" to="1929-06-02">02.07.1928-02.06.1929</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Psychopathie, Alkoholismus (1928)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um eine Anstellung in seinem Beruf und freien Ausgang, da er sich nachweisbar in anderern Anstalten mit diesen Auflagen bewährt hat. Er hat mit seiner Frau vereinbart, bis Mai in der Anstalt zu bleiben. Durch die neuen familiären Ereignisse möchte er aber nach Hause und bittet den Rat, sich dafür auszusprechen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7362s13a.jpg" xml:id="image_032"/>
+<graphic mimeType="image/jpg" url="lip7362s13b.jpg" xml:id="image_033"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_032"/>
+<opener>
+<dateline><hi rendition="#r">Eickelborn 8.3.28.</hi></dateline>
+<salute><hi rendition="#c">Herr Sanitäts-Rath!</hi></salute>
+</opener>
+<p>Da es mir bißher unmöchlich war<lb break="yes"/>mich mit Ihnen aussprechen zu können<lb break="yes"/>will ich das brieflich thun. Ich habe<lb break="yes"/>schon
+                zweimal bei Ihnen nachgesucht<lb break="yes"/>um in meiner Branche beschäftigt zu<lb break="yes"/>werden, aber mit keinem Erfolg. In<lb break="yes"/>der
+                Kollonne gefällt es mir ja ganz<lb break="yes"/>gut, aber die Arbeit ist
+                geistestötend.<lb break="yes"/>Ferner bitte ich um beschränkten freien<lb break="yes"/>Ausgang, und da ich die Entwöhnungskur<lb break="yes"/>freiwillich
+                hier durchmache, kann doch<lb break="yes"/>Ihrerseitz kein Bedenken vorliegen.<lb break="yes"/>Aus den Krankenackten geht doch hervor<lb break="yes"/>daß diese
+                Begünstichung <add place="above">ich</add> auch in andren<lb break="yes"/>Anstalten
+                hatte und mich dabei in jeder<lb break="yes"/>Weise koreckt und anständich benommen<lb break="yes"/>habe. <pb facs="#image_033"/>Ich hatte mit meiner Frau
+                vereinbart<lb break="yes"/>daß ich biß ausgangs Mai <w>hier</w><w>bleiben</w><lb break="yes"/>wollte, auch darüber möchte ich gern<lb break="yes"/>einmal Ihre
+                werthe Ansicht hören.<lb break="yes"/>Es haben Sich in meiner Familie Sachen<lb break="yes"/>entwickelt, die ein längeres verweilen<lb break="yes"/>in der
+                Anstallt nicht rechtfertichen,<lb break="yes"/>und ich habe gute Gründe zu glauben<lb break="yes"/>daß das <w>Gesundheits Amt</w> Bottrop<lb break="yes"/>meiner
+                Entlassung im Falle <del>von</del> wann<lb break="yes"/>hier keine Einwendungen
+                erhebt nichts<lb break="yes"/>in den Weg legen wird. Ich bitte Sie<lb break="yes"/>daher höflichst mir in dießem Punkten<lb break="yes"/>eine kutze Aussprechen
+                gewähren<lb break="yes"/>zu wollen.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll<lb break="yes"/>zeichnet</seg>
+<seg ana="#signed"><surname><hi rendition="#i">S.</hi></surname></seg><hi rendition="#i">.</hi></hi><hi rendition="#i"> </hi></p>
+</body>
+</text>
+</TEI>

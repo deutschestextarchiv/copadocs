@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb425k02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>425</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Alois <surname>K.</surname></persName>
+<date type="sent">01.10.1860</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern und Geschwister: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb425k">
+<persName>
+<forename>Alois</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1837"/>
+<death cert="unknown"/>
+<occupation>Bäckermeisterssohn</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bäckermeister</p>
+<p>Anstalt: <date from="1858" to="1859">1858-59</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Geistesstörung, Geistesschwäche, Onanie, [Halluzination] (1858-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    unverständlich, Insider
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb425k02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb425k02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Freitag den 1<hi rendition="#sup">ten</hi> Oktober 1860.</hi></dateline>
+<salute><hi rendition="#c">Werthe Elt. und G. sch. t.</hi></salute>
+</opener>
+<p>
+Daß lange Schweigen von meinen Befinden<lb break="yes"/>wird euch ihn gewißen <del>en</del> finanzielen<lb break="yes"/>Hinsichten ihn Betrübniße stürzen.<lb break="yes"/>Unsere Ansichten auf einstmalige An<lb break="no"/>sichtigmachung<del>en</del> währe von verschiedenen<lb break="yes"/>Seiten durch gewiße P. welche sich<lb break="yes"/>durch zu freundschaftliches Benehmen auf<lb break="yes"/>jeden Fälle unterdrükt oder auch ganz<lb break="yes"/>beseitiget werden. Von gewißen<lb break="yes"/>hatte ich niemals etwas in Sin̄en<lb break="yes"/>gehabt nur währe zur Wünschen ge<lb break="no"/>wesen seit einen <unclear>zehmnotblchichen</unclear> Auf<lb break="no"/>enthalte ihn einer bewährten Z. Strafanst<lb break="yes"/>ein Besuch von engagirten F. und Sch.<lb break="yes"/>Nachrichten v. X. hatte ich keine ge<lb break="no"/>habt. Aufgebrochene Briefe hatte ich<lb break="yes"/>erhalten aber nichts von f. Erwartung<lb break="yes"/>darum vernomen.
+
+<pb facs="#image_004"/>
+Von weltberühnten Meistern ist<lb break="yes"/>nicht zu dencken aber doch berühmt<lb break="yes"/>für sich enorm da ich sich ohne<lb break="yes"/>Siegel erhielt. Ein weiteres feige<lb break="yes"/>ales Benehmen wird sich auf ein<lb break="no"/>zelne beschränken welche zu ver<lb break="no"/>wegen waren für unsere Ver<lb break="yes"/>söhnlichkeiten. Einen anderen<lb break="yes"/>hoffentlich geschrieben in Bälde<lb break="yes"/>erwartend bin ich ein auch<lb break="yes"/>tauglicher Schgl<lb break="yes"/><seg ana="#salute">Ich schließe mit wohlwollender<lb break="yes"/>warnender Meinung auch für<lb break="yes"/>andere dießes Schreiben und<lb break="yes"/>bin ein g. w. H. A.</seg>
+</p>
+</body>
+</text>
+</TEI>

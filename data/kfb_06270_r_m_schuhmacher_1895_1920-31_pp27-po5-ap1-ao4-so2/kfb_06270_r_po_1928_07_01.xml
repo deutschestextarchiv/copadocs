@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb6270r22" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Stephanie Kamm</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>6270</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>R.</surname></persName>
+<date type="sent">01.07.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb6270r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1895"/>
+<death cert="unknown"/>
+<occupation>Schuhmacher</occupation>
+<residence><geo decls="#WGS">48.0048016 10.4324403</geo>Erisried, Mindelheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schuhmacher</p>
+<p>Anstalt: <date from="1920" to="1931">1920-31</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Schizophrenie (1934), vorl. Diagn. Dementia praecox (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Klage über Länge des Anstaltsaufenthaltes, Forderung der Entlassung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb6270r22a.jpg" xml:id="image_059"/>
+<graphic mimeType="image/jpg" url="kfb6270r22b.jpg" xml:id="image_060"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_059"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren, den 1.VII.28.</hi></dateline>
+<salute><hi rendition="#c">Geherter <hi rendition="#i">Herr</hi> Bürgemeister!</hi></salute>
+</opener>
+<p><space/> Nun muß ich Euch auch einmal schreiben.<lb break="yes"/>Ich habe mich vor
+                der Ernte nicht recht<lb break="yes"/>gefreut, als Sie mich da nicht hohlten.<lb break="yes"/>Gehöre halt auf Gemeinde jezt, dies Ihr<lb break="yes"/>gewollt
+                habt! Vom Millitär bekom<lb break="yes"/>ich gleich gar nichts, gab vorigen Mon.<lb break="yes"/>wieder ein.</p><p>Ich kön̄te doch zu Hause
+                schaffen, wan̄<lb break="yes"/>ich hier arbeite. Sperrt mich doch nicht<lb break="yes"/>solange da herein. Bin halt mit dem<lb break="yes"/>innern
+                Krautgarten und Wolfle zufrieden<lb break="yes"/>dann, nicht, was kann ich bessres
+                    machen<lb break="yes"/>Mag grad nicht hier sein, da kann man<lb break="yes"/>wieder herkom̄en. Das meiste Heu wird<lb break="yes"/>zu Haus sein.</p><p><seg ana="#salute">Gruß</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i"><surname>R.</surname></hi></seg></p>
+<pb facs="#image_060"/>
+<p>Können meine Eltern dann mich<lb break="yes"/>heimnehmen?</p>
+</body>
+</text>
+</TEI>

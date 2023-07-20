@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun1988k01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>1988 (K. 170)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>K.</surname></persName>
+<date type="sent">06.07.1900</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Krankenschwester: Elecktra</persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun1988k">
+<persName>
+<forename>Heinrich</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1846-10-13"/>
+<death cert="unknown"/>
+<occupation>Arbeiter</occupation>
+<residence><geo decls="#WGS">51.920586 7.727183</geo>Geburtsort: Wolbeck; Wohnort: Wolbeck</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Weber, Mutter: Arbeiterin</p>
+<p>Anstalt: <date from="1900-06-28" to="1905-05-05">28.06.1900-05.05.1905</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+<handNote medium="pencil_blue" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber berichtet, dass er gut in der Anstalt angekommen ist.
+                    Er hofft auf ein baldiges Wiedersehen.
+                    Er bestellt Grüße an verschiedene Personen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun1988k01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="mun1988k01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="mun1988k01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><add hand="vordruck">Provinzial=Anstalt zu Münster i. W., den</add>
+                        6<hi rendition="#sup"><hi rendition="#i"><hi rendition="#u">ten</hi></hi></hi>
+<hi rendition="#i">Juli</hi> 1900</dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Liebe Schwester
+                        Elecktra</hi>!</hi></salute>
+</opener>
+<p><add hand="hand3">E <hi rendition="#sup">9</hi>/<hi rendition="#sub">7</hi> .
+                        <hi rendition="#sup">00</hi> <hi rendition="#i"><hi rendition="#u" style="hand4">ad ac</hi>ta</hi> Heinrich <surname><hi rendition="#i">K.</hi></surname><lb break="yes"/><hi rendition="#c">G. </hi></add></p>
+<p><hi rendition="#i">Ich bin am 28<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Juni glücklich hier<lb break="yes"/>in Marienthal angekommen. Ich bin vom<lb break="yes"/>Herrn Dierecktor auf dass freundlichste<lb break="yes"/>empfangen worden. Es geht mir recht gut<lb break="yes"/>blos ich habe eine <seg ana="#med">Entzündung in dass rechte<lb break="yes"/>Beinknie</seg>, es ist aber ungefähr
+                    wieder besser.<lb break="yes"/>Wier hoffen uns bald
+                    wieder zu sehen, Viele<lb break="yes"/>Grüsse an meine
+                    Mutter, an die Oberin, an<lb break="yes"/>Alfonso, und
+                    an die übrigen Schwestern. an den<lb break="yes"/>Herrn
+                    Pastor <surname>H.</surname>, an den Herrn Vikar</hi>
+<pb facs="#image_002"/><hi rendition="#i">an den Herrn Amtman <surname>M.</surname> und Frau<lb break="yes"/>an den Herrn <surname>R.</surname>, an Fina und<lb break="yes"/>Anna. <seg ana="#salute">Dieses shreibt ergebenst</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Heinrich
+                                <surname>K.</surname></seg><lb break="yes"/>in<lb break="yes"/>Marienthahl bei Münster</hi></hi>
+</p>
+<pb facs="#image_003"/>
+<p>An die Schwester Elecktra<lb break="yes"/>Krankenhaus Wolbeck </p>
+</body>
+</text>
+</TEI>

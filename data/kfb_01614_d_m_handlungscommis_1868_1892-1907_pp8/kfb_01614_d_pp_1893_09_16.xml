@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1614d08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1614</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>D.</surname></persName>
+<date type="sent">16.09.1893</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1614d">
+<persName>
+<forename>Karl</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1868"/>
+<death when="1907"/>
+<occupation>Handlungscommis</occupation>
+<residence><geo decls="#WGS">48.6263543 10.745509</geo>Buttenwiesen, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Mühlbesitzerseheleute</p>
+<p>Anstalt: <date from="1892" to="1907">1892-1907</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Religiöse Schwärmerei (1892), Halluzinationen (1904)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    wirft seinem Vater vor, dass diesem sein Geld mehr wert sei als seine Söhne
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1614d08a.jpg" xml:id="image_024"/>
+<graphic mimeType="image/jpg" url="kfb1614d08b.jpg" xml:id="image_025"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren,</hi> 16. Septbr. 1893.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Lieber Vater!</hi></hi></salute>
+</opener>
+<p><space/> Seit über 2 Monaten<lb break="yes"/>hältst Du mich eingesperrt<lb break="yes"/>und ebenso lange einer<lb break="yes"/>Mittheilung nicht werth.<lb break="yes"/><space/> Liegt Dir denn Dein<lb break="yes"/>Hab und Gut mehr
+                am<lb break="yes"/>Herzen als mein Wohl?<lb break="yes"/><space/> Wenn das ist,
+                dann<lb break="yes"/>thust Du gut, deine sämt<lb break="no"/>lichen Söhne für <hi rendition="#i">ca M</hi> 2500.-<lb break="yes"/>in einer Irrenanstalt unter <pb break="no" facs="#image_025"/>zubringen, dann hast Du<lb break="yes"/>nie
+                nothwendig, einem<lb break="yes"/>ein Vermögen in die Hand<lb break="yes"/>zu
+                geben, damit er sich<lb break="yes"/>selbständig machen kann.<lb break="yes"/><space/> Wie du es überhaupt<lb break="yes"/>einmal halten willst mit<lb break="yes"/>der Vertheilung Deines<lb break="yes"/>Vermögens von etlichen 1000<lb break="yes"/><hi rendition="#i">Mark</hi> nim̄st du schon<lb break="yes"/>seit 20, 25 Jahren mir<lb break="yes"/>seine Stellung.<lb break="yes"/><space/> Ewig, ewig schade<lb break="yes"/>daß du nichts mit<lb break="yes"/>hinüber nehmen kannst.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Meine
+                    Grüße.<lb break="yes"/>dein dich liebender Sohn. </seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Carl</hi></seg>.</hi></p>
+<p>Adresse Herrn <hi rendition="#i">J. Distel,<lb break="yes"/>Buttenwiesen.</hi></p>
+</body>
+</text>
+</TEI>

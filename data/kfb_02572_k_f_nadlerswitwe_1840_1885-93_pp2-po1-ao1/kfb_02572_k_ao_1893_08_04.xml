@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2572k04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2572</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Fanny <surname>W.</surname></persName>
+<date type="sent">04.08.1893</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Kempten</settlement>
+<settlement type="received">Irsee</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2572k">
+<persName>
+<forename>Therese</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1840"/>
+<death cert="unknown"/>
+<occupation>Nadlerswitwe</occupation>
+<residence><geo decls="#WGS">47.9867696 10.181319</geo>Memmingen, geb. Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a. </p>
+<p>Anstalt: <date from="1885" to="1893">1885-1893 </date></p>
+<p>Brieftypen: pp, po, ao </p>
+</state>
+<trait><p>"Zustande maniecelischer Aufregung"(1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Verfasserin des Briefes erkundigt sich nach dem Befinden ihrer Schwester und berichtet über den Zustand des Sohnes.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2572k04a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb2572k04b.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="kfb2572k04c.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><hi rendition="#r">Kempten d. 4 August</hi></dateline>
+<salute>Euer Wohlgeboren.</salute>
+</opener>
+<p><hi rendition="#c">ersuche freundlichst</hi><lb break="yes"/>mir Nachricht zu geben,<lb break="yes"/>über das Befinden, meiner<lb break="yes"/>guten Schwester, Frau Therese<lb break="yes"/><surname>K.</surname> aus Mem̄ingen;<lb break="yes"/>ihr Sohn Karl
+                ist in Zürich,<lb break="yes"/>hat sich auch erkundigt nach<lb break="yes"/>seinr
+                Mutter.</p>
+<pb facs="#image_013"/>
+<p>es geht mit seinr<lb break="yes"/>Gesundheit wieder gut<lb break="yes"/>hoffe
+                auch daß es sich<lb break="yes"/>wieder, das Leiden mein<unclear>r</unclear><lb break="yes"/>Schwester gebessert hat<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvollst</seg><lb break="yes"/><seg ana="#signed">Fanny <surname>W.</surname></seg><lb break="yes"/></hi><hi rendition="#r">Fürstenstraße <hi rendition="#i">N</hi>37</hi></p>
+<pb facs="#image_014"/>
+<p><add hand="arzt"><hi rendition="#i">Ungebeße</hi><unclear><hi rendition="#i">r</hi></unclear><hi rendition="#i">t, aufgeregt, schwätzt, </hi><lb break="yes"/><hi rendition="#i">singt, lacht, schreit, zankt, schmückt
+                        </hi><lb break="yes"/><hi rendition="#i">sich phantastisch, </hi><unclear><hi rendition="#i">sammelt</hi></unclear><hi rendition="#i"> Abfälle, </hi><lb break="yes"/><hi rendition="#i">Nachts unruhig u. unrein</hi>. <hi rendition="#i">dieser</hi><lb break="yes"/><hi rendition="#i">Zustand</hi>
+<hi rendition="#i">wird</hi>
+<hi rendition="#i">wahrsch. noch einige </hi><lb break="yes"/><hi rendition="#i">Monate</hi> d<hi rendition="#i">auern</hi>.<lb break="yes"/><space/>5.
+                    VIII. 93. <hi rendition="#r"><seg ana="#signed"><unclear><hi rendition="#i">DZierl</hi></unclear></seg></hi></add></p>
+</body>
+</text>
+</TEI>

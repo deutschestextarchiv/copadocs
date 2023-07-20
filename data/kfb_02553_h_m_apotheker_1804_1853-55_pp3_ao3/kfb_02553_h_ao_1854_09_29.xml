@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2553h03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2553</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Tochter: G(retchen) von <surname>H.</surname></persName>
+<date type="sent">29.09.1854</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Würzburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2553h">
+<persName>
+<forename>Franz von</forename><surname>H.</surname>
+</persName>
+<birth when="1804"/>
+<death cert="unknown"/>
+<occupation>Apotheker</occupation>
+<residence><geo decls="#WGS">49.79245 9.932966</geo>Würzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1853" to="1855">1853-55</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Hypochondrische Verstimmung, Fixe Ideen (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="tochter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Familie ist besorgt um das geistige Befinden des Patienten und erbitten schriftliche 
+                    Nachricht von demselben.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2553h03a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb2553h03b.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r">Würzburg <unclear/> 29<hi rendition="#sup">ten</hi>
+<hi rendition="#i">September</hi> 1854.</hi></dateline>
+<salute><hi rendition="#c">Hochgeehrter Herr Direktor!</hi></salute>
+</opener>
+<p>Jhr letzter gütiger Bericht über den Gesund<lb break="no"/>heitszustand unseres
+                guten Vater's war von<lb break="yes"/>weniger erfreulicher Art. Es bangte uns, zur<lb break="yes"/>Zeit der großen Hitze, stets vor nachtheiligen<lb break="yes"/>Folgen derselben, für ihn. Der Schluß Jhres werthen<lb break="yes"/>Schreibens
+                versicherte uns zwar, daß er nun wieder<lb break="yes"/>frisch u
+                    munter sei, allein sein langes Stillschweigen<lb break="yes"/>besonders
+                auf die Nachricht, <del>auf</del> über meines Bruders<lb break="yes"/>Examenresultat, erregt die Besorgniß in uns<lb break="yes"/>seine üble Laune
+                mögte wiedergekehrt sein,<lb break="yes"/>welche ihren Grund in Unwohlsein finden
+                mögte;<lb break="yes"/>Haben Sie die Güte <del>J</del>ihm beifolgenden Brief zu
+                    über<lb break="no"/>geben, und ihm unsere Sehnsucht nach einigen Zeilen <pb facs="#image_005"/>von seiner Hand, vorzutragen. Wir ent<lb break="no"/>behrten
+                dies schon gar zu lange. </p><p>Wegen den Kostenbetrag für den Wärter unseres<lb break="yes"/>Vaters bitten wir bei Gelegenheit
+                eines Schreibens<lb break="yes"/>ob wir weitere Geldsendungen
+                        <del><unclear>s</unclear></del>erfolgen lassen<lb break="yes"/>sollen.
+                <seg ana="#salute">Unter höflichen Em<del>p</del>helen an Sie<lb break="yes"/>und Ihre werthe Familie<lb break="yes"/>Hochachtungsvoll<lb break="yes"/><hi rendition="#c">Ihre</hi><lb break="yes"/><hi rendition="#r">ergebenste</hi></seg><hi rendition="#r"><seg ana="#signed"> G v <surname>H.</surname></seg></hi></p><p><hi rendition="#i">N.B</hi>. Beifolgendes Quartalgeld, ersuchen wir Sie<lb break="yes"/>höflichst, der kngl Verwaltung übermachen zu wollen.</p><p><add hand="arzt">d. 8 Octbr 54. zum Brief<lb break="yes"/><del>Anliegend erhalten Sie einen
+                        Brief des vom<lb break="yes"/>Vaters.</del> Seine Stim̄g ist wieder
+                    ganz<lb break="yes"/>heiter, den̄ die einzige Stelle im Brief<lb break="yes"/>welche man etwa <del>auf</del> anders deuten kön̄te <add place="below">Sie </add><lb break="yes"/>ist mehr in humoristischer als
+                        verdrießlich<unclear>er</unclear> Laune.<lb break="yes"/>geschrieben. Die
+                    Berechng über die Kosten<lb break="yes"/>des Privatwärters werden Sie drh d
+                        Ver<lb break="no"/>waltg empfangen.</add></p>
+</body>
+</text>
+</TEI>

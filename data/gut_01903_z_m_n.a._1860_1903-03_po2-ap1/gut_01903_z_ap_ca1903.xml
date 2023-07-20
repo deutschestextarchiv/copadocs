@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="gut1903z03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 661: Gütersloh</collection>
+<idno>1903 (K. 780)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Fany <surname>Z.</surname></persName>
+<date type="sent">ca1903</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ferdinand <surname>S.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="gut1903z">
+<persName>
+<forename>Franz</forename>
+<surname>Z.</surname>
+</persName>
+<birth when="1860-03-03"/>
+<death cert="unknown"/>
+<occupation>n.a.</occupation>
+<residence><geo decls="#WGS">51.1173377 8.1655905</geo>Geburtsort: Saalhausen; Wohnort: n.a.</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1903-01-26" to="1903-03-21">26.01.1903-21.03.1903</date></p>
+<p>Brieftypen: po, ap</p>
+</state>
+<trait><p>Trauma. Lavierte Epilepsie. Paralyse (1903)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="frau"/>
+<handNote medium="ink" scope="minor" scribe="sohn"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    schickt ihrem Mann Wäsche und spricht ihm zu, ruhig und geduldig zu sein
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="gut1903z03a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="gut1903z03b.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="gut1903z03c.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Mein <w>gelie bter</w> <hi rendition="#i">Ferdinand</hi>!</hi></salute>
+</opener>
+<p><space/> Sende Dir die gewünschte<lb break="yes"/>Wäsche und hoffe dich den Um<lb break="no"/>ständen angemessen wohl.<lb break="yes"/>Ich erwarte bald Nachricht<lb break="yes"/>von Dir und bitte Dich mir<lb break="yes"/>einiges über dein
+                Befinden<lb break="yes"/>zu schreiben. Sei ruhig<lb break="yes"/>und habe Geduld,
+                so wie<lb break="yes"/>ich sie habe, der liebe Gott<lb break="yes"/>verläßt uns
+                nicht. Er wird<lb break="yes"/>uns Heiden die nöthige<lb break="yes"/>Kraft <w>v erleihen</w> die<lb break="yes"/>kurze Trennung zu
+                bestehen.<lb break="yes"/>Lebe in dem Gedanken,<lb break="yes"/>daß du für uns
+                gesund<lb break="yes"/>werden <hi rendition="#u">mußt</hi>.<lb break="yes"/>Unser Goldjunge hat rote<lb break="yes"/>Backen und tummelt<lb break="yes"/>sich
+                viel im Freien herum. <pb facs="#image_009"/><hi rendition="#u">Alle Alle</hi>
+                sind wohl. Bei<lb break="yes"/>uns geht es gut.<lb break="yes"/><seg ana="#salute">Sei herzlichst gegrüst und<lb break="yes"/><space/> geküßt</seg>
+<seg ana="#signed">von deiner<lb break="yes"/><space/> treuen<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Fanny</hi>.</hi></seg></p>
+<p><add hand="sohn">Herzlichen Gruß sendet Dir<lb break="yes"/>Dein dich liebender Sohn<lb break="yes"/><hi rendition="#r">Leopold.</hi></add>
+<pb facs="#image_010"/><hi rendition="#i">Herrn</hi><lb break="yes"/><hi rendition="#i">Ferdinand </hi><surname><hi rendition="#i">S.</hi></surname><hi rendition="#i"> </hi></p>
+</body>
+</text>
+</TEI>

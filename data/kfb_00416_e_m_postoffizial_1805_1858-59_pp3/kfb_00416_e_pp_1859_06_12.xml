@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb416e03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>416</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Moritz von <surname>E.</surname></persName>
+<date type="sent">12.06.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb416e">
+<persName>
+<forename>Moritz von</forename><surname>E.</surname>
+</persName>
+<birth when="1805"/>
+<death cert="unknown"/>
+<occupation>Königl. Postoffizial beim Oberpostamt Augsburg (pensioniert)</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1858" to="1859">1858-1859</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschung</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink_dark" scope="minor" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber kündigt an, Geld zu schicken.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb416e03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb416e03b.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb416e03c.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline><hi rendition="#r"><del><hi rendition="#i">Aug</hi></del>
+<hi rendition="#i">Irsee</hi> d. 12<hi rendition="#sup"><hi rendition="#u">t</hi></hi>
+<hi rendition="#i">Juni</hi> 1859. </hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder! </hi></salute>
+</opener>
+<p><add hand="hand2" place="top"><hi rendition="#c">− 12 − </hi></add>
+</p>
+<p>Leider verzögert sich jedoch ohne mein Verschulden<lb break="yes"/>die Erhebung
+                meines Gehaltes, die Quittung <hi rendition="#i">pro</hi><lb break="yes"/>Monat <hi rendition="#i">Mai</hi> ist am 10<hi rendition="#sup">t</hi> d.S abgegangen <add place="above">an die Cassa</add> u. wird<lb break="yes"/>das Geld in einigen Tagen hier eintreffen u. sodann<lb break="yes"/>an die Mutter <hi rendition="#u">zugesendt</hi>
+<del>an die Mutter</del> geschickt<lb break="yes"/>werden. Ich denke also, daß ihr
+                bis zum Donnerstag<lb break="yes"/>das Geld <del>habt</del> bekom̄t. Ich
+                stehe mit meinem Gelde<lb break="yes"/>sehr gut, bis Ende dieses Monats habe ich in
+                    <hi rendition="#i">Augsburg</hi><lb break="yes"/>180 fl Emolumente gut gemacht, von denen ich<lb break="yes"/>noch
+                keinen Kreutzer erhoben habe. Ich bezahle<lb break="yes"/>euere Sachen alle. In
+                acht Tagen bin ich wahr<pb break="no" facs="#image_007"/>scheinlich schon bei euch.
+                Solltet ihr, wie ich glaube<lb break="yes"/>in Verlegenheit sein, so erhebe die <hi rendition="#u">beigelegte</hi><lb break="yes"/><w>Monats Quittung</w>
+<hi rendition="#i">pro</hi> Monat <hi rendition="#i">Juni</hi>, ./. ich soll<lb break="yes"/>sie erst gegen Ende des Monats erheben ./.<lb break="yes"/>jedoch
+                zahlt dir der Cassier <surname>S.</surname> gewiß<lb break="yes"/>dieselb
+                aus, <del>ode</del>r erhebt sonst Geld. −<lb break="yes"/>Ich soll nämlich
+                    <hi rendition="#u">wegen </hi><hi rendition="#u">Ungewiß</hi>heit meinen<lb break="yes"/>betreffenden Gehalt
+                im̄er Ende des Monats<lb break="yes"/>erheben. − Aus allem
+                    <w>wirst</w><w>du</w><w>sehen</w>, daß<lb break="yes"/>ich Geld für euch habe.
+                Auch der Kassier <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/>zahlt dir die beigelegt Quittung aus. −<lb break="yes"/>Ich
+                erwarte täglich meine Einberufung.<lb break="yes"/>Herzliche Grüße an die liebe
+                Mutter. Ich<lb break="yes"/>freue mich euch bald zu sehen. − </p>
+<pb facs="#image_008"/>
+<p> Ich hätte nach Nürnberg kom̄en sollen, habe<lb break="yes"/>jedoch <hi rendition="#u">aus guten Gründ</hi>en gebeten, mich anders<lb break="no"/>wo
+                zu verwenden. Wenn du das Geld<lb break="yes"/>bekom̄st, so zahle Alles.
+                − <unclear>Im</unclear> schlim̄sten<lb break="yes"/>Falle <del>hab</del> bekom̄t
+                ihr von hier etwas bis<lb break="yes"/>zum Donnerstag (<hi rendition="#u">pro</hi>) <add place="above">vom</add> Monat <hi rendition="#i">Mai</hi> das<lb break="yes"/>Geld; daraus kannst du ersehen, wie gut<lb break="yes"/>ich stehe
+                und daß <add place="above">ich</add> in diesem Monate <hi rendition="#u">Alles</hi><lb break="yes"/>befriedige. − Ich brauche für hier wenig<lb break="yes"/>Geld mehr − <seg ana="#salute">Es grüßt dich<lb break="yes"/><hi rendition="#r">dein<lb break="yes"/>treuer Bruder </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Mor</hi>itz
+                    </seg></hi></p>
+<p><add place="margin"><handShift medium="ink_dark" scribe="patient"/><space/> 13. Es
+                    wird nicht der ganze<lb break="yes"/><w>Mai-Monatsgehalt<unclear>s</unclear></w><w>sondern</w> nur<lb break="yes"/><space/> ein Theil desselben von hier aus<lb break="yes"/><space/> geschickt werden können. </add></p>
+<p><handShift medium="ink" scribe="patient"/><hi rendition="#i">N</hi>.<hi rendition="#i">B</hi>. Ich habe das Recht meinen<lb break="yes"/>Gehalt im̄er am 1<hi rendition="#sup"><hi rendition="#u">t</hi></hi> d.M. zu erheben u. kann<lb break="yes"/>mir dasselbe nicht vorenthalten werden. −<lb break="yes"/>Ihr bekom̄t also auch von hier aus bis ungefähr<lb break="yes"/>Mitte der
+                Woche Geld. − Schreibe mir sogleich,<lb break="yes"/>ob du das Geld
+                bekom̄en hast. −</p>
+</body>
+</text>
+</TEI>

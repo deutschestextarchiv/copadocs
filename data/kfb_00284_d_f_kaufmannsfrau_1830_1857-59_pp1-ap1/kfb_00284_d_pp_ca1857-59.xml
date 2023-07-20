@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb284d01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>284</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mathilde <surname>D.</surname></persName>
+<date type="sent">ca1857-59</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sebastian <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb284d">
+<persName>
+<forename>Mathilde</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1830"/>
+<death cert="unknown"/>
+<occupation>Kaufmannsfrau</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1857" to="1859">1857-59</date></p>
+<p>Brieftypen: pp, ap</p>
+</state>
+<trait><p>Theilnamslosigkeit, hypochondrischer Zustand</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin erzählt von ihrem Alltag in der Anstalt. Sie schätzt sich selbst als wieder genesen ein und 
+                    meint, abgeholt werden zu können. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb284d01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb284d01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><del>Jch befinde mich wohl recht wohl hier und hoffe Jhr<lb break="yes"/>werdet
+                    Euch auch Alle recht wohl Gott lob recht </del>
+</p><p>Jch hoffe Jhr Alle ich meine meine Eltern<lb break="yes"/>&amp; Deine Eltern &amp;
+                    Schwester<del>n</del> Bässchen &amp; meine<lb break="yes"/>zwei lieben Söhnlein
+                &amp; besonders <del>mein</del>
+<del>l</del>Du/<lb break="yes"/>mein lieber Sebastian <del>daß</del> gesund
+                    <del>h</del> seyd<lb break="yes"/><del>J</del>ich bin so zimlich hergestelt und
+                könnte wider<lb break="yes"/>zu Euch reisen. </p><p><w>Zu erst</w> war ich bei Atelchen Damen <del>da k<unclear>onn</unclear></del>
+<add place="below">und sitz ich</add><lb break="yes"/>von Morgen bis Nacht bei Alt Frauen &amp; jung<lb break="yes"/>Jungfrau &amp; Näherin Schimfet aus, <w>zu erst</w> habe ich<lb break="yes"/><del><unclear/></del><unclear>S</unclear>ch<unclear>er</unclear>bin
+                <del>s</del> zupft. Und mein Schafgemach ist um<lb break="yes"/>zwei <add place="above">Zimer </add> weiter von Saal <add place="above">weg<unclear>en</unclear></add> mit Gitter &amp; grünen Vohäng<lb break="yes"/>vermacht nichts als mein Bett &amp; ein Nachtstul<lb break="yes"/>drin; und die Kochst ist gut, und beim guten<lb break="yes"/>Wetter geht man mit
+                der Arbeit in Garten dieß<lb break="yes"/>kann ich Dir schreiben sonst weiß ich Dir
+                für<lb break="yes"/>heute nichs &amp; grüße mir Alles <seg ana="#salute">&amp; besonders<lb break="yes"/><hi rendition="#r">grüße ich Dich Deine </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Mathild<unclear/><lb break="yes"/><surname>Dannh<unclear/></surname></seg></hi></p>
+<pb facs="#image_002"/>
+<p>Appr<unclear>o</unclear>po <unclear>wenn</unclear> ich so solte mich noch länger
+                Aufhalten<lb break="yes"/>wegen meiner Wasche <del>schon</del>, dan schicke mir nur
+                noch<lb break="yes"/>ein Hauskleid oder wenn <del>Jhr</del> mich <w>zurück holt</w>
+                wird / es<lb break="yes"/>mich freuer wenn ich in Eure Mitte w<unclear>ie</unclear>der käm. </p>
+</body>
+</text>
+</TEI>

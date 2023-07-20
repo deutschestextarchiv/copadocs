@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb999m01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>999</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ursula <surname>M.</surname></persName>
+<date type="sent">10.12.1883</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Hofrat: n.a. <surname>K.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb999m">
+<persName>
+<forename>Ursula</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1846"/>
+<death when="1900"/>
+<occupation>Näherin</occupation>
+<residence><geo decls="#WGS">48.3568624 10.7447118</geo>Willishausen, Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Tagelöhner</p>
+<p>Anstalt: <date from="1880" to="1900">1880-1900</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Geistesstörung, [Halluzination] (1880-1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    aus Heimat, war mit Bruder und Bürgermeister im Amtsgericht wegen Geld, vor Januar aber keines da, 
+                    soll an Verwaltung wegen Rechnung schreiben; will aus Vormundschaft, bittet bis 15. um Abrechnung, Grüße
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb999m01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><add hand="arzt">pr.11. Dex 83.</add><lb break="yes"/><hi rendition="#r">Augsburg den 10 ten Dezember 1883.</hi></dateline>
+<salute>Gnädiger Herr Hofrat Howirdiger Herr <surname>K.</surname></salute>
+</opener>
+<p> Herr Dogtor <surname>Z.</surname> Mein Bruder der<lb break="yes"/>Herr Birgermaister u Ich
+                waren auf dem<lb break="yes"/>Amzgericht da Ich ein Gelt zum<lb break="yes"/>leben
+                brache der Herr Anzrichter sagte<lb break="yes"/>es sie gaines da bis Januar
+                    <add>vor</add> gän Er<lb break="yes"/>mir keines geben man sol an die
+                    Vewaltug<lb break="yes"/>wegen ab Rechnug Schreiben<lb break="yes"/>da Ich aus
+                der Formundschaft wil<lb break="yes"/>der Herr Amzrichter bestelte mich u<lb break="yes"/>meinen Bruder auf den komenden<lb break="yes"/>Samstag den 15 ten
+                bis 11 Uhr<lb break="yes"/>So bitt ich Inen wen es möglich<lb break="yes"/>ist <hi rendition="#u" style="arzt">bis den 15 ten die Abrechnug zu<lb break="yes"/>schigen <seg ana="#salute">Ich Grüße Inen</seg></hi>
+<seg ana="#salute">Freindlichst<lb break="yes"/>Gnädiger Herr Hofrat Howiriger Herr
+                        <surname>K.</surname><lb break="yes"/>Herr Doktor
+                        <surname>Z.</surname>. Einen Gruß an Hern<lb break="yes"/>Dogtor von
+                        <surname>R.</surname> Herr Verwalter Herr<lb break="yes"/>Oberpfleger</seg> Ich schliße mein Schreiben<lb break="yes"/>u hofe mein werde
+                sie in bester Gesondcheid<lb break="yes"/>an drefen <seg ana="#signed">Ich
+                    ferbleibe. Irhe Dangbare<lb break="yes"/>Freunden Ursula
+                        <surname>M.</surname>.</seg>
+</p>
+</body>
+</text>
+</TEI>

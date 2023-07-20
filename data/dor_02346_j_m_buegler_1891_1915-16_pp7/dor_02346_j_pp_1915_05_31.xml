@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor2346j06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>2346 (K. 100)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>J.</surname></persName>
+<date type="sent">31.05.1915</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter</persName>
+<settlement type="sent">Detmold</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor2346j">
+<persName>
+<forename>Wilhelm</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1891-04-20"/>
+<death cert="unknown"/>
+<occupation>Bügler</occupation>
+<residence><geo decls="#WGS">51.4818111 7.2196635</geo>Geburtsort: Düsseldorf; Wohnort: Bochum</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1915-04-04" to="1916-05-15">04.04.1915-15.05.1916</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Neurasthenie (26.02.1916 in Bochum); 3B (04.04.1916 in Aplerbeck)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    sagt, er gehe am 19. Juni nach Frankreich ins Feld; bittet um Wäsche;
+                    lässt alle von sich grüßen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor2346j06a.jpg" xml:id="image_021"/>
+<graphic mimeType="image/jpg" url="dor2346j06b.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="dor2346j06c.jpg" xml:id="image_023"/>
+<graphic mimeType="image/jpg" url="dor2346j06d.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline>Detmold, den, 31.5.19.15.</dateline>
+<salute><hi rendition="#c">Liebe Mutter</hi></salute>
+</opener>
+<p>Liebe Mutter ich muß<lb break="yes"/>dir kurz mitteilen das<lb break="yes"/><add place="above">ich</add> Gesund und Muter bin<lb break="yes"/>was ich auh von
+                dir<lb break="yes"/>Hoffe Liebe Mutter<lb break="yes"/>jetzt hört das fiele<lb break="yes"/>Schreiben auf weißt.<lb break="yes"/>du warrum ich gehe<lb break="yes"/>am 19 Juni ins Feld<lb break="yes"/>nach Frankreich es ist<lb break="yes"/>mir vorgelesen worde<lb break="yes"/>was ich als haben muß<lb break="yes"/>ich weiß nicht wo ich<lb break="yes"/>das als herhohlen ich<lb break="yes"/>bekomme gar von<lb break="yes"/>Keinem was,, Liebe <pb facs="#image_022"/>Mutter Wäsche für<lb break="yes"/>Reinnigkeiten ich will<lb break="yes"/>kaine Läse in Frank<lb break="no"/>reich bekomme das bin<lb break="yes"/>ich nicht gewohnt von<lb break="yes"/>zu Hause. Liebe Mutter<lb break="yes"/>Ich habe ans Rotekreuz<lb break="yes"/><add place="inline">ge</add>Schrieben um ein <w>Liebes<lb break="yes"/>gabepaket</w>. Du kannst<lb break="yes"/>mir Glauben ich sond<lb break="yes"/>nicht von ich mich dran<lb break="yes"/>wenden solle. Hoffen<lb break="no"/>lich geht es beser wie<lb break="yes"/>ich dencke Nur Mut<lb break="yes"/>gemacht <w>Hier mit</w><lb break="yes"/>muß ich Schließen <pb facs="#image_023"/><seg ana="#salute">Es
+                    Grüßt dich</seg><lb break="yes"/><seg ana="#signed">dein Treuer Sohn<lb break="yes"/><hi rendition="#c">Wilhelm</hi></seg><lb break="yes"/>Gruß an die andern<lb break="yes"/>aus dem Hause sie<lb break="yes"/>sollen mir ein Mut<lb break="yes"/>Brief Schreiben. aber<lb break="yes"/>alle Grüßen Liebe<lb break="yes"/>Mutter es ist für<lb break="yes"/>dich gar hart das<lb break="yes"/>ich auch wek muß<lb break="yes"/>aber es fehlen noch<lb break="yes"/>fiel Soldaten in<lb break="yes"/>Franckreich
+                ist uns<lb break="yes"/>gesagt worden <pb facs="#image_024"/><add place="above">von</add> den Obrigen von<lb break="yes"/>uns Nur Mut Liebe<lb break="yes"/>Mutter. Gruß<lb break="yes"/>nochmals an Marichen<lb break="yes"/>Aber Sopfi
+                nicht ver<lb break="no"/>gessen <add place="above">ich</add> Glaube sicher<lb break="yes"/>das sie noch einen<lb break="yes"/>zum lesten mal ein<lb break="yes"/>Brief Schreibt.</p><p><hi rendition="#c">Bitte sofort<lb break="yes"/>Antwort es geht<lb break="yes"/>flogt mit uns
+                    jetzt</hi><lb break="yes"/>es auch jeden Tag<lb break="yes"/>kommen. <seg ana="#signed">Mit
+                    Gruß</seg><lb break="yes"/><seg ana="#salute">dein Sohn Wilh<lb break="yes"/>Nur Mut</seg>
+</p>
+</body>
+</text>
+</TEI>

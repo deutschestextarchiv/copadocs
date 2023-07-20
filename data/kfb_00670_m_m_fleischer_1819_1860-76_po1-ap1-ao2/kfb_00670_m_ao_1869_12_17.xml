@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb670m03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>670</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vinzens/Vincenz <surname>M.</surname></persName>
+<date type="sent">17.12.1869</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Günzburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb670m">
+<persName>
+<forename>Johann Nepomuk</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1819"/>
+<death when="1876"/>
+<occupation>Landgerichtsassessor</occupation>
+<residence><geo decls="#WGS">48.4539028 10.2785509</geo>Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Fleischer</p>
+<p>Anstalt: <date from="1860" to="1876">1860-1876</date></p>
+<p>Brieftypen: po, ap, ao</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="verwalter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+<handNote medium="crayon_blue" scope="minor" scribe="verwalter2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber übersendet Geld und Gegenstände und bittet um eine Empfängsbestätigung sowie um Auskunft über den Zustand des Patienten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb670m03.JPG" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Günzburg</hi> den 17<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+<hi rendition="#i">Decb.</hi> 1869.<lb break="yes"/><add hand="arzt"><hi rendition="#i">prs</hi> am 18 <hi rendition="#i">Decbr</hi> 1869<lb break="yes"/>2956 </add></hi></dateline>
+<salute><hi rendition="#c">Königliche Verwaltung! </hi></salute>
+</opener>
+<p><add hand="verwalter" place="top"><hi rendition="#c"><hi rendition="#u">63.</hi></hi></add></p>
+<p>Beliebe mittelst Postkarte den Vierteljährigen Costenbetrag für<lb break="yes"/>den
+                königl. Aßeßor <hi rendition="#i"><surname>M.</surname></hi> mit 85f 10X u 3X
+                    <unclear>Bewekir</unclear>ungs<lb break="no"/>betrag, dan̄ zwei fertig
+                gemachte Hemden, welche schon seit längerer<lb break="yes"/>Zeit als Vorrath
+                aufbewahrt wurden, und <hi rendition="#u" style="verwalter2">20 Ellen</hi> Leinwand<lb break="yes"/>zu weitern 4 <add place="above"><del>5</del></add> Hemden zu
+                erhalten </p>
+<p><add hand="verwalter" place="margin">/: Waren nach Angabe der Fr Oberwärterin<lb break="yes"/>nur 2
+                <unclear>Roße</unclear> Leinwand à 7¼ = 14½ Ellen :/</add></p>
+<p>Mit der Bitte um gefällige Empfangs-bescheinigung der gegen<lb break="no"/>wärtigen
+                Sendung, dan̄ der na<hi rendition="#u" style="verwalter2">chträglichen
+                    Auskunft</hi> darüber,<lb break="yes"/>ob das am <hi rendition="#u" style="verwalter2">26<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    Juli d. J. an die Anstalt von hier abgesen</hi><lb break="no"/>dete Tuch zu
+                einem neuen Anzug für <hi rendition="#i"><surname>M.</surname></hi> dort
+                richtig<lb break="yes"/>angelangt sei: erlaube ich mir die verehrliche, königl.
+                    Di<lb break="no"/>rection der Anstalt um gütige Mittheilung über das<lb break="yes"/>Ergehen und gegenwärtige Befinden des Patienten zu er<lb break="no"/>suchen, <seg ana="#salute">und geharre mit vollkom̄enster Hochachtung!<lb break="yes"/><hi rendition="#c">Der königlichen Verwaltung </hi><lb break="yes"/><hi rendition="#r">gehorsamster </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Vin<hi rendition="#i">c</hi>enz <hi rendition="#i"><surname>M.</surname></hi></seg><lb break="yes"/>Metzgermeister. </hi></p>
+<p><add hand="verwalter"><unclear>d/</unclear>
+<space/>
+<hi rendition="#i">eodem</hi><lb break="yes"/>EmpfangsAnzeige<lb break="yes"/><space/> <unclear>Wd</unclear></add></p>
+<p><add hand="arzt"><unclear>d/</unclear> Im Ganzen hat sich bei Hern Assessor<lb break="yes"/><hi rendition="#i"><surname>M.</surname></hi> eine
+                    wesentliche Aenderung<lb break="yes"/>nicht ergeben. Die Jdee, daß er verfolgt<lb break="yes"/>wird von Beamten, hohen u. höchsten
+                        Herrschaft<unclear>en</unclear>, daß man ihm<lb break="yes"/>Alles
+                    Moegliche anthut, um ihn zu irren, zu quälen, besteht<lb break="yes"/>fort. Von
+                    Zeit zu Zeit treten Erregungen ein, in Folge welcher<lb break="yes"/>Herr
+                    Patient gegen seine Umgeebung schon <add place="above">oefter</add> gewalthätige<lb break="yes"/>Handlung: begangen hat. Körperlich ist Herr, <hi rendition="#i"><surname>M.</surname></hi><lb break="yes"/><hi rendition="#c">sehr wohl <unclear>mut.</unclear></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">DK</hi></hi></add></p>
+</body>
+</text>
+</TEI>

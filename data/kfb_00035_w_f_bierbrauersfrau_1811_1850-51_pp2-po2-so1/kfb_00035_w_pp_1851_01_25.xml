@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb35w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>35</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Katharina <surname>W.</surname></persName>
+<date type="sent">25.01.1851</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwägerin: Margrethe <surname>M.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb35w">
+<persName>
+<forename>Katharina</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1811"/>
+<death cert="unknown"/>
+<occupation>Bierbrauersfrau</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1850" to="1851">1850-51</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Melancholie, Mania puerperalis, fixer Wahn (1850)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Dank für Brief, bitte um weitere Sachen (Halstuch, Haube, Handschuhe; am Ende Schokolade), sonst nichts, da sie hofft, nicht länger zu bleiben, Kuratorstelle (unklar), fühlt sich "allein die verlasene von allen 10 Geschwistern", biblisch, will sich ausweinen, Formeln
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb35w04a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb35w04b.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb35w04c.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Liebe Schwägerin</hi></salute>
+</opener>
+<p> deine mir werthe Lienie u das du mir schükts<lb break="yes"/>habe ich erhalten aber du
+                schreibst von ein halsduch<lb break="yes"/>und es wahr keins dabei schük mir mit
+                    der<lb break="yes"/>Haube ein halsduch und handschu sonst darfst du<lb break="yes"/>mir nichts schüken ich will nicht hoffen das<lb break="yes"/>ich
+                noch längere Zeit da sein muß den<lb break="yes"/>ich wiederhole nochmahl das ich
+                    bei<lb break="yes"/>dißer <del>sch</del>sache kein̄e Kuratorstelle <w>an</w><lb break="no"/><w>
+                    nim</w><del>t</del> das ich jedenfals selbst dabei sey<lb break="yes"/>will.
+                ich thu es gar nicht annehmen wen̄<lb break="yes"/>es ohne mich je was
+                geschiet von der<lb break="yes"/>ganze Sache es ist schon genug das die beide<lb break="yes"/>Schwestern doch von der Leihe es erfahren<lb break="yes"/>haben
+                das sie kommen könte ich bin allein<lb break="yes"/>die verlasene von allen 10
+				    Geschwistern<lb break="yes"/>doch der mich kent ist in der höhe ich will<lb break="yes"/>mein Herz nicht mehr verwunden als<lb break="yes"/>es ist mir ist
+                alles dahin, ich dachte doch<lb break="yes"/>ich werde euch bald in dorten sehen
+				    das ich<lb break="yes"/>meinen Schmerz an ein̄es freuden<lb break="yes"/>Herz ausweinen kan wan es der Liebe<lb break="yes"/>Gott mir vergönt das es bald
+                    werden<lb break="yes"/>wird.<lb break="yes"/><seg ana="#salute"><space/><seg ana="#salute">grüße und Küße von mir an<lb break="yes"/>euch
+                alle meine L. Kleinen<lb break="yes"/>Küße mir teusendemahl </seg><pb facs="#image_010"/> <seg ana="#salute">ich verbleibe deine dich aufrichtige</seg><lb break="yes"/>Schwägerin </seg><seg ana="#signed">Katharina
+                    <surname>W.</surname></seg><lb break="yes"/>Irsee den 25 Januar 1851<lb break="yes"/><seg ana="#salute">mein Man laß ich vielmahls<lb break="yes"/>grüßen und er soll
+                            mir<lb break="yes"/>doch bald schreiben </seg><lb break="yes"/>ein Sogolat kanst du
+                    mir<lb break="yes"/>schücken hier schük ich die Haube <pb facs="#image_011"/>
+                    An<lb break="yes"/>Margrethe <surname>M.</surname><lb break="yes"/>fabrickantengatin<lb break="yes"/>in Augsburg </p>
+</body>
+</text>
+</TEI>

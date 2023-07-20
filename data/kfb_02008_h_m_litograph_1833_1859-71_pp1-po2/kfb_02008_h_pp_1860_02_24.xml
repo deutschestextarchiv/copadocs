@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2008h03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2008</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>H.</surname></persName>
+<date type="sent">24.02.1860</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: n.a. <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2008h">
+<persName>
+<forename>Heinrich</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1833"/>
+<death cert="unknown"/>
+<occupation>Litograph</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Subrektor</p>
+<p>Anstalt: <date from="1859" to="1871">1859-71</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>apathischer Blödsinn, Größenwahn, Sinnestäuschungen, allgemeine Verrücktheit (1859-1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    berichtet von Strapazen in der Anstalt, die vor allem vom Doktor Landerer ausgehen;
+                    ist jetzt krank; möchte heim zu seiner Mutter
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2008h03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb2008h03b.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb2008h03c.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Liebe Eltern!</hi></salute>
+</opener>
+<p>
+<del>D</del> Sie wissen, daß ich hier auf <hi rendition="#i">Irrsee</hi><lb break="yes"/>bin, wo ich ungeheuer viel durchzu<lb break="no"/>machen hatte. Herr Doktor <surname>L.</surname><lb break="yes"/>wird am besten wissen, was er als aus<lb break="no"/>gemacht hat und was mit mir vorge<lb break="no"/>nommen <add>wurde</add>. Ich gestehe es offen, daß ich<lb break="yes"/>davon ganz krank bin und ich habe<lb break="yes"/>auf solche Sachen, wie sie von <del>Laud</del><lb break="yes"/>Herrn Doktor <surname>L.</surname> ausgegangen,<lb break="yes"/>ganz Verzicht geleistet; wenn ich<lb break="yes"/><del>vo</del> von meinem König <del>etw</del> Maximi<lb break="no"/>lian etwas verlangen könnte, so wäre<lb break="yes"/>es sehr wenig, daß ich unangefochten<lb break="yes"/>bei meiner guten Mutter in <del>Nör</del><lb break="yes"/>Nördlingen bleiben könnte, denn wo<lb break="yes"/>will ich hin, da jetzt meine Gesundheit<lb break="yes"/>beinahe ganz untergraben ist; denn die<lb break="yes"/>Strapatzen, die ich hier durchmachen<lb break="yes"/>mußte, <hi rendition="#u">gehen über alles Maas und<lb break="yes"/>Ziel.</hi> Als Mensch in meiner Lage<lb break="yes"/>bin ich unter fremden Leuten ein<lb break="yes"/>gequältes <del>Vi</del> Vieh, denn wie viel<lb break="yes"/><del><unclear>?</unclear></del> lastet aufl meinem Herzen, daß
+				    
+<pb facs="#image_007"/>
+<del><unclear>?</unclear></del><lb break="yes"/>Ich habe auf solche Ideen, wie sie von<lb break="yes"/>Doktor <surname>L.</surname> ausgingen, ganz<lb break="yes"/>Verzicht geleistet und bin zu Allem<lb break="yes"/>bereit. Wollen wir in unserm<lb break="yes"/>häuslichen Heerde glücklich und zu<lb break="no"/>frieden beisammen leben und das<lb break="yes"/>Fernere unserm Herrgotte im<lb break="yes"/>Himmel überlassen, anders kann ich<lb break="yes"/><hi rendition="#u">schwaches Menschenkind es nicht machen.</hi><lb break="yes"/>Ich bin jetzt nicht fähig, mich selbst<lb break="yes"/>an meinen König zu wenden, wenn<lb break="yes"/>ich aber an ihn schreiben <del>wi</del> werde,<lb break="yes"/>wird er mir <del>zum</del> <hi rendition="#u">es anerkennend<lb break="yes"/>finden.</hi> Ich grüße Sie herzlich und bitte<lb break="yes"/>Sie <del>mich</del> mich bald abzuholen.<lb break="yes"/><seg ana="#salute">Es grüßt Sie herzlich</seg><lb break="yes"/><seg ana="#signed">Ihr <hi rendition="#r">treuer und dankbarer<lb break="yes"/>Sohn<lb break="yes"/>Heinrich <surname>H.</surname>.</hi></seg><lb break="yes"/><add><hi rendition="#u">Aufl <hi rendition="#i">Irrsee</hi></hi><lb break="yes"/>24 Februar<lb break="yes"/>1860.</add>
+<pb facs="#image_008"/>
+An<lb break="yes"/>Frau Subrectorin̄<lb break="yes"/><hi rendition="#i"><surname>H.</surname></hi><lb break="yes"/>Wohlgeboren<lb break="yes"/><hi rendition="#u"><hi rendition="#i">Nördlingen</hi>.</hi>
+</p>
+</body>
+</text>
+</TEI>

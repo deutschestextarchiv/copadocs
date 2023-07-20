@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2817e13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2817</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>E.</surname></persName>
+<date type="sent">05.03.1905</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2817e">
+<persName>
+<forename>Maria</forename>
+<surname>E.</surname>
+</persName>
+<birth when="1848"/>
+<death when="1923"/>
+<occupation>Zimmermädchen</occupation>
+<residence><geo decls="#WGS">48.221764 10.1058969</geo>Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1897" to="1923">1897-1923</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait>
+<p>Größen- und Verfolgungsideen, Beeinträchtigungsideen, [Halluzinationen]
+                            (1911), halluzinatorische Verrücktheit (1922)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil_blue" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offiziellerBrief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin spricht sich dafür aus, aus der Anstalt entlassen zu werden und droht damit, sich anderenfalls von einer weiteren Person helfen zu lassen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2817e13a.jpg" xml:id="image_051"/>
+<graphic mimeType="image/jpg" url="kfb2817e13b.jpg" xml:id="image_052"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_051"/>
+<opener>
+<dateline/>
+<salute>Wohlgeboren Herrn <hi rendition="#i">Direktor</hi> Erlaube mir die
+                    Freiheit</salute>
+</opener>
+<p> Ein paar Zeilein zu Schreiben den Ich Liebe ein Herrn<lb break="yes"/>ein Man ein
+                Ehrenwort. Die <hi rendition="#u" style="arzt">abmacherei in</hi> diesen<lb break="yes"/>8 Jahren bin ih Müde für einen jedem verständigen<lb break="yes"/>Menschen wird Begreiflich sein das um ein kleinen<lb break="yes"/>Streit <hi rendition="#u" style="arzt">betref des S M.d. König</hi> sich nicht zum Naaren
+                u<lb break="yes"/>Sklaven mahen läst da meine angehörigen zurüknehmen<lb break="yes"/>wollen Und ih gewillt.<add place="above">war</add> für meine
+                Persöhnlichkeit will ih<lb break="yes"/>mein freihen lauf ih bin im̄er meine
+                Wege gegangen<lb break="yes"/>Und geh meine Wege wieder ih wäre beim Toktor
+                Brietano<lb break="yes"/>in Frankfurt auh eine Ehrbare Frau wie Reichsgeriht<lb break="yes"/>was ih hörte sagte u den übrigen Herrn es war mein Shiksaal<lb break="yes"/>weiß ein jedes sein Schiksaal. nehme <hi rendition="#u" style="arzt">keine Chorodell an von<lb break="yes"/>Könighaus von andern Herrn
+                    niht.</hi> das wissen die Gerihtherren <pb facs="#image_052"/> wen man Niemand
+                nihts gethan hat Und seit mehr als 33 Jahren<lb break="yes"/>Shaden u beschämtheit
+                von den Hoheiten hat. wen im Alter<lb break="yes"/>ein Testament hat das man Ihnen
+                niht gibt Es darf niht<lb break="yes"/>sein jemand in Naarenhaus sperren Betref
+                Erbschaften<lb break="yes"/>das ist kein Grund. <hi rendition="#u">Herren Morden
+                    dan̄ Erbshaften </hi><lb break="yes"/><w><hi rendition="#u">ein nehmen</hi></w><hi rendition="#u" style="arzt"> das
+                    geht niht</hi> sonst bebekomt ihr mit einem<lb break="yes"/>Herren zu Shaffen
+                den ihr niht sperren kön̄t entshliesen<lb break="yes"/>Sie Ihnen mein <w>Lauf zettel</w> zu geben die Regirung<lb break="yes"/>mit sam̄t der königlihe Hoheit<lb break="yes"/><hi rendition="#c"><seg ana="#salute">nebst Ehrbürtiger Gruß.</seg></hi><lb break="yes"/><add hand="arzt">5.3.05</add><lb break="yes"/>Ih nehme von S K H dem<lb break="yes"/>Prinzen Ludwig eine Frau<lb break="yes"/><surname>E.</surname> bei mir auß Recht Und<lb break="yes"/>Gerechtigkeit sein so <unclear>wirt</unclear><lb break="yes"/>man kein König ein sonst geht mih Königlihe Hoheit nihts an<lb break="yes"/><hi rendition="#r">will Bürgerlihes Recht</hi></p>
+</body>
+</text>
+</TEI>

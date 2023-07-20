@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb719m03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>719</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elias <surname>M.</surname></persName>
+<date type="sent">ca1862-63</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Kurat</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb719m">
+<persName>
+<forename>Elias</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1785"/>
+<death cert="unknown"/>
+<occupation>Fürstlich Öettingersches Schlossverwalter, früher Förster</occupation>
+<residence><geo decls="#WGS">49.0049201 10.582544723152097</geo>Hirschbrunn, Oettingen, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1862" to="1863">1862-63</date></p>
+<p>Brieftypen: po, ao</p>
+</state>
+<trait><p>[Melancholie], Mania melancholica (1862)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet darum, abgeholt zu werden; möchte nicht in der Anstalt sterben
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb719m03a.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber Herr Kurat,</hi></salute>
+</opener>
+<p>Mir gehts Hier alletgschlechter und<lb break="yes"/>bin auch viel schwächer
+                geworden<lb break="yes"/>seit ich hier bin, das ich etwa den<lb break="yes"/>Weg
+                nicht <add place="above">mehr</add>
+<w>nach</w><w>haus</w> machen könnte,<lb break="yes"/>und hier Sterben das kann ich<lb break="yes"/>doch nicht, und
+                noch dazu die Schreklich<lb break="yes"/>viele Kösten<del>n</del>
+<del>d</del> und beser wird es mit<lb break="yes"/><del><unclear/></del>
+<add place="above">mir</add>
+<del><unclear/></del> hier gar niemals<lb break="yes"/>mein Gewisen das Martert
+                mich<lb break="yes"/>noch im̄er mehr, und Beichten u Beten<lb break="yes"/>das kann ich auch nicht,<lb break="yes"/>Nun Bitte ich Sie um Gottes Willen<lb break="yes"/>mich recht bald abzuholen von hier<lb break="yes"/>Herr Direktor
+                habe ich recht gebeten<lb break="yes"/>mich fort zu lasen, ich danke für Ihren<lb break="yes"/><del>Wunsch zu</del> schönen Wunsch, worüber ich<lb break="yes"/>viel geweint habe, nun komen Sie<lb break="yes"/>nur recht bald, ich hätte auch
+                vieles<lb break="yes"/>zu besprechen, <del>auch ist</del>.<lb break="yes"/>wenn
+                ich nicht bald fort kome<lb break="yes"/>so kom̄e <add place="above"><del>sehr</del></add> ich nicht mehr heim<lb break="yes"/><hi rendition="#r"><seg ana="#signed">Gehorsamstr<lb break="yes"/>Elis <surname>M.</surname></seg></hi></p><p><add place="margin">NB: auch ist mirs Öfters gar nicht
+                        wohl<del><unclear/></del><del><unclear/></del> dann hilft alles zusam<lb break="yes"/>das es bald gar<lb break="yes"/>wird</add>
+</p>
+</body>
+</text>
+</TEI>

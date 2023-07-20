@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb416e02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>416</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Moritz von <surname>E.</surname></persName>
+<date type="sent">20.06. ca. 1858-59</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb416e">
+<persName>
+<forename>Moritz von</forename><surname>E.</surname>
+</persName>
+<birth when="1805"/>
+<death cert="unknown"/>
+<occupation>Königl. Postoffizial beim Oberpostamt Augsburg (pensioniert)</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1858" to="1859">1858-1859</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschung</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber schickt eine Quittung und gibt Anweisungen, wie das Geld zu verwenden ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb416e02.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> d. 20<hi rendition="#sup"><hi rendition="#u">t</hi></hi>
+<hi rendition="#i">Juni</hi>.</hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder!</hi></salute>
+</opener>
+<p><add hand="hand2" place="top"><hi rendition="#c">− 11 −</hi></add>
+</p>
+<p>In Anlage die Quittung; davon 20fl dem<lb break="yes"/>Schneider, 22fl. Hauszins;
+                10fl an <surname><hi rendition="#i"><unclear>U.</unclear>inger</hi></surname><lb break="yes"/>das übrige sei euch. Ich brauche hier kein<lb break="yes"/>Geld
+                mehr für mich u. bin bis längstens 14<lb break="yes"/>Tage bei euch. Herzliche
+                Grüße an die liebe<lb break="yes"/>Mutter. <seg ana="#salute">Es grüßt dich<lb break="yes"/><hi rendition="#c">dein </hi><lb break="yes"/><hi rendition="#r">treuer Bruder </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Moritz</hi></seg>. − </hi></p>
+<p><hi rendition="#i">N</hi>.<unclear>B</unclear>. erhebe das Geld morgen, auch kann
+                dir<lb break="yes"/>dasselbe der Kassier <surname><hi rendition="#i">S.</hi></surname> auszahlen. −<lb break="yes"/><hi rendition="#i">Samstag</hi> bezahlt der Bezirks-Kassier nicht aus. −</p>
+</body>
+</text>
+</TEI>

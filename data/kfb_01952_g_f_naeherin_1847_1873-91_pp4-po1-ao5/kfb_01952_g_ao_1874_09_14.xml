@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1952g01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1952</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kaspar <surname>G.</surname></persName>
+<date type="sent">14.09.1874</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1952g">
+<persName>
+<forename>Magdalena</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1891"/>
+<occupation>Näherin</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: uneheliche Tochter, Schuhmacher und Kutscher</p>
+<p>Anstalt: <date from="1873" to="1891">1873-91</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>religiöser Wahnsinn (1873), Größenwahnideen, Verfolgungswahnideen, Halluzinationen (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="cousin"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Verwandte (vllt. Cousinen?) fragen an, ob sie die Patientin im Herbst besuchen dürfen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1952g01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><add hand="arzt">G 1519</add></dateline>
+<salute><hi rendition="#c">Hochverehrliche Verwaltung!</hi></salute>
+</opener>
+<p>
+Wir sind nun so frei und richten wieder ein paar<lb break="yes"/>Zeilen an Sie, indem wir gerne wieder Etwas von<lb break="yes"/>unserer Lena hören möchten; ob sie sich nicht wieder<lb break="yes"/>gebessert hätte; Sind Sie daher so freundlich und<lb break="yes"/>berichten Sie <del>von</del> uns von dem Zustande der Lena<lb break="yes"/>und dan̄ würden wir Sie auch bitten, daß Sie es<lb break="yes"/>auch uns schreiben möchten, wie sich unsere Verwandte<lb break="yes"/>die Katharina <surname>D.</surname> anläßt, und wie sie sich<lb break="yes"/>befindet; den sie ist unsere nächste Verwandte,<lb break="yes"/>den̄ ihr <hi rendition="#u" style="arzt">Vater der Herr <surname>D.</surname> ist ein Bruder zu<lb break="yes"/>unserer Mutter selig.</hi></p><p> Sind Sie daher so freundlich und schreiben Sie uns<lb break="yes"/>doch von unserer Schwester
+                Lena und von der Kath.<lb break="yes"/><surname>D.</surname>, und dann <add place="above">würden</add> wir Sie noch
+                ersuchen und<lb break="yes"/>fragen, ob Sie es nicht gestatten würden, daß<lb break="yes"/>wir die Schwester diesen Herbst noch besuchen dürfen,<lb break="yes"/>weil wir sie <w>Umstände halber</w>, sollte
+                sie bis im<lb break="yes"/>Frühjahr nicht kom̄en, nicht besuchen
+                    kön̄en.</p><p>
+<seg ana="#salute">Wir grüßen Sie mit aller Hochachtung</seg><lb break="yes"/>Kempten, den 14 September 1874. <seg ana="#signed"><hi rendition="#r">Kaspar
+                            <surname>G.</surname> Schuhmacher M.</hi></seg>
+</p>
+</body>
+</text>
+</TEI>

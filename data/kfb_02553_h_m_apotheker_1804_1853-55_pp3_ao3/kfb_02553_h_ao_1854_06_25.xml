@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2553h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2553</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sohn: Ferdinand von <surname>H.</surname></persName>
+<date type="sent">25.06.1854</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Würzburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2553h">
+<persName>
+<forename>Franz von</forename><surname>H.</surname>
+</persName>
+<birth when="1804"/>
+<death cert="unknown"/>
+<occupation>Apotheker</occupation>
+<residence><geo decls="#WGS">49.79245 9.932966</geo>Würzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1853" to="1855">1853-55</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Hypochondrische Verstimmung, Fixe Ideen (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="sohn"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schickt dem Patienten verschiedene Sachen zu. Bietet dem Arzt an, für ihn Wein aus dem eigenen Hofkeller zu besorgen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2553h02.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Wür<unclear>zb</unclear>urg 25 <hi rendition="#i">J</hi><hi rendition="#i">uny</hi><lb break="yes"/>1854</hi></dateline>
+<salute><hi rendition="#c">Sehr Geehrter Herr <hi rendition="#i">Doctor</hi>!</hi></salute>
+</opener>
+<p>Anbeifolgend für meinen Vater noch einige gewünschten<lb break="yes"/>Gegenstände; und zwar 1) Tabak 2.) in 2 Schachteln<lb break="yes"/>doppel<del><unclear>k</unclear></del><unclear>t</unclear>kohlen/. Natron
+                &amp; Weinsteinsäure; ich kann mir<lb break="yes"/>aber unmöglich denken, dß er die
+                ganze Masse die ich ihm<lb break="yes"/>jetzt schon in verschiedenen Parthien
+                geschickt habe<lb break="yes"/>vollkom̄en gebraucht hat, es scheint mir <w>u
+                nmög lich</w>; </p><p>3) <hi rendition="#i">Kochs flora</hi> von Deutschland; 4) eine <w>Botanisir<lb break="no"/>büchse</w> so<unclear>w</unclear>ie <add>5.)</add> eine <hi rendition="#i">Lu</hi><hi rendition="#i">pe</hi> 6) 6 Paar Socken <del>7)</del><lb break="yes"/>welches Sie gefelligst nach Jhrem Gutdünken bezüglich<lb break="yes"/>Tabak &amp; Be<unclear>ruhiguteeringen
+                    dingen</unclear> ihm übergeben<lb break="yes"/>Die Güte haben. </p><p>Auch setzt für Sie die gewünschte Wein<unclear>karte</unclear> aus dem<lb break="yes"/>Hofkeller
+                bei, <unclear>wovon</unclear> Jhnen Wein zu besorgen ich gerne<lb break="yes"/>bereit mich erkläre. sem̄tliche bezeichneten Weine sind<lb break="yes"/>zu
+                erhalten, auch ist keiner ausverkauft; </p><p>Hierüber ersuche ich Sie jedoch um baldige Rückäußerung.<lb break="yes"/>Mit der Bitte uns Jhrer
+                    <unclear>v</unclear>erthen Frau Gemahlin zu<lb break="yes"/>empfehlen <unclear>seien</unclear>
+                auch im Namen meiner Familie <del><unclear/></del>Sie<lb break="yes"/>freundschaftlichst grüßend <seg ana="#salute">zeichne ich mich<lb break="yes"/>Jn
+                    dankbarer Hochachtung Ergebenster </seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#u">Fr </hi><surname><hi rendition="#u">H.</hi></surname></seg></hi></p>
+</body>
+</text>
+</TEI>

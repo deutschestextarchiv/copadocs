@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2543h09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2543</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwager: n.a. <surname>S.</surname></persName>
+<date type="sent">04.04.1864</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Oettingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2543h">
+<persName>
+<forename>Wilhelm</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1864"/>
+<occupation>Buchhalter, studierte Theologie</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1863" to="1864">1863-64</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"psychische und körperliche Aufregung", "Wahnvorstellungen" (1863)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwager"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich nach dem Tod des Patienten für die Bemühungen des Arztes. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2543h09a.jpg" xml:id="image_035"/>
+<graphic mimeType="image/jpg" url="kfb2543h09b.jpg" xml:id="image_036"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_035"/>
+<opener>
+<dateline><hi rendition="#r">Oettingen am 4 April<lb break="yes"/>1864.</hi></dateline>
+<salute>Hr. <hi rendition="#i">Wohlgeboren</hi>!</salute>
+</opener>
+<p><space/> Ihre meinem verstorbenen<lb break="yes"/>Schwager zugewendete ärztliche<lb break="yes"/>Sorfgalt sowohl als auch die mei<lb break="no"/>ner Frau jüngst
+                bei ihrer Anwe<lb break="no"/>senheit in Irrsee bewiesene<lb break="yes"/>Aufmerksamkeit haben mich<lb break="yes"/>zu dem verbindlichsten Danke<lb break="yes"/>gegen Sie verpflichtet. <hi rendition="#i">W</hi>enn<lb break="yes"/>ich diesem Dankesgesuhe erst jezt<lb break="yes"/>Ausdruck gebe, so möge es in
+                dem<lb break="yes"/>Umstande geneigte Entschuldigung<lb break="yes"/>finden, daß
+                ich in der lezten Zeit<lb break="yes"/>in einem ungewöhnlichen Maase<lb break="yes"/>mit Arbeiten überhäuft war,<lb break="yes"/>was mich auch
+                verhinderte, dem<lb break="yes"/>Leichenbegängnisse meines Schwa<lb break="no"/>gers selbst beizuwohnen. Nachdem<lb break="yes"/>ich nun hier, wo ich mich zur
+                Zeit in<lb break="yes"/>Com̄issionsgeschäften befinde wie<lb break="no"/>der
+                einigermassen zu Athem ge<lb break="no"/>kom̄en bin, so säume ich nicht<lb break="yes"/>länger, Ihnen meinen lebhaftesten <pb facs="#image_036"/><space/>
+                Dank mit der aufrichtigen<lb break="yes"/><hi rendition="#i">V</hi>ersicherung
+                auszusprechen, daß<lb break="yes"/>es mir zum wahren Vergnügen<lb break="yes"/>ge<unclear>reic</unclear>hen wird, wenn ich mich<lb break="yes"/>Ihnen jemals und wie nur<lb break="yes"/>im̄er werde gefällig er<lb break="no"/>weisen kön̄en.</p><p><space/> Mit vollster Hochachtung<lb break="yes"/>zeichnet<lb break="yes"/><hi rendition="#c">Ihr</hi><lb break="yes"/><hi rendition="#r">ergebenster<lb break="yes"/>Regierungsrath<lb break="yes"/><surname><hi rendition="#i">S.</hi>chamberg</surname></hi></p>
+</body>
+</text>
+</TEI>

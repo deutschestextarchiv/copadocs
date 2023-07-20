@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1419g08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1419</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">n.a. <surname>K.</surname></persName>
+<date type="sent">10.08.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1419g">
+<persName>
+<forename>Sigmund</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1811"/>
+<death cert="unknown"/>
+<occupation>Regenschirmfabrikant, Privatier</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet </p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1875" to="1875">1875</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Fixe Ideen (1875)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="unbekannt1"/>
+<handNote medium="ink_black" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gibt an, den Patienten bei seiner baldigen Entlassung abzuholen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1419g08.JPG" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg</hi> den 10<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> August<lb break="yes"/>1875.</hi></dateline>
+<salute><hi rendition="#c">Verehrtester Herr Director!</hi></salute>
+</opener>
+<p><add hand="arzt">Noti<unclear>tz</unclear>.<add place="top"> daß Entlaßung<lb break="yes"/>genehm sei.<lb break="yes"/>12/8.75.</add></add></p>
+<p>Unter der Voraussetzung, daß von Jhrer<lb break="yes"/>Seite die Entlaßung des
+                Herrn <surname><hi rendition="#i">G.</hi></surname><lb break="yes"/>erlaubt wird, werde ich denselben am<lb break="yes"/><hi rendition="#i">Montag</hi> abholen und Nachmittags rechtzeitig<lb break="yes"/>in Irsee eintreffen. </p><p><seg ana="#salute">Mit ausgezeichneter Hochachtung<lb break="yes"/><hi rendition="#r">ergeb.<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed"><surname><unclear>K.</unclear><hi rendition="#i">edenbacher</hi></surname></seg><lb break="yes"/><space/> Hptm.</hi></p>
+</body>
+</text>
+</TEI>

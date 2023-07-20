@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1354w10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1354</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>W.</surname></persName>
+<date type="sent">ca1914-16</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1354w">
+<persName>
+<forename>Johann</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1894"/>
+<death cert="unknown"/>
+<occupation>Former</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landwirt</p>
+<p>Anstalt: <date from="1914" to="1916">1914-16</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>insoziale Imbezillität, Stimmungsanomalie, Sinnestäuschungen (1915)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief, Gedicht</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gedicht über Tiroler Soldaten, der in Mantua hingerichtet wird.
+                    Bitte um eigenes Zimmer.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1354w10.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_029"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Gehrter Herr Medizinalrat!</hi></salute>
+</opener>
+<p><hi rendition="#i">Zu Mantua in Banden der treue Hofer war,<lb break="yes"/>zu Mantua
+                    zum Tode, führt in der Feindeschar.<lb break="yes"/>Es blutete der Brüder Herz,
+                    ganz Deutschlanand,<lb break="yes"/>ach in schmach und Schmerz,: mit ihm das
+                    Land Tirol:.</hi>
+</p>
+<p><hi rendition="#i">Die Hände auf den Rüken, der Landwirt Hofer ging.<lb break="yes"/>mit ruhig festen Schritten, im shien der Tod gering.<lb break="yes"/>Den Tod
+                    den er so manch<del>e</del>mals von<lb break="yes"/>Iselberg geschickt ins
+                    Tal,: im heil'gem Land Tirol:.</hi></p>
+<p><hi rendition="#i">Doch als aus Kerker Gitter im festen Mantua,<lb break="yes"/>die
+                    treuen Waffenbrüder die Händ er strecken sa.<lb break="yes"/>Da rief er laut
+                    Gott sei's mit euch, mit ihm,<lb break="yes"/>und dem verat'nen deutschen
+                    Reich,: mit ihm das Land Tirol:.</hi></p>
+<p><hi rendition="#i">Dem Tambor will der Wirbel nicht unterm Sschlägel vor,<lb break="yes"/><del>r</del>als nun der Landwirt Hofer shritt durch das finstre
+                    Tor.<lb break="yes"/>Der Landwirt nun von Banden frei, da stand er<lb break="yes"/>fest auf der Bastei,: der Mann vom Land Tirol:.</hi></p>
+<p><hi rendition="#i">Dort soll er nieder knien, er sprach: das tu ich nicht;<lb break="yes"/>will sterben wie ich stehe, will sterben wie ich stritt.<lb break="yes"/>So wie ich steh'<del>e</del> auf dieser Schanz, so lebt<lb break="yes"/>mein Kaiser guter Franz,: mit ihm das Land Tirol:.</hi></p>
+<p><hi rendition="#i">Und von der Hand die Binde, nimmt ihm der Korpural;<lb break="yes"/>der Landwirt Hofer betet allhier zum letzten mahl.<lb break="yes"/>Da rief er
+                    laut: <del><unclear reason="overwriting"/></del>nun trefft mich recht; gebt
+                    Feuer!<lb break="yes"/>ach! wie schiest ihr schlecht.: Ach mein Land Tirol:.
+                </hi></p>
+<p><hi rendition="#c"><hi rendition="#i">Geherter Herr Medizinalrat!</hi></hi><lb break="yes"/>Es wird schön genug sein, wenn ich noch einen Fleiß besitze;<lb break="yes"/>meine ich. Sie brauchen's nicht bereuen, wenn ich ein<lb break="yes"/>Zimmer bekom̄e.</p>
+</body>
+</text>
+</TEI>

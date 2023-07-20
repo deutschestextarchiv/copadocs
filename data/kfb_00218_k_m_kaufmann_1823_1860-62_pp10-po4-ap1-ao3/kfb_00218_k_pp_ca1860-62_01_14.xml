@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb218k05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>218</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ernst <surname>K.</surname></persName>
+<date type="sent">14.01.xxxx</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tochter: Elisa <surname>K.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb218k">
+<persName>
+<forename>Ernst</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1823"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1860" to="1862">1860-1862</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Geisteswahn (1862)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient schreibt seiner Tochter, dass er ihren Brief empfangen hat und dass sie sich weiterhin so brav gegenüber ihrer Mutter benehmen soll.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb218k05a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb218k05b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> den 14 <hi rendition="#i">Jan<hi rendition="#sup">r</hi></hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">M</hi>eine liebe kleine
+                    Lisa!</hi></salute>
+</opener>
+<p><space/> Ich habe Deinen lieben <hi rendition="#i">B</hi>rief wo<lb break="yes"/>Dir
+                    di<del>m</del>
+<hi rendition="#i">Mama</hi> die Hand gefü<hi rendition="#i">h</hi>rt<lb break="yes"/>hat, richtig empfangen &amp; ich habe von<lb break="yes"/>der lieben <hi rendition="#i">Mama</hi> gehoert daß Du<lb break="yes"/>im̄er recht b<hi rendition="#i">ra</hi>v <w>&amp;</w><w>folgsam</w> &amp; lieb<lb break="yes"/>mit der <hi rendition="#i">Mam</hi>a seyest, sey nur fe<hi rendition="#i">r</hi>ner<lb break="yes"/>noch weiter so brav den̄ darfst Du<lb break="yes"/>mit
+                der <hi rendition="#i">Mam</hi>a den <hi rendition="#i">Papa</hi> besuchen<lb break="yes"/>das wird Dich dan̄ <hi rendition="#i">wohl</hi> freuen,
+                    <unclear>da</unclear><lb break="yes"/>Du den <hi rendition="#i">Papa</hi> so lange nicht mehr<lb break="yes"/>gese<hi rendition="#i">h</hi>en hast.</p>
+<p><space/> So nun sey im̄er recht<lb break="yes"/>brav sey folgsam im Lernen
+                wen̄<lb break="yes"/>Dich die <hi rendition="#i">Mama</hi> sich die <hi rendition="#i">M</hi>ühe giebt<lb break="yes"/>Dir etwas zu lernen, dan̄
+                kan̄ man<lb break="yes"/>Di<hi rendition="#i">ch</hi> in der Folge überall
+                    geb<hi rendition="#i">r</hi>auchen.</p>
+<p><space/> Ich gebe <hi rendition="#i">Dir</hi> im Geiste ein <hi rendition="#i">K</hi>üßchen<lb break="yes"/>mein liebes <hi rendition="#i">K</hi>ind <seg ana="#salute">&amp; grüße
+                    <hi rendition="#i">D</hi>ich viel 1000<hi rendition="#sup">mal</hi><lb break="yes"/><hi rendition="#r">Dein Vater</hi></seg>
+<hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Ernst</hi></seg>.</hi></p>
+<pb facs="#image_002"/><p><space/> An die liebe kleine<lb break="yes"/><hi rendition="#i">Elisa <surname>K.</surname></hi><lb break="yes"/><space/> i<hi rendition="#u">n <hi rendition="#i">Lindau</hi></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb536r08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>R.</surname></persName>
+<date type="sent">ca1872-73</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Söhne: Alphons und Oskar<surname>R.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb536r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1873"/>
+<occupation>Eisenbahnexpeditor, Zuchthaussträfling</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Simmerberg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1872" to="1873">1872-73</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Melancholie (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Grüßt seine Kinder und möchte wissen, wie es ihnen geht, da er um sie besorgt ist. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb536r08.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<salute><hi rendition="#c">Lier Alphons und Oskar!</hi></salute>
+</opener>
+<p>Weil Euere liebe gute Mutter Euch zu besuchen und zu sehen das Glück<lb break="yes"/>hat, muß ich auch Tausend Grüße und Küße an euch schicken; sagt<lb break="yes"/>derselben genau wie es Euch geht, damit ich es auch von ihr erfahre<lb break="yes"/>den ich bin sehr um Euch besorgt. Seit getrost Ihr dürft nicht
+                im̄er in<lb break="yes"/>Ottobeuren bleiben, lernt recht fleißig dann könnt
+                ihr wieder zu Vater<lb break="yes"/>und Mutter zurückkehren. Euer Briefchen zu
+                meinem Namenstage<lb break="yes"/>hat mich sehr gefreut. Betet oft für Euren<lb break="yes"/><hi rendition="#c">armen Vater.</hi></p>
+</body>
+</text>
+</TEI>

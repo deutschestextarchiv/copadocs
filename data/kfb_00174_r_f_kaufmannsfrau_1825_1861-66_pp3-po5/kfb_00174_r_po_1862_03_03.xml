@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb174r03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>174</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Rosette <surname>R.</surname></persName>
+<date type="sent">03.03.1862</date>
+<date type="received">n.a.</date>
+<persName type="addressee">König: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb174r">
+<persName>
+<forename>Rosette</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1825"/>
+<death cert="unknown"/>
+<occupation>Kaufmannsehegattin</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1861" to="1866">1861-66</date></p>
+<p>Brieftypen: po, pp</p>
+</state>
+<trait><p>Hysterie (1861)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Brief an König: Scheidung der Ehe soll erlaubt werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb174r03a.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline>n.a.</dateline>
+<salute>n.a.</salute>
+</opener>
+<p><hi rendition="#i">In Dankbarkeit für königliche Huld und Gnade</hi><lb break="yes"/>Heißt <hi rendition="#i">Unglück</hi> und <hi rendition="#i">Gefahren</hi> aufs Neu'
+                mich sie erfleh'n<lb break="yes"/>Und hier auf kampfbewährtem leidensvollem Pfade<lb break="yes"/>An <hi rendition="#i">Kraft erstorben</hi>, ringend nach letzter
+                Hülfe seh'n!-<lb break="yes"/>Als <hi rendition="#i">vaterlose</hi> Waise, verkannt
+                und hülfberaubt<lb break="yes"/>Zu seyn, ist Schmerz der nicht mehr Platz im Herzen
+                find't,<lb break="yes"/>Nein Thränen preßt er uns, und selig, wer auch da
+                glaubt<lb break="yes"/>Daß <hi rendition="#i">Kummer</hi> zu lindern, unter
+                Menschen Engel sind<lb break="yes"/>Die nicht allein den Willen, nein die Macht auch
+                    haben<lb break="yes"/>durch Befreiung mich mit Trost und Ruhe zu laben!_</p>
+<p><milestone rendition="#hr" unit="section"/><lb break="yes"/>An Seiner <hi rendition="#i">Majestät</hi> den <hi rendition="#i">König</hi> die unterthänigste Bitte, der<lb break="yes"/>Unterzeichneten durch
+                allerhöchste Genehmigung von dem königlichen<lb break="yes"/>Landgericht <hi rendition="#i">Nördlingen</hi> das Erkenntniß ihrer Scheidungsklage<lb break="yes"/>rechtskräftig aussprechen, und zur Auflösung ihrer Ehe
+                    Erlaubniß<lb break="yes"/>ertheilen zu lassen.<lb break="yes"/></p>
+<p><hi rendition="#r"><seg ana="#salute">In tiefster Ehrfurcht verharrend</seg></hi></p>
+<p><hi rendition="#r"><seg ana="#signed">die dankbarste Unterthänigste<lb break="yes"/><hi rendition="#i">Rosette
+                            <surname>R.</surname></hi>. geborne <hi rendition="#i"><surname>S.</surname></hi>.</seg></hi><lb break="yes"/></p>
+<p><add place="bottom"><hi rendition="#i">Irrsee</hi> am<lb break="yes"/>3<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+<hi rendition="#i">März</hi> 1862.</add>
+</p>
+</body>
+</text>
+</TEI>

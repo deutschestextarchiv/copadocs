@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1628s02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Susanne Klohn</name>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1628</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Lorenz <surname>S.</surname></persName>
+<date type="sent">26.10.1894</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Armenrat: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1628s">
+<persName>
+<forename>Lorenz</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1863"/>
+<death cert="unknown"/>
+<occupation>Tagelöhner, "Armenhaus"</occupation>
+<residence><geo decls="#WGS">48.30873875 10.455592423992375</geo>Münsterhausen, Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: ledige Bierbrauer, außerehelich</p>
+<p>Anstalt: <date from="1892" to="1908">1892-1908</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Mania alcoholica (1892), Beklemmung und Angst (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    stellt den Antrag, entlassen zu werden, da sich sein Gesundheitszustand gebessert habe
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1628s02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1628s02b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren den 26. Okt. 1894.</hi></dateline>
+<salute><hi rendition="#c">Wohllöblicher Armenrath.</hi></salute>
+</opener>
+<p>
+Es Bereitzt 9 Monate verfloßen,<lb break="yes"/>seit dem Ich hir bin. Seit dieser<lb break="yes"/>Zeit hat sich mein Zustant Gott<lb break="yes"/>sei Dank sehr gebeßert; So daß<lb break="yes"/>an meinem entlaßen keine Gefar<lb break="yes"/>mehr zu befürchten ist. Ich stelle daher<lb break="yes"/>an Sie den Antrag nach dem der Brozeß<lb break="yes"/>den Ihr Euch selbst zugezogen habt, Euch<lb break="yes"/>an daß Kl. Bezirkzamt zu wenden<lb break="yes"/>damit Ihr mich wieder hohlen könt.<lb break="yes"/>Ich glaube der Herr Direktor wirt auch<lb break="yes"/>nichtz enkgegen haben. Aber daß setze<lb break="yes"/>Ich vorauß wen ich kome das Ich meine<lb break="yes"/>Ruhe habe, dan kan man es wieder brobiren.<lb break="yes"/>Wehre daß nathirlich nicht der Fall, dan<lb break="yes"/>dürfte Es Euch nicht verdriesen wen Euer<lb break="yes"/>Werther Name manchmahl verletzt wirte;<lb break="yes"/>oder gar mit dem wo daß Bapir gemacht<lb break="yes"/>wirt in vergleich treten könte. Es liese<lb break="yes"/>Sich nathirlich über Euch so manches sagen,<lb break="yes"/>aber man muß sich halt dariber hinweg
+
+<pb facs="#image_006"/>
+setzen sonst gibtz nimals keine Einigkeit.<lb break="yes"/>Den der Gescheutere gibt nach sagt ein<lb break="yes"/><add>alltes</add> Sprichwort. Sohin könt Ihr Euch bewerben<lb break="yes"/>um mich Es wirt auch gehen wen Ihr<lb break="yes"/>zufrieden Seit.</p>
+<p>Mit Hofnung sit entgegen<lb break="yes"/><hi rendition="#c">Lorenz <surname>S.</surname>.<lb break="yes"/>An.</hi><lb break="yes"/>Wohlöblichen Armenpflegschaftsrath<lb break="yes"/><space/> Münsterhausen. Bost daselbst.
+</p>
+</body>
+</text>
+</TEI>

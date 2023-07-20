@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2882f01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2882</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>F.</surname></persName>
+<date type="sent">ca1884-1924</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2882f">
+<persName>
+<forename>Karl</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1849"/>
+<death when="1924"/>
+<occupation>Müllermeister, Soldat Infantrie (ausgebildeter Gemeiner)</occupation>
+<residence><geo decls="#WGS">48.5733342 10.8365563</geo>Westendorf, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonom</p>
+<p>Anstalt: <date from="1884" to="1924">1884-1924</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistige Verrücktheit, Halluzinatorische Verwirrtheit, religiöser und Beschenkungswahn, fixe Ideen (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Lied</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gedicht/Lied über Kaiser Franz Josef
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2882f01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p> Jm Lied und im Gedichte spricht <hi rendition="#i">F</hi>ranz Josef</p>
+<p><hi rendition="#c">Dangbahren Josef-Bruder</hi><lb break="yes"/>Nicht lange lebte der gelibte
+                Käjser, Doch<lb break="yes"/>weihte er den Menschenwohl sich ganz; En jeder<lb break="yes"/>Hütte sproß ein Loorberrejser zu seinen<lb break="yes"/>Segensreichen Ruhmeskranz Ein Schmerzenschrei<lb break="yes"/>erfüllte drum die
+                Luft als ihn umfing die<lb break="yes"/>dunkle <hi rendition="#i">F</hi>ürstengruft. Sein treues Auge,
+                    sonst<lb break="yes"/>fon Glanz umflossen War nun umhült fon<lb break="yes"/><w>Vinstrer Nis</w> Todesnacht, Doch in den Lor<lb break="no"/>bern die sein Haupt
+                umflossen, da<lb break="yes"/>rauschte es und flüstert heut nocht sacht:<lb break="yes"/>Verfielst, O Stern, du auch dem Grabes<lb break="yes"/>bort Em
+                Volkesherzen strahlst tu Ewig fort<lb break="yes"/>Franz Josef Käjser auf Öestreich
+                    Käjser<lb break="yes"/><unclear reason="damage">Franz</unclear> Josef auf Öestreich glänz Ein Liebes<lb break="yes"/>liebes 13 Felir 4 Liebesstern! Das<lb break="yes"/>Land hat einen
+                guten Herrn, Wie<lb break="yes"/>kaum noch eins auf Erden: Pebe Franz<lb break="yes"/>Josef, ist des Landes Licht; Das Wort ist<lb break="yes"/>Segen,
+                das es spricht, Und wird zum werden,<lb break="yes"/>Sei Name, Rein und
+                Ruhmgeweiht, Er<lb break="yes"/>Schmückt für alle Ewige Zeit Die<lb break="yes"/>Plätter der Apfelkrone Gesichte Er<lb break="yes"/>let in jeeden Herzen 13 Felir
+                    4<lb break="yes"/>fort, Er klingt so rein fon Ort zu Ort<lb break="yes"/>Em
+                Lied und im Gedichte. <space/> Muster;</p>
+<p>Außs Otdo <surname>P.</surname> <hi rendition="#i">F</hi>ranz Josef</p>
+<p>Im Em Lied und im Gedichte auf ten 19 Merz<lb break="yes"/>Liebe frau Josefa Josef Gedichte;</p>
+</body>
+</text>
+</TEI>

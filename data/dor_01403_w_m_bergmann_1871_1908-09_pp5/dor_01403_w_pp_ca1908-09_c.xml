@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor1403w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>1403 (K. 250)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>W.</surname></persName>
+<date type="sent">ca1908-09</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Emilie <surname>W.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor1403w">
+<persName>
+<forename>Wilhelm</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1871-08-08"/>
+<death when="1909-12-17"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">51.5918019 7.6616804</geo>Geburtsort: Peterswald; Wohnort: Kamen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: V: Tagelöhner, M: Ehefrau</p>
+<p>Anstalt: <date from="1908-01-30" to="1909-12-17">30.01.1908-17.12.1909</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    schreibt an seine Frau, dass sie ihn holen soll, da der Arzt erlaubt habe, ihn zu entlassen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor1403w04a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="dor1403w04b.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="dor1403w04c.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline/>
+<salute>Liebe Emilie</salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#i"><surname>W.</surname></hi></add></p><p>jetzt kanste mich<lb break="yes"/>weg holen Montag komste<lb break="yes"/>hier und da bringste
+                mir meinen<lb break="yes"/>Überzhier die Mütze und das<lb break="yes"/>Vorhemdchen
+                Schlieps und Kragen<lb break="yes"/>ich habe den Oberarzt gefragt,<lb break="yes"/>ob ich kann zu Hause gehen,<lb break="yes"/><add place="above">da</add> meinte
+                er, ja ich kann gehen<lb break="yes"/>Liebe Emilie da komste aber<lb break="yes"/>zeitig das wir zu Mittag zu<lb break="yes"/>Hause sind, ich <add place="above">bin</add> jetzt mit arbeiten<lb break="yes"/>gegangen im <add place="above">Garten</add>Graben da wollen<lb break="yes"/>wir unsern Garten auch um<lb break="no"/>graben <pb facs="#image_011"/>Liebe Emilie ich freu mich das<lb break="yes"/>ich wieder <add place="above">kann</add> bei dir sein, ich liebe<lb break="yes"/>dich ich will dich nicht mer Ärger<lb break="yes"/>erst machen
+                wier unsen Land ferti<unclear>g</unclear><lb break="yes"/>und dan bleibe ich noch 14 <add place="above">Tage</add> zu Hause<lb break="yes"/>und ruhe mich noch <w>et was</w> aus<lb break="yes"/>und dann werde ich wohl wieder<lb break="yes"/>Arbeiten
+                müssen.</p><p>
+<hi rendition="#c">Liebe Emilie <seg ana="#salute">ich lass alle<lb break="yes"/>schön grüßen</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">dein lieber Wilhelm</seg></hi>
+<pb facs="#image_012"/><hi rendition="#c">An Frau Emilie <hi rendition="#i"><surname>W.</surname></hi><lb break="yes"/>wohnhaft in Kamen <placeName type="street">Gottesbergstr.</placeName> ½<lb break="yes"/>bei Hamm<lb break="yes"/>in Westfahlen</hi></p>
+<p><add place="margin">frei</add></p>
+</body>
+</text>
+</TEI>

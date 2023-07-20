@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb237h05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>237</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Anton <surname>H.</surname></persName>
+<date type="sent">26.12.1851</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Weißenhorn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb237h">
+<persName>
+<forename>Michael</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1861"/>
+<occupation>Metzger und Bräugeselle</occupation>
+<residence><geo decls="#WGS">48.3044877 10.1601492</geo>Weißenhorn</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Wirt</p>
+<p>Anstalt: <date from="1851" to="1861">1851-61</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Trunkfälliger Wahnsinn (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="verwaltung"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Wollte seinen Bruder im Zuge eines Aufenthalts in Augsburg abholen, 
+                    das Treffen kam jedoch nicht zustande, da der Patient nicht ohne Begleitung entlassen werden konnte. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb237h05a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb237h05b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r">Weißenhorn <hi rendition="#sup">den</hi> 26 Dcb
+                        1851</hi></dateline>
+<salute><hi rendition="#c">Wethester Herrn</hi></salute>
+</opener>
+<p>Indem jch nach Augsburgs kom̄e,<lb break="yes"/>wo mein Bruder dan̄
+                mit mir<lb break="yes"/>nacht Haus fahren kon̄te, wen̄ es Die<lb break="yes"/>Zeit erlaubt das er bis Sontag 11 Uhr<lb break="yes"/>ihn
+                Augsburgs sein kan̄. Das heiß<lb break="yes"/>den 25<hi rendition="#sup">ten</hi> Dezember, weil jch mich<lb break="yes"/>nicht länger aufhalten
+                kan̄.</p><p><hi rendition="#r"><seg ana="#salute">Euer Unterthätigter Diener</seg><lb break="yes"/><seg ana="#signed">Anton <surname>H.</surname></seg></hi></p><p><add place="margin">wo jch ihm<lb break="yes"/>Eisenhut<lb break="yes"/>Loschüret </add></p><p><add hand="verwaltung">d. 27 <hi rendition="#i">Dcbr</hi> Es thut mir leid, daß Sie in Augsburg
+                    vergebens<lb break="yes"/>auf Ihren Herrn Bruder gewartet haben werden. Aber es
+                    ist bei<lb break="yes"/>uns Grundsatz, daß Niemand ohne Begleitung aus der
+                    Anstalt ent<lb break="no"/>lassen wird, und gegenwärtig gibt es gerade so viel
+                    zu thun<lb break="yes"/>daß ich keinen von meinen Leuten entbehren kann. Es
+                    wird also<lb break="yes"/>schon nothwendig sein, daß Sie Ihren Bruder
+                        <del>hier</del> selbst von<lb break="yes"/>hier abholen </add></p>
+<pb facs="#image_012"/>
+<p><hi rendition="#c">Die Königliche<lb break="yes"/><w>Kreis Jrren Anstallt</w><lb break="yes"/>Irrsee</hi><lb break="yes"/><hi rendition="#u">Frei.</hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun1988k15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>1988 (K. 170)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>K.</surname></persName>
+<date type="sent">18.09.1904</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geheimrat: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun1988k">
+<persName>
+<forename>Heinrich</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1846-10-13"/>
+<death cert="unknown"/>
+<occupation>Arbeiter</occupation>
+<residence><geo decls="#WGS">51.920586 7.727183</geo>Geburtsort: Wolbeck; Wohnort: Wolbeck</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Weber, Mutter: Arbeiterin</p>
+<p>Anstalt: <date from="1900-06-28" to="1905-05-05">28.06.1900-05.05.1905</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber möchte seine Mutter besuchen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun1988k15a.jpg" xml:id="image_037"/>
+<graphic mimeType="image/jpg" url="mun1988k15bc.jpg" xml:id="image_038"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_037"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt <hi rendition="#r">Münster
+                            i. W., den</hi></add><hi rendition="#r"> 18<hi rendition="#i">ten
+                            September </hi><add hand="vordruck">190</add>4</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Lieber Hochgeehrter Herr Geheim=Rat</hi>!</hi></salute>
+</opener>
+<p><add hand="hand3"><unclear>G</unclear> 19/<hi rendition="#sub">9</hi> 04 ad acta
+                    Heinrich <surname><hi rendition="#i">K.</hi></surname><lb break="yes"/><unclear>G</unclear> </add></p>
+<p><hi rendition="#i">Ich möchte Ihnen freundlich bitten, Mir doch </hi><lb break="yes"/><hi rendition="#i">jetzt gleich Meine Mutter besuchen zu lassen und </hi><lb break="yes"/><hi rendition="#i">es nicht länger aufzuschieben, da Ich sehr
+                    bekümmert </hi><lb break="yes"/><hi rendition="#i">darum bin, da Alte Leute
+                    leicht Etwas zustossen kann, </hi><lb break="yes"/><hi rendition="#i">und Es wäre
+                    Mir sehr dann sehr un</hi><del><hi rendition="#i">g</hi></del><hi rendition="#i">angenehm, wenn Ich </hi><lb break="yes"/><hi rendition="#i">Sie krank antreffen
+                    würde, da man doch noch gerne mit </hi><lb break="yes"/><hi rendition="#i">seiner
+                    Mutter spricht. Ich kann des Nachts nicht mal </hi><lb break="yes"/><hi rendition="#i">darüber schlafen. </hi><seg ana="#salute"><hi rendition="#i">Das
+                        Sie Meine Bitte gewähren werden </hi><lb break="yes"/><hi rendition="#i">hofft Ihr ergenster Diener</hi></seg><hi rendition="#i"> </hi><seg ana="#signed"><hi rendition="#i">Heinrich </hi><surname><hi rendition="#i">K.</hi></surname></seg><hi rendition="#i">. </hi><seg ana="#salute"><hi rendition="#i">Es grüst </hi><lb break="yes"/><hi rendition="#i">Ihnen
+                        vielmals</hi></seg><hi rendition="#i"> </hi><seg ana="#signed"><hi rendition="#i">Heinrich </hi><surname><hi rendition="#i">K.</hi></surname></seg>. </p>
+<pb facs="#image_038"/>
+<p>
+<seg ana="#pic">[Gebäude]</seg>
+</p>
+</body>
+</text>
+</TEI>

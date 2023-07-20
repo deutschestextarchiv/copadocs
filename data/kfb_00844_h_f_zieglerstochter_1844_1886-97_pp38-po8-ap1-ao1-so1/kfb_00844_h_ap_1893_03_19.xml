@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb844h25" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>844</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sylvester <surname>H.</surname></persName>
+<date type="sent">19.03.1893</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Creszenz <surname>H.</surname></persName>
+<settlement type="sent">Donaualtheim</settlement>
+<settlement type="received">Irsee</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb844h">
+<persName>
+<forename>Creszenz</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1897"/>
+<occupation>Zieglerstochter</occupation>
+<residence><geo decls="#WGS">48.5945268 10.4875365</geo>Donaualtheim, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Zieglereibesitzer</p>
+<p>Anstalt: <date from="1886" to="1897">1886-1897</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>Sekundäre Seelenstörung (hysterische Verrücktheit), Verfolgungs- und Beeinträchtigungsgedanken (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="bruder"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+    Brief der Patientin mit Bleistift auf diesen geschrieben, siehe kfb_00844_h_pp_ca1886-97_g.
+    Bruder teilt der Patientin mit, dass er ihren Brief erhalten hat, informiert über Neuigkeiten in der Heimat und verspricht Besuch an Ostern.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb844h25a.jpg" xml:id="image_086"/>
+<graphic mimeType="image/jpg" url="kfb844h25b.jpg" xml:id="image_087"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_086"/>
+<opener>
+<dateline><hi rendition="#c">Donaualtheim den 19. März 1893</hi></dateline>
+<salute><hi rendition="#c">Liebe Schwester!</hi></salute>
+</opener>
+<p>Deinen Brief haben wir erhalten durch dem Herrn Oberarzt<lb break="yes"/>seine
+                Besorgung. Wir alle Gesund sind und meine Buben<lb break="yes"/>sind schon groß
+                gewachsen und zu Hause. <surname>L.</surname> Mari<lb break="yes"/>ist schon
+                fünf Jahre verheiratet. Deine Schwester ihre<lb break="yes"/>Tochter hat uns
+                voriges Jahr besucht und ist schon 20 Jahr<lb break="yes"/>alt sie ist zuhause bei
+                ihrem Vater der ein <del>H</del>Briefbot ist<lb break="yes"/>in Wolnzach Markt bei
+                Ingolstatd. <del>Und</del> Und die<lb break="yes"/>Theres <surname>B.</surname>
+                ist eine Näherin und Köchin und geht ihr<lb break="yes"/>auch nicht gut sie immer
+                kränklich. Liebe Schwester ich wer<lb break="no"/>de dich diese Osterfeiertage
+                besuchen. Sei getrost wenn es mit deiner<lb break="yes"/>Krankheit besser geht so
+                es wird dir so bald wie moglich abgeholfen<lb break="yes"/>werden. Wir haben den
+                Brief den Herrn Dekan lesen lassen,<lb break="yes"/>und er ist sehr besorgt, daß
+                dir abgeholfen wird.</p>
+<pb facs="#image_087"/>
+<p><seg ana="#salute">Unter vielen Grüße von uns alle beschlies ich mein schreiben</seg> dein<lb break="yes"/><hi rendition="#r">Bruder <seg ana="#signed">Sylvester <surname>H.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

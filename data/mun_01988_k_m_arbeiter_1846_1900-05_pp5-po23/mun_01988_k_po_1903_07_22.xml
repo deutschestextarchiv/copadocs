@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun1988k07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>1988 (K. 170)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>K.</surname></persName>
+<date type="sent">22.07.1903</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geheimrat?: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun1988k">
+<persName>
+<forename>Heinrich</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1846-10-13"/>
+<death cert="unknown"/>
+<occupation>Arbeiter</occupation>
+<residence><geo decls="#WGS">51.920586 7.727183</geo>Geburtsort: Wolbeck; Wohnort: Wolbeck</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Weber, Mutter: Arbeiterin</p>
+<p>Anstalt: <date from="1900-06-28" to="1905-05-05">28.06.1900-05.05.1905</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet darum, seine Mutter besuchen zu dürfen, und an den Amtsrichter zu schreiben, da er keinen Vormund benötigt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun1988k07.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline><add hand="vordruck">Provinzial-Heil-Anstalt <hi rendition="#r">Münster
+                            i. W., den</hi></add><hi rendition="#r"> 22<hi rendition="#i">ten Juli
+                        </hi>1903</hi>
+</dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Hochgeehrter Herr Geim=Rath</hi>!</hi></salute>
+</opener>
+<p><add hand="hand3"><hi rendition="#c">G <hi rendition="#sup">24.</hi>/<hi rendition="#sub">7</hi> 03<lb break="yes"/><hi rendition="#i"><hi rendition="#u" style="hand4">ad acta</hi></hi> Heinrich <surname><hi rendition="#i">K.</hi></surname><lb break="yes"/>G </hi></add></p>
+<p><hi rendition="#i">Ich möchte mich mit der Bitte an Ihnen wenden,<lb break="yes"/>das
+                    Sie Mir erlaubten, Einmal Meine Mutter be<lb break="no"/>suchen zu dürfen, denn
+                    Ich bin betrübt, weil Ich nicht<lb break="yes"/>weis, wie
+                    es Ihr geht. Dann möchte Ich Ihnen auch<lb break="yes"/>bitten, das Sie nach
+                    dem Amtsrichter schreiben, das Ich<lb break="yes"/>den Pfleger Zimmermeister
+                    Josef <surname>D.</surname><lb break="yes"/>nicht notwendig hätte, denn Ich bin verständig genug,<lb break="yes"/>meine Vermögensverhältnisse zu besorgen. <seg ana="#salute">Das
+                        Sie<lb break="yes"/>meine Bitten gewähren werden hofft Ihr ergenster<lb break="yes"/>Diener</seg>
+<seg ana="#signed">Heinrich <surname>K.</surname></seg> (Wolbeck)<lb break="yes"/><seg ana="#salute">Es grüst Ihnen vielmals</seg>
+<seg ana="#signed">Heinrich <surname>K.</surname></seg>
+</hi></p>
+</body>
+</text>
+</TEI>

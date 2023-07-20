@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2902j01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2902</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>J.</surname></persName>
+<date type="sent">20.08.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Cousine u. Cousin: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2902j">
+<persName>
+<forename>Maria</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1863"/>
+<death when="1925"/>
+<occupation>Privatiere</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Zimmermann</p>
+<p>Anstalt: <date from="1905" to="1925">1905-25</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>"Hallucinatorische Verrücktheit, Wahnideen" (1905)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin bittet um einen Besuch von ihrem "Vetter" (u. ihrer "Base"). 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2902j01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2902j01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline>Kaufbeuren, d. 20 August 1906.</dateline>
+<salute><hi rendition="#r">Geehrteste Base u. Herr Vetter!</hi></salute>
+</opener>
+<p><space/> Entschuldigen wertheste<lb break="yes"/>Base u. Herr Vetter, daß ich
+                    Sie<lb break="yes"/>mit einem Briefe belästige.  </p><p>Ich bin noch in Kaufbeuren. Sind<lb break="yes"/>Sie doch so gut u. kom̄en Sie,<lb break="yes"/>aber <w>dieses</w><w>mal</w> der Herr Vetter<lb break="yes"/>weil
+                Sie mich wertheste Base<lb break="yes"/>nicht bekom̄en haben, als Sie<lb break="yes"/>wertheste Base da waren; oder<lb break="yes"/>Sie, u. Herrn Vetter
+                mitnehmen<lb break="yes"/>nicht wahr wertheste Base ich<lb break="yes"/>meine so
+                wäre es am besten,<lb break="yes"/>oder auch allein, wie Sie wer<lb break="no"/>theste Base es gemacht haben<lb break="yes"/>als ich Ihnen wertheste Base <pb facs="#image_002"/>geschrieben habe kamen, Sie bald.<lb break="yes"/>Sind Sie
+                doch so gut u. kom̄en<lb break="yes"/>Sie wertheste Base doch bald.,<lb break="yes"/>Gott wird es Ihnen belohnen.<lb break="yes"/>Wie steht es mit
+                Ihrer Ge<lb break="no"/>sundheit wertheste Base, Gott<lb break="yes"/>möge Ihnen
+                wertheste Base eine<lb break="yes"/>gute u. dauernde Gesundheit<lb break="yes"/>geben. Nun muß ich den<lb break="yes"/>Brief beenden. Sind Sie wer<lb break="no"/>theste Base doch so gut u. kom<lb break="no"/>men Sie bald, daß ich doch nach<lb break="yes"/>Kempten kom̄e. Gott belohne<lb break="yes"/>es Ihnen
+                reichlichst wertheste<lb break="yes"/>Base. <seg ana="#salute">Und nun grüße ich<lb break="yes"/>Sie,
+                wertheste Base vielmal<lb break="yes"/>sowie Herrn Vetter u. die Kinder.<lb break="yes"/>Ich bleibe<lb break="yes"/><hi rendition="#r">Ihre Base<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed">Marie <surname>I.</surname>.</seg></hi></p><p>(z.Z. Heil u. Pflegeanstalt.)<lb break="yes"/>(Kaufbeuren.)</p>
+</body>
+</text>
+</TEI>

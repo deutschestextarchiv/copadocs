@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3349f19" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3349</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>F.</surname></persName>
+<date type="sent">10.08.1924</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion <surname/></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3349f">
+<persName>
+<forename>Jakob</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888"/>
+<death when="1935"/>
+<occupation>Landwirt, Dienstknecht</occupation>
+<residence><geo decls="#WGS">48.2473553 10.4500832</geo>Premach, Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landwirt</p>
+<p>Anstalt: <date from="1907" to="1935">1907-35</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>maniakalischer Erregungszustand (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="crayon" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Wunsch, Beihilfe zum Verfassen amtlicher Schreiben zu erhalten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3349f19a.jpg" xml:id="image_057"/>
+<graphic mimeType="image/jpg" url="kfb3349f19b.jpg" xml:id="image_058"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_057"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">A</hi>n die verehrliche <hi rendition="#i">Direktion</hi><lb break="yes"/>hiesiger <hi rendition="#i">Anstalt</hi>!</hi></salute>
+</opener>
+<p><space/> Im Zwange, den Anordnungen hiesiger<lb break="yes"/>Direktion
+                unterworfen, bitte u. ersuche ich selbe, um<lb break="yes"/>Bewilligung, folgenden
+                Wunsches:</p>
+<p>Wünsche zwei amtliche Schreiben von hier abgehen zu<lb break="yes"/>lassen. Zu
+                diesem Zwecke benötigte ich zur Abfassung,<lb break="yes"/>sowie Richtigstellung
+                die Beihilfe des Herrn Kanzleisäkreter<lb break="yes"/><surname>R.</surname>. </p>
+<p>Sofern mir der Wunsch bewilligt, im voraus dankend, zeichnet<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Hochachtungsvollst </seg><seg ana="#signed"><surname><hi rendition="#i">F.</hi></surname><hi rendition="#i"> Jakob </hi><lb break="yes"/>Patient.</seg></hi><lb break="yes"/><hi rendition="#i">Kaufbeuren</hi>, den 10.<hi rendition="#i">VIII</hi>.1924.</p>
+<pb facs="#image_058"/>
+<p>
+<hi rendition="#c">An die verehrliche<lb break="yes"/><hi rendition="#i">Direktion</hi><lb break="yes"/>hiesiger <hi rendition="#i">Anstalt</hi></hi>.</p>
+</body>
+</text>
+</TEI>

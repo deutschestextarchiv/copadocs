@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1231z02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1231</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Alban <surname>Z.</surname></persName>
+<date type="sent">02.09.1862</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freund: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1231z">
+<persName>
+<forename>Alban</forename>
+<surname>Z.</surname>
+</persName>
+<birth when="1836"/>
+<death cert="unknown"/>
+<occupation>Cand. phil.</occupation>
+<residence><geo decls="#WGS">48.4539028 10.2785509</geo>Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1862" to="1870">1862-70</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geisteskrankheit</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber glaubt, die Anstalt bald verlassen zu können.
+                    Er befürchtet, seinem Freund mit einer Äußerung geschadet zu haben und den König beleidigt zu haben.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1231z02a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb1231z02b.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 2 <hi rendition="#sup"><hi rendition="#u">t</hi></hi> September 62. </hi></dateline>
+<salute><hi rendition="#c">Lieber Freund! </hi></salute>
+</opener>
+<p> Mein Befinden ist nun derart sowohl in körperlicher wie in<lb break="yes"/>geistiger Hinsicht, daß ich die Anstalt nächstens verlassen zu<lb break="yes"/>kön̄en glaube. Ich befürchtete − u. das fiel mir erst später<lb break="yes"/>bei − es möchte<del>t</del> eine Äußerung, die ich auf die
+                frage<lb break="yes"/>eines Münchener Bürgers that, Dir schädlich gewesen<lb break="yes"/>sein. Er fragte mich nämlich, ob Du auch ein Schwabe<lb break="yes"/>seiest, <del>was ich</del> worauf ich antwortete, Du seiest in<lb break="yes"/>Oberbaiern geboren u. habest Dich später in Schwaben<lb break="yes"/>(Augsburg) aufgehalten. Dieser kon̄te nämlich durch<lb break="yes"/>einen meiner Bekan̄ten wissen, daß Du mir früher<lb break="yes"/>Geld borgtest. Nun sollte ich in fieberhaftem Zustande<lb break="yes"/>geäußert haben: "Die Schwaben haben die Russen<lb break="yes"/>besiegt". Eine andere Befürchtung war die<lb break="yes"/>S<unclear>r</unclear>.
+                Majestät der König beleidigt zu haben. Er begeg<lb break="no"/>nete mir nämlich im
+                englischen Garten zweimal.<lb break="yes"/>Ich grüßte <del>ihn</del>
+<del>z</del> zwar, doch das <w>zweite</w><w>mal</w> nicht auf die<lb break="yes"/>gebührende Weise (allerdings nicht absichtlich). </p>
+<pb facs="#image_005"/>
+<p> Was hätte ich thun sollen? Mich Allerhöchstdemselben zu<lb break="yes"/>Füßen
+                werfen? − aber an diesem Orte!<lb break="yes"/>Deßungeachtet beunruhigte mich
+                dieß nicht wenig </p>
+</body>
+</text>
+</TEI>

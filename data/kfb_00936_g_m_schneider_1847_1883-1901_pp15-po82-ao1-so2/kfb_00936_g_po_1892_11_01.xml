@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb936g96" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Pius <surname>G.</surname></persName>
+<date type="sent">01.11.1892</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Dr. Karl Wiemann</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb936g">
+<persName>
+<forename>Pius</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1901"/>
+<occupation>Schneider</occupation>
+<residence><geo decls="#WGS">48.570171 10.590197622123007</geo>Kicklingen, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1883" to="1901">1883-1901</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Halluzinationen, Größenwahn, Verfolgungswahn (1883)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er verlangt Geld, das ihm seiner Meinung nach zusteht und rechnet vor, wie 
+                    viel das ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb936g96a.jpg" xml:id="image_369"/>
+<graphic mimeType="image/jpg" url="kfb936g96b.jpg" xml:id="image_370"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_369"/>
+<opener>
+<dateline/>
+<salute><space/> An herrn <hi rendition="#i">Karl Wiemann<lb break="yes"/>k.</hi> <w>Assistinz arzt</w> in der <hi rendition="#i"><seg ana="#inst"><w>Wittels<lb break="no"/>bacher</w> Räuberhöhle</seg>
+                    Hier</hi>!</salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#i">October<lb break="yes"/>1892</hi></add></p>
+<p>Nachdem ich von Ihnen, umsonst<lb break="yes"/>verlangt habe, das Sie mir meinen<lb break="yes"/><hi rendition="#i">Café</hi> u. mein Bier wieder geben<lb break="yes"/>welches man mir Boshafterweise<lb break="yes"/>genom̄en
+                hat, ebensowenig bekom̄e<lb break="yes"/>ich Arbeit um mir meinen <w>Lebens<lb break="no"/>unterhalt</w> zu verdienen. So bin ich<lb break="yes"/>jetzt gezwungen, mein verdientes<lb break="yes"/>Geld zu verlangen, welches man<lb break="yes"/>mir ebenfalls wegenom̄en hat oder<lb break="yes"/>auch
+                vorenthalten, es ist dieses Geld<lb break="yes"/>für gelieferti Arbeit ohne die
+                Arbeit<lb break="yes"/>welche ich für die <seg ana="#inst">Mördergrube</seg><lb break="yes"/>hier geleistet habe, bekom̄e ich<lb break="yes"/>acht Mark
+                fünfzig Pfeninge<lb break="yes"/>von <hi rendition="#i">Doctor Aumiller</hi>, welche
+                er<lb break="yes"/>mir bezahlt hat, der Oberknecht<lb break="yes"/>Stentz hat aber
+                das Geld wege<lb break="no"/>nom̄en u. ich hatti das Nachsehen.<lb break="yes"/><del>trad</del> trotz der <hi rendition="#i">Aumiller</hi> zu mir<lb break="yes"/>sagte ich sollte mir für dieses Geld<lb break="yes"/>Lebensmittel kaufen! die folgenden<lb break="yes"/><del>Namf</del> Namen
+                sind.</p>
+<pb facs="#image_370"/>
+<p><hi rendition="#r"><hi rendition="#i">M. <space/> Pf.</hi></hi><lb break="yes"/><hi rendition="#i">Assistentz Arzt</hi> hier <hi rendition="#i">Aumiller</hi> 8 <space/> 50<lb break="yes"/><hi rendition="#i"><surname>S.</surname></hi>
+                unterknecht <hi rendition="#i">Kaufbeuren</hi> 4 <space/> 50<lb break="yes"/><hi rendition="#i"><surname>H.</surname> I</hi> ... hier <space/> 1.<lb break="yes"/><hi rendition="#i"><surname>W.</surname> Engelbert</hi> ... <space/> 2.<lb break="yes"/><hi rendition="#i"><surname>H.</surname> I</hi>. . . . . <space/>
+<hi rendition="#u">40</hi><lb break="yes"/><hi rendition="#i"><surname>M.</surname> I</hi> 3.15 <hi rendition="#i">Suma</hi>
+                .... 16.40<lb break="yes"/><hi rendition="#r"><hi rendition="#u">3 15</hi><lb break="yes"/>Sm. 19 55</hi></p>
+<p>dieses hat der Julius zu<lb break="yes"/>Regeln im andern<lb break="yes"/>Fall muß
+                es durch den<lb break="yes"/><w>Ger ichts vollzieher</w> <w>einge<lb break="no"/>trieben</w> werden.. Ich bin<lb break="yes"/>nicht Willens den Hund<lb break="yes"/>weiter zu spielen u. für<lb break="yes"/>die andern zu bellen,
+                welche<lb break="yes"/>ein schönes leben großen Lohn<lb break="yes"/>u. gutes
+                fressen haben,<lb break="yes"/>u. ich dagegen, kann mir<lb break="yes"/>das Maul
+                abwischen wenn<lb break="yes"/>andere gefressen u. gesoffen<lb break="yes"/>haben,
+                und ihre Schuh an<lb break="yes"/>meinem Maul abwischt<del>n</del> haben<lb break="yes"/><hi rendition="#c"><hi rendition="#i"><seg ana="#signed">Pius
+                                <surname>G.</surname></seg></hi>.<lb break="yes"/>gezeichnet den 1 ten<lb break="yes"/><hi rendition="#i">November</hi>
+                    1892.</hi></p>
+</body>
+</text>
+</TEI>

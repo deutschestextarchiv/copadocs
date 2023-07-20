@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun5988f09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>5988 (K. 90)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>F.</surname></persName>
+<date type="sent">11.09.1930</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Stellenvermittlerin: Martha <surname>S.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun5988f">
+<persName>
+<forename>Heinrich</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1879-07-10"/>
+<death cert="unknown"/>
+<occupation>Landwirt</occupation>
+<residence><geo decls="#WGS">51.9097831 7.958472934876058</geo>Geburtsort: Freckenhorst; Wohnort: Freckenhorst</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Landwirt; Mutter: n.a.</p>
+<p>Anstalt: <date from="1920-03-29" to="1920-08">29.03.1920-xx.08.1920</date></p>
+<p>Brieftypen: 14.04.1922-14.07.1923</p>
+</state>
+<trait><p>Schizophrenie (1920)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="stamp" scope="minor" scribe="hand2"/>
+<handNote medium="pencil" scope="minor" scribe="hand3"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+             Der Patient schreibt an eine Stellenvermittlung. Er stellt sich vor und zählt seine Fähigkeiten auf und bittet, dass man eine Stelle für ihn findet.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun5988f09a.jpg" xml:id="image_019"/>
+<graphic mimeType="image/jpg" url="mun5988f09b.jpg" xml:id="image_020"/>
+<graphic mimeType="image/jpg" url="mun5988f09c.jpg" xml:id="image_021"/>
+<graphic mimeType="image/jpg" url="mun5988f09d.jpg" xml:id="image_022"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline><hi rendition="#c">Münster d 11.9.1930.</hi></dateline>
+<salute>Frau Martha <surname>S.</surname>!</salute>
+</opener>
+<p><add hand="hand2"><hi rendition="#r"><hi rendition="#i">Provinzialheilanstalt
+                            </hi><lb break="yes"/><hi rendition="#i">Münster i.
+                W.</hi></hi></add></p><p>Mein Name ist<lb break="yes"/>Heinrich <surname>F.</surname>, wie<lb break="yes"/>ich aus
+                der General<lb break="yes"/>Anzeiger Nr 247. gelesen <add place="above">habe</add>.<lb break="yes"/>Mein Beruf ist Landwirt<lb break="yes"/>ich kann alle Arbeiten<lb break="yes"/>die es im Leben gibt in<lb break="yes"/>der landwirtschaft in<lb break="yes"/>Menschen Ärzliche Beziehun<lb break="no"/>gen in Tierärtzliche
+                    Bezie<lb break="no"/>hungen: Wie ich Gesund<lb break="yes"/>bin und Guten
+                Verstand<lb break="yes"/>habe. Wie ich jetzt in<lb break="yes"/>dieser Anstalt bin
+                so <pb facs="#image_020"/>möchte ich eine Stelle<lb break="yes"/>haben, Auf welche
+                weiße<lb break="yes"/>wie Sie die haben.<lb break="yes"/>Ich habe sonst ein Gutes<lb break="yes"/>Zeugnis. Wenn ein<lb break="yes"/>Schrifliches Haben muß<lb break="yes"/>Laß ich mir ein <w>aus<lb break="no"/>Schreiben</w>. Bitte Sie Frau<lb break="yes"/>Stellenvermittlerin<lb break="yes"/>mir Mündlich oder<lb break="yes"/>Schriftlich eine Stelle<lb break="yes"/>zu Besorgen. Um<lb break="yes"/>Antwort.<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Heinrich </hi><surname><hi rendition="#i">F.</hi></surname></seg><hi rendition="#i">. </hi><pb facs="#image_021"/>Meine jetztige Adreße<lb break="yes"/>ist<lb break="yes"/><hi rendition="#i">Herr Heinrich
+                        </hi><surname><hi rendition="#i">F.</hi></surname><lb break="yes"/>in <placeName>Münster</placeName> i W.<lb break="yes"/><placeName type="street">Kinderhauserstraße</placeName><lb break="yes"/><hi rendition="#r">Nr. 92</hi><lb break="yes"/>Provinzialheilanstalt<lb break="yes"/>Marienthal<lb break="yes"/>Hauptgebäude M.
+                A. 2. <pb facs="#image_022"/><add hand="hand3">Zu den Akten <hi rendition="#u"><hi rendition="#u" style="hand4"><surname>F.</surname></hi></hi></add><lb break="yes"/>Nach<lb break="yes"/>Frau Martha <surname>S.</surname><lb break="yes"/>Stellenvermittlerin.<lb break="yes"/><placeName type="street">Bissenkamp</placeName> 15.<lb break="yes"/>Eke <placeName type="street">Gerberstraße.</placeName><lb break="yes"/>Ruf: 37951. u. 52.<lb break="yes"/>General Anzeiger. </p>
+</body>
+</text>
+</TEI>

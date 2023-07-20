@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2012b06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2012 (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>B.</surname></persName>
+<date type="sent">03.08.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schmied/potentieller Arbeitgeber: J. <surname>P.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun2012b">
+<persName>
+<forename>Franz</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1882-04-22"/>
+<death cert="unknown"/>
+<occupation>Schmied</occupation>
+<residence><geo decls="#WGS">51.8260823 8.1453352</geo>Geburtsort: Oelde; Wohnort: Oelde</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Schmiedemeister, Mutter: n.a.</p>
+<p>Anstalt: <date from="1906-07-16" to="1907-02-10">16.07.1906-10.02.1907</date></p>
+<p>Brieftypen: pp, po, ao, oa</p>
+</state>
+<trait><p>Geisteskrankheit (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="crayon" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber möchte eine Stelle als Schmied bei dem Adressaten besetzen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2012b06a.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="mun2012b06b.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Münster</hi>. den 3 <hi rendition="#i">August</hi></hi></dateline>
+<salute>An Herrn J. <surname>P.</surname>.<lb break="yes"/><hi rendition="#i">M</hi>aschinenfabrik Warendorf</salute>
+</opener>
+<p><add hand="unbekannt">G 4./<hi rendition="#sub">8</hi> 06<lb break="yes"/><hi rendition="#u" style="hand3">ad acta</hi>
+<surname><hi rendition="#i">B.</hi></surname><lb break="yes"/><space/> G </add>
+</p>
+<p>Aus Ihrer gestrigen <unclear>Anodzene</unclear><lb break="yes"/>habe ich gesehen das Sie eine<lb break="yes"/>Feuerschmied suchen.
+                Und werde<lb break="yes"/>mich sofort veranlassen die<lb break="yes"/>Stelle zu
+                übernehmen, So<lb break="yes"/>weit dieselbe noch nicht<lb break="yes"/>besetzt
+                ist. Ich bin in der<lb break="yes"/>Lage alle vorkomente<lb break="yes"/>Arbeiten
+                anzufertigen.<lb break="yes"/>Und möchte Sie deshalb<lb break="yes"/>bitten mir zu
+                Benachrichten<lb break="yes"/>ob ich die Stelle sofort<lb break="yes"/>annehmen
+                kann<lb break="yes"/><seg ana="#salute">Es grüß Achtungsvol</seg><lb break="yes"/><seg ana="#signed">Franz <surname><hi rendition="#i">B.</hi></surname></seg> Schmide<lb break="yes"/>Adrese <hi rendition="#i">Mar</hi>ienthal <hi rendition="#i">Münster</hi>
+</p>
+<pb facs="#image_015"/>
+<p><unclear>A</unclear>dresse <hi rendition="#i">Herrn</hi> Schmid Fraz<lb break="yes"/><surname><hi rendition="#i">B.</hi></surname>
+<placeName><hi rendition="#i">Oelde</hi></placeName> u<lb break="yes"/><unclear>M</unclear>a<hi rendition="#i">rien</hi>thal bei <hi rendition="#i">Münster </hi></p>
+</body>
+</text>
+</TEI>

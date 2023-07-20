@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1762p47" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1762</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Philipp <surname>P.</surname></persName>
+<date type="sent">1882-1916</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau und Kinder: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1762p">
+<persName>
+<forename>Philipp</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1916"/>
+<occupation>Weinwirtschaftsbesitzer</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Kitzingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n. a. </p>
+<p>Anstalt: <date from="1882" to="1916">1882-1916</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Tobsucht (1874, 1881), Depression (1881, 1882-1895), Manie (1882), circulärer Irrsinn (1882-1895)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Pat. wünscht Besuch von Frau und Kindern
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1762p47a.jpg" xml:id="image_154"/>
+<graphic mimeType="image/jpg" url="kfb1762p47b.jpg" xml:id="image_155"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_154"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#r"><hi rendition="#i">Liebe Frau &amp;
+                    Kinder</hi></hi></salute>
+</opener>
+<p>Wen̄ ich noch nicht baldigst entlassen<lb break="yes"/>werde besucht mich
+                umgehend. Ich brenne<lb break="yes"/>darauf, mit Euch vieder einmal zusam̄en<lb break="yes"/>zu sein. <seg ana="#cens">Ihr wißt wie der <hi rendition="#i">Hofrath</hi><lb break="yes"/>ist er läßt keinen Brief an euch &amp; eben<lb break="yes"/>sowenig an mir gelangen.</seg> Der| artige<lb break="yes"/>Gevaltige <add place="above"><hi rendition="#i">Leute</hi></add> sind nicht endern bis Gott
+                Ihnen<lb break="yes"/>Ziel &amp; Maas steckt bringt mir <hi rendition="#i">Toback<lb break="yes"/></hi><hi rendition="#i">Charcutier</hi>vaar<unclear/> &amp;
+                Wein mit <seg ana="#salute">Seid herzlich<lb break="yes"/>gegrüßt &amp; geküßt v
+                    </seg><seg ana="#signed">E P<hi rendition="#i">h </hi><surname><hi rendition="#i">P.</hi></surname></seg>
+<add place="margin"><lb break="yes"/>Gott<lb break="yes"/><hi rendition="#u">Geleerte</hi></add></p><pb facs="#image_155"/><p>Die Zeit geht hin der Tag kom̄t<lb break="yes"/>Wo mich meine <hi rendition="#i">Pflicht</hi> ruft die<lb break="yes"/>Ernde ist reif<lb break="yes"/><unclear>F O</unclear><lb break="yes"/>nicht veiter<lb break="yes"/>O wen̄ Du sehen kon̄tst<lb break="yes"/>Mit meinen <hi rendition="#i">Augen </hi><lb break="yes"/>Vor
+                welchen <hi rendition="#i">Abgrund</hi> Unsre feinde<lb break="yes"/>stehn<lb break="yes"/>Welche <hi rendition="#i">Pein</hi> Gewissensbisse ewig <add place="margin"><lb break="yes"/>ewige Gnade<lb break="yes"/>Sie ich sag euch<lb break="yes"/>mehr als sie sind</add><lb break="yes"/><add place="margin">gerichtet<lb break="yes"/>furchterlich<lb break="yes"/><hi rendition="#i">Amen</hi>
+<hi rendition="#i">Ph </hi><surname><hi rendition="#i">P.</hi></surname></add></p> <p>Als <hi rendition="#i">Paul</hi> der <hi rendition="#i">Verkunder</hi><lb break="yes"/>kam ich zu Euch<lb break="yes"/>Als <hi rendition="#i">Saul</hi>
+                der <hi rendition="#i">Racher</hi><lb break="yes"/>mußt Ihr mich ziehen <add place="below">lassen</add><lb break="yes"/>Obs wollt oder nicht<lb break="yes"/>Ihr <hi rendition="#i">Pharisaer</hi> &amp;<lb break="yes"/>Schrift<hi rendition="#u">geleerte</hi><lb break="yes"/>Wie Götzen wollts<lb break="yes"/>angebetet sein</p>
+</body>
+</text>
+</TEI>

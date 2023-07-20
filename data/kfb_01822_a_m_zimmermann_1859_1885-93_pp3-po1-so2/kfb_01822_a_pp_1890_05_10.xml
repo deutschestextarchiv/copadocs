@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1822a05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1822</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>A.</surname></persName>
+<date type="sent">10.05.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freund: Franz<surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1822a">
+<persName>
+<forename>Johann</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1859"/>
+<death cert="unknown"/>
+<occupation>Zimmermann</occupation>
+<residence><geo decls="#WGS">48.5209801 10.5593511</geo>Eppisburg, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner, Zimmermann</p>
+<p>Anstalt: <date from="1885" to="1893">1885-93</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Geistesstörung (1889), Gewalthätigkeit (1885)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt1"/>
+<handNote medium="crayon" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    gesund, könnte arbeiten, möchte keine Armenunterstützung mehr, ist von Amerika gekommen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1822a05a.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline>Irrse de 10 Mai 1890  <add hand="arzt1"><hi rendition="#r">/:10.<hi rendition="#sup">t</hi> Mai 1890:/</hi></add></dateline>
+<salute><hi rendition="#c">Guter Freud</hi></salute>
+</opener>
+<p>
+Ich habe vernonen vo Herr Hofraht<lb break="yes"/>das sie mir Korater sind ich bin<lb break="yes"/>Jezt gesund und köte mir min Brod<lb break="yes"/>vedinen Iich arbeiten alletag Ich <del>vrlag</del><lb break="yes"/>Verlang von der Gemide<lb break="yes"/>keine Amrmenunterstüzung I ich<lb break="yes"/>v würde mir min Brod verdinen<lb break="yes"/>Es hat mir schlecht geganen weil<lb break="yes"/>ich von Amerika Gekomen bin<lb break="yes"/><hi rendition="#c">An Franz <surname><unclear>W.</unclear></surname><lb break="yes"/>Eppisburg<lb break="yes"/>Bei Dillingen</hi><lb break="yes"/><add hand="arzt2"><hi rendition="#r"><surname>A.</surname> Joh.</hi>.</add>
+</p>
+</body>
+</text>
+</TEI>

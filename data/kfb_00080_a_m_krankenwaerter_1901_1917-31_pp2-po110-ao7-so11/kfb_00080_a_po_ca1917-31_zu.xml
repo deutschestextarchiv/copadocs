@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a112" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca1917-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ärzte: Lenhard, Prinzing, Fuchs, Kasselmann</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1917" to="1931">1917-31</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Er beschwert sich über die Unterbringung und Verpflegung und fordert eine bessere Behandlung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a112a.jpg" xml:id="image_075"/>
+<graphic mimeType="image/jpg" url="kfb80a112b.jpg" xml:id="image_076"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_075"/>
+<opener>
+<dateline/>
+<salute><space/> Meine Lieben Schätze! Herrn</salute>
+</opener>
+<p><space/> Schreibe Euch die Wahrheit. Ich wer<lb break="no"/>de in diesem
+                Narrenhaus imer<lb break="yes"/>kränker &amp;. närrisch. Muß den Ganzen<lb break="yes"/>Tag Hunger leiden. Das kan̄ ich nicht<lb break="yes"/>mehr
+                aushalten. Bekom̄e mehr Anfäl<lb break="no"/>le, habe wenig &amp;. schlechtes
+                Essen, &amp;<lb break="yes"/>schlechte <del>Versch</del> Verpflegung &amp;. bin<lb break="yes"/>unter lauter Narren. Ihr könt fein<lb break="yes"/>essen, &amp;.
+                feines Leben haben &amp;. uns<lb break="yes"/>auslachen wie die <seg ana="#curse">Großköpferten</seg>.<lb break="yes"/>Gesund kön̄t Ihr uns nicht machen.<lb break="yes"/>Ich sags Euch! tut mich bitte in 1<lb break="yes"/>Zuchthaus
+                od: Arbeitshaus wos mir<lb break="yes"/>besser geht. Oder tut mich absolut<lb break="yes"/>auf Zee C in 1 Zelle wo ich allein<lb break="yes"/>bin. Hier mag
+                ich unter diesen<lb break="yes"/>Menschen absolut nicht bleiben.<lb break="yes"/>Wen̄ ich <add place="above">in</add> keine Zelle kom̄e,
+                    <del>da</del> &amp;.<lb break="yes"/>nicht mehr zu essen bekom̄e,<lb break="yes"/>dan̄ beiß ich mich einfach in<lb break="yes"/>mein Fleisch
+                hinein, reiß &amp;.<lb break="yes"/>haue alles zusam̄en &amp;. trete<lb break="yes"/>anders auf. Mir ist die Ge<pb break="no" facs="#image_076"/>duld
+                jetzt ausgegangen<lb break="yes"/>Ich laß mich von Euch<lb break="yes"/>nicht mehr
+                als Narr<lb break="yes"/>anschauen. Tut mich<lb break="yes"/>sofort in eine Zelle<lb break="yes"/>&amp;. haut mich noch<lb break="yes"/>fest durch. Wen̄
+                ich<lb break="yes"/>nur allein in<lb break="yes"/>der Zelle bin &amp;. kei<lb break="no"/>ne Menschen mehr<lb break="yes"/>sehe, das ist mir die<lb break="yes"/>Hauptsache. Sofortige<lb break="yes"/><hi rendition="#r">Antwort.</hi><lb break="yes"/><hi rendition="#c"><seg ana="#salute">Viele Grüße</seg><lb break="yes"/><seg ana="#signed">Hans
+                        <surname>A.</surname><unclear>J.</unclear>.</seg></hi><lb break="yes"/>Lest mitnander den<lb break="yes"/>langen Brief wo ich an<lb break="yes"/>Herrn Schef Prinzing schrieb</p>
+<p><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Vorsicht</hi></hi></hi><lb break="yes"/>An Herren Ärzte.<lb break="yes"/><hi rendition="#i">Lenhard,
+                    Prinzing, Fuchs</hi> &amp;.<lb break="yes"/>Kasselman̄. Doktoren in<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Heilanstalt</hi><lb break="yes"/>Kaufbeuren</hi></p>
+</body>
+</text>
+</TEI>

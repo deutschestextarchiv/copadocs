@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1769m04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1769</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Philomena <surname>M.</surname></persName>
+<date type="sent">03.01.1903</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vetter: Karl <surname>G.</surname></persName>
+<settlement type="sent">Kaubeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1769m">
+<persName>
+<forename>Philomena</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1916"/>
+<occupation>Schuhmacherstochter</occupation>
+<residence><geo decls="#WGS">48.5881659 10.7184674</geo>Frauenstetten, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schuhmacher</p>
+<p>Anstalt: <date from="1902" to="1916">1902-16</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Chron. halluzinat. Paranoia, sekundäre Verwirrtheit, Verfolgungswahn (1903)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Neujahrswünsche, Tod ihres Bruders, wünscht neues Kleid, wirr
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1769m04a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb1769m04b.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb1769m04c.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="kfb1769m04d.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren 3 Jäner<lb break="yes"/>1903.</hi></dateline>
+<salute><hi rendition="#c">Werther Herr Vetter!</hi></salute>
+</opener>
+<p>
+Ich kan̄ nicht umhin<lb break="yes"/><hi rendition="#u"><hi rendition="#i">Ihnen</hi></hi> zum neuen<lb break="yes"/>Jahre die besten<lb break="yes"/>Wünsche zu reser<lb break="no"/>vieren. Da wir wegen<lb break="yes"/>unserer sündhaftigkeit<lb break="yes"/>nicht würdig sind mit<lb break="yes"/>Gott zu verkehren so
+
+<pb facs="#image_012"/>
+wenden wir uns an<lb break="yes"/>die armen Seelen, sie<lb break="yes"/>werden uns die Ge<lb break="no"/>sundheit u. über haupt<lb break="yes"/>das Nöthige erbitten.<lb break="yes"/>Es tröstet mich der Ge<lb break="no"/>danke, daß ohne den<lb break="yes"/>Willen des Herrn kein<lb break="yes"/>Haar von unserem Haupt<lb break="yes"/>fällt u. daß in ein oder<lb break="yes"/>zwei Jahren sich alles<lb break="yes"/>anders ändern köne
+
+<pb facs="#image_013"/>
+Die Frl. Tante<lb break="yes"/>führe sehr liebevolle<lb break="yes"/>Gespräche u. ich möchte<lb break="yes"/>nur ein neues schwarzes<lb break="yes"/>Kleid von der Starock<lb break="no"/>schen Verwandtschaft u.<lb break="yes"/>von der Schwester erbit<lb break="no"/>ten, weil ich wegen dem<lb break="yes"/>Todte meines Bruders<lb break="yes"/>obwohl entw<unclear>ei</unclear>hend in<lb break="yes"/>Trauer bin. Weil wir<lb break="yes"/>wegen weltlicher Beziehung<lb break="yes"/>nicht im Stande waren
+
+<pb facs="#image_014"/>
+miteinander zu ver<lb break="no"/>kehren, so bitte ich Sie<lb break="yes"/>um freundliches Wohl<lb break="no"/>wollens u. um Gebet.</p>
+<p><seg ana="#salute">Unter vielen herzlichen<lb break="yes"/>Grüßen verbleibe ich</seg></p>
+<p><unclear>Irn<lb break="yes"/><hi rendition="#i">Sie Hockädon</hi></unclear> Gehorsam<lb break="yes"/>Karl <surname>G.</surname><lb break="yes"/>früresg.<lb break="yes"/>Stadtpfarr<lb break="yes"/>in Wertingen<lb break="yes"/><seg ana="#signed"><hi rendition="#r"><hi rendition="#u"><hi rendition="#i">Philomena <surname>M.</surname></hi></hi></hi></seg>
+</p>
+</body>
+</text>
+</TEI>

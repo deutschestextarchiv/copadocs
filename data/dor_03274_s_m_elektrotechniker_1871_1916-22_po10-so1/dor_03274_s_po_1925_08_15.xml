@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor3274s07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>3274 (K. 210)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>S.</surname></persName>
+<date type="sent">15.08.1925</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: <surname>P.</surname></persName>
+<settlement type="sent">Dortmund</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor3274s">
+<persName>
+<forename>Franz</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1871-06-30"/>
+<death cert="unknown"/>
+<occupation>Elektrotechniker</occupation>
+<residence><geo decls="#WGS">51.5142273 7.4652789</geo>Geburtsort: Oelsdebenai; Wohnort: Dortmund</residence>
+<faith>konfessionslos</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: V: Aufseher, M: nicht bekannt</p>
+<p>Anstalt: <date from="1916-04-10" to="1921-07-25">10.04.1916-31.05.1916; 21.12.1920-25.07.1921</date></p>
+<p>Brieftypen: po, Lebenslauf</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="crayon" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    gratuliert zur Verwaltung des Direktor-Amtes
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor3274s07a.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline><hi rendition="#r">Dortmund 15/8 25</hi></dateline>
+<salute/>
+</opener>
+<p><add place="top" style="arzt"><hi rendition="#u">Akte <surname>S.</surname></hi></add>
+</p>
+<p><hi rendition="#i">P. P.</hi><lb break="yes"/>Erfuhr diese Tage durch Herr<lb break="yes"/>Oberpfleger
+                    <surname>T.</surname>, daß <unclear/><lb break="yes"/>jetzt das Amts als Dirktor ver<unclear><lb break="no"/></unclear>walten und ich Sie aufrichtig<lb break="yes"/>beglückwünsche.<lb break="yes"/>Ich fahre die nächsten Tage<lb break="yes"/>nach dem Iher u evtl
+                    Riesen<lb break="no"/>gebirge, ohne <hi rendition="#u">Conduckt.</hi> den<lb break="yes"/>2 Geistern habe ich gesagt sie<lb break="yes"/>sollen inzwischen
+                nach<lb break="yes"/>Aplerbek in Ihre Kur gehen.<lb break="yes"/>für ihre mit mir
+                    vor<lb break="no"/>genomme Viehzucht.<lb break="yes"/>besten Gruß an alle Ihre<lb break="yes"/>Herrn u <hi rendition="#i"><hi rendition="#u">Sie</hi></hi>
+                Ihr ergebenster<lb break="yes"/><hi rendition="#r">F J <hi rendition="#i"><surname>S.</surname></hi></hi></p><p><hi rendition="#i">Herrn Polmann</hi><lb break="yes"/>Direktor<lb break="yes"/><hi rendition="#c"><hi rendition="#i">der<lb break="yes"/>Anstalt<lb break="yes"/>Aplerbeck</hi>.</hi>
+</p>
+</body>
+</text>
+</TEI>

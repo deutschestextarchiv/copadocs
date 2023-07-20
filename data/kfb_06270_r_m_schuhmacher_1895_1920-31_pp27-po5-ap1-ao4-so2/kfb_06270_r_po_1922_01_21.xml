@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb6270r09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Stephanie Kamm</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>6270</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>R.</surname></persName>
+<date type="sent">21.01.1922</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Pater: Ulrich <surname> .</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb6270r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1895"/>
+<death cert="unknown"/>
+<occupation>Schuhmacher</occupation>
+<residence><geo decls="#WGS">48.0048016 10.4324403</geo>Erisried, Mindelheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schuhmacher</p>
+<p>Anstalt: <date from="1920" to="1931">1920-31</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Schizophrenie (1934), vorl. Diagn. Dementia praecox (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Frustration über Leben in der Anstalt und Vergleich mit Leben in der Klosterkirche
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb6270r09a.jpg" xml:id="image_023"/>
+<graphic mimeType="image/jpg" url="kfb6270r09b.jpg" xml:id="image_024"/>
+<graphic mimeType="image/jpg" url="kfb6270r09c.jpg" xml:id="image_025"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_023"/>
+<opener>
+<dateline><add hand="arzt">21.I.22</add></dateline>
+<salute><hi rendition="#i">Herrn Hochw. Pater<lb break="yes"/><hi rendition="#c">Ulrich!</hi><lb break="yes"/>Klosterkirche Mussenhausen</hi><lb break="yes"/>Sehr geherter Herr Hochwürden!</salute>
+</opener>
+<p><space/> <hi rendition="#i">Hätte</hi> in der Klosterkirche bei<lb break="yes"/>Ihnen
+                doch auch, viel schneller in<lb break="yes"/>einigen. Wochen <add place="above">leicht</add> härgestellt für<lb break="yes"/>gesund befunden werden
+                    kön̄nen;<lb break="yes"/>als wie hier in einer Anstalt!<lb break="yes"/>Wenn man sich <w>neben bei</w> etwas<lb break="yes"/>im
+                Handwerk beschäftigt<lb break="yes"/>hätte, man wär näher mei<lb break="no"/>ner
+                Heimat gewesen, vor allem,<lb break="yes"/>und wären man seiner Angehörigen<lb break="yes"/>niht so weit entfer<del>t</del>nt gelegen.</p>
+<pb facs="#image_024"/>
+<p>Bekan̄te getroffen.<lb break="yes"/>Als ich bei <add place="below">mit</add>
+                Herrn Hochw. <surname>S.</surname><lb break="yes"/>sprach; und fort bin wieder.<lb break="yes"/>wurde ich nicht absolviert? –</p>
+<p>Wär es den̄
+                    <hi rendition="#i">Meinen</hi> doch recht<lb break="yes"/>diese
+                    Gesin̄ung!</p>
+<p>Hier hört und sieht man ebenfalls<lb break="yes"/>nichts von der Welt, hin und<lb break="yes"/>wieder kann man einige
+                    Stunden<lb break="yes"/>die Gedanken aufnehmen von zu Hause.<lb break="yes"/>Vielleicht etwas mittarbeiten mit<lb break="yes"/>Ordensbrüder!</p>
+<p> Man würde auch billiger leben kön̄en.<lb break="yes"/>Und des Som̄ers wäre man
+                wieder bei<lb break="yes"/>seinen Kräften!</p>
+<p><hi rendition="#i"><hi rendition="#c"><seg ana="#salute">Freundlichen<lb break="yes"/>Gruß</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Joseph <surname>R.</surname></seg></hi></hi><lb break="yes"/>Kaufbeuren, den 21. Jan. 1922.</p>
+<pb facs="#image_025"/>
+<p>Gebetbuch hatte ich schon lange keins<lb break="yes"/>mehr beir Hand!</p>
+<p>Was für keinen Stand schadet.<lb break="yes"/>Ganz überrascht ging es wieder
+                    hieher<lb break="yes"/>zu erst nach Mindelheim.<lb break="yes"/>Man
+                kön̄te ja einer Congregation<lb break="yes"/>beitreten, wenn man das
+                    Verspre<lb break="no"/>chen halten kann.</p>
+<p>Nicht daß es mir zu eng
+                    wäre,<lb break="yes"/>man möchte gern nach 6 und<lb break="yes"/>wieder 7 Monat
+                nach seiner<lb break="yes"/>Heimat streben.</p>
+<p>Ich weiß, man ist ja
+                    fast<lb break="yes"/>nirgens mehr beliebt!</p>
+<p>Shlaf hab ich
+                überhaupts kein mehr<lb break="yes"/>Stets Kopfschmerzen, weiß niht<lb break="yes"/>mehr wohaus wohan<lb break="yes"/>Keine Zähr auh nicht mehr.<lb break="yes"/>zur
+                Zeit keine Wdl.<lb break="yes"/><hi rendition="#r">mehr.</hi><lb break="yes"/><hi rendition="#i">Die Operation wie</hi> bei <unclear>Shuhler</unclear><lb break="yes"/>wäre vorüber!</p>
+</body>
+</text>
+</TEI>

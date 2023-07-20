@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3349f22" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3349</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>F.</surname></persName>
+<date type="sent">25.07.1924</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Vater: Johann <surname>F.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3349f">
+<persName>
+<forename>Jakob</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888"/>
+<death when="1935"/>
+<occupation>Landwirt, Dienstknecht</occupation>
+<residence><geo decls="#WGS">48.2473553 10.4500832</geo>Premach, Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landwirt</p>
+<p>Anstalt: <date from="1907" to="1935">1907-35</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>maniakalischer Erregungszustand (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="crayon" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Einforderung von 250 Mark.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3349f22a.jpg" xml:id="image_063"/>
+<graphic mimeType="image/jpg" url="kfb3349f22b.jpg" xml:id="image_064"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_063"/>
+<opener>
+<dateline><hi rendition="#i">Kaufbeuren</hi> den 25.VII 24.</dateline>
+<salute/>
+</opener>
+<p>von <hi rendition="#i">Johann <surname>F.</surname>
+</hi><lb break="yes"/>Ökonom in <hi rendition="#i">Premach</hi><lb break="yes"/>Post Ursberg (Schwaben)<lb break="yes"/>Betreff:<lb break="yes"/>Gesuch wegen Forderung</p>
+<p>Stelle an Herrn Johan̄ <surname>F.</surname><lb break="yes"/>u. dessen Angehörige das Ansuchen<lb break="yes"/>mir
+                in̄erhalb von 14 Tagen den<lb break="yes"/>Geldbetrag von 250 <hi rendition="#i">M</hi><lb break="yes"/>Mit Worten Zweihundert<lb break="yes"/>und fünfzig Mark zu
+                übersenden<lb break="yes"/>da ich für mein Fortkom̄en<lb break="yes"/>angeblichen Betrag unbedingt<lb break="yes"/>benötige, rechne ich, daß ihr Euch<lb break="yes"/>nicht weigert meinem Wunsche<lb break="yes"/>zu entsprechen.
+                Solltet Ihr<lb break="yes"/>jedoch nicht gewillt sein mir<lb break="yes"/>das Geld
+                zu senden: - </p>
+<p>Stelle ich die Forderung:<lb break="yes"/>sofern Ihr an mich das von<lb break="yes"/>mir geforderte Kapital<lb break="yes"/>nicht sendet, werde ich gezwungen<lb break="yes"/>sein gerichtlich einzuschreiten<lb break="yes"/>u. Euch für das
+                    <unclear>säumnis</unclear>, den <pb facs="#image_064"/>mir daraus entstehenden
+                Schaden haftbar zu machen<lb break="yes"/>Indem ich wünsche, daß die Sache auf
+                gütlichem Wege<lb break="yes"/>zustande kom̄t verbleibe ich
+                Achtungsvollst</p>
+<p><hi rendition="#r"><hi rendition="#i">Fischer Jakob</hi><lb break="yes"/>z. Z. Heil u Pflegeanstalt<lb break="yes"/>in <hi rendition="#i">Kaufbeuren</hi></hi></p>
+<p>Herrn<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Johan̄
+                            <surname>F.</surname></hi>
+<handShift medium="pencil"/>jar<lb break="yes"/><handShift/><hi rendition="#i">Ökonom in Premach</hi><lb break="yes"/>Post Augsburg.</hi><lb break="yes"/>Bitte Einschreiben.</p>
+</body>
+</text>
+</TEI>

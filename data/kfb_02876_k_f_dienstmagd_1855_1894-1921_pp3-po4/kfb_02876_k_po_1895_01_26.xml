@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2876k06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2876</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Luise <surname>K.</surname></persName>
+<date type="sent">26.01.1895</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2876k">
+<persName>
+<forename>Luise</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1855"/>
+<death when="1921"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Lehnkutscherseheleute</p>
+<p>Anstalt: <date from="1894" to="1921">1894-1921</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Größen- und Verfolgungsideen (1894), Neurose mit wahrscheinlich arterioskl. Anfällen (1920),  hypomanische Zustände (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Patientin bittet erneut um ihre Verlegung in eine andere Anstalt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2876k06a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="kfb2876k06b.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbauren</hi>, d. 26. <hi rendition="#i">Januar</hi> 95.</hi></dateline>
+<salute>Sehr geehrter Herr Doctor!</salute>
+</opener>
+<p><hi rendition="#r">Die hilflosen Zustände,</hi><lb break="yes"/>die in dieser schlechtesten Anstalt<lb break="yes"/>Bayerns
+                herrschen, veranlassen<lb break="yes"/>diese dritte Notiz. Kein denkender<lb break="yes"/>Mensch kan̄ sich hier längere<lb break="yes"/>Zeit
+                aufhalten und die von den<lb break="yes"/>Deggendorfer- und Kaufbeurer<lb break="no"/>Ärzten vollständig verwahrloste<lb break="yes"/>Frau <hi rendition="#i"><surname>L.</surname></hi> aus <hi rendition="#i">Augsburg</hi> (<del>h</del>sie<lb break="yes"/>ist die Tante eines Berliner
+                Arztes!)<lb break="yes"/>hier zu Grunde gehen sehen.</p>
+<pb facs="#image_018"/>
+<p> Ihren bedeutenden Einfluß<lb break="yes"/>in ärztlichen Kreisen ken̄end,<lb break="yes"/>ersuche ich nochmals höflich,<lb break="yes"/>sofort tüchtige
+                Ärzte hierher<lb break="no"/>senden zu wollen und mich<lb break="yes"/>so bald als
+                möglich aus der<lb break="yes"/>Anstalt schaffen zu lassen.<lb break="yes"/><seg ana="#metaling">So wie ich, kan̄ sich nicht Jede<lb break="yes"/>in
+                    hiesiger Anstalt ausdrück<lb break="no"/>en. − </seg><lb break="yes"/><seg ana="#salute">Um sofortige Hülfe ersucht<lb break="yes"/>dringend<lb break="yes"/><hi rendition="#r">hochachtungsvoll</hi><lb break="yes"/><seg ana="#signed">Luise <hi rendition="#i"><surname>K.</surname></hi>.</seg></seg>
+</p>
+</body>
+</text>
+</TEI>

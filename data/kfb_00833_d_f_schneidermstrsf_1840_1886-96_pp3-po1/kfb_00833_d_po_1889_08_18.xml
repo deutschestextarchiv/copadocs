@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb833d01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>833</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>D.</surname></persName>
+<date type="sent">18.08.1889</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb833d">
+<persName>
+<forename>Maria</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1840"/>
+<death cert="unknown"/>
+<occupation>Schneidermeistersfrau</occupation>
+<residence><geo decls="#WGS">47.9667051 11.2999886</geo>Pöcking (München)</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Dorfschmied</p>
+<p>Anstalt: <date from="1886" to="1896">1886-1896</date></p>
+<p>Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Verirrtheit, Halluzinationen (1886)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    krank, muss sich Vorwürfe machen lassen, wird nicht geheilt, da Verpflegung schlecht; ihr wurde nicht gesagt, wohin sie kommt, gehört nicht dorthin, Bitte um Abholung, kein Besuch (viel Weiteres...)
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb833d01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb833d01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb833d01c.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb833d01d.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline>Kaufbeuren ten 18 August 1889<lb break="yes"/><add hand="arzt"><surname>D.</surname> 30. Aug 1888</add></dateline>
+<salute><hi rendition="#c">Herr Öoberarzt</hi></salute>
+</opener>
+<p><seg ana="#metaling">Ich kann Ichen schon sagen das man<lb break="yes"/>mih als ich noch zu
+                    Hauß, wahr si<lb break="yes"/>so scheklich geblagt hat wegen Prif<lb break="yes"/>schreiben das ich nichts kann als Ligen<lb break="yes"/>schreiben</seg> aber es ist nicht so was ich<lb break="yes"/>für meinen
+                Haußhalt gebrauht hab ich<lb break="yes"/>bezalt und das ich hir gar nichts
+                    bezalen<lb break="yes"/>das ist auch wahr weill ich Krank bin<lb break="yes"/>und nerfös und mich überall hinthut<lb break="yes"/>wo ich keine Ruhe hab; und mir
+                    vor<lb break="no"/>wierfe mahen Lassen muß von der<lb break="yes"/>Lerrherin
+                das ich andere Arme das<lb break="yes"/>Esen die Kleider und die Wasch wek<lb break="no"/>stele den ich habe <unclear>oha</unclear> so will nicht in<lb break="yes"/>Meine Kopf das ich die Pflegerrinne<lb break="yes"/>in Ichren
+                Zimer nichts zu thun hab<lb break="yes"/><w>wil</w><w>weniger</w> zu schreiben
+				    über Sie<lb break="yes"/>ich habe nur die Angst das man</p>
+<p><add place="margin">An <unclear>die</unclear> Hochlöbliche Kirchen<lb break="yes"/>Verwaltung Ober Pöking<lb break="yes"/><unclear>von den Plzimden</unclear><lb break="yes"/>5 57 M aber in A<lb break="yes"/>wahr ich</add></p>
+<p>
+<add place="margin">der mir Blos <unclear>naeses</unclear> Auge<lb break="yes"/>maht hat für mich keinen<lb break="yes"/>Werth und von der FM Ötel</add></p>
+<p><add place="margin">geht micht nichts<lb break="yes"/>an</add></p>
+<p><add place="margin"><seg ana="#inst">da brauche ich kein Kaufbeuren zum Heil un
+                        Pflege wen man mir nichts giebt<lb break="yes"/>als mer was der Mager noh
+                        schleder macht</seg></add><pb facs="#image_002"/>
+<seg ana="#inst">in ein <w>Irren Hauß</w> thut u. <w>wo</w><w>man</w> doch<lb break="yes"/>nicht geheilt wird den ich hab nichts als<lb break="yes"/>den
+                    schlechten Kaffe und die Supe</seg> sagt<lb break="yes"/>mir die Hänsel
+                    <del>de</del> in der l Abtheilung<lb break="yes"/>thrum gehört mir nicht mehr
+                als das mich<lb break="yes"/>und meine Kinder, hir auh noch Blagt<lb break="yes"/>und näkt das hat man mir zu Hauß<lb break="yes"/>schon gethan. Aber nicht gesagt
+                    <w>wo</w><w>man</w><lb break="yes"/>mich hinthut wen man mir da nur eine<lb break="yes"/>Sielbe gesagt hätte das ich in diese Abthung<lb break="yes"/>gehöre ich nicht dan will ich auch nicht da<lb break="yes"/>sein ich denke ganz
+                einfah Ees ist mir<lb break="yes"/>nichts gerischben dazu könen die Pflegerinne<lb break="yes"/>nicht aber Herr Hofrtat hätte sagen könen<lb break="yes"/>Sie
+                nehm Ihre Fau wieder nah Haus<lb break="yes"/>so thobt Sichtig ist Sie nicht das
+                    man<lb break="yes"/>Sie nicht haben kann den ich für meine<lb break="yes"/>kann mir kein Grösers Unglik denken<lb break="yes"/>als gerarth so mir und die
+                Kinder nichts<lb break="yes"/>als rocheiten die Kleeder von Leib<lb break="yes"/>zu reisen und so von <unclear>Leryungen</unclear><lb break="yes"/>der hat uns alles
+                zum Lassen gethan<lb break="yes"/>was Ein hat nur thun könen und was<lb break="yes"/>man mir gab wie Mein Mann<lb break="yes"/>An schleim Fieber Kank wahr</p>
+<p><add place="margin">sagen der Leberkäs ist mir vorgemisen worden ist er den von
+                        der<lb break="yes"/>von Bäß von Augsburg das sie so gar ein geschäz hat von
+                    ale Pazieden</add><pb facs="#image_003"/> das weiß ich das hat mir die
+                    <surname>R.</surname> Therres<lb break="yes"/>gegeben welhen in unsern
+                Hauß gewonht<lb break="yes"/>hat und der Lerheiunge hat dan auh gleih nah<lb break="yes"/>Hauß wollen zu seinen Ältern aber mein<lb break="yes"/>Mann hat
+                in gehen lasen weill ich so einen<lb break="yes"/>Argen Fuß bekomen hab das ich
+                    nicht<lb break="yes"/>gehen konte Aber auch geschirn hab vor<lb break="yes"/>schmerz wen man mir aber die Künder<lb break="yes"/>auh noch herthut und noch
+                Leiden läst wie<lb break="yes"/>ich schon gelithen hab hir dan Glaub ich<lb break="yes"/>das Es seine sahe wahr das man mih und<lb break="yes"/>mein
+                Künder auch noch recht Kwelt und<lb break="yes"/>nicht hinaus thut Sondern in eine<lb break="yes"/>anderre Abtheilung vieleiht ind die Lezde<lb break="yes"/>will mir Herr Kurath imer sagt ich<lb break="yes"/>so Kank und zu schwah an Geist
+                    kein<lb break="yes"/>schlehte Person hab ich doch nicht gemaht<lb break="yes"/>wies Jezt in der Welt Mot ist und<lb break="yes"/>wen er Es schon zuvor alles
+                    gewust<lb break="yes"/>hat das mir alle nicht genug schbar<lb break="yes"/>sam
+                sind das hätte er es nur Bleiben<lb break="yes"/>Lasen sollen sein Heirathen dan
+                    wehr<lb break="yes"/>und sein Künder nicht Ungliek</p>
+<p><add place="margin">und von mich meein Mann nicht Abhalt zu sein ich biete Sie
+                        schön<lb break="yes"/>Hauswesen dan hat so keinen W mih hie Freilein
+                    Oberfleger</add></p>
+<p><add place="bottom">das wissen die Pflegerrien schon das man mir<lb break="yes"/>recht tut wen Ees mir Frau Marthe reht geb maht</add></p>
+<p><add place="margin">ich bide Sie Kniefelig das man mih nah den die mir die Freiheit
+                    geraubt haben<lb break="yes"/>mein Mann kann schon fort sein von hir wieder
+                    Giebt mein Künde den ich angehd</add><pb facs="#image_004"/> oder Glaubt
+                Vielfeiht F <w>Ober Pfleger</w><lb break="yes"/>ich kann hir
+                schon noch Arbeiten aber<lb break="yes"/>was hab ich than für meine Künder<lb break="yes"/>wein Seiner Egslenz Herr Hofrath<lb break="yes"/>und Herr
+                Oberarzt so auh die <del>Flein</del> Freilein<lb break="yes"/>Ober Pfleger die
+                giete haben möchte mih<lb break="yes"/>da hin zu thun von woman mich<lb break="yes"/>genom hat den Es kan Ja auch der fall<lb break="yes"/>das ich gar keine mehr
+                bekome der<lb break="yes"/>Frau <surname>H.</surname> Ihnen Rethen nah schon<lb break="yes"/>weill ich nicht gewust wie grob ich<lb break="yes"/>Iihrs nur
+                mahen muß den mein 2 Künder<lb break="yes"/>sind gefirmth worden aber was sie
+                    für<lb break="yes"/>eine Firmpathin gewelt haben das<lb break="yes"/>haben Sie
+                Freilein Ober Pfleger schon<lb break="yes"/>gewust das häte die Kreiser schon sagen<lb break="yes"/>könen das gehört der Frau <surname>d.</surname><lb break="yes"/>das Sie wieder Kleider bekomt wen<lb break="yes"/>Sie keine hat
+                das andere hat man<lb break="yes"/>Ihr wekgenochmen das hat mir schon Fleile<lb break="yes"/><surname>S.</surname> schon gesagt das meine Schuhe oderr<lb break="yes"/>giebt
+                das weiß ich den sehen thu ich<lb break="yes"/>gut Freulein OPfl ich bin niht<lb break="yes"/>Schult ich bitte das man mit samd<lb break="yes"/>den Kündern
+                abholt keinen besuch</p>
+<p><add>den Alle Tage hab ich den Tod zu früthen<lb break="yes"/>von der Frau
+                        <surname>z.</surname> weil ich zu Thisch sieze</add>
+</p>
+</body>
+</text>
+</TEI>

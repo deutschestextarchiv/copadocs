@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb536r20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sohn: Joseph ("Peppi") <surname>R.</surname></persName>
+<date type="sent">17.05.1871</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: Josef <surname>R.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb536r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1873"/>
+<occupation>Eisenbahnexpeditor, Zuchthaussträfling</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Simmerberg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1872" to="1873">1872-73</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Melancholie (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="sohn"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Berichtet von Umzug und Lage/Umgebung der neuen Wohnung.  Erzählt von Neuigkeiten verschiedener Bekannter und richtet seinem Vater von diesen Grüße aus.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb536r20a.jpg" xml:id="image_033"/>
+<graphic mimeType="image/jpg" url="kfb536r20b.jpg" xml:id="image_034"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_033"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg</hi>, 17. <hi rendition="#i">Mai </hi>1871. </hi></dateline>
+<salute><hi rendition="#c">Lieber Vater!</hi></salute>
+</opener>
+<p><space/> Unser langes Schweigen hat darin seinen Grund,<lb break="yes"/>daß wir
+                inzwischen umgezogen sind, wie Du bereits<lb break="yes"/>weißt. <hi rendition="#i">N</hi>un sind wir bereits vollständig wieder in<lb break="yes"/><hi rendition="#i">O</hi>rdnung im neuen <hi rendition="#i">Q</hi>uartier, und haben
+                es wirklich<lb break="yes"/>ausgezeichnet mit dieser Wohnung getroffen. </p><p><hi rendition="#i">W</hi>ir genießen wieder dieselbe gesunde frische Luft wie<lb break="yes"/>bei
+                    <surname><hi rendition="#i">S.</hi></surname>, dieselbe hübsche Aussicht, indem wir das<lb break="yes"/><hi rendition="#i">Panorama</hi> von Siebentisch, Siebenbrunn,
+                Königsbrunn<lb break="yes"/>Bobingen, Schwabmünchen &amp; &amp; auf der einen, und<lb break="yes"/><hi rendition="#i">W</hi>öllenburg, Leitershofen, Stadtbergen,
+                ja sogar Täfertingen<lb break="yes"/>auf der andern Seite vor uns liegen haben;
+                erstere<lb break="yes"/>Aussicht zieht sich bis ans Gebirge, das man bei hellem<lb break="yes"/>Wetter, wie Du weißt, herrlich sieht. </p><p>Gottlob ist alles gesund zu dem hiesigen enormen<lb break="yes"/>Krankheitszustand, es grassiren
+                hier die <seg ana="#med">Blattern</seg> fürchter<unclear/><lb break="yes"/>weßhalb sich Alles <seg ana="#med">impfen</seg> lassen soll. Herr <surname><hi rendition="#i">M.</hi></surname> ließ <unclear>n</unclear><lb break="yes"/>gleich anfangs, als die Epidemie auftrat mit seiner<lb break="yes"/>Familie von seinem Hausdoktor <surname><hi rendition="#i">A.</hi></surname> <seg ana="#med">impfen</seg>.<lb break="yes"/>Wir haben hier noch immer <hi rendition="#i">N</hi>achwinter, es ist bald<lb break="yes"/>nicht mehr schön, im̄erwährend diese Kälte und die<lb break="yes"/>wenigen schönen Tage. </p>
+<pb facs="#image_034"/>
+<p><space/> Herr <surname><hi rendition="#i">R.</hi></surname>, der mich am
+                Ostersonntag Fahrt-<lb break="yes"/>und <w>Kosten frei</w> nach <hi rendition="#i">München</hi> kommen ließ, ist<lb break="yes"/>noch im̄er daselbst und
+                wird wohl vor <hi rendition="#i">August<lb break="yes"/></hi>nicht hieher kommen. Er
+                läßt Dich herzlich grüßen,<lb break="yes"/>ebenso Off<unclear>icirl </unclear><hi rendition="#i">John</hi>, den ich in <hi rendition="#i">München</hi>
+<unclear/>natürlich<lb break="yes"/>im Hofbräuhau<unclear>s</unclear>s, getroffen
+                habe. Sein Sohn <hi rendition="#i">Peppi</hi><lb break="yes"/>hat als <hi rendition="#u">Tambor</hi> den Feldzug mitgemacht, im<lb break="yes"/>Alter von 17 Jahren. </p><p>Herr <surname><hi rendition="#i">K.</hi></surname> heirathet, nachdem er nun Chorregent<lb break="yes"/>im Dom geworden, die Tochter des Chorregenten<lb break="yes"/><surname><hi rendition="#i">M.</hi></surname>,
+                <unclear>/:</unclear>bekan̄tlich im <hi rendition="#i">M</hi>etzgerhaus
+                    Gesanglehrer<unclear>:/</unclear> auch<lb break="yes"/>dieser läßt Dich grüßen. </p><p>Der gute <hi rendition="#i"><surname>A.</surname> </hi>bringt alle <hi rendition="#i">M</hi>onate seinen Gulden,<lb break="yes"/>als wäre es Pflicht &amp; Schuldigkeit und läßt Dich<lb break="yes"/>herzlich grüßen. Lehrer <surname><hi rendition="#i">F.</hi></surname> erkundigt sich sehr<lb break="yes"/>theilnamsvoll
+                    bei mir über Dich, ebenso <surname><hi rendition="#i">A.</hi></surname> und<lb break="yes"/>grüßen
+                Dich herzlich. </p><p><space/> Natürlich darf ich auch den Freund <surname><hi rendition="#i">K.</hi></surname>
+                nicht vergessen;<lb break="yes"/>er unterstützt mich noch im̄er in
+                musikalischer Beziehung,<lb break="yes"/>gegenwärtig habe ich ein <unclear>Elo</unclear>dikum
+                    <unclear>/:</unclear>fein<unclear>:/</unclear> von ihm;<lb break="yes"/><space/> auch
+                schönen Gruß. − </p><p>Nun habe Dir meine <hi rendition="#i">N</hi>euigkeiten mitgetheilt, und<lb break="yes"/>wünsche
+                nur, daß Dich mein Brief gesund &amp; wohl<lb break="yes"/>antrifft.<lb break="yes"/><space/><seg ana="#salute"> Tröste Dich in Gott und Sei<unclear/><lb break="yes"/><hi rendition="#c">herzlich gegrüßt &amp; geküßt</hi></seg><lb break="yes"/><hi rendition="#c">von Deinem</hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i"><hi rendition="#u">Peppi</hi></hi></seg></hi>
+</p><p><add place="bottom">Schreibe bald!</add></p>
+</body>
+</text>
+</TEI>

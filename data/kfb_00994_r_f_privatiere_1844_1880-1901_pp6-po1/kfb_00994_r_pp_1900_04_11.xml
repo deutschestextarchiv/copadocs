@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb994r04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>994</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>R.</surname></persName>
+<date type="sent">11.04.1900</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Neffe Anton <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb994r">
+<persName>
+<forename>Maria</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1901"/>
+<occupation>Privatiere</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg/Wießlings</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Bauernhof bei Memmingen</p>
+<p>Anstalt: <date from="1880" to="1901">1880-1901</date></p>
+<p>Brieftypen: po, pp</p>
+</state>
+<trait><p>Halluzinationen (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Inhalt: viele Besuche bekommen, beschreibt Familienverhältnisse
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb994r04a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb994r04b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r">Irsee 11.4.1900.</hi><lb break="yes"/></dateline>
+<salute><hi rendition="#c">Geehrter H. Neffe!</hi><lb break="yes"/></salute>
+</opener>
+<p> Ich wollte nur dir nur kurz mitteilen<lb break="yes"/>daß ich heuer viele Besuche v. Schov<lb break="yes"/>bis v. <hi rendition="#i">England</hi>. Nichte Marie dem<lb break="yes"/>Bruder seine Tochter war mit einen klein<lb break="yes"/>lb.
+    Mädchen, sie sagte: daß deine<lb break="yes"/>Schw. gerade solche <seg ana="#med">epilept. Anfälle</seg>
+    habe<lb break="yes"/>wie mein Sohn, welches ich sehr bedaure.<lb break="yes"/>Schors ist gesund u. ein ganz staatlicher<lb break="yes"/>Man̄. Er hätte
+                dich u. die Schwägerin<lb break="yes"/>deine Mutter u. Schw. besuht, wan̄
+                    er<lb break="yes"/>hiezu Zeit gehabt muß pünklich sein.<lb break="yes"/>Er
+                mußte 4 Tage u. Nächte zu Wasser<lb break="yes"/>u. Land reisen <add>im
+                    Curirzug.</add>. Ich hatte eine riesige<lb break="yes"/>Freude wünschte nur:
+                daß sein <hi rendition="#i">Papa</hi><lb break="yes"/><unclear>?</unclear> noch zu teil geworden.<lb break="yes"/><unclear>?</unclear> Genealmusterung in <hi rendition="#i">Münch<add>en</add></hi><lb break="yes"/><unclear>?</unclear> tauglich befunden. Er wird<lb break="yes"/><unclear>?</unclear> Oktober 1901 so Gott will antreten<lb break="yes"/><unclear>?</unclear> die Fr. u Kind Mutter u Schw.<lb break="yes"/><unclear>?</unclear> mit Freunden Besuch Tante<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Marie</hi>.</hi>
+</p>
+<pb facs="#image_012"/>
+<p>
+<hi rendition="#i">Herrn Anton <surname>H.</surname><lb break="yes"/>Kaufman̄<lb break="yes"/><hi rendition="#u">Kircheim</hi><lb break="yes"/>Post</hi> Türkheim </p>
+</body>
+</text>
+</TEI>

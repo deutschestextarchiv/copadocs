@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1480g12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1480</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>G.</surname></persName>
+<date type="sent">14.06.1900</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Christiane <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1480g">
+<persName>
+<forename>Karl</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1911"/>
+<occupation>Handlungskommissar</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1891" to="1911">1891-1911</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>[Epilepsie] (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Lagebericht, Ende der Anfälle, geht den ganzen Tag im Garten spazieren, Ehefrau soll ihn abholen, will wieder Stellung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1480g12a.jpg" xml:id="image_027"/>
+<graphic mimeType="image/jpg" url="kfb1480g12b.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="kfb1480g12c.jpg" xml:id="image_029"/>
+<graphic mimeType="image/jpg" url="kfb1480g12d.jpg" xml:id="image_030"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_027"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi>, 14.Juni 1900</hi></dateline>
+<salute>Gott zum Gruße!<lb break="yes"/><lb break="yes"/><hi rendition="#c">Liebe Christiane!</hi><lb break="yes"/></salute>
+</opener>
+<p>
+<space/>Ich schätze Dich im Besitze<lb break="yes"/>meines letzten Briefes vom 6. April v. M.<lb break="yes"/>und hoffe Dich beim besten Wohl- sowie<lb break="yes"/>Gesundsein, was ich auch wieder von mir<lb break="yes"/>Gottlob sagen darf.</p><p>
+<space/>Liebe Ehegattin, ich erlaube mir<lb break="yes"/>heute dir wieder von
+                meiner gegen<lb break="no"/>wärtigen Lage Bericht zu ertheilen,<lb break="yes"/>ich glaube jetzt doch, daß es jetzt<lb break="yes"/>bald mit meinen <seg ana="#med">Anfällen</seg> ein Ende<lb break="yes"/>nehmen wird; ich meine doch wenn<lb break="yes"/>man alle Tage den Garten <w>spazie<lb break="yes"/>ren</w> gehen
+                kann, daß man es in<lb break="yes"/>seiner Heimath auch wieder zu<lb break="no"/>recht finden dürfte, ich möchte <pb facs="#image_028"/> Dich deßhalb heute bitten an
+                    mir<lb break="yes"/>wieder eine Wohlthat auszuüben,<lb break="yes"/>nämlich,
+                daß Du mich bald selbst<lb break="yes"/>allein nach Hause heimholen<lb break="yes"/>würdest, um wieder nämlich<lb break="yes"/>zu einem früheren Lebenslauf<lb break="yes"/>zugelangen; ich würde Dir<lb break="yes"/>dafür später dankbar
+                sein, vor<lb break="no"/>ausgesetzt, du mußtest Dich zu<lb break="no"/>erst über
+                meine Sache beim Herrn<lb break="yes"/>Bürgemeister <surname>R.</surname>,
+                    sowie<lb break="yes"/>beim Herrn Bezirksamtmann<lb break="yes"/>erkundigen, es
+                muß doch einmal<lb break="yes"/>zu einer andern Stellung wieder<lb break="yes"/>kommen, sei daher so freund<lb break="no"/>lich und so gut mir jetzt baldigst<lb break="yes"/>weitere Nachricht zukommen<lb break="yes"/>zu laßen, es dauert
+                mir immer<lb break="yes"/>etwas zu lang, diese Angeleg<lb break="no"/><hi rendition="#r">heit</hi>
+<pb facs="#image_029"/> sollte sich bald wieder ändern,<lb break="yes"/>ich wüßte
+                sonst nichts weiteres<lb break="yes"/>heute mitzutheilen.</p>
+<p>
+<space/><seg ana="#salute">In Erwartung einer baldigen<lb break="yes"/>Nachricht von Dir grüßt Dich, so<lb break="yes"/>wie deine
+                    Mutter und alle säme<lb break="no"/>tlichen Verwandten</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Dein</seg><lb break="yes"/><hi rendition="#r"><w>Dich</w><w>liebender</w> unvergeß<lb break="no"/>licher Ehegattin zur
+                            Zeit<lb break="yes"/>noch Patient<lb break="yes"/><hi rendition="#i">Karl <surname>G.</surname></hi><lb break="yes"/>in der
+                            Heil<lb break="no"/>und Pfleganstalt.</hi></hi>
+<pb facs="#image_030"/> Adreße!<lb break="yes"/>An<lb break="yes"/>Frau<lb break="yes"/><hi rendition="#i">Christiane <surname>G.</surname></hi><lb break="yes"/><hi rendition="#u">Nördlingen<lb break="yes"/>/Ries<lb break="yes"/>C 72</hi><lb break="yes"/>bei der Schranne. </p>
+</body>
+</text>
+</TEI>

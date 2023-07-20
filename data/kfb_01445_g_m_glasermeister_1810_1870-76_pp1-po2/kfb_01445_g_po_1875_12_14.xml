@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1445g02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1445</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>G.</surname></persName>
+<date type="sent">14.12.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1445g">
+<persName>
+<forename>Xaver</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1810"/>
+<death cert="unknown"/>
+<occupation>Glasermeister, früher Vorsteher zu Reichertshofen</occupation>
+<residence><geo decls="#WGS">48.6530282 11.4948875</geo>Reichersthofen, Neuburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1870" to="1876">1870-76</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Melancholia daemonica, Daemonomanie (1870)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will Kleidung und sich persönlich bei Bürgermeister bedanken
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1445g02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1445g02b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r">Irse den 14<hi rendition="#sup">te</hi> Dezember <hi rendition="#u">1875</hi></hi></dateline>
+<salute><hi rendition="#c">Herr Birgermeister als <hi rendition="#i">Corato</hi>!</hi></salute>
+</opener>
+<p> Da Herr Diereto an dich Schreiben läst wegen meine<lb break="yes"/>Kleider und um beide
+                Rechnugen, aber keine Rehung<lb break="yes"/>und keine Kleide und sogahr nicht
+                einmahl eine Anwort<lb break="yes"/>von dir erhielt, so werde ich mich zum zweiten
+                    mahl<lb break="yes"/>an Herr <w>Regierungs Diereto</w>
+                nach München wenden<lb break="yes"/>derselbe wirde das Kl. Bezirckamt <hi rendition="#i">Neuburg</hi> in<lb break="yes"/>könies setzen dan̄ weis
+                ich gewieß das ich mein verlantes<lb break="yes"/>bekonen werde, solte ich nohmals
+                nach <hi rendition="#i">Rinkertshofen</hi><lb break="yes"/>komen wie auch hoft und
+                solten es nur 24 Stunden seyn<lb break="yes"/>so werd ich mich bey dir und bey
+                − Mindlich meinen<lb break="yes"/>Danck abstaden für das Gute was du als <hi rendition="#i">Corato</hi><lb break="yes"/>an mir und an meiner Frau u an meiner
+                    <w>Geistes Krange</w><lb break="yes"/>Tochter gutes
+                gethan hast, war das deine Pflich als<lb break="yes"/><hi rendition="#i">Corato</hi>, hat dich das kli Bezirkamt Neuburg auf<lb break="yes"/>deine Bosheiten <w>auszu Tohben</w> Verpflichten ich in
+                meinen Irsin<lb break="yes"/>klaube es nicht, <seg ana="#curse">Pfui</seg> ist da nicht verwegen
+                wan̄ ein <pb facs="#image_006"/> Birgermeister als <hi rendition="#i">Corato</hi> ihn seiner Gemeinde ausbesand<lb break="yes"/>das ich Jährlich
+                fürhunder Gulden Koste, das werden deine<lb break="yes"/>Qüttungen schon ausweisen,
+                nochmals mus ich es Ihn <del>ev</del><lb break="yes"/>erwenug bringen das ich
+                meinen Danck gewies absten wird<lb break="yes"/>das du wohl zufrieden seyn wirst,
+                und solte es auch mein<lb break="yes"/>Leben kosten.</p>
+<p><hi rendition="#r"><hi rendition="#i"><seg ana="#signed"><surname>G.</surname></seg></hi> Pazient in der <w>Iren<lb break="yes"/>Anstalt</w> Irse.</hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

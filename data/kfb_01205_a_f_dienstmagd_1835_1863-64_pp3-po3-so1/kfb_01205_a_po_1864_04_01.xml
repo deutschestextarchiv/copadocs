@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1205a02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1205</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hanna <surname>A.</surname></persName>
+<date type="sent">01.04.1864</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>K.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1205a">
+<persName>
+<forename>Hanna</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1835"/>
+<death cert="unknown"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">48.8046449 10.4941991</geo>Ederheim, Nördlingen</residence>
+<faith>jüdisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Metzger</p>
+<p>Anstalt: <date from="1863" to="1864">1863-64</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Tobsucht (1863), Hysterie, Depression/Exaltation (1863-64)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Patientin schreibt nach ihrer Entlassung an den Direktor; ist darüber erleichtert und bittet ihn um Zeugnis, dass sie gesund ist
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1205a02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb1205a02b.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb1205a02c.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1205a02d.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Hochverehrender Herr Director!.</hi></hi></salute>
+</opener>
+<p> Entschuldigen Sie, daß ich mir schon die Freiheit <add place="above">nehme</add> einige
+                    Zeilen<lb break="yes"/>an Sie zu richten:</p><p> Meinem gehorsamsten Dank, sage ich Ihnen, im<lb break="yes"/>Namen der <hi rendition="#i">l.
+                    Meinigen</hi> für Allem erzeugten<lb break="yes"/>Gute, was Sie mir während
+                meiner Krank<lb break="no"/>heit erwiesen hatten: Gott lohne <hi rendition="#i">Sie
+                    dafür:</hi><lb break="yes"/>Wir kamen gut, <hi rendition="#i">Mitwoch</hi> um 5.
+                Uhr im elte<del>l</del>rlich<lb break="no"/>en Hause an, und fühle <add place="above">mich</add> G. L. sehr wohl, was<lb break="yes"/>eine
+                unbeschreibliche Freude, den <hi rendition="#i">l. Eltern</hi>
+                    verur<lb break="no"/>sacht. . .</p><p>
+<hi rendition="#i">Sehr geehrter Herr Director</hi> ich muß <hi rendition="#i">Ihnen</hi> schon<lb break="yes"/>mit einer <hi rendition="#i">Bitte</hi>
+                belästigen: nämlich:<lb break="yes"/><hi rendition="#i">Sie</hi> möchten so gefällig sein, mir ein<lb break="yes"/>Zeugniß senden, daß ich wieder<lb break="yes"/>hergestellt bin, da ich in <hi rendition="#u">Kuratel</hi> stehe<lb break="yes"/>mit meinem Kinde und dieses
+                wurde heute<lb break="yes"/>von Gericht verlangt, darum ersuche ich Ihnen<lb break="yes"/>mir dieses in Bälde zuzuschicken.</p><pb facs="#image_004"/><p>
+<seg ana="#salute">Viele freundliche Grüße von <del>de</del> meine liebe<lb break="yes"/>Eltern u. Schwestern</seg>
+<seg ana="#signed">verharrt<lb break="yes"/><hi rendition="#r">mit Achtung &amp; Ergebenheit<lb break="yes"/>Ihre
+                            ergebenste<lb break="yes"/><hi rendition="#i">Dienerin<lb break="yes"/>Han̄i
+                                <surname>A.</surname></hi></hi></seg></p>
+<p>Darf ich mir erlauben die gnädige Frau <hi rendition="#i">Gemahlin</hi><lb break="yes"/>zu grüßen: </p>
+<p><hi rendition="#i">Herrn Dr. Julius, et Frau Dr.</hi> u. dortige<lb break="yes"/>Bekan̄te
+                meinem Gruß u. <hi rendition="#i">Dank</hi>.<lb break="yes"/><hi rendition="#r"><hi rendition="#u"><hi rendition="#i">Bitte um Entschuldig<add place="below">ung</add></hi></hi></hi><lb break="yes"/><hi rendition="#i">Ederheim,</hi> den 1 <hi rendition="#i">April</hi>
+<hi rendition="#u">1864:</hi></p>
+<pb facs="#image_006"/>
+<p><hi rendition="#c">An<lb break="yes"/>die Königl. Kreis Irren<lb break="yes"/><hi rendition="#i"><hi rendition="#u">Anstalt</hi> Irsee</hi><lb break="yes"/>abzugeben <hi rendition="#i">Sr.</hi>Wohlgeb., bey <hi rendition="#i"><hi rendition="#u">Kaufbeuern</hi><lb break="yes"/>Titl. Herrn<lb break="yes"/><hi rendition="#u">Director Kiederle.</hi></hi></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">franco</hi></hi></hi>
+</p>
+</body>
+</text>
+</TEI>

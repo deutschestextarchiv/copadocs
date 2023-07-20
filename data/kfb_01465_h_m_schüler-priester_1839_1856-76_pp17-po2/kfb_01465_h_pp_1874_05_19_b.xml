@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1465h07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1465</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Lorenz <surname>H.</surname></persName>
+<date type="sent">19.05.1874</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freund: Confrater Andreas <surname>M.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1465h">
+<persName>
+<forename>Lorenz</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1839"/>
+<death cert="unknown"/>
+<occupation>Schüler, Pfarrer</occupation>
+<residence><geo decls="#WGS">48.5601209 10.6808075</geo>Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern:</p>
+<p>Anstalt: <date from="1856" to="1876">1856-1876</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>[Alkoholismus], Exaltation, Tobsucht (1874)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um einen Schirm für den Wärter und seine Flöte.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1465h07a.jpg" xml:id="image_019"/>
+<graphic mimeType="image/jpg" url="kfb1465h07b.jpg" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline><hi rendition="#r">Ürsee den 19. Mai 1874<lb break="yes"/>Nachmittag
+                        2. Uhr.</hi></dateline>
+<salute><hi rendition="#c">Lieber Freund!<lb break="yes"/>Verehrtester Herr <hi rendition="#i">Confrater!</hi></hi></salute>
+</opener>
+<p><add place="top">G. l. s. I. <hi rendition="#i">Chr.</hi></add><lb break="yes"/>Deinen werthen Brief <hi rendition="#i">dat.</hi> vom 16. lfd. Mts<lb break="yes"/>habe ich heute Vormittag 11 Uhr durch die<lb break="yes"/>verehrte Hand des Hrn. Direktor <hi rendition="#i">Dr. Kiederle</hi><lb break="yes"/>erhalten, u. ich spreche Dir anliegend meinen<lb break="yes"/>herzlichen Dank für deine große Güte aus.−<lb break="yes"/>Der Wächter <hi rendition="#u">Michael Osterrieder</hi> hat mich ersucht,<lb break="yes"/>ich
+                möchte Dich angehen, Du mögest ihm<lb break="yes"/>die Güte erweisen, u. ihm seinen
+                Regenschirm<lb break="yes"/>besorgen, den er entweder bei Hrn. Posthalter<lb break="yes"/><surname>E.</surname> oder bei Hw. Hr. geistlichen Rath
+                hat<lb break="yes"/>stehen lassen. Vielleicht hat ihn aber auch<lb break="yes"/>der <hi rendition="#u"><surname>H.</surname>, Lohnkutscher</hi>, den der
+                Osterrieder<lb break="yes"/>in <hi rendition="#u">Eppisburg</hi> beim Wirth
+                ersucht hat, ihm den<lb break="yes"/>Regenschirm zu besorgen. <add place="above">bei sich</add> − Solltest du nach<lb break="yes"/>den Pfingtfeiertagen
+                mich mit einer Visite<del>m</del><lb break="yes"/>zu ehren vorhaben, so kan̄ Du persönlich<lb break="yes"/>den Regenschirm u. da es Dich nicht arg molestiren <pb facs="#image_020"/>auch
+                zugleich meine Flötte samt Futteral mit<del>zu</del>nehmen,<lb break="yes"/>aber
+                ich bitte Dich, ohne Musikalien; da ich hier<lb break="yes"/>Musikalien genug haben
+                kan̄ in der Bibliothek<lb break="yes"/>drunten. − So fühle ich mih,
+                Gott sei Dank!, recht<lb break="yes"/>wohl, habe enormen Appetit, u. kann,
+                wen̄<lb break="yes"/>ich Abends 9 Uhr mich niederlege, bis 4<lb break="yes"/>Uhr Morgens ununterbrochen schlafen.<lb break="yes"/>Das <seg ana="#med">tägliche
+                    russische <hi rendition="#i">Doûche</hi>-Bad</seg> sagt meiner<lb break="yes"/>Gesundheit unbeschreiblich gut zu − Joh. Georg<lb break="yes"/><surname>S.</surname>, dem es sehr zufrieden ergeht, u. <add place="above">der</add> die<lb break="yes"/>süße Hoffnung hat, bald <del>ge</del> ganz <hi rendition="#i">curirt</hi> entlassen<lb break="yes"/>zu werden, freut sich nebst
+                meiner Wenig<lb break="no"/>keit, Dich in nächster Bälde, sobald es Dir<lb break="yes"/>die Berufsgeschäfte gestatten, hieher zu<lb break="yes"/>sehen.</p>
+<p><seg ana="#salute">Unter vielen herzlichen Grüßen an Dich<lb break="yes"/>u. deine
+                    werthe Josefine u. an Hw. Hrn.<lb break="yes"/>Pfr.
+                        <surname>K.</surname> nebst Jfr. Agatha u. Jfr. Marie<lb break="yes"/><surname>O.</surname> u. an alle gute Bekan̄te u. Freunde, die<lb break="yes"/>sich nach mich erkundigen</seg> zeichnet sich in<lb break="yes"/>aller Brüderlichen Liebe mit der Bitte: <foreign xml:lang="lat"><hi rendition="#i">Oremus </hi><lb break="yes"/><hi rendition="#i">pro
+                        invicem</hi></foreign><lb break="yes"/><hi rendition="#r">Dein ergebenster Collega u. Freund<lb break="yes"/><hi rendition="#i">Lorenz <surname>H.</surname></hi>
+                    Benefzt.</hi><lb break="yes"/><add place="bottom"><hi rendition="#i"><seg ana="#metaling"><foreign xml:lang="fr">Excusèz−vous que<lb break="yes"/>je vous scrie à
+                                papier simple!!! Vale=!!!</foreign></seg></hi></add><lb break="yes"/><add place="top">Adresse: Sr Hochwürden<lb break="yes"/>Titl Hrn
+                        <hi rendition="#i"><hi rendition="#u">Andreas
+                        <surname>M.</surname></hi></hi><lb break="yes"/>würdigsten <hi rendition="#i">Caplanei-Beneficiat</hi><lb break="yes"/><hi rendition="#c">in <hi rendition="#i">Wertingen</hi>.<lb break="yes"/>P. ds.</hi><lb break="yes"/>frey<lb break="yes"/>dM.</add></p>
+</body>
+</text>
+</TEI>

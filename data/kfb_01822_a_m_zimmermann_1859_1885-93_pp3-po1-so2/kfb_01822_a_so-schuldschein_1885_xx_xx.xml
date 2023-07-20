@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1822a06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1822</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>A.</surname></persName>
+<date type="sent">ca1885-93</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Benedikt <surname>G.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1822a">
+<persName>
+<forename>Johann</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1859"/>
+<death cert="unknown"/>
+<occupation>Zimmermann</occupation>
+<residence><geo decls="#WGS">48.5209801 10.5593511</geo>Eppisburg, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner, Zimmermann</p>
+<p>Anstalt: <date from="1885" to="1893">1885-93</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Geistesstörung (1889), Gewalthätigkeit (1885)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Schuldschein</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Schuldschein über 1.000 Mark
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1822a06a.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>
+<add hand="arzt"><hi rendition="#u">ad <surname>A.</surname></hi> <hi rendition="#r"><hi rendition="#u">10.</hi></hi></add><lb break="yes"/><hi rendition="#c">Schuldschin<lb break="yes"/>über 1000Mr</hi><lb break="yes"/>uterm Heuteigen entlehte ich von Benetik<lb break="yes"/><surname>G.</surname> 1000 Mr wörtlich dauset Mark<lb break="yes"/>ich verschpreche ihm dieses Kabital zu<lb break="yes"/>veir Proznt Zu verzisen ud noch eine<lb break="yes"/>veiteljährigen Aukündigug wider<lb break="yes"/>paar heerzubezahlen<lb break="yes"/><hi rendition="#c">Was bescheint<lb break="yes"/>Johan <surname>A.</surname> 1885</hi></p>
+<p><hi rendition="#c"><hi rendition="#i">Ctting</hi><lb break="yes"/>über 1000 Mark</hi><lb break="yes"/>uterm heutigen bezahlte ich dem<lb break="yes"/>Benedik <surname>G.</surname> 1000 Mark wörtlich dasent<lb break="yes"/>Mark was bescheint<lb break="yes"/></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip4467l02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>4467 (K. 210)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Christoph <surname>L.</surname></persName>
+<date type="sent">05.10.1919</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Eickelborn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip4467l">
+<persName>
+<forename>Christoph</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1866-07-16"/>
+<death when="1923-05-09"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">52.7310186 9.6054281</geo>Geburtsort: Osterode; Wohnort: Eickel</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1919-09-16" to="1923-05-09">16.09.1919-09.05.1923</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Progr. Paralyse (1919)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er beschwert sich bei seiner Frau, dass sie ihm nicht antwortet. Sie soll Kontkt zu seiner Schwester aufnehmen, damit diese ihn besucht. Er sagt ihr, dass sie eine schlechte Ehefrau ist. Sie hat ihn ohne Brille gelassen und in der Anstalt geht es ihm viel besser ohne sie. Er hat sich immer um sie gekümmert und sie hat versucht ihn ins Grab zu bringen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip4467l02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="lip4467l02b.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="lip4467l02c.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r">Eigelborn 5 Oktor 1819.</hi></dateline>
+<salute><hi rendition="#c">Liebe Frau</hi></salute>
+</opener>
+<p>Da Ich dier schom 1 Karte<lb break="yes"/>und einer brief geschribenn<lb break="yes"/>habe und du schreibst mir<lb break="yes"/>keine antwort den bitte<lb break="yes"/>Ich dier das du bei mein<lb break="yes"/>Schwester Luise nach
+                    <placeName>Tierbach</placeName><lb break="yes"/>Schreibst. Die sole mir so<lb break="yes"/>flott wie mechliech
+                besuchen<lb break="yes"/>den es schreidt mir das du<lb break="yes"/>mit mir wolst
+                so machen<lb break="yes"/>wie du mit dem erstem<lb break="yes"/>Man gemacht hast
+                    <pb facs="#image_006"/>denn Ich bim gutt <w>auf<lb break="no"/>Bewart</w> ane
+                dich kann Ich<lb break="yes"/>mah lebem den du hast<lb break="yes"/>als <w>Hehe
+                    Frau</w> so behandelt<lb break="yes"/>das Ich 7 Jahrm ane Brielm<lb break="yes"/>nicht sehen konte und mein<lb break="yes"/>Oberharzt hette mich zu<lb break="yes"/>Augen feholfen das Ich ane<lb break="yes"/>briele kann sehem
+                da kanst<lb break="yes"/>Dier biels fom machen 2,<lb break="yes"/>den du solst mir
+                beweisen<lb break="yes"/>da Ich mit dier den 21 September<lb break="yes"/>schonn
+                10 Jare ferhairaht<lb break="yes"/>bien op du <w>ein mal</w> bei<lb break="yes"/>mir gehungert hast dem <pb facs="#image_007"/>dem muss du mir mit<lb break="yes"/>zegen bewessen du<lb break="yes"/><w>hinderlistiges</w><w>weib</w> das<lb break="yes"/>Kan Ich nur meinen<lb break="yes"/>Koseng ferdanken das<lb break="yes"/>In dier genomen habe denn<lb break="yes"/>das du
+                    <w>ein</w><w>faules</w> Weib<lb break="yes"/>biest das kann Ich dir<lb break="yes"/>beweisten das du zu Faul<lb break="yes"/>warst die schtube <w>aus<lb break="no"/>zu fegen</w> nur mit Hunger<lb break="yes"/>hast mir
+                getriben du wolste<lb break="yes"/>mit gern ins grab haben<lb break="yes"/>aber
+                Ich ebin nit so dum<lb break="yes"/>da leibe Ich lieber auf<lb break="yes"/>Ewich
+                Ich. Eigelborm<lb break="yes"/>und wier die Karmiste <add place="margin">sehen.</add>
+</p>
+</body>
+</text>
+</TEI>

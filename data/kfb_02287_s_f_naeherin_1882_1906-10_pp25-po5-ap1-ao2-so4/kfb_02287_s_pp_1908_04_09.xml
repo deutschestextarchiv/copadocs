@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2287s37" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2287</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josefine/Josephine <surname>S.</surname></persName>
+<date type="sent">04.09.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Großvater: A. <surname>U.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2287s">
+<persName>
+<forename>Josefine/Josephine</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1882"/>
+<death cert="unknown"/>
+<occupation>Näherin, Buchhalterin</occupation>
+<residence><geo decls="#WGS">47.9316785 10.4213798</geo>Wineden, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Gutsbesitzer, Söldner und Krämer</p>
+<p>Anstalt: <date from="1906" to="1910">1906-10</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Manisch-depressives Irresein (1908)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patientin meint, ein Verhältnis begonnen zu haben, da man ihr in der Anstalt sonst nichts gönnt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2287s37a.jpg" xml:id="image_144"/>
+<graphic mimeType="image/jpg" url="kfb2287s37b.jpg" xml:id="image_145"/>
+<graphic mimeType="image/jpg" url="kfb2287s37c.jpg" xml:id="image_146"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_144"/><pb facs="#image_145"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#u"><hi rendition="#i">Liebe Großeltern!</hi></hi></salute>
+</opener>
+<p>Kan̄ Ihnen noh sagen daß<lb break="yes"/>man hier nicht um daß liebe<lb break="yes"/>Teure Geld nichts bekom̄t hätte<lb break="yes"/>schon etwas
+                Geld beisam̄en aber was ich will<lb break="yes"/>bekom̄e ich nicht u
+                die Großmutter schrieb noch so<lb break="yes"/><w>Sau dum</w> man soll keine
+                    <unclear>Götter</unclear> kaufen<lb break="yes"/>1 solcher Blödsin̄ mir
+                niht die Freude<lb break="yes"/>zu kön̄en drum hab<lb break="yes"/>ich
+                Verhältniß angefangen,<lb break="yes"/>weil man mir gar keine<lb break="yes"/><hi rendition="#u">Freude kön̄t.</hi>
+<pb facs="#image_146"/></p>
+<p> <hi rendition="#u">Abs. <hi rendition="#i">Josephine <surname>S.</surname> Anstalt Kaufbeuren.</hi></hi>
+</p>
+<p>Wohlg <add place="margin"><add hand="arzt"><surname>S.</surname>.
+                    9/IV.08.</add></add><lb break="yes"/><hi rendition="#u"><hi rendition="#i">Herrn A.
+                            <surname>U.</surname> Schuldheiß</hi></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u"><hi rendition="#i">Herlatzhofen</hi></hi></hi><lb break="yes"/><hi rendition="#r"><unclear>GA.
+                    </unclear>Leutkirch/Württemberg</hi><lb break="yes"/><add>frej.</add></p>
+</body>
+</text>
+</TEI>

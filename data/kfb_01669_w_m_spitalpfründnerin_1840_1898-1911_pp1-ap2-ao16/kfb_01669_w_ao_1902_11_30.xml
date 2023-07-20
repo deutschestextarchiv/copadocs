@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1669w09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1669</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Philippina ("Lina") <surname>H.</surname></persName>
+<date type="sent">30.11.1902</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>Z.</surname></persName>
+<settlement type="sent">Lindau</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1669w">
+<persName>
+<forename>Babette</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1840"/>
+<death when="1911"/>
+<occupation>Spitalpfründnerin</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Tuchscherer</p>
+<p>Anstalt: <date from="1898" to="1911">1898-1911</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Idiotie (1899), [Wahnideen, Halluzinationen]</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink_blue" scope="major" scribe="schwester"/>
+<handNote medium="ink_black" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Erkundigt sich nach dem Befinden der Patientin und fragt, ob diese eventuell wieder 
+                   im Lindauer Spital untergebracht werden könne.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1669w09.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Lindau</hi>
+<hi rendition="#i">den</hi> 30 <hi rendition="#i">Novb</hi>
+                    1902.</hi></dateline>
+<salute><hi rendition="#c">Sehr Geehrter Herr Direktor!</hi></salute>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#i">Rsp</hi>. 5. Dz. 02.<lb break="yes"/>geistig unverändert,<lb break="yes"/>körperl. gesund.<lb break="yes"/><space/> dZ</add></add></p>
+<p>Bitte um gütige Nachricht über das<lb break="yes"/>Befinden meiner Schwester
+                Babette<lb break="yes"/><surname>W.</surname>. Wäre es nicht möglich Sie<lb break="yes"/>wieder in den Spital, nach Lindau<lb break="yes"/>kom̄en zu
+                lassen.? </p><p>Indem ich im Voraus meinen besten<lb break="yes"/>Dank erstatte<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Zeiche Hochachtungsvoll<lb break="yes"/></seg></hi><hi rendition="#c"><seg ana="#signed">Frau Philippina <surname>H.</surname>.</seg></hi></p>
+</body>
+</text>
+</TEI>

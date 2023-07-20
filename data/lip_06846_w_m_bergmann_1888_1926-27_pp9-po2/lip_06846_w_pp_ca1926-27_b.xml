@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip6846w13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>6846 (K. 400)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Leo <surname>W.</surname></persName>
+<date type="sent">ca. 1926-27</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Borbeck</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip6846w">
+<persName>
+<forename>Leo</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1888-12-25"/>
+<death cert="unknown"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">51.5110321 7.0960124</geo>Geburtsort: Mellentin; Wohnort: Gelsenkirchen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Dachdecker; Mutter: n.a.</p>
+<p>Anstalt: <date from="1926-06-28" to="1927-02-19">28.06.1926-19.02.1927</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Progr. Paralyse (1926)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er spricht über Scheidung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip6846w13a.jpg" xml:id="image_033"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_033"/>
+<opener>
+<dateline><hi rendition="#c">Borbeck</hi></dateline>
+<salute/>
+</opener>
+<p><space/>Teile das Flräunschaft<lb break="yes"/>und mit <surname>B.</surname> ein an<lb break="yes"/>Ocktober kant die Ehescheid<lb break="no"/>ung den nur Gerichtlig<lb break="yes"/>den Wältlieg den wir<lb break="yes"/>Leben einige Jahre Get<lb break="no"/>trent<lb break="yes"/><hi rendition="#c">Wen Du heute<lb break="yes"/>nicht bies<lb break="yes"/>Ich wert sehen<lb break="yes"/>wer zu sachen hat</hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2245r03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2245</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>R.</surname></persName>
+<date type="sent">28.01.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter und Geschwister</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2245r">
+<persName>
+<forename>Anna</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1882"/>
+<death when="1918"/>
+<occupation>Söldnerstochter</occupation>
+<residence><geo decls="#WGS">48.0734 10.3118194</geo>Frickenhausen, Memmingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1899" to="1918">1899-1918</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie (1904), Depression, [Suizidalität] (1914)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will abgeholt werden, daheim würde es ihr besser gehen;
+                    schreibt zugleich auch an den Direktor
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2245r03a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb2245r03b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline>Kaufbäuren Den 28. Januar 1908.</dateline>
+<salute><hi rendition="#c">Liebe Mutter und Geschwiester!</hi></salute>
+</opener>
+<p>Meine Mutter mein Bruder Johan̄ Georg holt mich in<lb break="yes"/>meine
+                Heimat in der Heimat wär es besser. Lieber Herr<lb break="yes"/>Direcktor, lieber
+                Herr Oberarzt, seid so gut schreibt in meinem<lb break="yes"/>Brief meine Bruder
+                dürfte mich heimholen. Wo ich Anna<lb break="yes"/>die ich arm daran bin zum
+                bedauern, nicht heim darf liebe<lb break="yes"/>Schwester Elisabeta thätest du mir
+                einen Schurz schenken<lb break="yes"/>und zwei Paar Strümpfe. Liebe Mutter Deine
+                Anna<lb break="yes"/>dankt Dir schön für die guten Äpfel, die mein Bruder<lb break="yes"/>Karl im Spätherbst schickte. Mutter wen̄ Du mir etliche<lb break="yes"/>Nudeln schicken thätest. Es ist so schade für mich An̄a ich
+                hatte<lb break="yes"/>vergangenes Jahr gutes Gemüt und Freude, hatte auch etwas<lb break="yes"/>gearbeitet war dabei glücklich fröhlich ohne Sorgen. Die<lb break="yes"/>letzte Zeit wiewohl ich auch ein wenig arbeitete es hat<lb break="yes"/>gar keinen Wert hab keine Liebe keine Freude Tag und<lb break="yes"/>Nacht kein gutes Gewissen. Wenn ich auch nichts nehme die<lb break="yes"/>Kranken in Kaufbäuren all beschuldigen mich ich hätte gestohlen<lb break="yes"/>wär so viel schuldig. Früher hatte ich so viel von Religion<lb break="yes"/>von from̄en Liedern von Him̄elsfreuden verkündet,
+                jetzt<lb break="yes"/>bin ich verflucht kan nicht mehr beten habe keine Freude <pb facs="#image_012"/>mehr am Gebet. deswegen bin ich zum Überlast kan̄<lb break="yes"/>mich niemand mehr mögen. Lieber Herr Direcktor Herr Ober<lb break="no"/>arzt verzeiht mir wieder was ich Tag und Nacht mich ver<lb break="no"/>sündige. Hier wirds nicht mehr besser. Schreibt Ihr die Meinen<lb break="yes"/>sollen mich holen. ich arme Anna möcht in meiner Heimat sein.<lb break="yes"/>Ich glaube in meiner Heimat würd es wieder besser.<lb break="yes"/><hi rendition="#c">Liebe Mutter und Geschwiester holt mich heim.<lb break="yes"/><seg ana="#salute">Es grüßt Euch</seg>
+<seg ana="#signed">eure Anna</seg></hi></p>
+</body>
+</text>
+</TEI>

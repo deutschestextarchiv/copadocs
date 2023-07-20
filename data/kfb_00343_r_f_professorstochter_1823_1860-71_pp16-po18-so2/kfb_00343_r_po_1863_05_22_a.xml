@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb343r33" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>343</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>R.</surname></persName>
+<date type="sent">22.05.1863</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Hofstabsarzt: Doktor <surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb343r">
+<persName>
+<forename>Johanna</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1871"/>
+<occupation>Professorstochter</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Professor</p>
+<p>Anstalt: <date from="1860" to="1871">1860-71</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Fixer Wahnsinn (1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet inständig um einen Besuch des Doktors oder des Königs
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb343r33a.jpg" xml:id="image_114"/>
+<graphic mimeType="image/jpg" url="kfb343r33b.jpg" xml:id="image_115"/>
+<graphic mimeType="image/jpg" url="kfb343r33c.jpg" xml:id="image_116"/>
+<graphic mimeType="image/jpg" url="kfb343r33d.jpg" xml:id="image_117"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_114"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Verehrtester Herr Doktor!</hi></salute>
+</opener>
+<p>Es würde mich innigst freuen, wen̄<lb break="yes"/>Sie mich einmal
+                besuchen würden.<lb break="yes"/>Sie können das um so leichter,<lb break="yes"/>da
+                Sie ja Selbst ein Freund<lb break="yes"/>des Herrn Direktors sind.<lb break="yes"/>Sie haben meiner Schwester so<lb break="yes"/>viel Gutes gethan, sollten Sie<lb break="yes"/>gegen mich weniger gütig<lb break="yes"/>gesin̄t seyn? Ein
+                Besuch von Ihnen<lb break="yes"/>wäre gewiß von den günstigsten<lb break="yes"/>Folgen in Beziehung auf mein<lb break="yes"/>ohnehin so trauriges Schicksal.<lb break="yes"/>Kom̄en Sie, oder suchen Sie es<lb break="yes"/>zu bewirken,
+                daß S. Majestät <add hand="arzt"><lb break="yes"/>Auf dem Felde in einem<lb break="yes"/>Heuhafen gefunden.</add><pb facs="#image_115"/>der König im
+                Laufe dieses Som̄ers<lb break="yes"/>unsere Anstalt besucht. Da ich<lb break="yes"/>das Glück habe ihn persönlich zu<lb break="yes"/>ken̄en
+                wäre ich dan̄ gewiß augen<lb break="no"/>blicklich frei. Erhören Sie meine<lb break="yes"/>Bitte und kom̄en Sie entweder<lb break="yes"/>Selbst,
+                oder bewirken Sie, daß<lb break="yes"/>der König köm̄t.<lb break="yes"/><seg ana="#salute">Hochachtungsvollst</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#c">Ihre</hi><lb break="yes"/><hi rendition="#r">ergebenste<lb break="yes"/>Johanna
+                            <surname>R.</surname>.</hi></seg></p>
+<p>Irsee, den<lb break="yes"/>22 Mai 1863. </p>
+<p><handShift medium="pencil" scope="minor" scribe="patient"/>Erwähnen Sie von diesem Brief<lb break="yes"/>nichts gegen die Anstalt, sonst<lb break="yes"/>werde ich <hi rendition="#u">fürchterlich</hi> bestraft;<lb break="yes"/>und sagen Sie Selbst meiner <pb facs="#image_116"/>Freundin nichts
+                davon, den̄ Sie<lb break="yes"/>ist auch von Spionen umgeben. </p><pb facs="#image_117"/><p><handShift medium="ink" scope="major" scribe="patient"/>Sr. Hochwohlgeboren Herrn<lb break="yes"/><hi rendition="#i">D</hi>r. <surname>W.</surname>, Hofstabs<lb break="no"/>Arzt<lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#r">München.</hi></p>
+</body>
+</text>
+</TEI>

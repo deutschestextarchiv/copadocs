@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1483z07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1483</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Michael <surname>Z.</surname></persName>
+<date type="sent">18.03.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1483z">
+<persName>
+<forename>Michael</forename>
+<surname>Z.</surname>
+</persName>
+<birth when="1887"/>
+<death when="1929"/>
+<occupation>Dienstknecht, Taglöhner, Bettler</occupation>
+<residence><geo decls="#WGS">47.7633615 10.376461</geo>Haldenwang, Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Taglöhner</p>
+<p>Anstalt: <date from="1906" to="1929">1906-1929</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Halluzination] (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bedankt sich für das Überbringen eines Schreibens. 
+                    Er behauptet, sein Vater als sein Vormund verleumde ihn aus Rachsucht und Bestechlichkeit. Daher bittet er den Arzt, ihm alle Mittleiungen zukommen zu lassen, damit
+                    er gerichtlich gegen seine Vater vorgehen kann.
+                    Er weist daraufhin, dass er kein Schreibmaterial hat.
+                    Er möchte dieses Vorgehen auch seiner Schwester vorschlagen.
+                    Er hofft darauf, dass der Arzt seien Wünsche erfüllt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1483z07a.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb1483z07b.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><hi rendition="#c">Kaufbeuren den 18. März 1906</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#u">Hochgeehrter Herr Doktor!</hi></hi></salute>
+</opener>
+<p>
+<hi rendition="#c"><add hand="arzt"><hi rendition="#i"><surname>Z.</surname></hi> 7 III. 06</add>
+</hi><lb break="yes"/>Will mich mit diesen Zeilen unter<lb break="no"/>thänigst
+                bedanken für bereitwi<lb break="no"/>lliges Entgegenkom̄en Ihrerseits!<lb break="yes"/>Da Sie das geschriebene pünklich<lb break="yes"/>abgegeben haben.
+                Mein <add place="above">Vatter</add> stellt Be<lb break="no"/>hauptungen auf, die
+                von a-z<lb break="yes"/>vollständig erfunden sind u.<lb break="yes"/>die offenbar
+                den Zweck verfolgen<lb break="yes"/>sollen, mich meiner Ehre zu berauben.<lb break="yes"/>Aus <hi rendition="#u">allgemeiner Rachsuch u Bestechlich<lb break="no"/></hi> keit wegen statt <hi rendition="#u">daß mein Vater<lb break="yes"/>Beschützungen</hi> dieser Stellevertreter<lb break="yes"/>möchte die niederträchtigsten Lügen <add place="above">verbreitet</add><lb break="yes"/>worden sind. Ich bitte Sie deshalb<lb break="yes"/>hierauf,
+                zweckdienliche Mitthei<lb break="no"/>lungen an mich gelangen lassen<lb break="yes"/>zu wollen, damit ich in der Lage<lb break="yes"/>bin mir auf gerichlichen
+                    Wege<pb facs="#image_016"/> volle Genugtuung verschaffen<lb break="yes"/>zu
+                kön̄en. Insbesonder möchten<lb break="yes"/>Sie mir diesen Wunsch
+                    erfüllen<lb break="yes"/>den ich dabei aufführe daß Sie<lb break="yes"/>nämlich bewilligen Ihnen schri<lb break="no"/>ftlich auf die Fragen die ledig<lb break="no"/>lich an Besuchen an die <seg ana="#inst">Gefangenen</seg><lb break="yes"/>gerichtet werden genügende Ant<lb break="no"/>wort verzeeichnen
+                kan̄. Zu diesen<lb break="yes"/>Behufe den̄och das nötige Schreib<lb break="no"/>material nicht vorhanden habe<lb break="yes"/>Auch meiner
+                Schwester hätte ich<lb break="yes"/>das Angenan̄te unterbreiten woll<lb break="no"/>en. In Gewißheit auf Ihre Güte<lb break="yes"/>rechnen zu dürfen
+                werden hoff<lb break="no"/>entlich Ihre güdige Persönlich<lb break="no"/>keit
+                diese Wünsche <add place="above">nicht</add> abschlagen.<lb break="yes"/><seg ana="#salute">Mit vielen Grüßen an Sie schließe<lb break="yes"/>ich das
+                    Schreiben mit der Absicht Sie<lb break="yes"/>nicht zu belästigen. freundlichen
+                    Gruß</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r"><hi rendition="#u">Mich.
+                                <surname>Z.</surname></hi></hi></seg></p>
+</body>
+</text>
+</TEI>

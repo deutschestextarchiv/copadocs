@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb696w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>696</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Clement <surname>W.</surname></persName>
+<date type="sent">24.11.1883</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Hauptmann: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb696">
+<persName>
+<forename>Clement</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1848"/>
+<death cert="unknown"/>
+<occupation>Magazineur, Comms</occupation>
+<residence><geo decls="#WGS">47.6805255 10.3052109</geo>Waltenhofen, Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Mutter: ledige Hebamme</p>
+<p>Anstalt: <date from="1883" to="1886">1883-86</date></p>
+<p>Brieftypen: pp, po, Tagebuch, Verzeichnis</p>
+</state>
+<trait><p>Manie raisonnante, Ideenflucht (1883)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Entlassung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb696w04a.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="kfb696w04b.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_018"/>
+<opener>
+<add place="margin"><hi rendition="#u">20</hi></add>
+<dateline><hi rendition="#i">Kaufbeuren</hi> den 24. <hi rendition="#i">November</hi> 1883.</dateline>
+<salute>Hochwohlgeborener Herr Hauptman̄</salute>
+</opener>
+<p><space/> Mit Gegenwärtigem erlaube mir,<lb break="yes"/>mich mit der gehorsamsten
+                Bitte an die<lb break="yes"/>Güte Euer Hochwohlgeboren zu wenden, nach<lb break="no"/>dem der Bürgermeister meiner Heimathsge<lb break="no"/>meinde <hi rendition="#i">Waltenhofen</hi> nebst meinen Verwandten<lb break="yes"/>sich weigern für mich
+                einzustehen und mich<lb break="yes"/>abzuholen, obwohl ich schon seit 3 vollen<lb break="yes"/>Monaten als vollständig gesund befunden bin;<lb break="yes"/>sich
+                Hochgeneigtest höhern Orts dahin verwend<lb break="no"/>den zu wollen, daß ich nach
+                nunmehr fünf<lb break="no"/>monatlicher, unschuldiger Gefangenschaft in<lb break="yes"/>diesseitiger kgl. Heil- und Pflegeanstalt end<lb break="no"/>lich
+                einmal wieder in Freiheit gesetzt werde.<lb break="yes"/><space/> Herr Dr von
+                    <surname>M.</surname>
+<hi rendition="#u">jr.</hi> könnte Ihnen,<lb break="yes"/>wenn er nur darf oder
+                will von meinem<lb break="yes"/>Befinden einigen Aufschluß ertheilen, da<lb break="yes"/><hi rendition="#r"><hi rendition="#i">W. S. g. u.</hi></hi></p>
+<pb facs="#image_019"/>
+<p>ich vor mehr als 2 Monaten das Ver<lb break="no"/>gnügen hatte, denselben in
+                diesen wahrhaf<unclear>t</unclear><lb break="yes"/>unheimlichen Räumen begrüßen zu
+                    können<unclear>.</unclear><lb break="yes"/>Ich nehme mir noch die Freiheit,
+                    Ihnen<lb break="yes"/>zu diesem Behufe einige Scripturen und<lb break="yes"/>Briefcoupieen zum sachdienlichen Gebrauche<lb break="yes"/>ganz ergebenst
+                anzufügen, sage Ihnen für<lb break="yes"/>Ihre Hochgeneigtesten Bemühungen im<lb break="yes"/>Voraus meinen verbindlichsten Dank<lb break="yes"/><seg ana="#salute">und nenne mich unter Entschuldigung<lb break="yes"/>meiner
+                    Vermessenheit gehorsamst mit vor<lb break="no"/>züglichster Hochachtung und
+                    Ergebenheit</seg><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Clemens
+                            <surname>W.</surname></hi></hi><lb break="yes"/><hi rendition="#r">Unteroffizier der Landwehr</hi>
+</p>
+</body>
+</text>
+</TEI>

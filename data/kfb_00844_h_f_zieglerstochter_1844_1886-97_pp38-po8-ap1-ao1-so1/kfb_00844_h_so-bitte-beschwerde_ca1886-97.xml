@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb844h36" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>844</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Creszenz <surname>H.</surname></persName>
+<date type="sent">ca1886-97</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb844h">
+<persName>
+<forename>Creszenz</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1897"/>
+<occupation>Zieglerstochter</occupation>
+<residence><geo decls="#WGS">48.5945268 10.4875365</geo>Donaualtheim, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Zieglereibesitzer</p>
+<p>Anstalt: <date from="1886" to="1897">1886-1897</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>Sekundäre Seelenstörung (hysterische Verrücktheit), Verfolgungs- und Beeinträchtigungsgedanken (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Bitte, Beschwerde</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie beschwert sich über die Behandlung durch die Adressaten und bittet um die Übermittlung ihrer Briefe an den Bruder.
+                    Außerdem will sie über die "Wahrheit" informiert werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb844h36a.jpg" xml:id="image_125"/>
+<graphic mimeType="image/jpg" url="kfb844h36b.jpg" xml:id="image_126"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_125"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>foltern laß ich mich so lange ich hir bin<lb break="yes"/>von Euch alle wie
+                einen Hund u gib jeden<lb break="yes"/>nach wen ich voll verfaulen muß den Zeuk<lb break="yes"/>zu einem <w>Unter Rok</w> u Wolenen<lb break="yes"/>leib wo zu Weinachten Eure <seg ana="#curse">Schwindler<lb break="no"/>in</seg> die <w>Ober pflekerin</w> zu mir sagte habe<lb break="yes"/>ich noch nicht wen ich noch nicht zugerichtet<lb break="yes"/>genuk bin u zur <surname>W.</surname> u <surname>G.</surname><lb break="yes"/>thuns nur eine Magt herein ich bin jezt<lb break="yes"/>genuk
+                angestekt u draktirt auf die<lb break="yes"/>schrekliche Weise ich bin es nicht
+                schult<lb break="yes"/>u bitte unter Thränen mich heim lasen </p>
+<pb facs="#image_126"/>
+<p>Ich bitte Euch kendlich meinem<lb break="yes"/>Bruter den Brief zu senten u<lb break="yes"/>das übrike die Wahrheit mittheilen<lb break="yes"/>ich bin es
+                nicht schult bei Euch zu sein<lb break="yes"/>dieses soll man freilich nicht wisen<lb break="yes"/>wie schandvol u ungerecht als Sie<lb break="yes"/>an mir Arme
+                handeln so lange ich hir<lb break="yes"/>bin wo es wahr ist for Gott dem Allmäch<lb break="no"/>tigen wen Sie auch sagen es sei nicht wahr<lb break="yes"/>Pfau der
+                schante ich gib wegen desen nicht<lb break="yes"/>nach Euch die Wahrheit
+                schriftlich zu senten</p>
+</body>
+</text>
+</TEI>

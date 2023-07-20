@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb6369v01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>6369</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Katharina <surname>V.</surname></persName>
+<date type="sent">06.07.1932</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Dr. W. Eliasberg</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb6369v">
+<persName>
+<forename>Katharina</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1902"/>
+<death cert="unknown"/>
+<occupation>Kontoristin</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Straßenbahnwagenführer</p>
+<p>Anstalt: <date from="1920" to="1932">1920-32</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Schizophrenie (1921), Dementia simplex resp. praecox (1920)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie bittet den Arzt, sie aus der Anstalt zu Holen und erklärt ihr Verhalten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb6369v01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb6369v01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb6369v01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren, den 6.7.32.</hi></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr Doktor!</hi></salute>
+</opener>
+<p><space/> Ich bin nun gesund, aber man<lb break="yes"/>läßt mich hier nicht
+                allein fort. Ich<lb break="yes"/>sei auf Ihren Wunsch hier eingelie<lb break="no"/>fert worden &amp; kön̄te nur mit Ihrem<lb break="yes"/>Willen entlassen
+                werden. Ich <hi rendition="#u">bitte</hi> Sie<lb break="yes"/>nun <hi rendition="#u">herzlich</hi>, mich <hi rendition="#u">sofort</hi> nach
+                Erhalt<lb break="yes"/>dieser Zeilen zu holen, bitte kom̄en<lb break="yes"/>Sie doch selbst, zu welcher Zeit es auch<lb break="yes"/>sei. Mit Ihnen gehe ich
+                auch mitten<lb break="yes"/>in der Nacht fort. </p><p>Wen̄ ich
+                manchmal traurig bin &amp; weine,<lb break="yes"/>so ist das nicht Schwermut,
+                sondern Sehn<lb break="no"/>sucht nach Freiheit &amp; Heimweh &amp; wen̄<lb break="yes"/>ich sehr viel denke, so ist das nicht<lb break="yes"/>fruchtloses
+                Grübeln, sondern ich suche<lb break="yes"/>das über meinem Leben liegende <pb facs="#image_002"/>Dunkel zu ergründen, womit ich aber<lb break="yes"/>allein
+                nicht fertig werde, aber Sie<lb break="yes"/>mir vollen Aufschluß geben &amp; die<lb break="yes"/>ganze Wahrheit sagen werden.<lb break="yes"/>Bitte,
+                kom̄en Sie <hi rendition="#u">bald.</hi><lb break="yes"/><space/> <seg ana="#salute">Herzliche Grüße</seg><lb break="yes"/><hi rendition="#r">Ihre<lb break="yes"/><hi rendition="#u"><seg ana="#signed">Käthe <surname><hi rendition="#i">V.</hi></surname></seg>.</hi></hi></p>
+<pb facs="#image_003"/>
+<p><add hand="arzt" place="top"><hi rendition="#r">Ungeeignet<lb break="yes"/>zum
+                        Absenden <hi rendition="#i">F<unclear/></hi></hi></add><lb break="yes"/>Herrn<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Dr. W.
+                        Eliasberg<lb break="yes"/><hi rendition="#u">München</hi>
+</hi><lb break="yes"/>Herman̄ Schmidstr. 3.</hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor1873b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>1873 (K.10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>B.</surname></persName>
+<date type="sent">20.10.ca1912-16</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager: Wilhellm <surname>L.</surname></persName>
+<settlement type="sent">Aplerbeck</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor1873b">
+<persName>
+<forename>Heinrich</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1871-02-26"/>
+<death cert="unknown"/>
+<occupation>Heizer</occupation>
+<residence><geo decls="#WGS">52.7310186 9.6054281</geo>Geburtsort: Eickel; Wohnort: Eickel</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1912-06-01" to="1916-04-30">01.06.1912-30.04.1916</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Dementia Paralytica (1912)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Besuch des Schwagers; fragt, wie es dessen Frau geht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor1873b01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="dor1873b01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline>Ababek d 20 Oktobr</dateline>
+<salute>Liebe Schager Wilhem<lb break="yes"/><surname><unclear>L.</unclear></surname></salute>
+</opener>
+<p><add hand="arzt" place="top"><surname><hi rendition="#i">B.</hi></surname></add></p><p>Liber Schager sei so gut und<lb break="yes"/>kome mir besuche <w>Teil</w><w>dir</w><w>mit</w><lb break="yes"/>das wir einer Abfug nah sahn<lb break="yes"/>nach Hoensübug <add hand="arzt" place="above"><hi rendition="#i">Hohensyburg</hi></add> gemacht<lb break="yes"/>Liber Schager sei so gut<lb break="yes"/>und ich bin Gotte Dak nur<lb break="yes"/>gesund und Muter wis gät.<lb break="yes"/><del>so</del> gehe
+                jeden Tag zur<lb break="yes"/><hi rendition="#i">Fe</hi>ldarbeit Augb<hi rendition="#i">e</hi>k sind ein<lb break="yes"/>der <unclear>Grtüer</unclear> an Grabe <pb facs="#image_002"/>J Liber Schager<lb break="yes"/>meine Frau schib mir<lb break="yes"/>das deine Fau morgn Bett war<lb break="yes"/>ist den krak,</p><p><hi rendition="#r">An Wilh<hi rendition="#i">e</hi>m <surname>L.</surname><lb break="yes"/>in Rünke<lb break="yes"/><placeName type="street">Hermastaße</placeName> 65.<lb break="yes"/>in Wefalen<lb break="yes"/>wen
+                    Du komst ich<lb break="yes"/>bin Landhaus I</hi>
+</p>
+</body>
+</text>
+</TEI>

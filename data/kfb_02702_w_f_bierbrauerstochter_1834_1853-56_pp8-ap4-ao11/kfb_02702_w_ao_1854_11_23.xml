@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2702w19" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Freundin: Margaretha <surname>B.</surname></persName>
+<date type="sent">23.11.1854</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2702w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Bierbrauerstochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Brauereibesitz</p>
+<p>Anstalt: <date from="1853" to="1856">1853-56</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Vesania (17.11.1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="freundin1"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Fragt nach dem Befinden der Patientin, da diese angeblich im nächsten Jahr entlassen werden sollte. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2702w19a.jpg" xml:id="image_037"/>
+<graphic mimeType="image/jpg" url="kfb2702w19b.jpg" xml:id="image_038"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_037"/>
+<opener>
+<dateline><hi rendition="#r">München den <hi rendition="#u">23<hi rendition="#sup">t</hi></hi>
+<hi rendition="#i">Novemb</hi>: <hi rendition="#u">1854</hi></hi></dateline>
+<salute><hi rendition="#c">Euer Hochwohlgeborn!</hi></salute>
+</opener>
+<p><space/> Werden mir meine Freiheit entschuldigen, wen̄<lb break="yes"/>ich
+                einige Zeilen dem Briefe der <hi rendition="#i">Madam</hi>: <surname>W.</surname>
+                unbemerkt<lb break="yes"/>von <hi rendition="#u">derselben</hi> beilegen werde.
+                <space/> Durch meine lange Krank<lb break="no"/>heit, welche schon seit dem 14<hi rendition="#sup">t</hi> September andauert, und noch<lb break="yes"/>nicht
+                ganz gehoben ist, bin ich so ziemlich allem entfremdet<lb break="yes"/>worden, was
+                Mariens Fortschritte in ihrer Genesung an<lb break="no"/>belangt, da ich besonders
+                durch meine Nervenschwäche abgehalten wer<lb break="no"/>de Besuche zu
+                machen.<space/> Herr Direktor werden dieser ange<lb break="no"/>führten Gründe
+                halber mir gewiß vergeben, wen̄ ich es wage,<lb break="yes"/>da ich heute
+                durch meine Tochter Ernestine erfahren habe<lb break="yes"/>daß Mariens Heimkehr
+                zum neuen Jahre festgesetzt<lb break="yes"/>seye, Sie selbst unumwunden um
+                gütigsten Aufschluß<lb break="yes"/>zu bitten, und ob ohne Gefahr für ihre Zukunft,
+                    Trost<lb break="no"/>bringend für ihre Angehörigen, ihre Heimkehr erfolgen<lb break="yes"/>kan̄. Jch wünsche von ganzem Herzen das Beste, nur <hi rendition="#u">daß</hi><lb break="yes"/>was Marien beglücken sie erheitern, und ihrer Mutter<lb break="yes"/>mit einem Herzen voll Liebe und Sehnsucht, Ruhe und<lb break="yes"/>Frieden bringen kan̄. <space/> Recht gerne würde ich noch vieles<lb break="yes"/>niederschreiben, noch manches zu fragen und gütigste Er<lb break="no"/>läuterungen mir zu erbitten haben, da ja nur meine ein<lb break="no"/>zige Hoffnung ist, für Mariens künftige Tage, den väter<lb break="no"/>lichsten
+                Freund und Rathgeber an unserem Hochverehrten <pb facs="#image_038"/>Herrn Direktor
+                gefunden zu haben, wo nur die genaueste<lb break="yes"/>Befolgung zum Heile führen
+                wird. <space/> Mit <hi rendition="#i">Mad</hi>: <surname>W.</surname><lb break="yes"/>geht es Gott sei Dank um vieles beßer deren völlige<lb break="yes"/>Genesung ich von ganzem Herzen wünsche.</p><p><seg ana="#metaling">Mein noch schwacher Kopf gebietet mir zum Schluß zu<lb break="yes"/>eilen,</seg> <seg ana="#salute">wobei ich
+                hochachtungsvollst mich Jhnen und<lb break="yes"/>Jhrer Frau Gemahlin empfehle als<lb break="yes"/><hi rendition="#c">Jhre</hi><lb break="yes"/><hi rendition="#r">ergebenste </hi></seg><hi rendition="#r"><seg ana="#signed">Margaretha<lb break="yes"/><surname>B.</surname></seg></hi></p><p><add hand="arzt">d. 29 Nobr 54. <space/> an M.R. <surname>G.</surname><lb break="yes"/>Meine Bedenken, ob die bei Fräul. <surname>W.</surname><lb break="yes"/>bemerkbare Besserung auf <unclear/><lb break="yes"/>in̄erer Sin̄esänderung beruhen, haben sich leider<lb break="yes"/>gerechtfertigt. Jüngst erhielt sie Briefe von ihrer<lb break="yes"/>Mutter u. von ihrer Freundin Ernestine <surname>B.</surname><lb break="yes"/><del>riß</del> kaum gelesen riß sie derselben zornig<lb break="yes"/>in Stücke u. warf sie in der Abtritt <unclear/><lb break="yes"/>hatte sie darin die d<unclear/> Ankündigung der<lb break="yes"/>Entlassung erwartet, und <del><unclear>nun</unclear></del>
+<add place="above">kon̄te</add>, da <add place="above">so</add> d<unclear/>
+<del><unclear/></del>
+<unclear>werden</unclear><lb break="yes"/>nur er<unclear/> von meinem <unclear>Gedanken abbrachte</unclear> </add></p>
+</body>
+</text>
+</TEI>

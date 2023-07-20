@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2950r03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2950</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>R.</surname></persName>
+<date type="sent">ca.1923-36</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. und Berta <surname>H.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2950r">
+<persName>
+<forename>Magdalena</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1887"/>
+<death cert="unknown"/>
+<occupation>Dienstmädchen</occupation>
+<residence><geo decls="#WGS">47.6988348 10.321779800598831</geo>Kottern/Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schuhmacher</p>
+<p>Anstalt: <date from="1923" to="1936">1923-36</date></p>
+<p>Brieftypen: pp,po,ap</p>
+</state>
+<trait><p>[Suizidalität], Verfolgungswahn (1923), Versündigungsideen, Sinnestäuschungen, Willensstörungen (1828-36)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Klagt über ihr Alter
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2950r03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb2950r03b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<salute>
+<seg ana="#pic">[einfache Blume]</seg>???? <hi rendition="#u"><hi rendition="#i">Frl. <surname>H.</surname>! An̄a u. Frl.
+                            Berta!</hi>
+<seg ana="#pic">[einfache Blume]</seg></hi></salute>
+</opener>
+<p>Den Datum weiß ich nicht ich glaub; Er heißt:<lb break="yes"/>Vergißmeinnicht. Vielmals
+                Vergelts Gott für die Weih<lb break="no"/>nachtspäckchen u. das schöne Büchlein?
+                Mutterherz? Und diese<lb break="yes"/>Heftchen? Bete alle <hi rendition="#u">Tage</hi> was ich kan̄ <hi rendition="#u">3</hi> od. <hi rendition="#u">2.</hi> einmal hab ich<lb break="yes"/><hi rendition="#u">5 Rosenkränze!</hi> gebetet; u. sonst noch <hi rendition="#u">Morgengebet!</hi> u. vieles nicht<lb break="yes"/>genan̄tes: <hi rendition="#u">Gebet</hi> u. den <hi rendition="#u">Paule</hi> u. <hi rendition="#u">Gottvertrauen</hi> net verlieren<lb break="yes"/>das rafft den
+                Menschen auf. Ich mangle meine verst. gute <w>Schwe<lb break="no"/>ster</w>
+<hi rendition="#u">Mari</hi>! Diese hat mich verstanden? Wo ist heutzutage; Je<lb break="no"/>mand wo man sich ausreden kan̄? als klag es Gott an der<lb break="yes"/>Wand; wirds niemand bekan̄t? Trau; schau; wem? Geh<lb break="yes"/>nun in mein Käm̄erlein; trag den Schmerz für mich<lb break="yes"/>allein? Am liebsten wär mei Wunsch an meinem Namensfeste<lb break="yes"/>zugleich Geburtstagfeste 50 Jhr. u. noch ledig; aber itz heirat i.
+                    bald;<lb break="yes"/>hab no Zeit bis i nomal 50 wär. Kai Kuh so alt wie i. So
+                    jung<lb break="yes"/>u. lustig kom̄er nim̄a zsam̄en. Wer
+				    wird den̄ traurig sei; des fällt<lb break="yes"/><hi rendition="#r">mer gar it ei; jetzt fällt<lb break="yes"/><add place="margin">mers lustig sei echt recht mer ein.</add></hi><lb break="yes"/><seg ana="#salute">Grüße v.</seg><seg ana="#signed"> Leni
+                    <surname>R.</surname></seg> Kom̄ bald heim. </p>
+</body>
+</text>
+</TEI>

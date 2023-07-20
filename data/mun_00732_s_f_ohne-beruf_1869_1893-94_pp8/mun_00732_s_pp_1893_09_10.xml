@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun732s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>732 (K. 670)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>S.</surname></persName>
+<date type="sent">10.09.1893</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mun732s">
+<persName>
+<forename>Anna</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1869-08-13"/>
+<death cert="unknown"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">52.3161663 7.7836981</geo>Geburtsort: Amsterdam; Wohnort: Mettingen (Kreis Steinfurt)</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Kaufmann; Mutter: Hausfrau</p>
+<p>Anstalt: <date from="1893-05-25" to="1894-03-30">25.05.1893-30.03.1894</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Imbecillität (1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin freut sich, dass es ihrer Mutter besser geht. 
+                    Sie beklagt sich über ihre Situation in der Anstalt.
+                    Sie möchte Besuch von Emma und wieder zu ihren Eltern nach Hause.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun732s05a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="mun732s05b.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="mun732s05c.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Munster</hi> 10 <hi rendition="#i">Sept</hi>.</hi></dateline>
+<salute><hi rendition="#c">Liebe Eltern!</hi></salute>
+</opener>
+<p><add hand="hand2">ad acta <hi rendition="#i">Frl </hi><surname><hi rendition="#i">S.</hi></surname><lb break="yes"/><hi rendition="#c">G</hi> </add></p>
+<p><seg ana="#metaling">Jetzt setzte ich mich mal<lb break="yes"/>eilings hin um mich mal<lb break="yes"/>eben mit Euch zu unterhalten</seg><lb break="yes"/>Zu meiner Freude weiß<lb break="yes"/>ich doch daß es dir liebe<lb break="yes"/><hi rendition="#i">Mama
+                </hi>besser geht. Was<lb break="yes"/>mir betrift ich weiß selbst<lb break="yes"/>nicht wie ich er eigent<lb break="no"/>lich an bin. Wie daß jetzt<lb break="yes"/>ist kann ich gar nicht<lb break="yes"/>mehr nach meinem Stande<lb break="yes"/>leben. Mein Zeug und<lb break="yes"/>meine Wäsche, nichts habe<lb break="yes"/>ich mehr in Ordnung.<lb break="yes"/>Ich habe hier kein Augen<lb break="no"/>blick Ruhe mehr. Es ist mir <pb facs="#image_014"/>hier alle so wunderlich.<lb break="yes"/>Ich habe hier auch gar<lb break="yes"/>keinen bekannten. Ich kann<lb break="yes"/>so nicht mehr leben. Darf<lb break="yes"/>unsere Emma nicht
+                mal<lb break="yes"/>kommen, ich habe Sie ja<lb break="yes"/>neulich mal
+                geschrieben,<lb break="yes"/>ich möchte Sie mal so ger<lb break="no"/>ne sehen.
+                Bitte laßt mich<lb break="yes"/>doch wieder zu Euch kommen<lb break="yes"/>ich
+                will Euch gerne helfen.<lb break="yes"/>Hier gefällt es mir gar<lb break="yes"/>nicht. Hier <del>ist auch</del> sind<lb break="yes"/>ja auch allerlei Leute
+                    i<unclear>n</unclear><lb break="yes"/>Katohlischen und Efangeließen<lb break="yes"/>und Protestanten.
+                Ich<lb break="yes"/>kann hier überha<del>b</del>ubt<lb break="yes"/>nicht mehr
+                sein, ich muß<lb break="yes"/>hier weg. Warum bin<lb break="yes"/>ich hier doch
+                eigentlich?<lb break="yes"/>Bitte schreibet mir doch<lb break="yes"/>mal bald
+                wieder. </p>
+<pb facs="#image_015"/>
+<p>Iich habe auch gar nich<lb break="yes"/>mehr was ich nöthig habe<lb break="yes"/>Muß ich mein ganzes Leben<lb break="yes"/>hier zubringen. <seg ana="#salute"><del>Vi</del> Nach<lb break="yes"/>vielen Grüße an alle Ge<lb break="no"/>schwister und besonders<lb break="yes"/>an Euch liebe Eltern<lb break="yes"/><hi rendition="#c">verbleibe ich </hi><lb break="yes"/><hi rendition="#r">Euere</hi></seg><hi rendition="#r">
+<seg ana="#signed"><hi rendition="#i">Anna</hi></seg>.</hi>
+</p>
+</body>
+</text>
+</TEI>

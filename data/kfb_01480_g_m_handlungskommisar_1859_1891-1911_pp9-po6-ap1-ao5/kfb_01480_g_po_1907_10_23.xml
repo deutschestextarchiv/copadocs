@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1480g06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1480</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>G.</surname></persName>
+<date type="sent">23.10.1907</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1480g">
+<persName>
+<forename>Karl</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1911"/>
+<occupation>Handlungskommissar</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1891" to="1911">1891-1911</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>[Epilepsie] (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will wieder zu seinem Beruf
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1480g06.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r">23. Okt.1907.<lb break="yes"/>Irsee, 21. 21. Novbbr<lb break="yes"/>1907</hi></dateline>
+<salute><hi rendition="#c">Geehrtester Herr</hi><lb break="yes"/><hi rendition="#r">Bürgermeister!</hi></salute>
+</opener>
+<p>
+<space/> Ich erlaube mir bei Ihnen<lb break="yes"/><unclear>aufe</unclear>zufrug<unclear>ene</unclear> ob ich nicht
+                    <unclear>?</unclear>uht bei<lb break="yes"/>Ihnene wieder bald auf Ihrenen ge<lb break="no"/>ehrtemnen "Buvenanumm wieder auf<lb break="yes"/>ich.</p><p><space/> Ich sollte weder zu meinem<lb break="yes"/>einen Beruf
+                bekommenen, <unclear>einerwol</unclear><lb break="yes"/>dafür können Sie sich beim
+                    Herren<lb break="yes"/>Bürgermeister <surname>R.</surname>, es
+                    müßte<lb break="yes"/>außteren werdenen, ich bin Ich bin<lb break="yes"/>jetzt
+                        bereits schon zwanzig Jah zig<lb break="yes"/>altig</p><p> <seg ana="#salute">Ichendenn ich mein Schreiben<lb break="yes"/>schließe, erwarthe greuße dich<lb break="yes"/>sowie Ihnenen unserer<lb break="yes"/>werthester sowie mein<lb break="yes"/><hi rendition="#r">unserer Ehegatt<unclear>un</unclear>in</hi><lb break="yes"/><seg ana="#signed"><hi rendition="#i">"Karl <surname>G.</surname>"</hi></seg></seg><lb break="yes"/>Ich
+                erwarte baldigst Nachricht</p>
+</body>
+</text>
+</TEI>

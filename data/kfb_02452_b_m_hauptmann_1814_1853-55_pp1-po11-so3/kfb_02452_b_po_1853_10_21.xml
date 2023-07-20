@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2452b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2452</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Carl Graf von <surname>B.</surname></persName>
+<date type="sent">21.10.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>H.</surname></persName>
+<settlement type="sent">bei Benediktbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2452b">
+<persName>
+<forename>Carl Graf von</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1814"/>
+<death when="1855"/>
+<occupation>pens. Hauptmann</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Anstalt: <date from="1853" to="1855">1853-55</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Manie (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   bittet um ein Bad; möchte nach Kaufbeuren
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2452b02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb2452b02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">1/2 Stunde von <hi rendition="#i">Benedikbeuern</hi> d. 21 X. 53<lb break="yes"/>in Heilanstalt für Gemüths Kranke</hi></dateline>
+<salute><hi rendition="#c">Hochgehrter Herr Director
+                    <surname>H.</surname>!</hi></salute>
+</opener>
+<p> Da um <add place="above">10 Uhr</add> Tasse Fleis mit etws Brod und<lb break="yes"/>Saby;
+                so bitte Sie morgen ein lauwarmes<lb break="yes"/>Bad zu gemigen und dann mit
+                    nach<lb break="yes"/><hi rendition="#i">Kaufbeuern</hi> zu Fahren, u. mich aus der Heil<lb break="no"/>anstalt; denn <add>bin</add> sehr unglücklich hier; Ich voll<lb break="no"/>kommen
+                gesund bischen <w>Kreuz weh</w>. Ich<lb break="yes"/>habe
+                mir vorgenom̄en in große Spatzier<lb break="no"/>gänge zum machen; zudem
+                    Hausärtze<lb break="yes"/>deren Anordnung ich unterziehe. Und<lb break="yes"/>meine nicht genehmigen: Die Weihnachts<lb break="no"/>feier bei meiner Frau und
+                Kindern zuzu<lb break="no"/>bringen, so bin der unglucklichste Mensch<lb break="yes"/>den je die Welt getragen. Wollen geneh<lb break="no"/>mihmigen,
+                daß mir meiner Raßiermesser<lb break="yes"/><hi rendition="#r"><hi rendition="#i">vert</hi></hi>
+<pb facs="#image_004"/> mein Federmesser und Stachlmesser, welche bei dem<lb break="yes"/>ersten <add>Krankenwärter</add> hohlen sind. Ich danke Ihnen sehr
+                    geehrter<lb break="yes"/>Herr Director <hi rendition="#i">Engelmann</hi> und dem
+                    Heren<lb break="yes"/>Secretär <hi rendition="#i"><surname>R.</surname></hi>. Aber ich Sie nochmals, daß<lb break="yes"/>Ich
+                der unglücklichste Mensch der je gebohren<lb break="yes"/>heute, und das bischen
+                geben, was ich mitge<lb break="no"/>bracht habe. <hi rendition="#i">Cuhrkosten</hi>
+                und Trink werden so<lb break="yes"/>wahrscheinlich in Rechnung gebracht. Ich<lb break="yes"/>erwarte von Einsicht und Güte meine Ver<lb break="no"/>langen
+                kein unbilliges ist.</p>
+<p><hi rendition="#r">Mit auszeichneter Hochachtung<lb break="yes"/><seg ana="#signed">Graf <hi rendition="#i">Carlvon<surname>B.</surname></hi> k. l. Hauptmann<lb break="yes"/>im Ruhestand</seg></hi></p>
+<p>P.S. Ich auch noch der Obersanitätscom̄ission<lb break="yes"/>vorstellt, und so ist noch wichtige Geschäffte
+</p>
+</body>
+</text>
+</TEI>

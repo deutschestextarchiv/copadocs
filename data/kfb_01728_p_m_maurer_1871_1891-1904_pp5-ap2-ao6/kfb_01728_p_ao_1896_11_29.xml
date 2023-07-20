@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1728p08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1728</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>P.</surname></persName>
+<date type="sent">09.11.1896</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Weichering</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1728p">
+<persName>
+<forename>Andreas</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1871"/>
+<death when="1904"/>
+<occupation>Maurer und Musiker</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Weichering, Neuburg, Wohnort: München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Wegmacher, Straßenwärter</p>
+<p>Anstalt: <date from="1891" to="1904">1891-1904</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Alkoholismus, Halluzinationen (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet darum, seinem Sohn seine Glückwunsch zu dessen Namenstag zu überbringen.
+                    Er bittet um Auskunft über das Befinden seiner Söhne.
+                    Er will sie vielleicht selbst besuchen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1728p08a.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="kfb1728p08b.jpg" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<dateline>Weicher<unclear>in</unclear>g Den 29te November<unclear>n</unclear><lb break="yes"/><hi rendition="#r">1896</hi></dateline>
+<salute/>
+</opener>
+<p> Ihinden Das mein Lieben Sohn<lb break="yes"/>Andereas sein Namenstag<lb break="yes"/>Herran nad, so mächte ich meine<lb break="yes"/>Glükwunsch an inn
+                    <w>vor Bringen</w>,<lb break="yes"/>ihmdem Das es wohl schon <w>lange</w><w>zeit</w><lb break="yes"/>ist, Das ich weder von meinen Sohne eine<lb break="yes"/>Antword,
+                erhalten hab, oder von schust<lb break="yes"/>etwar Ander. Ich Dete Korsamst
+                    Bitten<lb break="yes"/>Herr Kgl: Dierekter. Sihe mächten<lb break="yes"/>sobald
+                    <w>wie</w><w>mäglich</w> mich <del>ich</del> im Körtnis<del>e</del><lb break="yes"/>sezen, wie <del>es</del> er sich verhelt, <w>ob</w><w>den</w>
+                    garr<lb break="yes"/>keine Besserung verhanden ist.<lb break="yes"/>und wan es
+                mäglich ist bei meinen<lb break="yes"/>Liben Sohne Vitus, wie sein Benemmen<lb break="yes"/>ist. als Vater 69 Jahr alt. ich habe große<lb break="yes"/>Sensucht
+                Herr Kgl: Dierekter auf eine<lb break="yes"/>Antwort es komd mih hard an weil<lb break="yes"/>ich sieh selbst <add place="above">nicht</add> besuchen <add place="above">kan</add> vieleiht ist es für mih<lb break="yes"/>beser und für
+                sie auch.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Achtungsvoll</seg>
+<seg ana="#signed"><surname>P.</surname> Joseph</seg> Kgl:<lb break="yes"/>Strassenwärter</hi></p>
+<pb facs="#image_023"/>
+<p>
+<add hand="arzt">10. Decbr. 96. <hi rendition="#i">Antwort durch Sohn Andr.</hi><lb break="yes"/><hi rendition="#i">geschrieben zurück</hi>.<lb break="yes"/><unclear>Sarr:</unclear>
+<hi rendition="#i">Besserung</hi> nicht <hi rendition="#i">zu erwarten</hi>, <hi rendition="#i">Körperl Befund</hi><lb break="yes"/><hi rendition="#i">gut.</hi><lb break="yes"/><space/>
+<hi rendition="#i">DJ</hi>.</add>
+</p>
+</body>
+</text>
+</TEI>

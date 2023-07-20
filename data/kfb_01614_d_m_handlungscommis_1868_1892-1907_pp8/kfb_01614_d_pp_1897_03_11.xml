@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1614d04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1614</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>D.</surname></persName>
+<date type="sent">11.03.1897</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater und Bruder: Wilhelm. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1614d">
+<persName>
+<forename>Karl</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1868"/>
+<death when="1907"/>
+<occupation>Handlungscommis</occupation>
+<residence><geo decls="#WGS">48.6263543 10.745509</geo>Buttenwiesen, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Mühlbesitzerseheleute</p>
+<p>Anstalt: <date from="1892" to="1907">1892-1907</date></p>
+<p>Brieftypen: <!--Brieftypen--></p>
+</state>
+<trait><p>Religiöse Schwärmerei (1892), Halluzinationen (1904)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Möchte seine Braut (Pflegerin aus Irsee) mit nach Hause bringen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1614d04a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb1614d04b.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><hi rendition="#i">Kaufbeuren</hi> 11. März 1897.</dateline>
+<salute>Lieber Vater &amp;<lb break="yes"/>Wilhelm!
+                    </salute>
+</opener>
+<p>Du warst vor einigen<lb break="yes"/>Wochen hier, lieber Vater,<lb break="yes"/>ich konnte aber nicht<lb break="yes"/>ins Zim̄er vorkom̄en.<lb break="yes"/>Ich habe dir bereits<lb break="yes"/>mitgetheilt, daß ich eine<lb break="yes"/>Pflegerin von der An<lb break="no"/>stalt heirathen möchte.<lb break="yes"/>mit Namen <hi rendition="#i">Martha</hi><lb break="yes"/><hi rendition="#i"><surname>K.</surname></hi>.<lb break="yes"/>dieselbe ist in Irsee<lb break="yes"/>geboren, hat zwei ältere </p>
+<pb facs="#image_009"/>
+<p>Geschwisterte und<lb break="yes"/>würde gerne mit<lb break="yes"/>mir zu Euch
+                reisen.<lb break="yes"/>Ein <del>älter</del> Bruder von<lb break="yes"/>ihr ist
+                in Küchenbach<lb break="yes"/>als Frater, eine<lb break="yes"/>Schwester in
+                Irrsee<lb break="yes"/>verheirathet.<lb break="yes"/><hi rendition="#c">Mit Grüßen<lb break="yes"/>Euer<lb break="yes"/>Euch-liebender<lb break="yes"/>Carl <surname>D.</surname>
+</hi><lb break="yes"/><lb break="yes"/>Herrn<lb break="yes"/><hi rendition="#i"> Jos. </hi><surname><hi rendition="#i">D.</hi></surname><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i"> Stählermühle </hi><lb break="yes"/><hi rendition="#i"> Post
+                    Buttenwiesen</hi>. </p>
+</body>
+</text>
+</TEI>

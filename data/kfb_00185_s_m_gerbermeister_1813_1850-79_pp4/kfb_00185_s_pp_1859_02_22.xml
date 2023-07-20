@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb185s01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+<name>Stephanie Kamm</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>185</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">22.02.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Babette <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb185s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1813"/>
+<death cert="unknown"/>
+<occupation>Gerbermeister</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1850" to="1879">1850-79</date></p>
+<p>Brieftypen: pp,ao</p>
+</state>
+<trait><p>fixe Ideen (1850)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schreibt seiner Ehefrau, dass ihm seine "Liederlichkeit" leid tue, das soll sie seinem Bruder ausrichten;
+                    er ist krank, will sich aber finanziell um seine Familie kümmern
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb185s01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb185s01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 22 Febr 1859.</hi></dateline>
+<salute>Liebe <hi rendition="#i">Babette!</hi></salute>
+</opener>
+<p> Jch bin jetzt krank &amp; unfähig meine Rothgerber<lb break="no"/>meister-Stelle in Lindau
+                wider einzunehmen, aber<lb break="yes"/>ist es unserm lieben Gott gefällig mich
+                    wenigstens<lb break="yes"/>so noch längere Zeit leben zu laßen so will ich<lb break="yes"/>mich um eine neue Heimath umsehen wo ich den<lb break="yes"/>Schaden den ich durch meine frühere Unwissenheit &amp;<lb break="yes"/>Liederlichkeit angerichtet habe wider gut machen kan̄.<lb break="yes"/>Übergebe inliegendes Schreiben an meinen Bruder<lb break="yes"/><hi rendition="#i">Conrad</hi> &amp; sage ihm wen er die erhaltenen Geschenke
+                    nicht<lb break="yes"/>eingestehen will, daß die beiden Töchtern meines
+                    Hauses<lb break="yes"/>erst ein schönes Heyratgut &amp; nachher im̄er
+                noch Geschenke<lb break="yes"/>erhielten, das nach dem Tod meines seelg. Vaters f
+                    74,000,−<lb break="yes"/>gelehntes Geld nebst vielen
+                Jahres-Zin̄sen wie auch die<lb break="yes"/>Vorarlberger Hipoteken &amp;
+                andre im Landgericht Lindau<lb break="yes"/>geschenkt wurden &amp; erst nach dem
+                Tod der seelg. Groß<lb break="no"/>mutter noch die Erbschafft erfolgte wovon die
+                    seelge<lb break="yes"/>Mutter u die 12 Enkel versorgt werden sollten wie
+                    auch<lb break="yes"/>gegenseitig in Freundschafft &amp; Garantie leben oder
+                    nach<lb break="yes"/>dem Tod einander erben. Besorge mir die Rechnung das<lb break="yes"/>ich auch für Dich &amp; die lieben Kinder sorgen kan̄. <seg ana="#signed">Dein <hi rendition="#i">Jacob</hi></seg>
+<pb facs="#image_002"/> Jhro Wohlgeboren<lb break="yes"/><hi rendition="#i">Babette <surname>S.</surname></hi><lb break="yes"/>Rothgerbers-Frau<lb break="yes"/><hi rendition="#i">Lindau.</hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

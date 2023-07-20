@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb844h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Susanne Klohn</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>844</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Creszenz <surname>H.</surname></persName>
+<date type="sent">ca. 1886-97</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irrsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb844h">
+<persName>
+<forename>Creszenz</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1897"/>
+<occupation>Zieglerstochter</occupation>
+<residence><geo decls="#WGS">48.5945268 10.4875365</geo>Donaualtheim, Fillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Zieglereibesitzer</p>
+<p>Anstalt: <date from="1886" to="1897">1886-1897</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Sekundäre Seelenstörung (hysterische Verrücktheit), Verfolgungs- und Beeinträchtigungsgedanken (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    klagt über ihren Zustand in der Anstalt, klagt die Verantwortlichen an
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb844h02.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<p> Ich bitte<lb break="yes"/>u flehe weil ich<lb break="yes"/>eine solche Natur<lb break="yes"/>hab u es so lange<lb break="yes"/>nicht versterben kan<lb break="yes"/>so schreklich u entsetzlich<lb break="yes"/>als mich Tag u Nacht<lb break="yes"/>zu richten lasen von Eur<lb break="no"/>en schamlosen <seg ana="#curse">Len<lb break="no"/>Mördern</seg> u von Ihnen<lb break="yes"/>zu gleich u wen ich löß<lb break="yes"/>hab dan wünsch ich Ihn<lb break="no"/>en das Ihnen Ewig<lb break="yes"/>freßen u Qwelen wens<lb break="yes"/>noch nicht genuk haben<lb break="yes"/>mich Arme behalten<lb break="yes"/>u zwingen vom einem<lb break="yes"/>Tage vom andern in<lb break="yes"/>Eurem schamlosen Hause</p>
+</body>
+</text>
+</TEI>

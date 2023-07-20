@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2087f08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2087</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>F.</surname></persName>
+<date type="sent">03.05.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Maria <surname>F.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2087f">
+<persName>
+<forename>Ludwig</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1935"/>
+<occupation>Gastwirt, Landwirt</occupation>
+<residence><geo decls="#WGS">47.6283377 9.9102676</geo>Heimenkirch, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Gastwirt</p>
+<p>Anstalt: <date from="1900" to="1935">1900-1935</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Manie (1930), Ideenflucht, Größenwahn (1900-35), Halluzination (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient schreibt seiner Frau, dass sie ihn abholen lassen soll, und beschwert sich über die von ihr ohne seine Zustimmung getätigten Ausgaben.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2087f08a.jpg" xml:id="image_020"/>
+<graphic mimeType="image/jpg" url="kfb2087f08b.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_020"/>
+<opener>
+<dateline><hi rendition="#i">Kaufbeuern.<lb break="yes"/>An 3. Mai
+                    1929,</hi></dateline>
+<salute><hi rendition="#i">Liebe Mutter &amp; Gattin.</hi></salute>
+</opener>
+<p>
+<hi rendition="#i">Frau Mari <surname>F.</surname><lb break="yes"/>z. Adler<lb break="yes"/>Berg Heimenkirch<lb break="yes"/>Allgäu.</hi></p>
+<p><hi rendition="#i">Lud <surname>F.</surname>.</hi><lb break="yes"/>Bitte mih
+                    sofort<lb break="yes"/>abholen zu lassen<lb break="yes"/><hi rendition="#i">Pferdehandel</hi><lb break="yes"/><hi rendition="#i">aczeptiere ich</hi><lb break="yes"/><hi rendition="#i">nicht ehe ich das</hi><lb break="yes"/><hi rendition="#i">selbe gesehen.</hi><pb facs="#image_021"/>
+<hi rendition="#i">Mehr als 1000 Mark</hi> hast du ohne<lb break="yes"/>mein Wissen
+                u. Willen<lb break="yes"/>verbaut. Ferner hast mehr als <del>um</del><lb break="yes"/>um 1000 Mark Anschaffungen<lb break="yes"/>ohne meinen in <hi rendition="#i">Möbel Wäsche<lb break="yes"/>Kühe</hi> hast du mindestens 6000
+                    Mark<lb break="yes"/><w>aus gegeben</w>. nun ein <hi rendition="#i">Roß</hi> für 1000 M<lb break="yes"/>macht für uns den Dienst auch.<lb break="yes"/>dergescheide Specht u. <hi rendition="#i">Heuberglaube</hi><lb break="yes"/>vielleicht wen̄ wir
+                recht Schuld<unclear>mit</unclear><lb break="yes"/><unclear>?</unclear>Wirtschaft noch bekom̄en. <unclear>?</unclear><lb break="yes"/><hi rendition="#c"><seg ana="#salute">Frl Gruß</seg>
+<hi rendition="#i">Lud <seg ana="#signed"><surname>F.</surname></seg></hi>.</hi></p>
+</body>
+</text>
+</TEI>

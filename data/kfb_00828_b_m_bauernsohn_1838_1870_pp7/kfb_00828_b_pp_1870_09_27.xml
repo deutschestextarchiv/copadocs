@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb828b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>828</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>B.</surname></persName>
+<date type="sent">27.09.1870</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern und Geschwister: Johannes <surname>B.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb828b">
+<persName>
+<forename>Georg</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1838"/>
+<death cert="unknown"/>
+<occupation>Bauernsohn</occupation>
+<residence><geo decls="#WGS">48.701823700000006 10.748606993331222</geo>Spindelhof, Riedlingen, Donauwörth</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bauern,  "ziemlich wohlhabend[..]"</p>
+<p>Anstalt: <date from="1870" to="1870">1870</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Melancholie, fixe Wahnvorstellungen (1870)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient wünscht Besuch, um Neuigkeiten aus der Heimat zu erfahren.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb828b01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb828b01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb828b01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 27. Sebtember 1870</hi></dateline>
+<salute><hi rendition="#r">Werthe Elthern und Gewister.</hi></salute>
+</opener>
+<p>Ich hofe das mein bahr zeilen<lb break="yes"/>eich in kutem zustante antrefe<lb break="yes"/>wie ich Gott sei tang auch bin. </p>
+<p>Besuchen kann ich eich nicht den <w>der<lb break="no"/>Jenige</w> wo mich suchen will der kan̄<lb break="yes"/>der kans,
+                Vollfieren, das kös auf<lb break="yes"/>die Straße, Sch<add place="below">r</add>eibet mihr was ihr<lb break="yes"/>fier einen Knecht Getenget habt. in
+                unser<lb break="yes"/>kekent ist es a so der Brauch, Tengt zu<lb break="yes"/>den
+                Kartofel. Sonst bekomen wier wenig<lb break="yes"/>Kesen. Oter trauf Bferchen. </p>
+<p>Die Zeit ist vorbei und meine<lb break="yes"/>Krangheit auch ich wolte schon lengst<lb break="yes"/>aus der kekenwertige zeit was wisen<lb break="yes"/>was sich
+                bei uns fohrketraken hat<lb break="yes"/>nemlich auf dem Spendelhofe schreibet<lb break="yes"/>mihr die Neigkeit. Die Freide könd edwas<lb break="yes"/>kröser
+                sein wo ich besize,</p>
+<pb facs="#image_002"/>
+<p>Schreibet an mich einen Brif wie die<lb break="yes"/>Feheltnise Stehen. Ob Ihr auch kud<lb break="yes"/>einkenotet habt. so sei so gud und<lb break="yes"/>schreib mihrs
+                der <hi rendition="#u" style="arzt">Spente</hi>lhof <hi rendition="#u" style="arzt">ist</hi>
+<hi rendition="#u" style="arzt">mein</hi><lb break="yes"/>wer nach mihr komt wirtz auch so<lb break="yes"/>sein steket eire
+                nase trein, das ihr habt<lb break="yes"/>mich i<del>m</del>n Fersuchung kefird.</p>
+<p>Brifather, <seg ana="#signed">Georg <surname>B.</surname></seg></p>
+<p>ket ihr mit luken um so bin<lb break="yes"/>ich nicht so tum und Arbeid umsunst<lb break="yes"/>ich erwarte eine Frohe botschaft und einen<lb break="yes"/>besuch
+                das ich waß neies erfahre ob mein<lb break="yes"/>bester Kamerad noch am leben ist,
+                was<lb break="yes"/>Das ich nich mehr nach Donauwerd soll,<lb break="yes"/>und
+                kehre doch in das Landkericht, was<lb break="yes"/>der schwaker im Seiner Fandesie
+                spricht<lb break="yes"/>in meiner kegenward wen er mich<lb break="yes"/>wen er
+                mich erkleren will als einen<lb break="yes"/>15 zen Jerigen knaben so will ich mit
+                ein<lb break="yes"/>anterst ervaren den ein solcher ist<lb break="yes"/>mihr zu
+                Tum der soll bleiben wo<lb break="yes"/>er ist und mich nicht so erzirnen</p>
+<pb facs="#image_003"/>
+<p> an<lb break="yes"/>Johanes <surname>B.</surname><lb break="yes"/>Schumachermeister<lb break="yes"/>in<lb break="yes"/>Nerdlingen.  </p>
+</body>
+</text>
+</TEI>

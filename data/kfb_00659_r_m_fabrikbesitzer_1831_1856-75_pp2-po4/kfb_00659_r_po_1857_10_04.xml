@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb659r01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>659</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>R.</surname></persName>
+<date type="sent">04.10.1857</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb659r">
+<persName>
+<forename>Karl</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1831"/>
+<death when="1875"/>
+<occupation>Fabrikbesitzer- oder Buchhändlersohn</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Fabrikbesitzer oder Buchhändler</p>
+<p>Anstalt: <date from="1856" to="1875">1856-1875</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Epilepsie, Nervenstörungen (1856)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    dankt für Gutes in Heil-Anstalt, sehnt sich nach Heimat; sehr höflich
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb659r01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb659r01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Irsee 4. Oktober 1857.</hi></dateline>
+</opener>
+<p><hi rendition="#c"><seg ana="#pic">[Druck: Aus Dankbarkeit]</seg></hi><lb break="yes"/><hi rendition="#r">Für alles das Gute, was Sie mir seit mein<lb break="no"/>em Dasein
+                    in der Heil-Anstalt er<lb break="no"/>wiesen, fühle ich mich verpflichtet,
+                        Ihnen<lb break="yes"/>werthe Herrn, durch diese Zeilen meinen<lb break="yes"/>schönsten Dank hiermit auszusprechen<lb break="yes"/>Habe ich hie und da in
+                    Manchem nicht ganz<lb break="yes"/>Wort gehalten wie es in der Hausordnung<lb break="yes"/>vorgeschrieben, so darf die Herrn versichern,<lb break="yes"/>daß es mir selbst recht leid thut, und wollte<lb break="yes"/>mich oft selbst
+                    bekämpfen, aber da meine<lb break="yes"/>Krankheit eben mehr im Schlafen, als
+                        Wa<lb break="no"/>chen eintritt, konnte es nicht wohl sein.<lb break="yes"/>Das ich mich nun auch recht nach meiner<lb break="yes"/>Heimath sehne, denn
+                    die Zeit wird immer<lb break="yes"/>länger, wissen die werthen Herren schon;<lb break="yes"/>doch ich habe mir vorgenommen, Sie</hi></p>
+<p><hi rendition="#c">W.S.g.u.</hi>
+<pb facs="#image_002"/><space/>nicht mehr mit vielen
+                Ersuchen zu belästigen<lb break="yes"/>und laße Ihnen für mich bestimmen.<lb break="yes"/>Ich wäre noch so frei gewesen, auch an einige<lb break="yes"/>werthe Personen meine höfliche Empfehlung<lb break="yes"/>auszusprechen, wenn ich
+                wie man gewöhn<lb break="no"/>lich sagt, etwas zu schüchtern wäre.<lb break="yes"/><seg ana="#metaling">Zudem ich nun diese meine wenigen Zeilen<lb break="yes"/>beschließe</seg>, füge nur noch den wunsch bei,<lb break="yes"/>daß Sie
+                wertheste Herrn dadurch auch er<lb break="no"/>freut werden und zeichne</p>
+<p><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll<lb break="yes"/>ergebenst</seg><lb break="yes"/><hi rendition="#i"><seg ana="#signed">Carl <surname>R.</surname></seg></hi></hi><lb break="yes"/><hi rendition="#r">Sohn eines Maschinenfabrikanten</hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

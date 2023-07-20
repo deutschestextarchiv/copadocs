@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l158" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunker-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Patrizier</p>
+<p>Anstalt: <date from="1859" to="1872">1859-72</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notiz</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patientin meint, man würde sie ohne Notwendigkeit in der Anstalt aufhalten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l158a.jpg" xml:id="image_404"/>
+<graphic mimeType="image/jpg" url="kfb519l158b.jpg" xml:id="image_405"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_404"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><unclear>Bitte um Eure</unclear>
+<unclear>sch</unclear>reiben daß wir<lb break="yes"/>ihn umsonst bisher
+                    <unclear>erwartet</unclear> u da es<lb break="yes"/>gegen ihre Pflicht mich so
+                aufzuhalte −<lb break="yes"/>würde man mich herführen wen̄ das
+                    <del>di</del><lb break="yes"/><hi rendition="#i">Daigire</hi>
+<unclear>dn</unclear> Personal es zugelaßen<lb break="yes"/>Ihr ken̄t mich
+                deßhalb nicht ledig <w>hinaus<lb break="no"/>laßen</w> u. nichts bestim̄e,
+                da ich bei diese<lb break="yes"/>rohen Kost u rauhen Umbegbung nie <add place="above">gut</add> gestim̄t bin <pb facs="#image_405"/>Die <w>Ober
+                        <hi rendition="#i">Directorin</hi></w> ist ihrer <w>Unter <hi rendition="#i">Diretorin</hi></w><lb break="yes"/>so zudri<hi rendition="#u">glich</hi> daß ich nicht sprechen
+                kan̄<lb break="yes"/>Wen̄ ich von Eure 12. Weibsbild frei wär<lb break="yes"/>so räth ich <add place="above"><unclear/></add> ein <unclear/> von
+                Euch<lb break="yes"/>Kein Schein sagt
+                    <hi rendition="#i">D</hi><unclear/>
+<unclear>finde</unclear>
+<unclear/> kein<lb break="yes"/>Weil <unclear>wan ih geh</unclear>
+<unclear/></p>
+<p>Sie haben zu viel I Kl Eßen u. 12 Te<lb break="yes"/>u. täglich 12 Sem̄el zu
+                ich habe zu <unclear/>
+</p>
+</body>
+</text>
+</TEI>

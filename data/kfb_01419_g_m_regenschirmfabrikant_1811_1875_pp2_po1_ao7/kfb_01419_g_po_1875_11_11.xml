@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1419g01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1419</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sigmund <surname>G.</surname></persName>
+<date type="sent">11.11.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1419g">
+<persName>
+<forename>Sigmund</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1811"/>
+<death cert="unknown"/>
+<occupation>Regenschirmfabrikant, Privatier</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet </p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1875" to="1875">1875</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Fixe Ideen (1875)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich für die Pflege und Zuwendung während seiner Zeit in der Anstalt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1419g01.JPG" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Geehrter Herr <hi rendition="#i">Director</hi><hi rendition="#sup">!</hi></hi></salute>
+</opener>
+<p><hi rendition="#r">Wenn es bis jetzt nicht geschehen ist verehrter </hi><lb break="yes"/>Herr <hi rendition="#i">Director</hi> noch schriftlich meinen Dank
+                    <w>abzu<lb break="no"/>statten</w> für die große Sorgfallt, liebevolle Pflege<lb break="yes"/>und gütigen Wohlwollens deßen ich mich während<lb break="yes"/>meines 8 wochentlichen Aufenthaltes in <hi rendition="#i">Ir</hi><del><hi rendition="#i">r</hi></del><hi rendition="#i">see </hi><lb break="yes"/>zu
+                erfreuen hatte, so bitte dieses damit zu ent<lb break="no"/>schuldigen weil, wieder
+                hierher zu den Meinigen<lb break="yes"/><w>zurück gekehrt</w> es sehr Vieles zu
+                thun und zu<lb break="yes"/>ordnen g<unclear>a</unclear>b und längere Zeit
+                benöthigte um<lb break="yes"/>mich in die neuen Lebens-Verhältniße <w>zurecht<lb break="no"/>zu finden</w>. </p><p><hi rendition="#r">Es ist mir jetzt nicht mehr möglich es noch längere </hi><lb break="yes"/>Zeit zu unterlaßen meine Erken̄tlichkeit <w>hie<lb break="no"/>mit</w> schriftlich zum Ausdrucke zu bringen.</p><p><hi rendition="#r">Ebenso fühle ich mich zu Dank verpflichtet d<unclear>en</unclear></hi><lb break="yes"/>beyden Herren Aerzten der Anstalt und ersuche<lb break="yes"/>Euer
+                Wohlgeboren höflichst um gütige Mitheilung.</p><p><hi rendition="#r">Genehmigen Sie <unclear>schließlichst</unclear> noch die Ver<lb break="no"/></hi>sicherung meiner größten Hochachtung und<lb break="yes"/>Verehrung mit
+                welcher geharret;<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Sig</hi><hi rendition="#sup"><hi rendition="#i">a</hi></hi><hi rendition="#i">: Ed:
+                    <surname>G.</surname></hi></seg></hi></p><p><hi rendition="#i">Augsburg</hi> den 11 <hi rendition="#i">Novber</hi> 1875.−</p><p>Bitte meinen <unclear>steten</unclear> Begleiter Herrn <hi rendition="#i">Oberwärter
+                        </hi><surname><hi rendition="#i">B.</hi></surname><lb break="yes"/>in <hi rendition="#i">Spee</hi>, bestens zu grüßen, ebenso Herrn
+                        <surname><hi rendition="#i">O</hi><unclear><hi rendition="#i">d.</hi></unclear><hi rendition="#i">rieder</hi></surname> . </p>
+</body>
+</text>
+</TEI>

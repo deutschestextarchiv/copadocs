@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2091w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2091</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Therese <surname>W.</surname></persName>
+<date type="sent">07.08.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Elisabetha <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2091w">
+<persName>
+<forename>Therese</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1895"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">48.7371951 11.1795268</geo>Neuburg a. d. Donau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Tagelöhner</p>
+<p>Anstalt: <date from="1882" to="1895">1882-95</date></p>
+<p>Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Verrücktheit , Aufregungszustände, Sinnestäuschungen (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte wieder in Dienst
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2091w04a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb2091w04b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 7. August 1890.</hi></dateline>
+<salute><hi rendition="#c">Sehr geehrte Schwester
+                    Elisabetha!</hi></salute>
+</opener>
+<p>Heute ist der Frau <surname>Z.</surname> Ihr Namenstag Sie<lb break="yes"/>heißt Afra.
+                Daß doch einmahl die Stunde kom<lb break="no"/>men Würde wo ich wieder bei Ihr
+                währe. <del>Zwar</del><lb break="yes"/>Zwar möchte ich auch in einen andern<lb break="yes"/>Dienst wenn ich Wärterin werden könte.<lb break="yes"/>Wenn ich
+                an meinem Namenstage gütig<lb break="yes"/>von der Freiln Oberpflegerin angenomen
+                Würde ich<lb break="yes"/>Würde mir daß schöne muster vornemen schön zu<lb break="yes"/>Heckeln. Heckeln Würde mir an Son<add place="above">n</add>tagen
+                    für<lb break="yes"/>Vaters-Segen gedeihen; an Sternen und Spitzen<lb break="yes"/>sollte mann imer was finden in meinem Koffer<lb break="yes"/>es
+                sollte mir ein Rosenkranz sein den mein<lb break="yes"/>Vater selig als ich im
+                Dienst war bei Frau Anna<lb break="yes"/><surname>S.</surname> sa. Vertrau auf Gott und laß ihn walten<lb break="yes"/>Er wird dich wunderbar erhalten sprach einst<lb break="no"/>mals die Frau <hi rendition="#i">Amtmänin</hi> zu Ihren 5. Kin<lb break="no"/><hi rendition="#r">dern</hi></p><pb facs="#image_010"/><p> Also möchte ich Gott zugleich recht inständig bitten<lb break="yes"/>er möchte mir in jeder
+                Heiligen <add place="above">Wandlung</add> die Gnade geben<lb break="yes"/>daß ich
+                einmahls glücklich Reisen <del>kann</del> oder meinen<lb break="yes"/>Dienst
+                eindreten könte.</p><p> Was ich erhalte als "Lohn" oder nachhause zuko<lb break="no"/>men, werde ich mit Dank annemen und<lb break="yes"/>bin in der
+                Hoffnung es zu erwar<lb break="no"/>ten.</p><p>
+<seg ana="#signed"><hi rendition="#c">Deine<lb break="yes"/>Dichliebende
+                            Schwester<lb break="yes"/><hi rendition="#i">Theresia</hi>.</hi></seg></p><p> Attresse<lb break="yes"/>An<lb break="yes"/><hi rendition="#r">Frau Elisabetha <surname>S.</surname> Schumachers<lb break="no"/>wittwe <surname>B.</surname>
+<del>4.<hi rendition="#i">B</hi>. f</del> 5.<hi rendition="#i">B</hi>. früher
+                        4.<lb break="yes"/>in Neuburg a./D.</hi><lb break="yes"/><add>frei.</add></p>
+</body>
+</text>
+</TEI>

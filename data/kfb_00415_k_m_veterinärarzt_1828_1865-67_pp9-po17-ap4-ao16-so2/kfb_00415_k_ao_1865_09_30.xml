@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k32" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Pfarrer <surname>R.</surname></persName>
+<date type="sent">30.09.1865</date>
+<date type="received">09.10.1865</date>
+<persName type="addressee">Direktor/Anstalt</persName>
+<settlement type="sent">Riklingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1865" to="1867">1865-67</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="pate"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um Anweisungen zur Behandlung daheim.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k32a.jpg" xml:id="image_060"/>
+<graphic mimeType="image/jpg" url="kfb415k32b.jpg" xml:id="image_061"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_060"/>
+<opener>
+<dateline><hi rendition="#c">Riklingen am 30 <hi rendition="#i">Sept.</hi>
+                        1865</hi></dateline>
+<salute><hi rendition="#i">Euer Wohlgeboren!</hi></salute>
+</opener>
+<p><space/> Gestern, nachdem ich einen Brief an <hi rendition="#i">Ew. W.</hi> zur
+                Post<lb break="yes"/>gegeben hatte, erhielt ich <hi rendition="#i">Ihr</hi>
+                verehrtes Schreiben vom<lb break="yes"/>27 <hi rendition="#i">Septr</hi>. Durch
+                dieses Schreiben, und insbesondere durch<lb break="yes"/>den Brief des <hi rendition="#i">Vet.</hi> Arztes <surname>K.</surname> wurde meine Schwe<lb break="no"/>ster um vieles besser gestim̄t, und somit wäre mir die<lb break="yes"/>Aufnahme <surname>K.</surname> auch erleichtert. Aber
+                hinsichtlich der<lb break="yes"/>gesellschaftlichen und häuslichen Verhältnisse
+                läßt sich<lb break="yes"/>im Wesentlichen nichts ändern, und ich wünsche daher<lb break="yes"/><hi rendition="#i">Ihre</hi> Ansicht und Meinung darüber zu
+                vernehmen,<lb break="yes"/>ob diese wohl der Gemüthsstim̄ung des Genesenden
+                    ent<lb break="no"/>sprechen? Wen̄ diese Frage bejaht werden kan̄,
+                will<lb break="yes"/>ich alles mögliche aufbieten, einerseits meiner Schwester<lb break="yes"/>ihre Mühe zu erleichtern, andrerseits dem Rekonvales<lb break="no"/>zenten entsprechende Pflege zu gewähren.<lb break="yes"/><space/> Dürfte er
+                vielleicht, wen̄ auch blos zum Zeitvertreib<lb break="yes"/>mit
+                schriftlichen Arbeiten beschäftigt werden?−<lb break="yes"/><add hand="arzt" place="bottom"><hi rendition="#c">Notifizirt, dß <hi rendition="#i"><surname>K.</surname></hi><lb break="yes"/>zu seiner Schwester zieht<lb break="yes"/>9.10.65 <space/>
+<hi rendition="#i">DK</hi></hi></add></p>
+<pb facs="#image_061"/>
+<p><space/> Jch bitte <hi rendition="#i">Ew. W.</hi> um eine Instruktion zu seiner
+                    Behand<lb break="no"/>lung, wobei insbesondere auf alles aufmerksam gemacht<lb break="yes"/>werden dürfte, was zu vermeiden wäre, um nachtheilige<lb break="yes"/>Eindrücke ferne zu halten.<lb break="yes"/><space/> Nach Empfang
+                    <hi rendition="#i">Ihrer</hi> Antwort auf obige Anfra<lb break="no"/>gen, werde
+                ich dem <hi rendition="#i">Reconvalescenten</hi> selbst schreiben,<lb break="yes"/>und ihn einladen zu mir zu kom̄en.<lb break="yes"/><hi rendition="#c">Mit
+                    vollkom̄enster Hochachtung<lb break="yes"/><hi rendition="#i">Euer
+                        Wohlgeboren</hi></hi><lb break="yes"/><hi rendition="#r">ergebenster<lb break="yes"/><hi rendition="#i"><surname>R.</surname> Pfarrer</hi></hi></p>
+</body>
+</text>
+</TEI>

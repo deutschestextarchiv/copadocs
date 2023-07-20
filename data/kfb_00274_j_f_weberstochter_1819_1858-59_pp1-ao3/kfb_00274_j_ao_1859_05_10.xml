@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb274j03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>274</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: Michael <surname>J.</surname></persName>
+<date type="sent">10.05.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion: n.a.<surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb274j">
+<persName>
+<forename>Josepha</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1819"/>
+<death cert="unknown"/>
+<occupation>Weberstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Webermeister</p>
+<p>Anstalt: <date from="1858" to="1859">1858-59</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Seelenstörung (1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedauert, seit längerer Zeit nicht über den Zustand der Patientin informiert worden zu sein und bittet um Auskunft und einen 
+                    Brief von derselben.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb274j03.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">An die königl. Direktion der Kreis-Jrrenanstalt Jrrsee!</hi></salute>
+</opener>
+<p><space/> Es wird dem bekümmerten Vaterherzen des ergebenst Unterzeichneten nicht
+                verübelt<lb break="yes"/>werden, wenn er seit zwei Monaten ohne nähere Nachricht
+                über das Befinden seiner<lb break="yes"/>Tochter, der in Behandlung der k.
+                Kreis-Jrrenanstalt Jrrsee befindlichen Josepha<lb break="yes"/><surname>J.</surname>, es wagt, sich brieflich an die hohe Direktion
+                daselbst zu wenden, mit der<lb break="yes"/>Bitte, ihm näheren Aufschluß über den
+                gegenwärtigen Zustand der Kranken<lb break="yes"/><w>Zu Theil</w> werden zu lassen,
+                oder, wenn die vorgesetzte Stelle es erlaubt, aus der<lb break="yes"/>Hand der
+                Patientinn einen Brief zu erhalten. Der ergebenst Unterzeichnete<lb break="yes"/>würde die Kosten einer Reise, um seine leidende Tochter zu
+                besuchen, nicht ge<lb break="no"/>scheut haben, wenn nicht die Besorgniß, daß durch
+                ein persönliches Zusam̄entreffen<lb break="yes"/>mit ihr und die damit
+                verbundene Erschütterung ihres Gemüthes, ihr geistiger<lb break="yes"/>Zustand
+                neuerdings gefährdet werden könnte, ihn davon abgehalten hätte. </p>
+<p><seg ana="#salute"><hi rendition="#c">Einer hohen königl. Direktion <del>S</del>seine ergebenste
+                        Bitte zu geneigter<lb break="yes"/>Berücksichtigung empfehlend, geharret<lb break="yes"/>in tiefster Hochachtung</hi></seg><handShift medium="ink" scribe="vater"/><seg ana="#signed"><hi rendition="#r"> Michael <surname>J.</surname><lb break="yes"/>Webermeister </hi></seg></p>
+<p><space/> Augsburg den 10. <hi rendition="#i">Mai</hi> 1859.</p>
+<p><add hand="arzt">d. 15 Mai 59 3/zu Brief<lb break="yes"/>Seit 8 Tagen
+                        <unclear>erholt</unclear> gut; wen̄ in 8<lb break="yes"/>bis 14
+                    Tagen keine Gegennachricht kom̄t<lb break="yes"/>kan̄ sie
+                    abgeholt werden. </add></p>
+</body>
+</text>
+</TEI>

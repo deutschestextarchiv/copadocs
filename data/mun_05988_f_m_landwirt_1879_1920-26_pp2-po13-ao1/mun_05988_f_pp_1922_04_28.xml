@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun5988f04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>5988 (K. 90)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>F.</surname></persName>
+<date type="sent">28.04.1922</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun5988f">
+<persName>
+<forename>Heinrich</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1879-07-10"/>
+<death cert="unknown"/>
+<occupation>Landwirt</occupation>
+<residence><geo decls="#WGS">51.9097831 7.958472934876058</geo>Geburtsort: Freckenhorst; Wohnort: Freckenhorst</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Landwirt; Mutter: n.a.</p>
+<p>Anstalt: <date from="1920-03-29" to="1920-08">29.03.1920-xx.08.1920</date></p>
+<p>Brieftypen: 14.04.1922-14.07.1923</p>
+</state>
+<trait><p>Schizophrenie (1920)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                Er schreibt seinen Eltern, dass er ihnen schon einmal geschrieben hat und keine Antwort bekommen hat. Er bittet sie, ihn zu besuchen und sagt, dass er wieder bei ihnen sein möchte und ihnen bei der Arbeit helfen möchte.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun5988f04a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="mun5988f04b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#c">Haus Kanen 28.4.1922.</hi></dateline>
+<salute><hi rendition="#c">Liebe Eltern!</hi></salute>
+</opener>
+<p>Kann es nicht <w>unter lassen</w><lb break="yes"/>Euch mal wieder zu schreiben<lb break="yes"/>Hatte schon Ostern
+                einen Brief<lb break="yes"/>zu Euch geschickt hoffentlich werden<lb break="yes"/>Sie denn Brief wohl erhalten<lb break="yes"/>haben. Bisher habe ich noch<lb break="yes"/>keinen wieder <w>zurück erhalten</w><lb break="yes"/>Liebe Eltern es geht mir sonst<lb break="yes"/>gut
+                        <w>daß<del>l</del> selbe</w> hoffe ich auch<lb break="yes"/>von Euch Liebe
+                Eltern wie<lb break="yes"/>ist mit der <w>Feld arbeit</w><lb break="yes"/>Vater ich wäre wieder gerne<lb break="yes"/>bei Euch Darum
+                schriebt mir doch<lb break="yes"/>bitte Liebe Eltern könntest<lb break="yes"/>vieleicht mit Wagen oder mit<lb break="yes"/>der Bahn fahren. <pb facs="#image_010"/>könnte denn wieder bei Euch sein<lb break="yes"/>ich <add place="above">habe</add> hier wieder <add place="above">nichts</add> als was ich
+                        <w>mit<lb break="no"/>genommen</w> hate. Vater Mutter besucht<lb break="yes"/>mich bitte. könnte Euch zu allen<lb break="yes"/>beistehen. Macht
+                mir die Freude<lb break="yes"/>daß ich wieder bei Euch sein könnte<lb break="yes"/>dencke alle Tage an Euch<lb break="yes"/>Liebe Eltern will zu Sie thun<lb break="yes"/>was ich kann in Freuden.</p> <p>Bitte
+                Nachricht Liebe Eltern<lb break="yes"/>Es Grüßt Euch Brüder und<lb break="yes"/>Ärzte</p> <p><seg ana="#salute">Von Ganzen Herzen Grüßt<lb break="yes"/>Euch Liebe Eltern</seg> Euer<lb break="yes"/><hi rendition="#c">Sohn <seg ana="#signed"><hi rendition="#i">Heinrich
+                                </hi><surname><hi rendition="#i">F.</hi></surname></seg></hi></p>
+</body>
+</text>
+</TEI>

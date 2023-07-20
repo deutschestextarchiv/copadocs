@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor1873b06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>1873 (K.10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>B.</surname></persName>
+<date type="sent">09.10.ca1912-16</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: <surname>B.</surname></persName>
+<settlement type="sent">Aplerbeck</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor1873b">
+<persName>
+<forename>Heinrich</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1871-02-26"/>
+<death cert="unknown"/>
+<occupation>Heizer</occupation>
+<residence><geo decls="#WGS">52.7310186 9.6054281</geo>Geburtsort: Eickel; Wohnort: Eickel</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1912-06-01" to="1916-04-30">01.06.1912-30.04.1916</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Dementia Paralytica (1912)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  wünscht ein Paket mit Zigarren und Lebensmitteln; wünscht Brief und Besuch von der Frau;
+                  sagt, er kommt im April wieder nach Hause
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor1873b06a.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="dor1873b06b.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="dor1873b06c.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="dor1873b06d.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><hi rendition="#r">Ablarbek den 9 Oktober</hi></dateline>
+<salute>Liebe Frau</salute>
+</opener>
+<p><add hand="arzt" place="top"><hi rendition="#i"><surname>B.</surname></hi>!</add></p>
+<p>sei so gut,<lb break="yes"/>und schike mir par Pakete<lb break="yes"/>Tabak und
+                wenn miglich<lb break="yes"/>auch Cigarn kanst mir<lb break="yes"/>auch ein par
+                Waffeln<lb break="yes"/>schiken und ein bis<unclear>sg</unclear>en<lb break="yes"/>Obst Liebe Frau tehle<lb break="yes"/>Dir mit das ich noh gesund<lb break="yes"/>und munter bin und<lb break="yes"/>hoffe das selbe von<lb break="yes"/>euch
+                liebe Frau sei so<lb break="yes"/>gut und besuche mir<lb break="yes"/>mahl denn
+                ich habe großes <pb facs="#image_016"/>verlangen nach dir sei<lb break="yes"/>so
+                gut und kome mich<lb break="yes"/>mahl besuchen<lb break="yes"/>Also liebe Frau
+                bitte<lb break="yes"/>nohmahls um die<lb break="yes"/>gewünschte Sachen<lb break="yes"/>Liebe Frau schreibe<lb break="yes"/>mich mahl wieder wie<lb break="yes"/>es euh geht ich kome<lb break="yes"/>nächstes Jahr im Aril<lb break="yes"/>nah Hause <pb facs="#image_017"/><hi rendition="#c">An<hi rendition="#i"> Frau </hi><surname><hi rendition="#i">B.</hi></surname><lb break="yes"/>in <hi rendition="#i">Herne</hi><lb break="yes"/><placeName type="street">Montzinisstraße</placeName> 24</hi><lb break="yes"/><hi rendition="#r">in Westfalen</hi>
+<pb facs="#image_018"/><add hand="arzt"><hi rendition="#u">Notiz</hi>:
+                        <unclear>Sterbeurkunde</unclear> 6./2.19<lb break="yes"/>an
+                        <unclear>Standesamt</unclear></add>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb451h14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>451</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Augusta von <surname>H.</surname></persName>
+<date type="sent">17.05.1856</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb451h">
+<persName>
+<forename>Augusta von</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1812"/>
+<death cert="unknown"/>
+<occupation>Zollschutzwachengattin</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: kgl. Stallmeister</p>
+<p>Anstalt: <date from="1855" to="1858">1855-1858</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Fixe Ideen, Halluzination (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte an den Vater um Hilfe.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb451h14a.jpg" xml:id="image_037"/>
+<graphic mimeType="image/jpg" url="kfb451h14b.jpg" xml:id="image_038"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_037"/>
+<opener>
+<dateline>Irsee den 17 Mai<lb break="yes"/>1856</dateline>
+<salute><hi rendition="#c">Mein verehrter Vater</hi></salute>
+</opener>
+<p>Unter all den qualvollen Einschränk<del>k</del>ungen<lb break="yes"/>schreklicher
+                Gefangenschaft schreibe ich an<lb break="yes"/>Sie <del>fodet</del> aber mit dem
+                festen Vertrauen<lb break="yes"/>daß dieses Blat wenn es den Weg<lb break="yes"/>zu ihrer Hand findet auch den Weg<lb break="yes"/>zu ihren Herzen gefunden hat
+                lieber<lb break="yes"/>guter Vater mein ritterlicher Schutzherr<lb break="yes"/>erloßen Sie mich nur aus dieser Lage<lb break="yes"/>Jedes andere Asyl und wenn
+                es ein <pb facs="#image_038"/>Kloster ist will ich auch wie von Gott<lb break="yes"/>von Ihnen annehmen. - Uberbringerin<lb break="yes"/>des <del>Brie</del>
+                Schreibens ist Fräulein Clara<lb break="yes"/><surname>W.</surname>
+<del>S</del> Ein sehr braves aber leider<lb break="yes"/>gegenwärtig dienstloses
+                Frauenzim̄er<lb break="yes"/>Sie war meine Leidensgefährthin<lb break="yes"/>und hat den traurigen Auftrag<lb break="yes"/>übernomen die Meinigen zu schildern<lb break="yes"/>sollte sie es nicht thun so ist es der aller<lb break="yes"/>Form entbehrende Brief zu zuschreiben dem<lb break="yes"/>Sie persönlich zu
+                übergeben zögert bittende<lb break="yes"/>Auguste von <surname>H.</surname>
+</p>
+</body>
+</text>
+</TEI>

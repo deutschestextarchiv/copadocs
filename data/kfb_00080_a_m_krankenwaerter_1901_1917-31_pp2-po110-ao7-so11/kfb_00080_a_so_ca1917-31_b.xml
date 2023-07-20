@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a37" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca1917-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1917" to="1931">1917-31</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Bitte, offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um eine Spritze, um von seiner Unruhe erlöst zu werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a37a.jpg" xml:id="image_094"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_094"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Bitte geben Sie mir gleich ausnahms<lb break="no"/>weise eine gute Spritze, daß
+                ich von der heutigen<lb break="yes"/>zu argen Unruhe erlöst werde. Tue gut &amp;.
+                mich beherrschen.</p>
+</body>
+</text>
+</TEI>

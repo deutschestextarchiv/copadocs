@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2038w01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2038 (K. 720)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>W.</surname></persName>
+<date type="sent">07.05.1907</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mun2038w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1882-02-27"/>
+<death cert="unknown"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">51.71895955 8.764869778177559</geo>Geburtsort: Paderborn; Wohnort: Paderborn</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Mutter: Hausfrau</p>
+<p>Anstalt: <date from="1907-04-04" to="1912-06-08">04.04.1907-08.06.1912</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1907)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="pencil" scope="minor" scribe="hand3"/>
+<handNote medium="ink" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet den Adressaten um Verzeihung.
+                    Er möchte, dass dieser ihm hilft, aus der Anstalt entlassen zu werden.
+                    Er berichtet über seinen Gesundheitszustand.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2038w01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="mun2038w01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="mun2038w01c.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="mun2038w01d.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt. <hi rendition="#r">Münster i. W., den ... 190</hi></add></dateline>
+<salute><hi rendition="#c">Lieber Hochwürdiger Herr!</hi></salute>
+</opener>
+<p><add hand="hand3">Frl. Maria <surname><hi rendition="#i">W.</hi></surname></add></p>
+<p><add hand="hand4">G <hi rendition="#sup">8</hi>/5 0<hi rendition="#sub">7</hi> ad acta Frl Maria <surname><hi rendition="#i">W.</hi></surname><lb break="yes"/><space/> G </add></p>
+<p>Entschuldigen Sie bitte daß ich Ihren<lb break="yes"/>lieben Brief nicht beantwortet
+                habe.<lb break="yes"/>Ich bitte um Verzeihung für meine<lb break="yes"/>Nachlässigkeit und für alles Böse während<lb break="yes"/>Ihres letzten
+                Aufenthaltes in <placeName><hi rendition="#i">Paderborn</hi></placeName>.<lb break="yes"/>Mit Ihrem Wunsche gehorsam in eine Nerven<lb break="no"/>heilanstalt zu gehen, war ich damals nicht<lb break="yes"/>zufrieden. Ich glaubte
+                auch es hätte so ganz<lb break="yes"/>gut gegangen, leider ging es mir später
+                wieder<lb break="yes"/>recht <w>schl echt</w>. Nun befinde ich mich schon über<lb break="yes"/>vier Wochen in oben genannter Anstalt und<lb break="yes"/>denke
+                sobald als möglich wieder fort zu kommen. <pb facs="#image_002"/>wie Sie, lieber
+                hochwürdiger Herr, ja wissen<lb break="yes"/>entbehren mich meine <add>l.</add>
+                Eltern sehr und<lb break="yes"/>da meine Gesundheit ja anscheinend in<lb break="yes"/>den Händen der <hi rendition="#i">Docktoren</hi> liegt so<lb break="yes"/>bitte ich Sie mir doch sobald als möglich<lb break="yes"/>mitzuteilen wenn möglich brieflich wie ich<lb break="yes"/>es beginnen soll
+                wieder fortzukommen.<lb break="yes"/>Alles Bitten bei letztgenannten Herren<lb break="yes"/>hilft nichts. Einmal geht es mir etwas besser<lb break="yes"/>und
+                dann geht es mir wieder sehr schlecht.<lb break="yes"/>Gestern <hi rendition="#i">Freitag Morgen </hi>war ich fast<lb break="yes"/>eine viertel Stunde lang <seg ana="#med">ohnmächtig</seg>,<lb break="yes"/>nicht besinnungslos, aber furchbar
+                schwer.<lb break="yes"/>Da Sie lieber hochwürdiger Herr mich bei<lb break="yes"/>Herrn <hi rendition="#i">Amtsrichter <surname>K.</surname></hi> und<lb break="yes"/>auch bei den <hi rendition="#i">Dienstmägden Christi </hi><lb break="yes"/>mich aus so großer Gefahr errettet haben<lb break="yes"/>so hoffe
+                ich auch mir einiges über meine <pb facs="#image_003"/>Zukunft mitzuteilen und mir
+                zu helfen.<lb break="yes"/>Ich bitte Sie herzlich darum denn es geht mir<lb break="yes"/>wirklich sehr <w>schl echt</w>. Oft meine ich um meinen<lb break="yes"/>Verstand zu kommen. Ich habe hier manches<lb break="yes"/>imm
+                Auftrage meines <hi rendition="#i">Beichtvaters</hi><lb break="yes"/>gesagt und gethan wohl nicht Alles war nichts<lb break="yes"/>Arges. Ich habe mich ganz in des Hochwürdigen<lb break="yes"/>Herrn <hi rendition="#i">Pater Konradus</hi> Gehorsam gestellt.<lb break="yes"/>Da mein
+                    <hi rendition="#i">Beichtvater</hi> mich durch die von Ihnen<lb break="yes"/>erlernte Sprache <del>mich</del> beauftragt hat ihm<lb break="yes"/>Alles
+                mitzuteilen was mir passierte und um<lb break="yes"/>mich <w>vor ging</w>. Heute
+                war ich wieder nicht in<lb break="yes"/>der hl. Messe obwohl ich schon recht früh
+                auf war<lb break="yes"/>das vierte Mal wahrend meines Aufenthaltes<lb break="yes"/>hier. Vor einigen Tagen sagte mir einer der<lb break="yes"/>hiesigen <hi rendition="#i">Docktoren</hi> ich müßte erst schwer<lb break="yes"/>gemacht
+                werden damit ich dicke rote Backen<lb break="yes"/>bekäme und dann bekomme ich so
+                unendlich<lb break="yes"/><add place="margin">aber daß von mir <w>hinzu
+                        gesetzte</w></add>
+<pb facs="#image_004"/>viele Stiche daß mich der hochwürdige Herr<lb break="yes"/><hi rendition="#i">Pater Konradus</hi> schon manches Mal dieser<lb break="no"/>halb zu Bett geschickt hat. Was ich zu Hause<lb break="yes"/>bei meinen Eltern
+                Geschwistern Schwägerinnen<lb break="yes"/>Verwandten und anderen Leuten <w>mit
+                    gemacht</w><lb break="yes"/>habe wissen <del>s</del>Sie lieber Hochwürdiger Herr<lb break="yes"/>deshalb bitte ich Sie innig mir doch zu helfen.<lb break="yes"/>Da
+                ich bei meiner Ankunft ganz <w>Irre geführt</w><lb break="yes"/>wurde so fühle ich mich in der peinlichsten<lb break="yes"/>Lage. </p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb629b06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>629</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>B.</surname></persName>
+<date type="sent">ca. 1873-1874</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Kreszenz <surname>B.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb629b">
+<persName>
+<forename>Ludwig</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1831"/>
+<death cert="unknown"/>
+<occupation>Apotheker</occupation>
+<residence><geo decls="#WGS">47.8803788 10.622246</geo>Kaufbeuren</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1873" to="1874">1873-1874</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Alkoholismus], Apathie, Tobsucht (1873)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Abholung mit Fuhrwerk
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb629b06a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb629b06b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Liebe Frau!</hi><lb break="yes"/></salute>
+</opener>
+<p>Ych würde nicht nochmal wenn<lb break="yes"/>ich erfahren könnte ob den Brief<lb break="yes"/>welchen ich durch den Direktor<lb break="yes"/>an Dich gesannd
+                habe, erhalten<lb break="yes"/>habest. Säume doch nicht länger<lb break="yes"/>und
+                bei nächsten Gelegenheit<lb break="yes"/>heraus oder magst Du nicht<lb break="yes"/>nicht mehr.</p><p>Ych werde Dich jeden Tag<lb break="yes"/>erwarten,
+                nim̄ das Fuhrwerk<lb break="yes"/>von <hi rendition="#i"><surname>R.</surname></hi> mit, damit<lb break="yes"/>ich gleich
+                wieder mitfahren<lb break="yes"/>kann.<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><surname>B.</surname></seg></hi>
+</p>
+<pb facs="#image_010"/>
+<p><hi rendition="#c">Frau <hi rendition="#i"><surname>B.</surname></hi></hi><lb break="yes"/><hi rendition="#r">Apothekersgattin̄</hi><lb break="yes"/>fram<lb break="yes"/><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Kaufbeuren</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

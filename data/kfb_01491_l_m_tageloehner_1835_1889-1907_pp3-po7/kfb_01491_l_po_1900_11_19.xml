@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1491l08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1491</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Engelbert <surname>L.</surname></persName>
+<date type="sent">19.11.1900</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: Johann Georg
+                    <surname>V.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1491l">
+<persName>
+<forename>Engelbert</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1835"/>
+<death when="1907"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">47.5970747 9.738314</geo>Wildberg (Lindau)</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1889" to="1907">1889-1907</date></p>
+<p>Brieftypen: pp,po</p>
+</state>
+<trait><p>Tobsucht, Verrücktheit mit Ausgang in apathischem Blödsinn, Halluzination (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>offizieller Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> bittet um Geld </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1491l08a.jpg" xml:id="image_024"/>
+<graphic mimeType="image/jpg" url="kfb1491l08b.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb1491l08c.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="kfb1491l08d.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline>J<hi rendition="#r">rsee Heil und Pfläganstalt<lb break="yes"/>ten 19
+                        November 1900</hi></dateline>
+<salute><hi rendition="#c">An</hi><lb break="yes"/>Johangeorg
+                        <surname>V.</surname>:.<lb break="yes"/>Wohnort Schwatzen <w>Ge<lb break="yes"/>Meinde</w> Weisensberg<lb break="yes"/>Heren <w>Bürger
+                        Meister</w><lb break="yes"/><w>Beziechs amt Lindau</w></salute>
+</opener>
+<p>
+<w>in dem</w> ich Engelbert<lb break="yes"/><surname>L.</surname> Als Pflägling<lb break="yes"/>in der <w>Pfläg Anstalt</w><lb break="yes"/>Jrsee mit <w>Holz Arbeit</w><lb break="yes"/>beschäftigt es
+                    wundert<pb facs="#image_025"/> ob die Frau <surname>S.</surname> das mein Stifbruder<lb break="yes"/>gwesen er ist
+                    gestorben<lb break="yes"/>1887 den 7 Oktober und<lb break="yes"/>ist Begraben
+                im <w>frid Hof</w><lb break="yes"/>in Aschach bei Lindau
+                    es<lb break="yes"/>ist jezt 13 Jahr Lang Bin<lb break="yes"/>ich als Pflägling
+                    <w>in</w><w>der</w><lb break="yes"/><w>Pfläg Anstalt</w> Irsee so<lb break="yes"/>Schreub ich
+                ein Par Zeilen<lb break="yes"/>nebst Gruß Maria Wit<lb break="no"/>we
+                    <surname>N.</surname> Holzhändler<lb break="yes"/>in Lindau<pb facs="#image_026"/> an sie an schönen Gruß<lb break="yes"/>von Schwager
+                    Engelbert<lb break="yes"/><surname>L.</surname> Pflägling in<lb break="yes"/>Jrsee bei Kaufbayren<lb break="yes"/>ich Bitte Sie soll so gü<lb break="no"/>tg und vier mich! -<lb break="yes"/>Engelbert <surname>L.</surname> 5 Mar<lb break="yes"/>geld
+                schüken auf deier daß<lb break="yes"/>Weinachsfestag -</p>
+<p>
+<seg ana="#salute">ich hoffe eine recht Balige Antwort</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Engelbert<lb break="yes"/><surname>L.</surname></seg></hi></p>
+<pb facs="#image_027"/>
+<p>
+<hi rendition="#c">An</hi><lb break="yes"/><w>Hoch Wohlgebornen</w> Heren<lb break="yes"/>Johan georg
+                    <surname>V.</surname><lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/>der Gemeide Weisensberg<lb break="yes"/>k <w>Bezirk Amt</w> Lindau<lb break="yes"/>Post
+                Schlachteurß g Abg</p>
+</body>
+</text>
+</TEI>

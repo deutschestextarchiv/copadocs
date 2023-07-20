@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2702w05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>W.</surname></persName>
+<date type="sent">16.01.ca1853-56</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Anton <surname>W.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2702w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Bierbrauerstochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Brauereibesitz</p>
+<p>Anstalt: <date from="1853" to="1856">1853-56</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Vesania (17.11.1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erwähnt, dass der letzte Brief ihres Bruders von den Ärzten einbehalten wurde. 
+                    Sagt von sich selbst, ihr gehe es gut und die Ärzte würden ihr Befinden u. Benehmen in der 
+                    Heilanstalt falsch darstellen. 
+                    
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2702w05a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb2702w05b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r">Montag <hi rendition="#sup">den</hi> 16 Jan</hi></dateline>
+<salute><hi rendition="#c">Lieber Anton!</hi></salute>
+</opener>
+<p><seg ana="#cens">Deinem Brief den Du mir geschrieben<lb break="yes"/>ist mir
+                    nicht verarbreicht worden; man<lb break="yes"/>sagt, der darin
+                    angestim̄te Ton sei<lb break="yes"/>nicht zuträglich für mich, was
+                    wahrscheinlich<lb break="yes"/>nichts ist als eine fixe Idee</seg>; was mich
+                aber<lb break="yes"/>veranlaßt hat, diesen Brief zu schreiben,<lb break="yes"/>ist: daß ich sehr nothwendig <w><hi rendition="#i">Glacé</hi> Handschuhe</w><lb break="yes"/>haben muß; da der Herr Direktor durchaus<lb break="yes"/>mir keine
+                besorgen lassen will in Kaufbeuern<lb break="yes"/>Auch muß ich nothwendig noch
+                Shmisetten;<lb break="yes"/>Unterkleider Nachtcorsetten pp haben<lb break="yes"/>die ich übrigens schon viel früher verlangt<lb break="yes"/>haben würde;
+                wen̄ ich mir je hätte träumen<lb break="yes"/>lassen, daß ich so lange hier
+                aushalten müßte<add place="below"><unclear>.</unclear></add><lb break="yes"/>Meine Gesundheit ist sehr gut, was ich Dich<lb break="yes"/>auch
+                ohne Ärtzte versichern kan̄, so gut<lb break="yes"/>sowohl von in̄
+                als von außen, daß es<lb break="yes"/>nun Schade ist, daß ich mit derselben nicht<lb break="yes"/>zu Hause figuriren kan̄. Die Herren<lb break="yes"/>Ärtzte kön̄en auch nun schreiben über mich<lb break="yes"/>was Sie wollen;
+                aber ich weiß ganz aus<lb break="no"/>gemacht daß Sie lügen, wen̄ Sie
+                behaupten<lb break="yes"/>ich sei auch nur im mindesten aufgeregt; oder<lb break="yes"/>ungeneigt, Befehle zu empfangen u zu be<lb break="no"/>folgen. Die
+                jetzige Oberwärterin, die<lb break="yes"/>wir hier haben, wird mit nächstem nach<lb break="yes"/>München abgehen, u kan̄ euch mündlich dan̄<lb break="yes"/>mehr von mir erzählen. </p>
+<pb facs="#image_012"/>
+<p>Richte mir viele Grüße aus, u <seg ana="#cens">schreibe<lb break="yes"/>bald,
+                    aber so daß er mir dan̄ auch zum<lb break="yes"/>Lesen zu Theil
+                    wird</seg>; noch ganz besonders<lb break="yes"/>aber grüße mir die Mutter u
+                sage<lb break="yes"/>Ihr, Sie möchte mich doch nur dießmal<lb break="yes"/>nicht
+                verlassen, indem Sie mir sonst allen<lb break="yes"/>Muth benim̄t; meine mir
+                ferner noch obligen<lb break="no"/>den Pflichten zu erfüllen:<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Es verbleibt mit aller Liebe:<lb break="yes"/>Deine </hi><lb break="yes"/><hi rendition="#r">Schwester </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Marie</seg></hi><lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+</body>
+</text>
+</TEI>

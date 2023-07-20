@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1952g02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1952</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kaspar <surname>G.</surname></persName>
+<date type="sent">25.02.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1952g">
+<persName>
+<forename>Magdalena</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1891"/>
+<occupation>Näherin</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: uneheliche Tochter, Schuhmacher und Kutscher</p>
+<p>Anstalt: <date from="1873" to="1891">1873-91</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>religiöser Wahnsinn (1873), Größenwahnideen, Verfolgungswahnideen, Halluzinationen (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="cousin"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Verwandte möchten wissen, wie es der Patientin geht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1952g02a.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Hochverehrliche Verwaltung!</hi></salute>
+</opener>
+<p>
+Wir sind nun wieder so frei, indem wir ein paar<lb break="yes"/>Zeilen an Sie richten und Sie bitten, daß Sie so<lb break="yes"/>freundlich sein möchten, uns von der Magdalena <surname>G.</surname><lb break="yes"/>zu benachrichtigen, wie sie sich befindet, ob sie nicht<lb break="yes"/>auch bald kom̄en kan̄, als gesund und geheilt.<lb break="yes"/>Sind Sie daher so freundlich und haben Sie die<lb break="yes"/>Güte und schreiben Sie uns von dem Zustande<lb break="yes"/>unserer Lena den̄ wir sind sehr begierig zu<lb break="yes"/>wissen, wie sie sich befindet.</p><p>
+Wir sind auch so frei und schreiben der Lena<lb break="yes"/>ein paar Zeilen, haben Sie die Güte und übergeben<lb break="yes"/>sie ihr.</p><p>
+<seg ana="#salute">Indem wir Sie nochmals freundlichst ersuchen<lb break="yes"/>um eine baldige Antwort grüßen wir Sie<lb break="yes"/><hi rendition="#c">mit aller Hochachtung</hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r">Kaspar <surname>G.</surname> Schuhmacher M.</hi></seg><lb break="yes"/>Kempten, den 25 Februar 1875.
+</p>
+</body>
+</text>
+</TEI>

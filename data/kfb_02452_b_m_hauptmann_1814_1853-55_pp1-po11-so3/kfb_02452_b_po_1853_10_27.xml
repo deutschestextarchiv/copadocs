@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2452b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2452</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Carl Graf von <surname>B.</surname></persName>
+<date type="sent">27.10.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>H.</surname></persName>
+<settlement type="sent">bei Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2452b">
+<persName>
+<forename>Carl Graf von</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1814"/>
+<death when="1855"/>
+<occupation>pens. Hauptmann</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Anstalt: <date from="1853" to="1855">1853-55</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Manie (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte nach Kaufbeuren gebracht werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2452b01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2452b01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">1/2 Stunde von <hi rendition="#i">Kaufbeuren</hi> d. 27 X 53<lb break="yes"/>in der Heilanstalt für Gemuthskranke</hi></dateline>
+<salute><hi rendition="#r">Ser geerter Herr Director <hi rendition="#i">Haller</hi> ich</hi></salute>
+</opener>
+<p>
+ersuche Sie mich heut so bald als mög<lb break="no"/>lich in eigener Person nach <hi rendition="#i">Kaufbeuren</hi> zu<lb break="yes"/>bringen, oder <add>meinen</add> mit Wärter, der mich<lb break="yes"/>auf Eisenbahn begleiten wird und mein<lb break="yes"/>Gepäck besorgen. Wenn der Herr Director<lb break="yes"/>nicht persöhnlich mich begleiten wollen,<lb break="yes"/>so könnte vielleicht der Herr Doctor<lb break="yes"/><hi rendition="#i">Engelmann</hi> von Ihne beauftrag werden:<lb break="yes"/>"Mich nach <hi rendition="#i">Kaufbeuren</hi> zu begleiten.<lb break="yes"/>Vorher rassiert zu werden und den ganzen<lb break="yes"/>Leib mit lauwarmen und kalten Wasser<lb break="yes"/>zu waschen. Dann ersuch ich den Herr<lb break="yes"/>geehrter Director <hi rendition="#i">Haller</hi> mir meine Rassier<lb break="no"/>messer und das Abzieherleder, meine<lb break="yes"/>Uhr und mein Portemonä so wie die 10 fl. Rolle<lb break="yes"/><hi rendition="#r"><hi rendition="#i">vert</hi></hi>
+<pb facs="#image_002"/>
+auch meine goldne und die Stahlnadel; der erste<lb break="yes"/>Krankenwärter <hi rendition="#i"><surname>R.</surname></hi> hat mein Federmesser und<lb break="yes"/>mein Stahlmesser im Verwahr, welche beide ich<lb break="yes"/>ersuche mir zückzugeben. Es müßte Freichlich ein<lb break="yes"/>eigener Bote nach <hi rendition="#i">Kaufbeuren</hi> geschickt, und von<lb break="yes"/>dort einen Schlitten hierher, weit ich begleitet<lb break="yes"/>von einem der Herrn Beamten und meinem<lb break="yes"/>eignem Wäter von hier abreisen würde, dem<lb break="yes"/>geehrten Heren Director sowie den Herrrn<lb break="yes"/>Doctor <hi rendition="#i">Engelmann</hi> und dem Herrn Secretär<lb break="yes"/><hi rendition="#i"><surname>R.</surname></hi> Danken für erwiesen Geffalligkeiten<lb break="yes"/>dankend Abschied zu nehmen.</p>
+<p>Sehr geehrten Herr Director<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Ir achtungsergebener<lb break="yes"/><hi rendition="#i">CarGrf von <surname>B.</surname></hi></seg></hi><lb break="yes"/><hi rendition="#r">k. l Hauptmann<lb break="yes"/>im Ruhestand.</hi>
+</p>
+</body>
+</text>
+</TEI>

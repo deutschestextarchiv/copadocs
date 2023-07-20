@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1762p14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1762</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Philipp <surname>P.</surname></persName>
+<date type="sent">23. 09. 1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Frau: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1762p">
+<persName>
+<forename>Philipp</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1916"/>
+<occupation>Weinwirtschaftsbesitzer</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Kitzingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n. a. </p>
+<p>Anstalt: <date from="1882" to="1916">1882-1916</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Tobsucht (1874, 1881), Depression (1881, 1882-1895), Manie (1882), circulärer Irrsinn (1882-1895)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Pat. beteuert, dass es ihm wenig ausgemacht hätte, dass ihn seine Frau nicht besucht habe.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1762p14a.jpg" xml:id="image_046"/>
+<graphic mimeType="image/jpg" url="kfb1762p14b.jpg" xml:id="image_047"/>
+<graphic mimeType="image/jpg" url="kfb1762p14c.jpg" xml:id="image_048"/>
+<graphic mimeType="image/jpg" url="kfb1762p14d.jpg" xml:id="image_049"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_046"/>
+<opener>
+<dateline><hi rendition="#r"><add place="top">29</add> Irrsee d 23 Septb <add place="below">90</add></hi></dateline>
+<salute><hi rendition="#c">Sehr vielverehrte Frau.</hi></salute>
+</opener>
+<p>Daß Du mir Deinen sowie<lb break="yes"/>der lieben Kinder Besuch<lb break="yes"/>abschlägig beschieden hast,<lb break="yes"/>war für mir keine so <w>nie<lb break="no"/>derschmetternde</w> Nachricht<lb break="yes"/>mehr wie vor 3
+                Jahren<lb break="yes"/>den̄ ich kan̄ jetzt Gott sei<lb break="yes"/>Dank wieder auf eigne Füße<lb break="yes"/>stehen &amp; bin Arbeitsfähig<lb break="yes"/>&amp; gehe schon längere Zeit<pb facs="#image_047"/>
+<add place="top">30</add><lb break="yes"/>alltage auf Garten Arbeit<lb break="yes"/>vo doch mitunter schvere<lb break="yes"/>Arbeit vorkom̄t ohne daß<lb break="yes"/>ich mich viel
+                angegriffen<lb break="yes"/>befinde: Also doch gesünder<lb break="yes"/>als Du
+                &amp; vielleicht <hi rendition="#i">Hl <w>Hof<lb break="no"/>rath</w> glaubt.</hi>
+                Es war mir ja<lb break="yes"/>weniger um Deinen Besuch<lb break="yes"/>als um den
+                der Kinder, den̄<lb break="yes"/>wen̄ man 4 Jahr seinen<lb break="yes"/>Man̄ keines Besuches wür<lb break="no"/>digt. Versteht es
+                sich von selbst <pb facs="#image_048"/>
+<add place="top">31</add><lb break="yes"/>daß das 5 Jahr nichts an den<lb break="yes"/>Grundsätzen ändert.
+                Nun<lb break="yes"/>ich denke betteln brauch ich<lb break="yes"/>desvegen auch
+                nicht gehen<lb break="yes"/>Mein Vater hat ja mit 42 Jahren<lb break="yes"/>auch
+                noch meine Mutter <w>ge<lb break="no"/>heirathet</w> &amp;
+                führten noch eine<lb break="yes"/>recht glückliche Ehe wie Er mir<lb break="yes"/>oft sagte trotzdem meine Mut<lb break="no"/>ter erst 22 Jahr alt var. Das<lb break="yes"/>Sich meine Freunde &amp; die Welt<lb break="yes"/>von Dir
+                abgevendet, stellt<lb break="yes"/>Dir ein sehr schlechtes Zeug<pb break="no" facs="#image_049"/>niß <unclear/><lb break="yes"/>den̄
+                Volkesstim̄e ist bei<lb break="yes"/>mir Gottesstim̄e. Warum<lb break="yes"/>ist ein <surname><hi rendition="#i">S.</hi></surname>
+                Landtagsabge<lb break="yes"/>als Er in der Zeitung las<lb break="yes"/>oder es Ihm
+                vielleicht seine<lb break="yes"/>Schwester von <hi rendition="#i">Basel</hi> aus
+                schrieb<lb break="yes"/>daß Du in Noth seist gleich her<lb break="no"/>übergefahren
+                &amp; hat Dir 300 M<lb break="yes"/>zur Verfügung gestellt.<lb break="yes"/>Der
+                    <hi rendition="#i">Champagner</hi> fließt doch<lb break="yes"/>im̄er noch
+                sogar daß man Be<lb break="no"/>diente vie <surname><hi rendition="#i">A.</hi></surname> &amp; <surname><hi rendition="#i">M.</hi></surname> dan<lb break="yes"/>berauscht daß Sie einschlafen<lb break="yes"/>schick mir
+                unbedingt die Kin<lb break="no"/><add place="margin">der <del>dingt die
+                    Kinder</del>. u die geb<unclear reason="damage"/><lb break="yes"/><unclear/><lb break="yes"/>einen Besuch</add></p>
+</body>
+</text>
+</TEI>

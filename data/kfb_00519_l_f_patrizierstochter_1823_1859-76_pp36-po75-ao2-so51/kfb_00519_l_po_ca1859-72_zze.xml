@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l104" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Patrizier</p>
+<p>Anstalt: <date from="1859" to="1872">1859-72</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin unterstellt dem Arzt schlechte Absichten, wegen denen er sie nicht entlässt. Weiter beklagt sie die gewaltsamen Umstände in der Anstalt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l104a.jpg" xml:id="image_264"/>
+<graphic mimeType="image/jpg" url="kfb519l104b.jpg" xml:id="image_265"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_264"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Da Sie noch nicht einmal wißen was mir fehlt<lb break="yes"/>u. blos thierisch
+                wohllüstig machen wollen<lb break="yes"/>anstatt <add place="above">zum</add>
+                menschlichen WeltVerkehr zu laßen<lb break="yes"/>so sind <hi rendition="#u" style="arzt">Ihre schlechten</hi> Absichten auch der Grund<lb break="yes"/>daß
+                Sie mir selbst kein Ausgang erlauben<lb break="yes"/>obwohl es Ihre Pflicht mir
+                mehr als<lb break="yes"/>Andern zu gestatten da ich so sehr <seg ana="#med"><w>Nerven<lb break="no"/>Krämpf</w></seg> u selbst nirgend hingeh vielven<unclear/><lb break="yes"/>a<hi rendition="#u">n Mansbild</hi>er − </p><pb facs="#image_265"/><p><seg ana="#inst">Eure wahnsin̄ige <seg ana="#curse"><hi rendition="#u" style="arzt">Freßbälg</hi></seg> oder geliebte Wärterinen<lb break="yes"/>schlagen
+                    auf Patienten stets w<hi rendition="#u" style="arzt">ie auf Holzblök</hi>.<lb break="yes"/>Hinsichtlich der Mißhandlung u Beschimpfung gegen<lb break="yes"/>die Kranken halten die Wärterinen alle zusam̄en<lb break="yes"/>übrigens aber klagt Eine über die andere<lb break="yes"/>u
+                    sagt Eine von der Andern: s<hi rendition="#u">ie stiehlt lügt
+                                <unclear>&amp;<hi rendition="#i">c</hi></unclear></hi><lb break="yes"/>Und daß Ihr Ärzte den Wärterinen Alles glaubt<lb break="yes"/>Alles sagt Alles thut was ihnen angenehm<lb break="yes"/>u keine aus dem
+                    Dienst schickt</seg> dies beweist<lb break="yes"/>daß Ihr stets geheimen
+                geschl. Umgang dabei<lb break="yes"/><unclear/><unclear>ber</unclear> aber was ich thu u. sag halt Ihr
+                nicht geheim. </p>
+</body>
+</text>
+</TEI>

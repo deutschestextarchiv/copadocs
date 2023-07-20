@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l82" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doctor: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Patrizier</p>
+<p>Anstalt: <date from="1859" to="1872">1859-72</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Die Patientin ist wegen des Weggangs eines Doktors in ihrer Heimat besorgt und schildert ihre körperlichen Symptome.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l82a.jpg" xml:id="image_220"/>
+<graphic mimeType="image/jpg" url="kfb519l82b.jpg" xml:id="image_221"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_220"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Hochverehrtester Herr <hi rendition="#i">Doctor</hi>!</hi></salute>
+</opener>
+<p>Bitte sehr − in einer so ängstlichen Besorg<lb break="no"/>niß, die mich
+                    <del>seit</del> neuerdings schrecklich quält<lb break="yes"/>u angreift −
+                diese Zeilen zu entschuldigen; −<lb break="yes"/>den̄ die Ahnung, daß
+                verehrtester Herr <hi rendition="#i">Doctor</hi>,<lb break="yes"/>villeicht Augsburg
+                bald ganz verlaßen,<lb break="yes"/>macht mich wirklich zu unglücklich, um<lb break="yes"/>mich einer Äußerung enthalten zu kön̄en.<lb break="yes"/>In
+                Folge der ungünstigen Witterung<lb break="yes"/>bin ich leider auch mehr unwohl,
+                − habe<lb break="yes"/>im̄er <del>viel</del> etwas Fieber u. so
+                <seg ana="#med">gichtartige<lb break="yes"/>Schmerzen</seg> in allen Gliedern; und wünsch
+                <pb break="no" facs="#image_221"/>te nur, daß es bald beßer gehen<lb break="yes"/>möchte. −</p>
+<p><seg ana="#salute"><hi rendition="#c">Hochachtungsvollst<lb break="yes"/>Ihre</hi><lb break="yes"/><hi rendition="#r">ergebenste </hi></seg><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">P W</hi> <surname><hi rendition="#i">v.</hi><lb break="yes"/>Langenmantel</surname></seg></hi></p>
+<p><handShift medium="pencil" scribe="patient"/> Leiden ist edler als sich selbst
+                tödten. −<lb break="yes"/>Würden H <hi rendition="#i">M</hi> sich etwas
+                Anderes zu schulden kom̄en<lb break="yes"/>laßen, so wüde ich nihts fordern
+                u wäre zufrieden<lb break="yes"/>Und hätte ich wirklich eine Schuld zu sühnen, so
+                ließ<lb break="yes"/>ich mir Ihre Rache gefallen. </p>
+<p><space/> Da ich so <hi rendition="#i">magnet</hi>isch angezogen u
+                    <unclear>nur</unclear> so kalt<lb break="yes"/>abgestoßn wird Ihre Thaten die
+                Gerhtigkeit an sich<lb break="yes"/>ziehen <space/> da ich weder ein <hi rendition="#i">Disell</hi> noch die <unclear>n</unclear>ebl.<lb break="yes"/>Waffen der <hi rendition="#i">Intrigue</hi> geignet finde</p>
+<p>Mißtrauisch sein − ist klug − aber den unrechten<lb break="yes"/>Gegenstand dazu
+                wählen − ist unklug. −</p>
+</body>
+</text>
+</TEI>

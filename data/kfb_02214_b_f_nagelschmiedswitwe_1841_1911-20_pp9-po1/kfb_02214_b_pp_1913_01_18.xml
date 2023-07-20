@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2214b06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2214</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Katharina <surname>B.</surname></persName>
+<date type="sent">18.01.1913</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tochter: Filomena <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2214b">
+<persName>
+<forename>Katharina</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1841"/>
+<death when="1920"/>
+<occupation>Nagelschmiedswitwe</occupation>
+<residence><geo decls="#WGS">47.48474 10.327536</geo>Hindelang, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet, verwitwet</p>
+<p>Anstalt: <date from="1911" to="1920">1911-20</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Manisch-depressiv], Alkoholismus (1911)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    hat Schreiben erhalten, kann keine Hilfe erwarten, hartherzig, bittet noch einmal Abholung, wurde ihr vom Oberarzt versprochen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2214b06a.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><hi rendition="#r">Irse den 18ten Jänner 1913.</hi></dateline>
+<salute>Liebste Filomena</salute>
+</opener>
+<p>
+ Dein schreiben habe Ich erhalten und<lb break="yes"/>Daraus vernom̄en Du meine Bitte nicht volzihen wirdestt =<lb break="yes"/>Darum bitte Ich Dich recht Hertzlich Das du mier <w>noch</w><w>ein<lb break="no"/>Mahl</w> schreibest damit Ich weis was Ich zu thuhn =<lb break="yes"/>Habe dan mus Ich mich an Eeine andere Hilfe wenden =<lb break="yes"/>Das hätte Ich von dier nicht gehoht das du so hartherzig<lb break="yes"/>werst, nicht Einmahl Deiner Eignem Mutter hinuas<lb break="no"/>Helfen werdest, Darum bitte Ich dich nocheinmahl nicht<lb break="yes"/>Mehr lange zu zögern diese Reise wierd dier gewieß<lb break="yes"/>Versetzt der wann die Eignem sich für der Notht =<lb break="yes"/>Niecht Erbarmen wer soll dan helfen wo Ich sowiel<lb break="yes"/><del>h</del> hier Euch gethan̄, Der Her <w>Ober Artzt</w> und der<lb break="yes"/>Direckter haben mier ganz gewiß versprochen =<lb break="yes"/>Er thuht was Er kann das man mich abholen könn =<lb break="yes"/>Darum bitte Ich dich nochein<del>h</del> mahl um auskunft damit Ich<lb break="yes"/>mich zu verhalten weiß du Darfst mier Es nicht Ihn <add>Übel<lb break="yes"/>nehmen</add> Das Ich so schreibe den: In der Notht hilft Niemand =<lb break="yes"/><seg ana="#salute"><seg ana="#metaling">Jetzt will Ich mein schlechtes schreiben schlißen</seg> mit =<lb break="yes"/>Vielen Grüßen, An diech und deine Kinder.</seg> <seg ana="#signed">und verbleibe<lb break="yes"/>Deine Alte und Krancke Mutter Katharina <surname>B.</surname>.</seg><lb break="yes"/>Ich werde Dier gewieß nicht zur Last komen Ich werde zu<lb break="yes"/>Meinen schwester gehen Damit die Rosa auch noch was<lb break="yes"/>Erbarmen nur wegen Ihren Kinder <unclear>eins</unclear> bekomt man sich
+</p>
+</body>
+</text>
+</TEI>

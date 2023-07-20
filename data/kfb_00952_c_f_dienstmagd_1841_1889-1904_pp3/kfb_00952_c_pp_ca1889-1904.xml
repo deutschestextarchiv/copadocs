@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb952c03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>952</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>C.</surname></persName>
+<date type="sent">ca1889-1904</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Lena <surname>F.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb952c">
+<persName>
+<forename>Magdalena</forename>
+<surname>C.</surname>
+</persName>
+<birth when="1841"/>
+<death when="1904"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: "Illeg. Tochter einer Taglöhnerin, welche im Wochenbette starb und eines gut situierten verheirateten Bürgers"</p>
+<p>Anstalt: <date from="1889" to="1904">1889-1904</date></p>
+<p>Brieftypen: ao, pp</p>
+</state>
+<trait><p>Depression, Melancholie (1889), halluzinatorischer Verfolgungswahn (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    erkundigt sich nach Bekannten, schreibt davon, als sie in der "Keuche" (Küche?) war
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb952c03a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb952c03b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Liebe Schwester</hi></salute>
+</opener>
+<p>
+Ich will dir nur schreiben daß ich heim möchte<lb break="yes"/>ist denn etwas basirt wie ist es denn damals<lb break="yes"/>zu gegangen ich bin doch in der Keuche gewest<lb break="yes"/>hatt man denn dir <del>denn</del> damals einen Auftrag<lb break="yes"/>gegeben weil du im̄er denn Speiß Schlüssel<lb break="yes"/>abgezogen hast weil dein Mann <del>im̄er ge<lb break="no"/></del>
+damals zu mir gesagt hatt er kann nicht ge<lb break="no"/>nung Geld auf <del>Frau nicht umtweg</del> treiben<lb break="yes"/>und ich war damals in der Keuche hatt man<lb break="yes"/>denn damals was verdeilt wo die Frau <surname>S.</surname><lb break="yes"/>und Frau <surname>T.</surname> im Zim̄er war der Herr in<lb break="yes"/>de graue Hose hatt die Tafel herein getragen<lb break="yes"/>ist denn ein Geld fortgekom̄en ich hab bemerkt<lb break="yes"/>daß die Frau bei denn Schwestern drin̄en war<lb break="yes"/>hatt sie denn 18 Tausend Mark hergegeben<lb break="yes"/>für das sie Unsern Herr Gott gewint wo der<lb break="yes"/>Pfarrer <surname>B.</surname> für sie betet hatt <del>ich</del> liebe Schwester<lb break="yes"/>hatt denn der Herr Leutenant <del>ei</del> die Möbel be<lb break="no"/>kom̄en und die Brüder sollens verschen̄nkt haben<lb break="yes"/>ist denn der Hans in der Wonnuch hatt denn je<lb break="no"/>mand gesagt ich soll Schlüßel soll machen haben
+
+<pb facs="#image_006"/>
+laßen der Schloßer <surname>S.</surname> müste doch<lb break="yes"/>was davon wissen ich hab doch in <add>ir</add> kein Zim̄er<lb break="yes"/>gennt ist denn Geld und Obgligationen<lb break="yes"/>fortgekom̄en der Herr Oberexbetitor
+</p>
+</body>
+</text>
+</TEI>

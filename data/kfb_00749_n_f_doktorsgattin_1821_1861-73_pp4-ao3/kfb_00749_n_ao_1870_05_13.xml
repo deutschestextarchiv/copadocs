@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb749n01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Luzia Pätzel</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>749</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Dr. <surname>N.</surname></persName>
+<date type="sent">13.05.1870</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Oberdorf</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb749n">
+<persName>
+<forename>Franziska</forename>
+<surname>N.</surname>
+</persName>
+<birth when="1821"/>
+<death cert="unknown"/>
+<occupation>Doktorsgattin</occupation>
+<residence><geo decls="#WGS">48.3492317 10.5893034</geo>Dinkelscherben</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1861" to="1873">1861-73</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>"melancholische Verstim̄ung", "Tobsucht" (Gerichtsärztliches Zeugnis, 14.04.1865)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Ehemann der Patientin (selbst ein Arzt) wendet sich an den Direktor der Anstalt, um nach der Entlassung seiner Frau zu fragen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb749n01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb749n01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Hochverehrtester Herr Direktor!</hi></salute>
+</opener>
+<p><space/> Ganz Ihrem <unclear>Er</unclear>messen die Ent<lb break="no"/>lassung
+                meiner Frau <w>an heim stellen d</w><lb break="yes"/><w>er lau be</w> ich mir die Bemerkung, daß<lb break="yes"/>selbe
+                auch in bester Gemüthsstim̄ung<lb break="yes"/>im̄er den Gedanken
+                Hegte, ihre <unclear>Kur</unclear>zeit früher<lb break="yes"/>sei mehr
+                    <unclear>eine</unclear> friedfetige Bestim̄ung<lb break="yes"/>meinerseits gewesen, Ihrer <unclear>Kund</unclear> zu geben.<lb break="yes"/>doch
+                all <w>derg leichen</w> zur <unclear>Seite</unclear> bitte ich, wenn<lb break="yes"/>wir auch noch soviel auszustehen haben,<lb break="yes"/><del>sch</del>die baldige
+                Entlassung zu <w>bestim̄ en</w>. </p>
+<pb facs="#image_002"/><p><space/> Meine <unclear>älte</unclear>re Tochter wird sie von<lb break="yes"/>Hier aus abholen.
+                Ihnen meinen<lb break="yes"/><unclear>Auf/tief scha d</unclear>tigen Dank <w>aus
+                    sprechend</w>,<lb break="yes"/>erwarte ich Ihre baldigen Bestim̄ungen<lb break="yes"/><seg ana="#salute">in ausgezeichneter Hochachtung<lb break="yes"/><hi rendition="#r">Ihr<lb break="yes"/><unclear>dankschuldiger</unclear></hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Dr
+                            <surname>N.</surname></seg></hi></p>
+<p><hi rendition="#c"><unclear>Oberdorf</unclear> den 13 ten Maj<lb break="yes"/><space/>
+<hi rendition="#u">1870</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

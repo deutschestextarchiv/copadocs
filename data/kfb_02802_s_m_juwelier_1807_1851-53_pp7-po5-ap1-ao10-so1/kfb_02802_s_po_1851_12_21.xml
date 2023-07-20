@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2802s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2802</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>S.</surname></persName>
+<date type="sent">21.12.1851</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2802s">
+<persName>
+<forename>Karl</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1807"/>
+<death cert="unknown"/>
+<occupation>Juwelier</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Knopfmacher</p>
+<p>Anstalt: <date from="1851" to="1853">1851-1853</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Pat. möchte entlassen werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2802s04a.jpg" xml:id="image_029"/>
+<graphic mimeType="image/jpg" url="kfb2802s04b.jpg" xml:id="image_030"/>
+<graphic mimeType="image/jpg" url="kfb2802s04c.jpg" xml:id="image_031"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_029"/>
+<opener>
+<dateline/>
+<salute><space/> Euer Hochwolgeboren!</salute>
+</opener>
+<p>Es sind nun bereits gegen 8. Wochen, daß ich <w>voll<lb break="no"/>kom̄en</w> gesund u. heiter hierher kam, aber auch<lb break="yes"/>mit dem vollen Vertrauen, daß mein Hierseyn<lb break="yes"/>nicht
+                von langer Dauer seyn kann, leider täuschte<lb break="yes"/>ich mich hierrinn sehr,
+                obwohl ich mich mit aller Ruhe<lb break="yes"/>u. Anstand glaube ich
+                benom̄en <del>zu</del> habe.</p><p>Es ist mir daher <hi rendition="#u">sehr schmerzlich</hi>, daß ich die<lb break="yes"/><hi rendition="#i">Weinachten </hi>nicht im Kreise meiner <hi rendition="#i">Familie</hi> zu<lb break="no"/>bringen kann, nachdem ich die beyden letzten<lb break="yes"/><hi rendition="#i">Weinachten</hi> schwerkrank u. traurig zugebracht
+                habe,<lb break="yes"/>was mir auch die vielen schlaflosen Nächte bereitet,<lb break="yes"/>wo mich dann die <seg ana="#med"><hi rendition="#i">Melancolie</hi></seg> fürchterlich peinigt, <w>be<lb break="no"/>kan̄tlich</w> das fürchterlichste <hi rendition="#u">aller Leiden</hi>.</p><p>Ich bitte Sie daher, Herr <hi rendition="#i">Director</hi>, um Alles in der<lb break="yes"/>Welt,
+                befreien Sie mich von diesem <hi rendition="#u">qualvollen</hi> Zustand, <pb facs="#image_030"/>bedenken Sie wohl, daß ich durch ein längeres hierseyn,<lb break="yes"/>mein letztes Schärflein meines Vermögens, ganz gewiß<lb break="yes"/>verlieren muß; bedenken Sie, daß ich 6. <hi rendition="#u">unversorgte</hi>,<lb break="yes"/>von mir herzlich geliebte Kinder besitze. </p> <p>Da Sie selbst <hi rendition="#i">Fam̄ilien-</hi>Vater sind, so kön̄en Sie<lb break="yes"/>meinen <add place="above">tiefreich</add> Kum̄er u. meine
+                Besorgnisse für die Zukunft<lb break="yes"/>am besten ermessen; hoffe daher, bey
+                Ihrer hohen Einsicht<lb break="yes"/>u. Erfahrung, daß Sie mein bestes für mich u.
+                meine<lb break="yes"/><hi rendition="#i">Fam̄ilie</hi> besorgen werden, denn
+                jeder Tag bringt mir<lb break="yes"/>hier Verlust. − Es ist jetzt die <hi rendition="#i">Münchner</hi><lb break="yes"/>3. König <hi rendition="#i">Dult</hi> auch vor der Thüre, wo ich
+                im̄er <w>ansehn<lb break="no"/>liche</w> Geschäfte
+                mache, was Ihnen meine <hi rendition="#i">Frau</hi>
+<w>bezeu<lb break="no"/>gen</w> wird, es wäre mir daher von
+                großem Schaden, wenn<lb break="yes"/>ich auch noch diese Zeit, unbenützt
+                verstreichen lassen<lb break="yes"/>müßte, hoffe aber, <hi rendition="#u">das
+                    Beste</hi> von Ihnen.</p>
+<pb facs="#image_031"/>
+<p>Was meine <hi rendition="#i">Forderungen</hi> betrifft, so kann ich es<lb break="yes"/>durch Zeugen beweisen, daß solche <hi rendition="#u"><hi rendition="#i">réel</hi></hi> sind, und nicht<lb break="yes"/>auf fixen <hi rendition="#i">Ideen</hi> beruhen; es ist ein quälender Gedanke<lb break="yes"/>sich so
+                verkan̄t zu sehen. </p> <p>Genehmigen Sie indessen meine vollkom̄enste<lb break="yes"/>Dankbarkeit, für die so
+                humane u. liebevolle <w>Behand<lb break="no"/>lung</w>,
+                welche Sie mir die ganze Zeit über angedeihen<lb break="yes"/>ließen, ich werde
+                eine solche rücksichtsvolle Behandlung<lb break="yes"/>in meinem <hi rendition="#u">ganzen Leben</hi> nicht vergessen, der liebe<lb break="yes"/>Gott schenke Ihnen u. Ihrer <hi rendition="#i">Familie</hi> seinen reichsten<lb break="yes"/>Segen dafür.</p><p>Einer geneigten Antwort entgegensehend, zeichnet mit<lb break="yes"/>aller Hochachtung u.
+                Ergebenheit<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Carl </hi><surname><hi rendition="#i">S.</hi></surname></seg></hi><lb break="yes"/><unclear/> den 21. Dezember<lb break="yes"/><space/> 1851.</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2652m04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2652</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Alois/Aloys <surname>M.</surname></persName>
+<date type="sent">19.09.1850</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Kreßenz <surname>M.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2652m">
+<persName>
+<forename>Alois/Aloys</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1798"/>
+<death cert="unknown"/>
+<occupation>Priester</occupation>
+<residence><geo decls="#WGS">48.4564554 10.8207702</geo>Gablingen, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1850" to="1852">1850-52</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Tobsuchtsanfälle (1850)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um die angebotenen Kleidungsstücke und darum, dass seine Schwester ihm Milch und Kaffee
+                    in der Anstalt organisiert.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2652m04a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb2652m04b.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb2652m04c.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<salute><hi rendition="#c">Liebste Schwester!</hi></salute>
+</opener>
+<p>Jch könnte alle zwei Röcke recht<lb break="yes"/>nothwendig brauchen auch eine
+                Hose<lb break="yes"/>dazu. Schicke mir auch etwas<lb break="yes"/>Obst. Da ich
+                kein Bier trinke,<lb break="yes"/>so mache, daß mir täglich ein Seidl<lb break="yes"/>Milch und in der <add place="above">Frühe</add> mehr Kaffe<lb break="yes"/>und Milch gegeben werde; denn<lb break="yes"/>sonst bin ich nicht
+                im Stande soviel<lb break="yes"/>zu studiern, als wie hier gefodert<lb break="yes"/>wird, und täglich das Brevier mit<lb break="yes"/>Andacht und Kraft zu beten,
+                weil<lb break="yes"/>mein Magen vom Waßer zu<lb break="yes"/>schwach wird. Der
+                Herr Dom<lb break="no"/>Dekan <surname>E.</surname>, oder
+                der<lb break="yes"/>Herr Domkapitular <surname>S.</surname><lb break="yes"/>möchte mich recht bald besuchen.</p>
+<pb facs="#image_011"/>
+<p>Jn Bayreuth habe ich in der<lb break="yes"/>Früh und .Nachmittag den<lb break="yes"/>Kaffee gehabt und täglich eine<lb break="yes"/>Maaß Bier. Statt
+                dem Bier<lb break="yes"/>kann man mir also schon mehr<lb break="yes"/>Kaffe und
+                Milch geben. Das<lb break="yes"/>Hochwürdigste Ordinariat<lb break="yes"/>Augsburg
+                wird einen guten<lb break="yes"/>Prieser wie ich es gewis bin nicht so<lb break="yes"/>ärmlich und kümmerlich hier leben<lb break="yes"/>laßen. <seg ana="#salute">Jch grüße Dich recht<lb break="yes"/>herzlich und alle meine
+                    lieben Ge<lb break="no"/>schwisterten,</seg> und möchten <add place="above">mich</add>
+                    recht bald<lb break="yes"/>besuchen, der liebe Bruder<lb break="yes"/>Eustach
+                    mit seiner lieben Frau,<lb break="yes"/>und der liebe Bruder Joseph mit<lb break="yes"/>seiner lieben Frau<lb break="yes"/><hi rendition="#c">Dein<lb break="yes"/></hi><hi rendition="#r">Dich liebender<lb break="yes"/>Bruder</hi>
+<hi rendition="#r"><seg ana="#signed">Aloys <surname>M.</surname></seg><lb break="yes"/>Priestermyria</hi></p>
+<p>Jrrsee,<lb break="yes"/>den 19. Sept.<lb break="yes"/><space/> 1850.</p>
+<pb facs="#image_012"/>
+<p><hi rendition="#r">An</hi><lb break="yes"/>Die Jungfrau Creßentia<lb break="yes"/><surname>M.</surname> fürstlich fuggersche<lb break="yes"/><w>Oberjägers
+                    Tochter</w><lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#r">Augsburg</hi></p>
+</body>
+</text>
+</TEI>

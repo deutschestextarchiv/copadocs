@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb261b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>261</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>B.</surname></persName>
+<date type="sent">12.04.1881</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Ludwig <surname>B.</surname></persName>
+<settlement type="sent">Dillingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb261b">
+<persName>
+<forename>Ludwig</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1860"/>
+<death cert="unknown"/>
+<occupation>Badergehilfe</occupation>
+<residence><geo decls="#WGS">48.4312893 10.4065009</geo>Burgau, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bierbrauersleute</p>
+<p>Anstalt: <date from="1880" to="1881">1880-1881</date></p>
+<p>Brieftypen: ap, ao</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Bruder des Patienten teilt diesem mit, dass er nicht über diesen verfügt und über ihn bestimmen kann, dass er aus der Anstalt entlassen wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb261b02a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb261b02b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Dillingen</hi> den 12. <hi rendition="#i">April</hi> 1881 </hi></dateline>
+<salute><space/> <hi rendition="#i">Lieber Bruder</hi></salute>
+</opener>
+<p><add hand="arzt">2304 <space/> <hi rendition="#u">15</hi><lb break="yes"/><milestone rendition="#hr" unit="section"/></add></p>
+<p><add hand="arzt"><hi rendition="#r">Mit 5 Mark,<lb break="yes"/>welche in der <w>Verw.<lb break="no"/>Kasse</w> als Dispositionsgeld<lb break="yes"/>liegen
+                            <space/> <unclear>Wiedmann</unclear></hi></add></p>
+<p><add hand="arzt"><hi rendition="#r">Fünf Mark vereinnahmt<lb break="yes"/>Wied<unclear>mann</unclear></hi></add></p>
+<p><add hand="arzt"><hi rendition="#c">Vorlaufig ad acta<lb break="yes"/><space/>
+                        W.</hi></add></p>
+<p><space/> Bezugnehmend an Deine zwei Briefe und der Zuschrift der<lb break="yes"/>verehrl. <hi rendition="#i">Direction</hi>, theile ich Dir mit, daß ich über Dich
+                nicht<lb break="yes"/>verfügen kann, den̄ das ist Sache des Stadtmagistrats<lb break="yes"/>Burgau, welche dich auch in die Anstalt verbracht hat. Ich
+                kan̄<lb break="yes"/>auch nicht bestim̄en, daß Du aus der Anstalt
+                entlaßen<lb break="yes"/>werden sollst, denn, daß ist, meines Erachtens, dem
+                ärtzlichen<lb break="yes"/>Gutachten, <w>anheim gestellt</w>.</p>
+<p>Du ken̄st Deine Verhältniße selbst, die leider keine<lb break="yes"/>Gute
+                sind, Du ken̄st auch Deine <w>Kran kheit</w>, die im̄er<lb break="yes"/>im Som̄er heftiger auftritt., Du weißt auch welche<lb break="yes"/>Unanenehmlichkeiten und Kosten, Du mir hier<lb break="yes"/>und in
+                Frankfurt Deinem Bruder Karl berichtet hast<lb break="yes"/>solche Zuständte sind
+                in Deinem eigenem Interesse<lb break="yes"/>sehr bedenklich und kan̄ ich
+                hiefür keine Verantwortung<lb break="yes"/>übernehmen. Wen̄ Du wieder ganz
+                gesund und hergestellt<lb break="yes"/>bist 8_ dieses ja von unser Seite aus
+                hezlich erwünscht<lb break="yes"/>ist, wird Dir eine Aufnahme meine<unclear>r</unclear>seits nicht
+                versagt.</p>
+<p>der erste Schritt ist aber im̄er, an das Stadtmagistrat Burgau<lb break="yes"/>zu machen. </p>
+<pb facs="#image_002"/><p><seg ana="#salute"><w>Un ter</w> sch<unclear>üc</unclear>hter Empfehlung er die verhel. <hi rendition="#i">Direction</hi><lb break="yes"/>grüßt Dich freundlichst<lb break="yes"/><hi rendition="#c">Dein</hi><lb break="yes"/><hi rendition="#r">Bruder</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Georg.
+                                <surname>B.</surname></hi>.</seg></hi></p>
+<p>Ich hätte Dir Deine beiden Briefe schon längst Beantw<unclear>ortet</unclear><lb break="yes"/>, wurde aber leider durch <w>ausge brochenen</w> Brand, der mir<lb break="yes"/>mein ganzes <w>Neben gebäuder</w> zestört hat, verhindert.<lb break="yes"/><hi rendition="#r">Obige.</hi></p>
+<p><space/> Anliegend eine kleine Zulage mit eine 5 <hi rendition="#i">Mark Note</hi></p>
+</body>
+</text>
+</TEI>

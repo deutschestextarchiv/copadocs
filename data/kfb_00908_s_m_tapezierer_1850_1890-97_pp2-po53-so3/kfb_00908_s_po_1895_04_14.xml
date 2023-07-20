@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s30" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">14.04.1895</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Armenpflegschaftsrat Augsburg</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1890" to="1897">1890-1897</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er beschwert sich über die schlechte Behandlung und Einweisung in die Anstalt, da er gesund sei.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s30a.jpg" xml:id="image_081"/>
+<graphic mimeType="image/jpg" url="kfb908s30b.jpg" xml:id="image_082"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_081"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee den </hi>14.<hi rendition="#sup">ten</hi>
+<hi rendition="#i">Aprill 1895.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Einem Löblichen<lb break="yes"/>Armenpflegschaftsrathe<lb break="yes"/>Augsburgs!</hi></hi></salute>
+</opener>
+<p><add hand="arzt" place="top"><hi rendition="#r">16646/95</hi></add><lb break="yes"/><space/> Indem ich <hi rendition="#i">Jakob</hi>
+<surname>S.</surname> tapezier geb.<lb break="yes"/>u. heimathberechtigt <hi rendition="#i">Augsburg</hi> gehört<lb break="yes"/>habe, daß meine Akten an die
+                Behörde<lb break="yes"/>Augsburg geschickt wurde, aber leider nach<lb break="yes"/>11. Wochen noch keine Antwort erhielt, so Bitte<lb break="yes"/>ich folgendes zu
+                Unterbreiten.−</p>
+<p>Ich bin seid Samstag d. 8 <hi rendition="#i">März</hi> 1890. als körperl.<lb break="yes"/>Gesund, Geist u. Arbeitsfähiger Mensch unter<lb break="yes"/><seg ana="#inst"><seg ana="#curse">Diebe, Plöde, Wahnsin̄ige Schweine</seg></seg> u.s.w.<lb break="yes"/>in einer Anstalt untergebracht u. wiefern?−<lb break="yes"/>Durch ein Gutachten od. Wüllkürlicher Vor<lb break="no"/>schützung einer Krankheit
+                die ich nicht ein<lb break="no"/>mal besitze, dieße Anstalt hier soll eine<lb break="yes"/>Wohlthat sein, aber Bitte ist sie es auch?−</p>
+<pb facs="#image_082"/>
+<p>−<hi rendition="#i"> Nein, Nein</hi> u. nochmals Nein. − Wenigstens<lb break="yes"/>für solche Leute wie ich nicht;− Ich bin seid<lb break="yes"/>fünf jahren meiner Freiheit, Arbeit u. Verdienst<lb break="yes"/>Beraubt, hiemit bin ich als armes Blutopfer<lb break="yes"/>gezwungen auf
+                Ungerechte Kösten d. Gemeinde<lb break="yes"/>meine Gesundheit, Leib u. Seele
+                Vernichten<lb break="yes"/>zu laßen − O wie tief läßt sich dießes<lb break="yes"/>Blicken.− Das man Leute unter falschen<lb break="yes"/>Vorwandt er sei Geisteskrank u.s.w. auf<lb break="yes"/>die Seite schafft ist zur
+                Genügend bekan̄t.−<lb break="yes"/>Aber für solche Leute soll man doch
+                beßer<lb break="yes"/>Sorgen als bißher geschah, − Natürlich für<lb break="yes"/>Bißmarksfeier hatt man Geld im Überfluß,<lb break="yes"/>für arme
+                Ungerechte Gefangene Blutopfer<lb break="yes"/>hatt man keins u.s.w. <hi rendition="#i">Persönlich</hi>.<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Irsee den </hi>14.<hi rendition="#sup">ten</hi>
+<hi rendition="#i">April.<lb break="yes"/><seg ana="#salute">Hochachtungsvollst</seg><lb break="yes"/>Jakob <surname>S.</surname><lb break="yes"/>Gefangener im kgl. Bäyr Sibirien</hi><lb break="yes"/>mit d. <hi rendition="#i">Numer</hi> 943.</hi></p>
+</body>
+</text>
+</TEI>

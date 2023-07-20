@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb585o21" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>585</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">n.a. <surname/></persName>
+<date type="sent">21.04.1884</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Kempten</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb585o">
+<persName>
+<forename>Hermann</forename>
+<surname>O.</surname>
+</persName>
+<birth when="1851"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Geburtsort: Frankenthal (Rheinpfalz); Wohnort: Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Studienlehrer</p>
+<p>Anstalt: <date from="1880" to="1885">1880-85</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>"Primäre Verrücktheit" (1879)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="unbekannt"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Berichtet, vom Patienten ein Schreiben empfangen zu haben, in dem er seine Umstände schildert und 
+                   um rechtlichen Beistand bittet. Der Schreiber wünscht jedoch keinen weiteren Kontakt. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb585o21a.jpg" xml:id="image_076"/>
+<graphic mimeType="image/jpeg" url="kfb585o21b.jpg" xml:id="image_077"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_076"/>
+<opener>
+<dateline><hi rendition="#c">Kempten, 21. April 1884.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Euer
+                    Hochwohlgeboren!</hi></hi></salute>
+</opener>
+<p><add hand="arzt" place="top"><unclear/> 23/4</add>
+</p><p>Mir schreibt da ein gewisser Herman̄ <surname><hi rendition="#i">Ö.</hi></surname> aus<lb break="yes"/>Augsburg, z.Z. Patient in jenseitiger Heil-
+                u. Pflege<lb break="no"/>anstalt, unterm 30. März<hi rendition="#i"> praes</hi>. 16.
+                April <unclear>l</unclear> Js. einen<lb break="yes"/>himmellangen Brief mit
+                unendlichen Beilagen, worin<lb break="yes"/>er sich beschwert, in der Anstalt
+                verweilen zu<lb break="yes"/>müssen, obwohl er der verständigste und geistig<lb break="yes"/>gesundeste Mensch auf Gottes Erdboden sei und<lb break="yes"/>legt
+                mir des Langen und Breiten dar, daß er weder<lb break="yes"/>an Hallucinationen,
+                noch an Größen- noch an Verfol<lb break="no"/>gu<unclear>n</unclear>gswahn
+                leide.</p><p>Euer Hochwohlgeboren selbst, sowie die Herren Assistenz<lb break="no"/>ärzte hätten ihm schon
+                längst recht deutlich zu ver<lb break="no"/>stehen gegeben, daß er eigentlich gar
+                nicht <unclear>in</unclear> die<lb break="yes"/>Anstalt gehöre, allein seine
+                Verwandten brächten es<lb break="yes"/>dahin, daß er bis zur Stunde
+                    d<unclear>etinirt</unclear> sei u. u.s.w. u.s.w.<lb break="yes"/><hi rendition="#r"><hi rendition="#i">V. </hi></hi></p>
+<pb facs="#image_077"/>
+<p>Ich soll nun gerehtl. Schritte für ihn machen, bin aber<lb break="yes"/>dazu
+                selbstverständlich keineswegs verpflichtet oder<lb break="yes"/>geneigt, ich möchte
+                aber gerne vor weiterer<lb break="yes"/>Correspondenz mit Herman̄
+                        <surname><hi rendition="#i">Ö.</hi></surname> verschont sein,<lb break="yes"/>und deßhalb erlaube ich mir gegenwärtige<lb break="yes"/>Zeilen,
+                damit ihm etwa von <w>Anstalts wegen</w> das<lb break="yes"/>Fruchtlose seiner
+                Wünsche geeignet bekannt gegeben<lb break="yes"/>werde und worum ich ergebenst
+                bitte. </p><p><seg ana="#salute"><hi rendition="#c">Mit vorzüglicher Hochachtung zeichne ich<lb break="yes"/>Euer Hochwohlgeboren </hi><lb break="yes"/><hi rendition="#r">ergebenster
+                            </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><surname>S.</surname>
+</seg><lb break="yes"/>K<unclear>le</unclear>dw.</hi></p>
+</body>
+</text>
+</TEI>

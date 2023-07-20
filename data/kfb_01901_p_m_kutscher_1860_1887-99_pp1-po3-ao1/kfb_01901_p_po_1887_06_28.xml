@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1901p01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1901</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vitus <surname>P.</surname></persName>
+<date type="sent">28.06.1887</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Prinzregent: Liutpold von <surname>B.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1901p">
+<persName>
+<forename>Vitus</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1860"/>
+<death when="1899"/>
+<occupation>Kutscher</occupation>
+<residence><geo decls="#WGS">48.7175882 11.3200748</geo>Weichering, Neuburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1887" to="1899">1887-1899</date></p>
+<p>Brieftypen: po, pp </p>
+</state>
+<trait><p>Halluzinatorische Verrücktheit (1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    weiß etwas über Tod von König Ludwig, kann es nicht mitteilen, da Briefzensur, will mündlich mitteilen; seine Entlassung war ungerecht, wurde nicht vorgelassen, bittet um Audienz bei Prinzregent Luitpold
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1901p01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1901p01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb1901p01c.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb1901p01d.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline>Kaufbaiern den 28 Juni 1887</dateline>
+<salute>Geherthester Fürst u Regent</salute>
+</opener>
+<p> Indem ich mehreres gesehen<lb break="yes"/>und gehört habe vom verstorbenen<lb break="yes"/>König Ludwig und auch andern<lb break="yes"/>Sachen um daß die
+                    Sache<lb break="yes"/>nicht in die Öffentlichkeit kom̄t<lb break="yes"/><seg ana="#cens">kan̄ ich daß meinen Fürsten<lb break="yes"/><pb facs="#image_002"/> Brieflich nicht mitheilen weil<lb break="yes"/>man in
+                    der Heil u Pflege<lb break="no"/>Anstald ein Quwert nicht<lb break="yes"/>bekom̄t da die Brife<lb break="yes"/>zu erst imer durch gelesen<lb break="yes"/>werden von den Arzten</seg> ich währe dazu gennöthigt<lb break="yes"/>daß alles meinen Fürsten<lb break="yes"/>und Regenten mündlich
+                    aus<lb break="no"/>zumachen und zu sagen<lb break="yes"/>zugleich möchte ich
+                    auch<lb break="yes"/>meine Mitheilung machen<lb break="yes"/>über die
+                ungerechte Entlassung<lb break="yes"/>vom seinem treuen Diener <pb facs="#image_003"/> Vitus <surname>P.</surname> der sich nichts<lb break="yes"/>zu Schulden hat kom̄en lassen<lb break="yes"/>weder im Dienste noch in<lb break="yes"/>der Arbeit da ich mich nicht<lb break="yes"/>beschweren durfte
+                und nicht<lb break="yes"/>vorgelassen wurde von<lb break="yes"/>Herrn
+                Oberstallmeister Graf<lb break="yes"/>von <surname>H.</surname> und mit<lb break="yes"/>genemigung des Prinz Regenten<lb break="yes"/>meine Entlassung
+                    unterschriben<lb break="yes"/>worden ist und ich daß nicht<lb break="yes"/>unterlassen kan̄ daß ich mir<lb break="yes"/>daß gefallen muß lassen<lb break="yes"/>vom̄ Graf von <surname>H.</surname>
+<pb facs="#image_004"/> weil ich da die Unterschrift<lb break="yes"/>auch sehen
+                möcht von Sr kgl<lb break="yes"/>Hoheit deß Prinz-Regenten<lb break="yes"/>da ich
+                meine Taxen u. Anstellung<lb break="yes"/>vollständig bezahlt habe <seg ana="#metaling">wen̄ ich<lb break="yes"/>waß unrechtes geschriben
+                        habe<lb break="yes"/>so bitte ich um Verzeiung bei St<lb break="yes"/>kl
+                    Hoheit des Prinz-Regenten da<lb break="yes"/>ich nicht so bewandert bin im
+                    Schreiben</seg><lb break="yes"/>so thät <hi rendition="#u" style="arzt">Vitus
+                        <surname>P.</surname></hi> bitten um<lb break="yes"/>Audenz daß ich
+                vorgelassen wurde<lb break="yes"/>bei Sr kgl Hoheit des Prinz-Regenten.</p>
+<p><hi rendition="#c">An<lb break="yes"/>Seine kgl Hoheit des Prinz-Regenten</hi><lb break="yes"/>Luitpold<lb break="yes"/><hi rendition="#c">von</hi><lb break="yes"/><hi rendition="#r">Bayern</hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1439h09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1439</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Georg F. <surname>H.</surname></persName>
+<date type="sent">12.08.1874</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a. <surname>n.</surname></persName>
+<settlement type="sent">Stuttgart</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1439h">
+<persName>
+<forename>Amalie</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1827"/>
+<death cert="unknown"/>
+<occupation>Landarzttochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Nördlingen/München, Stuttgart</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landarzt</p>
+<p>Anstalt: <date from="1874" to="1876">1874-76</date></p>
+<p>Brieftypen: pp, ap, ao, sonst.</p>
+</state>
+<trait><p>Melancholie</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink_black" scope="major" scribe="bruder"/>
+<handNote medium="ink_black" scope="minor" scribe="schwester1"/>
+<handNote medium="ink_brown" scope="minor" scribe="schwester2"/>
+<handNote medium="ink_black" scope="minor" scribe="schwester3"/>
+<handNote medium="ink_blue" scope="minor" scribe="arzt"/>
+<handNote medium="ink_black" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Einwilligungserklärung zur Unterbringung der Patientin in der Anstalt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1439h09.jpg" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_023"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#c"><hi rendition="#u">3</hi></hi></add></add></p>
+<p><add hand="arzt"><unclear>91019037</unclear></add></p>
+<p><space/> Die Endes Unterzeichneten Ge<lb break="no"/>schwister bekunden hiemit
+                    unterschrift<lb break="no"/>lich ihre Einwilligung zu Verbrin<lb break="no"/>gung ihrer Schwester <hi rendition="#i">Amalie</hi><lb break="yes"/><surname><hi rendition="#i">H.</hi></surname> aus <hi rendition="#i">Nördlingen</hi> in die<lb break="yes"/><hi rendition="#i">Königl.
+                    Bair. </hi><w><hi rendition="#i">Kreis Irrenanstalt</hi></w><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">Irrsee</hi>. </p><p><hi rendition="#c"><hi rendition="#i">Stuttgart</hi>. d. 12 A<hi rendition="#i">ug</hi>.
+                1874</hi></p><p>Der Bruder: <space/>
+<seg ana="#signed"><hi rendition="#i">Georg Fr. </hi><surname><hi rendition="#i">H.</hi></surname></seg><lb break="yes"/>Die Schwestern <space/>
+<add hand="schwester1"><seg ana="#signed">Mina <surname>H.</surname>.
+                    </seg></add><lb break="yes"/><add hand="schwester2"><hi rendition="#r"><seg ana="#signed">Regina <surname>R.</surname>. kgl. <w>Ingen.
+                            Gattin</w></seg></hi></add><lb break="yes"/><add hand="schwester3"><hi rendition="#r"><seg ana="#signed">Friederike <surname>H.</surname>.</seg></hi></add></p>
+</body>
+</text>
+</TEI>

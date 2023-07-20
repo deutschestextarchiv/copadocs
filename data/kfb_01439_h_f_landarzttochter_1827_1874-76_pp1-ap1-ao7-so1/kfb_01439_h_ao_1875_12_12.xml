@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1439h04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1439</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Regina <surname>R.</surname></persName>
+<date type="sent">12.12.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1439h">
+<persName>
+<forename>Amalie</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1827"/>
+<death cert="unknown"/>
+<occupation>Landarzttochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Nördlingen/München, Stuttgart</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landarzt</p>
+<p>Anstalt: <date from="1874" to="1876">1874-76</date></p>
+<p>Brieftypen: pp, ap, ao, sonst.</p>
+</state>
+<trait><p>Melancholie</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwester"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin scheint die Erlaubnis vom Direktor bekommen zu haben, die Anstalt zu verlaßen. 
+                    Die Schreiberin bedauert, dass ihr Mann diese Entscheidung jedoch nicht für angebracht hält, sodass sie sich weiter gedulden muss.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1439h04a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb1439h04b.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb1439h04c.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><hi rendition="#r">Münch d. 12 Dez 75</hi></dateline>
+<salute><hi rendition="#c">Hochgeehrter<lb break="yes"/>Herr Direcktor!</hi></salute>
+</opener>
+<p><space/> Ihre gütige Nachricht vom<lb break="yes"/>30<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Nov. über das Befinden<lb break="yes"/>meiner
+                armen Schwester,<lb break="yes"/>gewährt mir die tröstliche<lb break="yes"/>Beruhigung, daß Sie fortwährend<lb break="yes"/>die lebhafteste Theilnahme<lb break="yes"/>derselben zuwenden. − </p><p><space/> Ihren Bitten ist es gelun<lb break="no"/>gen, Ihr mildes Herz; einem<lb break="yes"/>Versuche geneigt zu machen die<lb break="yes"/>Anstalt zu verlaßen. </p>
+<pb facs="#image_011"/>
+<p><space/> O, wie schmerzt es mich,<lb break="yes"/>nicht zu ihr eilen zu dürfen<lb break="yes"/>und ihre Sehnsucht zu stillen!</p>
+<p><space/> Mein Mann aber, der strenge<lb break="yes"/>Wächter, über das Wohl und Weh<lb break="yes"/>seiner zahlreichen Familie −<lb break="yes"/>fürchtet die
+                Schwierigkeiten<lb break="yes"/>der Rückkehr und die <w>Störun<lb break="no"/>gen</w> die ihm unausbleiblich<lb break="yes"/>bedünken wollen. </p>
+<p><space/> Mir bleibt nun nichts übrig,<lb break="yes"/>als in Gedult mich zu fügen<lb break="yes"/>und die Bedauernswerthe, bis<lb break="yes"/>auf Weiteres, dem l.
+                Gott und <pb facs="#image_012"/>Ihnen zu empfehlen − wofür<lb break="yes"/><seg ana="#salute">in dankbarer Verehrung verhart<lb break="yes"/><hi rendition="#c">Ihre</hi><lb break="yes"/><hi rendition="#r">ergebene<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed">R. <surname>R.</surname>.</seg></hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2000s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2000</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Tochter: Karolina <surname>H.</surname></persName>
+<date type="sent">06.07.1884</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Barbara <surname>S.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2000s">
+<persName>
+<forename>Barbara</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1914"/>
+<occupation>Lehrersfrau</occupation>
+<residence><geo decls="#WGS">47.5352544 10.3050352</geo>Stein, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1881" to="1914">1881-1914</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Halluzinatorische Verwirrtheit (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="tochter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Hat den Eindruck, dass sich der Zustand der Patientin noch nicht gebessert habe und diese immernoch ihren "dummen Ideen" nachginge. 
+                    So wäre es zur Zeit auch nicht gut, sie heimzuholen, da sie vermutlich zu unruhig sei. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2000s05.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Meine liebste
+                    Mutter</hi>!</hi></salute>
+</opener>
+<p>Deinen Brief habe ich erhalten, aber leider<lb break="yes"/>daraus ersehen daß
+                dein Krankheits<lb break="no"/>zustand im̄er ein u. derselbe ist. </p><p>Auch hast du vom Vater kein Wort ge<lb break="no"/>schrieben. Es scheint du vergißt uns<lb break="yes"/>bald Alle, u. nur deine dum̄en Jdeen<lb break="yes"/>haben
+                Platz in deinem Kopf; Jch kön̄te<lb break="yes"/>mir keine größere Freude
+                denken,<lb break="yes"/>als wen̄ du einmal gesund wärest,<lb break="yes"/>u. wieder bei uns sein kön̄test; </p><p>Habe auch schon oft gedacht ob wir dich<lb break="yes"/>vielleicht nicht nach Hause nehmen<lb break="yes"/>kön̄ten, wen̄ du nur ruhig wärest;<lb break="yes"/>Aber ich weiß schon Voraus, du würdest<lb break="yes"/>nichts als wie zanken u.
+                streiten. </p><p>Da hast du aber ganz Unrecht, liebste<lb break="yes"/>Mutter. Soll dich vielleicht der Vater<lb break="yes"/>einmal besuchen, schreibe uns recht<lb break="yes"/>bald. Ich bin
+                gesund u. wohl, sowie auch<lb break="yes"/>Vater u. Max. <seg ana="#salute">Es
+                    grüßt dich herzlich<lb break="yes"/><hi rendition="#r">Deine Tochter</hi></seg>
+<hi rendition="#r"><seg ana="#signed">Karoline</seg>.</hi></p>
+</body>
+</text>
+</TEI>

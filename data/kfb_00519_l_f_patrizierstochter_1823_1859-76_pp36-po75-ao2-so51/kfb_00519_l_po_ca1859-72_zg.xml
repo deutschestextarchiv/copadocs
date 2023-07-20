@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l75" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Frau Doktor: <surname>K.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Patrizier</p>
+<p>Anstalt: <date from="1859" to="1872">1859-72</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin bittet um die Zusendung von Stoff und mutmaßt über die Hintergründe ihres Anstaltsaufenthaltes.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l75a.jpg" xml:id="image_203"/>
+<graphic mimeType="image/jpg" url="kfb519l75b.jpg" xml:id="image_204"/>
+<graphic mimeType="image/jpg" url="kfb519l75c.jpg" xml:id="image_205"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_203"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Verehrteste Frau <hi rendition="#i">Doctor <surname>K.</surname></hi></hi></salute>
+</opener>
+<p> Da ich den Namen des Seidenfrabrikan̄ten nicht<lb break="yes"/>mehr
+                weiß, bitte ich um Entschuldigung <hi rendition="#i">Sie</hi> um<lb break="yes"/>ein
+                Muster zu besorgen freundlichst zu ersuchen. −<lb break="yes"/>Ein hellgraues
+                od sonst gefälliges Müsterl von leichtem<lb break="yes"/>billigem Seidenzeug nebst
+                dem Preis in brsch. Elle da<lb break="yes"/>selbe bei uns jedenfalls theurer sind. </p>
+<p>Ich lebe hier <hi rendition="#i">a la campagne</hi> als Insaßin̄ u Freifräulein<lb break="yes"/>obwohl ich keinen freien Willen u. kein freien Fuß habe.<lb break="yes"/>Der Zweck dieses Aufenthaltes ist eine Versorgung<lb break="yes"/>u die Ursache daß ich in solche Falle kam ist weil<lb break="yes"/>ich den feinen
+                Speck der hohen ehemaligen Reichs<lb break="no"/>stadt Augsburg etwas benagt u. über
+                eine<lb break="yes"/>angesehene Persönlichkeit mich beklagt die mich<lb break="yes"/>aus edler Rache gerichtlich hier <hi rendition="#i">reterirt</hi>.<lb break="yes"/>Jedoch hat man sich diesfalls sehr <hi rendition="#i">blamirt</hi> und<lb break="yes"/>beschuldiget mich zur Entschuldigung: Ich sey<lb break="yes"/>mit Nichts zufrieden ehe man mir Alles genom̄en<lb break="yes"/>Mein th. Bruder hat sich bisher umsonst für meine<lb break="yes"/>Rechte angenom̄en u sucht mich zuweilen <pb facs="#image_204"/>mit einer kl
+                Beisteuer u Geschenke zu trösten<lb break="yes"/>bis meine eigenen Mittel <add place="above">kom̄</add> u der rechte Man̄<lb break="yes"/>der
+                sich meiner annehmen kan̄</p>
+<p>Ich hoffe das Kleid wird bald seinen Zweck<lb break="yes"/>erreichen nachdem die
+                Muster wenigst<lb break="yes"/>hieher gar reicht. </p>
+<p><seg ana="#salute">Es empfiehlt sich Ihnen u der ganzen<lb break="yes"/>Familie achtungsvollst<lb break="yes"/><hi rendition="#c">Ihre</hi><lb break="yes"/><hi rendition="#r">dankschuldige </hi></seg><hi rendition="#r"><seg ana="#signed">Mina<lb break="yes"/><surname>v.</surname></seg></hi></p>
+<p> Wer sonst noch in Tett<unclear>n</unclear>ang lebt oder −<lb break="yes"/>gestorben ist, weiß
+                ich nicht. −</p>
+<p><hi rendition="#r"><hi rendition="#i">Adreße</hi> an die kgl. brsch<lb break="yes"/>Verwaltungsführer
+                oder<lb break="yes"/>an Hr <hi rendition="#i">Director
+                    Kiederle</hi><lb break="yes"/>in Irsee</hi></p>
+<pb facs="#image_205"/>
+<p><hi rendition="#r">Ihrer Hochwohlgeboren</hi><lb break="yes"/>Ttl. Frau <hi rendition="#i">Doctor <surname>K.</surname></hi><lb break="yes"/><hi rendition="#c">Gattin eines prak. Arztes </hi><lb break="yes"/><hi rendition="#r">in<lb break="yes"/><hi rendition="#u">Tettnang<lb break="yes"/>bei Ravens</hi>burg<lb break="yes"/>in Würtenberg</hi>
+</p>
+<p><hi rendition="#c">frei</hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3349f11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3349</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>F.</surname></persName>
+<date type="sent">25.02.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: Johann <surname>F.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3349">
+<persName>
+<forename>Jakob</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888"/>
+<death when="1935"/>
+<occupation>Landwirt, Dienstknecht</occupation>
+<residence><geo decls="#WGS">48.2473553 10.4500832</geo>Premach, Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landwirt</p>
+<p>Anstalt: <date from="1907" to="1935">1907-35</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>maniakalischer Erregungszustand (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief, Gebet, Gedicht</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Lobgedicht über Gott, Gebet
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3349f11a.jpg" xml:id="image_031"/>
+<graphic mimeType="image/jpg" url="kfb3349f11b.jpg" xml:id="image_032"/>
+<graphic mimeType="image/jpg" url="kfb3349f11c.jpg" xml:id="image_033"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_031"/>
+<opener>
+<dateline><hi rendition="#r">Am 25.II.1928.</hi></dateline>
+<salute><hi rendition="#r">Gruß u. Segen im Herrn!</hi></salute>
+</opener>
+<p><add hand="arzt" place="top"><hi rendition="#c"><hi rendition="#u"><surname><hi rendition="#i">F.</hi></surname><hi rendition="#i"> Jakob.</hi></hi></hi></add></p>
+<p><hi rendition="#r">Das Wort ist nun vollendet,<lb break="yes"/>das Opfer ist
+                    vollbracht.<lb break="yes"/>dem Herrn sei Lob gespendet!<lb break="yes"/>Der
+                    Herr der dieses Werk vollbracht.<lb break="yes"/>der Frieden ist errungen.<lb break="yes"/>Besiegt ist Welt u. Tod!<lb break="yes"/>Der Herr der dies
+                    bezwungen,<lb break="yes"/>der Herr Gott Zabaot!<lb break="yes"/>das Dunkel
+                    ist gelichtet,<lb break="yes"/>der Tag ist nun erhellt,<lb break="yes"/>dem
+                    Herrn sei Lob u. <hi rendition="#i">Preis</hi><lb break="yes"/>Dem Herrn in Zeit u. <hi rendition="#i">Ewigkeit</hi>.</hi></p>
+<p><hi rendition="#r">gewidmet der Skt. Josefs kogregation<lb break="yes"/>in
+                    Ursberg v. <hi rendition="#i"><del>M</del>E. von W.</hi></hi>
+</p>
+<pb facs="#image_032"/>
+<p><foreign xml:lang="lat">Tedeum laudamus</foreign>!<lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+<p>Bittet den Herrn der Ernte, daß<lb break="yes"/>er Arbeiter sende in seinen
+                Weinberg;<lb break="yes"/>die Ernte wird groß sein, der Arbeiter<lb break="yes"/>sind es wenige. Viele sind berufen,<lb break="yes"/>wenige sind auserwählt. </p><p>Ich werde jetzt heimdürfen zum<lb break="yes"/><hi rendition="#c">Vater?<lb break="yes"/><foreign xml:lang="lat"><hi rendition="#i">Paks Domini,
+                            sit semper<lb break="yes"/>vobiskum!</hi></foreign></hi><lb break="yes"/><hi rendition="#i">Kaufbeuren, am </hi>heutigen 16<hi rendition="#sup"><hi rendition="#u">50</hi>
+</hi>Uhr.</p>
+<pb facs="#image_033"/>
+<p><hi rendition="#i">An</hi><lb break="yes"/>Herrn <hi rendition="#i">Johann <surname>F.</surname></hi><lb break="yes"/><hi rendition="#c">Ökonom</hi><lb break="yes"/><hi rendition="#r">in <hi rendition="#i">Premach</hi>
+<add place="below">Post Ursberg</add><lb break="yes"/>(Schwaben)</hi></p>
+</body>
+</text>
+</TEI>

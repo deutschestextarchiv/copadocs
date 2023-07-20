@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2702w20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Joseph <surname>W.</surname></persName>
+<date type="sent">22.08.1855</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2702w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Bierbrauerstochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Brauereibesitz</p>
+<p>Anstalt: <date from="1853" to="1856">1853-56</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Vesania (17.11.1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder1"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet um Nachricht über die "Aussichten" der Patientin.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2702w20.jpg" xml:id="image_039"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_039"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München</hi> 22 A<hi rendition="#i">ugust</hi> 1855</hi></dateline>
+<salute><hi rendition="#c">Euer Hochwohlgeboren!</hi></salute>
+</opener>
+<p>Anliegend erlaube ich mir Ihnen für meine<lb break="yes"/>Schwester <hi rendition="#i">Marie</hi> 130f zu senden, und ersuche<lb break="yes"/>Sie mir
+                Bescheinigung zukom̄en zu lassen. </p><p>Zugleich bitte ich Sie mir gelegentlich über<lb break="yes"/>die Aussichten die meine Schwester
+                hat gefallige<lb break="yes"/>Nachricht zu geben, da der Zeitpunkt in dem<lb break="yes"/>sie aus der Vormundschaft entlassen werden<lb break="yes"/>soll
+                im̄er näher rückt. </p><p><seg ana="#salute"><hi rendition="#c">Mit ausgezeichneter Hochachtung</hi><lb break="yes"/><hi rendition="#r">ergebenster </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Joseph</hi>
+<surname><hi rendition="#i">W.</hi></surname></seg></hi></p><p><add hand="arzt">d 28 <unclear>9</unclear>
+<unclear/><lb break="yes"/>benim̄t sich, wie d<unclear>er</unclear> Mutter<lb break="yes"/>geschrieben, <unclear>mehr</unclear> j. <unclear/>,<lb break="yes"/>ob
+                        <unclear><w>es</w><w>bestand</w></unclear><w>hat</w>, <unclear>wird</unclear> d. Zt.<lb break="yes"/>lehren, kan̄ daher noch nicht<lb break="yes"/><w>angegeben</w><w>werden</w>, bis wann<lb break="yes"/>d. Entlassung raths. sein wird. </add></p>
+</body>
+</text>
+</TEI>

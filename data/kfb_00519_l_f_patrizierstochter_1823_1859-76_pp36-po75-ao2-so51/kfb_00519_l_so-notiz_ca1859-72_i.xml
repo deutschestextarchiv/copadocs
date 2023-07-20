@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l124" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Patrizier</p>
+<p>Anstalt: <date from="1859" to="1872">1859-72</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notiz</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Kurze Notiz über den Umgang der Patientin mit Menschen, die ihr mit Achtung begegnen und mit Menschen, die sie verachten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l124a.jpg" xml:id="image_331"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_331"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><space/> Solche die mit Verehrung u Achtung mir <w>be<lb break="no"/>gegneten</w>, habe ich verachtet − zurückwiesen. −<lb break="yes"/>"Jene, die mich verachten <hi rendition="#u">hier</hi> muß ich <add place="above"><hi rendition="#u">hier</hi></add> ehren. </p>
+</body>
+</text>
+</TEI>

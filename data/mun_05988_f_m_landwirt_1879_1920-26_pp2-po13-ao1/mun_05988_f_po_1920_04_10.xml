@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun5988f03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>5988 (K. 90)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>F.</surname></persName>
+<date type="sent">10.04.1920</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Anwesende im Schloß Freckenhorst: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun5988f">
+<persName>
+<forename>Heinrich</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1879-07-10"/>
+<death cert="unknown"/>
+<occupation>Landwirt</occupation>
+<residence><geo decls="#WGS">51.9097831 7.958472934876058</geo>Geburtsort: Freckenhorst; Wohnort: Freckenhorst</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Landwirt; Mutter: n.a.</p>
+<p>Anstalt: <date from="1920-03-29" to="1920-08">29.03.1920-xx.08.1920</date></p>
+<p>Brieftypen: 14.04.1922-14.07.1923</p>
+</state>
+<trait><p>Schizophrenie (1920)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                Er sagt, dass er im Krankenzimmer ist und es der Familie gut geht. Er möchte, dass man dem Förster mitteilt, dass es an Fichten fehlt. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun5988f03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="mun5988f03b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r">Haus Kannen d. 10.4.20.</hi></dateline>
+<salute><hi rendition="#c"><del>S</del>Geehrte Anwesende im<lb break="yes"/>Schloß <hi rendition="#i">Freckenhorst</hi>!</hi></salute>
+</opener>
+<p>Theile Ihnen mit daß ich<lb break="yes"/>hier im <w>Kranken Zimmer</w><lb break="yes"/>bin denke daß die <w>Familie<lb break="no"/>Angehörige</w> sich in
+                bester<lb break="yes"/>Gesundheit befindet möchte<lb break="yes"/>Euch da mal
+                beanspruchen<lb break="yes"/>Förter <surname>D.</surname> wird wohl<lb break="yes"/>noch da sein und alles <w>nach<lb break="no"/>sehen</w> an <surname>F.</surname>
+                fehlen<lb break="yes"/>noch einige sparren <del>d</del><lb break="yes"/>es müssen Fichten sein <pb facs="#image_008"/>fast alles gut
+                befinde<lb break="yes"/>mich in bester gesundheit<lb break="yes"/><seg ana="#salute">Es Grüßt Euch
+                    allen</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Heinrich <surname>F.</surname></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

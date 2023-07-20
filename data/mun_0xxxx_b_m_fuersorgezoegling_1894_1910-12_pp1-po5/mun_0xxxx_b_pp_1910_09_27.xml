@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="munxxxb01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Patientenakten</collection>
+<idno>xxxx (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>B.</surname></persName>
+<date type="sent">27.09.1910</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: n.a. <surname>B.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="munxxxb">
+<persName>
+<forename>Wilhelm</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1894-10-06"/>
+<death cert="unknown"/>
+<occupation>Fürsorgezögling</occupation>
+<residence><geo decls="#WGS">51.956874 7.0038803</geo>Geburtsort: Dortmund; Wohnort: Gescher</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1910-01-21" to="1912-01-03">21.01.1910-03.01.1912</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geisteskrankheit (1910)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt1"/>
+<handNote medium="ink" scope="minor" scribe="arzt2"/>
+<handNote medium="crayon_red" scope="minor" scribe="arzt3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber beklagt sich über die schlechte Behandlung in der Anstalt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="mun0xxxxb01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpeg" url="mun0xxxxb01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpeg" url="mun0xxxxb01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><add hand="arzt2" place="top"><hi rendition="#i"><surname>Be<unclear>l.</unclear>limcke.</surname></hi></add>
+<add hand="arzt1" place="top"><unclear>G</unclear>
+<hi rendition="#sup">27</hi>/9 <hi rendition="#sup">10</hi>
+<hi rendition="#i">a<hi rendition="#u" style="arzt3">d acta</hi>
+<surname>B.</surname></hi><lb break="yes"/><hi rendition="#c">G. </hi></add></dateline>
+<salute><hi rendition="#c">Leibe Mutter </hi></salute>
+</opener>
+<p><unclear>da</unclear>selbst ich vom 12 d Mts ein an<lb break="yes"/><del>d</del> dir
+                Gerichtet <del>d<unclear>i</unclear></del> und
+                    <unclear>bis</unclear><del><unclear/></del> jetzt<lb break="yes"/>noch keine
+                Antwort bekommem habe<lb break="yes"/>so möchte ich Dir bitten auf diesen<lb break="yes"/>Brief sofort zu antworten </p><p>Liebe Mutter mir geht es hier sehr<lb break="yes"/>schlecht <unclear>undonktors</unclear>
+<del>dir</del> hetzen die<lb break="yes"/><del><unclear/></del> Flegers auf ein
+                damit sie ein<lb break="yes"/><unclear>T</unclear>reten und Würgen und Schlagen<lb break="yes"/>Auch wenn man Sich Briefe<lb break="yes"/><del>vo</del>
+<unclear>vor</unclear> schreibt reißen sie ein<lb break="yes"/>die Briefe aus der
+                Hand und<lb break="yes"/>Reißen sie kaput das ich mich nur<lb break="yes"/>aufregen soll das wollen die<lb break="yes"/><seg ana="#curse">Provinzialkrüppel</seg> nur damit sie<lb break="yes"/>mir mein Leben lang hier
+                    <w>fest<lb break="no"/>halten</w> wollen aber dies bringen<lb break="yes"/>die
+                    <seg ana="#curse">Schufte</seg>
+<w>gar</w><w>nicht</w> fertig das sie<lb break="yes"/>mir mein Leben lang halten<lb break="yes"/>fest. Wenn sie jetzt nochmal<lb break="yes"/>zu mir kommen um
+                zu <unclear>E</unclear>rgern oder <pb facs="#image_002"/>noch länger wie den 20
+                Onktober<lb break="yes"/>dann <del>an</del> bau ich <unclear>en</unclear> Hosen und
+                spring<lb break="yes"/>im Kanal mein tot ist dann diese<lb break="yes"/>verflugte
+                    <unclear>Schnaimebase</unclear> oder<lb break="yes"/>Statzhalunken
+                    <unclear>Knaanag</unclear> schullt<lb break="yes"/>du brauchst dich aber nicht
+                Grämen<lb break="yes"/>wennn du dieses alles liest da kannst<lb break="yes"/>du
+                sehen unter was für Mörder und<lb break="yes"/>Räuber gefallen bin. Jetzt will ich<lb break="yes"/>schliesen in der Hoffung das ihr<lb break="yes"/>den Brief bei
+                Gesunden zustand<lb break="yes"/>vom Briefträger bekommt<lb break="yes"/><space/>
+<seg ana="#salute">Es grüßt Euch Euer Sohn </seg><lb break="yes"/><space/>
+<seg ana="#signed">Willi</seg>.</p>
+<pb facs="#image_003"/>
+<p><hi rendition="#i">An</hi> Frau <surname><unclear>B.</unclear>al<hi rendition="#i">slimcke</hi></surname>.<lb break="yes"/>in <hi rendition="#i">D</hi>ort<hi rendition="#i">mun</hi>d<lb break="yes"/>II. K<hi rendition="#i">am</hi><hi rendition="#i">pstr. N<hi rendition="#sup"><hi rendition="#u">o</hi>.</hi></hi> 33 <hi rendition="#i"><hi rendition="#sup"><hi rendition="#u">a</hi></hi></hi></p>
+</body>
+</text>
+</TEI>

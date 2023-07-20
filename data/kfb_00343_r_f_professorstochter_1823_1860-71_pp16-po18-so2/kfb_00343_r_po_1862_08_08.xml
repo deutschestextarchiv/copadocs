@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb343r36" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>343</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>R.</surname></persName>
+<date type="sent">08.08.1862</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bezirksamtmann: <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb343r">
+<persName>
+<forename>Johanna</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1871"/>
+<occupation>Professorstochter</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Professor</p>
+<p>Anstalt: <date from="1860" to="1871">1860-71</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Fixer Wahnsinn (1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet darum, entlassen zu werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb343r36a.jpg" xml:id="image_125"/>
+<graphic mimeType="image/jpg" url="kfb343r36b.jpg" xml:id="image_126"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_125"/>
+<opener>
+<dateline><hi rendition="#r">Irsee, den 8 August 1862.</hi></dateline>
+<salute><hi rendition="#c">Euer Hochwohlgeboren!</hi></salute>
+</opener>
+<p><add hand="arzt" place="top"><hi rendition="#c">34 W <hi rendition="#i">pr</hi>
+                        10. <hi rendition="#i">Sept</hi> 1862 </hi><lb break="yes"/><hi rendition="#r"><unclear>II</unclear></hi></add></p>
+<p>Schon beinahe zwei Jahre in der Kreisirren<lb break="no"/>anstalt Irsee, flehe ich
+                Sie an, Sich meiner<lb break="yes"/>zu erbarmen, und meine Befreiung aus<lb break="yes"/>der Anstalt zu erwirken. Ich wäre ge<lb break="no"/>wiß ruhig, und
+                würde Euer Hochwohl<lb break="no"/>geboren keine Veranlassung zur<lb break="yes"/>Unzufriedenheit geben. Zwei Jahre<lb break="yes"/>in der letzten Klasse im
+                Irrenhaus<lb break="yes"/>ist eine schwere Strafe für ein Paar<lb break="yes"/><unclear>ü</unclear>bereilte Worte. Muß ich durchaus<lb break="yes"/>eingesperrt seyn, so sperren Sie mich<lb break="yes"/>in das Stadtgefängniß in
+                Dillingen.<lb break="yes"/>Untersuchen <hi rendition="#u">Sie</hi> meine
+                    Angelegen<lb break="no"/>heit. Ich bin keine <hi rendition="#u">Verbrecherin</hi><lb break="yes"/>und habe mich nichts zu scheuen.<lb break="yes"/>Diese lange Haft
+                ist für meine<lb break="yes"/>Gesundheit sehr nachtheilig.<lb break="yes"/>Hochachtungsvollst<lb break="yes"/><seg ana="#signed"><hi rendition="#c">Ihre</hi><lb break="yes"/><hi rendition="#r">unglückliche<lb break="yes"/>Johan̄a
+                            <surname>R.</surname>,<lb break="yes"/>Lyceal=Professorstochter.</hi></seg><pb facs="#image_126"/>Sr.
+                Hochwohlgeboren Herrn<lb break="yes"/>Bezirksamtman̄
+                    <surname>G.</surname><lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#r">Dillingen.</hi></p>
+</body>
+</text>
+</TEI>

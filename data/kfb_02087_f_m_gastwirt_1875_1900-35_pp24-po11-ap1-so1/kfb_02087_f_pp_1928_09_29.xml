@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2087f33" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2087</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>F.</surname></persName>
+<date type="sent">29.09.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sohn: Ludwig <surname>F.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2087f">
+<persName>
+<forename>Ludwig</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1935"/>
+<occupation>Gastwirt, Landwirt</occupation>
+<residence><geo decls="#WGS">47.6283377 9.9102676</geo>Heimenkirch, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Gastwirt</p>
+<p>Anstalt: <date from="1900" to="1935">1900-1935</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Manie (1930), Ideenflucht, Größenwahn (1900-35), Halluzination (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Der Schreiber bedankt sich bei seinem Sohn für eine Karte zum Namenstag und erkundigt sich nach dessen Befinden.
+                   Er hofft, dass es dem Sohn ebenso gut geht wie ihm selbst.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2087f33a.jpg" xml:id="image_095"/>
+<graphic mimeType="image/jpg" url="kfb2087f33b.jpg" xml:id="image_096"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_095"/>
+<opener>
+<dateline><hi rendition="#i">Kaufbeuern, den</hi> 29.9.28.</dateline>
+<salute><space/> <hi rendition="#i">Lieber Ludwig</hi>!</salute>
+</opener>
+<p> Empfange meinen innigen Dank, für das schöne <hi rendition="#i">Namenstag</hi><lb break="no"/>Kärtchen, mit <hi rendition="#i">Glückwunsch</hi>. Laß mich recht
+                bald, was hören,<lb break="yes"/>von Deinem Befinden. Bin gesund und sehr gut
+                    hergestellt.<lb break="yes"/>Hoffe auch Dich in bestem Wohlsein, hast meinen <hi rendition="#i">Namenstagsbrief</hi><lb break="yes"/>erhalten.</p>
+<p><seg ana="#salute"><hi rendition="#c"><hi rendition="#i">Sei herzlich gegrüßt,</hi></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">von
+                    Deinem</hi> treubesorgten liebenden,<lb break="yes"/><hi rendition="#i">Vater</hi></hi><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Ludwig <surname>F.</surname></hi></seg></seg>.</p>
+<pb facs="#image_096"/>
+<p>
+<hi rendition="#c"><hi rendition="#u">Herrn </hi><hi rendition="#i"><hi rendition="#u">L. </hi><surname><hi rendition="#u">F.</hi></surname>.</hi><lb break="yes"/><hi rendition="#i">Berg
+                        Heimenkirch</hi><lb break="yes"/>bez. <hi rendition="#i">Allgäu</hi>.</hi></p>
+</body>
+</text>
+</TEI>

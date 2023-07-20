@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1725b08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1725</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">16.04.1909</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1725b">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1856"/>
+<death when="1919"/>
+<occupation>ehem. Postillon, Aventiuspfründer</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Fünfstetten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1908" to="1919">1908-19</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Verfolgungswahn, Halluzinationen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte entlassen werden und stattdessen in die Serfatziuspfründe aufgenommen werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1725b08a.jpg" xml:id="image_019"/>
+<graphic mimeType="image/jpg" url="kfb1725b08b.jpg" xml:id="image_020"/>
+<graphic mimeType="image/jpg" url="kfb1725b08c.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline><hi rendition="#c">Kaufbeiern d XVI-IIII 1909</hi></dateline>
+<salute>An die Königlihe Tir<lb break="no"/>rextzion, Kreis Irren<lb break="yes"/>Herholungs Anstalt<lb break="yes"/>Kaufbeiern,
+                    Betreff.</salute>
+</opener>
+<p>Bittet Gehorsamst Joseph <surname>B.</surname><lb break="yes"/>Um Entlasung, hir Aus der Kunglihe<lb break="yes"/>Anstalt, Wo ich
+                Ietzt Gesunt Bin.<lb break="yes"/>Wo ich Von die Herrn Erzte nie<lb break="yes"/>Mer Untersuht Werte 2 Wen<lb break="yes"/>Ih Die Hohe Tirigzion Bitten<lb break="yes"/>Darf, Hier von Kaufbeiern Zu<lb break="yes"/>Entlaßen! Unt Ihres
+                Wohlwohlen<lb break="yes"/><add place="inline">Müh</add> An die Serfazius Zu
+                Senten?<lb break="yes"/>Wo ich Müh Einkauft habe Wo<lb break="yes"/>Herr
+                Rehtsanwalt Herrn <surname>T.</surname><lb break="yes"/>Die Königlche wie von Hohen<lb break="yes"/><add place="inline">Herrn</add> Magistradt Stadt Augsburg mih<lb break="yes"/>Zu dusem Reht Als
+                Arbeitsunvehig<lb break="yes"/>In die Serfaziuspfrente Aufgenom<lb break="no"/>en
+                hat 2 Bitte Also die Hohe Tirex<lb break="no"/>zion Keniglih Kreis Ihren Herholu<lb break="no"/>gns Anstalt Kaufbeiern Die Herrn <pb facs="#image_020"/>Die Herrn
+                der Tirexzion mih<lb break="yes"/>Aus der Anstalt Zu Entlasen, u<lb break="yes"/>nah Augsburg. Zu Ihres Gutigen<lb break="yes"/>Anerkenes Wohlwohlen In<lb break="yes"/>die Serfazius Zu Senten, Wo<lb break="yes"/>Also Der Obige Joseph
+                    <surname>B.</surname><lb break="yes"/>Nohmahl Untertenigst Gehors<lb break="no"/>amst Ihres Treies Herz
+                An mir<lb break="yes"/>Zu <w>Anerkenen</w><w>laßen</w> 2 Mih<lb break="yes"/>Wüter An die
+                Serfaziuspfrüte<lb break="yes"/>nach Augsburg Kom̄en Zu<lb break="yes"/>Laßen! Wo Ih seit <hi rendition="#i">XV</hi>
+<del>V</del><lb break="yes"/>Iulli 1908 Hier In der Kreis u<lb break="yes"/>Königlihe Iren
+                Anstalt biß Heite<lb break="yes"/>noh <hi rendition="#i">XVI IIII</hi> 1909<lb break="yes"/>Bitte Gehorsamst Untertehnigst<lb break="yes"/><seg ana="#signed"><hi rendition="#c">Joseph <surname>B.</surname></hi></seg><lb break="yes"/>Zur Zeit Unter Erzlihe Unter<lb break="no"/>suchung K A
+                    Kaufbeiern</p><pb facs="#image_021"/><p>
+<hi rendition="#r">A d</hi><lb break="yes"/>Königlihe Kreiß Irren Herhohlung<lb break="yes"/>Unt Tirexztzion
+                Der Anstalt<lb break="yes"/><hi rendition="#r">Kaufbeiern</hi></p>
+<p><add hand="arzt"><hi rendition="#i"><hi rendition="#u">Böswald</hi></hi></add></p>
+</body>
+</text>
+</TEI>

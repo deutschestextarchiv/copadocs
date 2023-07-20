@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2936s34" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Urban <surname>S.</surname></persName>
+<date type="sent">26.11.1926</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: <!--Vorname-->
+<surname>P.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2936s">
+<persName>
+<forename>Urban</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1872"/>
+<death when="1927"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Lentin, Ingolstadt</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Schneider</p>
+<p>Anstalt: <date from="1922" to="1927">1922-27</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>erregb. Psychopathie, Hypomanie, Beeinträchtigungs- und Verfolgungswahn (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>offizieller Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> (angebliche) Abschrift eines Briefes eines anderen Patienten, in dem er das
+                    Klinikpersonal beschimpft. Dieser Patient habe angeblich 29 Vorstrafen, betont
+                    der Schreiber in einem Zusatz. </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2936s34a.jpg" xml:id="image_145"/>
+<graphic mimeType="image/jpg" url="kfb2936s34b.jpg" xml:id="image_146"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_145"/>
+<opener>
+<dateline>Kaufbeuern den 5 Juli 26</dateline>
+<salute>An D. <surname>P.</surname>!</salute>
+</opener>
+<p><add place="top">Abschrift.</add><lb break="yes"/>Durch Zufall erfuhr ich, daß Sie wegen meiner Flucht, aus der<lb break="yes"/>Heilanstalt <hi rendition="#u">2</hi> Pflegern, die Schuld geben.
+                Ich kan̄ Ihnen<lb break="yes"/>nur sagen, wie H. D.
+                    <surname>E.</surname> von Kaufbeuern hier. Daß<lb break="yes"/>Sie ein
+                    <seg ana="#curse">Idiot</seg> sind, im vollsten Sin̄e des Wortes, Sie
+                sind<lb break="yes"/>dafür zur Genüge bekan̄t, und ihre Gesellschaft, von
+                der Re<lb break="no"/>gierung paßen zusamen. Daß weitere brauche ich Ihnen<lb break="yes"/>nicht sagen. <add place="above">Und</add> daß Sie jeder Patient,
+                der noch ein wenig<lb break="yes"/>Vernunft hat, für einen ganz gemeinen Schwindler<lb break="yes"/>und Betrüger betrachtet, ich wünsche nur, daß bald das ein<lb break="no"/>treffen wird, was Ihnen durch die Patienten verschworen<lb break="yes"/>ist, sobald sich die Gelegenheit bietet, <del>S</del>sich von einer
+                solchen<lb break="yes"/>Massenmörderbande und Schwindler aufräumen, zu laßen<lb break="yes"/>und zu befreien. "Der H. <surname>B.</surname> hat
+                <del>R</del>recht gehabt,<lb break="yes"/>eine solche verschworen und verstohlene,
+                wie die<lb break="yes"/>Direcktion hier ist, findet man nicht leicht. Ich werde<lb break="yes"/>die Zustände, sobald ich im Gefängniße bin, an das<lb break="yes"/>Staatsministerium genau alles mitteihlen.<lb break="yes"/>Und sollten es die
+                Patienten nicht ausführen könen, so<lb break="yes"/>werde ich mich nach meiner
+                Entlaßung aus dem<lb break="yes"/>Gefängniße, draußen im Parkte unterhalten unter<lb break="yes"/><hi rendition="#r"><hi rendition="#u">vier Augen</hi></hi><pb facs="#image_146"/> den ich habe die − Jahre und die 2 Monate und daß 2
+                    <hi rendition="#i">X</hi><lb break="yes"/>ohne Grund in der Zelle jedesmal, nicht vergeßen<lb break="yes"/>Ich habe es verschworren, daß es mir egal ist, ob ich<lb break="yes"/>eingespert werde, jedenfalls ist es für ihre Mitschinder<lb break="yes"/>Diebe und Betrüger, gegenüber der Patienten eine Warn<lb break="no"/>ung. Im übrigen habe ich Sie schon in Augsburg<lb break="yes"/>bei verschiedenen
+                Personen ken̄zeichnet, und geben<lb break="yes"/>mir alle vollständig recht.
+                Den der Krug, geht<lb break="yes"/>solange zum Brun̄en, bis er bricht, und die zwei<lb break="yes"/>paar Stiefel wurden mir aus meiner Zelle<lb break="yes"/>gestohlen.<lb break="yes"/><hi rendition="#c"><seg ana="#signed"><surname><hi rendition="#u">G.</hi></surname></seg></hi></p> <milestone rendition="#hr" unit="section"/> <p><surname>G.</surname> hat bis jetzt <hi rendition="#u">29. </hi>Vorstrafen und war schon<lb break="yes"/>17. <hi rendition="#i">X</hi> im Irrenhause</p> <p><add hand="arzt"><surname><hi rendition="#i">S.</hi></surname> 26.<hi rendition="#i">XI</hi>.26</add></p>
+</body>
+</text>
+</TEI>

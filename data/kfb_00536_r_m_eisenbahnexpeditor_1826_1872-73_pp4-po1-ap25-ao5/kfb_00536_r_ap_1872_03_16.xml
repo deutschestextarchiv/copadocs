@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb536r01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sohn: Joseph ("Peppi") <surname>R.</surname></persName>
+<date type="sent">16.03.1872</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: Josef <surname>R.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb536r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1873"/>
+<occupation>Eisenbahnexpeditor, Zuchthaussträfling</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Simmerberg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1872" to="1873">1872-73</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Melancholie (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="sohn"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   gratuliert zum Namenstag und berichtet über baldige Hochzeit eines Bekannten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb536r01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb536r01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg</hi> 16. <hi rendition="#i">März</hi> 1872.</hi></dateline>
+<salute><hi rendition="#c">Lieber Vater!</hi></salute>
+</opener>
+<p>Zu Deinem <hi rendition="#i">N</hi>amensfeste am kom̄enden<lb break="yes"/>Dienstag bringe ich Dir unser Aller<lb break="yes"/>aufrichtigste Glückwünsche
+                dar, &amp;<lb break="yes"/>hoffen wir Alle, daß die Zeit nicht<lb break="yes"/>ausbleiben wird, wo wir wieder<lb break="yes"/>vereint diesen Tag feiern
+                kön̄en. </p><p><space/> Herr <surname><hi rendition="#i">R.</hi></surname>, der gestern bei<lb break="yes"/>uns war läßt Dich auch grüßen,<lb break="yes"/>&amp; gratulirt Dir; derselbe wird<lb break="yes"/>wahrscheinlich bald heirathen, &amp; zwar<lb break="yes"/>ein
+                Freifräulein mit fl 10,000,<lb break="yes"/>welche er in <hi rendition="#i">Füssen </hi>
+<w>ken̄en gelernt</w><lb break="yes"/>hat. Es handelt sich aber noch um<lb break="yes"/>die Herausgabe
+                des Vermögens,<lb break="yes"/>respektive darum, daß sie gleich<lb break="yes"/>fl
+                l6000. <unclear>n</unclear> mitbekom̄t, anders <pb facs="#image_002"/>nim̄t er sie nicht. <hi rendition="#i">B</hi>ei Dir<lb break="yes"/>in <hi rendition="#i">Franken</hi> scheint es nicht recht<lb break="yes"/>geheuer zu
+                sein, hast Du nicht auch<lb break="yes"/>schon einen Erdstoß verspürt?<lb break="yes"/>Der Teufel werd' mehr klug<lb break="yes"/><w>heut'<del><unclear>e</unclear></del> zu Tag</w> die ganze Welt<lb break="yes"/>ist verkehrt, wann hat man<lb break="yes"/>je einmal gehört, daß
+                in<lb break="yes"/><hi rendition="#i">Bayern</hi>, überhaupt in Deutschland<lb break="yes"/>E<hi rendition="#u">rdbeb</hi>en vorgekom̄en sind,<lb break="yes"/>und gar so, wie sie in<lb break="yes"/>neuester Zeit in <hi rendition="#i">Franken</hi> &amp;<lb break="yes"/><hi rendition="#i">Heßen</hi> stattfanden. </p> <p><space/><hi rendition="#i"> N</hi>un von mir aus geht<lb break="yes"/>Alles drunter &amp;
+                drüber, mir<lb break="yes"/>ist's wurst!<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Herzl. Gruß!</seg></hi><lb break="yes"/><hi rendition="#r">Dein<lb break="yes"/><seg ana="#signed"><hi rendition="#i"><hi rendition="#u">Peppi</hi></hi></seg></hi></p>
+</body>
+</text>
+</TEI>

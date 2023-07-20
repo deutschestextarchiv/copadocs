@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb560b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>560</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>B.</surname></persName>
+<date type="sent">19.06.1854</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb560b">
+<persName>
+<forename>Georg</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1820"/>
+<death when="1873"/>
+<occupation>Bierbrauerssohn</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bierbrauer</p>
+<p>Anstalt: <date from="1854" to="1873">1854-1873</date></p>
+<p>Brieftypen: pp, po, ao </p>
+</state>
+<trait>
+<p>Wahnvorstellungen (1854)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient bittet um Kleidung. Weiter bewertet er die Anstalt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb560b02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb560b02b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#c">Irrsee bey Kaufbeuren den<lb break="yes"/>19ten Juny 1854.</hi></dateline>
+<salute>Geehrte Ei Eltern!</salute>
+</opener>
+<p>Gott sey Dank, befinde ich mich in<lb break="yes"/>guter Geistes und Körper
+                    Gesundheit,<lb break="yes"/>in der Königli <w>Irren Anstalt</w> zu Irrsee.<lb break="yes"/>Ich bitte Sie mir <w>Kleidungs Stüke</w> zu<lb break="yes"/>schiken, als einen Uniform, in dem mir<lb break="yes"/>durch Erinnerung bewußt
+                ist, das Sie ein<lb break="no"/>nen Uniform, für mich haben, weil Sie<lb break="yes"/>es mir selbst schon erzählten (vom Herrn<lb break="yes"/>Infanterie v. <surname>S.</surname> Oberst erhalten)<lb break="yes"/>Auch bin ich Entlschloßen, auf ein Gen̄e<lb break="no"/>sium zu gehn, um
+                Ausbildung einiger<lb break="yes"/>Kentniße zu bekomen, und dan auch<lb break="yes"/>damit das Exazieren zu erlernen<lb break="yes"/>Was die <add place="above">Königl.</add>
+<w>Irren Anstalt</w> in Irrsee<lb break="yes"/>betrifft, so kan ich, so wie jeder,<lb break="yes"/>der sich in dieser Anstalt befindet,<lb break="yes"/>das
+                Zeugniß geben,<lb break="yes"/>"Sehr Zufrieden in Allem, mit der<lb break="yes"/><w>Irren Anstalt</w> zu sein,, und ich </p>
+<pb facs="#image_006"/>
+<p> glaube, durch dieses Lob der Anstalt,<lb break="yes"/>seyn die Verläumdungen, die
+                über<lb break="yes"/>diese <w>Irren Anstalt</w> ergehn gerecht<lb break="no"/>fertig.<lb break="yes"/>Ich schließe dieses Schreiben, mit dem<lb break="yes"/>Wunsche,
+                bis Samstag den 24<add place="above">ten</add> M.<lb break="yes"/>Juny in Augsburg
+                einzutreffen.<lb break="yes"/><hi rendition="#c"><seg ana="#salute"><surname>B.</surname> Georg. Johan</seg><lb break="yes"/>K. H. P. Georg Johan̄<lb break="yes"/>zu <hi rendition="#u">Braß</hi>ielien.</hi></p>
+</body>
+</text>
+</TEI>

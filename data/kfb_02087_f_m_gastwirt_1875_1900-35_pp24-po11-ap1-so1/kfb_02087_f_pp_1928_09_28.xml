@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2087f28" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2087</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>F.</surname></persName>
+<date type="sent">28.09.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Nachbar: Michael <surname>M.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2087f">
+<persName>
+<forename>Ludwig</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1935"/>
+<occupation>Gastwirt, Landwirt</occupation>
+<residence><geo decls="#WGS">47.6283377 9.9102676</geo>Heimenkirch, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Gastwirt</p>
+<p>Anstalt: <date from="1900" to="1935">1900-1935</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Manie (1930), Ideenflucht, Größenwahn (1900-35), Halluzination (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber überbringt seinem Nachbarn Glückwünsche zu dessen Namenstag.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2087f28a.jpg" xml:id="image_084"/>
+<graphic mimeType="image/jpg" url="kfb2087f28b.jpg" xml:id="image_085"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_084"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Kaufbeuern den 28. Sept</hi>.
+                        1928.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Lieber Nachbar</hi>!</hi></salute>
+</opener>
+<p> <hi rendition="#c">Zu <hi rendition="#i">Eurem Namensfeste</hi>, entbiete ich <hi rendition="#i">Euch</hi>,<lb break="yes"/>meine besten Glückwünsche. Möge der liebe<lb break="yes"/>Gott <hi rendition="#i">Ihnen</hi>, noch viele Jahre, in guter
+                    Gesundheit<lb break="yes"/>und Zufriedenheit, im <hi rendition="#i">Kreise</hi>
+                der lieben <hi rendition="#i">Familie</hi><lb break="yes"/>bescheeren.</hi></p>
+<p><hi rendition="#r"><seg ana="#salute">In bester Gesundheit Gleiches gerne<lb break="yes"/>von der
+                    <w>ganz en</w>
+<hi rendition="#i">Familie</hi> bei <hi rendition="#i">Euch</hi> hoffend<lb break="yes"/>begrüße <hi rendition="#i">Alle</hi> auf <hi rendition="#i">Wiedersehen</hi><lb break="yes"/><hi rendition="#i">hoff.</hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Ludwig <surname>F.</surname></hi></seg>.</hi></p>
+<p>Herrn <hi rendition="#i">Zimermeister Michel <surname>M.</surname> Heimenkirch.</hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Berg. Allgäu</hi>.</hi></p>
+<pb facs="#image_085"/>
+<p><add hand="arzt" place="top"><hi rendition="#r"><surname><hi rendition="#i">F.</hi></surname><hi rendition="#i"> L</hi>. I</hi></add>
+</p>
+<p>Herrn<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Michael </hi><hi rendition="#i"><hi rendition="#u"><surname>M.</surname></hi></hi><lb break="yes"/><hi rendition="#i"><hi rendition="#u">Heimenkirch - Berg</hi></hi><lb break="yes"/>(Allgäu)</hi><lb break="yes"/><hi rendition="#u">fr</hi></p>
+</body>
+</text>
+</TEI>

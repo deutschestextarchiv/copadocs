@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1480g19" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1480</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>G.</surname></persName>
+<date type="sent">28.02.1896</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Nördlingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1480g">
+<persName>
+<forename>Karl</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1911"/>
+<occupation>Handlungskommissar</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1891" to="1911">1891-1911</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>[Epilepsie] (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vetter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Vetter berichtet Arzt, dass der Patient zwar verheiratet ist, seine Frau sich aber ein Jahr nach Eheschließung von ihm getrennt hatte,
+                    da er wegen seiner Krankheit kein Geld mehr verdienen konnte
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1480g19a.jpg" xml:id="image_043"/>
+<graphic mimeType="image/jpg" url="kfb1480g19b.jpg" xml:id="image_044"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_043"/>
+<opener>
+<dateline><hi rendition="#r">Nördlingen den 28<hi rendition="#sup">ten</hi> Feb 1896.</hi></dateline>
+<salute><hi rendition="#c">Geehrtester Herr Oberartzt</hi></salute>
+</opener>
+<p> Ich bin genötigt Ihnen mitteilen<lb break="yes"/>wie es sich mit meinem Vetter<lb break="yes"/>Karl steht. Nähmlich ich hätte<lb break="yes"/>geglaubt, daß vom
+                    hiesigen<lb break="yes"/>Magistrat eine Königliche Anstalt<lb break="yes"/>in
+                Kentniß <w>ge setzt</w> wird<lb break="yes"/>ob der <w>Kran ke</w> verheiratet<lb break="yes"/>oder ledig ist.
+                Mein Vetter<lb break="yes"/>Carl ist verheiratet und<lb break="yes"/>Beide haben
+                sogar über Jahr<lb break="yes"/>miteinander gelebt!<lb break="yes"/>Seine Frau hat
+                sich dann getrent<lb break="yes"/>Von Ihm wegen seiner Krank<lb break="no"/>heit
+                weil er nichts mer ver<lb break="no"/>dienen konte. <pb facs="#image_044"/> Es ist
+                jetzt fünf Jahre daß<lb break="yes"/>er sich verheiratete und dieß<lb break="yes"/>Person hat noch nie was von<lb break="yes"/>Ihm wissen wollen so mußte<lb break="yes"/>sich seine Mutter um Ihn annehmen<lb break="yes"/>Jezt wissen sei
+                    alles<lb break="yes"/>herr Obera<add place="above">r</add>zt wie es sich<lb break="yes"/>mit meinem Vetter verhält.</p>
+<p><hi rendition="#c"><seg ana="#salute">Hochachtungvoll</seg></hi></p>
+<p><hi rendition="#c"><seg ana="#signed">Heinrich <surname>G.</surname></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

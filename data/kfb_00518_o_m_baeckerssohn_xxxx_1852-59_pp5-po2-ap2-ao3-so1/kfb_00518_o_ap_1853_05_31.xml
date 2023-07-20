@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb518o13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>518</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>O.</surname></persName>
+<date type="sent">31.05.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Franz <surname>O.</surname></persName>
+<settlement type="sent">Mering</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb518o">
+<persName>
+<forename>Franz</forename>
+<surname>O.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Bäckerssohn</occupation>
+<residence><geo decls="#WGS">48.2667 10.9833</geo>Mering, Friedberg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bäcker</p>
+<p>Anstalt: <date from="1853" to="1859">1853-59</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Kaufs- und Spekulationsmanie, Geistesverwirrung (1858-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    ihm geht es gesundheitlich gut; kommt mit der Mutter nicht klar; 
+                    finanzielle Aufstellung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb518o13a.jpg" xml:id="image_032"/>
+<graphic mimeType="image/jpg" url="kfb518o13b.jpg" xml:id="image_033"/>
+<graphic mimeType="image/jpg" url="kfb518o13c.jpg" xml:id="image_034"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_032"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i"><unclear>Mering</unclear> 31<hi rendition="#sup">te</hi> Mai</hi> 1853.</hi></dateline>
+<salute><hi rendition="#c">Geehrter Herr Bruder!!</hi></salute>
+</opener>
+<p>Ich muß Dir zu wissen machen, daß<lb break="yes"/>es mir gut gehe in Mering mit
+                der<lb break="yes"/>Gesundheit, bloß daß ich mit meiner<lb break="yes"/>Mutter
+                nicht gut auskom̄e, den̄<lb break="yes"/>warum weil ich es jetzt
+                selbst sehen<lb break="yes"/>muß, was meine Hände wirken<lb break="yes"/>kön̄en, weil Sie im̄er sagte, du<lb break="yes"/>verdirbst in einem
+                Jahre, gut nicht<lb break="yes"/>war, und Ihr auch recht ist zum<lb break="yes"/>übergeben. Ich bin schon im königlichen<lb break="yes"/>Rentamt gewesen, und habe
+                angefragt,<lb break="yes"/>wen̄ ich kom̄en darf, so hat man mir<lb break="yes"/>geantwortet, jeden Montag, ich <pb facs="#image_033"/> muß Ihnen
+                    <unclear>ansagen</unclear>, wie viel<lb break="yes"/>Geld als Sie <w>mit nehmen</w> müssen<lb break="yes"/>daß Sie nicht
+                umsonst da sind.<lb break="yes"/>Der Herr <surname>H.</surname>, suchte nach
+                und<lb break="yes"/>sagte 400 fl und 100 fl im Landgericht<lb break="yes"/>Also
+                mit die andere bin ich schon<lb break="yes"/>fertig die Mari bekom̄t 4000 fl<lb break="yes"/>Der Johan̄ 3000 fl der kleine 3000 fl<lb break="yes"/>die Mutter 2000 fl zusam̄en<lb break="yes"/>12,000 fl und jetzt ersuche
+                ich Dich<lb break="yes"/>was Du verlangst, den Du<lb break="yes"/>darfst nicht
+                kom̄en, wen̄ Du<lb break="yes"/>nicht willst; Du kanst
+                    <w>schon</w><w>schreiben</w><lb break="yes"/>es ist gleich viel, also schreibe<lb break="yes"/>bald, Du
+                kan̄st schon den Herren<lb break="yes"/>Käm̄erer schreiben ob er
+                fehig<lb break="yes"/>ist oder nicht, und auch den Herren <pb facs="#image_034"/>
+<hi rendition="#i">Doktor</hi>, ob die Krankheit zuläßt<lb break="yes"/>oder nicht.
+                Ich wünsche mir um<lb break="yes"/>eine baldige Antwort, und ver<lb break="no"/>schleunige Dich nicht. <seg ana="#salute">Ich schlüsse<lb break="yes"/>mein
+                    Schreiben in vielen<lb break="yes"/>grüssen und verbleibe<lb break="yes"/>mit
+                    Achtung </seg><lb break="yes"/><seg ana="#signed"><hi rendition="#c">Dein</hi><lb break="yes"/><hi rendition="#r"><w>liebender</w><w>Bruder</w><lb break="yes"/>Fr: <hi rendition="#i">Joseph <surname>O.</surname><lb break="yes"/>Baeckermeister</hi></hi></seg></p>
+</body>
+</text>
+</TEI>

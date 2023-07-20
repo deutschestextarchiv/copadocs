@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3m01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>M.</surname></persName>
+<date type="sent">1850_04_19</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb3m">
+<persName>
+<forename>Johanna</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1815"/>
+<death cert="unknown"/>
+<occupation>Optikertochter</occupation>
+<residence><geo decls="#WGS">49.5928616 11.0056</geo>Erlangen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Optiker</p>
+<p>Anstalt: <date from="1850" to="1850">1850</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Melancholie, Seelenstörung (1850)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> niedergeschlagen, denkt an Selbstmord, Abschiedsbrief, Familie soll an
+                    glückliche Vergangenheit denken; Schluss: Bitte an Dr. Hagen, Brief an Familie
+                    zu senden </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3m01a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb3m01a1.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb3m01a2.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb3m01b.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb3m01b1.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 19 April <hi rendition="#u">1850</hi></hi></dateline>
+<salute><hi rendition="#c">Theuerer Bruder!</hi></salute>
+</opener>
+<p> Der Vorschlag des Herrn Dkt Herz welcher sich in eine<lb break="yes"/>Traum von
+                Dir verwandelte ist leider für mich sehr<lb break="yes"/>unglücklich ausgefallen und ist statt zur Beruhigung<lb break="yes"/>für mich abermals zu neuen Vorwürfen und Reue.<lb break="yes"/>Nur eine kurze Beschriebung wie man hier lebt.<lb break="yes"/><seg ana="#inst">Ich bin ietzt seit drei Tagen hier und noch nicht
+                    in<lb break="yes"/>die Luft gekom̄en alle Fenster sind vernagelt keine<lb break="yes"/>Thüre offen, des morgens steht man um sechs Uhr<lb break="yes"/>auf um sich hinzusetzen und Gedanken zu machen</seg><lb break="yes"/>in einer Umgebung von lauter Schwermüthigen<lb break="yes"/>und <seg ana="#med">tollen</seg> Leuten wo keins eine Silbe redet,<lb break="yes"/><seg ana="#inst">es sind Menschen da von deren Ansehen ich
+                    schon<lb break="yes"/>zittre</seg> dieser Schritt war noch der tollste unter<lb break="yes"/>allen die in der Zeit gemacht wurden, ich habe drei<lb break="yes"/>Nächte verbracht wo ich nicht eine Minute schlief,<lb break="yes"/><del>hier bin ich genöthigt</del> diese vier Tage haben mich auf<lb break="yes"/>6 Wochen zurückgebracht urtheilt nun was da zu<lb break="yes"/>thun ist ich kom̄e von einen Unglück in das andere.<lb break="yes"/>Hätten wir doch erst an eine der Wärterinen<lb break="yes"/>geschrieben und uns erkundigt ehe ich her wär, eine<lb break="yes"/>Parthei nach
+                Muggendorf oder sonst aufs Land wäre<lb break="yes"/>mir gewiß zuträglicher
+                gewesen. Ich bin in der größten<lb break="yes"/>Verzweiflung
+<del>soll ich</del> ich warte nun noch ab was Ihr beschließt </p>
+<p>
+<add place="margin">muß ich länger hier bleiben so werde ich im̄er noch schwermüthiger darf ich mir<lb break="yes"/>das Leben nehmen so ist es mir ganz recht in der <seg ana="#inst">Irrenanstalt</seg> so heißt es es ist in Mahnheim geschehen,
+                        <seg ana="#salute">lebe wohl Deine Schwester</seg><lb break="yes"/><seg ana="#signed">Johanna <surname>M.</surname></seg></add>
+</p>
+<pb facs="#image_006"/>
+<p> Wenn ich zum Dkt Hagen sage ich will fort so lacht er mich aus <seg ana="#med">ich<lb break="yes"/>müßte erst eine Kur brauchen</seg>, die müßtet sagen du
+                kannst<lb break="yes"/>mich nicht länger da lassen und müßtet selber kom̄en
+                    <w>ausser<lb break="no"/>dem</w> darf ich nicht fort. Die Frau Posthalterin ist
+                so hergestellt,<lb break="yes"/>das sie selber sagt wenn sie sterbet wär es das
+                beste für<lb break="yes"/>sie sie taugt zu nichts mehr. Wenn ich länger da bleiben<lb break="yes"/>soll so dürfst Du nur an <surname>R.</surname> den Brief
+                adresiren.<lb break="yes"/>Dann seht Ihr mich <del>aber</del> nicht mehr. <seg ana="#cens">Neulich fragte ich<lb break="yes"/>ob ich schreiben dürfte so hieß
+                    ich müßte schreiben das es<lb break="yes"/>mir recht wohl gefiele die Wahrheit
+                    dürfte ich nicht schreiben.</seg>
+</p>
+<pb facs="#image_007"/>
+<p>
+<hi rendition="#c">An<lb break="yes"/>Herrn Opticus Merz<lb break="yes"/>in<lb break="yes"/><hi rendition="#u">Erlangen</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

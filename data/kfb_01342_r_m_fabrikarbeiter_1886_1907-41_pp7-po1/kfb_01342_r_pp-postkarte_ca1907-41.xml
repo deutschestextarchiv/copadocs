@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1342r08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1342</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>R.</surname></persName>
+<date type="sent">ca. 1907-1941</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: Anton <surname>B.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1342r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1886"/>
+<death cert="unknown"/>
+<occupation>Fabrikarbeiter</occupation>
+<residence><geo decls="#WGS">48.3940498 10.879888</geo>Oberhausen, Augsburg, Neu-Ulm</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Tagelöhner</p>
+<p>Anstalt: <date from="1907" to="1941">1907-1941</date></p>
+<p>Brieftypen: pp, po Lebenslauf</p>
+</state>
+<trait><p>Angeborener Schwachsinn (1907)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief (Postkarte)</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    2 Monate in Pflegeanstalt, Ist jetzt in Irsee im Krankeinhaus, Liste von Dingen, die er geschickt haben möchte
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1342r08a.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="kfb1342r08b.jpg" xml:id="image_027"/>
+<graphic mimeType="image/jpg" url="kfb1342r08ce.jpg" xml:id="image_028"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_026"/>
+<opener>
+<salute><hi rendition="#c">Liebe Eltern!</hi><lb break="yes"/></salute>
+</opener>
+<p>
+
+Ich teile Ihne mit, daß ich 2 Mo<lb break="no"/>nat in Heil- u. Pleger-Anstalt.<lb break="yes"/>Und jetzt bin ich nach Irrsee<lb break="yes"/>gefahren. Im Krankenhaus<lb break="yes"/>bin ich jetzt drin.<lb break="yes"/>ergeben ich zu<lb break="yes"/><seg ana="#signed"><hi rendition="#c">Dein</hi><lb break="yes"/><hi rendition="#r">treuer Freund<lb break="yes"/><hi rendition="#i">Josef. <surname>R.</surname>.</hi></hi></seg>
+</p>
+<pb facs="#image_027"/>
+<p>
+<seg ana="#salute">Schöner Gruß von Pepi</seg><lb break="yes"/>soll mir
+                    Meßbüchlein<lb break="yes"/>bringen. Und ein Notiz<lb break="no"/>buch soll u.
+                1 Bleistift<lb break="yes"/>u. Federhalter, u Brief<lb break="no"/>Paket. Zu mir
+                    schicken,<lb break="yes"/>Und Mundharonika<lb break="yes"/>u. Liederbuch, soll
+                    Mier<lb break="yes"/>in Buchbinder kaufe<lb break="yes"/>Daß ich auch was
+                    hab<lb break="yes"/>zum Spiele. </p>
+<pb facs="#image_028"/>
+<p> An Herrn Anton <surname>B.</surname><lb break="yes"/>in Oberhausen in der<lb break="yes"/>Färberstraße 2<lb break="yes"/>hintern in Gärtner<lb break="no"/>Schmid. </p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb936g11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Pius <surname>G.</surname></persName>
+<date type="sent">xx.04.1894</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: <surname>J.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb936g">
+<persName>
+<forename>Pius</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1901"/>
+<occupation>Schneider</occupation>
+<residence><geo decls="#WGS">48.570171 10.590197622123007</geo>Kicklingen, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1883" to="1901">1883-1901</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Halluzinationen, Größenwahn, Verfolgungswahn (1883)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet Arzt Julius darum, Schneidertätigkeiten ausführen zu dürfen und dafür seine Sachen zu verwenden.
+                    Julius soll seine Macht nutzen, den Menschen zu helfen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb936g11a.jpg" xml:id="image_067"/>
+<graphic mimeType="image/jpg" url="kfb936g11b.jpg" xml:id="image_068"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_067"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#i">April</hi> 1894</add></dateline>
+<salute><hi rendition="#c">herr Oberarzt Julius</hi><lb break="yes"/></salute>
+</opener>
+<p>
+<space/> Ich weiß nicht was ich über dieses <add place="above">Vorgehen</add> sagen<lb break="yes"/>noch denken soll! Ich hätte geglaubt diese heillose<lb break="yes"/>Wirthschaft müßte Ihnen selbst zum Ekel werden<lb break="yes"/>Ich verlangte meine Sachen, welche ich selbstverständlich<lb break="yes"/>haben muß
+                wenn ich etwas Arbeiten will, u. ohne<lb break="yes"/>Arbeit weiß ich nicht zu
+                Leben, Jetzt aber machen<lb break="yes"/>Sie es wieder wie es geschehen ist, wie
+                Sie mich von<lb break="yes"/><hi rendition="#i">A</hi>. nach <hi rendition="#i">B</hi>. <del>hinut</del> hinunter,
+                werfen liesen, und ich<lb break="yes"/>euren Hund wieder machen mußte, bis ich
+                jetzt wieder<lb break="yes"/>euren Zuchthausstäfling zu machen habe.</p><p> Sie hören die Worte nicht gern, Gut so helfen<lb break="yes"/>dieser Sache ab. Und habe kein
+                Recht mehr dieses<lb break="yes"/>zu sagen oder zu schreiben.
+                    <unclear>weßhalb</unclear> bekom̄e ich<lb break="yes"/>meine Sachen
+                nicht? Und warum laßt ihr<lb break="yes"/>mich nicht bei meiner Beschäftigung? Ich
+                    setze<lb break="yes"/>den Fall ich könnte mich nicht so beherrschen,<lb break="yes"/>u. würde meiner gequälten Seele, luft machen<lb break="yes"/>so
+                frage ich Sie sind <add place="above">das</add> Beruhigungsmittel welche<lb break="yes"/>ihr anwendet! Ich glaube es nicht, Wieder wäre<lb break="yes"/>jetzt Gelegenheit, eurer Vergehen <del>in</del> etwas<lb break="yes"/>zu sühnen,
+                der Mak. u. der Schneider haben<lb break="yes"/>einen Stoff geschickt
+                bekom̄en, Sie würden<lb break="yes"/>mir die Arbeit zukom̄en lassen,
+                    <del>S</del> wenn<lb break="yes"/>es ihnen erlaubt würde, daß ich sie machen<lb break="yes"/>darf, herr Iulius, ihre Hände sind ganz frei<lb break="yes"/>soviel ich <w>wahr nehme</w>, um die Menschen zu quälen<lb break="yes"/>So machen <add place="above">Sie</add> ihre Hände frei um ihnen
+                    gutes<lb break="yes"/>zu thun <add place="below">Und</add> fangen Sie gleich
+                bei mir an. <hi rendition="#i">P. <seg ana="#signed"><surname>G.</surname></seg></hi>
+</p>
+<pb facs="#image_068"/>
+<p><seg ana="#pic">Konstruktionszeichnungen</seg></p>
+</body>
+</text>
+</TEI>

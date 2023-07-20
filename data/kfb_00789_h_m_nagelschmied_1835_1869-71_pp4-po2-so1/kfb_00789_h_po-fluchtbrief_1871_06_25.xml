@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb789h03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>789</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>H.</surname></persName>
+<date type="sent">25.06.1871</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>T.</surname></persName>
+<settlement type="sent">Irrsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb789h">
+<persName>
+<forename>Johann</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1835"/>
+<death cert="unknown"/>
+<occupation>Nagelschmied</occupation>
+<residence><geo decls="#WGS">47.486197 10.2845713</geo>Altstätten, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Siebmacher</p>
+<p>Anstalt: <date from="1869" to="1871">1869-71</date></p>
+<p>Brieftypen: pp, po, Prophezeiung</p>
+</state>
+<trait><p>Religiöse Skrupel, Größenwahn, Verfolgungswahn (1869)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er kündigt seine Flucht aus der Anstalt und sein Wiederkommen nach wenigen Tagen an, was laut Anmerkung auch so geschehen ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb789h03a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="kfb789h03b.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#r">Kimlalt 34 den 25 1871</hi><lb break="yes"/><add hand="arzt">Pl
+                        26 Juni 71</add></dateline>
+<salute><hi rendition="#r">Wärtester Her T.</hi></salute>
+</opener>
+<p> Iich habe sie in Kentniß<lb break="yes"/>zu zetzen das ich auf zwei<lb break="yes"/>Tage
+                nach Haus gehe mid:<lb break="yes"/>aber gewis wider eintrefen<lb break="yes"/>werde ich habe auch<lb break="yes"/>meine Haube wider<lb break="yes"/>bekomen in
+                    Kimlad<lb break="yes"/>und bite Sie das<lb break="yes"/>ich mein wort halte<lb break="yes"/>Sie haben mir den<lb break="yes"/>Triker abgenomen<lb break="yes"/>aber ein Schmid kan mit<lb break="yes"/>dem Hagen speren <pb facs="#image_014"/><seg ana="#salute">Ich grüsee Sie <w>Hochachtung<lb break="no"/>volst</w></seg>
+<seg ana="#signed">Johann <surname>H.</surname></seg>.<lb break="yes"/><handShift medium="ink" scribe="arzt"/><lb break="yes"/><hi rendition="#u">Aktenvermerkung</hi><lb break="yes"/>Patient
+                    <surname>H.</surname> entfloh am 25 Juni<lb break="yes"/>d. J.
+                Nachmittags, indem er mittelst<lb break="yes"/>eines Hackens die Thüren öffnete.<lb break="yes"/><del>entfloh</del> Heute Morgens ½ 5 Uhr<lb break="yes"/>traf <add place="above">er</add> wieder dahir ein u. war<lb break="yes"/>bereits in̄erhalb des
+                Hauses, als<lb break="yes"/>ihn der die Morgenglocke läutende<lb break="yes"/>Portier wahrnahm. <surname>H.</surname> öffnete<lb break="yes"/>wieder
+                die Thüren mittelst Hacken u.<lb break="yes"/>gelangte so ins Haus.<lb break="yes"/>I<hi rendition="#r">rsee am 30. Juni 1871<lb break="yes"/>K. Anstaltsvorstand<lb break="yes"/><unclear>[Unterschrift]</unclear></hi></p>
+</body>
+</text>
+</TEI>

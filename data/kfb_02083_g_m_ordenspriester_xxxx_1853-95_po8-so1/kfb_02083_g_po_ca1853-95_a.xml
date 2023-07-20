@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2083g08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2083</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph Gottlieb <surname>G.</surname></persName>
+<date type="sent">1853-95</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ordensbrüder: <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2083g">
+<persName>
+<forename>Joseph Gottlieb</forename>
+<surname>G.</surname>
+</persName>
+<birth cert="unknown"/>
+<death when="1895"/>
+<occupation>Ordenspriester</occupation>
+<residence><geo decls="#WGS">48.0135066 10.8827171</geo>Pitzling, Landsberg; Lechfeld</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1853" to="1895">1853-1895</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Hochmut, Schwermut (1853-1895), Argwohn, fixe Ideen (1858)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+               Möchte Porzellanwaren bestellen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2083g08.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline/>
+<salute>Wohlgeborener Herr!</salute>
+</opener>
+<p><add place="top">Gelobt sei <hi rendition="#i">Jesus Christus</hi>!</add><lb break="yes"/>Bereits sind einige Jahre verstrichen, seitdem ich die Ehre hatte,
+                Ihr am<lb break="yes"/>lieblichen Mainstrome so friedlich gelegenes Farbikgut zu
+                besehen, und<lb break="yes"/>mich von dessen großartigen wie zweckmässigen
+                Einrichtung persönlich zu<lb break="yes"/>überzeugen. Da nun diese Zeit eine
+                geworden und überdieß die Einkehr<lb break="yes"/>in Ihrem Hause eine sehr
+                frequente ist, so kan̄ ich, obwohl mein Aufenthalt<lb break="yes"/>in jener
+                Gegend von längerer Dauer war und ich oftmals dortselbst den<lb break="yes"/>feierlichen Gottesdient abgehalten habe, dennoch nicht wohlerwarten, daß<lb break="yes"/>Sie Sich meiner noch lebhaft erinnern können; allein im festen
+                Vertrauen<lb break="yes"/>auf Ihre allbekannte Biederkeit trage ich dennoch kein
+                Bedenken, <w>in</w><w>einem</w><lb break="yes"/>kleinen Anliegen zu Eurer Wohlgeboren meine Zuflucht zu nehmen.
+                Selbes<lb break="yes"/>ist der Art, daß Niemand leichter, als Sie, ihm Abhilfe zu
+                schaffen vermögen,<lb break="yes"/>nämlich in unserer hiesigen Haushaltung, die
+                ebenfalls so ziemlich ins Große<lb break="yes"/>geht, geschieht es, wie anderwärts
+                auch manchmal, daß zerbrechliche Dinge zer<lb break="no"/>brochen werden, und da
+                möchte ich denn Euer Wohlgeboren ersuchen, uns<lb break="yes"/>einigen Ersatz an
+                Einsätzen u. Tellern, derer mir täglich bedürftig sind, ge<lb break="no"/>fälligst
+                nachzuliefern - nur einige und nach Ihrem eigenen Fürgutfinden<lb break="yes"/>so
+                also die entstandene Lücke wieder gütigst ergänzen zu helfen. Sie werden<lb break="yes"/>mir, ich bin dessen gewiß, diese Freiheit nicht übelnehmen, sowie
+                auch nicht, wen̄<lb break="yes"/>ich Sie des Weiteren ersuche, mir gelegentlich
+                einige Grüße besorgen<lb break="yes"/>zu wollen: zunächst einen solchen an Ihren
+                Herrn Bruder selber in<lb break="yes"/>Frankenthal, der so manchmal nach
+                vollbrachtem Tagwerk einige <unclear>Musse</unclear><lb break="yes"/>zugebracht, möge es Ihm recht wohl ergehen und sein Mühen allzeit<lb break="yes"/>von Gottes reichen Segen, ohne welchen nichts gedeiht,
+                begleitet sein<lb break="yes"/>Deßgleichen ersuche ich Sie, mir freundlich zu
+                grüssen den </p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1763s12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katrin Schreinemachers</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1763</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>S.</surname></persName>
+<date type="sent">25.03.1903</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1763s">
+<persName>
+<forename>Georg</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1831"/>
+<death when="1916"/>
+<occupation>Mahlknecht</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonomen</p>
+<p>Anstalt: <date from="1863" to="1916">1863-1916</date></p>
+<p>Brieftypen: pp, po </p>
+</state>
+<trait><p>Hypochondrie, (folie raisonnante)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Bürgermeister soll kommen und ihn abholen.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1763s12a.jpg" xml:id="image_126"/>
+<graphic mimeType="image/jpg" url="kfb1763s12b.jpg" xml:id="image_127"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_126"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 25 März 1904.</hi><lb break="yes"/></dateline>
+<salute><hi rendition="#c"> Geehrter Herr Bürgermeister!</hi></salute>
+</opener>
+<p> So viel ich erfahren habe, hat man mich, aus<lb break="yes"/>der Irrenanstalt abhollen wollen.
+                Aber<lb break="yes"/>ich durfte an Sie nichts schreiben, u. ich hab<lb break="yes"/>auch von Ihnen keine Schrift bekom̄en.<lb break="yes"/>Deßhalb hätten
+                Sie zu mir kom̄en kön̄en<lb break="yes"/>um persönhlich zu sprechen.
+                Ich bitte, Sie<lb break="yes"/>möchten sogleich zu mir kom̄en um zu<lb break="yes"/>sprechen. Sie brauchen mich nicht nach<lb break="yes"/>Höchstädt
+                mitnehmen, da ich auf keinen<lb break="yes"/>Fall eine Unterstützung verlang.
+                    Sie<lb break="yes"/>brauchen blos aus dem Haus führen, den̄<lb break="yes"/>von Irsee wegg weiß ich sogleich ein<lb break="yes"/>Geschäft für
+                mich. Sie wißen daß ich<lb break="yes"/>nicht geisteskrank bin, und in der
+                    Anstalt,<lb break="yes"/>u. sonst auch niemand, weißt nicht das<lb break="yes"/>Geringste, wordurch man mich als geistes<lb break="no"/>krank oder
+                gemeingefährlich erklären<lb break="yes"/>kön̄te. Das Weitere kön̄en
+                wier sprechen.<lb break="yes"/>Vieleicht kön̄en Sie mich sogleich mit<lb break="no"/>nehmen. Solten Sie zweifeln, daß es<lb break="yes"/>nichts nützt,
+                ich bezahle Ihnen das <pb facs="#image_127"/> geld ob es etwas oder nichts nützt,
+                    ich<lb break="yes"/>hab 8 Mark bei mir. Sie kön̄en auch<lb break="yes"/>meinen Vormunder schiken, aber beßer<lb break="yes"/>ist es wen̄ Sie
+                selbst kom̄en. Sie kamen<lb break="yes"/>ja auch nach Kaufbeuren, u. bis
+                    Irsee<lb break="yes"/>kön̄en Sie mit der Post fahren.<lb break="yes"/>In der Hoffnung daß ich vor Oster noch<lb break="yes"/>mit Ihnen sprechen
+                kan̄, <seg ana="#salute">grüße ich Sie<lb break="yes"/><hi rendition="#c">freundlich,</hi>
+<seg ana="#signed">Georg <surname>S.</surname></seg>.</seg><lb break="yes"/>Ich bitte, schiken Sie dießen Brief, An<lb break="yes"/>meinen
+                Bürgermeister Herrn<lb break="yes"/>Sebastian Ring in Höchstädt a./D. </p>
+</body>
+</text>
+</TEI>

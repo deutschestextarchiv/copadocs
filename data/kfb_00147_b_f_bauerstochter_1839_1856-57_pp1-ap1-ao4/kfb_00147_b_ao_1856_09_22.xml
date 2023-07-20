@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb147b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>147</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>B.</surname></persName>
+<date type="sent">22.09.1856</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Anstaltsdirektor: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb147b">
+<persName>
+<forename>Genovefa</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1839"/>
+<death cert="unknown"/>
+<occupation>Bauerstochter</occupation>
+<residence><geo decls="#WGS">47.8689152 10.1575869</geo>Kaltbronn, Grönenbach</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bauer, Getreidehändler</p>
+<p>Anstalt: <date from="1856" to="1857">1856-1857</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Geistesstörung</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="verwandter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Ein Verwandter der Patientin erkundigt sich beim Anstaltsdirekor darüber, ob die Patientin zu einer Abholung fähig ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb147b02a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb147b02b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute>Hochverehrtester Herr Direcktor!</salute>
+</opener>
+<p><space/> Wie ich in dem<lb break="yes"/>letzsten Brief vernehmen kon̄te,<lb break="yes"/>ging es bei der Genovefa etwas<lb break="yes"/>besser, da nun die
+                Zeit beinahe<lb break="yes"/>wieder abgelaufen ist, wo ich für<lb break="yes"/>sie
+                bezahlt habe, so ersuche ich Sie<lb break="yes"/>Herr- Direcktors zum zweiten mal<lb break="yes"/>zu schreiben wie es jetzt bei der <pb facs="#image_002"/>Genovefa <unclear>in</unclear>steht ob sie fähig ist zum<lb break="yes"/>abholen
+                oder nicht. hierüber gaben Sie<lb break="yes"/>uns Auskunft. <seg ana="#salute">übrigens Empfehlen<lb break="yes"/>wir uns unterthänigst der Herrn
+                    Direktor</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Xa<del><unclear/></del>ver
+                            <surname>B.</surname></seg></hi></p>
+<p><add hand="arzt">d. 22 <hi rendition="#i">Septbr</hi> 56.<lb break="yes"/>Bei
+                    Genovefa will es leider nicht<lb break="yes"/>besser werden. Wen̄ man
+                    auch <unclear>manchen</unclear><lb break="yes"/>Tag mit ihr zufrieden sein kan̄, so führt sie<lb break="yes"/>dan̄ doch wieder verkehrte Reden, <del>die oft so</del><lb break="yes"/>bei denen sie oft Alles so durcheinander<lb break="yes"/>bringt, daß man <del>gar</del> nicht versteht was<lb break="yes"/>sie will.
+                    Dan̄ lacht sie auch oft laut<lb break="yes"/>&amp; ohne Grund, manchmal
+                    sogar, <unclear>während</unclear><lb break="yes"/>man ihr ernsthaft zuspricht, daß sie sich doch <unclear>zus<lb break="no"/>nehm</unclear> solle. Sie verlangt öfters nach Hause,<lb break="yes"/>will aber nicht einsehen, daß sie erst anders<lb break="yes"/>werden müsse. Ich halte <unclear>ueber</unclear> diesen Umstande<lb break="yes"/>ihr Abholen
+                    noch nicht u <del>derZt</del> für <unclear>ertschen</unclear></add></p>
+</body>
+</text>
+</TEI>

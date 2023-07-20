@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1766w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1766</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Martin <surname>W.</surname></persName>
+<date type="sent">09.04.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor/Oberarzt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1766w">
+<persName>
+<forename>Martin</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1853"/>
+<death when="1916"/>
+<occupation>Taglöhner</occupation>
+<residence><geo decls="#WGS">48.6303725 11.0995944</geo>Schönesberg, Neuburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Wirt</p>
+<p>Anstalt: <date from="1905" to="1916">1905-16</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Epileptisches Irresein, sekundärer Schwachsinn (1905)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    in seinem Namen soll man an Bank scheiben, ob noch Erbgut von mehreren Millionen dort sind, damit er Gemeindeschulden zahlen kann
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1766w04a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb1766w04b.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline>Ihrseh am 9<hi rendition="#sup"><hi rendition="#u">t</hi></hi> April 1908</dateline>
+<salute><hi rendition="#c">Lieber Herr Direktor. oder Herr Oberarzt.</hi></salute>
+</opener>
+<p> Wen Sie so gut währen und würten Ihn<lb break="yes"/><del>meinen</del>meinen Namen Martin <surname>W.</surname>.
+                    Daglöh<add>ner</add><lb break="yes"/>von Schönesberg. <del>bis</del> nach
+                München Schreiben in<lb break="yes"/>die Vereinsbank. oder wie die Antern
+                    <del>Bänke</del> heisen,<lb break="yes"/>Kässen heisen die zu der Vereinsbank
+                    <del>h</del> gehören<lb break="yes"/>ob <del>wo</del> nicht nach der Alten
+                Rechnung Ein Erbgut von<lb break="yes"/>10. oder 20 Millionen Gulden nach der
+                    deutschen<lb break="yes"/>Rechnung 20 oder 40 Millionen Mark Vom<lb break="yes"/>Anhern oder sein Vatter der Es Aus Östereich<lb break="yes"/>geherbt hat
+                daligen. die mir Onkel oder<lb break="yes"/>UhrOnkel gehören das ich meine 20.000
+                    <add>Mark</add> Statz<lb break="yes"/>oder Gemeinte Keschen bezahlen. kan.<lb break="yes"/>nach Neuburg a/d. wo ich zum Amtzgericht<lb break="yes"/>Langericht BezirksAmt gehöre. <pb facs="#image_009"/> das die Vereinsbank auh weis
+                wo sie es hinschiken<lb break="yes"/>sollen das ich <add>nach</add> Neuburg a/d
+                komen darf. um<lb break="yes"/>Ein Erbgut zu bezihen wofon die <w>Statz</w><w>und</w><lb break="yes"/>Gemeinde Keschen bezahld. <del>wurden</del>
+<add>werden</add><lb break="yes"/>Ich hab noch ein Erbgut in München Vom Vatter.<lb break="yes"/>Kapital 3 Millionen Mark die der Mutter<lb break="yes"/>in die
+                Bank gegeben hat zum Fortkomen<lb break="yes"/>Seines Sohnes Martin
+                    <surname>W.</surname>. Der ich bin.<lb break="yes"/>Ich beschlisse mein
+                schreiben in der Hoffn<add>ung</add><lb break="yes"/>das Sie thun <add>um</add> was
+                ich Euch gebeten habe<lb break="yes"/>Lieber Herr Direktor oder OberArtzt.<lb break="yes"/><seg ana="#signed"><hi rendition="#c">Martin <surname>W.</surname>.</hi></seg>
+</p>
+</body>
+</text>
+</TEI>

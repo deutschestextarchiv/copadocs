@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip420g03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>420 (K. 100)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Friedrich Wilhelm <surname>G.</surname></persName>
+<date type="sent">22.03.1869</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geliebte</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip420g">
+<persName>
+<forename>Friedrich Wilhelm</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1846-10-04"/>
+<death when="1926-10-10"/>
+<occupation>Konditor</occupation>
+<residence><geo decls="#WGS">51.3434582 7.5074393</geo>Geburtsort: Delstern; Wohnort: Delstern</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Arbeiter</p>
+<p>Anstalt: <date from="1869-04-10" to="1926-10-10">10.04.1869-10.10.1926</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Schizophrenie</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient möchte, dass nach Lesen eines Briefs ein Reiter geschickt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip420g03.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline/>
+<salute>Inigst geliebte meines Herzens</salute>
+</opener>
+<p>wenn Sie denn Brief durchge<lb break="no"/>lessen haben so schiecken Sie ihn<lb break="yes"/>gleich an Ihren Papa damit ihn<lb break="yes"/>der dem Könige
+                giebt aber halten<lb break="yes"/>sie ihn nicht oben denn lassen<lb break="yes"/>Sie gleich einen Mann das Pferd<lb break="yes"/>sattlen und im Galopp herunter<lb break="yes"/>reiten. Es wäre zwar nicht nöthig<lb break="yes"/>daß Sie ihn
+                herunterschicken es soll<lb break="yes"/>aber nur dem Könige beweißen<lb break="yes"/>daß das jenige was sie wissen kön<lb break="no"/>nen jetzt das kan
+                    <del>d</del> er auch wissen<lb break="yes"/>weil es die Friedensparlamente<lb break="yes"/>sind die er auch spätter von seinem<lb break="yes"/>Sohne Karl
+                unterschreiben lassen<lb break="yes"/>muß. Hiermit will ich schließen<lb break="yes"/>in der Hoffnung das Ihnen diesser Brief<lb break="yes"/>Freude
+                bereiten wird,<lb break="yes"/>unterzeichnet sich <seg ana="#signed">ihr
+                    Inigstgeliebter Freund<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Fried. <surname>G.</surname></hi></hi></seg>
+</p>
+</body>
+</text>
+</TEI>

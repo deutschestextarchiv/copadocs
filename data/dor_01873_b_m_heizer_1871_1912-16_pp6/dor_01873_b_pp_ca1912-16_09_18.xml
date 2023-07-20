@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor1873b05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>1873 (K.10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>B.</surname></persName>
+<date type="sent">18.09.ca.1912-16</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Auguste <surname>B.</surname></persName>
+<settlement type="sent">Aplerbeck</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor1873b">
+<persName>
+<forename>Heinrich</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1871-02-26"/>
+<death cert="unknown"/>
+<occupation>Heizer</occupation>
+<residence><geo decls="#WGS">52.7310186 9.6054281</geo>Geburtsort: Eickel; Wohnort: Eickel</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1912-06-01" to="1916-04-30">01.06.1912-30.04.1916</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Dementia Paralytica (1912)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will abgeholt werden, da er wieder gesund ist;
+                    freut sich schon, seine Frau wiederzusehen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor1873b05a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="dor1873b05b.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="dor1873b05c.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="dor1873b05d.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r">Aberbek den 18. Septemer</hi></dateline>
+<salute><hi rendition="#c">Lieb Frau</hi></salute>
+</opener>
+<p><add hand="arzt" place="top"><surname><hi rendition="#i">B.</hi></surname>!</add></p><p><hi rendition="#c">sei so gut</hi><lb break="yes"/>und kome mich bald holen<lb break="yes"/>das ich wider nah Hause
+                kome<lb break="yes"/>Du kanst mih wider nach<lb break="yes"/>Hause holen ich bin<lb break="yes"/>Gott sei Dank noch gesund<lb break="yes"/>unt Munter gehe
+                jeden<lb break="yes"/>Tag zur Feldarbeit liebe<lb break="yes"/>Frau und ich bitte
+                dich<lb break="yes"/>kome so bald als möglich<lb break="yes"/>und holle mich
+                wieder nach<lb break="yes"/>Hause des kannst du <del>st</del> doch<lb break="yes"/>tuhen Liebe Frau also bitte <pb facs="#image_012"/>Liebe Auguste also sei so<lb break="yes"/>gut und kome bald<lb break="yes"/>und holle mih denn ih<lb break="yes"/>bin es hir bald leid<lb break="yes"/>mus imer Arbeiten nur<lb break="yes"/>für die Kost nun liebe<lb break="yes"/>Frau und kome mir holen<lb break="yes"/>das ih wider nach Hause<lb break="yes"/>komen kan und wider<lb break="yes"/>Arbeiten kann. gelibte<lb break="yes"/>Frau bitte kome so bald<lb break="yes"/>als möglich und holle ein<lb break="yes"/>geliebtes Herz wie wede
+                    <pb facs="#image_013"/>ih mih freuen wenn ich wider<lb break="yes"/>bei dir
+                sein das ist doh<lb break="yes"/>ein herlihes Leben können<lb break="yes"/>zusam
+                    <del>h</del> Sazirn gehn<lb break="yes"/>und freien uns des Lebens<lb break="yes"/>Gelibe Frau nun bitte<lb break="yes"/>ich dich nohmals mih bald<lb break="yes"/>hollen zu wohlen<lb break="yes"/>Hirmit will ich schlißen<lb break="yes"/>und <seg ana="#salute">Dir grüssen mit<lb break="yes"/>Gruß und
+                    Kus</seg> meine<lb break="yes"/>liebe Frau also libe und<lb break="yes"/>kome
+                    <w>so</w><w>balt</w> als möglich<lb break="yes"/>und hole mir ab <pb facs="#image_014"/>An Frau
+                    <surname>B.</surname><lb break="yes"/><hi rendition="#c">in <hi rendition="#i">Herne</hi></hi><lb break="yes"/><placeName type="street">Mötzinsstraße</placeName> 24 </p><p>Nun bitte ich noh<lb break="yes"/>mahl um balidens<lb break="yes"/>komen das ih nach<lb break="yes"/>Hause kome<lb break="yes"/><seg ana="#salute">Herzigen gruß und<lb break="yes"/>Kus</seg>
+<seg ana="#signed">dein Mann Heurih</seg>
+</p>
+</body>
+</text>
+</TEI>

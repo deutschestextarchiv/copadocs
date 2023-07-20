@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2229w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2229</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Fritz <surname>W.</surname></persName>
+<date type="sent">14.12.1905</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Banditengesellschaft: <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2229w">
+<persName>
+<forename>Fritz</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1880"/>
+<death when="1918"/>
+<occupation>Zeichner</occupation>
+<residence><geo decls="#WGS">48.5710836 10.4305438</geo>Lauingen, Dillingen </residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Kunstmaler</p>
+<p>Anstalt: <date from="1905" to="1918">1905-1918</date></p>
+<p>Brieftypen: pp,ap,ao</p>
+</state>
+<trait>
+<p>Schizophrenie</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt1"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt2"/>
+<handNote medium="pencil" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose>
+                    Der Patient beleidigt die Adressaten, da sie ihm bezüglich seiner Entlassung nicht helfen. Er meint, die Adressaten würden von seinem Anstalts-Aufenthalt profitieren.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2229w04a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2229w04b.jpg" xml:id="image_002">
+<desc><signatures>
+</signatures></desc>
+</graphic>
+<graphic mimeType="image/jpg" url="kfb2229w04c.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb2229w04d.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren</hi>, d. 14.12.05</hi></dateline>
+<salute>//<hi rendition="#i">P.P.</hi>// <seg ana="#curse">Verhurte
+                        Banditengesellschaft</seg><lb break="yes"/><hi rendition="#i">Eur Fritz.</hi></salute>
+</opener>
+<p><add place="above"><seg ana="#curse">Verfluchter Bandit kannst kom̄e wens
+                        willst.<lb break="yes"/>oder weiter Allem aussetzen; ich kann mir<lb break="yes"/>ja vorläufig nicht helfen; aber wehe Euch<lb break="yes"/>Deinem alten (Mensch) und Deine Schentzen<lb break="yes"/>(Kinder.)</seg></add></p>
+<p>Du wirst allerdings auf obengenannte Bezeich<lb break="no"/>nung etwas stutzig
+                werden, umsomehr garniht es<lb break="yes"/>mir nicht gerade zur Freude, sondern
+                Dir alls Lei<lb break="no"/>ter des <hi rendition="#u" style="arzt1">scheußlichen
+                    Vorgehens gegen mich,</hi> eine Schwäch<lb break="no"/>ung vorzuwerfen. Nachdem
+                ich dem <hi rendition="#i">D.</hi> mehrmals<lb break="yes"/>jetzt mit Anzeigen der
+                    <hi rendition="#u" style="arzt2">Verschwörung ge</hi>droht habe<lb break="yes"/>und ich meine Entlassung unter keinen Umstän<lb break="no"/>den
+                bewirken kann, da Du mir nicht zu Hilfe<lb break="yes"/>kommst. Deine Entziehung
+                bezüglich mit Dir über<lb break="yes"/>die Verhältnisse bez. der <hi rendition="#u" style="arzt2">Abspielung</hi> und der <hi rendition="#u" style="arzt2">schäd<lb break="no"/>lichen Einwirkungen auf den Kopf zu</hi>
+                reden ist<lb break="yes"/>mir ja unmöglich wenn Du Dich nicht um mich<lb break="yes"/>beküm̄erst. Dein Verhalten gegen mich ist schänd<lb break="no"/>lister Art; hilflos setzt Du mich den Qualen des<lb break="yes"/>Ärgers, des Verdrußes, der Aufregung, des Heimwehs<lb break="yes"/>aus;
+                schmachtend überlassen dem Kram des zwangs<lb break="no"/>vollen Hierseins, dem
+                Verkehr unnd der Humani<lb break="no"/>tät meiner Bekannten entzogen. Du läßt mich </p>
+<p><milestone rendition="#hr" unit="section"/><lb break="yes"/>Du mußt kom̄en unbedingt; es geht Dir nicht gleich<lb break="yes"/>an den Kragen brauchst nicht bange haben, aber Vor<lb break="no"/>würfe der schlim̄sten Art, für Eure Niedertrachtigkeit <pb facs="#image_002"/><seg ana="#curse">dir Hur und Du Schnallentreiber verfluchter sollen</seg><lb break="yes"/>mir gewalsam entreißen, aber solch ein Mensch laß<lb break="yes"/>Ihr wollt, sei es bei Euch Die beste u ordentlichste aber<lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+<p>mich einstecken um daß deine Schändlichkeit und<lb break="yes"/>der Ubrigen nicht
+                vor die Öffentlichkeit gelangt, dem<lb break="yes"/><hi rendition="#i">D.</hi>
+<del>zu</del> jedoch zu Nutzen wegen den Anzeigen der<lb break="yes"/>Abspielung u.
+                der Aufhängerei; mir kann ja auf<lb break="no"/>geworfen werden was will, ich bin
+                gezwungen<lb break="yes"/>es anzunehmen u wegen der Anzeige ebe<add place="above">n</add>falls<lb break="yes"/>zurückgehalten und verdrängt, damit ich nicht
+                wieder<lb break="yes"/>gleich daraufkom̄e und Deine Zurückhaltung und<lb break="yes"/>Dein Entzug mit Einverständnis des <hi rendition="#i">D.</hi> machen
+                mir<lb break="yes"/>ja alles zur Anzeige zu bringen gänzlich unmöglich<lb break="yes"/>Du verläßt mich in allen Stücken; ich möchte Dich<lb break="yes"/>nur bezüglich der Entlassung bitten, sonst kann<lb break="yes"/>ich mich umöglich
+                rächen für dein u Eur Vorgehen.<lb break="yes"/>Ich verzichte auf alles
+                Entgegenkom̄en <w>deiner seits</w><lb break="yes"/>nur weil ich meine Entlassung
+                ohne dein Einver<lb break="no"/>ständnis mit dem <hi rendition="#i">D.</hi> nicht
+                bewirken kann, obwohl<lb break="yes"/>ich alles erdenkliche gegen Ihn und Dich (<hi rendition="#i">Euch</hi>)<lb break="yes"/>angestrengt habe. Obwohl ich von <hi rendition="#i">Euch</hi> abhängig<lb break="yes"/>bin, Euerm Urteil unterworfen
+                bin und<lb break="yes"/>Ihr mich gänzlich bez. <hi rendition="#i">Euch</hi>, dem
+                Verkehr und<lb break="yes"/>der Anzeigen und der Aufhängerei ausziehen <add place="above">läßt</add>.</p>
+<p><milestone rendition="#hr" unit="section"/><lb break="yes"/>Die <seg ana="#curse">Hur</seg> laßt sich auch nicht sehen;
+                    <unclear>j</unclear>unge Mensch<lb break="yes"/>falls nicht; so kann ich
+                unmöglich hinaus kom̄en; </p>
+<p><add hand="hand4" place="margin"><unclear>Akt</unclear> <unclear/></add></p>
+<pb facs="#image_003"/>
+<p>nur machen was Euch bez. der Anzeigen <unclear>schandet</unclear>;<lb break="yes"/>ich mir nicht aufbürden, wollt Ihr denken was<lb break="yes"/>ich laß mich nicht
+                zwingen, kan̄ nehmen wen sie will.<lb break="yes"/><milestone rendition="#hr" unit="section"/>
+</p>
+<p>h. verdrängen um d. Sache nicht gleich auf die Spur<lb break="yes"/>zu
+                kom̄en; obwohl ihr alles wüßt; mich aber wegen<lb break="yes"/>der Anzeigen
+                und Öffentlichkeit um <hi rendition="#i">Eure</hi> Schändlich<lb break="no"/>keiten
+                bezügl. der Mitteilungen an <hi rendition="#i">D.</hi> und mei<del>s</del><lb break="no"/>nes Wissen derart zu schmälern, damit ich Euch<lb break="yes"/>niht
+                gerichtlich belangen kann. <hi rendition="#u" style="arzt2"><seg ana="#curse">Verflucht sollt<lb break="yes"/>Ihr sein Banditengesellschaft</seg> für
+                    solche gewalt<lb break="no"/>same Zurückhaltung um es mir unmöglich zu<lb break="yes"/>machen etwas zur Anzeige</hi> zu bringen von<lb break="yes"/>der ganzen Affäre; weder von Euch noch von d.<lb break="yes"/><hi rendition="#i">D.</hi> weil Ihr ja dabei in allem übereinstim̄t.<lb break="yes"/>Ihr
+                zwingt mich zur Abspielung durch Einsperung;<lb break="yes"/>durch die Mitteilungen
+                Eure sinnlichen Gelüste<lb break="yes"/>zu befrieden und Euch zu weiden, mir wird<lb break="yes"/>alles aufgehängt und durch Erpressung ge<lb break="no"/>zwungen
+                von allem abzustehen; da ist<lb break="yes"/>einem leicht aufzubürden, wen̄
+                man von<lb break="yes"/>Allem bez. der Leute und <hi rendition="#i">Euch</hi>
+                ausgezogen<lb break="yes"/>wird; und getrieben wird was er alles machen<lb break="yes"/>kann und ausführen will draußen und<lb break="yes"/>Ihr mit allem
+                übereinstim̄t. Ihr seit ein </p>
+<p><milestone rendition="#hr" unit="section"/><lb break="yes"/>ebenfalls nicht, der junge Strizi in Eichstädt eben<lb break="yes"/>Ich mach Euch alles gerade zum Ärger draußen </p>
+<pb facs="#image_004"/>
+<p>weil Ihr mich den <unclear>Untalden</unclear> aller Art aussetzt.<lb break="yes"/>Hur kann was erleben, wenn ich frei bin.<lb break="yes"/>Dann solls losgehen. Ihr wird staunen .−<lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+<p><seg ana="#curse">hundsgemeines <hi rendition="#i">C</hi>hor. niederträchtige,
+                    verkom̄ene<lb break="yes"/>Subjekte</seg> einen Menschen derart zu <unclear/><lb break="yes"/>und jedem Unheil <add place="above">u Marter</add> preiszugeben.
+                Ihr zwingt<lb break="yes"/>mich ferner, daß ich trotz der Anzeige bezügl. der<lb break="yes"/>Aufhängerei in allen Stücken nachzugeben,<lb break="yes"/>gezwungen bin, <add place="above">hierin</add> mir des <seg ana="#curse">Saumensch</seg> aufhänge<lb break="yes"/>zu lassen; obwohl ich mich hiezu
+                nicht entschließe<lb break="yes"/>unter keinem Umständen; da ich noch andere<lb break="yes"/>Mädchen bekom̄e, wenn ich nur will, welche<lb break="yes"/>sich nicht alls <seg ana="#curse">Schnalle</seg>
+<hi rendition="#i">ec.</hi>
+<w>qualifiz ieren</w> lassen.<lb break="yes"/>Ich will von den <seg ana="#curse">Schweinen</seg> gar nicht sprechen;<lb break="yes"/>welche entgülltig, <add place="above">d.h.</add> alles von <hi rendition="#i">Euch</hi> angenom̄en<lb break="yes"/>wird; ohne daß ich mich draußen frei vor Ge<lb break="no"/>richt aussprechen darf; sondern stets Euer Ver<lb break="no"/>urteilung
+                unterworfen bleibe; der gewalt<lb break="no"/>samen Einsperung ausgesetzt bin ohne
+                mit Euch<lb break="yes"/>zu reden dürfen. Ich laß mir (Anna) das <seg ana="#curse">Sau<lb break="no"/>mensch</seg> nicht an Halshängen von der <seg ana="#curse">Hur</seg> (Mutter)<lb break="yes"/>der niederträchtigen. Ich liebe
+                sie nicht mehr,<lb break="yes"/>alles erlogen u Aufhängerei bez. d. Anzeige.<lb break="yes"/><seg ana="#curse"><hi rendition="#u" style="arzt2">Verflucht sollt
+                        Ihr sein mir ein <add place="above">solches</add> Mensch <w>auf<lb break="no"/>zubürden</w> und zu zwingen. </hi></seg> Ich werde gerichtlich<lb break="yes"/>gegen Euch vorgehen. Ihr könnt mich plagen wie<lb break="yes"/><hi rendition="#c">Ihr wollt.</hi>
+</p>
+</body>
+</text>
+</TEI>

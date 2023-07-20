@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb569d10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>569</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>D.</surname></persName>
+<date type="sent">12.09.1869</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Gemeindeverwaltung Mickhausen</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb569d">
+<persName>
+<forename>Georg</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1820"/>
+<death when="1873"/>
+<occupation>Schreinergeselle, Chirurgensohn</occupation>
+<residence><geo decls="#WGS">48.2409342 10.639933</geo>Mickhausen, Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Chirurg</p>
+<p>Anstalt: <date from="1866" to="1873">1866-73</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Alienatio Mentis (1864), Melancholie mit fixen Ideen (1866), Schizophrenie (1953)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er möchte entlassen werden, weil er Geld verdienen will, das er früher zu wenig bekommen hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb569d10a.jpg" xml:id="image_027"/>
+<graphic mimeType="image/jpg" url="kfb569d10b.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="kfb569d10c.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_027"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 12<hi rendition="#sup">ten</hi><lb break="yes"/><hi rendition="#i">Septimber </hi>1869.</hi></dateline>
+<salute><hi rendition="#c">Gemeinde Verwalltung<lb break="yes"/>Mickhausen.</hi></salute>
+</opener>
+<p>Wie kom̄t es, daß ich etliche<lb break="yes"/>finfzehn Jahre her, Taglohn<lb break="yes"/>verdiehnt habe, beim <hi rendition="#u">Mechanischen</hi><lb break="yes"/>1 fl 30 kr − 1 fl 48 kr!! <hi rendition="#i">per</hi> Tag
+                −<lb break="yes"/>Nun sage ich, und schreibe euch<lb break="yes"/>noch
+                einmal, wie ich euch früher<lb break="yes"/>geschrieben habe, vor Zwei ½ Jahr,<lb break="yes"/>ich stehe nun so, daß ich <hi rendition="#i">per</hi><lb break="yes"/>Tag − 5 fl − und 6 fl verdiehnen<lb break="yes"/>kan̄, <hi rendition="#u">durch zwei neue Maschienen</hi>
+<pb facs="#image_028"/>kan̄ ichs machen oder nicht,<lb break="yes"/>habe ich
+                euch nicht, die Wahrheit<lb break="yes"/>geredet, öfter geschrieben,<lb break="yes"/>warum hänkt ihr den armen<lb break="yes"/>daß abgestohlne Geld
+                an!!!<lb break="yes"/>hätte ich in meinem Stieble<lb break="yes"/>fort Arbeiten
+                kön̄en, oder<lb break="yes"/>nicht, eure Bosheit ken̄e ich,<lb break="yes"/><hi rendition="#u">noch einmal</hi> erkläret mich<lb break="yes"/>als gesund, <hi rendition="#u">!!!</hi> /: geisteskrank./<lb break="yes"/>Hl
+                    <surname>K.</surname> − und Sohn, ruf ich<lb break="yes"/>als Zeugen
+                auf. −<lb break="yes"/><seg ana="#signed"><hi rendition="#r">Georg
+                    <surname>D.</surname>.</hi></seg>
+</p>
+<pb facs="#image_029"/>
+<p><hi rendition="#r">An</hi><lb break="yes"/>Gemeinde Verwalltung<lb break="yes"/><hi rendition="#c"><hi rendition="#u">Mickhausen</hi>.</hi>
+</p>
+</body>
+</text>
+</TEI>

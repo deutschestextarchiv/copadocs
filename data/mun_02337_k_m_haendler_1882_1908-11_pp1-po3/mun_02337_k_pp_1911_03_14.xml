@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2337k03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2337 (K. 180)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mathias <surname>K.</surname></persName>
+<date type="sent">14.03.1911</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster i. W.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun2337k">
+<persName>
+<forename>Mathias</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1882-02-19"/>
+<death cert="unknown"/>
+<occupation>Händler</occupation>
+<residence><geo decls="#WGS">51.5019415 6.8857344</geo>Geburtsort: Galew; Wohnort: Osterfeld, Oberhausen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Landwirt; Mutter: n.a.</p>
+<p>Anstalt: <date from="1908-03-26" to="1911-08-06">26.03.1908-06.08.1911</date></p>
+<p>Brieftypen: po, pp</p>
+</state>
+<trait><p>einfache Seelenstörung (1908); zeigt ein stumpf-trauriges Wesen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="hand2"/>
+<handNote medium="crayon_blue" scope="minor" scribe="hand3"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er möchte, dass sein Bruder ihn besucht.
+                 </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2337k03a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="mun2337k03b.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><add hand="vordruck">Provinz<hi rendition="#u">ialheil</hi>anstalt.
+                            <hi rendition="#r">Münster i. W., den</hi></add>
+<hi rendition="#r">d 14 März <add hand="vordruck">191</add>1</hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder</hi></salute>
+</opener>
+<p><add hand="hand2"><surname><hi rendition="#i">K.</hi></surname></add></p><p>Ich bitte dich schreibe nach<lb break="yes"/>meinen Bruder <hi rendition="#i">Anton</hi> und<lb break="yes"/>sage ihm er möchte mich<lb break="yes"/>hir besuchen aber gleich.
+                    das<lb break="yes"/>heißt wen dir sein aufenthalt<lb break="yes"/>bekant ist
+                bette sei so gut<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Herzlichen
+                        gruß</seg>
+<seg ana="#signed"><lb break="yes"/>Ma<unclear>ig</unclear></seg></hi>
+<hi rendition="#c"><lb break="yes"/><add hand="hand2"><unclear/></add> Johann
+                        <surname>F.</surname><lb break="yes"/>Unserfritz<lb break="yes"/><placeName type="street">Paulustr.</placeName> 41 i W</hi><pb facs="#image_005"/><hi rendition="#c"><hi rendition="#i">Herrn<lb break="yes"/>Johann </hi><surname><hi rendition="#i">F.</hi></surname><hi rendition="#i"><lb break="yes"/>zu </hi><hi rendition="#u"><hi rendition="#i"><lb break="yes"/>Unserfritz</hi></hi><lb break="yes"/><placeName type="street">Paulstr.</placeName> 41 <hi rendition="#sup">i</hi>/W<lb break="yes"/>bs. Wanne<lb break="yes"/>i/W.</hi>
+</p><p><add hand="hand3">zurück<lb break="yes"/>20/<hi rendition="#sub">3</hi><del><lb break="yes"/>Wanne</del></add>
+</p>
+</body>
+</text>
+</TEI>

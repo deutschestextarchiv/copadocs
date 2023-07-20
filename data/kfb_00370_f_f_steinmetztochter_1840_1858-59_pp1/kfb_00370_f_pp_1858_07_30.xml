@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb370f01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>370</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>F.</surname></persName>
+<date type="sent">30.07.1858</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb370f">
+<persName>
+<forename>Maria</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1840"/>
+<death cert="unknown"/>
+<occupation>Steinmetztochter</occupation>
+<residence><geo decls="#WGS">48.125183 11.5857141</geo>Au Vorstadt, München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Steinmetz</p>
+<p>Anstalt: <date from="1858" to="1859">1858-59</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Geisteskrankheit (1858-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Glücklich angekommen, Kleider erhalten, Großmutter soll sie besuchen, auch Herr Hallter, Doktor brav und gut, will aber heim und arbeiten; 
+                    Kleidung soll man ihr schicken oder gleich abholen, unklar warum da; bitte um Brief
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb370f01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb370f01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Ihrsee den <add hand="arzt">30 Juli 1858</add></hi></dateline>
+<salute><hi rendition="#c">Liebe Ältern!</hi></salute>
+</opener>
+<p> Ich bin in Ihrsee glüklich angekomen es hat mich nämlich<lb break="yes"/>ein Jägersman
+                hergefaren. Die Zeit ist mir nicht lang<lb break="yes"/>und ich habe keine Freüde
+                nicht, die Kleider habe ich richtig<lb break="yes"/>erhalten. <del>u</del>
+<seg ana="#salute">Ich bite auch recht herzlich einen Grus<lb break="yes"/>an meine
+                    liebe Pathe und X .a und mein <unclear>Leimrand</unclear></seg><lb break="yes"/>und meine schönen Kleider bite ich recht herzlich sie<lb break="yes"/>gut
+                aufzubewaren.. <seg ana="#salute">Ich bitte auch recht herzlich<lb break="yes"/>mir
+                    eine schönen Gruß an meine Großmuter</seg> und<lb break="yes"/>sie möchte so
+                gut sein und möchte mich besuchen ich<lb break="yes"/>möchte reht gern wieder nach
+                Haus. Ich war auch<lb break="yes"/>in der kalten Herberge + und in Beißweil da
+                    war<lb break="yes"/>nämlich eine Kaffeparthi. <seg ana="#salute">ich bite auch
+                    recht herzlich<lb break="yes"/>Gruß an hochwürdigen Herrn
+                        <surname>H.</surname>
+</seg>und er möcht<lb break="yes"/>mich wieder einmal besuchen. und an Väter
+                    <surname>W.</surname><lb break="yes"/>auserdem kan ich nichts neühes
+                schreiben. Der Heer<lb break="yes"/>Doktor ist recht braf und gut. mit mir. aber
+                    trotz<lb break="yes"/>dem ist nur recht zeitlang den ich möchte viel lieber<lb break="yes"/>zu Hause sein und arbeiten.. <pb facs="#image_002"/> Ich bite auch
+                recht herzlich um meine Orenring und mein<lb break="yes"/>blaues Tibetkleid und
+                mein schwarzes Somerschwal<lb break="yes"/>oder sie solen mich zu Haus faren den
+                ich weiß nicht<lb break="yes"/>warum als ich in Irrsee bin. Außerdem kan ich
+                    nicht<lb break="yes"/>nähes schreiben. ich bite also recht herzlich meine Bitte
+                    zu<lb break="yes"/>erfühlen und auch um einen Brief. Auserdem kan ich<lb break="yes"/>nichts schreiben.</p>
+<p><seg ana="#salute"><hi rendition="#r">Es grüßt sie herzlich </hi><seg ana="#signed">Ihre dankbare Tochter<lb break="yes"/>Maria <surname>F.</surname>.</seg></seg>
+</p>
+</body>
+</text>
+</TEI>

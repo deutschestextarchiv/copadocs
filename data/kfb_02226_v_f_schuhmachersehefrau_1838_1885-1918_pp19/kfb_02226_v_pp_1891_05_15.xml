@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2226v07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2226</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>V.</surname></persName>
+<date type="sent">15.05.1891</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann, Kinder: Felix <surname>V.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2226v">
+<persName>
+<forename>Maria</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1838"/>
+<death when="1918"/>
+<occupation>Schuhmachersehefrau</occupation>
+<residence><geo decls="#WGS">48.1479335 10.7571408</geo>Langerringen, Augsburg, wohnhaft: Kolonie Hurlach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1885" to="1918">1885-1918</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Manie (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="schwester"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin hofft, dass ihre Familie gesund ist und sie bald abholt.
+                    Ihre Schwester ergänzt, dass es ihr gut geht und verlangt eine sanfte Behandlung für sie.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2226v07a.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="kfb2226v07b.jpg" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<dateline><hi rendition="#r">Irße Heilanstalt. den 15. <hi rendition="#sup">ten</hi> Mai.<lb break="yes"/>1891.</hi>
+</dateline>
+<salute>Theuerster Mann u Kinder! </salute>
+</opener>
+<p><add place="top"><del><unclear/></del><lb break="yes"/><del><unclear/></del> </add></p><p>ich Hoffe das Euich mein schreiben<lb break="yes"/>in bester Gesundhait andreffe<lb break="yes"/>wie ich jetzt auch bin u.<lb break="yes"/>in der Hofnung lebe Dich<lb break="yes"/>recht bald bei, Uns zu seen<lb break="yes"/>und abzuholen wie. Du
+                es<lb break="yes"/>mir versprochen hast were<lb break="yes"/>mir recht lieb grüße
+                mir<lb break="yes"/>alle recht schön . <seg ana="#salute">u fon<lb break="yes"/>mir bist Du auch
+                recht Herzlich<lb break="yes"/>gegrüßt</seg> ich bitte dich holle<lb break="yes"/>mich
+                nach Hause.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Dein dich liebendes<lb break="yes"/>Weib</seg> <seg ana="#signed">Maria <surname>V.</surname></seg>.</hi>
+</p><p><add place="margin">ganzs besonders<lb break="yes"/><w>is stt</w> meine<lb break="yes"/>liebe
+                        An̄a gegrüßt<lb break="yes"/>kom̄e gewis. ich bite dich nochmal<lb break="yes"/>lieber Veligx. </add></p>
+<pb facs="#image_023"/>
+<p><handShift medium="ink" scribe="schwester"/><space/> Ihr lieben Alle Alle. −<lb break="yes"/>Meine l. Schwester Maria ist<lb break="yes"/>Körperlich so wie
+                auch Geistig<lb break="yes"/>wei<del>d</del>t vorgeschritten.<lb break="yes"/>L.
+                Schwager daß einzige ver<lb break="no"/>langen, nach Hauße wen̄ wir<lb break="yes"/>uns schlafen legen und beim Er<lb break="no"/>wachen daßsebe, alles
+                weitere<lb break="yes"/>wird Ihnen selbst bekant sein<lb break="yes"/>ihr Weib
+                braucht eine ruhige<lb break="yes"/>soliede Behandlung wie sie es<lb break="yes"/>in meiner Gegenwart, nebst Fl.<lb break="yes"/>Oberpfleger, und Herm Ober<lb break="no"/>Artzt verspochen haben. </p><p>schöne Herzliche Grüsse an Sie u.<lb break="yes"/>ihre Kinder u. ganz besondres<lb break="yes"/>an ihren liebling Anna von mir<lb break="yes"/><hi rendition="#r">Ciharitas <surname>S.</surname> </hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3842s11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3842</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>S.</surname></persName>
+<date type="sent">09.01.1938</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: Michael
+                    <surname>H.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3842s">
+<persName>
+<forename>Josef</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1880"/>
+<death cert="unknown"/>
+<occupation>Maurer, Landwirt</occupation>
+<residence><geo decls="#WGS">47.8803788 10.622246</geo>Kaufbeuren, geb. Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Landwirt; "Vermögensverhältnisse: gering"</p>
+<p>Anstalt: <date from="1909" to="1958">1909-58</date></p>
+<p>Brieftypen: Lebenslauf, pp, po</p>
+</state>
+<trait>
+<p>Manisch-depressives Irresein (1909), Geisteskrankheit (1926)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller-- Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose> Der Patient fragt sich nach dem Grund für seinen Aufenthalt in der
+                    Anstalt. </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3842s11a.jpg" xml:id="image_033"/>
+<graphic mimeType="image/jpg" url="kfb3842s11b.jpg" xml:id="image_034"/>
+<graphic mimeType="image/jpg" url="kfb3842s11c.jpg" xml:id="image_035"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_033"/><opener>
+<dateline><hi rendition="#i">Den</hi>, 9.1.1938.</dateline>
+<salute>G. Herr <surname>H.</surname> Michael!</salute>
+</opener><p>
+<w>In dem</w> ich mich jetzt schon<lb break="yes"/>wieder 5
+                Wochen in der Anstalt<lb break="yes"/>hier bin und noch keinen anhaltspunkt<lb break="yes"/>habe, daß ich mir auf den Winter<lb break="yes"/>etwas Geld
+                verdinen kön̄te. Oder<lb break="yes"/>muß ich mich wegen einem Alten<lb break="yes"/>Weib einschperren lassen? Was habe<lb break="yes"/>ich das letze
+                mahl fürchterliches<lb break="yes"/>angestelt. Der Herr Wachtmeister<lb break="yes"/>sagte zu einem anderen ich sei doch<lb break="yes"/>blos ein
+                wehrloser Mensch. Ich<lb break="yes"/>vermute, Ihr habt mich für Gemei<lb break="no"/>nde gefährlich <w>hin stellen</w> wollen?<lb break="yes"/>Ihr hab mir einen richtigen Keihl<lb break="yes"/>vorgeschoben?
+                − Lüg und Heuchelei<hi rendition="#u">? </hi><lb break="yes"/>Könt, Ihr
+                diese Affäre noch lange <pb facs="#image_034"/>mit ansehen. Ihr müßt besondere<lb break="yes"/>Gnaden haben, daß ihr einen Alten<lb break="yes"/>Mann zum besten
+                haben wolt.<lb break="yes"/>Jetzt wist ihr meine Äuserungen.<lb break="yes"/><hi rendition="#c">Ich beschliese mein<lb break="yes"/>schreiben in der Meinung,<lb break="yes"/>daß dieser Brief nicht<lb break="yes"/>umsonst sei.<lb break="yes"/><seg ana="#salute">Es grüßt. Euch, das ihr<lb break="yes"/>gesund
+                        seid </seg></hi><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Joseph
+                            <surname>S.</surname></seg>.</hi>
+</p><pb facs="#image_035"/><p><hi rendition="#r">Joseph<lb break="yes"/><surname>S.</surname>
+</hi><lb break="yes"/>An<lb break="yes"/><hi rendition="#c">Herrn Michael
+                        <surname>H.</surname><lb break="yes"/>Bürgermeister<lb break="yes"/>in Hirschzell<lb break="yes"/>bei Kaufbeuren </hi><lb break="yes"/><hi rendition="#r">Allgau</hi>
+</p>
+</body>
+</text>
+</TEI>

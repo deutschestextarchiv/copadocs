@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb174r01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>174</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Rosette <surname>R.</surname></persName>
+<date type="sent">ca1861-66</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Regierungsassessor: n.a.von <surname>R.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb174r">
+<persName>
+<forename>Rosette</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1825"/>
+<death cert="unknown"/>
+<occupation>Kaufmannsehegattin</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1861" to="1866">1861-66</date></p>
+<p>Brieftypen: po, pp</p>
+</state>
+<trait><p>Hysterie (1861)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief (Gedicht)</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Treue gegenüber dem Vaterland
+                    anschließend Bittgesuch um "Gnade und Erlass"
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb174r01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb174r01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline>n.a.</dateline>
+<salute>n.a.</salute>
+</opener>
+<p><hi rendition="#c">Im Herzen still verborgen<lb break="yes"/>Erglänzt und leucht't der
+                    schönste Stern<lb break="yes"/>Verscheucht mir düstre Sorgen<lb break="yes"/>Zeigt mir ein schönes Land von fern.</hi></p>
+<p><hi rendition="#c">Das Land, wo viele Sterne leuchten<lb break="yes"/>Und edle liebe Bilde
+                        nennt,<lb break="yes"/>Das Land, das Sie durch Kampf erreichten<lb break="yes"/>Das Land, das treue Lieb' nur kennt.</hi></p>
+<p>
+<hi rendition="#c">Er ist mein liebes Vaterland<lb break="yes"/>Dem Treu' ich wahr'
+                    im Herzen<lb break="yes"/>Das treuen Seelen wohl bekannt<lb break="yes"/>Das
+                    Balsam beut verwundten Herzen!_</hi></p>
+<milestone rendition="#hr" unit="section"/>
+<p><add place="margin">Der Geist ist willig<lb break="yes"/>Aber das Fleisch ist schwach.<lb break="yes"/><hi rendition="#c">___</hi><lb break="yes"/>Eine durch Kampf und<lb break="yes"/>Leid schwer heimgesuchte<lb break="yes"/>Sünderin bittet um<lb break="yes"/>Gnade
+                und Erlassung<lb break="yes"/>fernerer Strafen,<lb break="yes"/>und ihrer
+                    menschlichen<lb break="yes"/>Schwächen gedenken<lb break="yes"/>zu wollen.<lb break="yes"/>Durch das Verdienst<lb break="yes"/>ihres Heilandes auf<lb break="yes"/>Erhörung und Verzeihung<lb break="yes"/>hoffend, sichert im<lb break="yes"/>Voraus die dank<lb break="no"/>barste Anerkennung<lb break="yes"/><lb break="yes"/>Eine des Mitleids Bedürf<lb break="no"/>tige Patientin._</add></p>
+<pb facs="#image_002"/>
+<p>Sr. Hochwohlgeboren</p>
+<p>dem königl. Herrn Regierungs<lb break="yes"/>Assessor <hi rendition="#i">von <surname>R.</surname></hi></p>
+<p><hi rendition="#i"><hi rendition="#r">Ansbach.</hi></hi></p>
+</body>
+</text>
+</TEI>

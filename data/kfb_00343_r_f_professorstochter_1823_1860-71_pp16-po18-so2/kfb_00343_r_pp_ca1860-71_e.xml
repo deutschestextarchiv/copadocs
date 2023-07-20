@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb343r25" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>343</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>R.</surname></persName>
+<date type="sent">ca1860-71</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Cousine: <surname>E.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb343r">
+<persName>
+<forename>Johanna</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1871"/>
+<occupation>Professorstochter</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Professor</p>
+<p>Anstalt: <date from="1860" to="1871">1860-71</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Fixer Wahnsinn (1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    wünscht sich sehnlichst einen Besuch der Cousine
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb343r25a.jpg" xml:id="image_085"/>
+<graphic mimeType="image/jpg" url="kfb343r25b.jpg" xml:id="image_086"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_085"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">An meine <hi rendition="#i">Cousine</hi> <surname>E.</surname>.</hi><lb break="yes"/>Liebe <hi rendition="#i">Cousine</hi>!</salute>
+</opener>
+<p>Sey doch nicht so hart gegen<lb break="yes"/>mich und besuche mich doch einmal.
+                Kan̄st<lb break="yes"/>Du Dich noch erin̄ern an den schwarz<lb break="yes"/>und rosa Pamela=Hut, den ich einst<lb break="yes"/>aufhatte, und
+                wo ich das Unglück hatte<lb break="yes"/>plötzlich von einem Steinwurf<lb break="yes"/>oder Schuß getroffen zu werden;<lb break="yes"/>wo dan̄ ein
+                Herr auf mich zukam,<lb break="yes"/>und ich die Besin̄ung verlor. Wie<lb break="yes"/>ich zu den Fräulein <surname>O.</surname> kam weiß<lb break="yes"/>ich nicht mehr, doch war ich dan̄ in<lb break="yes"/>einem Zim̄er
+                in dem es ganz dunkel <pb facs="#image_086"/>war mit bunten Glasfenstern.<lb break="yes"/>Ich habe an meinem Kopf schon so<lb break="yes"/>harte Stöße
+                erlitten, doch hast auch<lb break="yes"/>Du meinem Herzen einen harten<lb break="yes"/>Stoß versetzt, weil Du mich nie be<lb break="no"/>suchtest.
+                Kom̄ doch einmal zu mir,<lb break="yes"/>und laß uns traulich mit einan<lb break="no"/>der reden. Auch in Augsburg ge<lb break="no"/>schah mir etwas
+                Fürchterliches an<lb break="yes"/>meinem Kopf. Ich hätte Dich ja so<lb break="yes"/>gerne lieb, wen̄ Du für mich <del>nur</del><lb break="yes"/>auch nur einen Funken Gefühl<lb break="yes"/>hättest. Besuche mich
+                doch. Ich küße<lb break="yes"/>Dich. <hi rendition="#c"><seg ana="#signed">Deine<lb break="yes"/>arme <hi rendition="#i">Cousine
+                    Jeannette</hi>.</seg></hi></p>
+</body>
+</text>
+</TEI>

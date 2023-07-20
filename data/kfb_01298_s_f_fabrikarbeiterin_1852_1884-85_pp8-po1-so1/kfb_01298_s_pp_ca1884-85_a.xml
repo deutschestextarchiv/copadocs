@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1298s07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Susanne Klohn</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1298</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Viktoria <surname>S.</surname></persName>
+<date type="sent">ca. 1884-85</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwiegermutter: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1298s">
+<persName>
+<forename>Viktoria</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1852"/>
+<death cert="unknown"/>
+<occupation>Farbikarbeiterin</occupation>
+<residence><geo decls="#WGS">48.0290394 10.7340993</geo>Buchloe, Kaufbeuren</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Mutter Dienstmagd, Vater: Sergent (?)</p>
+<p>Anstalt: <date from="1884" to="1885">1884-1885</date></p>
+<p>Brieftypen: pp, po, sonst</p>
+</state>
+<trait><p>Verrücktheit mit Größen-, Verfolgungs- und Beeinträchtigungswahn (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beschwerde über unrechtmäßige Freiheitsberaubung und Grüße
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1298s07.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#r">Geliebte Schwiger Mutter Gevat<unclear>erinn</unclear>!</hi><lb break="yes"/></salute>
+</opener>
+<p> Diese Nachrichten wo ich diese Zeit erfahren<lb break="yes"/>läßt sich schließen das man mich
+                ganz in der<lb break="yes"/>Verbanung läßt und meine Gegenstände<lb break="yes"/>meine Verwande <w>ab hält</w> das Sie mich<lb break="yes"/>noch viel mehr verstoßen in dieser<lb break="yes"/>Lage wo mir nur Iamer und Elend
+                    zu<lb break="yes"/>theil wurde  dieses Föhngericht ist<lb break="yes"/>Streng
+                gegen mich ach diese Kl Advokaten<lb break="yes"/>Wahlbezirke der Reichstag und
+                    Landtagswahl<lb break="yes"/>wo <w>statt gefunden</w>
+    haben ja ich kan nicht<lb break="yes"/>genug jamern über das Elend das <w>der</w><w>herrn</w><lb break="yes"/><surname>T.</surname> so hart <unclear>ten kann</unclear> wo mir von<lb break="yes"/>Euch allen dieses harte <w>auf erlegt</w>
+                    wurde<lb break="yes"/>Ich bin ohne Schlüßel zu diesen<lb break="yes"/>Geheimniß vollen Räumen guter Vater<lb break="yes"/>In K K B B Anstalten.<lb break="yes"/></p>
+<p>
+<hi rendition="#r"><seg ana="#salute">viele hundert tausend Grüßen<lb break="yes"/>auch an Alle Nachbarschaften<lb break="yes"/>Frei Frauleins von <surname>I.</surname> und<lb break="yes"/>Frei Frauleins von Lieber General<hi rendition="#i">maiors</hi><lb break="yes"/>Frei Frau von <surname>R.</surname></seg></hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

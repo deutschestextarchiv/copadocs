@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k31" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>K.</surname></persName>
+<date type="sent">24.07.1865</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Commando des Königl. 4. Chevauxlegers-Regiments</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1865" to="1867">1865-67</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er will abgeholt werden, weil er gesund ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k31a.jpg" xml:id="image_058"/>
+<graphic mimeType="image/jpg" url="kfb415k31b.jpg" xml:id="image_059"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_058"/>
+<opener>
+<dateline><hi rendition="#i">Irsee</hi> den 24. <hi rendition="#i">July</hi>
+                    1865.</dateline>
+<salute/>
+</opener>
+<p><hi rendition="#c">Der</hi>
+<hi rendition="#r">4<hi rendition="#sup">tes</hi>
+<hi rendition="#i">Chevaux-legers-Regiment.</hi></hi><lb break="yes"/><hi rendition="#c">Unterveterinaer-Arzt<lb break="yes"/>Xaver <hi rendition="#i"><surname>K.</surname></hi><lb break="yes"/>An<lb break="yes"/><hi rendition="#i">das Commando des Koenigl.<lb break="yes"/>4. Chevaulegers-Regiments<lb break="yes"/>"Koenig"</hi><lb break="yes"/>Betreff:<lb break="yes"/>Gehorsamste Bitte<lb break="yes"/>aus der Anstalt<lb break="yes"/><hi rendition="#i">Irsee</hi> abgeholt zu<lb break="yes"/>werden.</hi>
+</p><p><hi rendition="#r">Der Unterzeichnete mel<lb break="no"/>det einem <hi rendition="#i">Koenigl.</hi>
+                        4.<hi rendition="#sup">t</hi>
+<hi rendition="#i">Regi<lb break="no"/>ments-Commando</hi> gehor<lb break="no"/>samest, ihn hier wieder ab<lb break="no"/>holen laßen zu wollen,<lb break="yes"/>nachdem derselbe laut<lb break="yes"/>aerztlichen Gutachtens
+                    des<lb break="yes"/>Herrn Director <hi rendition="#i">Dr. Kiederle</hi><lb break="yes"/>schon begutacht ist. Jch er<lb break="no"/>kläre auf Ehre und
+                    Gewißen<lb break="yes"/>daß ich vollkommen gei<lb break="no"/>stig gesund bin.<lb break="yes"/><hi rendition="#i"><surname>K.</surname></hi>
+<hi rendition="#u">Ut. Vt: Arzt</hi></hi></p>
+<pb facs="#image_059"/>
+<p><hi rendition="#c">Von dem Unterveterinär-Arzte<lb break="yes"/>Xaver <hi rendition="#i"><surname>K.</surname></hi><lb break="yes"/>An<lb break="yes"/>das Commando des <hi rendition="#i">Koenigl.
+                        4. Chev. leg. Regiments<lb break="yes"/>"Koenig"</hi><lb break="yes"/>in</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Augsburg</hi>.</hi></hi><lb break="yes"/>d. S.</p>
+</body>
+</text>
+</TEI>

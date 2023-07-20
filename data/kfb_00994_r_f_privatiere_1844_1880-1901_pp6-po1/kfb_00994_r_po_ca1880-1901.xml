@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb994r01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>994</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>R.</surname></persName>
+<date type="sent">ca. 1880-1901</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt:  <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb994r">
+<persName>
+<forename>Maria</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1901"/>
+<occupation>Privatiere</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg/Wießlings</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Bauernhof bei Memmingen</p>
+<p>Anstalt: <date from="1880" to="1901">1880-1901</date></p>
+<p>Brieftypen: po, pp</p>
+</state>
+<trait><p>Halluzinationen (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Inhalt: bittet, dass heim darf, ging ihr draußen besser, will bei Geschwistern bleiben, will Kosten zahlen, bittet um Schonung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb994r01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb994r01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren<lb break="yes"/>d.</hi><lb break="yes"/></dateline>
+<salute><hi rendition="#c">Verehrter Herr<lb break="yes"/>Oberarzt!</hi><lb break="yes"/></salute>
+</opener>
+<p>
+<space/> Darf ich nicht bitten<lb break="yes"/><space/> daß ich bald heim darf.<lb break="yes"/>Vielleicht ging es mir<lb break="yes"/>wieder gut. Es ist mir<lb break="yes"/>draußen bald wieder<lb break="yes"/>besser gegangen.<lb break="yes"/><space/> Vielleicht kön̄te ich<lb break="yes"/>dan̄ wieder bei den<lb break="yes"/>Geschwistern bleiben. <pb facs="#image_002"/>
+<space/> Hern Oberarzt ich<lb break="yes"/>würde schon schön bitten<lb break="yes"/>u. würde Ihnen gerne<lb break="yes"/>die Kosten bezahlen<lb break="yes"/>wan̄ ich mein Geld u. d<lb break="yes"/>von meinem Sohn seinem<lb break="yes"/>Vermögen den <unclear>Zins</unclear><lb break="yes"/>bekäme. Auch
+                    würde<lb break="yes"/>ich um Nachsicht u<lb break="yes"/><space/> Schonung bitten<lb break="yes"/><lb break="yes"/><hi rendition="#r"><seg ana="#salute">Hochachtungsvollst</seg><lb break="yes"/><seg ana="#signed">Maria
+                    <surname>R.</surname></seg>.</hi>
+</p>
+</body>
+</text>
+</TEI>

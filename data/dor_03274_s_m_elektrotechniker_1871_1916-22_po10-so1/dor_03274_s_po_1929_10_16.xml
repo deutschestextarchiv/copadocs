@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor3274s11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>3274 (K. 210)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>S.</surname></persName>
+<date type="sent">16.10.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat</persName>
+<settlement type="sent">Dortmund</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor3274s">
+<persName>
+<forename>Franz</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1871-06-30"/>
+<death cert="unknown"/>
+<occupation>Elektrotechniker</occupation>
+<residence><geo decls="#WGS">51.5142273 7.4652789</geo>Geburtsort: Oelsdebenai; Wohnort: Dortmund</residence>
+<faith>konfessionslos</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: V: Aufseher, M: nicht bekannt</p>
+<p>Anstalt: <date from="1916-04-10" to="1921-07-25">10.04.1916-31.05.1916; 21.12.1920-25.07.1921</date></p>
+<p>Brieftypen: po, Lebenslauf</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   entschuldigt sich, sich bei der letzten Verhandlung nicht verabschiedet zu haben;
+                   führt seine Anzugsweste als Beweismittel an
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor3274s11a.jpg" xml:id="image_031"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_031"/>
+<opener>
+<dateline><hi rendition="#r">in Dortmund <add place="below">Geschrieben</add>
+<hi rendition="#i">den</hi> 16. Okt 1929.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Sehr</hi> Geehrter <hi rendition="#i">Herr Ober</hi>mede<hi rendition="#i">zialrat</hi>!</hi></salute>
+</opener>
+<p>Sie mir wohl entschuldigen, daß ich heute in Hamm<lb break="yes"/>keine Gelegenheit
+                nach der Verhandlung gesucht habe<lb break="yes"/>mich bei Ihnen zu vrabschieden,
+                es war vielleich<lb break="yes"/>aus andern Gründen <del>R</del>richtig da meine
+                Tochter<lb break="yes"/>sich mit dem Herrn Vertreter meiner Frau sich noch<lb break="yes"/>dort in den Fluren aufhielt.<lb break="yes"/>Da mir noch 2
+                Abschriften des Briefes an meine<lb break="yes"/>Frau vom 18. Juli d. J. zur
+                Verfügung stehen<lb break="yes"/>erlaube ich mir Ihnen eine solche zu übermitteln<lb break="yes"/>mit dem Bemerken daß sich doch das streitig fehlend<lb break="yes"/>Wort (u hören) gleich im ersten Satz des letzten<lb break="yes"/>Absatzes durch den da gegeben Ausdruck Eure<lb break="yes"/>Taub- und Blindheit
+                erkennt auch nicht u. s. w.<lb break="yes"/>ersteres mit bestätigt also nur als
+                    Flichtigkeit<lb break="no"/>fehler anzusehen seien der Schreibstube.<lb break="yes"/>Des weiteren wenn ich gesagt habe diese <w>mit gebrachte</w><lb break="yes"/>Weste dient als Beweißmittel; dann bezieht<lb break="yes"/>sich
+                doch dieser Beweiß dahin, wie Frau &amp; Tochter<lb break="yes"/>gehandelt haben
+                gegen mich: Ersten halten sie diese Anzüge<lb break="yes"/>so
+                lange fest bis <del>sie</del> dieselben zu eng und durch ihre<lb break="yes"/>Unachtsamkeit von den Motten zerfreßen; <hi rendition="#u">also <w>un<lb break="yes"/>brauch bar</w> sind.</hi><lb break="yes"/><hi rendition="#r">Hochachtungsvoll<lb break="yes"/><seg ana="#signed">Ihr<lb break="yes"/>F. J. <hi rendition="#i"><surname>S.</surname></hi>.</seg></hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1659a08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1659</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kaspar <surname>A.</surname></persName>
+<date type="sent">26.09.1905</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1659a">
+<persName>
+<forename>Kaspar</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1913"/>
+<occupation>Schneider, Unteroffizier</occupation>
+<residence><geo decls="#WGS">48.7990056 10.7444384</geo>Mündling, Donauwörth</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1879" to="1913">1879-1913</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Halluzinatorische Paranoia (1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Möchte seine Pension wieder im Gemeindehaus in Mündling beziehen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1659a08a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="kfb1659a08b.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline><hi rendition="#r">Irrse den 26 Sept. 1905.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Königliche
+                    Direktion!</hi></hi></salute>
+</opener>
+<p>Ich hatte bei meinem Zugange als Patient ei<lb break="no"/>nen vom Leibregimente
+                an mich ausgestellten<lb break="yes"/>Militärpaß bei mir von wo aus wegen des<lb break="yes"/>Zuganges mit dem Landwehrbezirkskom<lb break="no"/>mando <hi rendition="#i">Dillingen</hi> Unterhandlungen gepflogen<lb break="yes"/>wurden,
+                    <del><unclear/></del> welche mit einer Forder<lb break="no"/>ung Seitens dieses
+                Kom̄an̄dos dahin endigten,<lb break="yes"/>mich auf Pensionsbezug
+                wieder zu entlassen,<lb break="yes"/>sowie ein Hang zu Exzeß an mir nicht<lb break="yes"/>wahrgenom̄en werden würde und jene<lb break="yes"/>Hausfriedensstörung derentwegen ich hieher<lb break="yes"/>gekom̄en bin
+                lediglich nur als eine von<lb break="yes"/>mir ausgegangene Äußerung von<lb break="yes"/>Ehre erschien; es wäre /: den Wiederbe<lb break="no"/>zug der
+                Pension betreffend "auf Militär<lb break="no"/>kompetenz" :/ <del><unclear/></del>
+                das Bezirksamt<lb break="yes"/><hi rendition="#i">Donauwörth</hi> die hier
+                einschlägige Instanz<lb break="yes"/>des <del>die Entlassung</del> zu stellenden
+                Antrages,<lb break="yes"/>da die mit dem Pensionsbezuge zusamen<lb break="no"/>hängende Unterschluffsfrage <del>sich</del> auf<lb break="yes"/>eine kgl.
+                Verwaltung von Standesprivi<lb break="no"/>legien sich bezöge . . . . . . . . . . .
+                . . . . . . </p>
+<p>Es wäre etwa das Gemeindehaus in<lb break="yes"/>Mündling groß genug mich wieder<lb break="yes"/>zu beherbergen behufs des Pensions<lb break="no"/>bezuges von der
+                Gemeinde aus<lb break="yes"/>- Daher Gegenwärtiges unter Bezug auf<lb break="yes"/>ein unlängst eingereichtes Ent<lb break="no"/>lassungsgesuch <handShift medium="pencil"/> für Weiteres.<lb break="yes"/><seg ana="#signed"><hi rendition="#r"><handShift medium="ink"/>Kaspar
+                    <surname>A.</surname>.</hi></seg></p>
+<pb facs="#image_018"/>
+<p><hi rendition="#c">Der Patient<lb break="yes"/><hi rendition="#i">No</hi>:160<lb break="yes"/>An die Irrenhaus<lb break="no"/>direktion in<lb break="yes"/><hi rendition="#i">Kaufbeuren</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

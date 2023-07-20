@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb103p11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>103</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kaspar <surname>P.</surname></persName>
+<date type="sent">04.09.1855</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Königliche Direktion: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb103p">
+<persName>
+<forename>Kaspar</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1819"/>
+<death cert="unknown"/>
+<occupation>Candidat der Theologie</occupation>
+<residence><geo decls="#WGS">47.91185173928039 11.592666592515377</geo>Berg, Wolfratshausen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bauern</p>
+<p>Anstalt: <date from="1853" to="1865">1853-65</date></p>
+<p>Brieftypen: po, pp, so, ao</p>
+</state>
+<trait><p>Geistesstörung, Ruhelosigkeit (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient möchte aufgrund der Zustände in der Anstalt entlassen werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb103p11a.jpg" xml:id="image_025"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_025"/>
+<opener>
+<dateline>den 4<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> September 1855.</dateline>
+<salute><hi rendition="#c">Königl. <hi rendition="#i">Direction!</hi></hi></salute>
+</opener>
+<p>1.) Das kürzlich Ihnen gehorsam Angezeigte ist aus dem<lb break="yes"/>geistigen
+                Anstaltsgetriebe verschwunden. Dafür aber spielte<lb break="yes"/>2.) von gestern
+                auf heute ziemlich eindrucksvoll die Oberwärt'sche<lb break="yes"/>familie auch der
+                deren Hund durfte mit hündischen Geilheiten<lb break="yes"/>nicht fehlen,<lb break="yes"/>3.) An einen Dritten mehr <add place="above">wird</add> die
+                    <del>familie</del> Verwalter-familie daran<lb break="yes"/>kom̄en,
+                namentlich viel nicht wieder daren älteste Tochter <del>vor</del><lb break="yes"/>dabei vorleuchten; an einem Vierten mehr den̄ etwa<lb break="yes"/>4.) die Wittfrau Oberwärterin und<lb break="yes"/>5.) die Küchen-
+                und Waschmägde, die Wärter und Wärterin̄en,<lb break="yes"/>die sind in
+                einer solch <del>nothwendig</del> bedrängten Lage,<lb break="yes"/>daß <add place="above">es</add> sich nothwendig von selbst versteht, daß <del/> sie
+                    peini<lb break="no"/>gen und operiren müssen; von vielen Patienten nichts<lb break="yes"/>zu sagen, das liegt offen und laut vor.<lb break="yes"/><space/>
+                Sehen Sie, so geht es fort! Was kan̄ Sie noch behindern,<lb break="yes"/>mich zu entlassen, der ich an allen diesen vorkom̄enden<lb break="yes"/>Gottlosigkeiten und satanischen Bosheiten keinen Theil<lb break="yes"/>haben
+                will, sondern mich stets ab<unclear/>, mich davor zu warnen<lb break="yes"/>und vor
+                deren schädlichen Folgen mich zu schützen, so gut es<lb break="yes"/>geht?! <hi rendition="#c">Gehorsam</hi><lb break="yes"/>E.<hi rendition="#r">
+<seg ana="#signed">C.</seg>
+<surname>P.</surname>.</hi>
+</p>
+</body>
+</text>
+</TEI>

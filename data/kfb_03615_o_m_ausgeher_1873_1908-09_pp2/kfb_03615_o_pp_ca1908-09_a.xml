@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3615o01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3615</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>O.</surname></persName>
+<date type="sent">ca1908-09</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager: Herr <surname>M.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3615o">
+<persName>
+<forename>Wilhelm</forename>
+<surname>O.</surname>
+</persName>
+<birth when="1873"/>
+<death when="1909"/>
+<occupation>Ausgeher</occupation>
+<residence><geo decls="#WGS">48.3807299 10.8725408</geo>Oberhausen in Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Gastwirt</p>
+<p>Anstalt: <date from="1908" to="1909">1908-1909</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Progressive Paralyse, Größenideen (1908)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Schreibt an Schwager, möchte abgeholt werden</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3615o01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb3615o01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<salute><hi rendition="#c">Lieber Joseph!</hi></salute>
+</opener>
+<p>Lieber Joseph Sei so gut und<lb break="yes"/>kom̄e am Don̄erstag um<lb break="yes"/>3 Uhr in die <w>Heil Anstalt</w> u. hole<lb break="yes"/>mich ab. Fahrst um 9 Uhr früh vom<lb break="yes"/>Bahnhof weg
+                kom̄st um 1/2 Uhr in<lb break="yes"/>Kaufbeuren an. Gehst zu Deiner<lb break="yes"/>Mutter der habe ich geschrieben<lb break="yes"/>um 3 Uhr. Ich
+                Bezahle Dir Deine<lb break="yes"/>Fahrt. Weißt Joseph ich möcht<lb break="yes"/>zu
+                meiner Lieben Frau u. meinen<lb break="yes"/>Lieben Kindern. Ich habe Sie lange<lb break="yes"/>nicht. Gesehen</p>
+<p><seg ana="#salute"><hi rendition="#c">Es Grüßt Dich herzlich u.<lb break="yes"/>Deine Gemahlin</hi>
+<seg ana="#signed">Dein Schwager<lb break="yes"/>Wilhelm</seg></seg></p>
+<pb break="yes" facs="#image_002"/><p><hi rendition="#r"><add hand="arzt"><unclear reason="hand">?</unclear></add></hi><lb break="yes"/>Wohlgeb<lb break="yes"/><hi rendition="#c">Herrn Joseph<surname>M.</surname><lb break="yes"/>Buchdruckerkerei Besitzer</hi><hi rendition="#r">in
+                            Augsburg<lb break="yes"/>Ulmerstraße</hi><lb break="yes"/><add place="margin"><hi rendition="#u">frei</hi></add></p>
+</body>
+</text>
+</TEI>

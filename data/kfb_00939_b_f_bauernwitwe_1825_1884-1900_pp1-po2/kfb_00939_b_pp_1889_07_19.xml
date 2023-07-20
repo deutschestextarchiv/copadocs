@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb939b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>939</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Agatha <surname>B.</surname></persName>
+<date type="sent">19.07.1889</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tochter: Viktoria <surname>B.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb939b">
+<persName>
+<forename>Agatha</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1825"/>
+<death when="1900"/>
+<occupation>Bauernwitwe, später Armenhauspfündnerin</occupation>
+<residence><geo decls="#WGS">47.7224806 10.5568957</geo>Wald, Oberdorf; geboren in Niederstaufen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Müller; Vermögen: besitzt 800 Gulden</p>
+<p>Anstalt: <date from="1884" to="1900">1884-1900</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Chronische Melancholie mit Schwachsinn, Wahnideen (1896)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte bei Tochter und Schwiegersohn sein, will brav sein, will abgeholt werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb939b03a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb939b03b.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline>Irsee den 19 Juli 1889</dateline>
+<salute>Libe Tochter u. Schwüger<lb break="yes"/><hi rendition="#r">sohn</hi></salute>
+</opener>
+<p>
+Habt Ihr mich den ganz<lb break="yes"/>vergessen ich möchte so<lb break="yes"/>gern bey Euch sein u.<lb break="yes"/>wollte so braf sein wie<lb break="yes"/>möglich erfüllet mir doch<lb break="yes"/>den Wunsch u. holt mich<lb break="yes"/>ab. <seg ana="#salute">es grüßt Euch <del>u</del><lb break="yes"/>Eure Mutter</seg><lb break="yes"/><seg ana="#signed">Agatha <surname>B.</surname></seg>
+<pb facs="#image_005"/>		    
+An Frau Vicktoria<lb break="yes"/><del>Bl</del> <surname>B.</surname> logirt bei<lb break="yes"/>Herren <surname>G.</surname> im<lb break="yes"/>Teutschen haus in<lb break="yes"/>Wangen bei<lb break="yes"/><hi rendition="#r">Hergatz</hi>
+</p>
+</body>
+</text>
+</TEI>

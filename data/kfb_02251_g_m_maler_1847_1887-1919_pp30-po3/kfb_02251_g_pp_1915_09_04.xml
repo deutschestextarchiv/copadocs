@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Carima Jekel</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">04.09.1915</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Babette <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Maler</p>
+<p>Anstalt: <date from="1887" to="1919">1887-1919</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/><!--anpassen!-->
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Patient bezichtigt seine Schwester und andere Leute des Meineids und der Unterschlagung von Geld.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g08a.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb2251g08b.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="kfb2251g08c.jpg" xml:id="image_027"/>
+<graphic mimeType="image/jpg" url="kfb2251g08d.jpg" xml:id="image_028"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_025"/>
+<opener>
+<dateline>Irsee 4 September 1915.</dateline>
+<salute>Liebe Schwester!</salute>
+</opener>
+<p>Ich kan dir nur Mittheile<lb break="yes"/>daß Ich 754 Marken ein<lb break="no"/>nen
+                Rock Schwarzen 8<lb break="yes"/>oder 18 Marken erhalten<lb break="yes"/>nir
+                Verkauft hast. 2 tens<lb break="yes"/>800 Marken die Jahren<lb break="yes"/>das
+                Geld gearbeitet Zinß<lb break="yes"/>zun Kapital gekom̄en<lb break="yes"/>war. 3 tens 1000 Mark.<lb break="yes"/>Unterschlagung Ich keinen<lb break="yes"/>Kreuzer oder Pfenig<lb break="yes"/>nicht bekom̄en habe.<lb break="yes"/>Ihr Meineidige 2 Ger<lb break="no"/>ber u Fretscher gewe<lb break="no"/>sen waren
+                Betrug.<lb break="yes"/>Dan Werth <del>A</del> Kleider<lb break="yes"/>Uhren goldene Werth<lb break="yes"/>Gegenständen von<lb break="yes"/>Allen. Ein Meiediger </p>
+<pb facs="#image_026"/>
+<p>Man. Grübel geweßen<lb break="yes"/>worden. Briefen u<lb break="yes"/>Mündlich nich
+                Anlügnen<lb break="yes"/>von Dir bekomen<lb break="yes"/>habe bist du mir die<lb break="yes"/>größte Hür u Weis<lb break="no"/>bild von <add place="above">Lügen</add> Geschenken<lb break="yes"/>mich Betrogen hast.<lb break="yes"/>Meineid. Knappe u<lb break="yes"/>Knopf das selbe von<lb break="yes"/>Schlecht u
+                Mißerabl.<lb break="yes"/>von Meineidig von<lb break="yes"/>Unternehmugen noch<lb break="yes"/>zu dum Bezahlte<lb break="yes"/>Gelder Vater u Mut<lb break="no"/>ter enhalten haben<lb break="yes"/>mir anzuhaben wo<lb break="no"/>llen ein
+                damischer<lb break="yes"/>Knape geweßen </p>
+<pb facs="#image_027"/>
+<p>Lumpen. Notar be<lb break="no"/>findet sich in Irsee.<lb break="yes"/>Meineid. Winer<lb break="yes"/>eine maaße von<lb break="yes"/>Medezin Ubertretungen<lb break="yes"/>Polizein Mißhandlun<lb break="no"/>gen.<lb break="yes"/><seg ana="#salute">Jetzt Schließe mein<lb break="yes"/>Schreiben daß du<lb break="yes"/>Brief erhaltest.</seg><lb break="yes"/><seg ana="#signed">dein Bruder<lb break="yes"/>Jakob
+                        <surname>G.</surname><lb break="yes"/>Maler. </seg><lb break="yes"/><lb break="yes"/><surname>S.</surname> habe Ich<lb break="yes"/>länger Bewußt sein<lb break="yes"/>eine Lügner Waare<lb break="yes"/>u Meineid.<lb break="yes"/>3
+                Schoben Bier kan ich nicht zu<lb break="no"/>rück Auslaßen schon 20 Jahren 5<lb break="yes"/>Monaten gehabt nicht mehr angerehne<lb break="yes"/>durften </p>
+<pb facs="#image_028"/>
+<p>Babette <surname>G.</surname> Maler<lb break="yes"/><hi rendition="#c">Tochter</hi><lb break="yes"/>Heil u Pflegeanstalt<lb break="yes"/><hi rendition="#r">Kaufbeuern</hi><lb break="yes"/><lb break="yes"/>frei. </p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb936g04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Pius <surname>G.</surname></persName>
+<date type="sent">16.04.1883</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Gemeindeverwaltung Kicklingen</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb936g">
+<persName>
+<forename>Pius</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1901"/>
+<occupation>Schneider</occupation>
+<residence><geo decls="#WGS">48.570171 10.590197622123007</geo>Kicklingen, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1883" to="1901">1883-1901</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Halluzinationen, Größenwahn, Verfolgungswahn (1883)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Wünscht sich Ummeldung an anderen Wohnsitz, da er zu viele Feinde an seinem Wohnort hat. 
+                   Gemeinde hat Petition gegen Gallenmüller vernlasst.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb936g04.jpg" xml:id="image_026"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_026"/>
+<opener>
+<dateline><hi rendition="#r">Kicklingen  den 1 September<lb break="yes"/>1883<lb break="yes"/></hi></dateline>
+<salute><hi rendition="#r">An die Gemeinde Verwaldung zu Kicklingen,</hi><lb break="yes"/></salute>
+</opener>
+<p>
+<space/> Auf übereinkomen im kl. bezircksgerichts<lb break="yes"/>Dillingen. Reiße
+                ich heute ab u. zwar um<lb break="yes"/>den Wohnsitz zu ändern. Da in Kicklingen<lb break="yes"/>eine Geheime Partei exestiert um mir in jeder<lb break="yes"/>beziehung zu schädigen, Gründe die Gemeinde <del>ve</del><lb break="yes"/>Verwaldung Kicklingen ließ sämtliche Bürger<lb break="yes"/>in das Schulhaus
+                schaffen um Unterschriften<lb break="yes"/>zu sameln., zweck, da Pius <surname><hi rendition="#i">G.</hi>enmüll<hi rendition="#i">e</hi>r</surname><lb break="yes"/><w>Geistes krank</w> erklärt <del>ep</del> ist, u. wir Ihn<lb break="yes"/>verhalten müssen so zahlen wir lieber 500 Marck.<lb break="yes"/>nach Kaufbeuren. den Er konte einmal ein Haus anzünden<lb break="yes"/>oder eines
+                erschlagen. Zur meiner beweisführung gegen<lb break="yes"/>obiges in betreff das ich Arbeitsscheu Sei über Geistliche u.<lb break="yes"/>Weltliche Obrigkeit schimpfe. u. auf antrohung man solle <del>Ihn</del><lb break="yes"/><add>mich</add> erschießen erschlagen. werde ich Gerichtlich vorgehen.<lb break="yes"/>von Johan <surname><hi rendition="#i">G.</hi></surname>
+                erhält <hi rendition="#r"> Pius<surname><hi rendition="#i">G.</hi></surname>
+                    z. Z. </hi><lb break="yes"/>30 Marck Reise Geld welche <hi rendition="#r">in
+                    Kicklingen</hi><lb break="yes"/>von der Gemeinde Kicklingen <w>vor zu schüßen</w> Sind </p>
+</body>
+</text>
+</TEI>

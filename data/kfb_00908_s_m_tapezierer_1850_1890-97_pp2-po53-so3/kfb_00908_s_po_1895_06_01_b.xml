@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s53" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">01.06.1895</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geistlicher</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1890" to="1897">1890-1897</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um Weiterleitung eines Briefs.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s53.jpg" xml:id="image_143"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_143"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee den 1. Juni
+                    1895.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Euer
+                    Hochwürden!</hi></hi></salute>
+</opener>
+<p><space/> Durch einen Unaussprechlichen Seelenschmerz, welcher<lb break="yes"/>mir seid 8<hi rendition="#sup">ten</hi>
+<hi rendition="#i">März</hi> 1890 Auferlegt wurde, bin ich gezwungen,<lb break="yes"/>an einen Geistlichen Herrn zu wenden, welcher sich um Un<lb break="no"/>glückliche
+                annim̄t u. nicht Verachtet als die Herr Aerzte hier,<lb break="yes"/>u. aber
+                auch eine Verschwiegenheit zu Schätzen weis. −<lb break="yes"/>Ich bin wegen
+                einem <hi rendition="#u" style="arzt">falschen</hi> Aerztlichen Gutachten jetzt um<lb break="yes"/>Freiheit, Arbeit u. Verdienst gekom̄en, welches ich nach
+                Rechten nicht<lb break="yes"/>Annehmen kan̄ u. deßhalb mich an die
+                Gemeindebehörde wende<lb break="yes"/>Allein Da ich nur <w>zu</w><w>viel</w> Ungerechtigkeiten
+                von Seite des Auf<lb break="no"/>sichtspersonal mitansehen mußte u. mich deßhalb
+                Beschwerdete<lb break="yes"/>werden mir alle Mittel u. Wege abgeschnitten, −
+                Also <seg ana="#cens">säm̄tliche<lb break="yes"/>Briefe Unterschlagen</seg>,
+                Obwohl ich mir nicht in geringsten etwaß<lb break="yes"/>zu Schulden kom̄en
+                laß. − Ich Bitte Sie daher mit mir ein<lb break="yes"/>Mitleid zu haben, u.
+                die Barmherzigkeit mir den beigelegten<lb break="yes"/>Brief an das
+                Gemeindekollegium Augsburg zu Befördern<lb break="yes"/>Ich werde Sie mein
+                Lebenlang Dankbar sein u. mein Lebens<lb break="no"/>retter von dießer
+                Gefangenschaft Preißen. − Ich Bitte sie noch<lb break="no"/>mals Dringend in
+                Namen des Dreieinigen Gottes das Sie die<lb break="yes"/>Barmherzigkeit haben u.
+                dießen Brief an den Bestim̄ungsort<lb break="yes"/>Befördern möchten,<lb break="yes"/><hi rendition="#c">Es grüßt Sie <hi rendition="#i"><seg ana="#salute">Hochachtungsvollst</seg></hi><lb break="yes"/>Ihr<lb break="yes"/><hi rendition="#i">Dankbar
+                    Ergebene</hi></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Unglükliche <seg ana="#signed">Jakob</seg></hi>
+<seg ana="#signed"><surname>S.</surname></seg><lb break="yes"/>v. <hi rendition="#i">Augsburg</hi></hi><lb break="yes"/><hi rendition="#i">Bitte</hi> leider kan̄ ich mit besten
+                Willen keine Gelegenheit<lb break="yes"/>finden als das Schreiben in die Sakristei
+                zu werfen<lb break="yes"/>u. an Ihnen Herr <hi rendition="#i">Hochwürden</hi> meine
+                Zuflucht suchen oder<lb break="yes"/><hi rendition="#r">wenden.</hi></p>
+</body>
+</text>
+</TEI>

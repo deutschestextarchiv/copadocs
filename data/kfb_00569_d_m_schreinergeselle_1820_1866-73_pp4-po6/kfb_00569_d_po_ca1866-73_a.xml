@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb569d03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>569</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>D.</surname></persName>
+<date type="sent">ca1866-73</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor, Pfarrer in Mickhausen</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb569d">
+<persName>
+<forename>Georg</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1820"/>
+<death when="1873"/>
+<occupation>Schreinergeselle, Chirurgensohn</occupation>
+<residence><geo decls="#WGS">48.2409342 10.639933</geo>Mickhausen, Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Chirurg</p>
+<p>Anstalt: <date from="1866" to="1873">1866-73</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Alienatio Mentis (1864), Melancholie mit fixen Ideen (1866), Schizophrenie (1953)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er versteht nicht, warum er wegen seiner krummen Füße eingesperrt wird und möchte geholt werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb569d03a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb569d03b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Herr <hi rendition="#i">Dierecktor!</hi></hi></salute>
+</opener>
+<p><hi rendition="#u">Herr Pfarrer von Mickhausen</hi>, die krumen<lb break="yes"/>Füssen,<hi rendition="#sup"><hi rendition="#u">!</hi></hi> haben sich nach
+                der Sprache ober den Ohren<lb break="yes"/>Links und Rechts zu richten, nach dem
+                Silbergroschen<lb break="yes"/>und nach dem Finsterstöckl beim Bischof in<lb break="yes"/>Augsburg unten beim Bortie!!!! Bemerkung?  </p>
+<p>Warum bin ich den hier als<lb break="yes"/>wegem genan̄ten! H <hi rendition="#i">Direktor</hi><lb break="yes"/><hi rendition="#u">bitte ich gleich Auskunft zu geben</hi>!<lb break="yes"/>Ans Vikariath − an Pfarei Mickhausen! mih abzuhollen nach<lb break="yes"/><hi rendition="#r">38 Wochen</hi><lb break="yes"/><add><seg ana="#signed"><hi rendition="#u">Georg <surname>D.</surname></hi></seg></add></p>
+<pb facs="#image_010"/>
+<p><hi rendition="#u">Sie werden mich doch<lb break="yes"/>verstehen in Gottes
+                    Namen!</hi><lb break="yes"/>So auf die krum̄en Füssen<lb break="yes"/>die den Pfarrer
+                von Mikhausen<lb break="yes"/>getroffen haben! </p><p><hi rendition="#u">Wer</hi> hat den̄ die krum̄e<lb break="yes"/>Füssen, dem Pfarrer gemacht!<lb break="yes"/><hi rendition="#u">Wer</hi> hat
+                den, den Silbergroschen<lb break="yes"/>eingeworfen, <hi rendition="#u">Wer</hi>
+                hat den, den<lb break="yes"/>Finsterstok herausgenom̄en?<lb break="yes"/>Ich habe den Glauben, die Allmacht Gottes! hat daß ken̄en machens<lb break="yes"/><add place="margin"><hi rendition="#u">Die Überzeugung<lb break="yes"/>suchen!!!!<lb break="yes"/>Die reine Wahrheit ist
+                    es!</hi></add></p>
+</body>
+</text>
+</TEI>

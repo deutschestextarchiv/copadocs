@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k27" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>K.</surname></persName>
+<date type="sent">31.05.1865</date>
+<date type="received">n.a.</date>
+<persName type="addressee">4. Chevaulegers-Regiment "Koenig"</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1865" to="1867">1865-67</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um Entlassung wegen seiner Krankheit und um Geld.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k27a.jpg" xml:id="image_051"/>
+<graphic mimeType="image/jpg" url="kfb415k27b.jpg" xml:id="image_052"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_051"/>
+<opener>
+<dateline><hi rendition="#i">Irre-See</hi> d. 31. <hi rendition="#i">May</hi>
+                    1865</dateline>
+<salute/>
+</opener>
+<p><space/> Der<lb break="yes"/><space/> Unteveterinaer-Arzt<lb break="yes"/><space/> Xaver <hi rendition="#i"><surname>K.</surname></hi><lb break="yes"/><add place="margin">4<hi rendition="#sup">tes</hi>
+<hi rendition="#i">Chevaulegers-Regiment<lb break="yes"/><hi rendition="#c">"Koenig".</hi></hi></add><lb break="yes"/><space/> An<lb break="yes"/><hi rendition="#i">das</hi> 4<hi rendition="#sup">te</hi>
+<hi rendition="#i">Escadrons-Commando</hi>.<lb break="yes"/><hi rendition="#c">Betreff:<lb break="yes"/>Gehorstameste Bitte<lb break="yes"/>um Unterstützung<lb break="yes"/>aus dem Offizier-Unter<lb break="no"/>stützungs-Fonde<lb break="yes"/>betreffen ohne Rückersatz.</hi></p>
+<p><hi rendition="#r">Der Unterzeichnete meldet<lb break="yes"/>einem <hi rendition="#i">Koeniglichen Escadrons<lb break="no"/>Commando</hi> gehorsamest, daß<lb break="yes"/>er in Folge allerhöchsten<lb break="yes"/>Diemstes innerhalb
+                    sehs<lb break="yes"/>Jahren viermal an einem gich<lb break="no"/>tisch-<hi rendition="#i">rheumatischen</hi> Leiden<lb break="yes"/>und zwar am der
+                    linken Exte<lb break="no"/>mitaet und dem rechten Arm<lb break="yes"/>während
+                    seiner Verwendung bei<lb break="yes"/>der <hi rendition="#i">Koeniglichen
+                            Militäer<lb break="no"/>Fohlenhofs-I<add place="above">n</add>spection<lb break="no"/>Steingaden</hi> gelitten<lb break="yes"/>habe.</hi></p>
+<p><add>Beilagen:<lb break="yes"/>5.</add></p>
+<p><hi rendition="#r">Der hat nun durch seinen<lb break="yes"/>behandelden Arzt, der k. pensi<lb break="no"/>onirten Regiments-Arzt I. l.
+                    Herr<lb break="yes"/>Dr. <hi rendition="#i">medicin.</hi> Georg <hi rendition="#i"><surname>S.</surname></hi> den</hi>
+<pb facs="#image_052"/><hi rendition="#r">dringenden Rath ertheilt,<lb break="yes"/>um dieses <hi rendition="#i">chronischen</hi> Übel<lb break="yes"/>erdiket zu
+                    heilen, die sehr<lb break="yes"/>wirksame Schwefel-Que<lb break="no"/>lle zu
+                        <hi rendition="#i">Oberdorf</hi>, bei <hi rendition="#i">Hin<lb break="no"/>delang</hi>, im Allgäu, <hi rendition="#i">Kgl:<lb break="yes"/>Bezirks-Amts- Sonthofen</hi><lb break="yes"/>in der Dauer von vier<lb break="yes"/>Wochen in den Monaten<lb break="yes"/><hi rendition="#i">July</hi> u. <hi rendition="#i">August</hi> zu gebrau<lb break="no"/>chen.</hi></p>
+<p><hi rendition="#r">Ich stelle daher an ein<lb break="yes"/><hi rendition="#i">Koenigliches 4. Escadrons<lb break="no"/>Commando</hi> die gehorsam<lb break="no"/>ste Bitte, daß mir von<lb break="yes"/>dem
+                        Offizier-Unterstütz<lb break="no"/>ungs-Fond eine Summe<lb break="yes"/>von
+                    170 fl sage mit Worten<lb break="yes"/><hi rendition="#i">einhundert zehn <add place="above">sieben</add> Gulden</hi><lb break="yes"/>gereicht werden möchten. −<lb break="yes"/>Dieses bittet
+                    der ge<lb break="no"/>horsamst Unterzeichneter<lb break="yes"/><hi rendition="#i">Einem Koeniglichen hohen<lb break="yes"/>Regiments-Commando</hi> in<lb break="yes"/>Vorlage bringen zu wollen<lb break="yes"/>Xaver <hi rendition="#i"><surname>K.</surname></hi>
+<hi rendition="#u">Ut. Vt. Arzt</hi></hi></p>
+</body>
+</text>
+</TEI>

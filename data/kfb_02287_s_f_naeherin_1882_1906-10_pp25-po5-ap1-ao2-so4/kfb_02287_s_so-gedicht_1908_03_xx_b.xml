@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2287s16" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2287</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josefine/Josephine <surname>S.</surname></persName>
+<date type="sent">März 1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2287s">
+<persName>
+<forename>Josefine/Josephine</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1882"/>
+<death cert="unknown"/>
+<occupation>Näherin, Buchhalterin</occupation>
+<residence><geo decls="#WGS">47.9316785 10.4213798</geo>Wineden, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Gutsbesitzer, Söldner und Krämer</p>
+<p>Anstalt: <date from="1906" to="1910">1906-10</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait>
+<p>Manisch-depressives Irresein (1908)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Liebesgedicht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2287s16a.jpg" xml:id="image_069"/>
+<graphic mimeType="image/jpg" url="kfb2287s16b.jpg" xml:id="image_070"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_069"/><pb facs="#image_070"/>
+<opener>
+<dateline><hi rendition="#r"><add hand="arzt"><hi rendition="#i">März
+                        1908</hi></add></hi></dateline>
+<salute/>
+</opener>
+<p><hi rendition="#c"><hi rendition="#u"><w>Liebes geflüster</w></hi></hi><lb break="yes"/>"Ich sah Dich auf goldene Throne,<lb break="yes"/>Ich schmük Dich
+                mit Hermelin,<lb break="yes"/>In Deiner Flechten braune Krone,<lb break="yes"/><hi rendition="#u">Streute ich Demant u Rubin</hi>.. −<lb break="yes"/>Dein
+                Antlitz süß hab ich beschrieben,<lb break="yes"/>In manchem klingenden Gedicht,
+                −<lb break="yes"/>Sag, wirst <hi rendition="#u">Du mich auch ewig lieben?<lb break="yes"/>Du sagtest leiß: "Ich weiß noch nicht."</hi><lb break="yes"/>"Wen̄s Du verlangst so will ich sterben<lb break="yes"/>Am
+                liebsten ich für Dich lebt ich noch!<lb break="yes"/>Du magst den Toten dan̄
+                beerben<lb break="yes"/>A, weihst ihm eine Träne doch!<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Dein ja Dein, ja Dein nur ist
+                mein Leben,<lb break="yes"/>Du meiner Seele, holdes Licht, −<lb break="yes"/>Sag wilst Du keinen Kuß mir geben?<lb break="yes"/>Du sagest leiß: "Ich weiß es
+                niht. −<lb break="yes"/>"So reich" zum Bund mir deine Hände<lb break="yes"/>U. sei mein ehelich Gemahl!−<lb break="yes"/>Im Som̄er gehn wir in
+                d. Fremde,<lb break="yes"/>Im Winter dan̄ nach Hause wieder!<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Du schwelgst im
+                Briefen Überfluße,<lb break="yes"/>bekom̄st vielleicht weg mir Verdruße<lb break="yes"/>Da neigtest Du den Mund zu Küssen<lb break="yes"/>Geliebter, o
+                mein Schatz ich bin Dir gut<lb break="yes"/>Mein Schatz ich liebe Dich aufs Blut;<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Ich
+                freue mich der dunkeln Som<lb break="no"/>mertagen, ein leichter Schleier<lb break="yes"/>deckt das Him̄elszelt, der<lb break="yes"/>Wind schweigt;
+                nur von<lb break="yes"/>seltenem Vogelschlage, Belebt<lb break="yes"/>die Ruhe,
+                sich in Wald u Feld.<lb break="yes"/>U den̄och von Wolken u Vergehn.<lb break="yes"/>Auf blühend schöner Fülle ruht das Blut<lb break="yes"/>Kein
+                hasten mehr, <unclear/> scheinbar Stille,<lb break="yes"/>stehn befridigt wunschlos
+                wie spätes <unclear/><lb break="yes"/><hi rendition="#c"><unclear>Glück!</unclear></hi><lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+</body>
+</text>
+</TEI>

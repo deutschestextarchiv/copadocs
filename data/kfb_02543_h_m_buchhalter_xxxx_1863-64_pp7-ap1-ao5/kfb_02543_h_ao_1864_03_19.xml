@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2543h10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2543</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Nanette <surname>H.</surname></persName>
+<date type="sent">19.03.1864</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2543h">
+<persName>
+<forename>Wilhelm</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1864"/>
+<occupation>Buchhalter, studierte Theologie</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1863" to="1864">1863-64</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"psychische und körperliche Aufregung", "Wahnvorstellungen" (1863)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="mutter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich für die Auskunft über den Zustand des Patienten und 
+                    gibt an, diesem verschiedene Sachen zuzuschicken.
+                    
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2543h10a.jpg" xml:id="image_037"/>
+<graphic mimeType="image/jpg" url="kfb2543h10b.jpg" xml:id="image_038"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_037"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg den 19<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> März <hi rendition="#u">1864</hi></hi></dateline>
+<salute><hi rendition="#c">Wohlgeborner<lb break="yes"/>Geehrtester Herr <hi rendition="#i">Director</hi>!</hi></salute>
+</opener>
+<p>Meinen verbindlichsten Dank für die gütigste Mittheilung über<lb break="yes"/>das Befinden meines <w>unendliche<del>n</del></w><w>Geliebten</w> Sohnes, etwas
+                beruhigter<lb break="yes"/>ist mein Gemüth, da einerseits etwas Besserung
+                vorhanden, aber<lb break="yes"/>leider das übel im Gehirn, noch üble Folgen haben
+                kan̄. </p><p>Die Gnade Gottes welche uns Hülfe senden kan̄,, und Jhre grose<lb break="yes"/>Sorgfalt,
+                mit Herzensgüte verbunden, erhalten mir noh einige<lb break="yes"/>Hoffnung, daß es
+                    no<unclear>c</unclear>h besser werden könte; Jch bitte Herrn <hi rendition="#i">Director</hi><lb break="yes"/>ebenfals mich Herrn <hi rendition="#i">Doctor</hi> höflichst zu
+                empfehlen und ihn in<lb break="yes"/>meinem Nam̄en zu bitten, sich des armen
+                    <seg ana="#med"><w>Geistes krancken</w></seg> gütig<lb break="yes"/>anzunehmen, welches auch früher
+                so wie mir Wilhelm sagte <unclear>g</unclear>eschehen<lb break="yes"/>ist. Seine
+                nöthige Efeckten Kleidungsstüke und Wesch, sind<lb break="yes"/>mir also so frei
+                Herrn <hi rendition="#i">Director</hi>, zu überschicken, mit Answendung<lb break="yes"/>derselben, zu verfügen. Auch 2f lege ich noh bei, um ihm
+                    man<unclear>c</unclear>hmal<lb break="yes"/>eine Tasse Kafee zukom̄en zu
+                lassen. Was geschickt wird<lb break="yes"/>ist <w>auf <hi rendition="#i">notirt</hi></w>. Sie werden so gütig sein es zu ver<unclear>richten</unclear>.<lb break="yes"/>verzeihen Sie meine Freiheit, d<unclear>a</unclear> diese Herr
+                    <hi rendition="#i">Director</hi> sehr <pb facs="#image_038"/>belästiget werden.
+                Herr Schwiegersohn <surname>S.</surname>, wie seiner
+                    <unclear>Frau</unclear><lb break="yes"/>empfehlen sich Jhnen wie Herr <hi rendition="#i">Doctor</hi>
+<w>viel mals</w> auh <unclear>mein Sch</unclear><lb break="yes"/>welhe<unclear>r</unclear> Wilhelm begleitet schließt sich an.<space/> <seg ana="#salute">Trauernd, und<lb break="yes"/>mit groser Hochachtung<lb break="yes"/><hi rendition="#c">Dem
+                    Wohlgebornen Herrn <hi rendition="#i">Directo</hi>r</hi><lb break="yes"/><hi rendition="#r">Danckbare und ergebenste<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed">Nan̄ette <surname>H.</surname></seg>
+<w><hi rendition="#i">Post Caßi</hi><unclear><hi rendition="#i">ers</hi></unclear><lb break="no"/><space/> Wittwe</w>.</hi></p><p>Noch so frei eine <w>Frage</w><w>an</w><lb break="yes"/>Sie zu machen ist mein<lb break="yes"/>Sohn noh bei
+                    <surname>A.</surname><lb break="yes"/>im Zim̄er?</p>
+</body>
+</text>
+</TEI>

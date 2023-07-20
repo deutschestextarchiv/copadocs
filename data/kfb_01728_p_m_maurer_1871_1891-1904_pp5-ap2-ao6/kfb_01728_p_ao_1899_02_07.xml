@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1728p11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1728</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>P.</surname></persName>
+<date type="sent">07.02.1899</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Weichering</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1728p">
+<persName>
+<forename>Andreas</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1871"/>
+<death when="1904"/>
+<occupation>Maurer und Musiker</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Weichering, Neuburg, Wohnort: München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Wegmacher, Straßenwärter</p>
+<p>Anstalt: <date from="1891" to="1904">1891-1904</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Alkoholismus, Halluzinationen (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber möchte wissen, ob sein Sohn schon länger krank war, ob er die Sterbesakramente empfangen hat und ob sein anderer Sohn vom Tod des Bruders weiß.
+                    Er erkundigt sich nach dem Befinden seines Sohnes.
+                    Er erklärt, dass er nicht zur Leiche kommen konnte, da er keine Antwort erhalten hat. Der Arzt notiert, dass sein Brief beantwortet wurde.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1728p11.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_027"/>
+<opener>
+<dateline><hi rendition="#r">Weichering Den 7 <hi rendition="#u">t</hi>
+<hi rendition="#i">Februar</hi> 1899<lb break="yes"/><add hand="arzt">prs. 8/II</add></hi></dateline>
+<salute/>
+</opener>
+<p> Ich Bitte Ihnen Herr Dieregder<lb break="yes"/>Sie werden Entschuldigen, und<lb break="yes"/>mechten mih in Kethnis sezen ob<lb break="yes"/>mein Sohn
+                    <del>sch</del> Vitus schon lenger<lb break="yes"/><w>Krang</w><w>war</w>, ob ehr
+                Doch die Heilögen<lb break="yes"/>Sterbsakrament Entpfangen hat oder<lb break="yes"/>nicht, ob sein Bruder Andereas auch weis<lb break="yes"/>das der Vitus Gestorben
+                ist und<lb break="yes"/>Schreibt mir wie sein benehmen ist,<lb break="yes"/>Ich
+                bitte Ihnen Sie werden Entschuld<unclear>igen</unclear><lb break="yes"/>und Bald
+                Schreiben den als Vater<lb break="yes"/>mit 71 Jahren, ich habe
+                    <w>nicht</w><w>mer</w> im Die<lb break="yes"/>Leiche komen kön̄en, indenn
+                ich gleich an<lb break="yes"/>euch geschriben hab aber keine Antwort<lb break="yes"/>erhalten hab.<lb break="yes"/><space/> <seg ana="#salute">Achtugsvohl</seg>
+<seg ana="#signed"><surname>P.</surname> Joseph</seg></p>
+<p><add hand="arzt">Ausführlich beantwortet: 9. II. 99.<lb break="yes"/>DJ.</add></p>
+</body>
+</text>
+</TEI>

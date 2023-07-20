@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb500n03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Angela Hofmann</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>500</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Katharina <surname>N.</surname></persName>
+<date type="sent">13.11.1858</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sohn: Franz <surname>N.</surname></persName>
+<settlement type="sent">Hecken</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb500n">
+<persName>
+<forename>Franz</forename>
+<surname>N.</surname>
+</persName>
+<birth when="1821"/>
+<death cert="unknown"/>
+<occupation>Bauern- und Müllerssohn</occupation>
+<residence><geo decls="#WGS">48.3277485 11.9905263</geo>Hecken, Erding</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: wohlhabend</p>
+<p>Anstalt: <date from="1857" to="1860">1857-60</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Schwermut, [Suizidalität] (1857-1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Mutter schickt Sachen für den Winter und fragt, wie es dem Sohn geht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb500n03a.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r">Heken den 13<lb break="yes"/>Novemb: 1858</hi></dateline>
+<salute><space/> Lieber Sohn!</salute>
+</opener>
+<p>
+<add hand="arzt" place="above"><hi rendition="#r">17 <hi rendition="#i">Novb</hi> 58 <unclear/></hi></add>
+
+hier überschicke ich dir 23 f 27 K welche ich<lb break="yes"/>in die Diretion schuldig bin, dan schicke ich<lb break="yes"/>dir eine Winterhose 3 Hemden 2 par Socken<lb break="yes"/>wie Du es verlangt hast. Wir sind alle<lb break="yes"/>gesund, und hoffen es auch bey dir daß du<lb break="yes"/>gesund und zufriden seyn werdest, wen̄<lb break="yes"/>dir was abgeht kanst schon schreiben<lb break="yes"/><seg ana="#salute">in aller Liebe verbleibe ich </seg><seg ana="#signed">deine um<lb break="yes"/>dein Wohl</seg></p>
+<p><seg ana="#signed"><hi rendition="#r">beküm̄erte Mutter<lb break="yes"/>Katharina <surname>N.</surname></hi></seg>
+</p>
+</body>
+</text>
+</TEI>

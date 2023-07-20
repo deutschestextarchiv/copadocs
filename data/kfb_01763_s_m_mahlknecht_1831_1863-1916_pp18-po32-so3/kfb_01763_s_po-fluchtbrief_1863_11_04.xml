@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1763s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1763</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>S.</surname></persName>
+<date type="sent">04.11.1863</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1763s">
+<persName>
+<forename>Georg</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1831"/>
+<death when="1916"/>
+<occupation>Mahlknecht</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonomen</p>
+<p>Anstalt: <date from="1863" to="1916">1863-1916</date></p>
+<p>Brieftypen: pp, po </p>
+</state>
+<trait><p>Hypochondrie, (folie raisonnante)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Der Patient schreibt dem Direktor nach seiner Flucht aus der Anstalt, aus der er wie von Engeln geführt wurde; dankt Direktor und möchte ihn besuchen.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1763s04a.jpg" xml:id="image_102"/>
+<graphic mimeType="image/jpg" url="kfb1763s04b.jpg" xml:id="image_103"/>
+<graphic mimeType="image/jpg" url="kfb1763s04c.jpg" xml:id="image_104"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_102"/>
+<opener>
+<dateline><hi rendition="#r">den 4<hi rendition="#sup">ten</hi> November 1863</hi><lb break="yes"/><add hand="arzt"><hi rendition="#i">p</hi><hi rendition="#i">r</hi>. 6. 11.
+                        63.</add></dateline>
+<salute><hi rendition="#c">Hochgeehrtester Herr!</hi><lb break="yes"/></salute>
+</opener>
+<p> Ich mache Ihnen zu wißen das ich noch lebe, und wo<lb break="yes"/>die Noth am größten ist.
+                ist Gott am nähsten. Ich habe<lb break="yes"/>noch nie den Geringsten Gedanken
+                gehabt zu entgehen.<lb break="yes"/>Ich habe mir vorgenom̄en Ihne 3 Wochen
+                lang nieder<lb break="no"/>knieht zu bitten daß ich fortkom, aber es scheinte
+                    mir<lb break="yes"/>keine Gelegenheit zu haben. Ich habe auf 8 Tagen den<lb break="yes"/>armen Seelen Täglich gewiß ein Gebet versprochen, daß<lb break="yes"/>aber nur aus einem Vatterunser besteht. weil das schon<lb break="yes"/>meinen Kräften beschwerlich ist. Ich glaubte sogar daß ich<lb break="yes"/>vor meinem Tode nicht mehr zum beichten kom̄. Auf einmal<lb break="yes"/>kam mir der Gedanken zu entgehen, weil man̄ mich am
+                    Son̄tag<lb break="yes"/>oder Mondtag mich hat nicht beichten laßen ist
+                die Hauptsa<lb break="no"/>che. Ich bin so! sanft <add place="below">gut</add>
+                entkom̄en, mir wahr es gerade als<lb break="yes"/>führte mich ein Engel
+                Gottes bei der Hand aus dem Körker.<lb break="yes"/>Und Sie kön̄en mein
+                bester Helfer auf weiteres <del>schein</del> sein.<lb break="yes"/>Ich hoffe es
+                auch, und bitte Sie aufs allerkräftigste. Und<lb break="yes"/>auf jeden fall werde
+                ich Sie nacher besuchen, und Ihnen<lb break="yes"/>danken für das was Sie mir noch
+                recht thun, so wie eine <pb facs="#image_103"/> arme Seele die man̄ aus dem
+                Fegfeuer erlöst. Mir<lb break="yes"/>preßt das Weinen imer
+                die zähren aus den Augen,<lb break="yes"/>und ich sehe gar
+                kein Ende, über das leiden zu Weinen,<lb break="yes"/>welches
+                mir mein Vatter zufügt. Sie werden doch nicht<lb break="yes"/>mer dazu helfen. Ich
+                bitte daß Sie mit Ihnen ent<lb break="no"/>schlüße nicht eilen, ich will Ihnen noch
+                mehreres berichten.</p>
+<p><seg ana="#salute"><hi rendition="#c">Ich güße Sie hochachtungsvol</hi><lb break="yes"/>u den Herrn
+                    Kaplan </seg> <seg ana="#signed"><hi rendition="#r">Georg <surname>S.</surname>.</hi></seg></p>
+<pb facs="#image_104"/> <p> An seine Wohlgebohren<lb break="yes"/>Herrn Direcktor<lb break="yes"/>in der Königlichen<lb break="yes"/>Irrenanstalt Irrsee </p>
+</body>
+</text>
+</TEI>

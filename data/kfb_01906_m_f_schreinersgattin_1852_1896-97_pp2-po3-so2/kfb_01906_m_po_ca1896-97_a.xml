@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1906m04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1906</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karoline <surname>M.</surname></persName>
+<date type="sent">ca. 1896-97</date>
+<date type="received">n.a.</date>
+<persName type="addressee">:<surname>S.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1906m"><!--Ortskürzel&Aktennummer&Nachnamekürzel, dann Geschlecht-->
+<persName>
+<forename>Karoline</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1852"/>
+<death when="1897"/>
+<occupation>Schreinersgattin</occupation>
+<residence><geo decls="#WGS">48.2679546 10.8883816</geo>Königsbrunn, Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1896" to="1897">1896-1897</date></p>
+<p>Brieftypen: po, sonstiges</p>
+</state>
+<trait><p>Paralytische Seelenstörung, Größenwahn (1896)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Auflistung von Gegenständen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1906m04a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb1906m04b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline/>
+<salute>Liebe Fr <surname>S.</surname>! </salute>
+</opener>
+<p> Sin sich auch die Manisch<lb break="yes"/>Und ein Masch Masch, die hätte Ich<lb break="yes"/>Bald vergessen u gehen <unclear>Schöpfinchinib</unclear><lb break="yes"/>u laßen
+                den Leihauszükeben. u es Ihn<lb break="yes"/>der Gesde Sie zur Frau
+                    <surname>B.</surname><lb break="yes"/>hin u Sie soll Ihnen den Zettel
+                    genben<lb break="yes"/>2 Kisser u. <unclear>deren</unclear> Ander Wasch u.
+                    von<lb break="yes"/>schwarzen Keid den N. Ich haben Ihn<lb break="yes"/>forne
+                u. den von dem Schwarz Auch<lb break="yes"/>forne denin des lange herod als ich von<lb break="yes"/>Augsburg u. meinen Winter soll Sie<lb break="yes"/>Auch dem N
+                Hemscheiben dan bitte<lb break="yes"/>Sie Liebe Frau <surname>S.</surname>!
+                Sie soll wir<lb break="yes"/>bei Herr <surname>D.</surname> Gärten
+                Bestellen 30 m<lb break="yes"/>Güß <unclear>zzu</unclear> u Kom̄t u Schindst
+                100 mech ein<lb break="yes"/>deren die bestellen <unclear>fom</unclear> dem
+                    Masch<lb break="yes"/><hi rendition="#r">in für den<lb break="yes"/>Er braucht auf 5 mall bezug</hi>
+<pb facs="#image_008"/> u <add>6tes</add> das wird dan Abgericht daß mir<lb break="yes"/>mircht zu Zahme haben dan inhann<lb break="yes"/>Sie zu Bäck dre
+                Gmd 5 Man da<lb break="yes"/>Sie sollen all anfangen auf den
+                    <unclear>Bosch</unclear><lb break="yes"/>Ponhaufen Farfihran nach Erding<lb break="yes"/>müszen 5 Mak Mischen schicken<lb break="yes"/>an Jakob
+                    <surname>L.</surname> Ales Auch den<lb break="yes"/>Uhrmacher
+                    <surname>M.</surname> meister Mankat<lb break="yes"/>in Erdin
+                        <add>Bischchof<lb break="yes"/>hätt Ein Grat<lb break="yes"/>N soll
+                        hars<lb break="yes"/>schereiben</add><lb break="yes"/>Frau Iulina
+                    <surname>H.</surname><lb break="yes"/>Färbersgattin u die Frau<lb break="yes"/><hi rendition="#r">in Versemir Anch<lb break="yes"/>Waschma 7 M</hi><lb break="yes"/>555 <unclear>?schi</unclear> Erodmri darf hat<lb break="yes"/>30 Markt gleich
+                anbezahl Faule<lb break="yes"/><hi rendition="#r">Niedling</hi><lb break="yes"/><lb break="yes"/><add>Man Feder<lb break="yes"/>100 bander</add>
+</p>
+</body>
+</text>
+</TEI>

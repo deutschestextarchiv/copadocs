@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g23" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">12.04.1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Hauptmann: Herr von <surname>G.</surname></persName>
+<settlement type="sent">Ittingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Maler</p>
+<p>Anstalt: <date from="1887" to="1919">1887-1919</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    gibt seiner Schwester Schuld, dass er in der Anstalt ist
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g23a.jpg" xml:id="image_081"/>
+<graphic mimeType="image/jpg" url="kfb2251g23b.jpg" xml:id="image_082"/>
+<graphic mimeType="image/jpg" url="kfb2251g23c.jpg" xml:id="image_083"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_081"/>
+<opener>
+<dateline><add hand="arzt" place="top">ad <surname>G.</surname> <unclear>Act</unclear></add><lb break="yes"/><hi rendition="#r">Ittingen 12. Apl 1898.</hi><lb break="yes"/><add hand="arzt">(<unclear>Kr</unclear>Kranke weiß obigen Ort "Ittingen" selbst<lb break="yes"/>nicht näher zu bestim̄en, er sei "ihm unbekan̄t"!</add></dateline>
+<salute><hi rendition="#c">Geehrter Herr v. <surname>G.</surname>!</hi></salute>
+</opener>
+<p>Entschuldigen Sie Zeilen zu<lb break="yes"/>richten Schwester, Verlassen<lb break="no"/>schaft Erben u Selig Vater<lb break="yes"/>u Mutter, von Herrn<lb break="yes"/>Notar sie Be<del>r</del>fragen keine<lb break="yes"/>Antwort
+                Erhalten.<lb break="yes"/>Von 1867 − 92. 843 Mk 5 Jaren<lb break="yes"/>Mutter <w>Lohn rückstand</w>.<lb break="yes"/>Wollen so
+                freundlich sein<lb break="yes"/>bei Landgericht anzeigen.<lb break="yes"/>Herrn
+                Onkel schlecht machen<lb break="yes"/>Heimath <add place="above">recht</add>
+                verweisen Post<lb break="no"/>packer u Herr <surname>H.</surname>
+<w>Kupfer<lb break="yes"/>schmied</w>; bitte Sie nochmals<lb break="yes"/>Anzeige
+                zu sein. <pb facs="#image_084"/>1886 Mutter Bruder Schwe<lb break="no"/>ster
+                angekomen Urkunde<lb break="yes"/>beleg <w>durch geführt</w> des<lb break="yes"/>Geldes Ihr Behülflich gegen<lb break="yes"/>Verzinslichung rückzug<lb break="no"/>geben von Mutter erhalten<lb break="yes"/>auf befragen letzen hier<lb break="no"/>sein vor Amtsdiener.<lb break="yes"/>Bitte Sie mir mitzutheilen<lb break="yes"/>wer ich bin bei 4 Chinika<lb break="yes"/>li Prozeße. Daß ich hier<lb break="yes"/>ist alles Schwester schuldig<lb break="yes"/><hi rendition="#r">Also ersuche gefälligst<lb break="yes"/>Herrn Notar </hi><w>mit<lb break="no"/>zu Theilen.</w><lb break="yes"/><hi rendition="#c">Geschenke Erhalten.<lb break="yes"/><seg ana="#salute">Es grüßt Sie vielmals</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Jakob <surname>G.</surname>.</seg></hi><pb facs="#image_083"/>Wohlgeboren<lb break="yes"/>Herr v.
+                    <surname>G.</surname> Hauptman<lb break="yes"/>außer Dienst. Vila
+                    Scheibe<lb break="yes"/><hi rendition="#r">Steutin.</hi></p>
+</body>
+</text>
+</TEI>

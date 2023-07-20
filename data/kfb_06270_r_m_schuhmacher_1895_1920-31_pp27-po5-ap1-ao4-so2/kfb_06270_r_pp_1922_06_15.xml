@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb6270r14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Stephanie Kamm</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>6270</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>R.</surname></persName>
+<date type="sent">15.06.1922</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern und Geschwister: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb6270r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1895"/>
+<death cert="unknown"/>
+<occupation>Schuhmacher</occupation>
+<residence><geo decls="#WGS">48.0048016 10.4324403</geo>Erisried, Mindelheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schuhmacher</p>
+<p>Anstalt: <date from="1920" to="1931">1920-31</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Schizophrenie (1934), vorl. Diagn. Dementia praecox (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/><!--anpassen!-->
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Geld, allgemeine Information über eigenes Befinden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb6270r14a.jpg" xml:id="image_035"/>
+<graphic mimeType="image/jpg" url="kfb6270r14b.jpg" xml:id="image_036"/>
+<graphic mimeType="image/jpg" url="kfb6270r14c.jpg" xml:id="image_037"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_035"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Kaufbeuren, den 15. Juni 1922.</hi></hi></dateline>
+<salute><hi rendition="#c">Liebste Eltern &amp; Geschwister!</hi></salute>
+</opener>
+<p><hi rendition="#c">Um daß Ihr mich nicht schon</hi><lb break="yes"/>leebend ganz
+                vergeßt; will ich auch<lb break="yes"/>wieder ein Lebenszeichen <del>geben</del>
+                hören lassen!<lb break="yes"/>Möchte Euch sehr gerne beihelfen beir<lb break="yes"/>Heu u. Kornernte.</p><p>Mit den Packete alle <add place="below">¼</add>
+                halb Jahr kann<lb break="yes"/>ich nicht auskom̄en. Wofür ich Euch
+                    herzlich<lb break="yes"/>Danke. Habe <hi rendition="#i">Hier <add place="below">gibt</add> keine Arbeit!</hi></p><p><space/> Sehr viel Heimweh, es wird<lb break="yes"/>Euch wohl möglich sein, Son̄tags <add place="below">doch</add> jemand<lb break="yes"/>zu Besuch herzukom̄en und nehmt<lb break="yes"/>mich heim, heiler <hi rendition="#i">Haut</hi>.</p><p>Im Gemeindehaus sorgt man nicht für<lb break="yes"/>andre Kinder.</p>
+<pb facs="#image_036"/>
+<p><space/> Kön̄te wieder gute Luft athmen, es wird<lb break="yes"/>sichs auch manches
+                verändert haben seit<lb break="yes"/>1 Jahr. Nächsten Mon. wird man 27. Jahr.<lb break="yes"/>Sollt auch wieder zu Verstand kom̄en.<lb break="yes"/>Habt
+                mich ja herein gebracht!</p><p><space/> <hi rendition="#u">Und so bin ich
+                    zufrieden mit Euch,</hi><lb break="yes"/>Wen̄ Ihr mit mir. Bin sehr wenig
+                mehr <add place="below">nervös</add> aufgeregt.<lb break="yes"/>Beständig versperrt ist wie Sklaverei.<lb break="yes"/>Möchte zu einer andern
+                Entschließung kom̄en,<lb break="yes"/>wie ich drauß bin</p><p><space/> <seg ana="#salute">Nun will ich mein Schreiben beschließen,</seg><lb break="yes"/>hoffe und vertraue, daß Ihr es gesund erhält!<lb break="yes"/><space/> Väterliches Erbe werd ich nicht mehr ge<lb break="no"/>wachsen sein.</p><p><seg ana="#signed">Euer <hi rendition="#i">lb. Sohn</hi> Joseph!<lb break="yes"/><hi rendition="#i"><surname>R.</surname></hi></seg></p><p>Kam nie in Stadt bis dato.<lb break="yes"/>Zum Namenstag wünsche
+                ich Adolf auch<lb break="yes"/>alles Gute an Leib u. Seele!<lb break="yes"/>Schwester Kresz. 〃 〃<lb break="yes"/>Anton 〃 〃<lb break="yes"/><hi rendition="#i">Unsre allen Kriegskameraden Alois</hi></p>
+<p><add place="margin">Oder sieht es zu Hause schlim̄er aus!</add></p>
+<pb facs="#image_037"/>
+<p>Legt auch etwas Geld bei, bin blud!<lb break="yes"/>Oder schmeckts den Kinder was<lb break="yes"/>Trau mich nirgens zu fragen<lb break="yes"/>13 Rippe weh, hab nur
+                    12.<lb break="yes"/>Dürft <hi rendition="#i">Herrn</hi> Ober Pfl. etwas mehr<lb break="yes"/>freundlicher entgegnen, bekam sogleich<lb break="yes"/>Papier</p><p>Als Handwerker ging ich von 6−6<lb break="yes"/>zu Haus u Stör.<lb break="yes"/>Nicht daß
+                mich mal 4 hinwegtrage<lb break="yes"/>zum jüngsten da steht.</p>
+</body>
+</text>
+</TEI>

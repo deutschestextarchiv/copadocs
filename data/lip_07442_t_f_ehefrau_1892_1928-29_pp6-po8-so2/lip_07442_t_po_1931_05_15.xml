@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7442t10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7442 (K. 250)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine <surname>T.</surname></persName>
+<date type="sent">15.05.1931</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>H.</surname></persName>
+<settlement type="sent">Kabel-Hohensyburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip7442t">
+<persName>
+<forename>Wilhelmine</forename>
+<surname>T.</surname>
+</persName>
+<birth when="1892-06-26"/>
+<death cert="unknown"/>
+<occupation>Ehefrau</occupation>
+<residence><geo decls="#WGS">51.4020053 7.4899059</geo>Geburtsort: Westerkappeln; Wohnort: Hagen-Kabel</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Ehemann: Bahnmeister; Vater: Landwirt; Mutter: n.a.</p>
+<p>Anstalt: <date from="1928-04-23" to="1929-09-24">23.04.1928-24.09.1929</date></p>
+<p>Brieftypen: pp, po, Lebenslauf, Gebet</p>
+</state>
+<trait><p>paranoide Erkrankung (1928 Dr. Korbsch)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="hand2"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand3"/>
+<handNote medium="ink" scope="minor" scribe="bekannte"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin und eine Bekannte senden Grüße von einem Ausflug.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7442t10.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kabel,- Hohensyburg,</hi> d.
+                        15.5.31.</hi></dateline>
+<salute><hi rendition="#i">Sehr geehrter Herr Doktor!</hi></salute>
+</opener>
+<p>Die schönsten Grüße von einem<lb break="yes"/>Ausfluge − <hi rendition="#i">Hohensyburg</hi> sendet<lb break="yes"/><hi rendition="#c">Ihnen<lb break="yes"/><hi rendition="#u" style="hand3"><seg ana="#signed">Frau
+                                <surname>T.</surname></seg></hi>. −</hi>
+<handShift medium="ink" scribe="bekannte"/><lb break="yes"/><lb break="yes"/>ebenfalls: Frau <surname>H.</surname><lb break="yes"/>Bin augenblick bei Frau <surname>T.</surname> zu<lb break="yes"/>Besuch. Es ist hier sehr schön.</p><p><add hand="hand2">7442<lb break="yes"/>29 entl.</add><add hand="hand3"><lb break="yes"/><hi rendition="#u">ad acta</hi></add></p><p><add place="margin">
+<handShift medium="ink" scribe="patient"/> Herrn<lb break="yes"/>Oberarzt<lb break="yes"/><hi rendition="#i">Dr. Hürten</hi><lb break="yes"/><hi rendition="#i"><hi rendition="#u">in Eickelborn</hi></hi><lb break="yes"/>b. <hi rendition="#i">Lippstadt.</hi></add><hi rendition="#i"> </hi></p>
+</body>
+</text>
+</TEI>

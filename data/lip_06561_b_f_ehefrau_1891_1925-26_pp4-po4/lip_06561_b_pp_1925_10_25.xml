@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip6561b07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>6561 (K. 30)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>B.</surname></persName>
+<date type="sent">25.10.1925</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Eickelborn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip6561b">
+<persName>
+<forename>Anna</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1891-04-16"/>
+<death cert="unknown"/>
+<occupation>Ehefrau</occupation>
+<residence><geo decls="#WGS">51.8203938 8.6588368</geo>Geburtsort: Stukenbrock; Wohnort: Hövelhof</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet, Mann: Arbeiter</p>
+<p>Eltern: Vater: Kolonialwarenhändler, Mutter: n.a.</p>
+<p>Anstalt: <date from="1925-10-17" to="1926-10-25">17.10.1925-25.10.1926</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Epilepsie (1925)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie erzählt, dass ihr man sie eingesperrt hat. Er gab ihr kein Essen und wenn sie versucht hat, ihre Eltern zu erreichen, hat er dafür gesorgt, dass ihre Nachrichten nicht zugestellt werden. Auch in der Anstalt ist das Essen schlecht und sie leidet unter Blutarmut.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip6561b07a.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="lip6561b07b.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Eikelborn, den</hi> 19. 10. 25.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Liebe Eltern</hi>!</hi></salute>
+</opener>
+<p><hi rendition="#i">Setze mich hin, um euch<lb break="yes"/>ein par Zeilen von mir<lb break="yes"/>zu berichten. Warum habt<lb break="yes"/>ihr mir daraufhin,
+                    noh nicht<lb break="yes"/>mal besucht, wo ich euch<lb break="yes"/>durch den
+                    Bierwagen be<lb break="no"/>scheid sagen liess. W</hi>e<hi rendition="#i">n<lb break="yes"/>ihr wüsstet</hi>, wie <hi rendition="#i">mein<lb break="yes"/>Mann mich für den Dum<lb break="no"/>men gebraucht hätte, dann<lb break="yes"/>liesset ihr micht so <w>herum<lb break="no"/>zappeln</w>. Ich musste wie<lb break="no"/>der vor Hunger oben durch<lb break="yes"/>das Fenster</hi>.
+                Dann <hi rendition="#i">schloss<lb break="yes"/>er mich in der Bude zu<lb break="yes"/>und er machte dazu noch<lb break="yes"/>fremd</hi>. dann <hi rendition="#i">machte er<lb break="yes"/><space/> Es bleibt aber unter uns. <add place="margin"><lb break="yes"/>Mir schlafen die ganzen
+                    Körperteile.</add></hi>
+<pb facs="#image_015"/><hi rendition="#i">mich noch mit dem Stricke<lb break="yes"/>zubinden lassen. Und er<lb break="yes"/>selbst band die Tür noch zu<lb break="yes"/>vor Geiz. Er gönnte mir<lb break="yes"/>noch nicht mal das
+                    Essen<lb break="yes"/>wenn ich es mir selbst<lb break="yes"/>kochte. Wenn ich
+                    einen andern<lb break="yes"/>Bescheid sagte, dass sie euch<lb break="yes"/>Bescheid sagen sollten</hi>, dann <hi rendition="#i"><lb break="yes"/>sagte er
+                    ihn wieder im Stil<lb break="no"/>len Bescheid, dass sie es<lb break="yes"/>nicht tuen sollten Hoffent<lb break="no"/>lich seht ihr es jetzt bald<lb break="yes"/>ein, was das für einen Mann<lb break="yes"/>ist. Und hier ist
+                    auch sehr<lb break="yes"/>schlechtes Essen und Trinken<lb break="yes"/>und
+                    dazu bin ich sehr blut<lb break="no"/>arm. Und ich glaube der Wil<lb break="no"/><del>hl</del>helm hält noch mit ihm<lb break="yes"/>zu. Wenn ich wieder
+                    komme<lb break="yes"/>lebe ich getrennt mit ihm<lb break="yes"/>Hoffntlich
+                    lasst ihr euch<lb break="yes"/>mal bald hier sehn. Ich konn<lb break="no"/><add place="margin">te euch ein ganzes Buch erzählen.</add></hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb259k04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>259</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">n.a. <surname>K.</surname></persName>
+<date type="sent">23.11.1855</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb259k">
+<persName>
+<forename>Joseph</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1801"/>
+<death cert="unknown"/>
+<occupation>Seifen- und Lichterfabrikant</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1854" to="1859">1854-59</date></p>
+<p>Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Confusio Idearum, Wahnvorstellungen (1854)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="Frau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Frau des Patienten sendet dem Direktor verschiedene Dinge für ihren Mann
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb259k04a.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Euer Hochwohlgeboren</hi></salute>
+</opener>
+<p>Gütiger Erlaubniß zu folge, ließ ich dem wenigen<lb break="yes"/>Backwerk,
+                    <del>von</del> meinem Sohn einige Zeillen, worin er im<lb break="yes"/>Namen
+                Aller die herzlichen Wünshe zum nahen Jahres-Wechl<lb break="yes"/>ausdrückt,
+                beifügen. Einen von meinem Man̄ hier so<lb break="yes"/>gerne getragener <w>Haus Winterrock</w>, nebst zwey Pfeifen &amp;<lb break="yes"/>ein <hi rendition="#i">Paquet</hi> Rauhtackack, denen er sich
+                täglich vorzugsweise<lb break="yes"/>bediente, <w>so wie</w>
+                andere kleine Bedürfniße, legte ich zugleich<lb break="yes"/>bei. Schuhe und Müze
+                bitten wir, wie es Herr Direktor<lb break="yes"/>für gut finden, dort gütigst
+                anzukaufen. </p><p>
+<seg ana="#salute"><space/> Ich wage nur die ergebensten Glück &amp; Segenswünshe,<lb break="yes"/>die mein Sohn in seinem Letzten Schreiben im Namen<lb break="yes"/>unserer ganzen Famielien auszudrücken die Ehre hatte<lb break="yes"/>aus redlichem Herzen zu wiederhollen</seg>, womit Hochachtend<lb break="yes"/><hi rendition="#r">zeichnet <seg ana="#signed">Frz:
+                            <surname>K.</surname></seg></hi><lb break="yes"/><hi rendition="#i">Munchen</hi> den 23 Nber 18/55. </p>
+</body>
+</text>
+</TEI>

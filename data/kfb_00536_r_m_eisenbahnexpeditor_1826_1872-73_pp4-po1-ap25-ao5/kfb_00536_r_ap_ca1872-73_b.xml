@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb536r13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sohn: Joseph ("Peppi") <surname>R.</surname></persName>
+<date type="sent">ca1872-73</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: Josef<surname>R.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb536r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1873"/>
+<occupation>Eisenbahnexpeditor, Zuchthaussträfling</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Simmerberg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1872" to="1873">1872-73</date></p>
+<p>Brieftypen: pp,ap,ao</p>
+</state>
+<trait><p>Melancholie (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="sohn"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erzählt von einer Geldschenkung von Herrn D., für die sich sein Vater ebenfalls bedanken soll. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb536r13.jpg" xml:id="image_025"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_025"/>
+<opener>
+<salute><hi rendition="#c">Lieber armer Vater!</hi></salute>
+</opener>
+<p><space/> Die <hi rendition="#i">M</hi>utter ve<del><unclear>r</unclear></del>gaß
+                Dir zu schreiben, daß Herr von<lb break="yes"/><surname><hi rendition="#i">D.</hi></surname> in <hi rendition="#i">München</hi> uns durch die
+                Tante fl 10. <unclear>n</unclear><lb break="yes"/>übermachte, weßwegen ich ihm von hier aus<lb break="yes"/>gleich
+                einen Dankesbrief schrieb, &amp; sollst nun auch<lb break="yes"/>Du dasselbe thun,
+                &amp; zwar wenn Du willst gleich<lb break="yes"/>direkt; die Adresse ist
+                Barerstraße <unclear> N<hi rendition="#sup">r</hi> 7.</unclear>
+</p><p>Witterung hier noch im̄er gleich, schrekliche Kälte,<lb break="yes"/>wie im <hi rendition="#i">November</hi>.<lb break="yes"/><seg ana="#med">Blattern</seg>
+                nehmen ab Gottlob.<lb break="yes"/><seg ana="#salute">Hoffend, das dieses Schreiben dich gesund
+                antrifft<lb break="yes"/><hi rendition="#c">grüße &amp; küße
+                        Dich<lb break="yes"/>herzlich.</hi></seg><lb break="yes"/><hi rendition="#r">Dein<lb break="yes"/><seg ana="#signed"><hi rendition="#u"><hi rendition="#i">Peppi</hi></hi></seg>.</hi><lb break="yes"/></p><p><space/> Eilend!!</p>
+</body>
+</text>
+</TEI>

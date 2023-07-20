@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2206h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2206</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Babetta <surname>S.</surname></persName>
+<date type="sent">24.04.1920</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Gustav <surname>H.</surname></persName>
+<settlement type="sent">Treuchtlingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2206h">
+<persName>
+<forename>Gustav</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1920"/>
+<occupation>Schneider</occupation>
+<residence><geo decls="#WGS">48.4487175 10.2213539</geo>Leipheim, Günzburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Weber</p>
+<p>Anstalt: <date from="1893" to="1920">1893-1920</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>Imbecillität (1904)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="Babetta"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Übersendung von Lebensmitteln und Grüße
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2206h01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Treuchtlingen den. 24.Ap.1920.</hi></dateline>
+<salute><hi rendition="#c">Lieber Gustav!</hi></salute>
+</opener>
+<p>
+Hier übersende<del>n</del> <del>wir</del> <add>ich</add> dir das versprochene<lb break="yes"/>ein Laib Brot, 2 Eier, Stik Kuchen,<lb break="yes"/>ein kleines Stckchen Fleisch u. 2M Laß<lb break="yes"/>es dir gut schmecken, auch laß von<lb break="yes"/>dir wieder was hören.</p>
+<p><hi rendition="#r"><seg ana="#salute">Es grüßt dich recht</seg></hi></p>
+<p><hi rendition="#r">Herzlich <seg ana="#signed">deine Babetta<lb break="yes"/><surname>S.</surname></seg> <seg ana="#salute">u. besten<lb break="yes"/>Gruß Mina <surname>S.</surname>.</seg></hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2652m08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2652</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Crecenz/Kreßenzia/Kreßenz <surname>M.</surname></persName>
+<date type="sent">19.06.1852</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2652m">
+<persName>
+<forename>Alois/Aloys</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1798"/>
+<death cert="unknown"/>
+<occupation>Priester</occupation>
+<residence><geo decls="#WGS">48.4564554 10.8207702</geo>Gablingen, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1850" to="1852">1850-52</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Tobsuchtsanfälle (1850)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwester"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schwester des Patienten bittet den Arzt, ihr Auskunft über den Zustand ihres Bruders mitzuteilen, 
+                    da sie befürchtet, dass dieser seinen Zustand in seinen Briefen an die Familie beschönigt. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2652m08.jpg" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_020"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg d 19<add place="above">t</add> Juni 1852.</hi></dateline>
+<salute><hi rendition="#u">Euer Wohlgeboren</hi>!</salute>
+</opener>
+<p><space/> Jndem ich so frei bin beiliegenden<lb break="yes"/>Brief an meinen
+                Herrn Bruder an Sie<lb break="yes"/>zu senden, lege ich 3fl als <w>Namenstag<lb break="no"/>Geshenk</w> für denselben bei, und bitte Sie<lb break="yes"/>recht höflichst uns doch durch ein paar<lb break="yes"/>Zeilen zu benachrichtigen
+                wie es mit der<lb break="yes"/>Gesundheit meines Bruder geht, und ob<lb break="yes"/>sein Zustand sich verbeßert hat, oder verschlimmert<lb break="yes"/>hat. −</p><p><space/> Entshuldigen Sie mein Verlangen<lb break="yes"/>mit dem Wunshe wieder einmal etwas<lb break="yes"/>Wahres zu hören, denn der Herr Bruder selbst<lb break="yes"/>shreibt natürlich uns das Beste über seinen<lb break="yes"/>Zustand. </p><p><space/>
+<seg ana="#salute">Mit aller Hochachtung<lb break="yes"/><hi rendition="#c">Jhr</hi> <hi rendition="#r">ergebenste<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed">Greszens <surname>M.</surname>.</seg></hi></p>
+</body>
+</text>
+</TEI>

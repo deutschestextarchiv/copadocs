@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2802s10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2802</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>S.</surname></persName>
+<date type="sent">09.03.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2802s">
+<persName>
+<forename>Karl</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1807"/>
+<death cert="unknown"/>
+<occupation>Juwelier</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Knopfmacher</p>
+<p>Anstalt: <date from="1851" to="1853">1851-1853</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Pat. bittet den Schwager, verschiedene Personen zu kontaktieren, um eine neue Stelle zu erhalten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2802s10a.jpg" xml:id="image_046"/>
+<graphic mimeType="image/jpg" url="kfb2802s10b.jpg" xml:id="image_047"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_046"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> den 9.<add place="above">ten</add> März 1853.</hi></dateline>
+<salute><space/> Werthester Herr Schwager!</salute>
+</opener>
+<p>Ihr Geehrtes vom 24.<add place="above">ten</add> v. Monaths hat mich um so mehr<lb break="yes"/>gefreut, indem Sie mir so schleunig geantwortet haben<lb break="yes"/>u. ersehe hieraus mit vielem Vergnügen, daß Sie sich<lb break="yes"/>nebst <hi rendition="#i">Familie</hi> recht wohl befinden. Der liebe
+                Gott<lb break="yes"/>nehme Sie auch ferner in seinen Schutz. −</p><p>Zugleich danke ich Ihnen vielmals für die gehabte<lb break="yes"/>Mühe, und lege ein paar Zeilen
+                für Herrn <surname><hi rendition="#i">B.</hi></surname><lb break="yes"/>in <hi rendition="#i">Stuttgart</hi> bey, da es der Wunsch des Herrn
+                    <hi rendition="#i">Director</hi><lb break="yes"/>ist, daß die Angelegenheit durch Ihre Vermittlung<lb break="yes"/>gehe; ebenso möchte ich Sie bitten in meinem Namen<lb break="yes"/>auch <hi rendition="#i">Georg <surname>K.</surname></hi> in <hi rendition="#i">München</hi> zu schreiben,<lb break="yes"/>ob Er nicht bey sich oder bey einem
+                seiner Bekan̄ten mir<lb break="yes"/>einen Platz ermitteln kön̄te.
+                Herr <surname><hi rendition="#i">L.</hi></surname> wird<lb break="yes"/>schwerlich meinen Zweck erreichen.</p>
+<pb facs="#image_047"/>
+<p>Meiner Schwester <hi rendition="#i">Jacobina</hi> danke ich herzlich für<lb break="yes"/>Ihre Zuschrift. Auch bitte ich Sie mir in Ihren<lb break="yes"/>Nächsten Nachrichten über meine <hi rendition="#i">Familie</hi> zugehen<lb break="yes"/>zu lassen, indem ich seit 10.<hi rendition="#sup">ten</hi>
+<hi rendition="#i">Sept.</hi> v. J. <hi rendition="#u">ohne alle<lb break="yes"/>Nachrichten</hi> geblieben bin, was mir schon so viele Sorgen<lb break="yes"/>bereitete. Obwohl ich durch die Fürsorge des Hern<lb break="yes"/><hi rendition="#i">Director D:<hi rendition="#sup">r</hi> Hagen</hi> so manche
+                Erleichterung genieße,<lb break="yes"/>so bleibt doch der Aufenthalt <add place="above">hier</add> für einen gesunden<lb break="yes"/>Man̄, höchst
+                peinlich, u. sehne mich daher sehr, einer<lb break="yes"/>nützlichen Thätigkeit
+                wiedergegeben zu sehen.<lb break="yes"/>Dieses nochmals beherzigend, sehe ich einer
+                baldigen<lb break="yes"/>entsprechenden Antwort entgegen. </p><p>Mit aller Freundschaft zeichnet<lb break="yes"/><hi rendition="#r"><seg ana="#signed">Ihr<lb break="yes"/>Ergebenster Schwager<lb break="yes"/><hi rendition="#i">Carl </hi><surname><hi rendition="#i">S.</hi></surname>.</seg></hi></p> <p>Meinem lieben Vater<lb break="yes"/>meiner Frau u Kinder<lb break="yes"/>die herzlichsten
+                Grüße.</p>
+</body>
+</text>
+</TEI>

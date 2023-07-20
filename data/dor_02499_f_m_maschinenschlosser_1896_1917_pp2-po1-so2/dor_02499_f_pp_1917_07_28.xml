@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor2499f02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>2499 (K. 60)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>F.</surname></persName>
+<date type="sent">28.07.1917</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern und Brüder</persName>
+<settlement type="sent">Aplerbeck</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor2499f">
+<persName>
+<forename>Heinrich</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1869-04-01"/>
+<death cert="unknown"/>
+<occupation>Maschinenschlosser</occupation>
+<residence><geo decls="#WGS">51.5142273 7.4652789</geo>Geburtsort: Dortmund; Wohnort: Dortmund</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: V: Monteur, M: k.A.</p>
+<p>Anstalt: <date from="1917-02-20" to="1917-10-01">20.02.1917-01.10.1917</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>depressive Geisteskrankheit mit wahnhaftigen Vorstellungen und Sinnestäuschungen (1917)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    hatte sich Besuch erhofft; wünscht sich Urlaub und möchte von seiner Mutter abgeholt werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor2499f02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="dor2499f02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Geschrieben, am 28.7.17.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#u">Liebe Eltern und
+                        Brüder!</hi></hi></salute>
+</opener>
+<p>Sende Euch die besten Grüße, und<lb break="yes"/>kann Euch mitteihlen, daß es mir<lb break="yes"/>noch soweit ganz gut geht. Ich hatte ge<lb break="no"/>hoft,
+                Willi würde mich Heute Morgen<lb break="yes"/>besuchen, leider habe ich mich jedoch
+                    ge<lb break="no"/>täuscht. Zu Sonntag werde ich hoffent<lb break="no"/>lich
+                wieder Url. erhalten. Mutter wird<lb break="yes"/>mich also abholen müssen,
+                    jeden<lb break="no"/>falls, wird sie mich des Mittags hoh<add>l</add>en<lb break="yes"/>können. Sonst kann ich nichts Neu<lb break="no"/>es mitteihlen.
+                <seg ana="#salute">Sende also für Heute<lb break="yes"/>die besten Grüße an alle,</seg> <seg ana="#signed">als Euer<lb break="yes"/>Sohn und Bruder <hi rendition="#i"><hi rendition="#u">Heinr</hi></hi>.</seg> <pb facs="#image_004"/><add hand="vordruck">Feldpostkarte.<lb break="yes"/>An</add><lb break="yes"/>Familie<lb break="yes"/>Fried. <surname>Fromm<hi rendition="#i">e.</hi></surname><lb break="yes"/><add hand="vordruck">in</add>
+<hi rendition="#i">Dortmund</hi><lb break="yes"/><add hand="vordruck">Wohnung</add>
+<placeName type="street"><hi rendition="#i">Roland</hi>str.</placeName> 19 pt.<lb break="yes"/><add hand="vordruck">Straße und Hausnummer.</add></p>
+<p><add hand="vordruck">Absender: Dienstgrad</add> Pion.<lb break="yes"/><add hand="vordruck">Name</add>
+<hi rendition="#i">Heinr. <surname>F.</surname>.</hi><lb break="yes"/><unclear>Rateg</unclear>
+<add hand="vordruck">Bataill.</add><lb break="yes"/><hi rendition="#i">Heilanstalt</hi>
+<add hand="vordruck">Abteil. Komp.</add><lb break="yes"/><hi rendition="#i">Aplerbeck</hi>
+<add hand="vordruck">Atterie Eskadron</add>
+</p>
+</body>
+</text>
+</TEI>

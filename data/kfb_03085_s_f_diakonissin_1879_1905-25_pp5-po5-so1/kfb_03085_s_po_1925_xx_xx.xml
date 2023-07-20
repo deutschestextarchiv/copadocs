@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3085s07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3085</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Katharina <surname>S.</surname></persName>
+<date type="sent">ca1906-25</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Frau Pfarrer: <surname>D.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb3085s">
+<persName>
+<forename>Katharina</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1879"/>
+<death cert="unknown"/>
+<occupation>Diakonissin</occupation>
+<residence><geo decls="#WGS">48.836986 10.560737</geo>Großelfingen, Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1906" to="1925">1906; 1925</date></p>
+<p>Brieftypen: po, pp</p>
+</state>
+<trait><p>Religiöse Exaltation (1906)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    schickt Ostergrüße; ist skeptisch bezüglich ihrer Rückkehr,
+                    fühlt sich innerlich getrennt von einer ihrer Mitschwestern
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3085s07a.jpg" xml:id="image_045"/>
+<graphic mimeType="image/jpg" url="kfb3085s07b.jpg" xml:id="image_046"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_045"/>
+<opener>
+<dateline/>
+<salute>Verehrte, liebe Frau Pfarrer!</salute>
+</opener>
+<p><space/> Erlaube mir, Ihnen u. Herrn Pf.<lb break="yes"/>die herzlichsten Grüße
+                zu senden.<lb break="yes"/>Wie geht Ihnen u. Ihrer wert. Familie?,<lb break="yes"/>sowie Ihrer lb. Fr. Mutter, Fr. <hi rendition="#i">Dr</hi>. u.<lb break="yes"/>Frau <hi rendition="#i"><surname>D.</surname></hi>, ich lasse sie <hi rendition="#u">also</hi>
+<hi rendition="#u">herzl</hi>.<lb break="yes"/><hi rendition="#u">grüßen</hi>.
+                Meine Seele ist voll Freude<lb break="yes"/>u. Dank, gegen den gnädigen u.<lb break="yes"/>barmh. Gott, der alles z. Ziel bringen<lb break="yes"/>wird u. s.
+                Werk nicht liegenläßt.<lb break="yes"/>Mit m. Rückkehr v. hier, hängt zus. ein
+                    ern<lb break="no"/>stes Gericht, nicht nur ds. <hi rendition="#u">Diak.Hs.</hi>, sond. auch<lb break="yes"/><hi rendition="#u">uns. Dorf</hi>
+                betreffend, den̄ zwisch. Schw.<hi rendition="#u"> Christi</hi>ne<lb break="yes"/>u. <hi rendition="#u">mir</hi>, heißt es, <hi rendition="#u">in̄erl</hi>. g<hi rendition="#u">etren̄t</hi> u. <hi rendition="#u">geschieden</hi>.<lb break="yes"/>Bitte, es noch zu
+                bewahren.</p>
+<p><add place="margin">Herzl. Grüße v. Ihrer dankb. Schw. K. <hi rendition="#i"><surname>S.</surname></hi>.</add></p>
+<p><add place="margin">K. d. 9. 25.</add></p>
+<p>Frau Pfarrer <hi rendition="#i"><surname>D.</surname></hi>. </p>
+<p><hi rendition="#i">Grosselfingen.<lb break="yes"/>P. Möttingen.</hi></p>
+<p><hi rendition="#u">fr.</hi>
+<pb facs="#image_046"/><!--Vorderseite der Postkarte mit Ostergruß--></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2235g07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2235</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Regina <surname>G.</surname></persName>
+<date type="sent">24.11.1896</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Kinder: Rupert und Josefa <surname>G.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2235g">
+<persName>
+<forename>Regina</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1918"/>
+<occupation>Ökonomenswitwe</occupation>
+<residence><geo decls="#WGS">47.582117800000006 9.728007926245988</geo>Weißenberg, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Bauersleute, "ziemlich gut situiert"</p>
+<p>Anstalt: <date from="1879" to="1918">1879-1918</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Gehörs- und Gesichtshallucinationen (1886), wahnhafte Ideen (1904)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte aus der Anstalt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2235g07a.jpg" xml:id="image_022"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<dateline><hi rendition="#c">Kaufbeuern den 24 November 1896</hi></dateline>
+<salute><hi rendition="#c">Wohlgeborne Kinder!</hi></salute>
+</opener>
+<p>Zuerst will ich bei Euch sein mein<lb break="yes"/>Lohn sei meine Liebe Kinder
+                wieder<lb break="yes"/>gibt. Die Frühere Gesundheit wieder<lb break="yes"/>haben
+                und kan̄ Arbeiten das ich diesen<lb break="yes"/>Wintter mit Euch in Stall
+                kan̄. Wort<lb break="yes"/>halten ich erwarte alle Tage auf einen<lb break="yes"/>Besuch ein Brif muß ich bekom̄en in<lb break="yes"/>6
+                Iahren 3 Monat zu den Meinigen<lb break="yes"/>Kindern kom̄en will. Von
+                allen Leiden<lb break="yes"/>frei sind das Übermaß von der Erlößung<lb break="yes"/><surname>G.</surname>s Famile zukomt hier von der<lb break="yes"/>Anstalt
+                fortkom ist mein Wunsch ihr<lb break="yes"/>Darfen kom̄en mich holen für so
+                lange<lb break="yes"/>Zeit ist es gewieß. Vor Weihnachten<lb break="yes"/>muß es
+                sein das wier beieinander<lb break="yes"/>sind vorher muß ich von Euch ein Brif<lb break="yes"/>bekom̄en auf den Datum das ihr<lb break="yes"/>mich holen
+                einander zu wißen<lb break="yes"/>machen das beide Kinder mit ein<lb break="no"/>ander kom̄en mich mitnehmen<lb break="yes"/>kön̄en. Der Liebe Gott
+                Euch die Gnade<lb break="yes"/>gibt die Mutter Heimzuholen<lb break="yes"/>mich
+                nichts erfreuen kan ohne die<lb break="yes"/>Kinder zu leben vermg fort
+                kom̄en<lb break="yes"/>muß hier in der Anstalt abgeholt<lb break="yes"/>werde. Eure Liebende Mutter<lb break="yes"/>An Rubert <surname>G.</surname><lb break="yes"/>Iosefa <surname>G.</surname> in Weißensberg<lb break="yes"/><add>Regina <surname>G.</surname> in Weißens<lb break="no"/>berg St.
+                    Schlachters </add></p>
+</body>
+</text>
+</TEI>

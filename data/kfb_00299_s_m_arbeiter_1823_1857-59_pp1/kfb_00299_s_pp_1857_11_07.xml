@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb299s01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>299</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>S.</surname></persName>
+<date type="sent">07.11.1857</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder und Schwägerin: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb299s">
+<persName>
+<forename>Joseph</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1823"/>
+<death cert="unknown"/>
+<occupation>Arbeiter</occupation>
+<residence><geo decls="#WGS">47.5716879 9.6624808</geo>Bodolz, Lindau</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1857" to="1859">1857-59</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>[Halluzination] (1857-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will Besuch und Braut sehen, immer treu gewesen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb299s01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb299s01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline>Eirse <hi rendition="#r">den 7 Noferber 1857</hi></dateline>
+<salute>Liber Bruder und Schwägerin</salute>
+</opener>
+<p>
+ich Grüße ich kom zum mir sobal<lb break="yes"/>als meglich ist. Grüße mir die<lb break="yes"/>Braut ich bald wieder sähen<lb break="yes"/>ich bin awil Trei gewen<lb break="yes"/><seg ana="#salute">ich Griße filma</seg></p>
+<p><seg ana="#signed"><hi rendition="#r">Joseph <surname>S.</surname></hi></seg></p>
+<pb facs="#image_002"/>
+<p><hi rendition="#r">Eris <del>1875<lb break="yes"/>189</del></hi><lb break="yes"/>Joseph <space/> <surname>S.</surname><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

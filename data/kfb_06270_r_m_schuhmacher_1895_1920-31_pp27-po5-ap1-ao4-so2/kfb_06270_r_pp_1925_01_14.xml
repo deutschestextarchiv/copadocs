@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb6270r20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Stephanie Kamm</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>6270</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>R.</surname></persName>
+<date type="sent">14.01.1925</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Emma <surname>R.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb6270r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1895"/>
+<death cert="unknown"/>
+<occupation>Schuhmacher</occupation>
+<residence><geo decls="#WGS">48.0048016 10.4324403</geo>Erisried, Mindelheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schuhmacher</p>
+<p>Anstalt: <date from="1920" to="1931">1920-31</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Schizophrenie (1934), vorl. Diagn. Dementia praecox (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Glückwünsche zum Namenstag, allgemeine Klage über Anstaltsaufenthalt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb6270r20a.jpg" xml:id="image_054"/>
+<graphic mimeType="image/jpg" url="kfb6270r20b.jpg" xml:id="image_055"/>
+<graphic mimeType="image/jpg" url="kfb6270r20c.jpg" xml:id="image_056"/>
+<graphic mimeType="image/jpg" url="kfb6270r20d.jpg" xml:id="image_057"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_054"/>
+<opener>
+<dateline><hi rendition="#i">Kaufb. den 14.I.1925.</hi></dateline>
+<salute><hi rendition="#r">Liebe Schwester!</hi></salute>
+</opener>
+<p>Zum heran nahenden<lb break="yes"/><hi rendition="#i">Namenstag</hi> wünsche<lb break="yes"/>ich Dir alles Gute an<lb break="yes"/>Leib und <hi rendition="#i">Seele</hi>. Lieber<lb break="yes"/>wär es mir geschehen Dir<lb break="yes"/><hi rendition="#u">mündlich graduliern zu dürfen,</hi><lb break="yes"/>Habe schon
+                ein Stückchen<lb break="yes"/>Fleisch erhalten, da Ihr den<lb break="yes"/>nächsten
+                Tag geschlachtet<lb break="yes"/>habt, das Schwein u. Sem̄el<lb break="yes"/>Äpfel<lb break="yes"/>Wie schwer wars</p>
+<pb facs="#image_055"/>
+<p>Praßiert es heute noch<lb break="yes"/>nicht heim ich Esel!<lb break="yes"/>Wanns
+                mich wo andrs<lb break="yes"/>zum aushalten ists<lb break="yes"/>hin thun.</p><p>Heut gab es auch Supp, Nudel<lb break="yes"/>Apfel</p><p>Habe mich ruhig <add place="above">Schuldg</add> zu verhalten<lb break="yes"/>ob ich auf oben im Beet bin.<lb break="yes"/>Danke wer im alten
+                    Jahr<lb break="yes"/>bezahlt hat.</p>
+<pb facs="#image_056"/>
+<p>Auch der Mutter<lb break="yes"/>zuletzt den Him̄el!<lb break="yes"/>Bis Ostern
+                ist schon<lb break="yes"/>noch lange.<lb break="yes"/>mag nicht mehr mit <add place="above">besser werden</add> tun<lb break="yes"/>Bin gerade wieder
+                    drockn<lb break="yes"/>gelegt worden<lb break="yes"/><del>Braucht Ihr mich
+                        nicht<lb break="yes"/>mehr?</del><lb break="yes"/>Hab Mittags genug!<lb break="yes"/>Schön Wetter sehr schön.<lb break="yes"/>Schnallt mich zu Hause<lb break="yes"/>ins Bett, geht das nicht<lb break="yes"/>auch. Schreibe nicht
+                    viel<lb break="yes"/>nicht oft. war <unclear>thut Shraher</unclear><lb break="yes"/>mit der <unclear>Nante</unclear></p>
+<p><add place="margin">hat Leis schon geb.</add></p>
+<p><add place="margin">Taback</add></p>
+<p><add place="margin">Wiedersehn</add></p>
+<pb facs="#image_057"/>
+<p>Adr. Emmerentia <surname>R.</surname><lb break="yes"/>Erisried!<lb break="yes"/>Habe Gruß ausgericht<lb break="yes"/>an Herrn Pfleger<lb break="yes"/><unclear reason="rubbing">???</unclear> aber ein leerer<lb break="yes"/>Gruß geht
+                    baarfuß<lb break="yes"/>Gibt die Gemeinde<lb break="yes"/>nicht mehr ein
+                    <unclear>Arment</unclear><lb break="yes"/>Unterstü tzt <add place="above">im
+                    Ort Frühjahr</add> Hans Euch?<lb break="yes"/>Werde nachts wohl Ruhe<lb break="yes"/>haben<lb break="yes"/>Es ist eine Elektrische<lb break="yes"/>Glockke<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Gruß
+                        Bruder</seg></hi><lb break="yes"/><seg ana="#signed">Joseph</seg></p>
+<p><add place="margin">Ist der Vater hier geb,</add></p>
+</body>
+</text>
+</TEI>

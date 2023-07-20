@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1439h08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1439</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Georg F. <surname>H.</surname></persName>
+<date type="sent">12.09.1874</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion Irsee: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Reutte</settlement>
+<settlement type="received">14.09.1874</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1439h">
+<persName>
+<forename>Amalie</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1827"/>
+<death cert="unknown"/>
+<occupation>Landarzttochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Nördlingen/München, Stuttgart</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landarzt</p>
+<p>Anstalt: <date from="1874" to="1876">1874-76</date></p>
+<p>Brieftypen: pp, ap, ao, sonst.</p>
+</state>
+<trait><p>Melancholie</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="pencil" scope="minor" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offiziell Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schickt der Direktion Taschengeld für die Patientin. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1439h08.jpg" xml:id="image_022"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Reutte</hi>.<handShift medium="pencil" scribe="bruder"/><add place="below">Tirol</add> <handShift medium="ink" scribe="bruder"/>d. 12
+                            <hi rendition="#i">Sept</hi> 74</hi></dateline>
+<salute><hi rendition="#i">Direction</hi> der <hi rendition="#i">Kreis-Irrenanst</hi>.<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Irsee</hi></hi></salute>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#c"><hi rendition="#u">8.</hi></hi></add></add></p>
+<p><add hand="arzt"><hi rendition="#r"><hi rendition="#i">pr</hi>. 14. Sept 1874<lb break="yes"/><unclear><hi rendition="#i">st</hi></unclear> 2375.</hi></add></p>
+<p><add hand="arzt"><unclear/><lb break="yes"/><unclear/><lb break="yes"/><unclear/>ngsanzeige für<lb break="yes"/><unclear/><lb break="yes"/><unclear/>beschluß <add place="inline"><unclear>W</unclear>
+<unclear><hi rendition="#i">Hoet</hi></unclear></add><lb break="yes"/><unclear/></add></p>
+<p><space/> Als ich die Ehre hatte<lb break="yes"/>Sie letzten Donnerstag zu<lb break="yes"/>sprechen, ließ mich die<lb break="yes"/>Eile und Aufregung ver<lb break="no"/>gessen, daß meine Schwe<lb break="no"/>ster Amalie ohne Taschengeld<lb break="yes"/>sich befinden wird. </p><p><space/> Inliegend übersende ich<lb break="yes"/>nun <hi rendition="#i">Königl. Direction</hi><lb break="yes"/><space/> f20 − zum Zwecke üblicher<lb break="yes"/>Verwendung. </p><p><space/><hi rendition="#i"> M</hi>öge mir die große<lb break="yes"/>Freude werden bald gün<lb break="no"/>stiges über das Befinden<lb break="yes"/>der <hi rendition="#i">K</hi>ranken zu vernehmen </p><p><space/>
+<hi rendition="#i">N</hi>ächsten Don̄erstag werde<lb break="yes"/>ich wieder
+                in <hi rendition="#i">Stuttgart</hi> sein </p><p><seg ana="#salute"><space/><hi rendition="#i"> M</hi>it aller Hochachtung </seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed"><hi rendition="#i">G</hi>. <hi rendition="#i">F</hi>. <surname><hi rendition="#i">H.</hi></surname></seg></hi></p>
+</body>
+</text>
+</TEI>

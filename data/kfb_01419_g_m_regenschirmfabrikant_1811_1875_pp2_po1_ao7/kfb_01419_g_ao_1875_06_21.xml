@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1419g02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1419</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Emma <surname>G.</surname></persName>
+<date type="sent">21.06.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1419g">
+<persName>
+<forename>Sigmund</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1811"/>
+<death cert="unknown"/>
+<occupation>Regenschirmfabrikant, Privatier</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet </p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1875" to="1875">1875</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Fixe Ideen (1875)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich für einen Brief.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1419g02.JPG" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r">A<hi rendition="#i">ugsburg</hi>.
+                    21.6.75</hi></dateline>
+<salute><hi rendition="#r">Hochverehrtester Herr <hi rendition="#i">Direcktor</hi>!</hi></salute>
+</opener>
+<p><hi rendition="#c">Herzlich dankend für die</hi><lb break="yes"/>gütige Ubermittlung des Briefes,<lb break="yes"/>ersuche ich Sie
+                um gleiche Güte<lb break="yes"/>für meinen Man̄, und zeichne<lb break="yes"/>mit ausgezeichneter Hochachtung<lb break="yes"/><seg rend="#salute"><hi rendition="#c">Jhre </hi><lb break="yes"/><hi rendition="#r">ergebenste<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Emma </hi><surname><hi rendition="#i">G.</hi></surname></seg></hi></p>
+</body>
+</text>
+</TEI>

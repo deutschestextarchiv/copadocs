@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2047b04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2047</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Albert <surname>B.</surname></persName>
+<date type="sent">29.xx. ca.1887-1913</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Maria <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2047b">
+<persName>
+<forename>Albert</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1841"/>
+<death when="1913"/>
+<occupation>Koch, Konditor</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schneidermeister</p>
+<p>Anstalt: <date from="1887" to="1913">1887-1913</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Dementia agitata, chronische Tobsucht (1887)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient1"/>
+<handNote medium="pencil" scope="minor" scribe="patient2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber berichtet, dass er seinen Geburtstag auf einem von dem Oberarzt genehmigten Ausflug mit Mitpatienten feiern möchte.
+                    Er ist gesund und arbeitet im Holzstadel, damit ihm nicht langweilig wird.
+                    Er bittet seine Schwester darum, ihm Bargeld und Zigaretten zu schicken und ihn zu besuchen.
+                    Er bewahrt ihre Photographie ordentlich auf.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2047b04a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb2047b04b.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb2047b04c.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r">Irrsee d. 29. ten</hi></dateline>
+<salute><hi rendition="#r">Liebe Schwester Maria!</hi></salute>
+</opener>
+<p>
+<seg ana="#inst">Mit dem heutigen werde ich<lb break="yes"/>Dir mittheilen, daß ich
+                        am<lb break="yes"/>3 ten May meinen Geburtstag<lb break="yes"/>feiern
+                    möchte, durch die Güte<lb break="yes"/>des Herrn Oberatzt bewilligst<lb break="yes"/>wurde, daß wir Einen<lb break="yes"/>Ausflug machen
+                        dürfen.<lb break="yes"/>Eine Waldparthie 1 Stunde<lb break="yes"/>vor
+                    Irrsee mit Einigen<lb break="yes"/>Pazienten auf Eine Ortschaft. <add hand="patient2" place="margin">anbetrifft</add><lb break="yes"/>Wen aber an dieser Tage<lb break="yes"/>schlechte Witterung Eintreffen<lb break="yes"/>sollte so dürfen wir auf<lb break="yes"/>den Kaufbeuren
+                        Markt<lb break="yes"/>welcher am 27ten May<lb break="yes"/>ist.</seg> Was
+                mich <del>Anbedrift</del>
+<add hand="patient2" place="above">anbetrifft</add><lb break="yes"/>bin ich so weit Gesund<lb break="yes"/>und wohl <seg ana="#inst">bin, Som̄er<lb break="yes"/>und Winter jeder Tag.<lb break="yes"/><pb facs="#image_012"/> in den Holzstadel bescheftigt<lb break="yes"/>mit Ausnahme
+                Sonndad Feiertage.</seg><lb break="yes"/>damit mir die Zeit <w>nicht</w><w>so</w><lb break="yes"/>lang wird. Ich würde Dich<lb break="yes"/>daher freundlichst
+                bitten mir<lb break="yes"/>Etwas Baargeld, Schmocher<lb break="yes"/>und
+                Zitgratelten Zigarren<lb break="yes"/>mitzuschicken. Deinen<lb break="yes"/>schöne
+                Potogrehie hab ich in<lb break="yes"/>in der schönsten Ordnung.<lb break="yes"/>Auch würde ich Dich bitten<lb break="yes"/>noch mal den Som̄er mich<lb break="yes"/>zu besuchen wen̄ Es mal<lb break="yes"/>Gelegenheit Gibt
+                in daß<lb break="yes"/>Oberland Abstecher zu<lb break="yes"/>machen
+                    <unclear>Vergmärgthur</unclear><lb break="yes"/>Bitte Dich daher
+                    freundlichst<lb break="yes"/>darum mich <unclear>nich</unclear> zu<lb break="yes"/>vergessen<pb facs="#image_013"/> <seg ana="#salute">Nun muß ich schließen<lb break="yes"/>Grüßt Dich wie Herrn <surname>K.</surname><lb break="yes"/><hi rendition="#c">Dein Bruder</hi></seg><lb break="yes"/><hi rendition="#i"><hi rendition="#r"><hi rendition="#u"><seg ana="#signed">Albert
+                                <surname>B.</surname></seg></hi></hi><lb break="yes"/>B. Heil
+                    Bleganstalt</hi><lb break="yes"/><hi rendition="#c">Irrsee.</hi></p>
+</body>
+</text>
+</TEI>

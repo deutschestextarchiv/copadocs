@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3349f26" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3349</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>F.</surname></persName>
+<date type="sent">14.04.1926</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberlehrer Otto <surname>H.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3349f">
+<persName>
+<forename>Jakob</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888"/>
+<death when="1935"/>
+<occupation>Landwirt, Dienstknecht</occupation>
+<residence><geo decls="#WGS">48.2473553 10.4500832</geo>Premach, Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landwirt</p>
+<p>Anstalt: <date from="1907" to="1935">1907-35</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>maniakalischer Erregungszustand (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/><!--anpassen!-->
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Fragen an ehemaligen Lehrer
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3349f26a.jpg" xml:id="image_070"/>
+<graphic mimeType="image/jpg" url="kfb3349f26b.jpg" xml:id="image_071"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_070"/>
+<opener>
+<dateline><hi rendition="#i">Kaufbeuren</hi> den 14.IV.26</dateline>
+<salute>Herrn Oberlehrer <hi rendition="#i">Otto </hi><surname><hi rendition="#i">H.</hi></surname></salute>
+</opener>
+<p>pensioniert wo?<lb break="yes"/>Möchte Herrn Oberlehrer daran erin̄ern,
+                ob<lb break="yes"/>Ihm noch bekan̄t, als <hi rendition="#i"><surname>F.</surname> Jakob</hi> durch Sie<lb break="yes"/>Herrn
+                Lehrer gefragt wurde: "Welches Verwandt<lb break="no"/>schaftsbündnis bestehe
+                zwischen Kurfürst Maximilian<lb break="yes"/>u. <hi rendition="#i">König Max</hi>
+<hi rendition="#i">I</hi>.? Die Antwort blieb<lb break="yes"/>meine Wenigkeit damals
+                nicht schuldig."<lb break="yes"/>Ist es mir, nur heute nach Verlauf von bereits<lb break="yes"/>25 Jahren / die Frage erlaubt, wen̄ ich, an dem in
+                    Ehr<unclear>e</unclear><lb break="yes"/>seiner gedenkend /: " Besteht wohl zwischen uns
+                    beide<unclear>n</unclear><lb break="yes"/>auch eine Verwandtschaft? u. wie wäre selb<unclear>e zu
+                    er</unclear><lb break="no"/>klären. - ?? </p>
+<p>Der Frechheit eines Patienten der H. u. Pfl<unclear>egeanstalt</unclear><lb break="yes"/>verzeihend, Ihren nur das Beste wünsch<unclear>end</unclear><lb break="yes"/>verbleibe<lb break="yes"/>In Aller Hochachtung<lb break="yes"/>Ihr stets dankbarer Schüler</p>
+<p><add place="margin">Herzlich gegrüßt seien all die Ihren möge Gottes
+                <unclear/></add></p>
+<pb facs="#image_071"/>
+<p> Fürs Baiernvolk.<lb break="yes"/>Da will der Vater sterben</p>
+<p><add place="margin"><hi rendition="#i">Schwarz, Weis u. rot wollt </hi><lb break="yes"/><hi rendition="#i">als erhaschen</hi></add></p>
+<p>Fürs <hi rendition="#i">Dies</hi> bleiben keine Erben. </p>
+</body>
+</text>
+</TEI>

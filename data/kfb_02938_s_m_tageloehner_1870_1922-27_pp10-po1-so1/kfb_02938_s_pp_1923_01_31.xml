@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2938s03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2938</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Alois <surname>S.</surname></persName>
+<date type="sent">31.01.1923</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2938s">
+<persName>
+<forename>Alois</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1870"/>
+<death when="1927"/>
+<occupation>Taglöhner</occupation>
+<residence><geo decls="#WGS">47.8713286 10.6020953</geo>Oberbeuren, Kaufbeuren</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Pfründner</p>
+<p>Anstalt: <date from="1922" to="1927">1922-27</date></p>
+<p>Brieftypen: pp, po, Lebenslauf</p>
+</state>
+<trait><p>zyklisch: Schwermut, Depression / Erregung (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Pat. bittet um die Übersendung von Zigaretten, Honig und Fleisch
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2938s03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb2938s03b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline>Kaufbeuren 31 I 23</dateline>
+<salute><hi rendition="#c">Lieber Vatter u Bruder<lb break="yes"/>u Schwägerin
+                        u Schwester</hi></salute>
+</opener>
+<p>Ich bin in der Heilanstalt<lb break="yes"/>v den Rotkreuztrger<lb break="yes"/>eingebracht worden es<lb break="yes"/>geht mir gut, Essen gut<lb break="yes"/>schlafen nur nähe<lb break="yes"/>ich hie u da ettiche<lb break="yes"/>Cigaretten rauhe<lb break="yes"/>bitte schike mir<lb break="yes"/>welche
+                hezlichen Dank<lb break="yes"/>im voraus sendet<lb break="yes"/><seg ana="#signed">Dein Bruder u Sohn<lb break="yes"/>Knecht Allois <surname><hi rendition="#i">S.</hi></surname></seg><lb break="yes"/><hi rendition="#r">d Güte duch Pauls</hi>
+<pb facs="#image_008"/>Kanst mir nich vileicht<lb break="yes"/>etwas Honig schiken<lb break="yes"/>durh Paul <surname>K.</surname><lb break="yes"/>Oder etwas schwein<lb break="yes"/>Fleisch Sage es auch den<lb break="yes"/><surname>W.</surname> in Kipetrid sol<lb break="yes"/>mih
+                gelegentlich besuchen<lb break="yes"/>Am 11 Februar ist
+                    <unclear>Farerchnig</unclear><lb break="yes"/>vom reisenden Gewerbe von<lb break="yes"/>Kaufbeurer Ortgrigen im<lb break="yes"/>der Stadtpfarkirhe dan im <w>Stadt<lb break="no"/>sal</w> wo user Klara u<lb break="yes"/>vileich auch Ida <w>Fahnen<lb break="no"/>Jungfrauen</w> werden<lb break="yes"/>seid ihr alle hezlih eingeladn<lb break="yes"/><seg ana="#salute">Grus</seg>
+<seg ana="#signed">Alois <surname><hi rendition="#i">S.</hi></surname></seg></p>
+</body>
+</text>
+</TEI>

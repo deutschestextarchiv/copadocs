@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a47" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca. 1917-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1917" to="1931">1917-31</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um Hilfe durch Hypnose, Impfung und Verlegung.
+                    Er will seine Lage schildern.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a47a.jpg" xml:id="image_112"/>
+<graphic mimeType="image/jpg" url="kfb80a47b.jpg" xml:id="image_113"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_112"/>
+<opener>
+<dateline/>
+<salute>Sehr geehrter Herr <hi rendition="#i">Ober-Medizinalrat</hi>!</salute>
+</opener>
+<p><add place="top"><handShift medium="pencil" scribe="patient"/>Bitte Lassen Sie
+                    mich kom̄en, um 1 Geheimnis v. mir zu sagen</add>
+<handShift medium="ink" scribe="patient"/><lb break="yes"/>Meine <seg ana="#curse">verfluchte Gotteslästerungsqual</seg>
+                &amp;. <seg ana="#curse">ver<lb break="no"/>dammte Gebetsunruhe</seg> kann ich hier
+                im lang<lb break="no"/>weiligen Krankenzimmer nicht mehr aus<lb break="no"/>halten.
+                Tun Sie bitte mich auf <hi rendition="#u">C 3. C 3.</hi> heute.<lb break="yes"/>Lassen Sie bitte mich <hi rendition="#i"><hi rendition="#u">hypnotisieren</hi></hi> oder<lb break="yes"/><hi rendition="#i"><hi rendition="#u">impfen</hi></hi>; daß ich von der Gebetsunruhe erlöst<lb break="yes"/>werde. Die Gebetsunruhe bringt mich ganz in<lb break="yes"/>Verzweiflung. Tun Sie bitte mich auf <hi rendition="#u">C 3.
+                    C 3.</hi><lb break="yes"/><seg ana="#salute">Es grüßt Sie höflicht</seg>
+<seg ana="#signed"><hi rendition="#u"><hi rendition="#i">Hans
+                                <surname>A.</surname></hi>. Krz. A 3.</hi></seg><lb break="yes"/>Ich schreib Ihnen meine <unclear/>ruhe heute noch genauer.</p>
+<pb facs="#image_113"/>
+<p><space/>
+<handShift medium="pencil" scribe="patient"/>Lassen Sie bitte meine<lb break="yes"/><seg ana="#curse">verfluchte innere Gedankensun<lb break="no"/>ruhe &amp;
+                    Gotteslästerungsqual</seg><lb break="yes"/>Ihnen heute erklären. Es ist wichtig.<lb break="yes"/><seg ana="#salute">Es grüßt Sie
+                höflichst</seg> <seg ana="#signed"><hi rendition="#i"><surname>A.</surname> Hans</hi></seg></p>
+</body>
+</text>
+</TEI>

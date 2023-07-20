@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2000s15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2000</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Tochter: Lina <surname>H.</surname></persName>
+<date type="sent">18.03.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2000s">
+<persName>
+<forename>Barbara</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1914"/>
+<occupation>Lehrersfrau</occupation>
+<residence><geo decls="#WGS">47.5352544 10.3050352</geo>Stein, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1881" to="1914">1881-1914</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Halluzinatorische Verwirrtheit (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="tochter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Dankt dem Arzt und hofft, dass sich die körperlichen Einschränkungen der Patientin bald bessern.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2000s15a.jpg" xml:id="image_031"/>
+<graphic mimeType="image/jpg" url="kfb2000s15b.jpg" xml:id="image_032"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_031"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Hochverehrter Herr<lb break="yes"/>Oberarzt!
+                    </hi></salute>
+</opener>
+<p>Meinen innigsten Dank für<lb break="yes"/>die gütige Nachricht, welche<lb break="yes"/>mich ungemein erfreut hat.<lb break="yes"/>Vielleicht wird meine
+                gute<lb break="yes"/>Mutter doch wieder besser, daß<lb break="yes"/>sie nicht noch
+                zur geistigen<lb break="yes"/>Krankheit ein körperliches<lb break="yes"/>Leiden zu
+                tragen hat. 
+            </p><p>Ich wäre ganz glücklich, wenn<lb break="yes"/>sie wieder so weit wäre,<lb break="yes"/>daß sie
+                sich wieder frei be<lb break="no"/>wegen könnte. Nehmen <hi rendition="#i">Sie</hi>,<lb break="yes"/>hochgeehrter Herr, für alle<lb break="yes"/>Mühe &amp; Sorge,
+                die <hi rendition="#i">Sie</hi> meiner<lb break="yes"/>geliebten Kranken <w>zu teil
+                        <pb break="no" facs="#image_032"/>werden</w> lassen, meinen herzlichsten<lb break="yes"/>tiefgefühlten Dank gerne ent<lb break="no"/>gegen &amp; auch für
+                den beigelegten<lb break="yes"/>Brief, der mir dennoch teuer<lb break="yes"/>ist,
+                wenn ich ihn <add place="above">auch</add> nur teilweise<lb break="yes"/>verstehen
+                kann. </p><p><seg ana="#salute"><hi rendition="#r">Mit vorzüglicher Hochachtung </hi><lb break="yes"/><hi rendition="#c">zeichnet, </hi><lb break="yes"/><hi rendition="#r">Ihre<lb break="yes"/>dankbarste </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Lina <surname>H.</surname>.</seg></hi></p><p><hi rendition="#i">München</hi>, 18.III.06</p>
+</body>
+</text>
+</TEI>

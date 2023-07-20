@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2834b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2834</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Julius <surname>B.</surname></persName>
+<date type="sent">08.05.1894</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Herr von <surname>H.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2834b">
+<persName>
+<forename>Julius</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1871"/>
+<death when="1924"/>
+<occupation>Commis</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>jüdisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1912" to="1924">1912-1924</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Erregungszustände (1912)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um 100,000 Mark, will diese "seinerzeit" zurückerstatten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2834b03a.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline><hi rendition="#r">8 V 94</hi></dateline>
+<salute><hi rendition="#c">Herr von <surname><hi rendition="#i">H.</hi></surname><hi rendition="#i">, Paris</hi>.</hi></salute>
+</opener>
+<p><space/> Möchte Sie ergebenst ersuchen, mir aus<lb break="yes"/>Ihrem Vermögen
+                100,000 <hi rendition="#i">Mark</hi> zuzusenden,<lb break="yes"/>welche Summe Ihnen
+                seinerzeit mit Dank<lb break="yes"/>zurückerstatten werde <hi rendition="#r">Achtungsvoll<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Julius <surname>B.</surname></hi></seg><lb break="yes"/>in der Heil- und Pflegeanstalt<lb break="yes"/><hi rendition="#i">Kaufbeuren</hi><lb break="yes"/>in Bayern.</hi> </p>
+</body>
+</text>
+</TEI>

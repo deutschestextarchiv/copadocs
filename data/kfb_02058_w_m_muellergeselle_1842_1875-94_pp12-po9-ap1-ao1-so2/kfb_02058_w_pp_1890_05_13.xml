@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2058w15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2058</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz Josef <surname>W.</surname></persName>
+<date type="sent">13.05.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Martin <surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2058w">
+<persName>
+<forename>Franz Josef</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1842"/>
+<death when="1899"/>
+<occupation>Müllergeselle</occupation>
+<residence><geo decls="#WGS">47.9484351 10.3943101</geo>Markt Rettenbach, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Webermeister</p>
+<p>Anstalt: <date from="1875" to="1899">1875-99</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>partieller Wahnsinn (1874), Nymphomanie, Satyriasis (1880)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   denkt, er darf die Anstalt verlassen; will wieder arbeiten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2058w15a.jpg" xml:id="image_059"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_059"/>
+<opener>
+<dateline><hi rendition="#r">Irrse d. 13. d. Mai 1890.</hi></dateline>
+<salute><hi rendition="#c">Libster Bruder Martin!</hi></salute>
+</opener>
+<p>
+<space/> Nun die Hern Vorstände in der Anstalt<lb break="yes"/>haben mihr die
+                Erlaubniß gegeben wo<lb break="yes"/>ich selbst nicht denkt hab. Jch tärf<lb break="yes"/>Dir Schreiben, u. tarfst mich besuchen,<lb break="yes"/>u.
+                vieleicht wurde ich, durch dich Ent<lb break="no"/>lassen, jezt, gehst du nit hehr
+                    War<lb break="no"/>rum den it? −. Was fehlt dea.<lb break="yes"/>Meinst
+                ich <add place="inline">kan</add> gleich Mähen mit solche<lb break="yes"/>fein̄e Händ − ich könt ja in der<lb break="yes"/>Wertach herunden Hotz
+                machen jezt.<lb break="yes"/>Und ich Vergüte dir alles besser als<lb break="yes"/>Du meinst. Also ich möcht mit dir<lb break="yes"/>Persönlich Sprechen, das, man
+                    jezt<lb break="yes"/>u. in Zukunft wust <hi rendition="#u">was</hi>. Oder<lb break="yes"/>Schreib hehr. Sieh di 10 dl it an.</p>
+<p><hi rendition="#r"><seg ana="#salute">Ich grüß<lb break="yes"/>Dich</seg><lb break="yes"/><seg ana="#signed">Franz Joseph <surname>W.</surname><lb break="yes"/>Miller</seg></hi></p>
+<p>Hern Martin <hi rendition="#u"><surname>W.</surname></hi><lb break="yes"/>in <hi rendition="#u">Rieden</hi><lb break="yes"/>bei <hi rendition="#u">Kaufbeuren</hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

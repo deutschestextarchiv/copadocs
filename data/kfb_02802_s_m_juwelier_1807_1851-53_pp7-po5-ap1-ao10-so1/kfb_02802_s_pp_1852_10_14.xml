@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2802s11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2802</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>S.</surname></persName>
+<date type="sent">14.10.1852</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Caroline <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2802s">
+<persName>
+<forename>Karl</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1807"/>
+<death cert="unknown"/>
+<occupation>Juwelier</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Knopfmacher</p>
+<p>Anstalt: <date from="1851" to="1853">1851-1853</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Pat. bittet Ehefrau, beim Magistrat Einsicht in Papiere zu seinen Angelegenheiten zu nehmen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2802s11a.jpg" xml:id="image_048"/>
+<graphic mimeType="image/jpg" url="kfb2802s11b.jpg" xml:id="image_049"/>
+<graphic mimeType="image/jpg" url="kfb2802s11c.jpg" xml:id="image_050"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_048"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> den 14.<hi rendition="#sup">ten</hi>
+<hi rendition="#i">Oct</hi> 1852._</hi></dateline>
+<salute><hi rendition="#c">Liebe <hi rendition="#i">Caroline</hi>!</hi></salute>
+</opener>
+<p>Seit ich Dir das Letztemal schrieb, hat sich in meiner <w>Angelegen<lb break="no"/>heit</w> manches zu meinen Gunsten verändert.</p><p>Bey meinem Eintritt in die hiesige Anstalt lasteten Vorwürfe u. An<lb break="no"/>klagen auf mir,
+                welche <hi rendition="#u">auch Du</hi> gerechtfertigt fandest, wie mir dein<lb break="yes"/>letzter Brief abermals zeigt. −</p><p>Ich war viele Monate hier theils zu sehr körperlich leidend, theils zu<lb break="yes"/><hi rendition="#u">sehr niedergedrückt</hi>, um an eine gründliche Wiederlegung zu
+                gehen;<lb break="yes"/>im vorigen Monat aber fühlte ich mich kräftig genug, eine
+                klare un<lb break="no"/>zweideutige Beleuchtung der verschiedenen Angelegenheiten
+                bezüglich<lb break="yes"/><surname><hi rendition="#i">K.</hi></surname>,
+                        <surname><hi rendition="#i">H.</hi></surname>, der <hi rendition="#i">Polizei ect.</hi> nieder<add place="above">zu</add>schreiben, welche<lb break="yes"/>zugleich zum Beweis dient, wie ich jetzt wieder im <hi rendition="#i">St</hi>ande bin,<lb break="yes"/>meine Angelegenheiten selbst in
+                die Hand zu nehmen. −</p><p>Seit ich diese Schriften Herrn <hi rendition="#i">Director</hi> übergeben habe, sind die<lb break="yes"/>frühern Anklagen verstum̄t; Fehler die ich in der Krankheit<lb break="yes"/>gemacht habe, habe ich in diesen Schriften selbst
+                anerkan̄t, u Herr<lb break="yes"/><hi rendition="#i">Director</hi> dem ich
+                sie übergab, hat gutes davon gehofft, indem Er sie<lb break="yes"/>an den M<hi rendition="#i">agistrath</hi> nach <hi rendition="#i">Augsburg</hi> sandte.</p><p>Du kannst Dir nun denken, wie viel mir daran liegen muß,<lb break="yes"/>daß bei dem <hi rendition="#i">Magistrath</hi> sich bei Beurtheilung dieser <hi rendition="#i">Papiere</hi><lb break="yes"/>nicht etwa eine Nachlässigkeit oder gar Böswilligkeit von irgend<pb facs="#image_049"/>einer Seite einmische, deshalb wäre es jetzt an Dir, Dich zu<lb break="yes"/>erkundigen, ob der herr <hi rendition="#i">Bürgermeister</hi>
+                selbst diese Sache besorgt,<lb break="yes"/>oder ob ein <hi rendition="#i">Referent</hi> darüber ernan̄t ist. </p><p>Bespreche Dich daher mit meinem Freund <surname><hi rendition="#i">N.</hi></surname>, daß <w>viel<lb break="no"/>leicht</w> Er oder Du oder auch <hi rendition="#i">Buchhändler <surname>L.</surname></hi> oder wen<lb break="yes"/>Du meinst der sonst Einfluß haben kön̄te, mit dem H. <hi rendition="#i">Bürger<lb break="no"/>meister</hi> oder meinem <hi rendition="#i">Referenten</hi> sprechen würde, um die <w>Ange<lb break="no"/>legenheit</w> jedenfalls zu beschleunigen, denn der Aufenthalt
+                dauert<lb break="yes"/>nun schon 1. Jahr u. ich wünsche mit aller Entschiedenheit
+                    end<lb break="no"/>lich entlassen zu werden; glaube auch, daß besondere
+                Hindernisse<lb break="yes"/>von Seite des Hern <hi rendition="#i">Directors</hi>
+                nicht mehr statt finden werden,<lb break="yes"/>wenn nun der <hi rendition="#i">Magistrath</hi> zur richtigen Ansicht in meiner<lb break="yes"/>Sache
+                kom̄t. −</p><p>Deshalb wäre es mir so wünschenswerth, mit Dir persönlich darüber<lb break="yes"/>zu sprechen u.
+                ich meine im̄er noch, Du sollest die Reise hieher<lb break="yes"/>möglich
+                machen, da Du ja in einem Tag hin u her kom̄en kan̄st,<lb break="yes"/>u. es der ausdrückliche Wunsch des Herrn <hi rendition="#i">Directors</hi> ist. </p><p>Willst Du dieß aber durchaus nicht, so lasse Dir jedenfalls<lb break="yes"/>beym <hi rendition="#i">Magist</hi>. die <hi rendition="#i">Papiere</hi> geben, u prüfe sie
+                mit einem<lb break="yes"/>der genan̄ten Freunde, so wirst du aus der
+                Zusam̄enstellung<lb break="yes"/>leicht ersehen, daß die Sache ganz anders
+                steht als Du meinst. <pb facs="#image_050"/>Der <hi rendition="#i">Pauline
+                    gratulire</hi> ich zum errungenen <hi rendition="#i">Preis</hi> schönstens,<lb break="yes"/>es <add place="inline">hat</add> höchst wohlthätig mich erfreut,
+                indem ich seit <hi rendition="#u">einem Jahr</hi> nichts<lb break="yes"/>Erfreuliches erfahren habe; vielleicht wird sich doch endlich einmal<lb break="yes"/>Alles freundlicher gestalten, <seg ana="#salute">indessen grüßt
+                    Euch Alle<lb break="yes"/>herzlich</seg><hi rendition="#r">
+<seg ana="#signed">Dein<lb break="yes"/>Dich herzlich liebender<lb break="yes"/>aber nicht weniger unglückliche<lb break="yes"/><hi rendition="#i">Carl</hi>. </seg></hi></p>
+</body>
+</text>
+</TEI>

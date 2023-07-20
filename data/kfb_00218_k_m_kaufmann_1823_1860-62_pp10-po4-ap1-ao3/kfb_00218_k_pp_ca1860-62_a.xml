@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb218k01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>218</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ernst <surname>K.</surname></persName>
+<date type="sent">ca. 1860-1862</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Jacob <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb218k">
+<persName>
+<forename>Ernst</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1823"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1860" to="1862">1860-1862</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Geisteswahn (1862)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient schreibt seinem Bruder über die Möglichkeit, dass dieser heirate und das untere Zimmer des Hauses vermiete.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb218k01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb218k01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber Jacob!</hi></salute>
+</opener>
+<p><space/> An Deiner Stelle würde<lb break="yes"/>ich den naechstens
+                    verlitridiren<lb break="no"/>den Hirschen in <hi rendition="#i">Kempten</hi> kaufen<lb break="yes"/>u eine Baeckerey vom Land<lb break="yes"/>darauf herein ziehen, dann<lb break="yes"/>waerest, Du dan̄
+                ein geborgener<lb break="yes"/>Mann u koentest heirathen<lb break="yes"/>wen̄ Du moechtes,
+                das untere<lb break="yes"/>Zim̄er konn̄test Du an
+                    <surname>H.</surname><lb break="yes"/>vermiethen dan̄ kaeme der<lb break="yes"/>bey dieser
+                    Gelegen<hi rendition="#i">h</hi>eit auch<lb break="yes"/>in die Stadt. Grüße
+                    <surname>H.</surname>s<lb break="yes"/>Schön + sage ihm er werde die<lb break="yes"/>Füße nicht brechen wen̄ er mich<lb break="yes"/>hier einnal
+                besuche. <seg ana="#salute">Mit aller<lb break="yes"/>Liebe Dein Bruder</seg>
+<seg ana="#signed"><hi rendition="#i">Ernst</hi></seg>. </p>
+<pb facs="#image_002"/><p>Wen̄ Du den Hirschen kaufen<lb break="yes"/>solltest dan̄ koente man Dich<lb break="yes"/>mit Geld schon unterstüt<hi rendition="#i">z</hi>en,<lb break="yes"/>Du hast ja ohnedem noch f600−<lb break="yes"/>bey uns zu gut.<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Ernst</hi></seg>.</hi></p>
+</body>
+</text>
+</TEI>

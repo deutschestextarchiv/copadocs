@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb907b04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>907</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>B.</surname></persName>
+<date type="sent">1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb907b">
+<persName>
+<forename>Johann</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1868"/>
+<death cert="unknown"/>
+<occupation>Ökonom</occupation>
+<residence><geo decls="#WGS">48.8196556 10.5167978</geo>Reimlingen, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bauern</p>
+<p>Anstalt: <date from="1897" to="1898">1897-98</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Imbecillität (1898), Geistesschwäche verbunden mit pathologischen Charaktereigentümlichkeiten (1897)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet darum, wieder eine Arbeit aufnehmen zu dürfen. Er erwartet eine Nachricht, da er sich bei der Arbeit im Amtsgericht bewährt hat und
+                    daher die Aussicht auf eine Stellung im Oberpostamt hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb907b04a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb907b04b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<salute><hi rendition="#i"><hi rendition="#r">An die Diereckton!</hi></hi></salute>
+</opener>
+<p> Bitte an den Herrn Docktor da ich<lb break="yes"/>ich seit 16. August 1897 ohne
+                    beständige<lb break="yes"/>Arbeit bin so hoffe ich stäts balliegste<lb break="yes"/>Nachricht vom Könglchn Amtsgrcht Nrd.<lb break="yes"/>Wo ich mich
+                als Bauernsohn z. R.<lb break="yes"/>u. d. grösten begietter den v. 18. b. 23
+                    Jhr.<lb break="yes"/>in dem verlässieg anvertrauten Fuhrwerk<lb break="yes"/>sehr bewandert w. n. Zeugnies fleisieg<lb break="yes"/>treu Ehrlchkeit vorliegt. So
+                    hätte<lb break="yes"/>ich stäts die Aussicht nach den<lb break="yes"/>Oberpostamt Amt Augsburg<lb break="yes"/>als Postknecht in d. Bzrk. Dilling<lb break="yes"/>in Donauwört Kaufbeuren u.s.w<lb break="yes"/>einen dienst
+                bekomme. So auch<lb break="yes"/>das nötiege Geld m. Zeugnies<pb facs="#image_012"/> zurückgesendet. Nähre<lb break="yes"/><hi rendition="#r">Auskunft stäts erwar<lb break="no"/>den
+                    nicht als <w>Arbeitsunfähig<lb break="no"/>keit</w> erklärt werden <unclear/><lb break="yes"/>So bitte ich den<lb break="yes"/>Entscheit durch den
+                        <unclear/><lb break="yes"/>Docktor zurück <unclear/><lb break="yes"/>Aufrichtiegen Dank erstatet<lb break="yes"/>werde.</hi><lb break="yes"/><hi rendition="#c"><seg ana="#signed">J. <surname>B.</surname></seg><lb break="yes"/>von<lb break="yes"/>Reimlingen</hi><lb break="yes"/><hi rendition="#r">Bezierksamt</hi><lb break="yes"/><hi rendition="#c">Nördlingen 1898.</hi>
+</p>
+</body>
+</text>
+</TEI>

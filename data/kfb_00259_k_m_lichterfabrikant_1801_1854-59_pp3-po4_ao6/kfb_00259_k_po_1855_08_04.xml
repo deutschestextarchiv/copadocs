@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb259k12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>259</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>K.</surname></persName>
+<date type="sent">04.08.1855</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb259k">
+<persName>
+<forename>Joseph</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1801"/>
+<death cert="unknown"/>
+<occupation>Seifen- und Lichterfabrikant</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1854" to="1859">1854-59</date></p>
+<p>Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Confusio Idearum, Wahnvorstellungen (1854)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient bittet um ein Verhör
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb259k12a.jpg" xml:id="image_023"/>
+<graphic mimeType="image/jpg" url="kfb259k12b.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_023"/>
+<opener>
+<dateline><space/> <hi rendition="#i">Irsee d: 4 August</hi> <hi rendition="#u">1855</hi></dateline>
+<salute><hi rendition="#i">H: Director hier!</hi></salute>
+</opener>
+<p>Auf Ehre &amp; Gewißen <hi rendition="#u">fodere</hi><lb break="yes"/>Ich Sie bei Ihrer Ehre auf,<lb break="yes"/>mir heute bis Mitag 12
+                Uhr ein<lb break="yes"/>Verhör v: Ihnen oder Landt<hi rendition="#i">gricht</hi><lb break="yes"/>zu besorgen, oder von <hi rendition="#i">H:</hi>
+<hi rendition="#i">Praesi</hi><lb break="no"/><hi rendition="#i">taenter</hi> in <hi rendition="#i">Augsb.</hi> &amp; <hi rendition="#i">Münch</hi>. −<lb break="yes"/>den es mir unmöglich mich<lb break="yes"/>noch zu retten, oder
+                mein<lb break="yes"/>Leben zu fristen − Die guten<lb break="yes"/>gehen
+                &amp; die Mörder bleiben<lb break="yes"/>&amp; so lange <hi rendition="#i">H. D<hi rendition="#sup"><hi rendition="#u">r</hi></hi></hi> in dieser<lb break="yes"/>Anstalt &amp; <hi rendition="#i">H: Caplan</hi> es besu<lb break="no"/>chen
+                    <del><unclear>&amp;</unclear></del> nebst <hi rendition="#i">Consorten</hi>, so<lb break="yes"/>hört das Morden &amp; Schlachten<lb break="yes"/>nicht auf,
+                den Holz haben &amp;<lb break="yes"/>Gischt <unclear/> See. das verträgt<lb break="yes"/><del>1</del> 5 am <unclear/> herum </p>
+<pb facs="#image_024"/>
+<p> gejagt werden daß heißt<lb break="yes"/>viele Hunde, sind des Haa<lb break="no"/>sen Todte, ich bitte täglich<lb break="yes"/>um <unclear>schmißliches</unclear>
+<hi rendition="#i">recipisse</hi><lb break="yes"/><seg ana="#salute">damit Gott empfohlen</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Joseph
+                                <surname>K.</surname></hi></seg><lb break="yes"/><hi rendition="#u">zum Anger 45. −</hi></hi>
+</p>
+<p>Somit müßte ich mich zu<lb break="yes"/>andere Mittel wenden<lb break="yes"/><hi rendition="#r"><hi rendition="#u">Obiger</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

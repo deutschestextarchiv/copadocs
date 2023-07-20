@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun1988k16" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>1988 (K. 170)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>K.</surname></persName>
+<date type="sent">11.10.1904</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Amtsgerichtsrat: n.a. <surname>F.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun1988k">
+<persName>
+<forename>Heinrich</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1846-10-13"/>
+<death cert="unknown"/>
+<occupation>Arbeiter</occupation>
+<residence><geo decls="#WGS">51.920586 7.727183</geo>Geburtsort: Wolbeck; Wohnort: Wolbeck</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Weber, Mutter: Arbeiterin</p>
+<p>Anstalt: <date from="1900-06-28" to="1905-05-05">28.06.1900-05.05.1905</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber beklagt sich, dass vermindert wird, weil er nichts verdient und für seine Unterbringung im Krankenhaus und für seine Mutter aufkommen muss.
+                    Er muss für seine Mutter sorgen.
+                    Er berichtet von einem Besuch bei seiner Mutter.
+                    Er ist mit einer Lüge in die Anstalt gebracht worden.
+                    Er soll in der Anstalt angestellt werden.
+                    Ein Pfleger hat sich entgegen seiner Aussage nicht für ihn eingesetzt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun1988k16a.jpg" xml:id="image_039"/>
+<graphic mimeType="image/jpg" url="mun1988k16b.jpg" xml:id="image_040"/>
+<graphic mimeType="image/jpg" url="mun1988k16c.jpg" xml:id="image_041"/>
+<graphic mimeType="image/jpg" url="mun1988k16d.jpg" xml:id="image_042"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_039"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt <hi rendition="#r">Münster
+                            i. W., den</hi></add><hi rendition="#r"> 11 <hi rendition="#i">Ocktober</hi>
+<add hand="vordruck">190</add>4.</hi></dateline>
+<salute><hi rendition="#i">Hochgeehrter Herr Amts=Gerichts=Rat</hi>!</salute>
+</opener>
+<p><add hand="hand3"><hi rendition="#r">G <hi rendition="#sup">12</hi>/<hi rendition="#sub">10</hi> 04
+                        <hi rendition="#u" style="hand4">ad acta</hi> Heinrich <surname><hi rendition="#i">K.</hi></surname><lb break="yes"/>G </hi></add></p>
+<p><hi rendition="#i">Da Ich Ihnen zwei Briefe geschrieben, und keine Ant</hi><lb break="no"/><hi rendition="#i">wort erhalten habe, so finde Ich Mich veranlasst,
+                    noch</hi><lb break="no"/><hi rendition="#i">mals zu schreiben. Ich bin nun seid
+                    den 28 Juni</hi>
+<w><hi rendition="#i">eintausend </hi><lb break="yes"/><hi rendition="#i">neun
+                        Hundert</hi></w>
+<hi rendition="#i">in der Heil=Anstalt Marienthal bei </hi><lb break="yes"/><hi rendition="#i">Münster und habe nun seid jener Zeit nichts mehr ver</hi><lb break="no"/><hi rendition="#i">dient. Ich muß täglich für Mich und Meine Mutter
+                    </hi><lb break="yes"/><hi rendition="#i">im Kranken=Hause zu </hi><placeName><hi rendition="#i">Wolbeck</hi></placeName><hi rendition="#i"> bezahlen. dardurch
+                    wird </hi><lb break="yes"/><hi rendition="#i">mein Vermögen sehr vermindert. Der
+                    Amtmann </hi><surname><hi rendition="#i">M.</hi></surname><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">zu </hi><placeName><hi rendition="#i">Wolbeck</hi></placeName><hi rendition="#i"> und der verstorbene Docktor
+                    Bussmann </hi><lb break="yes"/><hi rendition="#i">haben Mich hierhingeschickt.
+                    mit der Lüge, Ich sollte </hi><lb break="yes"/><hi rendition="#i">nach einem
+                    Gerichts=Rat kommen, damit das Vermögen </hi><lb break="yes"/><hi rendition="#i">auf Mich beschrieben würde. Ich glaube, Sie hatten die Meinung </hi><lb break="yes"/><hi rendition="#i">das Vermögen ans Kranken=Haus ziehen. so Etwas
+                    haben Sie </hi><lb break="yes"/><hi rendition="#i">schon eher gemacht. Am 3ten
+                    Ocktober dieses Jahres hat der </hi><lb break="yes"/><hi rendition="#i">Herr
+                    Geheim=Rat Mir nach </hi><placeName><hi rendition="#i">Wolbeck</hi></placeName><hi rendition="#i"> gehen lassen, damit </hi><pb facs="#image_040"/><hi rendition="#i">Ich Meine Mutter besuchen könnte, denn Sie
+                    ist bereits im </hi><lb break="yes"/><w><hi rendition="#i">Sechs und
+                        Achtzigsten</hi></w><hi rendition="#i"> Lebens=Jahre. Als Ich Sie besuchte,
+                    </hi><lb break="yes"/><hi rendition="#i">sagte Sie Mir, es thäte Ihr Leid, das
+                    Wir Nicht in unserm </hi><lb break="yes"/><hi rendition="#i">Hause geblieben
+                    wären. Nun bin Ich gesonnen, wieder unsere </hi><lb break="yes"/><hi rendition="#i">Eigene Haushaltung wieder anzufangen, weil Ich verpflichtet
+                    </hi><lb break="yes"/><hi rendition="#i">bin für Meine Mutter zu sorgen. als
+                    Sohn. Am 16 Mai dieses </hi><lb break="yes"/><hi rendition="#i">Jahres, ist ein
+                    ander Herr Gerichts=Rat bei Mir gewesen </hi><lb break="yes"/><hi rendition="#i">und hat mit Mir über die Vermögens=Verhältnisse ge</hi><lb break="no"/><hi rendition="#i">sprochen und Alles zu Protokoll geführt Ich Ihm sagte. </hi><lb break="yes"/><hi rendition="#i">Der Herr Geheim=Rat hat Mir diesen Frühjahr
+                    gesagt, </hi><lb break="yes"/><hi rendition="#i">Ich sollte auf ein anderes Jahr
+                    hier auf Marienthal ange</hi><lb break="no"/><hi rendition="#i">stellt werden.
+                    Der Herr Pfleger Josef Dammann hat </hi><lb break="yes"/><hi rendition="#i">Mich
+                    von Wolbeck wieder hierhin gebracht, Er sagte Mir </hi><lb break="yes"/><hi rendition="#i">unterwegs, Er wolle doch Mal mit dem Herrn Geheim=Rat </hi><lb break="yes"/><hi rendition="#i">darüber sprechen, ob Er Mich nicht entlassen
+                    wollte, Er </hi><lb break="yes"/><hi rendition="#i">ist aber gar nicht beim Herrn
+                    Geheim=Rat gewesen, also </hi><lb break="yes"/><hi rendition="#i">denke Ich auch,
+                    das Er falsch handelt. Nun möchte Ich </hi><lb break="yes"/><hi rendition="#i">Ihnen freundlich bitten, Mir doch bald Antwort zu schrei</hi>-<add place="below"><hi rendition="#i">ben</hi></add><hi rendition="#i"> </hi><pb facs="#image_041"/><hi rendition="#i">wenn es Ihnen nicht
+                    zu viel Last macht. Ich glaube der </hi><lb break="yes"/><hi rendition="#i">Herr
+                    Geheim=Rat wird wohl mit Mir zufrieden sein, </hi><lb break="yes"/><hi rendition="#i">denn Ich habe getreu und fleisig für die Heil=Anstalt </hi><lb break="yes"/><hi rendition="#i">Marienthal gearbeitet. Nun wünsche Ich Ihnen, wie
+                    auch </hi><lb break="yes"/><hi rendition="#i">Ihrer ganzen Familie Gesundheit,
+                    Zufriedenheit und ein </hi><lb break="yes"/><hi rendition="#i">langes Leben,
+                    </hi><seg ana="#salute"><hi rendition="#i">Das Ihnen dieser Brief in </hi><add place="above"><hi rendition="#i">der</hi></add><hi rendition="#i"> bester
+                            </hi><del><hi rendition="#i">in</hi></del><hi rendition="#i"> Ge</hi><lb break="no"/><hi rendition="#i">sundheit antreffen wird hofft Ihr ergenster
+                        Diener </hi></seg><lb break="yes"/><hi rendition="#i">Adresse) </hi><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Heinrich </hi><surname><hi rendition="#i">K.</hi></surname></seg><hi rendition="#i">. </hi><placeName><hi rendition="#i">Wolbeck</hi></placeName><hi rendition="#i">.</hi></hi><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">An den Hochgeehrten Herrn Amts=Gerichts=Rat
+                    </hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">(</hi><surname><hi rendition="#i">F.</hi></surname><hi rendition="#i">)</hi></hi><hi rendition="#i"> </hi></p>
+<pb facs="#image_042"/>
+<p>
+<seg ana="#pic">[Gebäude]</seg>
+</p>
+</body>
+</text>
+</TEI>

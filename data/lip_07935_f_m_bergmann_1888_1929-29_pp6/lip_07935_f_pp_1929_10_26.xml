@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7935f01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7935 (K. 90)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Paul <surname>F.</surname></persName>
+<date type="sent">26.10.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Frau und Kinder: n.a. <surname>F.</surname></persName>
+<settlement type="sent">Eickelborn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip7935f">
+<persName>
+<forename>Paul</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888-02-06"/>
+<death cert="unknown"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">51.5110321 7.0960124</geo>Geburtsort: Essen; Wohnort: Gelsenkirchen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1929-03-08" to="1929-12-12">08.03.1929-12.12.1929</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Progr. Paralyse (1929); Verm. Ursache: Lues; 2tägigen Verwirrtheitszustand mit tobsuchtartiger Unruhe, Unfähig zu sprechen, Lähmung d. Beine; Schwatzhaftigkeit (18.07.1929)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er beschwert sich, dass seine Frau nicht geschrieben hat und sagt, dass nächste Woche der Sanitätsrat kommt, der ihn wohl entlassen wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7935f01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="lip7935f01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="lip7935f01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Eikelborn den 26.10.29.</hi></dateline>
+<salute><hi rendition="#c">Liebe Frau u. Kinder!</hi></salute>
+</opener>
+<p>Wie kommt es daß Du<lb break="yes"/>mir von Montag auf<lb break="yes"/>den Brief
+                keine Antwort<lb break="yes"/>gegeben hast. Ich Dich jetzt<lb break="yes"/>schon 2
+                mal geschrieben<lb break="yes"/>daß Du mir meinen<lb break="yes"/>Überzieher
+                schicken sollst<lb break="yes"/>Denkst Du schließlich ich<lb break="yes"/>brauche
+                keinen? Ich schreibe<lb break="yes"/>Dir heute warscheinlich<lb break="yes"/>das
+                letzte mal. Montag<lb break="yes"/>kommt unser Sanitätsrat<lb break="yes"/>wieder
+                der wird mir<lb break="yes"/>dann <w>ent lassen</w>. Ich<lb break="yes"/>fühle
+                mich sehr wohl<pb facs="#image_002"/>und bin gut inn Schuß.<lb break="yes"/>Hoffentlich sehen wir uns<lb break="yes"/>nächste Woche wieder.<lb break="yes"/><del>A</del> Liebe Frau! Gerhard hat<lb break="yes"/>mir heute geschrieben.<lb break="yes"/>Er entschuldigt sich das<lb break="yes"/>er mir so lange<lb break="yes"/>hat warten lassen<lb break="yes"/>Das Du mir diese<lb break="yes"/>Woche vergessen hast<lb break="yes"/>daß begreife ich nicht.<lb break="yes"/>Liebe Frau! Du warst<lb break="yes"/>doch mit nach <placeName>Gladbek</placeName><lb break="yes"/>Du hast mir noch<lb break="yes"/>nichts davon geschrieben<lb break="yes"/><seg ana="#salute">Also bis auf Wiedersehn<lb break="yes"/>nächste Woche. <pb facs="#image_003"/>Grüßt Dich</seg> dein Man<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Paul</seg></hi><lb break="yes"/><seg ana="#salute">Gruß an die Kinder<lb break="yes"/>und alle andern</seg> </p>
+</body>
+</text>
+</TEI>

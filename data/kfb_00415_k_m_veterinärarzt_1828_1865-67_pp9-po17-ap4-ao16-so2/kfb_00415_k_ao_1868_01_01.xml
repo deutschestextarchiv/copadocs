@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k47" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johannes <surname>R.</surname></persName>
+<date type="sent">01.01.1868</date>
+<date type="received">03.01.1868</date>
+<persName type="addressee">Verwaltung der Anstalt</persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1865" to="1867">1865-67</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="freund"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Es geht um den Verbleib einiger persönlicher Gegenstände des Patienten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k47a.jpg" xml:id="image_099"/>
+<graphic mimeType="image/jpg" url="kfb415k47b.jpg" xml:id="image_100"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_099"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg den 1 <hi rendition="#i">Januar</hi> 1868.<lb break="yes"/><add hand="arzt"><hi rendition="#i">pr.</hi> 3. Jan.
+                            68</add><lb break="yes"/><add hand="hand3"><hi rendition="#i">E N</hi>
+                    41</add></hi></dateline>
+<salute><hi rendition="#c">An die kg. Verwaltung der Anstalt in
+                    Jrsee.</hi></salute>
+</opener>
+<p><add hand="hand3" place="top"><hi rendition="#c"><hi rendition="#u">34</hi></hi></add><lb break="yes"/>Vor wenigen Tagen erhielt ich das von Ihrer Anstalt<lb break="yes"/>gesandte Ballot, welches die E<del>n</del>ffekten <surname>K.</surname>
+                    ent<lb break="no"/>hält, nebst Inhaltsverzeichniß. Beides habe ich<lb break="yes"/>dem Stadtgericht Augsburg übergeben, u. werden<lb break="yes"/>Sie
+                von dort die treffende Zahlung u. die Be<lb break="no"/>scheinigung über das
+                Empfange erhalten.</p>
+<p><space/> Von den Effekten <surname>K.</surname> mögen allerdings<lb break="yes"/>einige Stücke im Gebrauch, oder durch den Zustand<lb break="yes"/>des Verstorbenen zu Verlurst gegangen sein, so z. b.<lb break="yes"/>ein
+                Augenglas, 2 <hi rendition="#i">Cigarren</hi>-Spitzen 1 Tabaksbeutel, 1 Joppe
+                    <del><unclear/></del><lb break="yes"/>1 Hose, 1 Weste, 1 <hi rendition="#i">Cigarren-Etui</hi>,
+                    <del>u.</del> 1 Unterhose, 2 Paar Socken<lb break="yes"/>aber wegen zwei
+                Gegenständen bat mich <surname>K.</surname><lb break="yes"/>Mutter Nachfrage zu halten, ob sich dieselben<lb break="yes"/>nicht mehr vorfinden, u. diese sind eine<lb break="yes"/><hi rendition="#u">Reise-Geldtasche</hi> &amp; 1 beinahe neues <hi rendition="#u">wollenes
+                    Hemd.</hi><lb break="yes"/>Entschuldigen Sie meine Anfrage, aber ich wollte<lb break="yes"/>der alten Mutter diese Bitte nicht abschlagen.</p>
+<p><space/> Zum Neuen Jahre Gottes Segen!<lb break="yes"/><seg ana="#salute">Mit den
+                    höflichsten Begrüssungen</seg> der<lb break="yes"/><hi rendition="#r">ergebenste<lb break="yes"/><seg ana="#signed"><hi rendition="#i">J. <hi rendition="#u"><surname>R.</surname></hi></hi></seg></hi>
+</p>
+<p><add hand="hand3"><hi rendition="#i">EN 41</hi></add><lb break="yes"/><add hand="arzt"><unclear/> Am 22 Januar 1868<lb break="yes"/>Die
+                    lange Verzögerung der Beantwortung Ihrer Zuschrift<lb break="yes"/>vom 1/3 d.
+                    Mt. entschuldigt man damit, daß man vorerst die Empfangsbestätigung<lb break="yes"/>des kgl. Stadtger. Augsburg für die übermittelten Effekten
+                    abwarten wollte, da<lb break="yes"/>einige von den als fehlend bezeichneten
+                    Gegenständen mit den übrigen Effekten <pb facs="#image_100"/>abgesendet worden
+                    sind. So müßen sich bei diesen Gegenständen<lb break="yes"/>die vermißten 2
+                    Cigarrenspitzen u. 1 Tabaksbeutel, <add place="above">erstere in</add> letzterem<lb break="yes"/><del>in ersterem</del> u. 1 wollenes Hemd, zu den übrigen
+                    Hemden<lb break="yes"/>gezählt, vorfinden. Die <add place="above">Geld</add>
+                    Reisetasche ist hier als zurückgesendet<lb break="yes"/>im Effektenbogen
+                    vorgemerkt, weshalb solche bei der Controlle<lb break="yes"/>der Effekten vor
+                    der Versendung nicht vermißt wurde. Der Oberwärter<lb break="yes"/>u. der
+                    treffende Wärter, welcher die Effekten unter sich hatte, behaupten<lb break="yes"/><del>solche</del>
+<add place="above">die Zurücksendung als</add> bestim̄t <add place="above">geschehen</add>, dagegen findet man bei der Acten keine
+                    Vermerkung<lb break="yes"/>u. keine Empfangsbestätigung hierüber. Da sich aber
+                    auch die Geld-Reisetasche<lb break="yes"/>nicht mehr vorfindet, solche nicht
+                    verloren gegangen sein kann und auch<lb break="yes"/>kein Verdacht besteht, daß
+                    dieselbe veruntreut wurde, ist es im̄erhin möglich,<lb break="yes"/>daß
+                    die Tasche zurückgegeben worden ist u. nur hier übersehen wurde,<lb break="yes"/>sich den Empfang bestätigen zu lassen. Man ersucht daher deßhalb zu<lb break="yes"/>recherchiren u. ist man erböthig, falls sie jenseits nicht
+                    vorfindbar,<lb break="yes"/>dieselbe ersetzen zu lassen. Das fehlende
+                    Cigarrenetui hat <surname>K.</surname><lb break="yes"/>stets bei sich getragen u. entweder verloren oder verworfen,
+                    auch ist<lb break="yes"/>solches vorschriftsgemäß per Protokoll zur Anzeige
+                    gebracht u. abgeschrieben<lb break="yes"/>worden; auch für die fehlenden
+                    Kleider u. Waschstücke gilt dieses und<lb break="yes"/>hat außerdem Hr
+                        <surname>K.</surname> welche mit ins Grab erhalten. Gewünschten<lb break="yes"/>Falles kann hierüber genauer Aufschluß u. Ausweis gegeben
+                    werden.<lb break="yes"/><add hand="arzt"><hi rendition="#c"><hi rendition="#i">DK</hi></hi></add><lb break="yes"/><hi rendition="#r"><unclear/></hi></add></p>
+</body>
+</text>
+</TEI>

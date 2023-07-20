@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1887k04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1887</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Adelgunde <surname>K.</surname></persName>
+<date type="sent">ca. 1892-99</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: n.a. <surname>K.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1887k">
+<persName>
+<forename>Adelgunde</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1899"/>
+<occupation>Hausbesitzerstochter</occupation>
+<residence><geo decls="#WGS">48.7371951 11.1795268</geo>Neuburg a. d. Donau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Hausbesitzer</p>
+<p>Anstalt: <date from="1892" to="1899">1892-99</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Verfolgungsideen, Halluzinationen, Apathie (1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie bittet ihren Vater, sie abzuholen. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1887k04a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1887k04b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber Vater!</hi></salute>
+</opener>
+<p>Kom̄ und hole mich. Morgen gewiß selber denn<lb break="yes"/>sonst könnte
+                wieder der Dieb uns ereilen. Bestim̄t<lb break="yes"/>sonst wendet sich
+                wieder die Wuthkrankheit derer<lb break="yes"/>die in nennen. Wirst schon wissen
+                höchstes<lb break="yes"/>Zeichen daß du kom̄st. Denn es ist schrecklich<lb break="yes"/>in diesen Hause. Also bestim̄t. Was macht man<lb break="yes"/>da, sie nur wieder diese Menschen. Grauenhaft<lb break="yes"/>und
+                fürchterlich. In der Mischung. In der That<lb break="yes"/>aus und Amen. Da meint
+                man es ist in der<lb break="yes"/>Hölle, Rettung der Polizeisoldat sagte Hinterhaus<lb break="yes"/>gehört so schon aus. Ich sags in Herre Direckteur<lb break="yes"/>daß er zum Prinzeregenten geht und Bitte<lb break="yes"/>erlaßt.
+                Schau nur diese Thema an.<lb break="yes"/>Wie man mir daß th<unclear>ilen</unclear>
+                kenne warum<lb break="yes"/>wie wozu dann haben sie Alles. da ist man<lb break="yes"/>ganz ruhig. und backt sie. Wie ist denn das<lb break="yes"/>so da
+                gibts G<unclear>reom</unclear>dober Dollar ann der<lb break="yes"/>Mischung. Alles
+                verstanden gewessen das<lb break="yes"/>gibt was. Herr <del>d</del>Oberarzt lest
+                den Brief.<lb break="yes"/>das macht der Herr <surname>S.</surname> in der Hölle
+                und<lb break="yes"/>der Schwarz <surname>M.</surname> wirts in d<del>ie</del>
+                Hölle fertig Amen.</p>
+<pb facs="#image_006"/>
+<p>Schnell kom̄en und mich holen prasant wirs<del>d</del>t sehen<lb break="yes"/>wissen. Wie die Glocke am Kirchthurm passirt.<lb break="yes"/>Hui schnell
+                gramatisch und süß nim̄er zum<lb break="yes"/>machen und hören. Kriegen und
+                bekom̄en<lb break="yes"/>Austria und Terzia. Sanft und lieb; treuleidend<lb break="yes"/>lieb</p>
+</body>
+</text>
+</TEI>

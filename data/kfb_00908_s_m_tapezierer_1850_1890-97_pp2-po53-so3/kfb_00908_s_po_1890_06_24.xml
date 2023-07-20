@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s24" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">24.06.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister von Augsburg: von Fischer</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1890" to="1897">1890-1897</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink_red" scope="minor" scribe="arzt1"/>
+<handNote medium="ink_black" scope="minor" scribe="arzt2"/>
+<handNote medium="pencil" scope="minor" scribe="arzt3"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt4"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt5"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet darum, nach Augsburg geholt zu werden, damit er wieder arbeiten kann.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s24a.jpg" xml:id="image_059"/>
+<graphic mimeType="image/jpg" url="kfb908s24b.jpg" xml:id="image_060"/>
+<graphic mimeType="image/jpg" url="kfb908s24c1.jpg" xml:id="image_061"/>
+<graphic mimeType="image/jpg" url="kfb908s24c2.jpg" xml:id="image_062"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_059"/>
+<opener>
+<dateline><add hand="arzt1">0884 <hi rendition="#i">J. S.</hi>
+<hi rendition="#r"><hi rendition="#i">pr.</hi> 24.6.90.</hi></add></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Löblicher Herr Bürgermeister<lb break="yes"/>v. Fischer.</hi></hi></salute>
+</opener>
+<p><add hand="arzt3" place="top"><hi rendition="#c">Postst<add>9/</add>empel:<lb break="yes"/><hi rendition="#i">Augsburg II</hi></hi></add><lb break="yes"/><hi rendition="#i">Sie</hi> werden mir unterzeichneten, <hi rendition="#i">Jakob</hi>
+<add hand="arzt4" place="above">90;</add><lb break="yes"/><hi rendition="#i"><surname>S.</surname></hi> von Augsburg. u.
+                daselbst <hi rendition="#i">Heimath</hi><lb break="yes"/>berechtigt ist, <hi rendition="#i">Verzeihen</hi>, daß ich <hi rendition="#i">Ihnen</hi><lb break="yes"/>mit ein baar Zeilen beläßtigen muß.<lb break="yes"/><space/>
+<hi rendition="#i"><seg ana="#salute">Löblicher Herr Bürgermeister.</seg></hi><lb break="yes"/><hi rendition="#i">Da</hi> ich mich wegen <hi rendition="#i">Krankheit</hi> in der<lb break="yes"/><hi rendition="#i">Heil</hi> u. <hi rendition="#i">Pflege Anstalt Kaufbeuren</hi><lb break="yes"/>befinde, jetzt aber meine <hi rendition="#i">Gesundheit</hi><lb break="yes"/>wieder erlangt habe so bitte ich freundlichst<lb break="yes"/><add hand="arzt2" place="bottom"><hi rendition="#c"><unclear/> 24/6/90
+                    II-I</hi></add>
+<add hand="arzt4"><unclear/></add><lb break="yes"/><add hand="arzt3" place="bottom"><unclear><hi rendition="#u">am</hi> 89 ging <hi rendition="#u">be ni</hi> fort</unclear></add>
+<pb facs="#image_060"/>mich nach <hi rendition="#i">Augsburg</hi> zu laßen, indem<lb break="yes"/>ich jetzt mir etwas verdienen könnte,<lb break="yes"/>hier aber
+                nicht in dießer Anstalt u. <hi rendition="#i">Sie</hi><lb break="yes"/>kön̄ten mich ja ebenfalls in Augs<hi rendition="#i">burg</hi><lb break="yes"/>in eine Anstalt, thun z. b. in daß<lb break="yes"/><hi rendition="#i">Gut Leute Haus</hi>. hier in <hi rendition="#i">Kaufbeuren</hi><lb break="yes"/>werd ich auch nicht ganz gesund, wie ich<lb break="yes"/>auch nie
+                    <hi rendition="#i">Gesund</hi> war seid vielen <hi rendition="#i">Jahren</hi>.<lb break="yes"/>Ich bitte daß <hi rendition="#i">Sie</hi> mir sobald als<lb break="yes"/>möglich helfen möchten.<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Ihr</hi> ergebener</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Jakob <surname>S.</surname></hi></hi></p>
+<pb facs="#image_061 image_062"/>
+<p><seg ana="#salute"><hi rendition="#i">Löblicher Herr Bürgermeister</hi></seg>, sie
+                werden es<lb break="yes"/>mir nicht in <hi rendition="#i">Übel</hi> nehmen,
+                wen̄ ich frage<lb break="yes"/><hi rendition="#i">Wozu die Kösten</hi>,
+                wen̄ der Mensch die ganze<lb break="yes"/>Zeit keine freie bewegung hat wo
+                sie am<lb break="yes"/>allernöthigsten ist,?.−. hier in dießer Anstalt<lb break="yes"/>muß ich auch Arbeiten, u darf nicht einmal<lb break="yes"/>mit den
+                stinkenden staubigen <hi rendition="#i">Rohshaar</hi> im<lb break="yes"/>freien
+                verarbeiten, soll ich von Staub u Stank<lb break="yes"/>gesund werden, ich für
+                meinen <hi rendition="#i">Verstand</hi><lb break="yes"/>ist daß ungesundeste, u. dafür muß u. soll<lb break="yes"/><hi rendition="#i">Augsburg</hi> bezahlen, wo ich mehr hier ver<lb break="no"/>diene?
+                u. nicht einmal verkön̄t man frische<lb break="yes"/><hi rendition="#i">Luft</hi>.? wo naß verunreigte Matratzen<lb break="yes"/>aufgepolstert werden
+                soll. <hi rendition="#i">Ih Bitte</hi><lb break="yes"/>noch einmal sind <hi rendition="#i">Sie </hi>so gut u. laßen's mich<lb break="yes"/>hinaus <hi rendition="#u" style="arzt5">sonst muß letzt davon
+                    laufen.</hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Ihr</hi> ergebener</hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Jakob</hi>
+<surname>S.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

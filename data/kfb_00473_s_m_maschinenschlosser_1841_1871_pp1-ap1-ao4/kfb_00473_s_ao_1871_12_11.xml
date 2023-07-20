@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb473s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>473</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sophia <surname>S.</surname></persName>
+<date type="sent">29.11.1871</date>
+<date type="received">30.11.1871</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb473s">
+<persName>
+<forename>Josef</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1841"/>
+<death when="1871"/>
+<occupation>Maschinenschlosser</occupation>
+<residence><geo decls="#WGS">47.5352544 10.3050352</geo>Stein, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: "gänzlich vermögenslos"</p>
+<p>Anstalt: <date from="1871" to="1871">1871</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Melancholie, Angst (1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink_thick" scope="minor" scribe="arzt"/>
+<handNote medium="ink_thin" scope="minor" scribe="arzt2"/>
+<handNote medium="pencil" scope="minor" scribe="arzt3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Anfrage: Beleg, dass Gemeinde Kosten übernommen hat
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb473s04a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb473s04b.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg d. 11<hi rendition="#sup"><hi rendition="#u">ten</hi></hi></hi> Dzbr.<lb break="yes"/><add hand="arzt" place="top"><hi rendition="#i">pr</hi>. 12.
+                            <unclear>ter</unclear> 71</add><lb break="yes"/><add hand="arzt2"><hi rendition="#i">EN </hi>3258.<lb break="yes"/>Wiedervorlage wen̄<lb break="yes"/>v. d. Gde bezahlt ist<lb break="yes"/><unclear>Woz</unclear></add></dateline>
+<salute>Werthester Herr Direktor!</salute>
+</opener>
+<p><add hand="arzt3" place="top">DispositionsGeld<lb break="yes"/>Kleider <hi rendition="#i">B</hi>.</add><lb break="yes"/>Noch mal habe ich eine Bitte an<lb break="yes"/>Sie, u. zwar würde
+                ich Sie<lb break="yes"/>freunndlichst ersuchen, mir die<lb break="yes"/>Quitung zu
+                übersenden, daß die<lb break="yes"/>Kosten von meinem Man̄ von<lb break="yes"/>der Gemeinde bezahlt worden<lb break="yes"/>sind, den ich solle
+                Diese auf der<lb break="yes"/>Eisenbahn vorlegen; weil ich sodan<lb break="yes"/>ein KrankenGeld beziehe. <seg ana="#salute">Mitt<lb break="yes"/>vollster
+                    Hochachtung <w>verblei be</w><lb break="yes"/>ich</seg>
+<seg ana="#signed">Ihre Dankschuldige<lb break="yes"/><hi rendition="#r">Sophie
+                            <surname>S.</surname> Witwe</hi></seg><lb break="yes"/><add hand="arzt" place="bottom"><hi rendition="#i">Vert</hi></add></p>
+<pb facs="#image_009"/><p><add hand="arzt2"><hi rendition="#c"><hi rendition="#i">Certificat</hi></hi><lb break="yes"/>Auf Ansuchen wird hiemit bestätigt<lb break="yes"/>daß für den
+                    <add place="above">geisteskranken</add> Maschinenschlosser Josef
+                    <surname>S.</surname><lb break="yes"/>aus Stein säm̄tliche Unterhalts- u.<lb break="yes"/>Leichenkosten <add place="above">in S<hi rendition="#sup">a</hi> 64 fl</add> von
+                der <del>Gemeinde</del>
+<add place="above">Armenpflege</add> Stein<lb break="yes"/>bezahlt worden sind.<lb break="yes"/><hi rendition="#r">Irsee den 22 <hi rendition="#i">Decbr</hi> 1871<lb break="yes"/>N. <unclear>Wz</unclear></hi></add></p><p><add hand="arzt3">1. 19. 2 <hi rendition="#i">DG</hi>.</add></p><p><add hand="arzt2">An Sophie <surname>S.</surname><lb break="yes"/><hi rendition="#i">EN </hi>3401 <space/> <hi rendition="#i">eodem</hi><lb break="yes"/>Anliegend erhalten Sie das verlangte Zeugniß.-<lb break="yes"/>Ihr Mann hat bei seinem Eintritt <add hand="arzt2" place="margin">2 fl 2 X 2 hl<lb break="yes"/>1. 10. --.<lb break="yes"/><hi rendition="#i">Sa</hi>. 3 fl 12 X 2 hl </add><lb break="yes"/>bei
+                    sich geführt u.<lb break="yes"/>hat seine Schwester ihm behändigt.<lb break="yes"/>Diesen Betrag hat man besonders<lb break="yes"/>verbucht u.
+                    hievon Auslagen zu seinem<lb break="yes"/>Vergnügen bestritten, welche man<lb break="yes"/>der Armenpflege nicht verrechnen<lb break="yes"/>konte ad <add hand="arzt2" place="margin">1 fl 53 X. -- </add><lb break="yes"/>so daß noch
+                        <add hand="arzt2" place="margin">1 fl 19 Xr. 2 hl </add><lb break="yes"/>übrig blieben, welche Sie hiemit<lb break="yes"/>erhalten, wogegen Sie aber
+                    die beif. Quittg. unter<lb break="no"/>schreiben u. portofrei hiehersenden
+                    müßen.<lb break="yes"/><space/> Ebenso erhalten Sie den Rücklaß des Verlebten,<lb break="yes"/>da die Armenpflege keine Ansprüche erhoben hat,<lb break="yes"/>wofür Sie die weiters beil. Empfangsbestätigung<lb break="yes"/>unterschreiben u. hiehersenden müßen<lb break="yes"/><hi rendition="#r"><unclear>Wz</unclear></hi></add></p><p><add hand="arzt" place="bottom">8 Tage Termin. <space/> <unclear/></add>
+</p>
+</body>
+</text>
+</TEI>

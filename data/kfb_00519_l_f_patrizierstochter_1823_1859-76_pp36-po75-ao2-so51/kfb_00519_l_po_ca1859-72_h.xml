@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Doktor<surname>L.</surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Patrizier</p>
+<p>Anstalt: <date from="1859" to="1872">1859-72</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Bitte um Erwähnung bei D.M. durch Dr. Leigh
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l18a.jpg" xml:id="image_048"/>
+<graphic mimeType="image/jpg" url="kfb519l18b.jpg" xml:id="image_049"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_048"/>
+<opener>
+<dateline/>
+<salute>Verehrtester Herr <hi rendition="#i">Doctor</hi>!</salute>
+</opener>
+<p>Nicht ohne bes. Nothwendigkeit u. nicht so gerne, wie -<lb break="yes"/>ehemals,
+                wende ich mich gegenwärtig <w>an<del>s</del></w><w>das</w> Krankenhaus<lb break="yes"/>Allein ich baue auf einen guten Rath von Ihnen;<lb break="yes"/>u.
+                habe keine solchen Grobheiten u Kränkungen zu<lb break="yes"/>erwarten, wie von H.
+                    <hi rendition="#i">DM</hi>. − den ich seit 2 Jahren<lb break="yes"/>eimal
+                in Anspruch zu nehmen gesucht. − </p>
+<p>Wer Jemanden Gesundheit u Leben so zu Grunde<lb break="yes"/>gerichtet durch
+                Kränkungen pp. ist ein <seg ana="#curse">Mörder</seg> <hi rendition="#u">so</hi><lb break="no"/>wie
+                andernfalls. Und ein wiederholtes wird<lb break="yes"/><hi rendition="#u">mich
+                    auch zu </hi><hi rendition="#i"><hi rendition="#u">energischen</hi></hi><hi rendition="#u"> Schritten veranlassen.</hi><lb break="yes"/>Ich habe zufolge 4 Jahre lange unberücksichtigte Kränk<lb break="no"/>lichkeit ein anhaltend u entschiedens Brust u. Halsleiden.<lb break="yes"/>Bitte verschreiben Sie mir: <hi rendition="#i">Olium gumi
+                    arabicum</hi><lb break="yes"/>od etwas dgl. gegen ein unerträgliches bren̄en kratzen<lb break="yes"/>u. reitzen im Halse mit <w>Blut Auswurf</w> pp. −<lb break="yes"/>den̄ Behandlung nebst <add place="above">so</add>
+                    oftma<del>h</del>liger Anfrage fallen<lb break="yes"/>mir zu schwer. −
+                − Ungeachtet aller<lb break="yes"/>Kränkungen kan̄ ich Hr <hi rendition="#i">DM</hi>. selbst doch <hi rendition="#u">nie</hi><lb break="yes"/>ein Leid thun. - <seg ana="#salute">Empfehlend bittet um
+                    Erwähnung</seg><lb break="yes"/><seg ana="#signed">ergebenste W. La</seg></p>
+<pb facs="#image_049"/>
+<p><hi rendition="#c">Herrn <hi rendition="#i">Doctor Leigh</hi><lb break="yes"/>Wohlgeboren<lb break="yes"/>Dahier</hi>
+</p>
+</body>
+</text>
+</TEI>

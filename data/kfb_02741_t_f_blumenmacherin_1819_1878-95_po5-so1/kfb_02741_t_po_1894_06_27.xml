@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2741t05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2741</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Corona <surname>T.</surname></persName>
+<date type="sent">27.06.1894</date>
+<date type="received">n.a.</date>
+<persName type="addressee">König</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2741t">
+<persName>
+<forename>Corona</forename>
+<surname>T.</surname>
+</persName>
+<birth when="1819"/>
+<death when="1895"/>
+<occupation>Blumenmacherin, Näherin</occupation>
+<residence><geo decls="#WGS">48.7678768 10.7981234</geo>Kaisheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1878" to="1895">1878-95</date></p>
+<p>Brieftypen: po, so</p>
+</state>
+<trait><p>Halluzinatorische Verrücktheit, Wahnvorstellungen (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um ihren Reisepass
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2741t05a.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#r">27! Ioni 1894</hi></dateline>
+<salute><hi rendition="#c">Meuest Konig <hi rendition="#i">V</hi>on Beuern!</hi></salute>
+</opener>
+<p>
+Auf Anspruch des Geedigen Herrn<lb break="yes"/>Dokthorr Erlaube ich mir dü Heumath<lb break="yes"/>Vorzuschreubm jezt bütte bald um<lb break="yes"/>Meine <w>Reuß Paß</w> sannst mist üch noch<lb break="yes"/>Alles Geheusen wertten Allerheulichster<lb break="yes"/>Hmlescher Vatter Ich bütte Gedicher Herr<lb break="yes"/>Tokthor Soll dü Reuß bozalltt.</p>
+<p><hi rendition="#r">Ana Korona Tekla Sübülla<lb break="yes"/>Sewalla<lb break="yes"/>Tochter Seuner Allerheulichsten<lb break="yes"/>Pabst Rüchtter Im Hünnell</hi>
+</p>
+</body>
+</text>
+</TEI>

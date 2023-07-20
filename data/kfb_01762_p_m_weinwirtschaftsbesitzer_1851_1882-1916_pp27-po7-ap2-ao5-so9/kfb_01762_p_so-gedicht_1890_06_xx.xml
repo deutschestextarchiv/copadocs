@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1762p50" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1762</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Philipp <surname>P.</surname></persName>
+<date type="sent">xx.06.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1762p">
+<persName>
+<forename>Philipp</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1916"/>
+<occupation>Weinwirtschaftsbesitzer</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Kitzingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n. a. </p>
+<p>Anstalt: <date from="1882" to="1916">1882-1916</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Tobsucht (1874, 1881), Depression (1881, 1882-1895), Manie (1882), circulärer Irrsinn (1882-1895)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Lied</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+    Gedicht
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1762p50a.jpg" xml:id="image_159"/>
+<graphic mimeType="image/jpg" url="kfb1762p50b.jpg" xml:id="image_160"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_159"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Wo die Madchen fröhlich singen<lb break="yes"/>Die <hi rendition="#i">Frauen</hi>
+                freundlich grüßen<lb break="yes"/>Ziehen mich an Ihre Brust<lb break="yes"/>Kosen,
+                drücken eim die Hände<lb break="yes"/>Thranen <hi rendition="#i">Perlen</hi> in den
+                    <hi rendition="#i">Augen</hi> stehn<lb break="yes"/>Diese Thran̄en heißen
+                in der <hi rendition="#i">Perlenschrift </hi><lb break="yes"/>Boser Man̄
+                liebst Du mich nicht<lb break="yes"/>Ich kan̄ nicht scheiden kans nicht
+                meiden<lb break="yes"/>Was so lieblich var so schon sollt ich gehn<lb break="yes"/>Wen̄ brauch ich den̄ dahier zu furchten<lb break="yes"/>Hunde etva
+                Hundeseele<lb break="yes"/>Die die Unschuld nur mit Füßen treten<lb break="yes"/>Nur mit Gevalt unterdrücken<lb break="yes"/>Edle <hi rendition="#i">Herzen</hi>
+                schmachten müssen<lb break="yes"/>Seht doch nicht mit Gold &amp; <hi rendition="#i">Steine</hi><lb break="yes"/>Kauft nicht <hi rendition="#i">Liebe </hi>nur<lb break="yes"/><hi rendition="#r">mit <hi rendition="#i">Liebe</hi>
+</hi><lb break="yes"/><hi rendition="#i">Hundeseel</hi><hi rendition="#i">n</hi>
+                verfluchte<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Hund</hi></hi><lb break="yes"/><hi rendition="#i">Und geht der Tag zur Ruhe<lb break="yes"/></hi>So traum ich von der<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Kuste</hi></hi><lb break="yes"/>der Erde mich <w>em<lb break="no"/><hi rendition="#r">por</hi></w><lb break="yes"/>Oft schlingt sich mein<lb break="yes"/><hi rendition="#r">Gedanke</hi><lb break="yes"/>hinauf<lb break="yes"/>Wie eine <del><unclear/></del> Ranke<lb break="yes"/>zu einem <hi rendition="#i">Meteor </hi><lb break="yes"/>Er fährt
+                gleich einem<lb break="yes"/>Kahne, Im Welt<lb break="yes"/><hi rendition="#i">Oceane</hi> zwar<lb break="yes"/>steuerloos doch<lb break="yes"/>schnell Wer
+                weis es wo ich<lb break="yes"/>lande 〃 〃 〃 〃<lb break="yes"/>strande Im <hi rendition="#i">Sternen<lb break="no"/>Archipel</hi>
+<hi rendition="#i">Amen</hi>
+<add place="bottom"><lb break="yes"/>d. <hi rendition="#i">Juni</hi> 90 <hi rendition="#i">Ph </hi><surname><hi rendition="#i">P.</hi></surname></add></p>
+<pb facs="#image_160"/><p><seg ana="#pic">[Notenzeilen ohne Noten]</seg><lb break="yes"/>verlassen sehn. <hi rendition="#i">Ach </hi>nein das kan̄ nicht sein Gott
+                mein Vater spricht<lb break="yes"/>furcht Dich nicht. Sie sind nur <hi rendition="#i">Staub </hi>&amp; <hi rendition="#i">Asch</hi> vor Dir Der <hi rendition="#i">Fluch </hi><w>ver<lb break="no"/>folgts</w> von Mir O besser wärs Sie wären nie geborn hatten<lb break="yes"/>nie gesehn das <hi rendition="#i">Licht</hi> der Son̄e. Diese unfehlbaren
+                Großen<lb break="yes"/><hi rendition="#i">Gewaltigen </hi>dieser Erden <hi rendition="#i">Halzstarrige</hi> die gegen Ihren Gott &amp; Meister<lb break="yes"/><hi rendition="#i">Geilheit</hi>
+<unclear/><lb break="yes"/>stritten schon vor <hi rendition="#i">Millionen</hi> Jahren Verlucht
+                warn sie schon<unclear/><lb break="yes"/>wahlen <unclear/></p>
+</body>
+</text>
+</TEI>

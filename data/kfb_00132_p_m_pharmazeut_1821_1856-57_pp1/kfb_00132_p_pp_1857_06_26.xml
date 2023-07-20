@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb132p01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>132</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ferdinand <surname>P.</surname></persName>
+<date type="sent">26.06.1857</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Onkel: J. <surname>K.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb132p">
+<persName>
+<forename>Ferdinand</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1821"/>
+<death cert="unknown"/>
+<occupation>Pharmazeut</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Kaufmann</p>
+<p>Anstalt: <date from="1856" to="1857">1856-1857</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>"Störung des Seelenlebens" (Dr. Horner, München, 1856)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient bittet seinen Onkel um Geld und darum, über dessen Adresse die Antwort auf eine Bewerbung bei einer Apotheke zu erhalten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb132p01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb132p01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> d. 26<hi rendition="#sup">te</hi> <hi rendition="#i">Juny</hi> 1857.</hi></dateline>
+<salute><hi rendition="#c">Mein lieber guter Onkel!</hi></salute>
+</opener>
+<p>Ich bin nun im Stande Ihnen eine recht erfreuliche Nachricht<lb break="yes"/>mitzutheilen, nemlich daß herr <hi rendition="#i">Director</hi> D<hi rendition="#sup">r</hi> Hagen mir die Er<lb break="no"/>laubniß gegeben hat,
+                mich im Monate Juli um eine Stelle in<lb break="yes"/>einer Apotheke umzusehen, da
+                gewöhnlich am 1<hi rendition="#sup">t</hi> April und 1<hi rendition="#sup">t</hi> Oktober<lb break="yes"/>gewechselt wird, und vierteljährige Kündigung
+                ist.</p>
+<p>In der ersten Hälfte des nächstens Monats will ich nun an herrn<lb break="yes"/><hi rendition="#i">Joh</hi>. <surname><hi rendition="#i">L.</hi></surname>,
+                Apotheker in <hi rendition="#i">Zürich</hi> schreiben, bei dem ich vom Jahre<lb break="yes"/>1845-49 war, ob ich, nicht vielleicht in seinem eigenen Geschäfte
+                bis<lb break="yes"/>1<hi rendition="#sup">te</hi> Oktober eine Stelle erhalten
+                könnte, oder ob er mir nicht behülflich<lb break="yes"/>seyn möchte, in einer
+                andere der größern Städte der teutschen oder der<lb break="yes"/>französischen
+                Schweitz, eine Stelle zu bekom̄en. Ich werde ihm schreiben<lb break="yes"/>daß ich 3 Jahre in <hi rendition="#i">New York</hi> war, und somit die Bereitung
+                der englischen<lb break="yes"/>Rezepte gründlich erlernt habe, da ja doch
+                im̄er viele Engländer und<lb break="yes"/>Amerikaner in der Schweiz sich
+                aufhalten, und diese Leute in der Regel<lb break="yes"/>gerne mediziniren. </p>
+<p>Nun köm̄t die Bitte mein lieber Onkel, daß Sie mir erlauben möchten<lb break="yes"/>die Antwort von Herrn <surname><hi rendition="#i">L.</hi></surname> durch Ihre Adreße an mich gelangen<lb break="yes"/>zu
+                laßen, da auch ich meinen Brief mit <hi rendition="#i">München</hi> überschreiben
+                muß.<lb break="yes"/>Ich erfreue mich Gott sey Dank der beßten Gesundheit, und freue<lb break="yes"/>mich auch nicht weniger nun bald wieder
+                in einer Apotheke arbeiten zu<lb break="yes"/>können, was von jeher meine
+                Lieblingsbeschäftigung war. </p>
+<p>Dürfte ich Sie mein lieber Onkel auch bitten mir noch ein kleines
+                    <unclear>Rekreatios</unclear><lb break="no"/>Geld für das letzte Monat senden,
+                da dieß, was Sie durch die Frau Gemahlin<lb break="yes"/>des Herrn Verwalter <hi rendition="#i"><surname>M.</surname></hi>
+                sandten, zu Ende ist, damit ich auch das letzte<lb break="yes"/>Monat nicht
+                zurückstehen darf, bei den Ausflügen, die gemacht werden.</p>
+<p><space/>
+<seg ana="#salute">Seyen Sie herzlich gegrüßt mein lieber Onkel und genehmigen Sie<lb break="yes"/>die Versicherung der Liebe und dankbarkeit<lb break="yes"/><hi rendition="#c">Ihres </hi><lb break="yes"/><hi rendition="#r">Neffe</hi></seg>
+<hi rendition="#r"><hi rendition="#i"><seg ana="#signed">Ferdinand
+                                <surname>P.</surname></seg></hi></hi>
+</p>
+<pb facs="#image_002"/><p><hi rendition="#c">S<hi rendition="#sup">r</hi> Wohlgeborn</hi><lb break="yes"/>Herr <hi rendition="#i">J. <surname>K.</surname></hi><lb break="yes"/><hi rendition="#i">Caßier</hi>
+<hi rendition="#i">der bayerschen Hypothek &amp; <w>Wechsel<lb break="no"/><hi rendition="#r">Bank</hi></w><lb break="yes"/><hi rendition="#r">München</hi></hi></p>
+</body>
+</text>
+</TEI>

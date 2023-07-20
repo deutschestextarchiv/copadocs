@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip2509n06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>2509 (K. 170)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Erna <surname>N.</surname></persName>
+<date type="sent">ca. 1913-20</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip2509n">
+<persName>
+<forename>Erna</forename>
+<surname>N.</surname>
+</persName>
+<birth when="1899-07-10"/>
+<death cert="unknown"/>
+<occupation>Fürsorgezögling</occupation>
+<residence><geo decls="#WGS">51.347413849999995 7.569084715363729</geo>Geburtsort: Hohenlimburg; Wohnort: Hohenlimburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater Buchbinder</p>
+<p>Anstalt: <date from="1913-08-19" to="1933-12-01">19.08.1913-24.11.1920; 17.02.1926-01.12.1933</date></p>
+<p>Brieftypen: pp, po, ap, so</p>
+</state>
+<trait><p>Psychopathie, Imbecillität</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Sie möchte, dass sie es schaffen, sie zu besuchen, ohne dass es Probleme mit der Arbeit gibt. Sie möchte wissen, wie es in der neuen Wohnung vorangeht. Sie bittet um Briefmarken, Schreibpapier, Stoff und Garn.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip2509n06a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="lip2509n06b.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Meine lieben, hoffentlich seid Ihr seiweit noch gesund<lb break="yes"/>und ich
+                wünsche daß Toni seine Arbeit behält<lb break="yes"/>und meinen Wunsch be<hi rendition="#i">treffs</hi> der Autofahrt nach<lb break="no"/>kommt. Solltes es
+                Herrn <surname>B.</surname> unmöglich sein<lb break="yes"/><w>zu</w><w>fahren</w> dann bitte <add place="above">Toni</add> lieber <add place="above">Toni</add>, sieh mal zu ob die<lb break="yes"/>keinen Anderen
+                Freund Freund dazu bewegen<lb break="yes"/>kannst wenigstens mit einen Montorrad zu<lb break="yes"/>kommen Aber nicht auf deinen Rad. Hoffentlich<lb break="yes"/>schreibt Ihr mir einen langen Brief wie Ihr mit Eurer<lb break="yes"/>Wohnung
+                fertig seid und was Hanny macht. Grüßt<lb break="yes"/>besonders Lisa und Herrn
+                Klaus <surname><hi rendition="#i">T.</hi></surname> vergesst<lb break="yes"/>das
+                Paket an Kaj nicht <seg ana="#salute">seid herzlich gegrüßt</seg>
+<hi rendition="#c"><lb break="yes"/>Eure <seg ana="#signed">Erna</seg></hi>
+<pb facs="#image_018"/>Nebenbei liebe Lissy, lieber Toni legt mir im nächsten<lb break="yes"/><hi rendition="#i">Brief </hi>einige 6-12 Pf Freimarken mit bei oder<lb break="yes"/>in einen starken Umschlag eine Mappe mit starke<hi rendition="#i">s</hi><lb break="yes"/>Leinenschreibpapier. Das meine ich alle und vor<lb break="no"/>läufig habe ich auch nichts <w>zu</w><w>erwarten</w>. Ist Lisa erst<lb break="yes"/>gewillt mir 2 Meter Gutes Hemdentuch für 2<lb break="yes"/>schöne
+                    Tisch<hi rendition="#i">servietten</hi>
+<w><add place="above">mit</add> zuschicken</w> und 12 Päckchen<lb break="yes"/>weißes d. <del>b</del> M b Garn? Ich habe Euch untwegs ja<lb break="yes"/>geschrieben das ich für Lisa etwas schönes arbeiten<lb break="yes"/>will auch für
+                den langen Küchenschrank wirkt<lb break="yes"/>in Lisas Küche ein schöne
+                Handarbeitsdecke<lb break="yes"/><hi rendition="#i">S</hi>ie muß es mir
+                erlauben.</p>
+</body>
+</text>
+</TEI>

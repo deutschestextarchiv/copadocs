@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1901p05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1901</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>P.</surname></persName>
+<date type="sent">12.08.1894</date>
+<date type="received">14.08.1894</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">Weichering</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1901p">
+<persName>
+<forename>Vitus</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1860"/>
+<death when="1899"/>
+<occupation>Kutscher</occupation>
+<residence><geo decls="#WGS">48.7175882 11.3200748</geo>Weichering, Neuburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1887" to="1899">1887-1899</date></p>
+<p>Brieftypen: po, pp </p>
+</state>
+<trait><p>Halluzinatorische Verrücktheit (1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="arzt1"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt2"/>
+<handNote medium="ink" scope="minor" scribe="arzt3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er erkundigt sich nach seinen Söhnen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1901p05a.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb1901p05b.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline><hi rendition="#c">Weichering den 12 <hi rendition="#u">t</hi>
+                        August 1894</hi></dateline>
+<salute>Geehrtesder Dieregter, </salute>
+</opener>
+<p>indem wohl mein<lb break="yes"/>Lieber Sohn <hi rendition="#u" style="arzt2">Vitus</hi> schon übers Jahr nichtmer<lb break="yes"/>beu Jhn̄er ist, so
+                Bitte vihr Jhnner Sihe<lb break="yes"/>möchten mich ihn
+                    <w>Ehrköntnis</w><w>sezen</w> wie es<lb break="yes"/>ihm gehe, aber noch eines
+                Bitte ich Jhnen<lb break="yes"/>wie es mit meinen Lieben Sohn Andereas<lb break="yes"/>geht, ob den <w>garr</w><w>keine</w> Beßerrung verhanden<lb break="yes"/>ist. Geehrtesder Dieregter ich häte noch eine Bitt<lb break="yes"/>an Jhnner, indem vier meinen Lieben Sohnn<lb break="yes"/>Vitus von Kgl: Hochheid
+                Prinzregend<lb break="yes"/><add hand="arzt2" place="margin">?</add> Bezahlt wird.
+                und ich ihm seine Kleidungs<lb break="no"/>stüge geschikt habe habe, und ehr Sihe
+                nichtmer Brauche<lb break="yes"/>so Bitte ich Jhnner Sihe möchtens mir schiken, den
+                ich<lb break="yes"/>hatte wenigstens fügenhunder M verlust mit meimn<lb break="yes"/>Sohn Vitus, ich hofe Baltige Antwort.<lb break="yes"/><space/>
+                Achtungsvohl <surname>P.</surname> Joseph<lb break="yes"/><space/>
+                Strassenwärter</p>
+<pb facs="#image_017"/>
+<p><add hand="arzt1"><hi rendition="#r">Am 14 August 94.</hi><lb break="yes"/>Jeder Kranker, der Kleiderversum bezahlt, muß<lb break="yes"/>ein bestim̄tes Quantum Kleider u. Wäsche in<lb break="yes"/>die
+                    Anstalt mitbringen, weshalb wir solche in<lb break="yes"/>die Anstalt gebrachte
+                    Kleider Jhres Sohnes nicht<lb break="yes"/>zurückgeben können.</add><lb break="yes"/><add hand="arzt3">Keine Veränderung. <unclear>immer</unclear>
+                        theil<lb break="no"/>nahmslos, liegt immer auf Stühlen<lb break="yes"/>oder
+                    auf dem Boden, spricht nichts −<lb break="yes"/>19/8. 94. <space/><seg ana="#signed"> Ass. Arzt <unclear/></seg></add></p>
+</body>
+</text>
+</TEI>

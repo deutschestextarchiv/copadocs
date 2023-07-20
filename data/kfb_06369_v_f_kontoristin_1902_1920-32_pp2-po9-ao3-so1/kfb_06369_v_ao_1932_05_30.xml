@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb6369v15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>6369</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sophie <surname>V.</surname></persName>
+<date type="sent">30.05.1932</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor</persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb6369v">
+<persName>
+<forename>Katharina</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1902"/>
+<death cert="unknown"/>
+<occupation>Kontoristin</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Straßenbahnwagenführer</p>
+<p>Anstalt: <date from="1920" to="1932">1920-32</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Schizophrenie (1921), Dementia simplex resp. praecox (1920)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwester"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie kündigt an, einen Lebenslauf ihrer Schwester zu schicken, um die Behandlung zu unterstützen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb6369v15.jpg" xml:id="image_037"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_037"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg, 30.5.32</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Sehr geehrter Herr Doktor!</hi></hi></salute>
+</opener>
+<p><space/>
+<hi rendition="#i">Möchte zuerst Herrn Doktor um Entschuldigung bitten, daß ich<lb break="yes"/>mir heute schon erlaube (und) um Nachricht zu bitten; doch mein
+                    liebes<lb break="yes"/>Mütterlein ist ganz trostlos und findet keinen Schlaf
+                    mehr.</hi>
+</p>
+<p><space/>
+<hi rendition="#i">Meine liebe Schwester <add place="above">Käthe</add> wurde Samstag
+                    vom hiesigen Krankenhaus<lb break="yes"/>in Ihre Anstalt verbracht und nehme
+                    mit Sicherheit an, daß  Herr<lb break="yes"/>Doktor von den mitreisenden
+                    Schwestern über den Fall Kenntnis erhielt.</hi></p>
+<p><space/>
+<hi rendition="#i">Wenn es für Herrn Doktor notwendig ist, den Anfang und Aus<lb break="no"/>bruch der Krankheit zu schildern, so könnte ich ja ausführlich<lb break="yes"/>schreiben; da Mittwoch im̄er keine Sprechstunden
+                    sind, könnte ich<lb break="yes"/>mich bei meinem Chef freimachen und
+                    hinauffahren; auch Sonntags<lb break="yes"/>ging es. Meine Schwester hat in
+                    letzter Zeit ihren Lebenslauf geschrie<lb break="no"/>ben und darin auch ihren
+                    Krankheitszustand geschildert, ich würde<lb break="yes"/>denselben Herrn Doktor
+                    gern zur Verfügung stellen. Erlaube mir auch<lb break="yes"/>2 Aufzeichnungen
+                    beizulegen; da sie ohne Datum sind, weiß ich<lb break="yes"/>nicht, wann meine
+                    liebe Schwester sie niedergelegt. Doch geben sie Auf<lb break="no"/>schluß über
+                    ihren Seelenzustand. </hi></p>
+<p><hi rendition="#r"><hi rendition="#i"><seg ana="#salute">Ihnen im Voraus herzlich
+                            dankend, bin ich</seg><lb break="yes"/>Ihre ergebene <seg ana="#signed">Sophie
+                                <surname>V.</surname></seg>,<lb break="yes"/>Röntgen-Assistentin<lb break="yes"/>Augsburg, Stadtjägerstr. 24 a (Tel.
+                3007)</hi></hi></p>
+</body>
+</text>
+</TEI>

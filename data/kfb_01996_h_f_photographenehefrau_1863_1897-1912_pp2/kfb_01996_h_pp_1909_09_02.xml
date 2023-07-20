@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1996h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1996</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Balbina <surname>H.</surname></persName>
+<date type="sent">02.09.1909</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tochter: Anna <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1996h">
+<persName>
+<forename>Balbina</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1863"/>
+<death when="1912"/>
+<occupation>Photographensehefrau</occupation>
+<residence><geo decls="#WGS">47.5223336 10.3006012</geo>Berghofen, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1897" to="1912">1897-1912</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Chronische halluzinatorische Paranoia (1903)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Patientin bittet ihre Tochter wegen des anrückenden Winters um Zusendung warmer Winterkleidung, sie soll den Ehering der Patientin verkaufen, damit sie an Geld kommt und Nahrungsmittel kaufen kann
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1996h01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1996h01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb1996h01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Ihrsee den 2. Septbr<lb break="yes"/>1909.</hi></dateline>
+<salute><hi rendition="#c">Liebe Anna!</hi></salute>
+</opener>
+<p>
+Es komt wieder <add>ein</add> kalter<lb break="yes"/>Winter und ich liebe An̄a<lb break="yes"/><w>brauchet</w><w>ein</w> warmes Heß<lb break="yes"/>Unterock u. noch viel<lb break="yes"/>andere sachen, Ich will<lb break="yes"/>auch nicht aleweil an mein<lb break="yes"/>Verwante schreiben es ver<lb break="no"/>leidet ihne auch wen alle<lb break="yes"/>weil ein Geld brauch <add>ob</add>wohl<lb break="yes"/>schuh viel mir gebe hend.<lb break="yes"/>Itz mir der eifall kom̄e ist<lb break="yes"/>daß Du lie An̄a oder<lb break="yes"/>die Bube vu meim ver<lb break="no"/>storbene Ma solba den<lb break="yes"/>Mehlring u. Uhr ketene
+
+<pb facs="#image_002"/>
+verkaufe den Ring kön̄te<lb break="yes"/>sellalöge aber ich brauch<lb break="yes"/>kuin weil ich so schwer<lb break="yes"/>krank bin u Geld noth<lb break="no"/>wendig brauch drum bitte<lb break="yes"/>dich liebe Ana wirst doch<lb break="yes"/>so gut sein und inn der<lb break="yes"/>Anstalt in Kaufbeurn<lb break="yes"/>den Ring u Uhr holle<del>st</del><lb break="yes"/>und verkaufe do nim̄st doch<lb break="yes"/>wieder abisle Geld ing<lb break="yes"/>der Ring hot 6 Mark<lb break="yes"/>28 Mark mit keten<lb break="yes"/>hot <del>Uh</del> Uhr kostet. den<lb break="yes"/>wen̄ so gut bist kaste<lb break="yes"/>mir das Geld schicke.<lb break="yes"/>oder ah Heß und etwas<lb break="yes"/>zum Esse schike, ich kan̄<lb break="yes"/>mih gar nicht halte
+
+<pb facs="#image_003"/>
+in kuim stuk so muß<lb break="yes"/>ich als Ese was kom̄t<lb break="yes"/>hab gar nigs zu meim<lb break="yes"/>krank <add>sei</add> zum zusetze.</p>
+<p>Jetzt wili mein Schreibe<lb break="yes"/>beschließe und laß die<lb break="yes"/>Gehrthe Frau Obrin und<lb break="yes"/>meine Kinder schön Grüße<lb break="yes"/>bitte nochmal thut mir den<lb break="yes"/>willen erfilen<lb break="yes"/><seg ana="#salute">Es grüßt Euch vielmal</seg></p>
+<p><hi rendition="#r"><seg ana="#signed">Eure Mutter<lb break="yes"/>Balbina <surname>H.</surname></seg></hi></p>
+<p><add>atrese</add><space/> Fr An̄a <surname>H.</surname> im<lb break="yes"/>Weisenhaus in<lb break="yes"/>Kaufbeuren
+</p>
+</body>
+</text>
+</TEI>

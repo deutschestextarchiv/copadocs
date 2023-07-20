@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip1582b04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>1582 (K. 40)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>B.</surname></persName>
+<date type="sent">17.06.1914</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter</persName>
+<settlement type="sent">Eickelsborn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip1582b">
+<persName>
+<forename>Karl</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1879-07-07"/>
+<death cert="unknown"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">51.4817107 7.1356618</geo>Geburtsort: Bialutten; Wohnort: Wattenscheid</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Arbeiter</p>
+<p>Anstalt: <date from="1911-04-06" to="1919-11-02">06.04.1911-02.11.1919</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1911), Dementia Praecox (1908)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Bitte um Besuch und Schreibpapier
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip1582b04.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Warstein</hi>. d. 17. 6. 1914.</hi></dateline>
+<salute><hi rendition="#c">Mein Liebe Mutter.</hi></salute>
+</opener>
+<p><add hand="unbekannt"><surname>B.</surname> Gr</add></p>
+<p>Ich bin gott sei dannk jiesont unt hofe<lb break="yes"/>das Meine Brief. euch auch
+                in gutte<lb break="yes"/>jiesontheit anträfen kann. Liebe Mutter<lb break="yes"/>Oder du Mein Liebe Schwager. seit so<lb break="yes"/>gut unt Ihr kent mier diesen
+                tage.<lb break="yes"/>ein von euch Besuchen. Ich wel mier<lb break="yes"/>mit
+                euch wögen die Meine ganze<lb break="yes"/>sache Richtich Aussprechen. unt Ihr<lb break="yes"/>kent so gut sein unt mier<lb break="yes"/>Schreibpapijer <w>mit Briengen</w>. seit<lb break="yes"/>so gut unt
+                Besucht mier diessen<lb break="yes"/>tage.<lb break="yes"/><hi rendition="#r">Karl <hi rendition="#i"><surname>B.</surname></hi></hi>
+</p> <p> An Frau Wiettwe Jule<lb break="yes"/><hi rendition="#i"><surname>B.</surname></hi><lb break="yes"/>in Katwig a/d Ruhr.<lb break="yes"/><placeName type="street">Ruhrstraße</placeName>. <hi rendition="#i">N</hi>. 4. in
+                Rheinland Westfalen.</p>
+</body>
+</text>
+</TEI>

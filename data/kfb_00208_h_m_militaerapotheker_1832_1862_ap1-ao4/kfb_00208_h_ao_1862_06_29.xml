@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb208h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>208</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">n.a. <surname>H.</surname></persName>
+<date type="sent">29.06.1862</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Anstaltsdirektion: n.a.</persName>
+<settlement type="sent">Burgbernheim</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb208h">
+<persName>
+<forename>Emil</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1832"/>
+<death when="1862"/>
+<occupation>Militärapotheker</occupation>
+<residence><geo decls="#WGS">49.4513351 10.3229575</geo>Burgbernheim, Windsheim, Mittelfranken</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Kgl. I. Herr Pfarrer</p>
+<p>Anstalt: <date from="1862" to="1862">1862 (???)</date></p>
+<p>Brieftypen:ap, ao</p>
+</state>
+<trait><p>Epilepsie (1862)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Vater des Patienten bittet die Anstaltsdirektion um baldige Benachrichtigung über Verhalten und Befinden seines Sohnes während dessen Übersiedlung in die Irrenanstalt Irsee.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb208h02.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Burgbernheim den 29 Jun. 1862</hi></dateline>
+<salute><hi rendition="#i">Königliche</hi> <w><hi rendition="#i">Kreis</hi>-Irrenhaus Verwaltung</w>!</salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#r">pracs. i.7.62<lb break="yes"/>2286.</hi></add></p>
+<p>Bey Übersendung des durch jenseitige verehrliche Mittheilung vom 25<hi rendition="#sup">te</hi><lb break="yes"/>l. Mts <unclear>rexuirirten</unclear>
+<w>Ergänzungs Protokolles</w> bittet Unterzeichneter<lb break="yes"/>nicht nur um
+                freundliche Aufnahme seines Sohnes Emil in die jenseitige<lb break="yes"/>wohlwollende Verpflegung, sondern auch um gefällige _ baldige Benachrichti<lb break="no"/>gung hinsichtlich seines Verhaltens u Befindens sowohl während der
+                Reise<lb break="yes"/>von Erlangen nach Irrsee, als auch bey seiner Ankunft allda. </p>
+<p>Die <w>Reise Kosten</w> von Erlangen bis Irrsee werden wohl von der Irrenhaus<lb break="no"/>Verwaltung zu Erlangen verrechnet werden, u hinsichtlich der im
+                Voraus<lb break="yes"/>zu berichtigenden <w>Verpflegungs Kosten</w> pro <hi rendition="#i">Jul-Sptbr incl.</hi> bittet um<lb break="yes"/>gefällige
+                Mittheilung ihres Betrages, Behufs rechtzeitigen Ueber<lb break="no"/>sendung<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll!</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i"><surname>H.</surname></hi></seg> Pf. I.</hi></p>
+<p><add hand="arzt"><hi rendition="#i">E. N<hi rendition="#sup">o</hi> 2286. Mdts</hi><lb break="yes"/><unclear>Blümlein</unclear></add></p> <p><add hand="arzt"><hi rendition="#c">Irsee d. 2 Juli<lb break="yes"/>1862.</hi></add></p>
+<p><add hand="arzt"><space/>bericht zur <unclear>kRapp.</unclear><lb break="yes"/>Uebersiedelung des <w>geistes kranken</w> pensionirten<lb break="yes"/>Mil.Unterapothekers Emil <surname>H.</surname> von
+                        <w>Augs burg</w> aus<lb break="yes"/>der
+                        Kreis-Irren<unclear>anstalt</unclear> Erlangen <unclear>balr</unclear>.<lb break="yes"/><space/> mit <unclear>beil</unclear><lb break="yes"/>Zudem man sich <unclear>beifert <add place="above">⸀</add></unclear> das <w>Aufnahms gesuch</w> des<lb break="yes"/>Vaters des Rubrikaten vom 21<hi rendition="#sup">t</hi> u die Kosten<lb break="no"/>sicherstellung vom 20 u 28<hi rendition="#sup">n</hi>,
+                    dan̄<lb break="yes"/>⸀ die Schreiben der k Verw. der kIAE vom<lb break="yes"/>23<hi rendition="#sup">n</hi> vor. M. mit Abschriften
+                        de<del>s</del>r ärztl. u <del>des</del><lb break="yes"/>polizeilichen Zeugnisse<del>s</del><lb break="yes"/>zu übermitteln, wird ehrfurchtsvoll<lb break="yes"/>um die
+                    nachträgliche gnädige Genehmig<unclear>g</unclear><lb break="yes"/>der bereits vorgenom̄enen rub. Ueber<lb break="no"/>siedelung gebeten,<lb break="yes"/><hi rendition="#c"><unclear>Tan &amp;
+                            Ge.</unclear></hi></add>
+</p>
+</body>
+</text>
+</TEI>

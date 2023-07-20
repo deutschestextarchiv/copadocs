@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2091w10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2091</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Therese <surname>W.</surname></persName>
+<date type="sent">27.08.1892</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Elisbetha <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2091w">
+<persName>
+<forename>Therese</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1895"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">48.7371951 11.1795268</geo>Neuburg a. d. Donau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Tagelöhner</p>
+<p>Anstalt: <date from="1882" to="1895">1882-95</date></p>
+<p>Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Verrücktheit , Aufregungszustände, Sinnestäuschungen (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte heim, will gesund sein
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2091w10a.jpg" xml:id="image_027"/>
+<graphic mimeType="image/jpg" url="kfb2091w10b.jpg" xml:id="image_028"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_027"/>
+<opener>
+<dateline>
+<hi rendition="#c">Irsee den 27 August 1892.</hi></dateline>
+<salute><hi rendition="#c"> Liebe Schwester Elis!</hi></salute>
+</opener>
+<p>Daß ich heim möcht o' liebe Schwester ich er<lb break="no"/>suche Dich mir eine Freundliche
+                nachricht zu bringen<lb break="yes"/>indem ich von den Barmherzigen Schwestern
+                    heim<lb break="no"/>geholt würde da ich doch schon dreizenjahre in der<lb break="yes"/>Anstallt Kaufbayern und Irrse bin.</p><p> Ich will einmahl Heim oder daß ich doch einen<lb break="yes"/>Dienst erhalten soll. Daß
+                Magistradt muß einen<lb break="yes"/><w>hinaus Lassen</w>. 1879 kam ich nach Kaufbayern jetzt<lb break="yes"/>schreibt mann 1892. Ich erwarte daß ich von den<lb break="yes"/>Barmherzigen Schwestern heimkom. Warum sollte<lb break="yes"/>ich den immer Krank
+                sein ich will auch Ge<lb break="no"/>sund sein Du schreibst ja auch Du willst beten
+                    für<lb break="yes"/>mich daß ich Gesund werde. Der Priester fragt<lb break="yes"/>mich wo ich her bin Er soll mich heim lassen.</p> <pb facs="#image_028"/><p>Sehr teure Schwester Elisabetha einen schönen<lb break="yes"/>Dinst würdest mir thun wenn ich
+                    heim<lb break="yes"/>käm dies wünscht unter gewißheit<lb break="yes"/>Ich muß
+                heim kommen</p><p>
+<seg ana="#signed"><hi rendition="#c">Deine<lb break="yes"/>ergebene</hi><lb break="yes"/><hi rendition="#r">Schwester<lb break="yes"/>Theresia
+                    <surname>W.</surname></hi></seg></p><p> Gruß an Frau
+                    <surname>Z.</surname></p><p>
+<hi rendition="#c">Attresse an Frau Elisabetha <surname>S.</surname><lb break="yes"/>Schumacherswittwe <surname>B.</surname> 5<hi rendition="#i">B</hi><lb break="yes"/>früher 4<hi rendition="#i">B</hi> Neuburg
+                    a/D.</hi><lb break="yes"/><add place="margin"><hi rendition="#u">frei.</hi></add></p>
+</body>
+</text>
+</TEI>

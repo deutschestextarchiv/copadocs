@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k14     " xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>K.</surname></persName>
+<date type="sent">ca1865-67</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Lieutenant: Josef <surname>S.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1865" to="1867">1865-67</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er will noch in der Anstalt bleiben und bittet um Geld.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k14a.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb415k14b.jpg" xml:id="image_026"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_025"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Datum</hi> des
+                    Postzeichens</hi></dateline>
+<salute><hi rendition="#c"><w>Sehr</w><w>geehrter</w> Herr<lb break="yes"/><hi rendition="#i">Lieutenant</hi>.</hi></salute>
+</opener>
+<p>Mier geht es seher gut hier aber meine <hi rendition="#i">rheuma</hi>-gicht<lb break="no"/>Leiden hat sich dann und wann gezeigt, doch in<lb break="yes"/>leichterm Grade. Ich würde <del>noch</del> noch gerne einige<lb break="yes"/>Zeit
+                hier bleiben, den̄ ich führe ein reines Klosterleben,<lb break="yes"/>aber
+                ich bin verpflichtet meinem Körper <del>S auch</del><lb break="yes"/>auch pflegen um. dem "<hi rendition="#i">Koenig</hi>" unserm
+                obersten<lb break="yes"/>Kriegsheere dienen zu können. Sie können meine<lb break="yes"/>Gesin̄ungen, ich bin Soldat vom reinsten Wasser,<lb break="yes"/>und habe wie kein anderer alles durch gemacht, <hi rendition="#i">ie.</hi><lb break="yes"/>alle Waffengatungen können gelernt.<lb break="yes"/>Sehr geehrter
+                Herr Lieutnant meine Uhr gehte mir<lb break="yes"/>so ab, denn habe ich keinen
+                Groschen Geld, ich<lb break="yes"/>habe durch den <hi rendition="#i">Corp.
+                        <surname>D.</surname></hi> im <unclear/> geschrieben<lb break="yes"/>um
+                25 fl. es ist aber noch nichts hier. Ich will in<lb break="yes"/>Kaufbeuren einige
+                Einkäufe machen sind Sie<lb break="yes"/>doch so gefällig u. schicken Sie mir 25
+                fl.<lb break="yes"/><seg ana="#salute">Viele Grüße an Hl Oblt v. <hi rendition="#i"><surname>F.</surname></hi> Sie und<lb break="yes"/>ihre liebe
+                    Frau Gemahlin.</seg> Ich bitte Sie recht höflich mich<lb break="yes"/><hi rendition="#r">Ihr dankbarer Ergebenster<lb break="yes"/>nicht ohne Antwort zu<lb break="yes"/>lassen.<lb break="yes"/><hi rendition="#i"><surname>K.</surname> k. Milit. <hi rendition="#u">Vet,</hi></hi> Arzt</hi><lb break="yes"/><add>Was macht der<lb break="yes"/>kleine!? ich
+                    freue mich<lb break="yes"/>ihn wieder zu sehen; reinste Bazu.</add><lb break="yes"/><add place="margin">Herr Obl. <add place="above">o..</add> ist ein<lb break="yes"/>vers. <seg ana="#curse">Geizhal</seg>!<lb break="yes"/>und
+                    so <unclear/><lb break="yes"/>Sie und O.. haben mich hiehergebracht<lb break="yes"/>Darüber
+                    das Nähere mündlich?.</add></p>
+<pb facs="#image_026"/>
+<p><hi rendition="#c">Seiner Wohlgeboren<lb break="yes"/>Herrn Josef <hi rendition="#i"><hi rendition="#u"><surname>S.</surname></hi></hi><lb break="yes"/><hi rendition="#i">k. Lieutenant</hi><lb break="yes"/>in</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Kempten.</hi></hi></hi><lb break="yes"/><add place="margin">frei markiert<lb break="yes"/>3 <hi rendition="#i">Fr.</hi></add></p>
+</body>
+</text>
+</TEI>

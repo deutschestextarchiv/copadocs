@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1269b07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1269</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">ca1871-90</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1269b">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1844"/>
+<death cert="unknown"/>
+<occupation>Buchhalter</occupation>
+<residence><geo decls="#WGS">48.4113545 10.2991562</geo>Klein-Kötz, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonom "sehr guten Vermögensverhältniß" 200 Tagwerk</p>
+<p>Anstalt: <date from="1871" to="1890">1871-1890</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Depression, Selbstüberschätzung (1871), Wahnideen, Verfolgungswahn (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    beschwert sich über die Essensmenge, bekommt zu wenig
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1269b07a.jpg" xml:id="image_019"/>
+<graphic mimeType="image/jpg" url="kfb1269b07b.jpg" xml:id="image_020"/>
+<graphic mimeType="image/jpg" url="kfb1269b07c.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline/>
+<salute>Herr Direktor!</salute>
+</opener>
+<p>Der heilige<lb break="yes"/>Glaube befiehlt mir Ihnen die<lb break="yes"/>Wahrheit zu sagen. Die Anstalt<lb break="yes"/>ist, wie Ihnen von mir bereits<lb break="yes"/>bekannt, ein gräulicher Aufent<lb break="no"/>haltsort, nicht
+                allein deßwegen<lb break="yes"/>weil lauter kranke Leute hier<lb break="yes"/>sind, sondern aus ganz andern<lb break="yes"/>Gründen. In einer Heilanstalt<lb break="yes"/>muß natürlich vor Allem die<lb break="yes"/>Kost in die Augen
+                fallen. Was<lb break="yes"/>die Qualität derselben anbe<lb break="no"/>trifft, so
+                läßt sich darüber nichts<lb break="yes"/>aussetzen, doch die Quantität?<lb break="yes"/>Das ist hier die kritische Frage −.<lb break="yes"/>Angenom̄en, daß sich hier meistens<lb break="yes"/>Leute befinden, welche
+                zu einem <pb facs="#image_020"/>ordentlichen Geschäfte oder Be<lb break="no"/>rufe
+                nichts mehr taugen, muß<lb break="yes"/>doch das tägliche Brod das diese<lb break="yes"/>Leute genießen der erste Vor<lb break="no"/>wurf sein, welcher
+                ihnen ge<lb break="no"/>macht werden soll! Es kann<lb break="yes"/>z. B. meinem
+                Vater nicht gleich<lb break="no"/>gültig sein ob ich das verdiene<lb break="yes"/>was ich hier brauche oder nicht<lb break="yes"/>u. deßhalb muß ich auch entlassen<lb break="yes"/>werden. Wer zu seinem Bruder<lb break="yes"/>sagt "du <seg ana="#curse">Narr</seg>",
+                der ist ein<lb break="yes"/>böser Mensch. </p><p><hi rendition="#c">Das
+                    Heil.</hi>
+</p><p>Das Heil für einen Menschen,<lb break="yes"/>welcher zu gar nichts zu brauchen<lb break="yes"/>ist, liegt doch offenbar in dem<lb break="yes"/>täglichen Brod das ihm ver<pb break="no" facs="#image_021"/>abreicht wird. Je weniger ihm<lb break="yes"/>zugehört wird, desto vortheil<lb break="no"/>hafter wird sich sein Zustand<lb break="yes"/>gestalten, denn der nur von<lb break="yes"/>kranken Ideen
+                behaftete Leib<lb break="yes"/>wird auf diese Weise sein un<lb break="no"/>gestümes
+                Wesen verlieren,<lb break="yes"/>aber deßwegen nicht "verrecken"<lb break="yes"/>müssen, da der Mensch nicht<lb break="yes"/>allein aus Leib, sondern auch<lb break="yes"/>aus Seele besteht, in welcher<lb break="yes"/>ja die Hauptkraft
+                des Lebens<lb break="yes"/>verborgen liegt. Nicht das<lb break="yes"/>tägliche
+                Brod welches man<lb break="yes"/>genießt macht das Leben aus,<lb break="yes"/>sondern die Wahrheit in<lb break="yes"/>Ausübung seines täglichen</p>
+</body>
+</text>
+</TEI>

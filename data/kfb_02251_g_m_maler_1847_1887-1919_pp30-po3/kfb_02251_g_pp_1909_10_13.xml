@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">13.10.1909</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Babette <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Maler</p>
+<p>Anstalt: <date from="1887" to="1919">1887-1919</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Aufzählung von angeblich meineidigen Menschen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g10a.jpg" xml:id="image_033"/>
+<graphic mimeType="image/jpg" url="kfb2251g10b.jpg" xml:id="image_034"/>
+<graphic mimeType="image/jpg" url="kfb2251g10c.jpg" xml:id="image_035"/>
+<graphic mimeType="image/jpg" url="kfb2251g10d.jpg" xml:id="image_036"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_033"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 13 Oktober 1909. </hi></dateline>
+<salute><hi rendition="#c">Liebe Schwester!</hi></salute>
+</opener>
+<p>Will Dir nur Mittheilen<lb break="yes"/>daß Ich kein solchen <w>Mein<lb break="yes"/>eidigen</w> Man mit Lügen<lb break="yes"/>grober Unfug von Miß<lb break="no"/>handlungen im höchsten<lb break="yes"/>Grade nicht annehmen<lb break="yes"/>kan̄, so wie Wimer<lb break="yes"/>selbe Man Körperliche<lb break="yes"/>Mißhandlungen war.<lb break="yes"/>W Erben Selig laße Ich<lb break="yes"/>mir
+                Frau <surname>H.</surname> nicht.<lb break="yes"/>beeinträchtigen wie oder<lb break="yes"/>Enterben niemals nicht<lb break="yes"/>Die
+                    <surname>F.</surname> sind Lump<lb break="no"/>enback mit denen Ich nie<lb break="yes"/>Bekant war. Direckter </p>
+<pb facs="#image_034"/>
+<p><surname>K.</surname> Meineidiger Man<lb break="yes"/>nehme Ich nicht an u
+                    Bür<lb break="no"/>germeister Papiere im<lb break="yes"/>Leben u Tod
+                eingehalten<lb break="yes"/>werden müßen.<lb break="yes"/><surname>W.</surname> ist ein Lum<lb break="no"/>pen u
+                    <surname>S.</surname> der An<lb break="no"/>dere. Warun Besuchst<lb break="yes"/>mich nicht Du schönste<lb break="yes"/>Hur geworden u Lügen<lb break="yes"/><hi rendition="#c">Lebe Wohl Aufs<lb break="yes"/>Wiederseh´n
+                    </hi><lb break="yes"/>Der Advokaten ist ein<lb break="yes"/>Erwerbsmäßiger
+                    Un<lb break="no"/>fug geweßen.<lb break="yes"/><surname>K.</surname> ist ein
+                Lügner<lb break="yes"/>Waare Meineidiger. </p>
+<pb facs="#image_035"/>
+<p>der Brief Herr v. <surname>G.</surname><lb break="yes"/>Mittheilm. </p>
+<pb facs="#image_036"/>
+<p>Wohlgeborn<lb break="yes"/><hi rendition="#c">Babette <surname>G.</surname> Malerstochter<lb break="yes"/>in Lindau. </hi><lb break="yes"/><hi rendition="#r">Bodensee.</hi><lb break="yes"/>frei. </p>
+</body>
+</text>
+</TEI>

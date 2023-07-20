@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2226v10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2226</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>V.</surname></persName>
+<date type="sent">27.12.1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager, Ehemann: n.a <surname>n.</surname>, Felix <surname>V.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2226v">
+<persName>
+<forename>Maria</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1838"/>
+<death when="1918"/>
+<occupation>Schuhmachersehefrau</occupation>
+<residence><geo decls="#WGS">48.1479335 10.7571408</geo>Langerringen, Augsburg, wohnhaft: Kolonie Hurlach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1885" to="1918">1885-1918</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Manie (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin überbringt Neujahrswünsche an ihren Schwager und ihren Mann.
+                    Sie bittet den Schwager, sie zu sich zu holen, und berichtet ihm von einem Brand in Irsee.
+                    Sie lässt ihre Kinder und den Pfarrer durch ihren Mann grüßen und betont, dass es zu Hause besser für sie wäre.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2226v10a1.jpg" xml:id="image_031"/>
+<graphic mimeType="image/jpg" url="kfb2226v10a2.jpg" xml:id="image_032"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_031"/>
+<pb facs="#image_032"/>
+<opener>
+<dateline><hi rendition="#c">Irrse den 27 <hi rendition="#sup">ten</hi> dezembr 1898</hi></dateline>
+<salute>Lieber Her Schwager </salute>
+</opener>
+<p><add hand="arzt" place="top"><surname><hi rendition="#i">V.</hi></surname>
+                    Maria</add></p>
+<p>ich bitte Dich kom<lb break="yes"/>einmal nach Irse u. schau Uns ungligkliche<lb break="yes"/>Kranke u. wie wir bitten so läßt Er uns nie<lb break="yes"/>Haim
+                ich Wünsche dir fiel glick zum neihen<lb break="yes"/>Jahr wier haben nur Unglick
+                auf u. nider<lb break="yes"/>nim <w>Du</w><w>dich</w> meiner An nim̄e mich
+                zu Dir<lb break="yes"/>u. liefere mich Nach Hiltedenfingen Lieber<lb break="yes"/><seg ana="#inst">in Irse hat es gebrandt wir haben schon<lb break="yes"/>oft dinkt mir verstiken</seg>
+                Doch hat der liebe<lb break="yes"/>Gott wider geholfen <seg ana="#salute">Es grüßt Dich und meine<lb break="yes"/><add place="margin">Schwes<unclear>t</unclear>er</add></seg> du solst mich holen ich wergeß Dich nie im<lb break="yes"/>gebet grüße an Ziril u seine Frau u Sohn<lb break="yes"/>Irse den
+                27 <hi rendition="#sup">ten</hi> <space/> 1898. </p>
+<p>Lieber Man ich bitte Dich kom Einmahl<lb break="yes"/>zu . mir u hole mich ab ich
+                bin Beßer<lb break="yes"/>ich Wünsche Dir ein gutes glickseliges<lb break="yes"/>neujahr u. alles gute was Du dir selbst<lb break="yes"/>gesundchait fil glick im
+                    <w>Neien</w><w>jahr</w> lieber<lb break="yes"/>Man ich denke recht oft an Eich
+                nun wirst<lb break="yes"/>Du doch Einmahl mich auch nicht fergeßen<lb break="yes"/>Ich bitte fir Dich Täglich ich bin in gedanken<lb break="yes"/>im̄er bei
+                Dir fiele Herzliche grüße an meine<lb break="yes"/>Kinder ich meine zu Hause wer es
+                beßer fir mich<lb break="yes"/>Lieber Vater Wünsche dem Hochwirden Herr<lb break="yes"/>Pfarer fir mich ein gligkseliges neies Jahr<lb break="yes"/>und
+                halte Du fir mich an dan der mich nie verlis<lb break="yes"/>ist Der liebe Gott <seg ana="#salute">ich
+                grüße Dich filmahl</seg> dein Waib<lb break="yes"/><add place="margin">An Veligx <surname><hi rendition="#u" style="arzt">V.</hi>l</surname></add> <hi rendition="#c">Mar<hi rendition="#u" style="arzt">ia <surname>S.</surname>.</hi></hi><lb break="yes"/>Koloni Hu<del>l</del>rlach bei Ober Igling </p>
+</body>
+</text>
+</TEI>

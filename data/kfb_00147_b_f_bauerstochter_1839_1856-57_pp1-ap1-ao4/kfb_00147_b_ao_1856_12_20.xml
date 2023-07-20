@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb147b04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>147</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>B.</surname></persName>
+<date type="sent">20.12.1856</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Anstaltsdirektor: n.a.</persName>
+<settlement type="sent">Kaltbronn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb147b">
+<persName>
+<forename>Genovefa</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1839"/>
+<death cert="unknown"/>
+<occupation>Bauerstochter</occupation>
+<residence><geo decls="#WGS">47.8689152 10.1575869</geo>Kaltbronn, Grönenbach</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bauer, Getreidehändler</p>
+<p>Anstalt: <date from="1856" to="1857">1856-1857</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Geistesstörung</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="verwandter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Ein Verwandter der Patientin bittet den Anstaltsdirektor, ihn über den Zustand der Patientin zu informieren, und erkundigt sich beim ihm darüber, ob die Patientin zu einer Abholung fähig ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb147b04a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb147b04b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb147b04c.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb147b04d.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Kaltbron den 20 Dezbr</hi></dateline>
+<salute>Hochverehrtester Herr Docktor</salute>
+</opener>
+<p>Schon eine lange Zeit<lb break="yes"/>war es wieder wo wir<lb break="yes"/>nichts
+                von der Ganovef<lb break="yes"/>hörten u da die Zeit<lb break="yes"/>schon wieder
+                bald verbei<lb break="yes"/>war wo wir für Sie be<lb break="no"/>zahlt haben so
+                bitten <add place="above">wir</add> Sie<lb break="yes"/>Verehrtester Herr Direktor
+                    <pb facs="#image_002"/>sind Sie so gütig u.<lb break="yes"/>berichten es uns
+                wie es<lb break="yes"/>bei der Genovef geht<lb break="yes"/>ob sie fähig zum
+                abholen<lb break="yes"/>ist oder nicht.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Nebst viele Grüße.</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Xaver
+                            <surname>B.</surname></seg></hi></p>
+<pb facs="#image_003"/><p><add hand="arzt">d. 27 <hi rendition="#i">Decbr</hi> 56.<lb break="yes"/>Ich hätte
+                        Ihn<unclear>en</unclear> gern <w>einen</w><w>brief</w><lb break="yes"/>von <w>der</w><w>Genovefa</w>
+<w>selbst</w><w>ge<lb break="no"/>schickt</w>, u. forderte <del>S</del>sie daher<lb break="yes"/>auf, Ihn<unclear>en</unclear> zu schreiben, und<lb break="yes"/>für die übersendeten Sachen u den<lb break="yes"/>brief zu
+                    danken, u. zugleih<lb break="yes"/>zum neuen Jahr Glück zu wünschen.<lb break="yes"/>Sie <w>hat</w><w>aber</w> zu <w>wiederholte</w><w>Malen</w><lb break="yes"/>erklärt, daß sie keinen brief<lb break="yes"/>schreiben möge,
+                    u. ist überhaupt<lb break="yes"/>noch recht <unclear>verkehrt</unclear>, obgl
+                    sie fleißig<lb break="yes"/>arbeitet. <del>Es ist</del> Ich kan̄ daher<lb break="yes"/>noch nicht für raths. halten, sie<lb break="yes"/>abzuholen.</add>
+</p>
+<pb facs="#image_004"/><p><hi rendition="#r">An</hi><lb break="yes"/><hi rendition="#c">Hochverehrtester<lb break="yes"/>Herr Direktors</hi></p>
+</body>
+</text>
+</TEI>

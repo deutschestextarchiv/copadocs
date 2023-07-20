@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb536r14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Frieda <surname/></persName>
+<date type="sent">18.03.1870</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: Josef <surname>R.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb536r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1873"/>
+<occupation>Eisenbahnexpeditor, Zuchthaussträfling</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Simmerberg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1872" to="1873">1872-73</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Melancholie (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="tochter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    F. gratuliert ihrem Vater zum Namenstag und bedauert die aktuelle Situation. Zudem berichtet sie über körperliche Beschwerden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb536r14.jpg" xml:id="image_026"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_026"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg den 18ten März 1870.</hi></dateline>
+<salute><hi rendition="#c">Lieber guter Vater!</hi></salute>
+</opener>
+<p>Dein Namenstag ist nun herangerückt, aber leider ist er nur<lb break="yes"/>eine
+                traurige Erin̄erung an die Vergangenheit. Sonst kon̄test<lb break="yes"/>Du dich an solchen Tagen erfreuen, und unsere Wünsche aus<lb break="yes"/>unserm Munde vernehmen, aber Alles dieß hat uns u. Dir<lb break="yes"/>das Schicksaal für heuer versagt. Doch in Gottes Namen, tragen<lb break="yes"/>wier es geduldig, es werden ja gewiß wieder andere Zeiten
+                kom̄en.<lb break="yes"/>Jch wünsche Dir zu Deinem Namenstage alles Gute,
+                alles dasjenige<lb break="yes"/>was Du Dir selbst wünschest. Laß nur Deinen Muth
+                nicht sinken<lb break="yes"/>wen̄ Deine Hoffnung manchmal auch ganz zu
+                sinken scheint<lb break="yes"/>so laß dir wieder Muth kom̄en, wen̄ Du
+                denkst, was es sein wird<lb break="yes"/>wen̄ wier Dich nach überstandener
+                Strafzeit wieder fröhlich empfan<lb break="no"/>gen werden. Die Mutter sagte auch
+                ich soll Dich fragen, ob Du<lb break="yes"/>nichts mehr hörst von einer Amnestie? </p><p>Jetzt muß ich Dich kurz von meinem Befinden benachrichtigen.<lb break="yes"/>Mit meinen Augen
+                geht es Gott sei Dank besser, aber so bin ich<lb break="yes"/>seit Montag den 13ten
+                recht unwohl. <seg ana="#med">Es ist mir im̄er so schlecht u.<lb break="yes"/>brecherisch,
+                u. am Don̄erstag mußte ich zum Brechen einnehmen,</seg><lb break="yes"/>seit der
+                Zeit geht es etwas besser, aber es geht noch lange nicht recht.<lb break="yes"/><del><unclear/></del> Jch kan̄ auch gar nicht viel essen, weil mir
+                Alles so sehr <w>wieder steht</w><lb break="yes"/><seg ana="#metaling">Verzeihe daher auch
+                    meine schlechte u. liederliche Schrift, allein ich war<lb break="yes"/>nicht im
+                    Stande es besser zu thun.</seg>
+</p><p><seg ana="#salute">Jndem ich Dir nochmals alles Gute wünsche, grüßt u. küßt Dich</seg><lb break="yes"/><hi rendition="#r">Deine dankbare Tochter <seg ana="#signed">Frieda</seg></hi></p>
+</body>
+</text>
+</TEI>

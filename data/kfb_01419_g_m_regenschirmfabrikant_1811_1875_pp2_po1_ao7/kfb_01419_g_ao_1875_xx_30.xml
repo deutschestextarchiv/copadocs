@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1419g04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1419</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Emma <surname>G.</surname></persName>
+<date type="sent">30.xx.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1419g">
+<persName>
+<forename>Sigmund</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1811"/>
+<death cert="unknown"/>
+<occupation>Regenschirmfabrikant, Privatier</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet </p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1875" to="1875">1875</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Fixe Ideen (1875)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Macht sich Sorgen um den Patienten, da dieser schon längere Zeit nicht geschrieben habe und 
+                    bittet daher um Auskunft.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1419g04.JPG" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r">A<hi rendition="#i">ugs</hi>.
+                        30.<unclear>7</unclear>.75.</hi></dateline>
+<salute>Hochgeehrter Herr <hi rendition="#i">Direcktor</hi>!</salute>
+</opener>
+<p><add hand="arzt"><add place="top"><unclear/>. <unclear>1</unclear>/<hi rendition="#sub">8</hi></add></add></p>
+<p><hi rendition="#r">Entschuldigen Sie, daß ich</hi><lb break="yes"/>Sie mit einigen Zeilen be<lb break="no"/>lästige; Da ich von meinen<lb break="yes"/>Manne schon längere Zeit<lb break="yes"/>keine Nachricht
+                bekom̄en, so<lb break="yes"/>habe ich etwas Sorge, er möchte<lb break="yes"/>krank sein, und ersuche ich<lb break="yes"/>Sie geehrter Herr freundlich nur<lb break="yes"/>in diesen Fall mit einigen<lb break="yes"/>Worten es wissen zu
+                lassen. </p><p><hi rendition="#r">Nach geschehenen Auszug bin</hi><lb break="yes"/>ich Willens, nach Dorten zu kom̄en,<lb break="yes"/>sollten
+                entschiedne Hinderniße<lb break="yes"/>im Wege stehen, so bitte ich<lb break="yes"/>nochmals freundlichst um gütige<lb break="yes"/>Mittheilung. <seg ana="#salute">Mit ausgezeichneter<lb break="yes"/>Hochachtung</seg><lb break="yes"/><hi rendition="#r">ergebenste<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Em̄a </hi><surname><hi rendition="#i">G.</hi></surname></seg><hi rendition="#i">.</hi></hi></p>
+</body>
+</text>
+</TEI>

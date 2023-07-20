@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1840s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1840</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Marie <surname>S.</surname></persName>
+<date type="sent">27.04.1891</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1840s">
+<persName>
+<forename>Karl</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1840"/>
+<death when="1891"/>
+<occupation>Maler, Bildhauer</occupation>
+<residence><geo decls="#WGS">48.3954965 10.00589</geo>Neu-Ulm</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Gärtner</p>
+<p>Anstalt: <date from="1889" to="1891">1889-1891</date></p>
+<p>Brieftypen: ap, ao, zeichnung</p>
+</state>
+<trait><p>Progressive Paralyse (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink_black" scope="minor" scribe="arzt"/>
+<handNote medium="crayon_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich vielmals für die Fürsorge, die ihrem nun verstorbenen Ehemann seitens des Anstaltpersonals zuteil wurde. 
+                    Erkundigt sich nach der Sterbeurkunde.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1840s04a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb1840s04b.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb1840s04c.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb1840s04d.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r">München den 27<hi rendition="#sup"><hi rendition="#u">t</hi></hi> April 91/<hi rendition="#sub">4</hi></hi></dateline>
+<salute><hi rendition="#c">Geehrtester Herr Oberarzt!</hi></salute>
+</opener>
+<p>Nochmals fühle ich mich gedrungen,<lb break="yes"/>Ihnen Alles was Sie an<lb break="yes"/>meinem lieben sel. Mann<lb break="yes"/>gethan haben zu danken,<lb break="yes"/>möge Ihnen der Lenker aller<lb break="yes"/>Welten, vergelten!
+                was<lb break="yes"/>Sie an meinem Mann<lb break="yes"/>u. all den Unglücklichen
+                thun. </p>
+<pb facs="#image_010"/>
+<p>ich nahm wirklich in meinem<lb break="yes"/>tiefen Schmerze die Über<lb break="no"/>zeugung mit, daß Alles<lb break="yes"/>für Ihn gethan wurde!<lb break="yes"/>ich konte sofort nicht meinen<lb break="yes"/>Dank senden, weil
+                ich den<lb break="yes"/>andern Tag nicht mehr <unclear>d</unclear>em<lb break="yes"/>Bette konte, ein solcher<lb break="yes"/>Schwindel u. Üblichkeit<lb break="yes"/>hatte mich ergriffen, daß<lb break="yes"/>ich mich im Bette
+                einhielt! </p>
+<pb facs="#image_011"/>
+<p>auch Herrn Oberpfleger<lb break="yes"/>wen̄ ich bitten darf meinen<lb break="yes"/>herzlichsten Dank! sollte ich<lb break="yes"/>in meinem großen
+                Schmerze<lb break="yes"/>ein Versehen begangen<lb break="yes"/>habe, so bitte ich
+                es mir<lb break="yes"/>gütigst zu entschuldigen! </p><p>Noch eine Frage u. Bitte<lb break="yes"/>hätte ich Herr Oberarzt!<lb break="yes"/>Hochwürden
+                konte mir <pb facs="#image_012"/><add hand="arzt">x). Sterbeurkunde vom Standesamt<lb break="yes"/>ausgestellt 30/<hi rendition="#sub">4</hi> 91.</add><lb break="yes"/>auch keine Auskunft geben,<lb break="yes"/>ob ich einen <hi rendition="#u" style="arzt">Todtenschein</hi>
+<add hand="arzt"><add place="above">x)</add></add><lb break="yes"/>von der Heilanstalt bekom̄e,<lb break="yes"/>oder vom
+                Magistrate hier,<lb break="yes"/>sollte es von der Heilanstalt<lb break="yes"/>geschehen, so würde ich bitten<lb break="yes"/>in mir <w>zu zustellen</w>; </p><p>nochmals für Alles meinem<lb break="yes"/>l. sel. Man̄ erwiesene vielen<lb break="yes"/>Dank Herr Oberarzt, <seg ana="#salute">es<lb break="yes"/>zeichnet sich<lb break="yes"/><hi rendition="#r">Hochachtungsvollst </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Marie
+                                </hi><surname><hi rendition="#i">S.</hi></surname></seg><lb break="yes"/>Wittwe</hi></p>
+</body>
+</text>
+</TEI>

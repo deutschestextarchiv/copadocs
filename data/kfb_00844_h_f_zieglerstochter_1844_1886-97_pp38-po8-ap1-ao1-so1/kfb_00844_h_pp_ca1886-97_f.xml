@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb844h47" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>844</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Creszenz <surname>H.</surname></persName>
+<date type="sent">ca1886-97</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Sülwöst <surname>H.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb844h">
+<persName>
+<forename>Creszenz</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1897"/>
+<occupation>Zieglerstochter</occupation>
+<residence><geo decls="#WGS">48.5945268 10.4875365</geo>Donaualtheim, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Zieglereibesitzer</p>
+<p>Anstalt: <date from="1886" to="1897">1886-1897</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>Sekundäre Seelenstörung (hysterische Verrücktheit), Verfolgungs- und Beeinträchtigungsgedanken (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    unvollständig, erste Seite(n) fehlt/fehlen. 
+                    Sie bittet ihren Bruder, ihr Zimmer für ihre Ankunft vorzubereiten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb844h47.jpg" xml:id="image_160"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_160"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>vom andern ist schreklich<lb break="yes"/>aus diesen Gnädigen Erzte<lb break="yes"/>ihrem <seg ana="#inst">hauße u Hände</seg> ist<lb break="yes"/>nicht zu komen wie man<lb break="yes"/>sich wehrt u anhaltet dir<lb break="yes"/>gib ich keine schult die mich<lb break="yes"/>behalten Reime mein Stüb<lb break="no"/>chen ein Holz u was ich noch<lb break="yes"/>hab das übrige wird
+                sich dan<lb break="yes"/>schon herausstelen das du<lb break="yes"/>mich entlich
+                hollen darft wie<lb break="yes"/>steht wohl Euer befinten wo<lb break="yes"/>ich
+                Tag u Nacht belagert bin<lb break="yes"/>nebst vülen grüßen u <seg ana="#salute">schliesche<lb break="yes"/>mit Achtung</seg> deine Unklük<lb break="no"/>liche Schwester <seg ana="#signed">Kreszentia
+                        <surname>H.</surname></seg><lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+<p>An Sülwöst <surname>H.</surname> Zieglers<lb break="yes"/>Meister in Donaualtheim<lb break="yes"/><hi rendition="#c">Post Dillingen</hi></p>
+</body>
+</text>
+</TEI>

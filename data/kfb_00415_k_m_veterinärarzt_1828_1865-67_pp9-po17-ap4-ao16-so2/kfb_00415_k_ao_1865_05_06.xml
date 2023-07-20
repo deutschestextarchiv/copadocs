@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Rosalia <surname>K.</surname></persName>
+<date type="sent">06.05.1865</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor</persName>
+<settlement type="sent">Weißenhorn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1865" to="1867">1865-67</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="mutter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie hat von der Einweisung ihres Sohnes erfahren und bittet um 
+                    gelegentliche Nachrichten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k12.jpg" xml:id="image_022"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<dateline><hi rendition="#r">Weißenhorn den 6 May<lb break="yes"/><hi rendition="#u">1865</hi></hi></dateline>
+<salute><hi rendition="#c">Hochwohlgeboren Herr Dockter!</hi></salute>
+</opener>
+<p>Ihre Zuschrieft vom 30 April erhielt <add place="above">ich</add> den 2<hi rendition="#sup">te</hi> May, aber ach!<lb break="yes"/>welche Überraschung
+                − einer solchen höchgst Traurige <hi rendition="#u">Kunde</hi><lb break="yes"/>jetz bin ich noch nicht im Stande, waß mein armes MutterHe<add place="above">r</add>tz zu<lb break="yes"/>Leiden hatte ach ich weiß gar kein
+                Grund, zu welcher ver<lb break="no"/>anlasung mein lieber Armer Sohn! von einer
+                solchen<lb break="yes"/>harten Kranckheit, Überfallen wurde, ich kan mit gewissen
+                    <add place="below">ßagen</add><lb break="yes"/>und wer Ihn genau kön̄t daß Er Leidenschafts<lb break="no"/>Loos und feindlich in ßeinem Berufe mit ßeinen Freunden<lb break="yes"/><add place="inline">die</add> Tage <w>durch Lebte</w> − Ach! es soll nun so
+                sein, wie es ist −<lb break="yes"/>so kin̄e ich keinen Trost als in
+                die heiligeWeise Gottes<lb break="yes"/>Vorsehung uns zu überlaßen − Gott
+                schlägt tiefe Wunden<lb break="yes"/>weiß sie auch, wieder zu Heilen − Ach
+                Redet Ehr gar<lb break="yes"/>nie, <hi rendition="#sup"><hi rendition="#u">2</hi></hi> von Mutter Brüder u Schwestern −<lb break="yes"/><space/> Schlüßlich bitte <add place="above">ich</add> Herzlich doch von Zeit zur
+                Zeit<lb break="yes"/>Nachricht zu geben ich zähle schon meine überschrieten<lb break="yes"/>74 Jahre, welches <hi rendition="#u">Ihnen</hi> gewies selbst
+                Einleichdet<lb break="yes"/>solche unvermutheten Leiden in den äldesten Jahren zu
+                        er<unclear>trag<add place="below">en</add></unclear><lb break="yes"/><hi rendition="#r"><seg ana="#salute">Unterdesen Leben <hi rendition="#u">Sieh</hi> recht Wohl</seg><lb break="yes"/>Ich bin mit aller Hochachtung Ihre<lb break="yes"/>Ergebenste
+                    Rosalia <surname>K.</surname><lb break="yes"/>Schullehrs-<hi rendition="#u">Wittwe.</hi></hi></p>
+</body>
+</text>
+</TEI>

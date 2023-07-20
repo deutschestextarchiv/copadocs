@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1780h06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1780</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Therese <surname>H.</surname></persName>
+<date type="sent">ca.1905-17</date>
+<date type="received">n.a.</date>
+<persName type="addressee">k.a.: Sebastian <surname>P.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1780h">
+<persName>
+<forename>Therese</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1852"/>
+<death when="1917"/>
+<occupation>Fabrikarbeitersfrau</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Tagelöhner</p>
+<p>Anstalt: <date from="1905" to="1917">1905-1917</date></p>
+<p>Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Beobachtungs-, Beziehungs-, Verfolgungswahn, Paranoia, Halluzinationen (1905)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Grüße wünscht Wiedersehen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1780h06a.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="kfb1780h06b.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuer</hi></dateline>
+<salute><hi rendition="#c">Geehrter Herr</hi></salute>
+</opener>
+<p> Ich bite um entschuldigung<lb break="yes"/>durch meine Angegriefen<lb break="no"/>heit und
+                so langes seit den<lb break="yes"/>Kindestagen nicht Wieder<lb break="no"/>sehen
+                keinen Gruß ge<lb break="no"/>schikt habe. Adreße Fr Therese
+                        <surname>H.</surname><lb break="yes"/>in der Heil-Anstalt Kaufbäuren.
+				    <seg ana="#salute">Ich grüße<lb break="yes"/>Dich bestens
+				        so wie alle ins<lb break="no"/>gesamt die besten Grüße<lb break="yes"/>und Wünsche
+				        und hoffe auf<lb break="yes"/>ein baldiges Wiedersehen.</seg>
+<pb facs="#image_015"/> Wohlgeborn Herrn<lb break="yes"/>Sebastian
+                        <surname>P.</surname><lb break="yes"/>in<lb break="yes"/>Schönhofen <add place="above">bei</add><lb break="yes"/>Regensburg.</p>
+</body>
+</text>
+</TEI>

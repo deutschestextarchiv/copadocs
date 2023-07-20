@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1659a14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1659</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kaspar <surname>A.</surname></persName>
+<date type="sent">22.10.1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion:  <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1659a">
+<persName>
+<forename>Kaspar</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1913"/>
+<occupation>Schneider, Unteroffizier</occupation>
+<residence><geo decls="#WGS">48.7990056 10.7444384</geo>Mündling, Donauwörth</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1879" to="1913">1879-1913</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Halluzinatorische Paranoia (1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Stellt Antrag zur Strafverfolgung wegen rechtswidriger Gefangenschaft
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1659a14.jpg" xml:id="image_034"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_034"/>
+<opener>
+<dateline>Irrsee, den 22. Oktober 1898. <add place="margin">Später der <hi rendition="#i">Leidensgabe</hi></add></dateline>
+<salute><hi rendition="#r"><hi rendition="#i">Conzept.</hi></hi></salute>
+</opener>
+<p> Beim heutigen Rapporte stellte sich der Unter<lb break="no"/>offizier Kaspar
+                    <surname>A.</surname> mit folgendem Referete:<lb break="yes"/>"Im Jahre 1879
+                von der Gemeinde hieher<lb break="yes"/>zur <hi rendition="#i">Disziplinirung</hi>
+                ausgewiesen, menagiere<lb break="yes"/>ich nun schon seit dieser Zeit unter den
+                Patienten<lb break="yes"/>ein Angehöriger des Infanterie-Leibregimen<lb break="no"/>tes. </p>
+<p>Ich stelle nun nachdem ich mich längst geheilt<lb break="yes"/>fühle von
+                Leidenschaften Exzeß zu begehen hier<lb break="no"/>mit das Ersuchen um Entlassung
+                mit dem Be<lb break="no"/>merken, daß ich im Gemeindehause meinen<lb break="yes"/>Unterschluff und unterstützungspflichtige Ver<lb break="no"/>wandtschaft habe, so
+                daß ich meine Pension<lb break="yes"/>nunmehr in der Heimath beziehen
+                kön̄te.<lb break="yes"/>Unter Bezugnahme auf die in den Zeitungsblättern<lb break="yes"/>erschienenen Kriegsministerial=Verfügungen -<lb break="yes"/>Unteroffiziere und Soldaten, welche unver<lb break="no"/>schuldet in die Hände der
+                Landespolizei<lb break="yes"/>gekom̄en für Weiteres "auf Militärkompe<lb break="no"/>tenz unter Controle zu stellen".</p>
+<p>Ich stelle daher, da der Vorwurf Angehörig<lb break="no"/>keit eine Anklage /:
+                rechtswidrige Gefangen<lb break="no"/>haft :/ enthält den Antrag, in dieser<lb break="yes"/>Verfolgungs-Angelegenheit Revision<lb break="yes"/>zu erheben. </p>
+<p><seg ana="#signed"><hi rendition="#c">Kaspar <surname>A.</surname>.<lb break="yes"/>Unteroffizier</hi></seg></p>
+<p><add place="margin"><handShift medium="pencil"/>Der Direktor<lb break="yes"/>der
+                    Heil und Pflegeanstalt<lb break="yes"/>Kaufbeuren an das<lb break="yes"/>Bezirksamt <hi rendition="#i">Donau </hi><lb break="yes"/><hi rendition="#i">wörth</hi></add></p>
+</body>
+</text>
+</TEI>

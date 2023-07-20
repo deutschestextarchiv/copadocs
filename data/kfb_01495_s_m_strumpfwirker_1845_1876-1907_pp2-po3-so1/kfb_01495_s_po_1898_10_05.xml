@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1495s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1495</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Carl <surname>S.</surname></persName>
+<date type="sent">05.10.1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Kunstreiter: Franz <surname>G.</surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1495s">
+<persName>
+<forename>Carl</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1907"/>
+<occupation>Strumpfwirker, Schauspieler</occupation>
+<residence><geo decls="#WGS">47.8803788 10.622246</geo>Kaufbeuren</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Drechslermeister</p>
+<p>Anstalt: <date from="1876" to="1907">1876-1907</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Manisch-depressives Irresein (1905)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Erzählung über den eigenen Lebensweg.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1495s04a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb1495s04b.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irrsee b.
+                    Kaufbeuren</hi></hi></dateline>
+<salute>Werthester <hi rendition="#i">H</hi>err Franz <surname>G.</surname>
+                    b Herrn Cioteus Dier<lb break="no"/>ektohr <surname>B.</surname> in Berlin
+                    gegenwärtig,</salute>
+</opener>
+<p> ! Gott im Him̄el z Gruß. nebst Zeichen v. Him̄el in d,<lb break="yes"/>Son̄e, (Gotts Antlitz). Wolken Mondes sterne.<lb break="yes"/>Im Auftrage handelnt als ehemalger Kunstreitrkind u ge<lb break="no"/>borner Kaufbeurer stadtkind durch ½ Europa gekom̄en<lb break="yes"/>in d 50 Jahren Anfangs u Ende d 40er Prell in Gott haben<lb break="yes"/>als ehmalger Schalkners auch Charakterritter<lb break="yes"/>Ihnen
+                höflichst zu? ob sie d sp. kk. Reitspiele in<lb break="yes"/>Wien he d. auch aus s
+                Kaufbeuren geboren Schusters<lb break="yes"/>sohn sind, der er s Jugendjahren <seg ana="#pic">Bild von Sarg?</seg> todt gemaht u<lb break="yes"/>sogar 1832
+                geboren sein sollen oder Ges d jünger Bruder<lb break="yes"/>von ihrer Schwester d
+                Jahre - Hausnäherin ward bei<lb break="yes"/>uns <hi rendition="#i">Karlo</hi>
+<surname>S.</surname> Drechslermeister u 1000 Künstler sind<lb break="yes"/>sie
+                niht eimal in Rom gewesen &amp; hohe <unclear>gedestekinds</unclear><lb break="yes"/>u dan̄ später in <hi rendition="#i"><hi rendition="#u">Mexico</hi></hi> b Kaiser maximilian als soge<lb break="no"/>nan̄ter
+                Leibrath-Adjudant u meiste <hi rendition="#u">Miramar</hi> genan̄t.<lb break="yes"/>Grüßen sie mir alle m. Schau u Singspielgenossen, u<lb break="yes"/>auch Renz. Herr <surname>B.</surname> 1870-71 auch Streiter gewesen in<lb break="yes"/>Leibregiment. <hi rendition="#u">Bayrland</hi>.<lb break="yes"/>Graffschaft.<lb break="yes"/><hi rendition="#i">Irrsee</hi>
+<hi rendition="#r"><seg ana="#signed"><lb break="yes"/>d Ehre soviel Prophet<lb break="yes"/>Karlo
+                    <surname>S.</surname> d jüngere<lb break="yes"/>Wahr<hi rendition="#i">s</hi>ager u Prophet Streitr<lb break="yes"/>her Gottes ewiger Ehre!</seg></hi></p>
+<p><add>bitte 3x Lesen u nach Irrsee<lb break="yes"/>ob erhalten <unclear>?
+                        erorten</unclear></add></p>
+<pb facs="#image_011"/>
+<p>
+<hi rendition="#i">An <hi rendition="#u">Mister</hi>
+<hi rendition="#u">Franz</hi>
+<surname><hi rendition="#u">G.</hi></surname></hi>.<lb break="yes"/>Kunstreiter<lb break="yes"/>b <hi rendition="#i">H</hi>errn Buch.<lb break="yes"/>in <hi rendition="#i">Berlin</hi>. an d Spree.<lb break="yes"/>Königsland Preußen<lb break="yes"/><handShift/>5.X.98.</p>
+</body>
+</text>
+</TEI>

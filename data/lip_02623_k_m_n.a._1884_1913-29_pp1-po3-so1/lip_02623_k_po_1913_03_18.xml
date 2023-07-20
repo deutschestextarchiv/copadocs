@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip2623k04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>2623 (K. 190)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Felix <surname>K.</surname></persName>
+<date type="sent">18.03.1913</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>K.</surname></persName>
+<settlement type="sent">Münster i. W.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip2623k">
+<persName>
+<forename>Felix</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1884-08-27"/>
+<death cert="unknown"/>
+<occupation>n.a.</occupation>
+<residence><geo decls="#WGS">51.0806259 11.9305596</geo>Geburtsort: Ruchenka; Wohnort: Osterfeld</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1913-11-24" to="1929-12-12">24.11.1913-12.12.1929</date></p>
+<p>Brieftypen: pp, po, Lebenslauf</p>
+</state>
+<trait><p>Dementia praecox (1913)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="hand2"/>
+<handNote medium="crayon" scope="minor" scribe="hand3"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient schreibt, dass er in die Anstalt musste, weil er durch einen Schlag mit einer Hacke verletzt wurde und er jetzt entlassen werden möchte. Er möchte seiner Mutter helfen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip2623k04a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="lip2623k04b.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt. <hi rendition="#r">Münster
+                            i.W., den</hi></add><hi rendition="#r"> 18. März. <add hand="vordruck">191</add>3.</hi><lb break="yes"/></dateline>
+<salute>Herrn!<lb break="yes"/>Direktor <hi rendition="#u"><hi rendition="#i">Kleffner</hi>.</hi></salute>
+</opener>
+<p><add hand="hand2"><surname>K.</surname>
+<space/> <hi rendition="#r">A<hi rendition="#u">dacta</hi></hi><lb break="yes"/></add><hi rendition="#r"><add hand="hand2">U</add></hi><lb break="yes"/><add hand="hand3"><hi rendition="#r">28</hi></add><lb break="yes"/>An Verwaltung der
+                    Provinzial<lb break="no"/>anstal Marientahl<lb break="yes"/>zu
+                    <placeName>Münster</placeName>.<lb break="yes"/><placeName type="street">Kinder-häuserstr. 92</placeName>.<lb break="yes"/></p>
+<p>Ich teile Ihn, hier wie folgt<lb break="yes"/>Bin am 17. Juli 1912. von anstalt<lb break="yes"/>Grafenberg nach hier <w>über<lb break="no"/>wisen</w>, füle
+                mich jetzt gesund<lb break="yes"/>und wünsche zum April aus<lb break="yes"/>der
+                Kur entlassen zu werden.<lb break="yes"/>Die Krankheit habe durch einen<lb break="yes"/>Haken-schlag erlitten in der Grube<lb break="yes"/>nach der Arbeit
+                gehn.<lb break="yes"/>Da meine Mutter mit 10. Jährigen<lb break="yes"/>Bruder von
+                unterstüzungen<lb break="yes"/>lebt, Bitte ich mir meine, <pb facs="#image_011"/>Wünsche nicht verwerfen.<lb break="yes"/>Bergmann<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Felix <surname><hi rendition="#u">K.</hi></surname></seg></hi> aus<lb break="yes"/><hi rendition="#r"><placeName>Osterfeld</placeName></hi><lb break="yes"/>zur Zeit Patient hier<lb break="yes"/>in der Ans<hi rendition="#u">talt</hi><lb break="yes"/><hi rendition="#r">Achtungsvoll!</hi></p>
+</body>
+</text>
+</TEI>

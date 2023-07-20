@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb907b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>907</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>B.</surname></persName>
+<date type="sent">09.06.1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vorgesetzter?: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb907b">
+<persName>
+<forename>Johann</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1868"/>
+<death cert="unknown"/>
+<occupation>Ökonom</occupation>
+<residence><geo decls="#WGS">48.8196556 10.5167978</geo>Reimlingen, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bauern</p>
+<p>Anstalt: <date from="1897" to="1898">1897-98</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Imbecillität (1898), Geistesschwäche verbunden mit pathologischen Charaktereigentümlichkeiten (1897)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte wieder eine Arbeitsstelle antreten, betont dazu seine Zuverlässigkeit
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb907b02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb907b02b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#i"><space/>Irsse d. 19. Junie
+                    1898</hi></dateline>
+</opener>
+<p> Ich habe an Sie die bitte gehabt, mich<lb break="yes"/>wieder an einen Dienst zubegeben.
+                    Aber<lb break="yes"/>nicht so herum zu treiben als wie ein<lb break="yes"/>Landstreicher sondern einen verlässiegen<lb break="yes"/>Dienst anzutretten konte.
+                So hoffe<lb break="yes"/>ich stäts auf baltiegste Nachricht<lb break="yes"/>geben
+				    werde. Ob hier keine <seg ana="#med">Geistes<lb break="no"/>störung</seg> u. keine <seg ana="#med">Geisteskrankheit</seg>
+                    vorhanden<lb break="yes"/>war u mich nicht in den schönsten<lb break="yes"/>Jahre ohne Arbeit mich begeben. Von<lb break="yes"/>7. bis 23. Jahre verlässieg u
+                    anvertrauten<lb break="yes"/>Fuhrwerk sehr bewandert <unclear>in
+                    einen</unclear><lb break="yes"/><unclear>? den höchst</unclear> begirderten. Aber nachher<lb break="yes"/>in
+                Zeitlang in Nördlingen Kpttr. u von<pb facs="#image_006"/>Dinkelsbühl ein Zeugnies
+                durch Ehr<lb break="no"/>lichkeit, flüsig treu erworben habe<lb break="yes"/>u.
+                vorliegt. So schlüsse ich mit den<lb break="yes"/>Worten stäts zu hoffen auf
+                    zurückgabe<lb break="yes"/>zur erwartung eines Zeugnies u. d. notieg<lb break="yes"/>Geld zum betarf mich als <del>B</del> Postknecht<lb break="yes"/>in den <w>Ober Postamt</w> Augsburg in<lb break="yes"/>einer <w>Privat Pahn</w> über ereichten
+                    Post<lb break="yes"/>wo auch Kaution gestellt werden kan<lb break="yes"/>von
+                600 bis 1000 M. Zur ergebung<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Durch aufrichtiegkeit</seg><lb break="yes"/><seg ana="#signed">J.
+                        <surname>B.</surname></seg> Bezirksamt<lb break="yes"/>von<lb break="yes"/>Reimlingen. Nördlingen</hi></p>
+</body>
+</text>
+</TEI>

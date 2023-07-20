@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb775v05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>775</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>V.</surname></persName>
+<date type="sent">02.08.1871</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Barbara <surname>V.</surname></persName>
+<settlement type="sent">Irree</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb775v">
+<persName>
+<forename>Johann</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1830"/>
+<death cert="unknown"/>
+<occupation>Schneidermeister</occupation>
+<residence><geo decls="#WGS">47.8052615 10.2136981</geo>Altusried, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1871" to="1872">1871-1872</date></p>
+<p>Brieftypen: pp, po, Schuldbekenntnis, Gebete</p>
+</state>
+<trait><p>Depression, Wahnvorstellungen, Tobsucht (1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    versichert seiner Frau, dass er zu ihr kommen könnte, wenn Gott es wollte; Schuld an seinem Zustand sind erselbst und sein Geschlecht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb775v05a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb775v05b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 2 August 1871.</hi></dateline>
+<salute><hi rendition="#c">Verlassenes Weib!</hi></salute>
+</opener>
+<p> Ich mache Dir zu wüssen das ich zu<del>r</del>
+<add>Dir</add> kom̄en<lb break="yes"/>kön̄te wen es dem Herrn
+                gefällig wäre<lb break="yes"/>aber es Städt jetz in des Herrn Hand.<lb break="yes"/>Das ich von Dir bin Schandfoll das<lb break="yes"/>ist schlächt von mihr, aber
+				    es ist gerade<lb break="yes"/>ob das <surname>V.</surname>ische geschälch kein Glück<lb break="yes"/>ertragen kön̄e den dieses habe ich schon<lb break="yes"/>in meinem Läben genug erfaren<lb break="yes"/>ich dete am ersten eine Sankjon<lb break="yes"/>wünschen für die Kinder den<lb break="yes"/>ob ich noch eine
+                erbitte oder nicht<lb break="yes"/>das waiß ich nicht.</p> <p>Wen Du was
+                thun wielst so verlange<lb break="yes"/>mich zur verantwordung und mache<lb break="yes"/>für dich nicht so fiel unkosten, den ich<lb break="yes"/>kan
+                nicht anderes die schuld gäben<lb break="yes"/>als mihr selber und dem
+				    <surname>V.</surname>rischen<lb break="yes"/>geschlächt. <seg ana="#salute">mit Gruß von dem<lb break="yes"/><hi rendition="#c">schandfolem Man̄</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">J. Baptist <surname>V.</surname></seg>.</hi>
+<pb facs="#image_010"/>
+<hi rendition="#c"><hi rendition="#u">An</hi></hi><lb break="yes"/>Die Verlasene
+                Barbara <surname>V.</surname><lb break="yes"/>Wohnhaft beim Engelbäck<lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#r">der Altstadt</hi><lb break="yes"/><hi rendition="#r">Kempten.</hi></p>
+</body>
+</text>
+</TEI>

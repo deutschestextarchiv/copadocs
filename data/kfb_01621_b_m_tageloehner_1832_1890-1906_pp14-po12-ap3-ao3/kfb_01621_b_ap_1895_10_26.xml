@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1621b05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1621</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Josepha <surname>B.</surname></persName>
+<date type="sent">26.10.1895</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Martin <surname>B.</surname></persName>
+<settlement type="sent">Krumbach</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1621b">
+<persName>
+<forename>Martin</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1832"/>
+<death when="1906"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.2433959 10.3634009</geo>Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater Schneider, Mutter Hausiererin</p>
+<p>Anstalt: <date from="1890" to="1906">1890-1906</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Secundäre Seelenstörung (1894), [Alkoholismus], Halluzination (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="ink" scope="minor" scribe="arzt1"/>
+<handNote medium="crayon" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schwester erzählt, dass sie ihn abholen würde, seine Frau ihn aber angeblich nicht möchte
+                    Arzt antwortet, dass dem Patienten nur ausgerichtet wurde, seine Schwester würde ihn aufnehmen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1621b05a.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb1621b05b.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb1621b05c.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><add hand="arzt1">rsp. 28 X 95<lb break="yes"/>dJ</add>
+<hi rendition="#r">Krumbach den 26ten Oktr</hi><lb break="yes"/><add hand="arzt2">Akt <surname>B.</surname></add></dateline>
+<salute><hi rendition="#c">Lieber Bruder Martin!</hi><lb break="yes"/></salute>
+</opener>
+<p> Ich habe heute erfaren dasdein<lb break="yes"/>Weib dich abholen dürft! Aber<lb break="yes"/>sie wolle dich nicht. kanst dir<lb break="yes"/>denken das dieses
+                mir keine<lb break="yes"/>ruhe läßt, u. schreib dir deßhalb.<lb break="yes"/>Wen
+                es so ist, so <hi rendition="#u">bitte Deine</hi><lb break="yes"/>Vorgesetzte
+                oder Artzt das man<lb break="yes"/>dich alleinig gehen läßt. Ich würde 
+            <pb facs="#image_016"/>
+            dich gern selber abhollen aber<lb break="yes"/>denke an mein Fußleiden u. auch<lb break="yes"/>schon 70 Jahre alt, da ist nicht gut<lb break="yes"/>Reisen. Wen
+                es war ist das du<lb break="yes"/>gehen darfst, u. dein Weib<lb break="yes"/>dich
+                nicht wiel, dan bleibst hald bei<lb break="yes"/>mir sollte es am Reise Geld<lb break="yes"/>fehlen dan schreib mir ich schicke<lb break="yes"/>es dir gern
+                also wen du komst<lb break="yes"/>bist bei mir aufgenomen wen<lb break="yes"/>nicht so bitte schreibe mir<lb break="yes"/>das ich doch weis wie oder 
+            <pb facs="#image_017"/>
+             was<lb break="yes"/><hi rendition="#c"> <seg ana="#salute">Lebe unterdessen<lb break="yes"/>wohl u. gesund es grüßt<lb break="yes"/>dich deine Schwester</seg> <seg ana="#signed">Johefa</seg><lb break="yes"/><surname>B.</surname></hi><lb break="yes"/><handShift medium="ink" scribe="arzt"/><lb break="yes"/>Vorstehendes wurde dem<lb break="yes"/><surname>B.</surname> nicht
+                        eingehändigt,<lb break="yes"/>sondern ihm nur gesagt,<lb break="yes"/>daß
+                    die Schwester bereit<lb break="yes"/>wäre, sich seiner anzu<lb break="no"/>nehmen. Unsererseits<lb break="yes"/>erhielt dieselbe die Erklärung,<lb break="yes"/>daß eine Entlassung ihres<lb break="yes"/>Bruders <hi rendition="#u">nur mit Zustimmung<lb break="yes"/>seiner Frau</hi> u.
+                        Genehmigung<lb break="yes"/>des Bez. Amtes erfolgen könne<lb break="yes"/>D Julius
+            </p>
+</body>
+</text>
+</TEI>

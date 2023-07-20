@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">30.09.1924</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1917" to="1931">1917-31</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    leidet sehr, kann nicht schlafen, gehört nicht auf diese Welt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a05a.jpg" xml:id="image_044"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_044"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#u">Sehr geehrter Herr Ober-Medizinalrat!</hi></hi></salute>
+</opener>
+<p>Das <hi rendition="#u" style="arzt">verfluchte teuflische innere Leben kann ich
+                    nicht mehr aushalten. Jed</hi>en<lb break="yes"/><hi rendition="#u" style="arzt">Tag wird die Gebetsunruhe immer ärger. Ich kann ohne verfluchte
+                    Gedanken</hi> gar<lb break="yes"/><hi rendition="#u" style="arzt">nichts mehr
+                    lesen &amp;. auch keine Bilder mehr anschauen.</hi> Ich muß so arg leiden, und<lb break="yes"/>meine Herrn Ärzte &amp;. sonstige Herrn Vorgesetzten, können es
+                leider nicht verstehen<lb break="yes"/>&amp;. die meisten Herren wollen es nicht
+                glauben, daß ich innerlich so zu leiden habe.<lb break="yes"/>Drum gehör ich nicht
+                auf diese Welt. Weil mir nicht geholfen werden kann, mu<unclear>ß</unclear><lb break="yes"/>ich mir selbst helfen, daß ich bald sterbe. Hier ist es mir zu
+                langweilig, bei Tags<lb break="yes"/>Nachts. Kann mit samten Schlaftrunk sehr
+                schlecht schlafen. Tun Sie mich wenigst<unclear>ens</unclear><lb break="yes"/>Tags über auf 63 hinüber, wo ich Unterhaltung hab.<lb break="yes"/><hi rendition="#c"><hi rendition="#u"><seg ana="#salute">Es grüßt Sie
+                            höflichst</seg>
+<hi rendition="#i"><seg ana="#signed">Hans
+                            <surname>A.</surname></seg></hi></hi></hi></p>
+<p><add place="margin">Auf dieser Welt bin <unclear>ich</unclear><lb break="yes"/>betrogen, drum gehöre <unclear>ich</unclear><lb break="yes"/>nicht hierher auf die W<unclear>elt</unclear> </add></p>
+<p><add hand="arzt">30.9.7 Sept 24</add>
+</p>
+</body>
+</text>
+</TEI>

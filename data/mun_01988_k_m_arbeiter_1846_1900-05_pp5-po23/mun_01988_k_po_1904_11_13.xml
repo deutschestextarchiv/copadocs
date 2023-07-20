@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun1988k17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>1988 (K. 170)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>K.</surname></persName>
+<date type="sent">13.11.1904</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Amtsgerichtsrat: n.a. <surname>F.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun1988k">
+<persName>
+<forename>Heinrich</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1846-10-13"/>
+<death cert="unknown"/>
+<occupation>Arbeiter</occupation>
+<residence><geo decls="#WGS">51.920586 7.727183</geo>Geburtsort: Wolbeck; Wohnort: Wolbeck</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Weber, Mutter: Arbeiterin</p>
+<p>Anstalt: <date from="1900-06-28" to="1905-05-05">28.06.1900-05.05.1905</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber beklagt sich, dass er zu Unrecht in der Anstalt untergebracht ist, unter einem Vorwand dorthin gebracht wurde und sein Vermögen darunter leidet.
+                    Er konnte seine Mutter besuchen.
+                    Er möchte entlassen werden und mit seiner Mutter einen eigenen Haushalt führen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun1988k17a.jpg" xml:id="image_043"/>
+<graphic mimeType="image/jpg" url="mun1988k17b.jpg" xml:id="image_044"/>
+<graphic mimeType="image/jpg" url="mun1988k17c.jpg" xml:id="image_045"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_043"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt <hi rendition="#r">Münster
+                            i. W., den</hi></add><hi rendition="#r"> 13<hi rendition="#i">ten
+                            November </hi><add hand="vordruck">190</add>4</hi></dateline>
+<salute><space/> <hi rendition="#i">Hochgeehrter Herr Amts=Gerichts=Rat</hi>!</salute>
+</opener>
+<p><add hand="hand3">G 14/<hi rendition="#sub">ii</hi> 04 <hi rendition="#u" style="hand4">ad acta He</hi>inrich <surname><hi rendition="#i">K.</hi></surname><lb break="yes"/><hi rendition="#c">G </hi></add></p>
+<p><hi rendition="#i">Ich fin</hi><del><unclear><hi rendition="#i">f</hi></unclear></del><hi rendition="#i">de veranlasst Mich, Ihnen zu schreiben,
+                    weil Ich </hi><lb break="yes"/><hi rendition="#i">dreimal geschrieben, und keine
+                    Antwort erhalten habe. Ich </hi><lb break="yes"/><hi rendition="#i">bin seit dem
+                    28ten Juni 1900 hier in der Heil=Anstalt Marien</hi><lb break="no"/><hi rendition="#i">thal also im fünften Jahre. Mir hat doch Nichts gefehlt, </hi><lb break="yes"/><hi rendition="#i">das war blos die Einfälle eines Amtmannes und
+                    eines pracktischen </hi><lb break="yes"/><hi rendition="#i">Arztes, die redeten
+                    Mir zu, Ich sollte nach einem Justiz=Rat fahren, </hi><lb break="yes"/><hi rendition="#i">es sollten die Vermögens=Verhältnisse auf Mich übergetragen
+                    </hi><lb break="yes"/><hi rendition="#i">werden, weil Meine Mutter alt wäre, und
+                    da fahren Sie Mich </hi><lb break="yes"/><hi rendition="#i">in der Heil=Anstalt.
+                    Meine Vermögens=Verhältnisse leiden </hi><lb break="yes"/><hi rendition="#i">sehr
+                    dadurch, denn Ich mus hier für Mich, und zu </hi><placeName><hi rendition="#i">Wolbeck</hi></placeName><hi rendition="#i"> für </hi><lb break="yes"/><hi rendition="#i">Meine Mutter im Krankenhause bezahlen, das mus notwendig </hi><lb break="yes"/><hi rendition="#i">geändert werden, wenn Nicht, so wende Ich Mich
+                    unverzüglich </hi><lb break="yes"/><hi rendition="#i">an Seiner Majestat des
+                    Kaisers selbst, denn Ich bin immer bei </hi><lb break="yes"/><hi rendition="#i">Meiner Mutter gewesen, und habe gearbeitet und gesorgt, wie </hi><lb break="yes"/><hi rendition="#i">es Einem Kinde zukommt, auch habe Ich immer meine
+                    Steuern</hi>
+<pb facs="#image_044"/><hi rendition="#i">bezahlt, und bin Nie bestraft worden. Meine
+                    Mutter habe Ich </hi><lb break="yes"/><hi rendition="#i">am
+                            </hi><del><unclear><hi rendition="#i">2</hi></unclear></del><hi rendition="#i"> 1ten Oktober dieses Jahres besucht, das hatte Mir der Herr
+                    </hi><lb break="yes"/><hi rendition="#i">Geheim=Rat erlaubt, Meine Mutter
+                        </hi><del><hi rendition="#i">z</hi></del><hi rendition="#i"> sagte zu Mir,
+                    wenn </hi><lb break="yes"/><hi rendition="#i">Sie es im Voraus gewust hätte, so
+                    wäre sie nicht im Kranken</hi><lb break="no"/><hi rendition="#i">Haus gegangen,
+                    sondern in Unser Haus geblieben, das that </hi><lb break="yes"/><hi rendition="#i">Mir sehr leid, nun bin gesonnen Ich, selbst unsere Eigene
+                    Haus</hi><lb break="no"/><hi rendition="#i">haltung wieder anzufangen. Nun möchte
+                    Ich Ihnen freundlich </hi><lb break="yes"/><hi rendition="#i">bitten, Mir zu
+                    helfen, das Ich hier aus der Heil=Anstalt </hi><lb break="yes"/><hi rendition="#i">heraus komme, es gefällt Mir hier den gezwungenen Dienst </hi><lb break="yes"/><hi rendition="#i">und Nichts zu verdienen auch Nicht mehr, denn Ich
+                    kann </hi><lb break="yes"/><hi rendition="#i">Gott Dank noch gut arbeiten.
+                    </hi><seg ana="#salute"><hi rendition="#i">Nun zum Schlus, wünsche </hi><lb break="yes"/><hi rendition="#i">Ich Ihnen, wie auch ihrer werten Familie
+                        Gesundheit, Zu</hi><lb break="no"/><hi rendition="#i">friendeheit und ein
+                        langes Leben. Auf baldige Antwort hofft </hi><lb break="yes"/><hi rendition="#i">Ihr ergenster Diener</hi></seg><hi rendition="#i"> </hi><seg ana="#signed"><hi rendition="#i">Heinrich </hi><surname><hi rendition="#i">K.</hi></surname></seg><hi rendition="#i">. </hi><lb break="yes"/><hi rendition="#i">Adresse) An den Herrn Amts=Gerichts=Rat </hi><surname><hi rendition="#i">F.</hi></surname><hi rendition="#i">. </hi><lb break="yes"/><placeName><hi rendition="#i">Münster</hi></placeName><hi rendition="#i">.
+                    Neues Gerichts=Gebäude. Zimmer 39 am </hi><lb break="yes"/><placeName type="street"><hi rendition="#i">Neuen Platz</hi></placeName><hi rendition="#i">
+                    Ich bitte freundlich den Brief abzuben. </hi></p>
+<pb facs="#image_045"/>
+<p><seg ana="#pic">[Gebäude Marienthal]</seg><lb break="yes"/><hi rendition="#c"><hi rendition="#i">(Kapelle)</hi></hi><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">(Für die Männer)
+                    </hi><hi rendition="#r"><hi rendition="#i">(Für die Frauen)</hi></hi><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Die
+                            </hi><w><hi rendition="#i">SüdenSeite</hi></w><w><hi rendition="#i">von</hi></w><hi rendition="#i"> dem Haupt=Gebäude auf Marienthal bei
+                        Münster</hi></hi></p>
+</body>
+</text>
+</TEI>

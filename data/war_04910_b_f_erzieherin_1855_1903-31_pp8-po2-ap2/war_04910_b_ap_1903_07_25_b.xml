@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="war4910b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 660: Warstein</collection>
+<idno>4910 (K. xx)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Walter <surname>K.</surname></persName>
+<date type="sent">25.07.1903</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tante: Anna <surname>B.</surname></persName>
+<settlement type="sent">Dortmund</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="war4910b">
+<persName>
+<forename>Anna</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1855-04-07"/>
+<death cert="unknown"/>
+<occupation>Erzieherin</occupation>
+<residence><geo decls="#WGS">52.0191005 8.531007</geo>Geburtsort: n.a.; Wohnort: Bielefeld</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Buchhändler, Mutter: ohne Beruf</p>
+<p>Anstalt: <date from="1903-03-14" to="1931">14.03.1903-1931</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>einfache Seelenstörung (1903)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="nichte"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Neffe gratuliert seiner Tante zum Namenstag.
+                    Er berichtet, dass er bald ein Rad bekommt. Er wünscht sich ein Aquarium. Er erzählt vom Teich.
+                    Die Patienten antwortet auf den Brief. Sie bedankt sich für die Glückwünsche und empfiehlt eine Schifffahrt als Alternative zum Rad.
+                    Sie berichtet, dass sie ein schwaches Auge hat und ihr ein Zahn ausgeschlagen wurde.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="war4910b02a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="war4910b02b.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r"><add hand="vordruck">Dortmund, den</add> 25. Juli
+                        1903<lb break="yes"/><add hand="vordruck"><placeName type="street">Gutenbergstrasse</placeName> 37 <hi rendition="#sup">I.</hi></add>
+</hi></dateline>
+<salute>Liebe Tante Anna</salute>
+</opener>
+<p><add hand="vordruck">Betrifft:</add> den Namenstag.<lb break="yes"/>ich
+                    gratulie<lb break="no"/>re Dier Zu deinem Namenstage.<lb break="yes"/>Wie geht
+                es Dir, uns allen gut.<lb break="yes"/>Ich bekomme wenn die Herbstferien anfangen<lb break="yes"/>vileicht ein Rad, dann machen Vater und Ich große<lb break="yes"/>Turen. Ich freue mich schon sehr darauf; dann<lb break="yes"/>kommen Wir auch mal zu euch. Mieze und Ich durf<lb break="no"/>ten wählen, ein Rad
+                oder <del>N</del><add place="above">n</add>ach Wiekhausen, Ich ent<lb break="no"/>schloß mich sofort für ein Rad, Mieze hat sich noch nicht entschos<lb break="no"/>sen. Mutter radelt nicht mit. Ich feiere auch bald Namenstag<lb break="yes"/>am
+                Dienstag <add place="above">den 18</add> feiere Ich, am <add hand="patientin"><add place="top">Bitte besucht mich doch am Dinstag oder Mittwoch<lb break="yes"/>Sonntag sind hier keine Besuche erlaubt<lb break="yes"/>Einliegend ein
+                            <hi rendition="#i">Eichel</hi> batt aus <hi rendition="#u"><hi rendition="#i">Maria-Hilf</hi></hi></add></add>
+<pb facs="#image_005"/>16 Juli hatten wier es Vergessen. Ich wünsche mi<del>h</del>r
+                sehr<lb break="yes"/>ein Aquarium. Wi<del>e</del>r haben jetzt 43 Goldfische im
+                Garten<lb break="yes"/>im Teiche und Ich habe neulich ein Blindscheiche gefangen<lb break="yes"/>die sitzt jetzt im Garten in den Grottensteinen am Teiche;<lb break="yes"/>und Ich habe 110 Molche und Salamander gefangen. Hier<lb break="yes"/>ist das Wetter ziemlich warm.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">1000000000 Grüße und Küsse sendet<lb break="yes"/>dier
+                        dein<lb break="yes"/>hochachtungsvoll</seg><lb break="yes"/><add hand="patient">Lieber</add>
+<seg ana="#signed">Walter <surname>K.</surname></seg></hi></p>
+<p><add hand="patient"><hi rendition="#r">Ich danke Dihr für</hi><lb break="yes"/>Deine guten Wünsche nim̄ das Geld für<lb break="yes"/>das Rad u Schiffe Dich stadt dessen mit Vater<lb break="yes"/>Mutter u <hi rendition="#i">Maria</hi> auf die <hi rendition="#i">Cassel</hi> ein u<lb break="yes"/>besucht Tante <hi rendition="#i">Amalee</hi> u Onkel <hi rendition="#i">Peter</hi> da<lb break="yes"/>hast du das beste Aquarium
+                    welches du<lb break="yes"/>Dir wünschen kan̄st &amp; schau Dier die
+                        Ma<lb break="no"/>schine u. den <seg ana="#pic">[Anker]</seg> am aber nie ohne Erlaubniß<lb break="yes"/>deines Vaters oder
+                    des <hi rendition="#i">Capitains</hi> dann<lb break="yes"/>habt Ihr Alle eine
+                    gesunde u nützliche<lb break="yes"/>Ferienreise nimm Dir eine
+                    verschließbare</add></p>
+<p><add hand="patient">Ich habe ein<lb break="yes"/>schwaches Auge<lb break="yes"/>eine <hi rendition="#i">Person</hi> hat mir hier<lb break="yes"/>einen Zahn
+                        <w>aus geschlagen</w> Blech kamen mit im<lb break="yes"/>ich habe dann
+                </add></p> <p><add hand="patient">kannst Du für Deinen Fischteich sam̄eln<lb break="yes"/><del><unclear>oder</unclear></del>was dir gefallt aber für dein Geld
+                        unver<lb break="no"/>meide <hi rendition="#i">Händel</hi>. Nim̄ deine
+                    Geige mit wen̄<lb break="yes"/>Vater es Dir erlaubt. Grüße die Eltern
+                    recht<lb break="yes"/>herzlich von mir u <seg ana="#pic">[Rechteck, drei
+                        Kreise]</seg> Grüße u Küße in alter<lb break="yes"/><hi rendition="#r">Liebe
+                        von deine Tante Anna</hi></add>
+</p>
+</body>
+</text>
+</TEI>

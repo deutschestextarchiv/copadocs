@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2012b11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2012 (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>B.</surname></persName>
+<date type="sent">16.08.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freundin: Mina <surname>M.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun2012b">
+<persName>
+<forename>Franz</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1882-04-22"/>
+<death cert="unknown"/>
+<occupation>Schmied</occupation>
+<residence><geo decls="#WGS">51.8260823 8.1453352</geo>Geburtsort: Oelde; Wohnort: Oelde</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Schmiedemeister, Mutter: n.a.</p>
+<p>Anstalt: <date from="1906-07-16" to="1907-02-10">16.07.1906-10.02.1907</date></p>
+<p>Brieftypen: pp, po, ao, oa</p>
+</state>
+<trait><p>Geisteskrankheit (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+<handNote medium="crayon" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber hofft, dass es der Adressatin gut geht.
+                    Er berichtet von seinen momentanen und geplanten Arbeiten.
+                    Er möchte mit der Adressatin spazieren gehen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2012b11a.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="mun2012b11b.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_026"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Münster</hi> den 16. <hi rendition="#i">Augu</hi> 1906</hi></dateline>
+<salute>Liebes Kind</salute>
+</opener>
+<p><add hand="hand3"><hi rendition="#u" style="hand4">ad acta</hi> <surname><hi rendition="#i">B.</hi></surname><lb break="yes"/><space/> G </add></p>
+<p><space/> An Fraulein <hi rendition="#i">Mina </hi><surname><hi rendition="#i">M.</hi></surname><lb break="yes"/><unclear>p</unclear>
+<hi rendition="#i">Ad</hi>. Herrn <hi rendition="#i">Jos</hi>
+<surname>W.</surname> Maschinenhandlung<lb break="yes"/><space/>
+<hi rendition="#i">Oelde</hi>
+<placeName type="street">Herrenstraß<hi rendition="#i">e</hi></placeName></p>
+<p>sende dir aus der<lb break="yes"/>Ferne ein herliches wilkomen,<lb break="yes"/>in
+                der sicheren meinung das es<lb break="yes"/>dir noch recht gut geht. Allerdings<lb break="yes"/>gehts mir auch noch recht gut, ich<lb break="yes"/>lebe ganz ohne
+                Sorgen, und<lb break="yes"/>haben Täglich ein <unclear>parr</unclear> Stunde<lb break="yes"/>Arbeit. Vier machen Täglich enige<lb break="yes"/>Tausend Tüten,
+                das ist leihte und<lb break="yes"/>reine Arbeit, Wenn ich wieder kom,<lb break="yes"/>will ichs dier lernnen dann kans<lb break="yes"/>mir helfen, und
+                wier können<lb break="yes"/>die Zeit verlessen, Kannst ja mahl<lb break="yes"/>an
+                einen Sonntag mit mihr<lb break="yes"/>spazieren gehn, das ich dich weider<lb break="yes"/>kennen lerne, So wie es scheint<lb break="yes"/>bis du sehr
+                zufrieden mit dir selbst<lb break="yes"/>und ich überlasse dir dene Zufriedech<lb break="yes"/>in jeder hinsicht wie es dir <w>angen<lb break="no"/>ehm</w> ist.
+                Ich will mal erst ma<lb break="yes"/>Arbeiten anfertigen und an <pb facs="#image_027"/>mein Gebäude herstellen, und mit<lb break="yes"/>dem
+                Geschäfe <del>a</del>beginnen, dann wird<lb break="yes"/>sich das andere wohl
+                finden.<lb break="yes"/>Grüß an deine Schwester <hi rendition="#i">Katharina</hi><lb break="yes"/><seg ana="#salute">Besonders an deine dich l <hi rendition="#i">Mina</hi><lb break="yes"/><hi rendition="#c">Auf ein baldiges<lb break="yes"/>Wiedersehn. </hi></seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">von<lb break="yes"/>Franz <surname><hi rendition="#i">B.</hi></surname></seg><lb break="yes"/>Schmiedeargitekt<lb break="yes"/><hi rendition="#i">Oelde</hi></hi>
+</p>
+<p><seg ana="#pic">[Gitterzaun]</seg><lb break="yes"/>1,50<lb break="yes"/><hi rendition="#c">1,10</hi><lb break="yes"/><hi rendition="#r">1,50</hi><lb break="yes"/><seg ana="#pic">[Tor]</seg><lb break="yes"/><handShift medium="pencil" scribe="patient"/><hi rendition="#r">Ausführung in allen <unclear/><lb break="yes"/>nach lebente erscheinung<lb break="yes"/><hi rendition="#u">auf Wunsch</hi>
+<unclear>H</unclear></hi>
+</p>
+</body>
+</text>
+</TEI>

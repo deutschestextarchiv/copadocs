@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1432s02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1432</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: C. <surname>S.</surname></persName>
+<date type="sent">03.06.1880</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Pfaffenhofen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1432s">
+<persName>
+<forename>Theodor</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1855"/>
+<death cert="unknown"/>
+<occupation>Cand. Philologie in Erlangen</occupation>
+<residence><geo decls="#WGS">48.774956 10.5767002</geo>Mönchsdeggingen, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Doktor</p>
+<p>Anstalt: <date from="1875" to="1875">1875</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Moralischer Irrsinn</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt1"/>
+<handNote medium="ink" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet den Direktor ein Zeugnis über den zurückliegenden Aufenthalt in der Heilanstalt 
+                    auszustellen, damit ihr Sohn nicht zum Militär muss. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1432s02.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r">Pfaffenhofen a/<hi rendition="#sub">Ilm</hi> 3. Iuni
+                        1880<lb break="yes"/><add hand="arzt1"><hi rendition="#i"><foreign xml:lang="lat">pr eodem</foreign>.</hi></add></hi></dateline>
+<salute>Hochgeehrtester Herr Direktor!<lb break="yes"/><add hand="arzt2">Ausgetreten 136<hi rendition="#u">4</hi></add></salute>
+</opener>
+<p>Theodor, welcher zur Zeit in Augsburg ist,<lb break="yes"/>hat behufs seiner Anmeldung <del>welche
+                    schl</del><lb break="yes"/>zum Militär, welche schleunigst geschehen<lb break="yes"/>muß,
+                auch ein Zeugniß nöthig daß er sich<lb break="yes"/>in Irrsee zur Heilung befand. </p><p>Man sollte wohl annehmen, daß er schon<lb break="yes"/>wegen seines Herzleidens, schlecht
+                geheilten<lb break="yes"/>Fußes ohnedem frei wird, aber zu allem<lb break="yes"/>Ueberfluß müssen wir doch auch für<lb break="yes"/>den Nothfall das Zeugniß
+                bereit haben,<lb break="yes"/>daß Theodor se<del>l</del>elenkrank war, was er<lb break="yes"/>leider heutigen Tages zu Zeiten noch ist<lb break="yes"/>nemlich sehr verschloßen u. düster.</p><p>Ich ersuche Sie deshalb ein solches zu<lb break="yes"/>fertigen u. <hi rendition="#u">uns
+                    umgehend</hi> zu senden<lb break="yes"/>da es Montag
+                    <w>vorgelegt</w><w>werden</w> muß,<lb break="yes"/><space/>
+<seg ana="#salute">Unter den beßten Grüßen
+                            <unclear>ver</unclear><del><unclear>zeichnet</unclear></del>Doktor<lb break="yes"/>beharrt in aller Verehrung<lb break="yes"/><hi rendition="#c">Euer Hochwohlgeboren </hi><lb break="yes"/><hi rendition="#r">ergebenste
+                            </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">C:
+                            <surname>S.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

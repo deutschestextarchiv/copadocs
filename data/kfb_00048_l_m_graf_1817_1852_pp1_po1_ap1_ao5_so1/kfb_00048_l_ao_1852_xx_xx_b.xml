@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb48l06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>48</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">J. von <surname>S.</surname></persName>
+<date type="sent">xx.xx.1852</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb48l">
+<persName>
+<forename>Maxim von</forename><surname>L.</surname>
+</persName>
+<birth when="1817"/>
+<death cert="unknown"/>
+<occupation>Graf von München</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1852" to="1852">1852</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="freund"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Stimmt der Einschätzung der Ärzte zu, dass der Patient einer Behandlung bedarf. 
+                    So gefährde er durch seine "aufgeregten Nerven" sowohl sich als auch andere (beispielsweise beim Fahren/Reiten).
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb48l06a.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="kfb48l06b.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_018"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Durch meinen lieben Freund Graf Max <hi rendition="#i">von</hi><lb break="yes"/><surname><hi rendition="#i">L.</hi></surname> selbst
+                aufgefordert, der<lb break="yes"/>Wahrheit gemäß zu erklären, ob er <w>irgend<lb break="no"/>etwas</w> gethan, was auf eine größere<lb break="yes"/>Aufregung der Nerven u Sympthome<lb break="yes"/>von Krankheit schließen laße,
+                halte ich es<lb break="yes"/>für meine Pflicht zu sagen, daß ich nach<lb break="yes"/>allem was ich zu beobachten Gelegen<lb break="no"/>heit hatte, dem
+                Ausspruche dreyer<lb break="yes"/>Aerzte leider nicht entgegentreten<lb break="yes"/>konnte, welche einstimmig erklärten,<lb break="yes"/>daß nur eine
+                längere ärztliche Be<lb break="no"/>handlung die im höchsten Grade <seg ana="#med">auf<lb break="no"/>geregten Nerven</seg> meines lieben <pb facs="#image_019"/><space/> Freundes herzustellen im Stande sey,<lb break="yes"/>und daß bey seiner Neigung zum Fahren<lb break="yes"/>und Reiten, sowohl sein als
+                das Leben<lb break="yes"/>anderer gefähtet seyn möge, wie es<lb break="yes"/>am
+                    8.<hi rendition="#sup">t</hi>
+<w>d</w><w>Mts</w> leider gewiß der Fall ge<lb break="no"/>wesen seyn möchte, wäre
+                es meiner Ueber<lb break="no"/>redung nicht gelungen ihm vom Selbst<lb break="no"/>kutschieren mit den<unclear> 4</unclear> zum <w>ersten</w><w>male</w><lb break="yes"/>eingespannten Pferden <w>ab zuhalten</w>.<lb break="yes"/>Ueberhaupt glaube ich bemerkt zu haben<lb break="yes"/>daß ihn das Fahren in
+                letzter Zeit<lb break="yes"/>immer im höchsten Grade aufregte,<lb break="yes"/>und
+                zwar der Art, daß ihn alle Beurtheilung<lb break="yes"/>von Zeit maas u Entfernug
+                gänzlich<lb break="yes"/>verließ und sich seine <hi rendition="#i">Ideen</hi> imer
+                mehr<lb break="yes"/>oder weniger verwirrten </p><p><hi rendition="#r"><seg ana="#signed"><w><unclear>J</unclear></w><w><hi rendition="#i"><hi rendition="#u">Freyherr</hi></hi></w><w><hi rendition="#i"><hi rendition="#u">v</hi></hi></w><surname><w><hi rendition="#i">S.</hi></w></surname></seg></hi></p>
+</body>
+</text>
+</TEI>

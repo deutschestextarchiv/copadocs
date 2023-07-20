@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1596w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1596</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>W.</surname></persName>
+<date type="sent">xx.xx.1880</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwalter: <surname>B.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1596w">
+<persName>
+<forename>Johann</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1833"/>
+<death cert="unknown"/>
+<occupation>Fabrikarbeiter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1878" to="1881">1878-81</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Gesichts- und Gehörshalluzinationen, Verfolgungsideen, verworrene Dementia mit unverkennbar maniakalischer Colorite (1878)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    schickt Neujahresgrüße; hat in der Anstalt viel gelernt (Spinnen und Haspeln)
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1596w04a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb1596w04b.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline>Kloster Kaufbeuen, Im Seminaar 1880:</dateline>
+<salute>An Herrn Herrn Wohlgegorn, Herrn<lb break="yes"/><surname>B.</surname> in Augsburg Verwalts</salute>
+</opener>
+<p>An derr Schwall Mühle Vor dem<lb break="yes"/>Jakober Thor Nächst dem Fischer in
+                Glaß<lb break="yes"/>Da Sie Wissen das ich Vor Ungefer<lb break="yes"/>Einod Ein
+                mits Siebzig bey Ichnen in Arbeit<lb break="yes"/>Gestanden bei. Uhm den Geringen
+                Lohn<lb break="yes"/>Zu 57. Kreuzer Das die Soldadten<lb break="yes"/>auch Einen
+                Lohn bekomen Der Herr <surname>K.</surname><lb break="yes"/>Und der Herr <surname>K.</surname>
+<hi rendition="#i">Johan</hi> War ja auch<lb break="yes"/>beim Regement. Ich Wünsche
+                Inen Ein<lb break="yes"/>Gesundes Neues Jahr Gesundheit und<lb break="yes"/>Langes
+                Leben Und der Zukünftigen Frau<lb break="yes"/>Ich habe jetzt in Kaufbeurn in der
+                Anstald<lb break="yes"/>Vieles Eingerichtet Wo Früer nicht War<lb break="yes"/>An
+                den Herren Stäpfeln War Ich ja auch<pb facs="#image_011"/><seg ana="#salute">Mit
+                    Gruß</seg>
+<seg ana="#signed">Ergebenst <hi rendition="#i">Johann<lb break="yes"/></hi>Evangelist <hi rendition="#i"><surname>W.</surname></hi></seg><lb break="yes"/>Grüssen Sie Mihr Recht Herzlich<lb break="yes"/>den
+                    <surname>G.</surname>
+<hi rendition="#i">Johan</hi>, Und Seine<lb break="yes"/>Frau Ich habe Vieles Neues<lb break="yes"/>Gelernd Ich kan Jetzt Haspeln<lb break="yes"/>Und Spinen beim
+                Haag<lb break="yes"/>Der Haßler und Derr Fuchs am<lb break="yes"/>Stadtbach ist
+                    <hi rendition="#i">Ja</hi> Fluch da von kekommen<lb break="yes"/>An dem
+                    Herrn <surname>T.</surname> Derr <surname>H.</surname><lb break="yes"/>Johan auch in der Hassen Gasse<lb break="yes"/>Auch Einen Gruß An
+                Meine Frau<lb break="yes"/>Schöpf in der Großen Fabrick<lb break="yes"/>Das
+                    <w>Strumpf Karn</w>, u den Zwirn<lb break="yes"/><hi rendition="#r">Beim
+                        <surname>Z.</surname> Gristian</hi></p>
+</body>
+</text>
+</TEI>

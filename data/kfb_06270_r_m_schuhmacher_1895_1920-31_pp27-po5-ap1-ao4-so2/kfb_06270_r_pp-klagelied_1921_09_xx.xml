@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb6270r07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Stephanie Kamm</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>6270</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>R.</surname></persName>
+<date type="sent">09.1921</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb6270r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1895"/>
+<death cert="unknown"/>
+<occupation>Schuhmacher</occupation>
+<residence><geo decls="#WGS">48.0048016 10.4324403</geo>Erisried, Mindelheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schuhmacher</p>
+<p>Anstalt: <date from="1920" to="1931">1920-31</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Schizophrenie (1934), vorl. Diagn. Dementia praecox (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Eine Art Klagelied (?)
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb6270r07a.jpg" xml:id="image_020"/>
+<graphic mimeType="image/jpg" url="kfb6270r07b.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_020"/>
+<opener>
+<dateline><hi rendition="#c">Dienshtag, <hi rendition="#i">den Sept. 21.</hi></hi></dateline>
+</opener>
+<p><hi rendition="#i"><hi rendition="#r">Vorschrieftsäßig</hi><lb break="yes"/>in der
+                    Nacht von meinem<lb break="yes"/>Hinscheiden, bitte Herr <surname>S.</surname> gehorsamst um den Vater;<lb break="yes"/>Liebste</hi> Frau <hi rendition="#i">Aen̄arte</hi>, in <hi rendition="#i">einer ver</hi><lb break="no"/><hi rendition="#i">rrücten</hi> Gemeinde ein
+                    zerrs<del>h</del>pren<lb break="no"/>gter Verein, in Geshäftssachen ver<lb break="no"/>wikelter wahl! <hi rendition="#i">Eine</hi> tüchtig kräftige<lb break="yes"/>Kuh geschirr am Markte in der <hi rendition="#i">Nähe</hi><lb break="yes"/>der <hi rendition="#i">Erwerbslosen</hi>fürrsorgest. gef.<lb break="yes"/>zum <hi rendition="#i">Werkzeug</hi> der Ärztdienenden<lb break="yes"/>undankbar bringender Geshäfte<lb break="yes"/>für Sam̄lung
+                her Obst korn<lb break="yes"/><hi rendition="#c">besten <hi rendition="#i">Dank Brotsam̄en</hi></hi></p>
+<pb facs="#image_021"/>
+<p><hi rendition="#c">Liebste!</hi><lb break="yes"/>Wir <hi rendition="#i">Armen
+                    Seelen haben<lb break="yes"/>viel zu leiden, doch kan̄ Er<lb break="no"/>leichterung für trostlose</hi> geben<lb break="yes"/><hi rendition="#i"><foreign xml:lang="lat">Corbus Domine Nostrie<lb break="yes"/>Custotiat</foreign>
+<space/> bezahlet<lb break="yes"/>Deine Buße Herr <unclear>Trier</unclear><lb break="yes"/>Durch mehrerlei Speisen erken̄e<lb break="yes"/>man den
+                    Hungerkrieg des Zornes<lb break="yes"/><unclear>Unterhorr</unclear> fluh schw. zus. gebandelt<lb break="yes"/>Notbringendes helfendes Elend!<lb break="yes"/>Ein feldzigler wird doch<lb break="yes"/>einen Strohsack verdient haben<lb break="yes"/>mit Zubehör, lb.
+                    Schwester <unclear>Lie<lb break="yes"/>werten</unclear> doch keine Leibwehr
+                        mehr<lb break="yes"/>bekom̄en, was mi ale da Man̄
+                sagen</hi></p>
+</body>
+</text>
+</TEI>

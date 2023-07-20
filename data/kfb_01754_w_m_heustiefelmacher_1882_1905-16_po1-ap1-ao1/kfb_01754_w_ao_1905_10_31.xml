@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1754w01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1754</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Lina <surname>W.</surname></persName>
+<date type="sent">31.10.1905</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor: n.a.</persName>
+<settlement type="sent">Kempten</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1754w">
+<persName>
+<forename>Georg</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1882"/>
+<death when="1916"/>
+<occupation>Heustiefelmacher</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Osterzell, Kaufbeuren, Wohnort: München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1905" to="1916">1905-1916</date></p>
+<p>Brieftypen: po, ap, ao</p>
+</state>
+<trait><p>Dementia praecox</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwester"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schwester des Patienten erkundigt sich, ob bei ihrem Bruder Aussicht auf baldige Entlassung besteht und ob sie ihm schreiben darf.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1754w01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1754w01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kempten, den</hi> 31.10.05.</hi></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr Dkt.!</hi></salute>
+</opener>
+<p><space/> Erlaube mir Sie mit<lb break="yes"/>der Anfrage, betreffs des<lb break="yes"/>Befindens meines Bruders,<lb break="yes"/>des Georg
+                    <surname>W.</surname> aus<lb break="yes"/>Osterzell, zu belästigen. Wäre<lb break="yes"/>Ihnen sehr dankbar wen̄ Sie<lb break="yes"/>mir sichern
+                Bescheid zukom̄en<lb break="yes"/>ließen, ob das Leiden desselben<lb break="yes"/>schlim̄ ist, oder ob Aussicht <pb facs="#image_002"/>auf
+                baldige Genesung vorhanden ist. Sollte er noch längere<lb break="yes"/>Zeit in der
+                Anstalt bleiben müssen, so muß ich meine Stelle<lb break="yes"/>verlassen u. zu
+                unserm Vater gehen, der ja auch leidend ist<lb break="yes"/>u. ich deßhalb
+                verpflichtet <add place="above">bin</add> ihn zu pflegen.</p>
+<p><w>Er suche</w> Sie höflichst mir in Bälde Antwort zukommen<lb break="yes"/>zu
+                lassen. Wenn ich noch eine Frage an Sie richten darf,<lb break="yes"/>so ist es
+                diese ob ich meinem Bruder selber schreiben darf.<lb break="yes"/><space/>
+<seg ana="#salute">Für Ihre Güte im Voraus dankend zeichnet in<lb break="yes"/><hi rendition="#r">aller Hochachtung</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Lina
+                                <surname>W.</surname></hi></seg><lb break="yes"/>Hasenbräu<lb break="yes"/>Kempten</hi></p>
+</body>
+</text>
+</TEI>

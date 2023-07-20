@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2132k08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2132</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>K.</surname></persName>
+<date type="sent">05.05.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2132k">
+<persName>
+<forename>Josef</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1870"/>
+<death when="1910"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">48.6147593 10.7211365</geo>Pfaffenhofen a. d. Zusam, Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1908" to="1910">1908-10</date></p>
+<p>Brieftypen: pp, ao, ap</p>
+</state>
+<trait><p>Pr[ogressive] Par[alyse]  (1909)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Sachen, die ihm zugeschickt werden sollen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2132k08a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb2132k08b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#c">Gaffbüren t 5 Mai 1<del>8</del>8.<lb break="yes"/><add hand="arzt"><hi rendition="#i">ad acta </hi><surname><hi rendition="#i">K.</hi></surname>
+<space/> 1908</add></hi></dateline>
+<salute><hi rendition="#c">Liber Eltern</hi></salute>
+</opener>
+<p>ih bite euh das mir einen<lb break="yes"/>Kaz und eine Pfehr 3 Zülöß<lb break="yes"/>und 5 Taba und Zucker<lb break="yes"/>und Kob und bei Stras<lb break="yes"/>3 M. er er komt wan<lb break="yes"/>naß kam. ud. Raden. Es<lb break="yes"/>grüßt euh Hep <surname>K.</surname><lb break="yes"/>den zum Notor den Schein<lb break="yes"/>ud Werfen ließ Oben.<lb break="yes"/>und Kamhat uch Geld<lb break="yes"/>hat in Müde auf Ged<lb break="yes"/>und Geiser und Creken<lb break="yes"/>holen Eis Grüts all mit
+                ander <pb facs="#image_012"/>Eine euch mit und Torheit<lb break="yes"/>Es ist der alle besonnen<lb break="yes"/>ihs werde baldt muhkomen<lb break="yes"/>noh bekomt ehr soch wenden<lb break="yes"/>Lobe voll
+                    <unclear>erh</unclear> verseh<lb break="yes"/>Mendlech ber F. 5 36 <unclear/>
+                Mak<lb break="yes"/>lebe <unclear>Hep Jarp</unclear>
+<surname>K.</surname><lb break="yes"/>P. M. </p>
+</body>
+</text>
+</TEI>

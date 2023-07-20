@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb77j08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>77</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehemann: Josef <surname>J.</surname></persName>
+<date type="sent">10.02.1850</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb77j">
+<persName>
+<forename>Maria Clara</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1792"/>
+<death cert="unknown"/>
+<occupation>Klaviersfabrikantfrau</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1850" to="1857">1850-1857</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Reizbarkeit, Agilitaet</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehemann"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Ehemann der Patientin meldet sich nach deren Entlassung bei der Anstalt, um vom guten Zustand seiner Frau zu berichten und um dem Direktor für seine Bemühungen zu danken.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb77j08a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München</hi> den 10<hi rendition="#sup">ten</hi>
+                    Fber.<lb break="yes"/>1850.</hi></dateline>
+<salute><hi rendition="#c">Hochgeehrtester Herr <hi rendition="#i">Director!</hi></hi></salute>
+</opener>
+<p><space/> Nachdem nun meine Frau bereits 20 Tage lang aus Jhrer Anstalt<lb break="yes"/>entlaßen ist finde ich es für <w>zeit gemäß</w> von Jhrer gütigen
+                Erlaubniß<lb break="yes"/>an Sie schreiben zu dürfen, Gebrauch zu machen.</p>
+<p>Der Zustand meiner frau war bisher durchaus befriedigend, es ist gar keine<lb break="yes"/>Aufregung mehr vorgekom̄en, u. auch körperlich ist sie
+                vollkom̄en gesund. </p>
+<p><space/>Es freut mich unendlich Jhnen diese erfreulige Nachricht geben zu<lb break="yes"/>können, denn ich weiß ja wie viel Jhnen an dem Wohlbbefinden<lb break="yes"/>Jhrer Patienten gelegen ist, und mit welchem Eifer, ja Aufopferung.<lb break="yes"/>Euer Wohlgeboren für die Herstellung, der bei Jhnen
+                Hülfesuchenden<lb break="yes"/>unermüdlich wirken. Jch wünsche von Herzen daß <hi rendition="#i">S</hi>ie in Jhrem<lb break="yes"/>schweren Beruf von dem Jhnen
+                untergebenen Personal, u. den übrigen<lb break="yes"/>Umständen recht kräftig
+                unterstützt werden möchten </p>
+<p><space/> Meine Frau u. ich werden Jhnen lebenslänglich dankbar sein.<lb break="yes"/>Wir beide danken noch besonders für die besondere Freundlichkeit die<lb break="yes"/>wir von Jhnen u. der hochverehrten Frau Direktorin zu genießen die
+                Ehre<lb break="yes"/>hatten.</p>
+<p><space/> Jch bitte <w>bei folgend</w> Paguet an Fräulein v. <surname>P.</surname>
+                gefälligst abgeben<lb break="yes"/>zu wollen, so wie beiligend <hi rendition="#i">Billet</hi> an <hi rendition="#i">Addriße</hi> gelangen zu laßen, u.<lb break="yes"/>meine Freiheit gütigst zu entschuldigen.</p>
+<p>Wir empfehlen uns Jhrer ferneren Güte u. Gewogenheit<lb break="yes"/>u. zeichnen mit
+                ausgezeigneter Hochachtung als<lb break="yes"/><hi rendition="#c">Euer
+                    Wohlgeboren</hi>
+<hi rendition="#r">dankbar ergebene<lb break="yes"/><seg ana="#signed"><hi rendition="#i"><unclear>Jg.</unclear> Jos.
+                        <surname>J.</surname></hi></seg><lb break="yes"/>und seine Gattinn<lb break="yes"/>Klara
+                        <surname>J.</surname>.</hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb607h07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>607</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Cousine: Lina <surname>R.</surname></persName>
+<date type="sent">27.08.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sara <surname>H.</surname></persName>
+<settlement type="sent">Lindau</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb607h">
+<persName>
+<forename>Sara</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1875"/>
+<occupation>Hafnermeisterstochter</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Hafnermeister</p>
+<p>Anstalt: <date from="1875" to="1875">1875</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>"Religiöser Wahnsinn, Fixe Ideen" (1875)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="cousine"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Berichtet der Patientin, dass sich alle (v.a. ihre Mutter) sehr um sie sorgen 
+                    und hoffen, dass sie bald abgeholt werden kann. 
+                    
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb607h07a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="kfb607h07b.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="kfb607h07c.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Lindau</hi> d. 27<hi rendition="#sup"><hi rendition="#u">sten</hi></hi>
+<hi rendition="#i">August</hi><lb break="yes"/>1857.</hi></dateline>
+<salute><hi rendition="#c">Meine liebe Cousine.</hi></salute>
+</opener>
+<p>Deine liebe Mutter ist sehr besorgt um Dich,<lb break="yes"/>so wie wir alle,
+                die wir Dich herzlich lieb haben.<lb break="yes"/>Die Reise u. der Abschied von Dir
+                haben Deine<lb break="yes"/>gute Mutter ziemlich angegriffen, wie Du Dir<lb break="yes"/>leicht denken kannst, da Du ihr Temperament<lb break="yes"/>kennst, aber einige Tage werden hinreichen<lb break="yes"/>um sie wieder
+                vollkommen zu stärken und dann<lb break="yes"/>ist sie ganz bereit wieder zu Dir zu
+                kommen;<lb break="yes"/>wenn Du es wünschest. Am <w>Erfreu lichsten</w> wäre<lb break="yes"/>es diese neue Reise könnte aufgeschoben wer<lb break="no"/>den, bis
+                Du Dich kräftig genug fühlst, daß deine<lb break="yes"/>liebe Mutter Dich abhohlen
+                kann mit Hl <hi rendition="#i">Director</hi>'s<lb break="yes"/>Erlaubniß<del>;</del>. <del>w</del>Wie würden wir uns alle freuen<lb break="yes"/>Dich <w>wieder zu sehen</w>. Du weißt daß das Wort<lb break="yes"/>sagt: "Denen die Gott
+                lieben müssen alle Dinge<lb break="yes"/>zum besten dienen, u. so wird auch diese
+                schwere<lb break="yes"/>Prüfung, an welcher meine ganze Familie so <pb facs="#image_014"/>innigen Antheil nimmt ihren<lb break="yes"/>Segen bringen.
+                Der Herr stärke Deine<lb break="yes"/>Seele u. Deinen Leib u. laße Dich
+                    <del>S</del>seine Nähe<lb break="yes"/>u. Seinen Beistand recht kräftig fühlen. </p><p><seg ana="#salute">Deine liebe Mutter schickt Dir Gruß u.<lb break="yes"/>Kuß; ich umarme Dich recht herzlich im
+                        Geiste<lb break="yes"/><hi rendition="#r">Deine alte Cousine<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed">Lina <surname>R.</surname></seg></hi></p><p>P.S. Der Auftrag ins Rentamt von Frl. <surname>H.</surname><lb break="yes"/>hat Fr <surname>T.</surname> schon besorgt.<lb break="yes"/>Soll ich Dir <hi rendition="#i">Quitten-gelée</hi> schicken? Laß es mir<lb break="yes"/>wissen wenn Du welche wünschest oder sonst etwas.</p>
+<pb facs="#image_015"/>
+<p>Fräulein Sara <surname>H.</surname>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.<surname/></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Patrizier</p>
+<p>Anstalt: <date from="1859" to="1872">1859-72</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notiz</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Beschwerde über Ärzte, Bitte um Ausgang
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l10a.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb519l10b.jpg" xml:id="image_026"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_025"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Ein sentimentales Frauenzim̄er paßt nicht unter so <hi rendition="#i">robuste</hi><lb break="yes"/><hi rendition="#i">populäre</hi> Menschen, die mich zu todt kränken!<lb break="yes"/>Ich bin nicht schuldig mein Geld für so ein <hi rendition="#i">mali</hi>ziöses<lb break="yes"/>Benehmen der Ärzte zu zahlen von denen alles
+                übrige<lb break="yes"/>abhängt. Man treibt nur Bosheit und Schlechtigkeit.<lb break="yes"/>Wen̄ die Ärzte kom̄en, so sprechen sie blos mit <hi rendition="#u"><seg ana="#curse"><w>Hurren Menschen</w></seg></hi><lb break="yes"/>und <hi rendition="#u">jungen Mädl</hi> denen sie ein Kind machen
+                wollen. pp<lb break="yes"/>das ist sehr ärgerlich u. strafwürdig u. ich speie
+                deßhalb aus<lb break="yes"/>weil sie ihre Pflicht an Kranken vernachläßigen u. zu
+                mir<lb break="yes"/>sagten: Ich habe <hi rendition="#u">Nichts Angenehmes</hi>
+                sondern <hi rendition="#u">dies</hi> deßhalb<lb break="yes"/>bei Andern suchen u.
+                nur das Geld mir täglich enziehen</p>
+<pb facs="#image_026"/>
+<p>Indem es sich nur darum handelt, mich aus diesem Hause zu bringen<lb break="yes"/>so ist es sehr unvernünftig und un<hi rendition="#i">moral</hi>isch blos unter
+                solchen<lb break="yes"/>Bedingungen , die Ihr schlechtes Gewissen beschwichtigen;
+                den̄<lb break="yes"/>ohnedies kön̄te mir Hr <hi rendition="#i">Director</hi> freien Ausgang gestatten.<lb break="yes"/>in <del>die</del> der
+                Überzeugung daß ich gewiß kein Man̄sbild anspreche u<lb break="yes"/>nur
+                Frauenzim̄er sprechen u. sehen will aber keine <seg ana="#curse">so boshafte<lb break="yes"/>u. gemeine Menschen</seg> zum Umgang will wie in der Anstalt habe</p>
+</body>
+</text>
+</TEI>

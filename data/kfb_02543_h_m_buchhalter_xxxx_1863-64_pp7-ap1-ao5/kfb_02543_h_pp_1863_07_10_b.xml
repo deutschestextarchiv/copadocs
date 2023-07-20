@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2543h05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2543</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>H.</surname></persName>
+<date type="sent">10.07.1863</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freund: Thomas <surname>T.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2543h">
+<persName>
+<forename>Wilhelm</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1864"/>
+<occupation>Buchhalter, studierte Theologie</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1863" to="1864">1863-64</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"psychische und körperliche Aufregung", "Wahnvorstellungen" (1863)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Berichtet von seiner Aufnahme in das Krankenhaus und die Verlegung in die Anstalt nach Irsee. 
+                    Bittet den Adressaten zudem, bestimmte Dinge für ihn zu besorgen. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2543h05a.jpg" xml:id="image_020"/>
+<graphic mimeType="image/jpg" url="kfb2543h05b.jpg" xml:id="image_021"/>
+<graphic mimeType="image/jpg" url="kfb2543h05c.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="kfb2543h05d.jpg" xml:id="image_023"/>
+<graphic mimeType="image/jpg" url="kfb2543h05e.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_020"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Jrsee</hi> den 10<hi rendition="#sup"><hi rendition="#u">t</hi></hi>
+<hi rendition="#i">July</hi> 1863</hi></dateline>
+<salute>Herrn Thomas <surname><hi rendition="#i">T.</hi></surname>.</salute>
+</opener>
+<p><add place="margin"><hi rendition="#r"><seg ana="#salute">Hoffend daß Du meiner<lb break="yes"/>Bitte mugehend entsprichst<lb break="yes"/>grüßt dein
+                            alter gottlob<lb break="yes"/>ganz gesunder </seg></hi><lb break="yes"/></add><add place="margin"><seg ana="#salute">und nicht<lb break="yes"/>irrsin̄ig<lb break="yes"/>Fre<unclear>n</unclear>d</seg><lb break="yes"/><seg ana="#signed">Wilhelm <surname><hi rendition="#i">Heiser<unclear>e.</unclear></hi></surname></seg></add></p><p>Herr Oberwärter <hi rendition="#i">Roedl</hi> sagte<lb break="yes"/>mir ich bekom̄e <hi rendition="#i">Cigarren</hi><lb break="yes"/>aber im̄er warte ich ver<lb break="no"/>ge<del>b</del>ens
+                schicke mir 1000<lb break="yes"/>Stücke zu 3<del><unclear>₰</unclear></del>
+                von <unclear>tmyle </unclear><lb break="yes"/>und <hi rendition="#i">Wegelin</hi>
+                    nebend<unclear>em</unclear><lb break="yes"/>bayrische<unclear>n</unclear> Hofe, laß selbe holen<lb break="yes"/>und rechne mir selbe<lb break="yes"/>auf, au<unclear>c</unclear>h
+                    <w>500</w><w>Stück</w> zu<lb break="yes"/><unclear>6 tr</unclear> d Stück, aber
+                    um<lb break="no"/>gehend, auch schreibe<lb break="yes"/>Herrn
+                    Oberwär<unclear>t</unclear>er<lb break="yes"/>über meine
+                    Verhältniß<unclear>e</unclear><lb break="yes"/><w>daß</w><w>ich</w> in eine beßere<lb break="yes"/><hi rendition="#i">Claße</hi> kom̄e, den die Kost <pb facs="#image_021"/>in
+                    dieser<hi rendition="#i"> Claße</hi> wo ich bin ist<lb break="yes"/>rauh und
+                nicht gut. Seit<lb break="yes"/>vorigen Freitag wurde<lb break="yes"/>ich ohne
+                Grund, <w>als</w><w>kräftig</w><lb break="yes"/><w>gesund er</w><w>Mensch</w>, <w>in</w><w>die</w><lb break="yes"/><seg ana="#med">Jrrenzelle</seg> ins Kranke<lb break="no"/>haus <hi rendition="#i">Augsburg</hi>
+<del><unclear>e</unclear></del>g<del>b</del>ebracht,<lb break="yes"/>mit
+                    <w>gräßlich en</w>
+<hi rendition="#i">Spetarkel</hi>.<lb break="yes"/>den ich warf den Doktor<lb break="yes"/>hinter die Thüre und<lb break="yes"/>prügelte die Wärter mit<lb break="yes"/>einer vom Fenster<lb break="yes"/>gerißener holzen<lb break="yes"/>Gitterstange, sodan<lb break="yes"/>kam ich in die <seg ana="#med">Zwangs<lb break="no"/>jake</seg> und <seg ana="#med">wurde<lb break="yes"/>mit
+                        <w>Striken</w><w>gebund<unclear>en</unclear></w></seg><lb break="yes"/>diese <seg ana="#curse">Hunde</seg> erwirkt<unclear>en</unclear><lb break="yes"/>mich bald, in einer<lb break="yes"/>Stunde
+                    <unclear>jedoch</unclear> zer<pb break="no" facs="#image_022"/>fezte das Gewand
+                mit<lb break="yes"/>den Zähnen, löste die<lb break="yes"/>Stricke ebenfals mit<lb break="yes"/>den Zahnen fiel halb<lb break="yes"/>ohnmächtig vor Ermattng<lb break="yes"/><w><unclear>af</unclear></w><w>meinen</w> Matraze hatt<lb break="yes"/>zu erste male einen<lb break="yes"/>wohlthätigen Schlaf mit<lb break="yes"/>Tröstungen vom All<lb break="no"/>mächtigen, um 11 Uhr<lb break="yes"/>kam die Priorin der<lb break="yes"/>Barmherzige Schwester<lb break="yes"/>mit noch 2 Schwest<unclear>ern</unclear><lb break="yes"/>weinend in meine<lb break="yes"/>Zelle brachte mir<lb break="yes"/>ein Glas Wein mit<lb break="yes"/>Süßigkeit, und tröstete<lb break="yes"/>mich
+                äußerte ruhig<lb break="yes"/>mich zu verhalten Sie<lb break="yes"/>werde alles
+                thun zu mei<unclear>ner</unclear><lb break="yes"/>Befreiung, War <unclear>eineidle</unclear><pb facs="#image_023"/>von meinem Freunde <surname><hi rendition="#i">N.</hi></surname><lb break="yes"/>sich zu einer solchen Sache be<lb break="no"/>stim̄en zu
+                laßen, und mich<lb break="yes"/>ins Jrrenhaus zu führen <add place="below">nur</add><lb break="yes"/>gemeiner u böser Mensch<lb break="yes"/>kan sich zu einen solchen
+                    Auf<lb break="no"/>trage bestim̄en laßen, soll<lb break="yes"/>mir nur
+                nicht mehr unter<lb break="yes"/>die Augen trette diese<unclear>r</unclear><lb break="yes"/>erbärmliche Mensch auch<lb break="yes"/>mit meinem
+                    herr<unclear>n</unclear><lb break="yes"/>Schwager werde ich nach<lb break="yes"/><w>meiner</w><w>Entlaßung</w> keines<lb break="yes"/>reden, meine Schwelle<lb break="yes"/>soll er nie mehr betrette<unclear>n</unclear><lb break="yes"/>vor er nicht um Ver<lb break="no"/>zeihung gebeten. Jn
+                    mei<unclear>ner</unclear><lb break="yes"/>Zelle habe ich vor Wuth<lb break="yes"/>Alles zertram̄pelt was<lb break="yes"/>in mein Kraft stand<lb break="yes"/>Stuhl Tisch, Waßerkrug<lb break="yes"/>und Nachstuhl. Am
+                Mittag<lb break="yes"/>hieß von Oberarzt <hi rendition="#i">Müller</hi><lb break="yes"/><add place="margin">Bei Wiedersehen über Diesen<lb break="yes"/>Gegenstand mündlich mehr.<lb break="yes"/>Viele herzliche Grüße Eben<unclear/><lb break="yes"/>meiner Braut </add>
+<pb facs="#image_024"/>aus sei ich als gesund entlaßen<lb break="yes"/>als ich
+                    <w>ans</w><w>Portal</w> kam, empfingen<lb break="yes"/>mich 3 Wärter um nach<lb break="yes"/>Jrsee zu bringen, sträubte<lb break="yes"/>mich nicht mehr
+                weil ich<lb break="yes"/>des Raufens mit diesen<lb break="yes"/>gemeine Häschern
+                nicht<lb break="yes"/>wieder raufen wollte,<lb break="yes"/>und mich gutwillig<lb break="yes"/>meinm Schicksal ergab<lb break="yes"/>in Jrsee wird man<lb break="yes"/>wenigsten sehr honorisch<lb break="yes"/>behandelt und ist den
+                    ganze<unclear>n</unclear><lb break="yes"/>Tag im Garten bei<lb break="yes"/><unclear>Regen</unclear> auch
+                    mehre<unclear> </unclear><lb break="yes"/>angenehme Herrn<lb break="yes"/>zur
+                Gesellschaft darunter<lb break="yes"/><hi rendition="#i">Christ</hi>
+<surname><hi rendition="#i">A.</hi></surname>, Mein<lb break="yes"/>Schwester,
+                ein <w><hi rendition="#i">Polizei</hi><lb break="no"/><hi rendition="#i">Anwalt</hi></w> habe ich
+                    wege<unclear>n</unclear><lb break="yes"/>meine Freiheit ge<lb break="no"/>gschrieben. </p><p><add place="margin"><hi rendition="#r">schicke mir auch 5℔<hi rendition="#i"> Cafei </hi><add place="above">auch 3 1000 <w>Zünd<lb break="no"/>holzchen</w>.</add>
+                        5℔<lb break="yes"/>Zuckr und 12 Päckchen <w>Schnupf<lb break="no"/>tabak</w> für <seg ana="#inst">die Jrren</seg>, und <hi rendition="#i">Cigaren</hi><lb break="yes"/>für 1<unclear>₰</unclear> und 1½ auh für die
+                        Jrren.<lb break="yes"/>wen es meine Braut nicht<lb break="yes"/>selbst
+                        holen laßt </hi></add><lb break="yes"/><add place="margin">weil ich<lb break="yes"/>Jhr den<lb break="yes"/>Auftrag<lb break="yes"/>gegeben habe<lb break="yes"/><hi rendition="#r"><unclear>im</unclear><lb break="yes"/><unclear>t</unclear><unclear>r.</unclear></hi></add></p>
+</body>
+</text>
+</TEI>

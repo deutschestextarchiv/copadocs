@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2128p09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2128</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>K.</surname></persName>
+<date type="sent">03.05.1879</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2128p">
+<persName>
+<forename>Josefine</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1846"/>
+<death when="1910"/>
+<occupation>Landgerichtsassesortochter</occupation>
+<residence><geo decls="#WGS">47.9417348 10.2999793</geo>Ottobeuren</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landgerichtsassesor</p>
+<p>Anstalt: <date from="1876" to="1900">1876-1900</date></p>
+<p>Brieftypen: pp,ap,ao</p>
+</state>
+<trait><p>„Geistesstörung […] in Form von Melancholie mit entsprechenden Wahnvorstellungen des Vergiftetwerden, Hingerichtetwerdens u.s.w.“ (1876)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schwester der Patientin versucht die Bedingungen der Heimkehr ihrer Schwester zu klären.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2128p09a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2128p09b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb2128p09c.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb2128p09d.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München den 3 Mai 1879.</hi></hi></dateline>
+<salute>
+<hi rendition="#c">Hochgebietender Herr Direktor!</hi>
+<hi rendition="#c"><lb break="yes"/><hi rendition="#i">W</hi>. Hochverehrtester
+                        Herr Direktor!<lb break="yes"/>Euer Hochwohlgeboren!</hi></salute>
+</opener>
+<p>
+<add hand="arzt" place="top">zurück:<lb break="yes"/>Keine Pflegerin zur begleitung<lb break="yes"/>disponibl. wen̄ Sie od<lb break="yes"/>H. Gemahl
+                    nicht selber<lb break="yes"/>kom̄en, so muß die zur Abholung
+                        <unclear>beauftragte</unclear><lb break="yes"/>Person <unclear>durch</unclear> eine schriftl. Erklärg Ihres
+                    Herr Gemahls sich<lb break="yes"/>legitimir.<lb break="yes"/>5/5.79.</add>
+</p>
+<p>In höflichst dankender Erwiederung Ihrer<lb break="yes"/>geehrten Zuschrift vom
+                28ten April <add place="above">1879</add> /an meinen<lb break="yes"/>Gatten −
+                soll ich in dessen Namen, Folgendes<lb break="yes"/>erwiedern: "Obwohl Sie nämlich
+                eine Verschlim̄erung<lb break="yes"/>deß leidenden Zustandes meiner lieben
+                Schwester<lb break="yes"/>notifi<hi rendition="#i">c</hi>irten müssen wir jetzt doch
+                darauf bestehen<lb break="yes"/>Dieselbe <w><hi rendition="#u">versuchs
+                        weise</hi></w> nach Hause zu nehmen,<lb break="yes"/>den̄ es
+                    <del>be</del>steht die Annahme unseres Hausartzes Hl<lb break="yes"/>Dr Hofers
+                u <hi rendition="#i">Dr Moosmeier</hi>'s dahin, daß Josephine<lb break="yes"/>nur
+                durch das im̄erwährende Versprechen deß<lb break="yes"/>Abholens:/ ohne das
+                Selbiges je erfolgt/: sich zu <add place="above">diesen</add> lebens<lb break="no"/>überdrüßigen Äußerungen hinreißen läßt. <pb facs="#image_002"/>Die Erklärung der
+                Gemeindeverwaltung<lb break="yes"/>Ottobeuren ist nun eingelaufen und lautet<lb break="yes"/>derart, daß sie mit größter Freude es sehen<lb break="yes"/>wen̄ wir meine Schwester wenigstens <hi rendition="#u">versuchsweise</hi><lb break="yes"/>nach Hause nehmen, und zur Entschädigung der<lb break="yes"/>Opfer
+                welche wir bringen müssen will die<lb break="yes"/>Gemeinde Ott. <hi rendition="#u">10</hi>
+<hi rendition="#i">Mark</hi> Reisegeld bewilligen, was<lb break="yes"/>mein Gatte
+                aber nur insofern annim̄t, als er<lb break="yes"/>bei Abrechnung der
+                nächsten Pensionssum̄e<lb break="yes"/>einer <hi rendition="#u">Monatspension</hi> mehr − der Gemeindekasse<lb break="yes"/>zukom̄en lassen will − als die Josephine in der Anstalt<lb break="yes"/>zubrachte. Wäre <hi rendition="#u">ich</hi> gegenwärtig nicht so<lb break="yes"/>schwer Brust und Lungenleidend − hätte ich bereits<lb break="yes"/>am 1 <hi rendition="#i">Mai</hi>
+<add place="above"><unclear>dß <hi rendition="#i">Mts</hi></unclear></add> meine
+                liebe Schwester abgeholt − weil<lb break="yes"/>mein Gatte wegen Inscription
+                verhindert ist.<lb break="yes"/>Die Gemeindeverwaltung <add place="above">Ott.</add> hat sich zugleich<lb break="yes"/>bereitwilligst erklärt −
+                unter den gleichen<lb break="yes"/>Beträgen wie bisher − fortzubezahlen
+                − falls <pb facs="#image_003"/>die Zurückbringung in die Irrenanstalt Kaufb.<lb break="yes"/>nothwendig werden wird. </p>
+<p>Es handelt sich nun nur einfach um<lb break="yes"/>die Reisebegleitung meiner lb
+                Schwester;<lb break="yes"/>Mit gänzlich fremden Menschen − die ich<lb break="yes"/>ihr von hier aus senden kön̄te − geht sie am<lb break="yes"/>Ende nicht; und würden uns dan̄ große<lb break="yes"/>Auslagen erwachsen die ich der eignen<lb break="yes"/>Famielie <w>zu lieb</w> vermeiden
+                muß.<lb break="yes"/>Kön̄ten hochverehrter Herr Direktor! meine<lb break="yes"/>liebe Schwester mit irgend einer anständigen<lb break="yes"/>Bgeleiterin <add place="above">aus</add> zusenden − wären wir in̄igst<lb break="yes"/>dankbar hiefür, und würden <hi rendition="#u">recht
+                    gerne</hi><lb break="yes"/>die Reisekosten, welche sich über die von<lb break="yes"/>der
+                Gemeindeverwaltung bewilligten 10 <hi rendition="#i">Mark</hi><lb break="yes"/>belaufen aus eigner Kasse bestreiten.</p>
+<p>Wir stellen es Ihrem guten edlen Herzen anheim<lb break="yes"/>uns die Zurücknahme
+                der Patienten so viel als <pb facs="#image_004"/>möglich erleichtern zu helfen.</p>
+<p>Meine liebe Mutter kan̄ gar Nichts erübrigen<lb break="yes"/>mit ihrer
+                kleinen Pension − folglich bringt mein<lb break="yes"/>lb Man̄ ein
+                großes Opfer, wen̄ wir Josephine<lb break="yes"/>in Kost und Logis nehmen,
+                wozu dan̄ noch<lb break="yes"/>viele Auslagen kom̄en wie
+                Wäscheverpflegung <unclear>E E</unclear><lb break="yes"/>und was Euer Hochwohlgeboren bei so <hi rendition="#u">vielen </hi><lb break="yes"/>Pfleglingen ja <w>hin länglich</w> bekan̄t ist.</p>
+<p><seg ana="#metaling">Meine Schrift bitte ich für heute gütigst zu entschuldigen,<lb break="yes"/>ich bin wirklich <hi rendition="#u">recht</hi> schwer
+                    leidend,</seg> und sehe deßhalb<lb break="yes"/>mit doppeltem Verlangen einem
+                Wiedersehen<lb break="yes"/>meiner Schwester zu Hause entgegen.</p>
+<p><hi rendition="#c"><seg ana="#salute">Mit vollkom̄enster Hochachtung und<lb break="yes"/>Verehrung verbleibt</seg><lb break="yes"/><hi rendition="#r">Euer Hochwohlgeboren<lb break="yes"/>stets
+                        dankbar Ergebenste</hi><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Ana <surname>K.</surname></hi><lb break="yes"/>h Hl. Akt. Gattin</seg></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb378h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>378</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sebastian <surname>H.</surname></persName>
+<date type="sent">17.05.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Barbara <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb378">
+<persName>
+<forename>Sebastian</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1825"/>
+<death cert="unknown"/>
+<occupation>Söldnerssohn</occupation>
+<residence><geo decls="#WGS">48.4294864 10.3425579</geo>Limbach, Burgau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1854" to="1859">1854-59</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Traurigkeit, Kummer (1845)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will wissen, ob Barbara Kind geboren hat; gesund, soll zum Doktor gehen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb378h01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c">Irrse den 17<hi rendition="#sup">ten</hi> May 1859.</hi></dateline>
+<salute><hi rendition="#c">Liebste Barbara!</hi></salute>
+</opener>
+<p>
+Es ist jetzt ein Vierteljahr verflossen, seitdem ich<lb break="yes"/>von Dir kein Schreiben oder Brief empfangen habe u. meine<lb break="yes"/>Sorge ist bei mir, in meinen Gedanken, ob du Dein<lb break="yes"/>Kind geboren hast, oder nicht. Ich hoffe dieser Brief wird<lb break="yes"/>Dich in Gesundheit antreffen u: Gott sey Dank ich bin<lb break="yes"/>jetzt gesund in meiner Anstalt Sei sogut und gehe<lb break="yes"/>zum Herrn Doktor <surname>M.</surname> und wen der<lb break="yes"/>der Herr Landrichter noch in Burgau;<lb break="yes"/>ist und ich er werde Sein versprechen mier nicht<lb break="yes"/>entzieh das er <add>mit</add> und Rechtlich; Vorgericht<lb break="yes"/>vortvahre und ich hoffe das du auch<lb break="yes"/>werthrs an mich gedacht an der:<lb break="yes"/>Ostlichen Komion;<lb break="yes"/></p>
+</body>
+</text>
+</TEI>

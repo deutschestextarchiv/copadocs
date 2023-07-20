@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb147b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>147</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>B.</surname></persName>
+<date type="sent">09.08.1856</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Anstaltsdirektor: n.a.</persName>
+<settlement type="sent">Kaltbronn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb147b">
+<persName>
+<forename>Genovefa</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1839"/>
+<death cert="unknown"/>
+<occupation>Bauerstochter</occupation>
+<residence><geo decls="#WGS">47.8689152 10.1575869</geo>Kaltbronn, Grönenbach</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bauer, Getreidehändler</p>
+<p>Anstalt: <date from="1856" to="1857">1856-1857</date></p>
+<p>Brieftypen:pp, ap, ao</p>
+</state>
+<trait><p>Geistesstörung</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="verwandter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Ein Verwandter der Patientin bittet den Anstaltsdirektor dazu, ihn über das jetzige Befinden der Patientin zu informieren.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb147b01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb147b01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Kaltbron am 9 August<lb break="yes"/>1856</hi></dateline>
+<salute><hi rendition="#c">Herr Direcktors.</hi></salute>
+</opener>
+<p><space/> Da es nun schon<lb break="yes"/>beinahe sechs Wochen sind, <w>seit<lb break="no"/>dem</w> wir nichts mehr von der<lb break="yes"/>Genovefa
+                hörten, daher bitten<lb break="yes"/>wir Sie Herr Direcktors, Sie<lb break="yes"/>möchten uns von dem jetzigen<lb break="yes"/>Befinden der Genovefa wen Sie <pb facs="#image_002"/>Die Güte haben schreiben<lb break="yes"/>den die Genovef
+                macht uns ja<lb break="yes"/>nicht das mindeste zu wissen,<lb break="yes"/>darum
+                setzen wir auch einige<lb break="yes"/>Wörter an sie in diesem Briefe bei.<lb break="yes"/>Wir hoffen Herr Direcktors Sie uns<lb break="yes"/>diese Bitte
+                nicht versagen u uns<lb break="yes"/>bald schreiben. <seg ana="#salute">Nebst
+                    Gruß</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Xaver
+                            <surname>B.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

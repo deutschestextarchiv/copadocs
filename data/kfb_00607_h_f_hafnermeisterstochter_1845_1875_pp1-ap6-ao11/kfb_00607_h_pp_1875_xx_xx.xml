@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb607h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Luzia Pätzel</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>607</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sara <surname>H.</surname></persName>
+<date type="sent">xx.xx.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: Sara <surname>H.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb607h">
+<persName>
+<forename>Sara</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1875"/>
+<occupation>Hafnermeisterstochter</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Hafnermeister</p>
+<p>Anstalt: <date from="1875" to="1875">1875</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>"Religiöser Wahnsinn, Fixe Ideen" (1875)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erwähnt, dass sie nicht früher schreiben konnte, weil sie sich sehr schwach fühle (Verweis auf Schriftbild). 
+                    Bedankt sich bei ihrer Mutter für etwas Zugesandtes und erkundigt sich nach Bekannten. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb607h01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb607h01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<salute><hi rendition="#c">Meine liebe liebe Mutter!</hi></salute>
+</opener>
+<p><seg ana="#metaling">Meine Hand zittert noch</seg> vor Freude,<lb break="yes"/>Die du mir gemachtest mit der<lb break="yes"/><unclear>wahrhaftigene</unclear> Christbescherung<unclear>,</unclear></p><p>Ich weiß ja ja gar nicht wo<lb break="yes"/>anfangen vor lauter guten<lb break="yes"/>Ueberfluß
+                denke ja nicht<lb break="yes"/>daß ich ich dir früher erst<lb break="yes"/>geschrieben <add place="above">niht</add>
+<del><unclear reason="overwriting"/></del>gschriben <del><unclear reason="overwriting"/></del>weil Du<lb break="yes"/>du mir nicht
+                schickttest <seg ana="#metaling">ich war<lb break="yes"/>zu schwach Das
+                        sieh<del>t</del>st Du an <unclear>mein</unclear><lb break="yes"/>jetzig zittrige Schrift<unclear>en</unclear></seg>
+<pb facs="#image_002"/></p><p>tausen<add place="above">d</add> 1000 Dank <del><unclear/></del><unclear>mein</unclear><lb break="yes"/>l Mütterle u 1000 Küße dafür<lb break="yes"/>ich will mirs um
+                Deinetwillen<lb break="yes"/>recht gut schme<unclear>c</unclear>ken laßen Alle<lb break="yes"/>Ander baiden aber de<unclear>m</unclear>
+<surname>G.</surname><lb break="yes"/>gebe ich ich auch davon. Was<lb break="yes"/><unclear>ma</unclear>ht der li Hans u Frau
+                    <surname>R.</surname><lb break="yes"/>Hans hätte auch Schicken <unclear>m</unclear>ögen<lb break="yes"/>hast du du auch eine Partie für dich<lb break="yes"/>behalten u
+                    <unclear>Man</unclear> du bist so besche<unclear>iden</unclear><lb break="yes"/>in der Hinsicht Ist Fr
+                <unclear>R</unclear>. schon<lb break="yes"/>abge<unclear>bger</unclear>eist noch viel tausend<lb break="yes"/>Küße u Grüße von Deiner Dich herzlich<lb break="yes"/>liebenden Toch
+                        <del><unclear>S</unclear></del>Sara die die hofft<lb break="yes"/>Und bete
+                in <unclear>schlechten</unclear> Tagen <unclear>und/wird</unclear> <unclear>erfahren/ersuchen</unclear><lb break="yes"/>um dich nie nie mhr zu verlassen<lb break="yes"/>und
+                    <unclear>gesunde</unclear> u glücklich zu <unclear>F</unclear>reuen zu
+                    lebe<unclear>n</unclear><lb break="yes"/>Adie l. l. Mama 1000 Küße für Dich u
+                    <unclear>Hans</unclear></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2936s15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Corinna Köhler</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Urban <surname>S.</surname></persName>
+<date type="sent">01.12.1923</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Betti <surname>S.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2936s">
+<persName>
+<forename>Urban</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1872"/>
+<death when="1927"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Lentin, Ingolstadt</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Schneider</p>
+<p>Anstalt: <date from="1922" to="1927">1922-27</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>erregb. Psychopathie, Hypomanie, Beeinträchtigungs- und Verfolgungswahn (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Begründet seine Brandstiftung mit anderer Frau, beschwört Liebe zu Adressatin
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2936s15a.jpg" xml:id="image_053"/>
+<graphic mimeType="image/jpg" url="kfb2936s15b.jpg" xml:id="image_054"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_054"/>
+<opener>
+<dateline>Heil und Pflege-Anstalt<lb break="yes"/><hi rendition="#c">Kaufbeuern 1. XII 23.</hi></dateline>
+<salute><hi rendition="#c">Heißgeliebte <hi rendition="#u">frühere</hi> Braut!</hi></salute>
+</opener>
+<p>Der 27.te November, war wieder<lb break="no"/>um, ein sehr <hi rendition="#u">schwerer</hi> Tag<lb break="yes"/>für mich, dem ich, mußte mir<lb break="yes"/>denken, Daß ich, jetzt zwei<lb break="yes"/>Jahre, den <hi rendition="#u">Titel</hi> "<hi rendition="#u">Brandstifter</hi>"<lb break="yes"/>auf den
+                Rücken, habe.<lb break="yes"/>Meine frühere Heißgeliebte!<lb break="yes"/>Ich, weis es wohl, daß Du es<lb break="yes"/>damals gerne gesehen,
+                wen̄<lb break="yes"/>ich, als wir beiden, uns gegen<lb break="no"/>seitig
+                küßten. Mitsam̄en<lb break="yes"/>in den Straßengraben<lb break="yes"/>gefallen wäre, oder wen̄<lb break="yes"/>am Sonttage den 28. ten XI 21.<lb break="yes"/>nachmittags gegen 4 Uhr mit<lb break="yes"/>Dir ins Bett
+                hieneingefallen<lb break="yes"/>wären. Schaue aber, was<lb break="yes"/>wäre, was
+                wäre, vielleicht<lb break="yes"/>entstanden, entweder ein<lb break="yes"/>kleiner
+                Peppi, oder kleine<lb break="yes"/><hi rendition="#c">Käthi.</hi>
+</p>
+<pb facs="#image_053"/>
+<p> Den weißt ja, <hi rendition="#u" style="pencil">die
+                    Liebe</hi><lb break="yes"/>war zu groß. Daß Mädchen<lb break="yes"/>wo du gesagt hast<lb break="yes"/><hi rendition="#u">ich soll Sie i</hi><del><hi rendition="#u">ch</hi></del><hi rendition="#u">m Ruhe </hi><lb break="yes"/><hi rendition="#u">laßen</hi>. Ist seit 2. Juli<lb break="yes"/>1922 Mutter, und
+                ist<lb break="yes"/>bei mir. Deßhalb<lb break="yes"/>wurde ich Brandstifter<lb break="yes"/>bei "<hi rendition="#u">Dir</hi>" </p><p>An Wohgeborn <add place="above">Fräulein</add> Betti <surname>S.</surname>.<lb break="yes"/>Sattermeisterstochter<lb break="yes"/>Hausbesitzerin<lb break="yes"/>in
+                Stätzling<lb break="yes"/>bei Augsburg</p>
+<p>Urban <surname>S.</surname>.<lb break="yes"/>Schneidermeister.<lb break="yes"/>z. Zeit in
+                <hi rendition="#u">Kaufbeuern</hi></p><p><add place="margin">Glükwünsche zum Namensfeste, mit Grus<lb break="yes"/>an Deine <hi rendition="#u">2 Töchterlein</hi><lb break="yes"/>Gutes neues <hi rendition="#u">Jahr</hi>.</add></p>
+</body>
+</text>
+</TEI>

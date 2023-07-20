@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3349f25" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3349</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>F.</surname></persName>
+<date type="sent">07.08.1924</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> <surname/></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3349f">
+<persName>
+<forename>Jakob</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888"/>
+<death when="1935"/>
+<occupation>Landwirt, Dienstknecht</occupation>
+<residence><geo decls="#WGS">48.2473553 10.4500832</geo>Premach, Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landwirt</p>
+<p>Anstalt: <date from="1907" to="1935">1907-35</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>maniakalischer Erregungszustand (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="crayon" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                 Meldung von Missständen in der Anstalt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3349f25a1.jpg" xml:id="image_067"/>
+<graphic mimeType="image/jpg" url="kfb3349f25a2.jpg" xml:id="image_068"/>
+<graphic mimeType="image/jpg" url="kfb3349f25b.jpg" xml:id="image_069"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_067"/>
+<pb facs="#image_068"/>
+<opener>
+<dateline/>
+<salute>An die hohe <unclear>???</unclear> treue sehr verehrliche<lb break="yes"/><hi rendition="#i"><hi rendition="#u">Dierektion</hi></hi>
+<add hand="arzt">Fischer Jakob </add><lb break="yes"/>der Heil u. Pflegeanstalt
+                        <hi rendition="#i">Kaufbeuren</hi>.</salute>
+</opener>
+<p> Fühle mich veranlaßt, der "Dierektion" zu<lb break="yes"/>danken, für die Rückfalle
+                welche bei mir im̄er<lb break="yes"/>wieder konstatiert werden. - </p>
+<p>Den̄ ich finde, daß es das Schicksal des Him̄els ist<lb break="yes"/>der mich, des Hierseins würdigt um die hiesigen<lb break="yes"/>Mißstände u
+                beschauen u. auch begründen zu könen<lb break="yes"/>Um dan̄, wen̄
+                einmal die Stunde kom̄t, wo ich wieder<lb break="yes"/>frei bin, all das
+                hier gesam̄lete, einem Gerichte für <hi rendition="#i">Wahrheit</hi><lb break="yes"/><hi rendition="#i">und Recht</hi> zu überantworten.</p><p>Will jetzt mich nicht verteidigen u. auch niemand anklagen! −<lb break="yes"/>aber um das
+                Wohl der Menschheit willen, möchte ich nur<lb break="yes"/>einige Punkte
+                aufführen:</p>
+<p>Ist es der Direktion bekan̄t, daß Pfleger <hi rendition="#u">geschmiert</hi>
+                werden<lb break="yes"/>um die Patienten in der Kolonie zu drillen? Ist es
+                bekan̄t<lb break="yes"/>daß Baumeister sich erlaubt, Patienten anzufluchen
+                u. ihnen<lb break="yes"/>Schimpfnamen gibt, die nur Menschen allergemeinster<lb break="yes"/>Sorte gebrauchen, wie: <seg ana="#curse">Hen̄enviecher</seg>
+<seg ana="#curse">Seckel</seg><lb break="yes"/><seg ana="#curse">Stierbeutel</seg>, <seg ana="#curse">Beutelaffen</seg> u. viele andere, die mir<lb break="yes"/>zu gemein sind sie
+                anzuführen. − </p>
+<p>Ist Herr Obermedizinalrat auch bekan̄t, daß vor<lb break="yes"/>mehreren
+                Jahren von einem Patienen in <hi rendition="#i">Irrsee</hi>
+<pb facs="#image_069"/>Sittlichkeitsverbrechen an jugendlichen Mädchen<lb break="yes"/>verübt wurden?? <hi rendition="#i"><hi rendition="#u">Lorri
+                            </hi><surname><hi rendition="#u">B.</hi></surname>
+<hi rendition="#u">Resi </hi><surname><hi rendition="#u">B.</hi></surname></hi><lb break="yes"/>Mehreres später, wen̄ sich die Rückfälle nicht mehr <lb break="yes"> </lb>wiederholen. −</p>
+<p><hi rendition="#i">Kaufbeuren</hi> den 7 VIII.1924.<lb break="yes"/>Gezeichnet <hi rendition="#i"><surname>F.</surname></hi>.<lb break="yes"/>rückfälliger Patient der Heil u
+                    Pflege<lb break="no"/>anstalt in<lb break="yes"/><hi rendition="#i">Kaufbeuren</hi>. </p>
+</body>
+</text>
+</TEI>

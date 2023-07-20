@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1480g20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1480</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Christine/Christiana <surname>G.</surname></persName>
+<date type="sent">28.12.1910</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Nördlingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1480g">
+<persName>
+<forename>Karl</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1911"/>
+<occupation>Handlungskommissar</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1891" to="1911">1891-1911</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>[Epilepsie] (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    wünscht Neujahresgrüße und dankt für "liebgevolle Pflege" ihres Mannes
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1480g20a.jpg" xml:id="image_045"/>
+<graphic mimeType="image/jpg" url="kfb1480g20b.jpg" xml:id="image_046"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_045"/>
+<opener>
+<dateline><hi rendition="#r">Nördlingen, d. 28 Dec.<lb break="yes"/>1910</hi></dateline>
+<salute><hi rendition="#c">Eure Hochwohlgeborn<lb break="yes"/>herrn Oberatzt!</hi></salute>
+</opener>
+<p>
+<space/> Jch erlaube<lb break="yes"/>mir Eure Hochwohlgeborn<lb break="yes"/>zum
+                bevorstehenden Iahres<lb break="no"/>wechsel Ihnen meine unter<lb break="no"/>thänigste Glück u Segens<lb break="no"/>wünsche darzubringen u<lb break="yes"/>verbinde auch zugleich meinen<lb break="yes"/>innigsten aufrichtigsten<lb break="yes"/>Dank für die liebevolle<lb break="yes"/>Pflege die sie meinen<lb break="yes"/>l. Mann wieder im<lb break="yes"/>verflossenen Iahre ange<lb break="no"/>deihen ließen. <pb facs="#image_046"/> u. bin auch im neuen<lb break="yes"/>Jahr <seg ana="#signed">Ihre Unterthänigst<lb break="yes"/>dankbare<lb break="yes"/><hi rendition="#r">Christine Gall</hi></seg>
+</p>
+</body>
+</text>
+</TEI>

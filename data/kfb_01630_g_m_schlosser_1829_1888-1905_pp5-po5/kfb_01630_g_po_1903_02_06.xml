@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1630g06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1630</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>G.</surname></persName>
+<date type="sent">06.02.1903</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwalter: n.a. <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1630g">
+<persName>
+<forename>Xaver</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1905"/>
+<occupation>Schlosser</occupation>
+<residence><geo decls="#WGS">47.6096057 10.3343227</geo>Emereis, Vorderburg, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonom, Bauerseheleute</p>
+<p>Anstalt: <date from="1888" to="1905">1888-1905</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>alkoholische Halluzinationen (1888)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet den Verwalter um ein Gespräch wegen eines Zertifikats und weil er sich über etwas erkundigen will.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1630g06a.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb1630g06b.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee am</hi> 6<hi rendition="#sup">ten</hi>
+<hi rendition="#i">Februar</hi> 1903.</hi></dateline>
+<salute>Geehrter Herr Verwalter, <surname>G.</surname>!</salute>
+</opener>
+<p>Es veranlaßt mich, ein paar Zeilen<lb break="yes"/>an Sie ergehen zu lassen indem
+                    ich<lb break="yes"/>gerne einige, Worte mit Ihnen sprächen<lb break="yes"/>zu
+                tirfen, Erstens wegen <w>eine m</w> Zertifig<lb break="no"/>kat, wo ich den
+                Deutschen Staatsaid geleistet,<lb break="yes"/>schon vor der ersten Reichtagswal
+                    <w>in</w><w>den</w> 70zigen<lb break="yes"/>Jahren, welches Zerrtifikat ich in
+                die Anstalt<lb break="yes"/>Kaufbeuren brachte, in einem Arbeits-Buch, <pb facs="#image_017"/>Oder in einer schwarz Ledernen Brief<lb break="no"/>Täsche,
+                aufbewart. Und zweitens möchte<lb break="yes"/>ich auch, noch weiters über etwas
+                    Erkundig<lb break="no"/>en, deshalb sind Sie so Gütig wen̄ Sie Samstag<lb break="yes"/>den 7 dies hieher kom̄en mich zu sehen <seg ana="#salute">nebst<lb break="yes"/><hi rendition="#r">Gruß</hi>
+<seg ana="#signed">Xaver <surname>G.</surname></seg><lb break="yes"/>Pflegling<lb break="yes"/>Abtheilung A.</seg></p>
+<p><add place="margin">An<lb break="yes"/>Herrn<lb break="yes"/>Verwalter <surname>G.</surname> zu Kaufbeuren<lb break="yes"/>u. <hi rendition="#i">Irsee</hi>. Anstalten</add></p>
+</body>
+</text>
+</TEI>

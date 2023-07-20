@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1763s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1763</idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<p>
+                                Rand
+                            </p>
+</objectDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>S.</surname></persName>
+<date type="sent">18.08.1864</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: Michael <surname>K.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1763s">
+<persName>
+<forename>Georg</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1831"/>
+<death when="1916"/>
+<occupation>Mahlknecht</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonomen</p>
+<p>Anstalt: <date from="1863" to="1916">1863-1916</date></p>
+<p>Brieftypen: pp, po </p>
+</state>
+<trait><p>Hypochondrie, (folie raisonnante)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Geldangelegenheiten mit Vater
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1763s05a.jpg" xml:id="image_105"/>
+<graphic mimeType="image/jpg" url="kfb1763s05b.jpg" xml:id="image_106"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_105"/>
+<opener>
+<dateline><hi rendition="#r">Höchstädt den 18<hi rendition="#sup">ten</hi> Agust
+                        1864.</hi><lb break="yes"/></dateline>
+<salute><hi rendition="#c">Hochgeehrter Herr Dierecktor!</hi><lb break="yes"/></salute>
+</opener>
+<p> Ich mache Ihnen zu wißen, daß ich meine Efeckten noch nicht erhalten<lb break="yes"/>habe. Mein Vatter kom̄t im̄er nicht zum schreiben, deßhalb schreibe
+                ich. Wie man̄<lb break="yes"/>mich abghold hat, hat mein Vatter den andern
+                Tag früh fort wollen, und<lb break="yes"/><unclear>dan̄</unclear> hat man̄ gesagt, heut kan̄ man̄
+                nicht mer hergeben. Und mein abgenomenes<lb break="yes"/>Geld hat man̄ mir
+                auch gegeben, und Sie habens mir versprochen. Meinen<lb break="yes"/>ledernen
+                schwarz lackierten Gürtel, hat der <surname>S.</surname> alz ich in Irrsee
+                    war<lb break="yes"/><unclear>schon</unclear> getragen, der ist im Verzeichniß nicht gestanden den wird
+                er auch nicht<lb break="yes"/>mehr hergeben wollen. Ich bitte Ihnen d<unclear reason="damage">as Sie</unclear> befehlen, daß ich mein<lb break="yes"/><unclear>Sach</unclear> alles bald bekom̄. Und wen̄ es der Bok<unclear reason="damage">LOCH</unclear> nicht besorgt hat, so<lb break="yes"/>möchte er
+                es jetzt weiter besorgen. Man̄ hats ja versprochen daß man̄<lb break="yes"/><unclear>alles</unclear> nach Höchstädt schickt. Wen̄ man̄ mirs nicht
+                schicken will so bitte ich um<lb break="yes"/>eine Antworth. Ich beschlüße mein
+                Schreiben mit dem, daß der Brif den ich<lb break="yes"/><unclear>Ihnen</unclear> im Herbst geschrieben habe Warheit ist, und mit dießem
+                bezeige was<lb break="yes"/>mir jetzt leid ist. Daß ich jetzt Ihnen nichts zu
+                danken weiß, noch<lb break="yes"/><unclear>Ihnen</unclear> zu besuchen um etwas zu reden. Wen̄ Sie von mir was
+                    hören<lb break="yes"/>wollen, bin ich bereit zu antworthen.</p>
+<p><seg ana="#salute"><hi rendition="#r">Ich grüße Sie freundlichst,</hi><lb break="yes"/><hi rendition="#c">u. die zwei Doktorn u. H. Kaplan.</hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r">Georg <surname>S.</surname></hi></seg></p>
+<pb facs="#image_106"/>
+<p>An<lb break="yes"/><unclear reason="damage">LOCH</unclear>ebohrnen Herrn Dcktr.<lb break="yes"/>Michael Kiederle<lb break="yes"/>in der k. Kreißanstalt<lb break="yes"/>Irrsee.<lb break="yes"/><hi rendition="#u">frei</hi>
+</p>
+</body>
+</text>
+</TEI>

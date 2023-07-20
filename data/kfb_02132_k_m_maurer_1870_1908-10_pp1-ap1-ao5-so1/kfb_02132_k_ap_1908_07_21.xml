@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2132k06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2132</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>K.</surname></persName>
+<date type="sent">21.07.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann: Joseph <surname>K.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2132k">
+<persName>
+<forename>Josef</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1870"/>
+<death when="1910"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">48.6147593 10.7211365</geo>Pfaffenhofen a. d. Zusam, Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1908" to="1910">1908-1910</date></p>
+<p>Brieftypen: pp, ao, ap</p>
+</state>
+<trait><p>Pr[ogressive] Par[alyse]  (1909)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin erkundigt sich nach dem Befinden ihres Mannes.
+                    Sie berichtet ihm von ihrer neuen Arbeitsstelle und neuen Wohnung und davon, dass die Kinder vorübergehend bei den Schwiegereltern leben.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2132k06.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg, den 21. Juli 1908.</hi></dateline>
+<salute><hi rendition="#c">Lieber Joseph</hi></salute>
+</opener>
+<p> Indem ich Dir ein bar Zeilen<lb break="yes"/>schreibe, wie es Dir geht doch<lb break="yes"/>beßer wann gesund bist dann<lb break="yes"/>wirst schon wieder
+                kom̄en<lb break="yes"/>ich hoffe es. Ich bin jetzt<lb break="yes"/>sogar in
+                der Zündholzfabrik<lb break="yes"/>und wohne nicht mehr beim<lb break="yes"/><surname>S.</surname>, sondern im<lb break="yes"/>Augsburger Hof
+                Schwibbogengaße <add place="below">405/6 </add><lb break="yes"/>und die Kinder<lb break="yes"/>sind bei Schwiegereltern<lb break="yes"/>aber ich möchte sie bald
+                wieder<lb break="yes"/>zu mir nehmen wann Du<lb break="yes"/>nun bald
+                kom̄en würdest.<lb break="yes"/><seg ana="#salute">Es grüßt Dich bestens
+                    Deine Frau</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Marie
+                            <surname>K.</surname></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

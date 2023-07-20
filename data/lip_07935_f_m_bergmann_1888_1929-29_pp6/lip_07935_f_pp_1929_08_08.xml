@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7935f03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7935 (K. 90)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Paul <surname>F.</surname></persName>
+<date type="sent">08.08.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Frau und Kinder: n.a. <surname>F.</surname></persName>
+<settlement type="sent">Eickelborn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip7935f">
+<persName>
+<forename>Paul</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888-02-06"/>
+<death cert="unknown"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">51.5110321 7.0960124</geo>Geburtsort: Essen; Wohnort: Gelsenkirchen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1929-03-08" to="1929-12-12">08.03.1929-12.12.1929</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Progr. Paralyse (1929); Verm. Ursache: Lues; 2tägigen Verwirrtheitszustand mit tobsuchtartiger Unruhe, Unfähig zu sprechen, Lähmung d. Beine; Schwatzhaftigkeit (18.07.1929)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er möchte abgeholt werden, weil er es nicht mehr aushält.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7935f03a.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r">Eickelborn, 8ten <del>7</del>8. 29.</hi></dateline>
+<salute><hi rendition="#c">Liebe Frau u. Kinder!</hi></salute>
+</opener>
+<p>Allerliebste hole mich sofort<lb break="yes"/>warte nicht bis ich erst<lb break="yes"/>mal sterbenskrank bin.<lb break="yes"/>Wie das hier ist kann<lb break="yes"/>ich Dir nur persönlich<lb break="yes"/>sagen Hoffentlich bin ich<lb break="yes"/>bald wieder zu Haus<lb break="yes"/>hier halt ichs nicht aus.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">In Liebe grüßt<lb break="yes"/>Dich</seg> dein <seg ana="#signed">Paul.</seg></hi></p>
+</body>
+</text>
+</TEI>

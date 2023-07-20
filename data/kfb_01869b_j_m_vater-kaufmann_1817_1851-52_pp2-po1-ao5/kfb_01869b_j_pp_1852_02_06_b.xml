@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1869bj08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1869b</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>J.</surname></persName>
+<date type="sent">06.02.1852</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwiegereltern: n.a. <surname>R.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1869bj">
+<persName>
+<forename>Wilhelm</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1817"/>
+<death when="1852"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">49.142291 9.218655</geo>Heilbronn in Würtemberg/Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1851" to="1852">1851-52</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Wahnsinn, Tobsucht (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink_black" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schlägt seinen Schwiegereltern eine gemeinsame Reise, mit seiner Frau und Kind (Wilhelm, siehe Akte 1869)vor, die 
+                    sie nach seiner Entlassung unternehmen könnten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1869bj08a.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb1869bj08b.jpg" xml:id="image_026"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_025"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> d. 6. <hi rendition="#i">Febr</hi> 52.</hi></dateline>
+<salute><hi rendition="#i">M</hi>ein lieber Herr Schwiegervater.<lb break="yes"/><hi rendition="#r">u. Frau Mutter.</hi></salute>
+</opener>
+<p><space/> Da Sie mich jetzt in Bälde werden<lb break="yes"/>abholen dürfen so
+                lade ich Jhnen<lb break="yes"/>recht höflich ein ob Sie nicht mit<lb break="yes"/>meiner Frau nebst <hi rendition="#i">Wilhelm</hi><lb break="yes"/>die Reise nach <hi rendition="#i">Kempten</hi>
+<hi rendition="#i">Lindau</hi><lb break="yes"/><hi rendition="#i">Roschach</hi>
+<hi rendition="#i">Sant Gallen</hi>
+<hi rendition="#i">Zürich</hi><lb break="yes"/><hi rendition="#i">Constanz Schaffhausen</hi> bis<lb break="yes"/><hi rendition="#i">Basel </hi><hi rendition="#i">Aaran Bern</hi> <unclear/><lb break="yes"/>auf den <del><unclear>bei</unclear></del> Schwarzwald machen </p><p><space/> Diese Reise wäre in 14 Tagen<lb break="yes"/>abgemacht, &amp; ich könnte meine<lb break="yes"/><hi rendition="#i">Comißionen</hi> hübsch dabei ohne<lb break="yes"/>Auslagen. <seg ana="#salute">Ich grüße Sie bestens<lb break="yes"/>so wie meine <hi rendition="#i">Sophie</hi></seg>. v. Ihr,<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Wm
+                            </hi><surname><hi rendition="#i">J.</hi></surname></hi></p><p><add place="margin">Kein besseres habe ich <unclear>nicht</unclear>.<seg ana="#pic">schmetterling</seg></add></p>
+<pb facs="#image_026"/>
+<p><hi rendition="#c">Herrn</hi><lb break="yes"/>J. G. <surname>R.</surname><lb break="yes"/><unclear>P Comis</unclear>
+<hi rendition="#sup"><unclear>in</unclear></hi>
+<hi rendition="#i">Augsburg</hi>.</p>
+</body>
+</text>
+</TEI>

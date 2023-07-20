@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2000s08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2000</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Tochter: Lina <surname>H.</surname></persName>
+<date type="sent">31.12.1913</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2000s">
+<persName>
+<forename>Barbara</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1914"/>
+<occupation>Lehrersfrau</occupation>
+<residence><geo decls="#WGS">47.5352544 10.3050352</geo>Stein, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1881" to="1914">1881-1914</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Halluzinatorische Verwirrtheit (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="tochter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich für die Pflege ihrer Mutter und bedauert, dies nicht selbst leisten zu können. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2000s08a.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb2000s08b.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="kfb2000s08c.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München</hi>, 31 Dezbr.
+                        1913.</hi></dateline>
+<salute><hi rendition="#c">Hochverehrter Herr <hi rendition="#i">Oberarzt</hi>!</hi></salute>
+</opener>
+<p>Beim Kommen des neuen Iahres möchte ich Ihnen<lb break="yes"/>die herzlichste
+                Bitte unterbreiten, meinem<lb break="yes"/>lieben Mutterle auch im neuen Iahre die
+                gleiche<lb break="yes"/>Liebe u. Aufmerksamkeit schenken zu wollen,<lb break="yes"/>wie seit Iahren. Ich weiß ja, daß ich durch<lb break="yes"/>Ihre große Güte schon
+                so viel empfangen habe,<lb break="yes"/>die Beruhigung daß <hi rendition="#i">Sie</hi> unter Ihrem Schutze<lb break="yes"/>so gut aufgehoben ist, meinen
+                innigsten<lb break="yes"/>tiefgefühltesten Dank dafür. Mit diesem<lb break="yes"/>Dankesgefühl im Herzen, wünsche ich Ihnen<lb break="yes"/>ein recht frohes
+                gesundes neues Iahr,<lb break="yes"/>möge <hi rendition="#i">Sie</hi> uns der liebe
+                Gott in bester<lb break="yes"/>Gesundheit &amp; Schaffenskraft erhalten <pb facs="#image_018"/>zum Segen der armen Leidenden. </p><p>Es ist mir ein großer Kummer, daß sich<lb break="yes"/>der Zustand meiner lieben Mutter in der<lb break="yes"/>Weise verschlimmert hat, daß <del><hi rendition="#i">S</hi></del>sie sich<lb break="yes"/>nicht mehr ganz rein halten kann<lb break="yes"/>wie mir Frl. Mathilde bei meinem<lb break="yes"/>Besuche im Sommer
+                gesagt hat. </p><p>Es ist so namenlos traurig wenn man<lb break="yes"/>sich selbst nicht mehr so helfen kann,<lb break="yes"/>und es ist mir ein so großer Trost<lb break="yes"/>daß sie in so
+                lieben Händen ist,<lb break="yes"/>Frl. Mathilde u. Clara sind ja so gut<lb break="yes"/>mit ihr. Wie oft habe ich schon bereut <pb facs="#image_019"/>daß
+                ich nicht Lehrerin geworden bin, ich könnte<lb break="yes"/>in <w>irgend einem</w>
+                Landschulhäuschen meine<lb break="yes"/>Pflicht, meine alte Mutter zu pflegen,
+                    selbst<lb break="yes"/>erfüllen. −</p><p>Nochmals, hochverehrter Herr Oberarzt, innigsten<lb break="yes"/>herzlichsten Dank für Alles! </p><p><hi rendition="#c"><seg ana="#salute">In dankbarer Gesinnung und Verehrung<lb break="yes"/>Ihre
+                            </seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Lina
+                            <surname>H.</surname>
+</seg><lb break="yes"/><space/> Lehrersgattin.</hi></p>
+</body>
+</text>
+</TEI>

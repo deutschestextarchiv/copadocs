@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb77j07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>77</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehemann: Josef <surname>J.</surname></persName>
+<date type="sent">18.09.1850</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb77j">
+<persName>
+<forename>Maria Clara</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1792"/>
+<death cert="unknown"/>
+<occupation>Klaviersfabrikantfrau</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1850" to="1857">1850-1857</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Reizbarkeit, Agilitaet</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehemann"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Ehemann der Patientin wendet sich wegen der Organisation der Entlassung seiner Frau an die Anstalt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb77j07a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb77j07b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München. 18.Sept:
+                    1850.</hi></hi></dateline>
+<salute>Hochgeehrtester Herr Direcktor!</salute>
+</opener>
+<p>ich halte es für gut Euer Wohlgeboren den Empfang<lb break="yes"/>Jhres sehr
+                geehrten <hi rendition="#i">S</hi>chreibens vom 15<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> d. M. hiemit<lb break="yes"/>anzuzeigen.
+                Zugleich spreche ich meinen innigsten dank<lb break="yes"/>für die gute Nachricht
+                u. Jhre gehabte Mühe von innigstem<lb break="yes"/>Herzen aus, wünshend, daß wir
+                dismal das Unglück<lb break="yes"/>eines Rückfalles nicht erleben möchten. </p>
+<p><space/> Jch bitte, mir durch Fräulein von <hi rendition="#i"><surname>P.</surname></hi>, welche die Güte<lb break="yes"/>haben wird
+                meine Frau nach <hi rendition="#i">Augsburg</hi> zu begleiten, alle<lb break="yes"/><del>ge</del> nöthig gewordene Ausgaben, zu verzeichnen, <hi rendition="#i">resptv.</hi> angeben<lb break="yes"/>zu laßen, welche ich, soweit die in
+                Händen habende Mittel<lb break="yes"/>nicht ausreichen, sogleich dankend
+                berichtigen werde. </p>
+<p>Mir selbst ist es unmöglich bis Jrsee zu reisen, da ich zu viel<lb break="yes"/>zu
+                thun habe, u. sich auf vorbereitete Weise die <hi rendition="#i">S</hi>ache einfacher<lb break="yes"/><w>durch führen</w> läßt. </p>
+<p><space/> Euer Wohlgeboren werden erlauben, Jhnen einige Zeit nach<lb break="yes"/>der Zurükkunft, Nachricht über das Befinden meiner Frau geben<lb break="yes"/>zu
+                    <del>können</del>
+<add place="above">dürfen</add>. Es ist mir sehr lieb daß <hi rendition="#i">S</hi>ie
+                meine fr: <hi rendition="#u">nur</hi> so lange<lb break="yes"/>es grade nöthig
+                war behalten haben, denn sie hat mich ungemein<lb break="yes"/>gedauert, daß sie
+                    <add place="above">so</add> lange die freiheit entbehren mußte. <pb facs="#image_002"/>Frau <hi rendition="#i">Aße</hi>s<hi rendition="#i">orin</hi>
+von <surname>S.</surname> will ihr Aussehen noch etwas<lb break="yes"/>verworren gefunden haben, indeßen scheint dies blos eine<lb break="yes"/>Meinung
+                zu sein.</p>
+<p><space/> Jch bitte mich Frau Direktorin aufs beste zu empfehlen<lb break="yes"/>und
+                die Versicherung vollkomenster Hochachtung und Verehrung<lb break="yes"/>zu
+                genehmigen in welcher ich bin<lb break="yes"/><hi rendition="#c">Euer
+                    Wohlgeboren</hi><lb break="yes"/><hi rendition="#r">dankbar ergebenster<lb break="yes"/><seg ana="#signed"><unclear>Hg.</unclear> Jo<hi rendition="#i">s</hi>.
+                            <surname>J.</surname></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

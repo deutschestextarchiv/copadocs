@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2087f30" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2087</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>F.</surname></persName>
+<date type="sent">05.05.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Karl <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2087f">
+<persName>
+<forename>Ludwig</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1935"/>
+<occupation>Gastwirt, Landwirt</occupation>
+<residence><geo decls="#WGS">47.6283377 9.9102676</geo>Heimenkirch, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Gastwirt</p>
+<p>Anstalt: <date from="1900" to="1935">1900-1935</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Manie (1930), Ideenflucht, Größenwahn (1900-35), Halluzination (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient1"/>
+<handNote medium="pencil" scope="minor" scribe="patient2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber behauptet, jede beliebige Summe beschaffen zu können. Deswegen will er in seinem Heimatort eine Schule und ein Gasthaus bauen.
+                    Außerdem will er eine elektrische Straßenbahn bauen, deren Streckenführung er anhand zahlreicher Ortsnamen beschreibt.
+                    Er berichtet, dass er wieder gesund ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2087f30a.jpg" xml:id="image_088"/>
+<graphic mimeType="image/jpg" url="kfb2087f30b.jpg" xml:id="image_089"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_088"/>
+<opener>
+<dateline> <handShift medium="pencil" scribe="patient2"/><hi rendition="#r">Herrn <hi rendition="#i">Karl <surname>H.</surname>
+</hi><lb break="yes"/><hi rendition="#i">Heimenkirch</hi></hi><lb break="yes"/><handShift medium="ink" scribe="patient1"/><hi rendition="#c"><hi rendition="#i">Kaufbeuen den 5. Mai</hi>
+                        1929.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Lieber Karl mit
+                    Frau</hi>!</hi></salute>
+</opener>
+<p> Da ich in der Lage bin, jedes beliebige <hi rendition="#i">Kap</hi><lb break="no"/><hi rendition="#i">ital zu <w>besch affen</w></hi>, werde ich auf mein <hi rendition="#i">Risiko</hi><lb break="yes"/>nach <hi rendition="#i">Berg bauen</hi>
+                auch Schule u. Gasthaus.<lb break="yes"/><hi rendition="#i">Elecktrische Straßenbahn
+                    Lindau Heimen</hi><lb break="no"/><hi rendition="#i">kirch Weiler Begenz</hi>
+                retour <hi rendition="#i">Lindau Linden</hi><lb break="no"/><hi rendition="#i">berg
+                    Scheidegg San</hi>atorium <hi rendition="#i">Hirschberg</hi><lb break="yes"/><hi rendition="#i">Gebhardsberg Fluh</hi> über <hi rendition="#i">Eichenberg
+                    Opfenbach</hi><lb break="yes"/><hi rendition="#i">Hergatz Wangen Isny' Leukirch
+                        <w>Mem̄i ngen</w></hi><lb break="yes"/><hi rendition="#i">Ulm Isny'
+                    Kempten Buchloe München</hi><lb break="yes"/><hi rendition="#i">Landsberg</hi> u
+                sw. <del>b</del>Bis Juli hoffe den <unclear>Retrokurs</unclear> öf<lb break="no"/>fen zu könen. Bin gesundheitlich wieder auf<lb break="yes"/>der Höhe. Auch Euch
+                mit Kindern hoffe ich wohl<unclear>auf</unclear><lb break="yes"/><pb facs="#image_089"/> Habe nun meinen <seg ana="#med"><hi rendition="#i">Reumatis</hi></seg> weg.<lb break="yes"/>Die <seg ana="#med"><hi rendition="#i">Sch</hi>lafkrankheit</seg> ebenfalls. Hoffe meiner<lb break="yes"/>Famili<hi rendition="#i">e</hi> wieder nützen zu könen.<lb break="yes"/><hi rendition="#c"><seg ana="#salute"><w><hi rendition="#i">Frdl</hi></w><w><hi rendition="#i">Gruß</hi></w></seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Ludwig
+                                </hi><surname><hi rendition="#i">F.</hi></surname></seg><hi rendition="#i">.</hi></hi><lb break="yes"/><unclear><hi rendition="#i">M.</hi></unclear><hi rendition="#i">Frdl Gruß. <surname>H.</surname>
+                    Fridl, Kraile, Docktor</hi>.</p>
+</body>
+</text>
+</TEI>

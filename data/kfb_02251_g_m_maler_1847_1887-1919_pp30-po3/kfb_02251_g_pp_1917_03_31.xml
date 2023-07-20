@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Carima Jekel</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">31.03.1917</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Babette <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Maler</p>
+<p>Anstalt: <date from="1887" to="1919">1887-1919</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/><!--anpassen!-->
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Der Schreiber schreibt von meineidigen Personen und Misshandlung.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g04a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb2251g04b.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb2251g04c.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb2251g04d.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><hi rendition="#c">Irsee den 31 März 1917.</hi></dateline>
+<salute><hi rendition="#c">Werthe Schwester!</hi></salute>
+</opener>
+<p>Letzter Zeit gehört habe<lb break="yes"/>reden von Mißhandlun<lb break="no"/>gen
+                grober Unfug Mein<lb break="no"/>eidiger Ehrabschneiden im<lb break="yes"/>folsten Wort gar nicht ver<lb break="no"/>nommen haben dürfen von<lb break="yes"/>Knopf Lindau frührner in<lb break="yes"/>Lindau geweßener Meineidig<lb break="no"/>er. von Zahlen mir ist.<lb break="yes"/>Geldern war. Grübel in<lb break="yes"/>Kaufbeuern alles Glauben<lb break="yes"/>verwerfen sollte derselbe<lb break="yes"/>Charrackter mir ist nur<lb break="yes"/>durch brenen Meineidig<lb break="yes"/>war. Gerber ein mißer<lb break="no"/>rabler Grober Schurken </p>
+<pb facs="#image_011"/>
+<p> Nieder Trächtiger gemein<lb break="no"/>Mensch Pfleger unßer<lb break="yes"/>Abtheilung Leumund.<lb break="yes"/>Wimer Mißhandlung<lb break="yes"/>von
+                Körperlichen u Lüg<lb break="no"/>ner Polizei u. Medezin.<lb break="yes"/>Vater
+                selig Krank u. Ge<lb break="no"/>storben an Zungen Miß<lb break="no"/>handlung
+                Zungen. Mord<lb break="yes"/>durch Blaßen gesprengt<lb break="yes"/>worden ein
+                    Loch bekom̄en<lb break="yes"/>haben. <surname>R.</surname> von Landthorn<lb break="yes"/>Metzgersohn Jahre weis<lb break="yes"/>Mißhandelt der Medezin.<lb break="yes"/>Ietz Schließe mein Schrei<lb break="no"/>ben u würßt Erhalten<lb break="yes"/>werden Lebe Sicher noch ein 
+            </p>
+<pb facs="#image_012"/>
+<p> Ernßtes Wort noch zu<lb break="yes"/>Sprechen mit dir. Das<lb break="yes"/>dich
+                auch bessern würst.<lb break="yes"/><seg ana="#signed">Dein Bruder Iakob<lb break="yes"/><surname>G.</surname> Maler.</seg>
+</p>
+<pb facs="#image_013"/>
+<p>
+<hi rendition="#c">Babette <surname>G.</surname> Malerstochter<lb break="yes"/>in<lb break="yes"/>der Heil und Pfleg Anstalt<lb break="yes"/>Kaufbeuern. </hi><lb break="yes"/><lb break="yes"/>frei.
+                
+            </p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb185s02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Corinna Köhler</name>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Stephanie Kamm</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>185</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">25.02.1867</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Babette <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb185s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1813"/>
+<death cert="unknown"/>
+<occupation>Gerbermeister</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1850" to="1879">1850-79</date></p>
+<p>Brieftypen: pp,ao</p>
+</state>
+<trait><p>fixe Ideen (1850)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    beschwert sich bei der Frau über die Verwaltung seines Geldes und die Kindererziehung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb185s02a.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><add hand="arzt" place="top"><hi rendition="#u">Ad <surname>S.</surname></hi> 26.2.67.</add><lb break="yes"/><hi rendition="#r">Irsee den 25 Febr 1867.</hi></dateline>
+<salute><hi rendition="#i">Babette</hi>!</salute>
+</opener>
+<p>Weil dir eine ehrliche Verwaltung &amp; Aufsicht<lb break="yes"/>meines Vermögens
+                wehrend der ärtzlichen Be<lb break="no"/>handlung meiner Person, wie auch eine gute
+                    Er<lb break="no"/>ziehung unsrer Kinder, durchaus nicht gefällig<lb break="yes"/>war, auch unsre einzige noch lebende Tochter ohne<lb break="yes"/>ein
+                Einverstäntniß mit mir in ein mir un<lb break="no"/>bekan̄tes Haus an einen
+                Menschen den ich schon<lb break="yes"/>als Lügner ken̄en lernen mußte weil
+                    er<lb break="yes"/>nicht Wort hielt was er mir versprach, verheurathet<lb break="yes"/>wurde, auch deine Familie die von mir im Frühjahr<lb break="yes"/>1848 verlangten f 10,000.− wie ich hörte nicht ein<lb break="no"/>gezahlt sondern
+                alle auf meinen Reisen gemach<lb break="no"/>ten guten Einkäuffe
+                rückgängig gemacht haben<lb break="yes"/>soll; so verlange ich von dir selbst zu
+                wißen, was Du<lb break="yes"/>noch zu leisten fähig bist &amp; thun willst. <hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Jacob</hi>.</seg></hi></p>
+</body>
+</text>
+</TEI>

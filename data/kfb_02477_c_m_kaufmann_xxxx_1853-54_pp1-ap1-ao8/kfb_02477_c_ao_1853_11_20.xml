@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2477c07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2477</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>K.</surname></persName>
+<date type="sent">20.11.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">Gunzenhausen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2477c">
+<persName>
+<forename>Moritz</forename>
+<surname>K.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">49.1147095 10.7545933</geo>Gunzenhausen</residence>
+<faith>jüdisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1853" to="1854">1853-54</date></p>
+<p>Brieftypen: pp,ap,ao</p>
+</state>
+<trait><p>"trübe Gemüthsstimmung &amp; einen Zustand von Schwermuth“ (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Aufgrund fehlender Berichte über den Zustand ihres Ehemannes kündigt die Frau des Patienten an, die Anstalt besuchen zu wollen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2477c07a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener><dateline/>
+<salute><hi rendition="#c">Euer Wohlgeboren</hi></salute>
+</opener>
+<p>Es ist bereits schon 15 Tage daß ohne Berichte<lb break="yes"/>über dem Befinden
+                von meinen Man̄, u bin<lb break="yes"/>ich nun entschlossen, noch im Laufe
+                dieser Woche<lb break="yes"/>mich selbst davon zu überzeigen, den̄ der
+                Schmerz<lb break="yes"/>drückt mich fast nieder. Euer Wohlgeboren<lb break="yes"/>werden entschuldigen, u mir doch bei ansehen<lb break="yes"/>dieses gefällige
+                Mittheilung machen. Ich vermuthe<lb break="yes"/>mein Man̄ will mir nicht
+                schreiben, um mich<lb break="yes"/>zu erproben ob ich ihm nicht besuchen wolle. </p>
+<p><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Johan̄a
+                                <surname>K.</surname></hi></seg></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Gunzenhausen den 20</hi>
+                    November <hi rendition="#u">1853</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

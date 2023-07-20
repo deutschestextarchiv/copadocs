@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1491l04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1491</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Engelbert <surname>L.</surname></persName>
+<date type="sent">26.03.1897</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Pfarrer: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1491l">
+<persName>
+<forename>Engelbert</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1835"/>
+<death when="1907"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">47.5970747 9.738314</geo>Wildberg (Lindau)</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1889" to="1907">1889-1907</date></p>
+<p>Brieftypen: pp,po</p>
+</state>
+<trait><p>Tobsucht, Verrücktheit mit Ausgang in apathischem Blödsinn, Halluzination (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>offizieller Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> bittet um Übersendung von 15 Mark </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1491l04a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb1491l04b.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="kfb1491l04c.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><w>Pfleg Anstalt</w> Irsee den 26 März 1897</dateline>
+<salute><w>Hoch Wohl Geborner</w> Pfarrr in Weisensberg</salute>
+</opener>
+<p> Bezürchßamt Lindau <w>in dem</w> ich Die<lb break="yes"/>Guttachtung
+                Bekomen habe an Sie<lb break="yes"/>Schreuben Das mier Die Entlassung <w>zu<lb break="yes"/>Gesagt</w> worden ist so Bitte ich als<lb break="yes"/>Holzhaker Pflägling Engelbert:<lb break="yes"/><surname>L.</surname> ich Bitte Sie Herrn Pfarrher<lb break="yes"/>und 15 Mark
+                    <w>Reisse Geld</w> Schüken<lb break="yes"/>in Die <w>Pfläg Anstalt</w> Irsee Bei<lb break="yes"/><w>Kauf Bayren</w>
+<w>in Dem</w> ich den<lb break="yes"/>Herrn <w>Bürger Meister</w> Johangeorg<lb break="yes"/><surname>V.</surname> Wohnort Schwatzam<lb break="yes"/>gemeinde Weisensberg
+                ich Bitte<lb break="yes"/>als Pflägling Engelbert <surname>L.</surname> Das<lb break="yes"/>Sie mier Daß Geld 15 Mark auß<lb break="yes"/>Der Sparkasse
+                Schüken <w>in dem</w><lb break="yes"/>es Notwendig bin Nepst
+                Gruß an die<pb facs="#image_013"/> Gemeinde Meinde <w>Weisens
+                    Berg</w><lb break="yes"/>Nepst Gruß an Bruder und Schwester<lb break="yes"/>So
+                Bitte ich Engelbert <surname>L.</surname> um recht<lb break="yes"/>Baldige
+                    Antwort.</p><p>
+<hi rendition="#c"><seg ana="#salute">Es Grüst eich auf daß<lb break="yes"/>Freündlichste</seg><lb break="yes"/><seg ana="#salute">Engelbert<lb break="yes"/><surname>L.</surname></seg></hi><pb facs="#image_014"/>
+<hi rendition="#c">An</hi><lb break="yes"/><w>Hoch Wohl Gbornen</w><lb break="yes"/>Hern Pfarrer in
+                    Weisensberg<lb break="yes"/><w>Bezürchs Amt</w> Lindau am<lb break="yes"/><hi rendition="#c"><w>Boden See</w></hi></p>
+</body>
+</text>
+</TEI>

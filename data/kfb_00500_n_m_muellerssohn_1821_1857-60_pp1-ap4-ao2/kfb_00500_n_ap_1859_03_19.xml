@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb500n05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Angela Hofmann</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>500</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Katharina <surname>N.</surname></persName>
+<date type="sent">19.03.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sohn: Franz <surname>N.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb500n">
+<persName>
+<forename>Franz</forename>
+<surname>N.</surname>
+</persName>
+<birth when="1821"/>
+<death cert="unknown"/>
+<occupation>Bauern- und Müllerssohn</occupation>
+<residence><geo decls="#WGS">48.3277485 11.9905263</geo>Hecken, Erding</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: wohlhabend</p>
+<p>Anstalt: <date from="1857" to="1860">1857-60</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Schwermut, [Suizidalität] (1857-1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Mutter schickt Sohn den Quartalsbetrag
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb500n05a.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber Sohn!</hi></salute>
+</opener>
+<p>
+<add hand="arzt" place="above"><hi rendition="#r">19 Merz 60</hi></add>
+				    
+Hier überschicke ich dir den Quartal betrag<lb break="yes"/>mit 50 f. Wandle vor Gott und laß dir<lb break="yes"/>die Wege des Herrn gefallen, <seg ana="#salute">Sey von<lb break="yes"/>uns allen schönstens gegrüßt und in Schutz<lb break="yes"/>Gottes empfohlen. Vertrau auf Gott<lb break="yes"/>Er hilft in Noth</seg> <seg ana="#signed">in aller Liebe verbleibe</seg></p>
+<p><seg ana="#signed">Ich</seg></p>
+<p><seg ana="#signed"><hi rendition="#r">Deine besorgte<lb break="yes"/>Mutter Katharina<lb break="yes"/><surname>N.</surname></hi></seg>
+</p>
+</body>
+</text>
+</TEI>

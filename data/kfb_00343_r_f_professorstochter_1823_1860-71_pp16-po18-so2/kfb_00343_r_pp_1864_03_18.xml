@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb343r17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>343</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>R.</surname></persName>
+<date type="sent">18.03.1864</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freundin: Therese</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb343r">
+<persName>
+<forename>Johanna</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1871"/>
+<occupation>Professorstochter</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Professor</p>
+<p>Anstalt: <date from="1860" to="1871">1860-71</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Fixer Wahnsinn (1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   bittet um eau de cologne und um Besuch ihrer Freundin Therese
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb343r17a.jpg" xml:id="image_060"/>
+<graphic mimeType="image/jpg" url="kfb343r17b.jpg" xml:id="image_061"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_060"/>
+<opener>
+<dateline/>
+<salute>Beilage. Liebe Therese!</salute>
+</opener>
+<p>Sende<lb break="yes"/>mir auch ein Glas <hi rendition="#i">eau de co<lb break="no"/>logne</hi>, über meine Vermögens=<lb break="yes"/>wie
+                Familienverhältnisse<lb break="yes"/>hast Du mir trotz hundert<lb break="no"/>maligen Flehens nie<lb break="yes"/>Antwort gegeben; wie<lb break="yes"/>lange
+                wirst Du noch in<lb break="yes"/>Deinem Stillschweigen<lb break="yes"/>beharren?
+                Schicke mir<lb break="yes"/>den Herrn Landrichter<lb break="yes"/><surname>F.</surname>, daß er mich abholt;<lb break="yes"/>wo nicht, so
+                sende mir<lb break="yes"/>einen Reifrock, Mantel,<lb break="yes"/><hi rendition="#i">eau de cologne</hi>, Honig<lb break="yes"/>und Taschengeld. Mache<lb break="yes"/>auch eine Eingabe, daß<pb facs="#image_061"/>ich, wen̄
+                ich nicht fortkom̄e<lb break="yes"/>in die erste Klasse kom̄e,<lb break="yes"/>und sende mir einen<lb break="yes"/>Nachriegel. Ich wäre<lb break="yes"/><hi rendition="#u">nie</hi> hereingegangen, wen̄<lb break="yes"/>man mir nicht fest und<lb break="yes"/>heilig ein eigenes
+                Zim̄er<lb break="yes"/>versprochen hätte. Kom̄<lb break="yes"/>Selbst so bald als möglich,<lb break="yes"/>ich gib Dir dan̄ meine<lb break="yes"/>Ohrringe, und will Dir<lb break="yes"/>dadurch die Reisekosten<lb break="yes"/>ersetzen.<lb break="yes"/><seg ana="#signed"><hi rendition="#c">Deine</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Jeanette </hi><lb break="yes"/><surname>R.</surname></hi></seg>
+</p>
+<p>Irsee, den<lb break="yes"/>18 März 1864.</p>
+</body>
+</text>
+</TEI>

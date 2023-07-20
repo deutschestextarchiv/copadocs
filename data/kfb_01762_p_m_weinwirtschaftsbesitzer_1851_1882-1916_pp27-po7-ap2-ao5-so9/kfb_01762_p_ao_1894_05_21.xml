@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1762p41" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1762</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Margaretha <surname>P.</surname></persName>
+<date type="sent">21.05.1894.</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1762p">
+<persName>
+<forename>Philipp</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1916"/>
+<occupation>Weinwirtschaftsbesitzer</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Kitzingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n. a. </p>
+<p>Anstalt: <date from="1882" to="1916">1882-1916</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Tobsucht (1874, 1881), Depression (1881, 1882-1895), Manie (1882), circulärer Irrsinn (1882-1895)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Ehefrau möchte erfahren, ob der Patient geheilt werden könne, um andernfalls eine Scheidung einzuleiten. Der Arzt bestätigt Unheilbarkeit nicht.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1762p41.jpg" xml:id="image_136"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_136"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg den 21 Mai
+                        1894.</hi></hi></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr Direktor!</hi></salute>
+</opener>
+<p>Unterzeichnete ersucht Herrn Direktor<lb break="yes"/>unterthänigst, eine Frage
+                stellen zu<lb break="yes"/>dürfen. Ist bei der Krankheit meines<lb break="yes"/>Mannes anzunehmen, daß eine vollstän<lb break="no"/>dige Heilung noch eintreten
+                kann oder<lb break="yes"/>für immer unheilbar bleibt. Im letztern<lb break="yes"/>Falle würde ich mich für eine gerichtliche<lb break="yes"/>Scheidung vorbereiten. </p> <p>Um Ihren gütigen Aufschluß, bittend<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Hochachtungsvollst</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">M. </hi><surname><hi rendition="#i">P.</hi></surname></seg>.<lb break="yes"/>F 152 <hi rendition="#sup">II</hi> Katzenstadel.</hi><lb break="yes"/><add hand="arzt">23 V 94: Absolute Unheilbarkt<lb break="yes"/>kan̄ nicht bestätigt werden -<lb break="yes"/>die Anfälle
+                    kön̄en mit zunehmend<lb break="yes"/>Lebensalter vielleicht doch noch<lb break="yes"/>ausbleiben.<lb break="yes"/><unclear/>.</add>
+</p>
+</body>
+</text>
+</TEI>

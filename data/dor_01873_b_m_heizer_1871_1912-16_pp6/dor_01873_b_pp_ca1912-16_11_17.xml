@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor1873b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>1873 (K.10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>B.</surname></persName>
+<date type="sent">17.11.ca1912-16</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager und Schwester Loise</persName>
+<settlement type="sent">Aplerbeck</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor1873b">
+<persName>
+<forename>Heinrich</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1871-02-26"/>
+<death cert="unknown"/>
+<occupation>Heizer</occupation>
+<residence><geo decls="#WGS">52.7310186 9.6054281</geo>Geburtsort: Eickel; Wohnort: Eickel</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1912-06-01" to="1916-04-30">01.06.1912-30.04.1916</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Dementia Paralytica (1912)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt1"/>
+<handNote medium="crayon" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    wünscht sich zu Weihnachten einen Kuchen und eine Kiste Zigarren; darf im April wieder nach Hause
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor1873b03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="dor1873b03b.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline><hi rendition="#r">Ablerbeck d <hi rendition="#u" style="arzt2">17
+                            No</hi>wmbr</hi></dateline>
+<salute>Liber Sch<hi rendition="#u" style="arzt2">wg</hi>er und<lb break="yes"/>Sch<hi rendition="#u" style="arzt2">ws</hi>ter Loise</salute>
+</opener>
+<p><add hand="arzt1" place="top"><hi rendition="#i"><surname>B.</surname></hi></add></p><p>ich teihle<lb break="yes"/>euch mit das ich noch gesund<lb break="yes"/>und Munter bin<lb break="yes"/>Liebe Schwester Loise sei<lb break="yes"/>so gut und schike <hi rendition="#u" style="arzt2">mir</hi><lb break="yes"/>zu Weinachten einen<lb break="yes"/>schön<hi rendition="#u" style="arzt2">m</hi> Kuchen und 1<lb break="yes"/>Kiste Zigaren ich befinde<lb break="yes"/>mich H<hi rendition="#i">e</hi>ilanstalt <hi rendition="#u" style="arzt2">Ablerbek</hi><lb break="yes"/>mein bau 1 oben<lb break="yes"/><del>n</del><lb break="yes"/>ich mu<hi rendition="#u" style="arzt2">s noch bis April</hi>
+<pb facs="#image_006"/>hirbleiben dan kome<lb break="yes"/>ich wider nach Hause<lb break="yes"/>also es ist <del>ng</del> noch eine<lb break="yes"/>l<hi rendition="#u" style="arzt2">ag</hi>e zeit aber die geht<lb break="yes"/>auch
+                herum</p><p><hi rendition="#c">An Frau <surname>H.</surname><lb break="yes"/>Dotmud<lb break="yes"/><placeName type="street">Ledanstraße</placeName>
+<hi rendition="#i">Nr</hi> 31</hi></p><p>Bitt nochmals um das<lb break="yes"/>gewünste liebe Schwestr Loise </p>
+</body>
+</text>
+</TEI>

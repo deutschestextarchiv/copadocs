@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb149f11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Sabrina Freund</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>149</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>F.</surname></persName>
+<date type="sent">10.08.1918</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tochter, Franz <surname>K.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb149f">
+<persName>
+<forename>Magdalena</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1929"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">47.5861627 9.9436023</geo>Simmerberg, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1915" to="1929">1915-29</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Senile Demenz (1915), Halluzinationen (1919)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    liebe Grüße an alle Kinder,
+                    wünscht ihnen, dass sie gesund bleiben
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb149f11a.jpg" xml:id="image_024"/>
+<graphic mimeType="image/jpg" url="kfb149f11b.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb149f11c.jpg" xml:id="image_026"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline><hi rendition="#r"><add hand="arzt"><hi rendition="#i">prs.</hi> 13.7.18</add></hi><lb break="yes"/><hi rendition="#c">August den 10 1918.</hi></dateline>
+<salute><hi rendition="#c">Libe Tohter und Franz Karl</hi></salute>
+</opener>
+<p>Ich bin nicht gut daren mit<lb break="yes"/>einem holen die Lise wahr<lb break="yes"/>Wohl bei mir ihn Besuh alen<lb break="yes"/>reht thun an, sie daß
+                Sie alte<lb break="yes"/>her gelaßen die alte Frau hat so leben<lb break="yes"/>gesagt wen ih nur, besser angeht.<lb break="yes"/>Wie traurig, daßn gefangen Sei
+                ist<lb break="yes"/>daß könt ihr nicht genug begriffen<lb break="yes"/>aber doch
+                bin der Lise dankbar.<lb break="yes"/>Alen guthe und Mari du weißt<lb break="yes"/>es noh und deine Mutter wie es<lb break="yes"/>ist. geht du mit Lise und Mari<lb break="yes"/>mit dem Kepter Zug schreibe an<lb break="yes"/>Kepter <w>Zug
+                    führer</w> selbst ein Brif <pb facs="#image_025"/>den Zugführer ih fahr ganz<lb break="yes"/>gewiß mahnmall ih den Zug<lb break="yes"/>überdriber ihn meinen
+                Sanze<lb break="yes"/>leibe Tohter Katharine und laß<lb break="yes"/>mih nicht im
+                Stich. und Franz<lb break="yes"/>und Kinder, ih Vinsche daß<lb break="yes"/>Ichr
+                alle gesundt bleiben.<lb break="yes"/>ich weiß mir selbst nicht zu helfen<lb break="yes"/>fiele dropen schon garnit.<lb break="yes"/>shreibe an die Maria
+                ihn<lb break="yes"/>Tirol und die Kinder und<lb break="yes"/>an Franz und Mehdile
+                und<lb break="yes"/>Schwester einen. grus dake allen<lb break="yes"/>für daß
+                gelass. <seg ana="#salute">gruß</seg><lb break="yes"/><seg ana="#signed">Großmuter Magdalena
+                    <surname>F.</surname>.</seg><lb break="yes"/>Vieleich kenet nana noch ein<lb break="yes"/>Furwerk über daß man
+                mih noch<lb break="yes"/>auf <unclear>elerhend</unclear> thun auf die Bachen <pb facs="#image_026"/><hi rendition="#c">Adresse an Franz <surname>K.</surname>.<lb break="yes"/>in Augsburg Straße Sansch 6 Numr<lb break="yes"/>Jospeh
+                        <hi rendition="#u">Gasse</hi> Rosen v M<lb break="yes"/>Straße </hi>
+</p>
+</body>
+</text>
+</TEI>

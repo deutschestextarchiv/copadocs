@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k37" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johannes <surname>R.</surname></persName>
+<date type="sent">28.03.1866</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor Kiderle</persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1865" to="1867">1865-67</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="freund"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er berichtet über den Zustand des Patienten und bittet um ein Gutachten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k37a.jpg" xml:id="image_075"/>
+<graphic mimeType="image/jpg" url="kfb415k37b.jpg" xml:id="image_076"/>
+<graphic mimeType="image/jpg" url="kfb415k37c.jpg" xml:id="image_077"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_075"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg</hi> den 28 <hi rendition="#i">März</hi> 1866.</hi></dateline>
+<salute><hi rendition="#c">Verehrtester Herr Direktor!</hi></salute>
+</opener>
+<p><surname>K.</surname> ist glücklich hier angelangt,<lb break="yes"/>u.
+                scheint sich in seiner neuen Lage behag<lb break="no"/>lich zu fühlen. Ich finde ihn
+                viel ruhiger<lb break="yes"/>als früher. In der Unterhaltung ist er<lb break="yes"/>ganz der Alte, wie er in früherer Zeit<lb break="yes"/>war. Beim ersten
+                Zusam̄entreffen mit<lb break="yes"/>Bekan̄ten ist er schüchtern. Der
+                Appetit <del>ist</del><lb break="yes"/>könnte besser sein. Er spricht viel von Ihnen,<lb break="yes"/>u.
+                ist voll Dank u. Anerken̄ung der ihm von<lb break="yes"/>Ihnen bewiesenen
+                Aufmerksamkeit. Mir<lb break="yes"/>kom̄t es manchmal vor als wen̄ er
+                nach Ihrer<lb break="yes"/>Person ein Heimweh fühle. <surname>K.</surname>
+                wird<lb break="yes"/>vorerst bei mir bleiben. Heute hat er sich<lb break="yes"/>dem Stadtkom̄andanten <surname>F.</surname> vorgestellt.<lb break="yes"/>Mittwoch den 4 <hi rendition="#i">April</hi> muß er sich früh 8 Uhr<lb break="yes"/>bei einer Sanitäts-<hi rendition="#i">Com̄ission</hi> einfinden,<lb break="yes"/>da er wieder in Aktivität zu treten wünscht.<lb break="yes"/>Bevor
+                muß aber von <hi rendition="#u">Ihrer Hand ein Gutach</hi><lb break="no"/><hi rendition="#u">ten beim Regiment</hi>, oder bei der <hi rendition="#i">Com̄an<lb break="no"/>dant</hi>schaft hier eintreffen. Ich bitte Sie
+                    <pb facs="#image_076"/>dieses Gutachten <hi rendition="#u">recht bald</hi> zu
+                senden, damit<lb break="yes"/><surname>K.</surname> mit seinen Bestrebungen
+                nicht<lb break="yes"/>aufgehalten wird.<lb break="yes"/><space/> Jedenfalls werde
+                ich Ihnen in nächster<lb break="yes"/>Woche einen wiederholten Bericht senden<lb break="yes"/>Mit aller Verehrung Ihr<lb break="yes"/><hi rendition="#r">ergebenster<lb break="yes"/><hi rendition="#i"><seg ana="#signed">Johannes <hi rendition="#u"><surname>R.</surname></hi></seg></hi></hi>
+</p>
+<pb facs="#image_077"/>
+<p><hi rendition="#r">Sr. Wohlgeboren<lb break="yes"/>T. Herrn <hi rendition="#i">Dr.
+                        Kiderle</hi><lb break="yes"/>Direktor der Anstalt</hi><lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Irsee</hi></hi><lb break="yes"/>bei Kaufbeuren</hi><lb break="yes"/><hi rendition="#u">frei</hi>.</p>
+</body>
+</text>
+</TEI>

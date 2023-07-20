@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1614d01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1614</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>D.</surname></persName>
+<date type="sent">10.04.1903</date>
+<date type="received">n.a.</date>
+<persName type="addressee">evtl. Schwester: Anna <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1614d">
+<persName>
+<forename>Karl</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1868"/>
+<death when="1907"/>
+<occupation>Handlungscommis</occupation>
+<residence><geo decls="#WGS">48.6263543 10.745509</geo>Buttenwiesen, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Mühlbesitzerseheleute</p>
+<p>Anstalt: <date from="1892" to="1907">1892-1907</date></p>
+<p>Brieftypen: <!--Brieftypen--></p>
+</state>
+<trait><p>Religiöse Schwärmerei (1892), Halluzinationen (1904)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Richtet Grüße aus, berichtet über Gesundheitszustand
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1614d01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1614d01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb1614d01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><space/> <hi rendition="#i">Kaufbeuren</hi>
+<add place="below">|:Irrsee:|</add>10. April<lb break="yes"/><hi rendition="#r">1903.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Liebe Anna!</hi></hi></salute>
+</opener>
+<p>Ich glaube daß der On<lb break="no"/>kel öfter bei Dir ist<lb break="yes"/>und
+                bitte ich, mir den<lb break="no"/>selben zu grüßen. In<lb break="no"/>dem Du
+                jedenfalls<lb break="yes"/>auch hier verkehren wirst,<lb break="yes"/>wäre es mir
+                recht<lb break="yes"/>wenn wir uns ein<lb break="no"/>mal zu sehen be<lb break="no"/>kämen, indem alles<lb break="yes"/>recht ist. Hoffentlich<lb break="yes"/>wird
+                bei Euch die Er<lb break="no"/>nte herannahen. <pb facs="#image_002"/>und Du wirst
+                wohl<lb break="yes"/>viel zu thun haben.<lb break="yes"/>Manchmal ist es<lb break="yes"/>mir so zu Muthe<lb break="yes"/>als ob ich bei Euch<lb break="yes"/>sein könnte zu länger<lb break="no"/>em Bleiben und sehe<lb break="yes"/>ich nur Fanfahren<lb break="yes"/>− − − o Gott
+                sieh'<lb break="yes"/>Dein Volk an, es<lb break="yes"/>sind lauter Zigeuner:<lb break="yes"/><hi rendition="#c">Es ist ein Vogel,<lb break="yes"/>ein Freund
+                    der Nacht;<lb break="yes"/>Hast ohne Fuß du<lb break="yes"/>Es dir gedacht<lb break="yes"/>Gehen ihm stetig<lb break="yes"/>Andre <hi rendition="#u">voran</hi> −<lb break="yes"/>Beim Militär man es<lb break="yes"/>Wahrnehmen kann.</hi>
+<pb facs="#image_003"/>An meinem Geburtstag<lb break="yes"/>als dem morgigen<lb break="yes"/>Tage wünsche ich noch<lb break="yes"/>ein dreifach donnern<lb break="no"/>des Lebe hoch zum neu<lb break="no"/>en Jahre entgegen<lb break="yes"/>und <seg ana="#salute">schließe ich mit<lb break="yes"/>bestmöglichen Grüßen </seg><lb break="yes"/><seg ana="#signed"><hi rendition="#c">von </hi><lb break="yes"/><hi rendition="#r">Deinem<lb break="yes"/>Dich liebenden Bruder<lb break="yes"/><hi rendition="#i">Carl</hi></hi></seg></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb803m04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>803</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Friedrich <surname>M.</surname></persName>
+<date type="sent">28.10.1862</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb803m">
+<persName>
+<forename>Friedrich</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1837"/>
+<death cert="unknown"/>
+<occupation>Rotgerberssohn</occupation>
+<residence><geo decls="#WGS">48.618268 10.4155609</geo>Wittislingen, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Rotgerber, Privatier (zahlt)</p>
+<p>Anstalt: <date from="1862" to="1870">1862-70</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Aufregung abwechselnd mit Schwermut, Melancholie, Erotomanie (1862)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um verschiedene Dinge und plant, in München zu arbeiten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb803m04a.jpg" xml:id="image_059"/>
+<graphic mimeType="image/jpg" url="kfb803m04b.jpg" xml:id="image_060"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_059"/>
+<opener>
+<dateline><w>Ihr seh</w> den 28<hi rendition="#sup">ten</hi> Oktober 18 62
+                        .<hi rendition="#i">Sontag</hi>!</dateline>
+<salute><hi rendition="#c">Theuerste Eltern!</hi></salute>
+</opener>
+<p>Ich hoffe mein Schreiben treffe euch in bester Gesundheit an<lb break="yes"/>Wie
+                ich jetzt Gottlob bin;<lb break="yes"/>Gott wirds Ihnen <w>wieder um</w> vergelden,
+                ersuchend ein paar Unter<lb break="no"/>hoßen, Hem̄eit u Unterhanger.
+                schicken würden, da ich Lust habe<lb break="yes"/>nach München bei <hi rendition="#i">H</hi>. <unclear>Jetziger</unclear>
+<hi rendition="#i"><hi rendition="#u">Consalitt</hi></hi> als <hi rendition="#u">Zuchrichter</hi>, oder<lb break="yes"/>als <del><hi rendition="#u">H</hi></del>in Untergeseel in Arbeit nehmen will.<lb break="yes"/>Und das
+                beste habe ich noch vergeßen!!=<lb break="yes"/>Ob nicht meine Schuh bei Bernhard
+                        <surname><hi rendition="#i">H.</hi></surname> mit Strupfen<lb break="yes"/>oder Reinen ferdig sind,<lb break="yes"/><w>In dem</w> ich Ihm
+                Unlängst, ein <w>Geißen Fehle</w> gegeben habe für<lb break="yes"/>mich u für die
+                Z. Irsee zu Schuch u <unclear>Ninfehl</unclear><lb break="yes"/><hi rendition="#i">H</hi>aben Sie die Güte, Inhaber der <w>Eil <hi rendition="#i">Curi</hi>h<hi rendition="#i">r</hi></w>
+<surname>Z.</surname> der<lb break="yes"/>Stattion <hi rendition="#u">Donauwörth. oder Offingen</hi>.<lb break="yes"/>Mit der bitte der Herr
+                Thierehktor, möchtes durch<lb break="yes"/>seine Untergeben Anlegen laßen</p>
+<p><space/>
+<seg ana="#salute">Viele Grüße an Alle Kamerathen, u Soldaten.<lb break="yes"/>besonder an Conrath <surname>E.</surname><lb break="yes"/>Leonhad <surname>W.</surname> Fisherssohn.<lb break="yes"/><hi rendition="#u">Andre <surname>L.</surname>; J.
+                            <surname>L.</surname>.</hi><lb break="yes"/><unclear/> Johan <surname>W.</surname>, <unclear/></seg><lb break="yes"/><hi rendition="#r"><hi rendition="#i">H. Friedrich
+                            <surname>M.</surname></hi><add place="below"><unclear/></add></hi>
+</p>
+<pb facs="#image_060"/>
+<p><hi rendition="#r">Das Schnupf <unclear>Tuh</unclear> Schlise<lb break="yes"/>d.
+                    Thüren <unclear/></hi>
+</p>
+<p><add place="margin"><hi rendition="#r"><unclear><hi rendition="#i">An</hi></unclear><lb break="yes"/>Bez<unclear/>
+<hi rendition="#i">Mag</hi>s <hi rendition="#i">Renna</hi><lb break="yes"/><unclear>D. mge.</unclear></hi></add><lb break="yes"/>Der Thon̄ des Glockes<lb break="yes"/>wird. Eing. Treu Dir<lb break="yes"/>hier. <unclear/> lachen. hihih=<lb break="yes"/>heinlich stil
+                laut still<lb break="yes"/>ein Buch des Leben<lb break="yes"/>in <unclear>dhau dr
+                    Leben.</unclear>
+<unclear/><lb break="yes"/><add place="margin"><unclear/></add><lb break="yes"/><add place="margin">Ihn den bge de Kleges. <unclear/> </add></p>
+<p><del>Bleibt Unerschüderlich, bis de b. l. d. Bran̄t<lb break="yes"/>den
+                    Zin-Stul <unclear/><lb break="yes"/>Geschwu weich <unclear/><lb break="yes"/>Mach die <unclear/> Sitzende Tisch. dan̄ kan <unclear/><lb break="yes"/><unclear/> </del>
+</p>
+<p>Fraikes <unclear/><lb break="yes"/>Mond Namen <unclear/><lb break="yes"/><seg ana="#metaling">Papier Muß ich Sparen</seg>
+<unclear/><lb break="yes"/>Thuer des Geldes <unclear/><lb break="yes"/>SaMe <unclear/> </p>
+</body>
+</text>
+</TEI>

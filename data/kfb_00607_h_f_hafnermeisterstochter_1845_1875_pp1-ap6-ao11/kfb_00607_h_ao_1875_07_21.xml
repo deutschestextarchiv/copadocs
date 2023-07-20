@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb607h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>607</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Sara <surname>H.</surname></persName>
+<date type="sent">21.07.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Lindau</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb607h">
+<persName>
+<forename>Sara</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1875"/>
+<occupation>Hafnermeisterstochter</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Hafnermeister</p>
+<p>Anstalt: <date from="1875" to="1875">1875</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>"Religiöser Wahnsinn, Fixe Ideen" (1875)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich beim Direktor für seine Auskunft über das Befinden ihrer Tochter. 
+                    Meint jedoch aus einem Brief derselben herauszulesen, dass diese geistig noch nicht "klar" sei.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb607h02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb607h02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Lindau den 21<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Iulj 1875.</hi></dateline>
+<salute><hi rendition="#r">Hochgeehrtester Herr Dierecktor!</hi></salute>
+</opener>
+<p><add hand="arzt"><add place="top"><unclear/>. 12/8<lb break="yes"/><unclear>E</unclear> <unclear>E</unclear><lb break="yes"/><unclear/> H.
+                    </add></add></p>
+<p><space/> Meinen verbündlichsten Dank für<lb break="yes"/>Ihre Freundlichkeit,
+                womit Sie mir<lb break="yes"/>wieder Nachricht über das Befinden<lb break="yes"/>meiner Tochter ertheilten. − </p><p>Daß sie sich körperlich wohl befindet<lb break="yes"/>erfüllte mich zwar mit Freude u Dank!<lb break="yes"/>Doch ersah ich leider auch in den paar<lb break="yes"/>Zeilen die
+                meine l Sara an mich<lb break="yes"/>schrieb, daß ihr Geist eben
+                    nicht klar<lb break="yes"/>ist, das mich tüf u schmerzlich ergrieff.<lb break="yes"/>Doch da sie, wie Herr Dierecktor<lb break="yes"/>bemerkten doch
+                etwas beßer sey, u<lb break="yes"/>körperlich gekräfftigt, so hoffe ich doch <pb facs="#image_004"/><space/> Mitt Gottes Hülfe und unter so<lb break="yes"/>guter Pflege
+                u Behandlung es werde<lb break="yes"/>doch noch Heilung zu hoffen sein.<lb break="yes"/>Em̄pfehle hiemit die Kranke Ihrem<lb break="yes"/>ferneren
+                Wohlwollen! u bitte auch<lb break="yes"/>ferner um̄ Geduld u Ihrer Güte<lb break="yes"/>in Allem was die Kranke bedarf.<lb break="yes"/><hi rendition="#c">Der l Gott Lohne
+                        all Ihre</hi><lb break="yes"/>Sorgen u Bemühungen!</p><p><seg ana="#salute"><hi rendition="#r">Em̄pfangen Sie meinen wärmst<unclear>en</unclear><lb break="yes"/>Dank!</hi><lb break="yes"/><hi rendition="#c">Hochachtungsvollst</hi><lb break="yes"/><hi rendition="#r">zeichnet sich </hi></seg><hi rendition="#r"><seg ana="#signed">S. <surname>H.</surname> Wittwe</seg></hi></p>
+</body>
+</text>
+</TEI>

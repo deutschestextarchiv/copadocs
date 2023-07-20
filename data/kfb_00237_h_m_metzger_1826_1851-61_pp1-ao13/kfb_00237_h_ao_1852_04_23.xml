@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb237h07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>237</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Anton <surname>H.</surname></persName>
+<date type="sent">23.04.1852</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Weißenhorn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb237h">
+<persName>
+<forename>Michael</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1861"/>
+<occupation>Metzger und Bräugeselle</occupation>
+<residence><geo decls="#WGS">48.3044877 10.1601492</geo>Weißenhorn</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Wirt</p>
+<p>Anstalt: <date from="1851" to="1861">1851-61</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Trunkfälliger Wahnsinn (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="verwaltung1"/>
+<handNote medium="ink" scope="minor" scribe="verwaltung2"/>
+<handNote medium="ink" scope="minor" scribe="verwaltung3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schickt für seinen Bruder Taschengeld und fragt nach dessen Befinden. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb237h07.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline><hi rendition="#r">Weißenhorn den 23 April<lb break="yes"/><hi rendition="#u">1852</hi></hi></dateline>
+<salute><hi rendition="#c">Werthester Herrn Verwalter</hi></salute>
+</opener>
+<p><add hand="verwaltung1"><add place="top">12./</add></add></p><p><add hand="verwaltung1"><hi rendition="#r"><hi rendition="#i">praf</hi>. 24 April 1852<lb break="yes"/>3100</hi></add></p>
+<p>Hier Sünde jch Jhnen 3f 42<hi rendition="#i">x</hi> Damit mein Bruder<lb break="yes"/>ein w<unclear>i</unclear>enig <w>Thaschen Geld</w> hat, davon nehmen Sie den<lb break="yes"/>Betrag wo nocht fehlt, und habens die Güte<lb break="yes"/>Schreiben mir doch w<del><unclear/></del>ie es bei ihm geht, </p><p><seg ana="#salute"><hi rendition="#c">Mit Achtung<lb break="yes"/></hi><hi rendition="#r">Euer
+                        Diener<lb break="yes"/></hi></seg><seg ana="#signed"><hi rendition="#r">Anton <surname>H.</surname></hi></seg></p><p><add hand="verwaltung1"><hi rendition="#c">Am 25 April 1852<lb break="yes"/></hi><hi rendition="#r"><hi rendition="#i"><unclear>f</unclear>iat</hi> Quittung über 2fl 42<hi rendition="#i">x</hi> mit dem<lb break="yes"/>bemerken, daß 30<hi rendition="#i">x</hi> als Erzeugung für<lb break="yes"/>den
+                        Verpflegsbetrag für 3 Quartal u 2f 12<hi rendition="#i">x</hi><lb break="yes"/>als Dispositionsgeld verechnet sind.<lb break="yes"/>Vorlage!<lb break="yes"/></hi><hi rendition="#r"><unclear>MM</unclear></hi></add></p>
+<p><add hand="verwaltung2"><hi rendition="#r">Obige 2f 12<hi rendition="#i">x</hi> baar<lb break="yes"/>empfangen <hi rendition="#i">Eodem</hi><lb break="yes"/><hi rendition="#i">Di</hi><unclear><hi rendition="#i">ttagen</hi></unclear></hi></add>
+</p><p><add hand="verwaltung3"><add place="margin"><unclear/>3101</add></add></p>
+</body>
+</text>
+</TEI>

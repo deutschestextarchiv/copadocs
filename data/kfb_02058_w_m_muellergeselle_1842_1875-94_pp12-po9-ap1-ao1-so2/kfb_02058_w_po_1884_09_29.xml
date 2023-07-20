@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2058w05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2058</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz Josef <surname>W.</surname></persName>
+<date type="sent">29.09.1884</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: n.a. <surname>N.</surname>, Bruder: Florian <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2058w">
+<persName>
+<forename>Franz Josef</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1842"/>
+<death when="1899"/>
+<occupation>Müllergeselle</occupation>
+<residence><geo decls="#WGS">47.9484351 10.3943101</geo>Markt Rettenbach, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Webermeister</p>
+<p>Anstalt: <date from="1875" to="1899">1875-99</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>partieller Wahnsinn (1874), Nymphomanie, Satyriasis (1880)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte wieder heim, um seinen Beruf ausüben zu können; soll besucht werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2058w05a.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb2058w05b.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="kfb2058w05c.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_025"/>
+<opener>
+<dateline><hi rendition="#r">Jrrsee den 29<hi rendition="#sup">te</hi> Setpr 1884</hi></dateline>
+<salute><hi rendition="#r">Geertester Her Bürgemister!<lb break="yes"/>u. Lieber Bruder Florian</hi></salute>
+</opener>
+<p>
+<space/> An di Wohl u. Hochlebliche Pfaar<lb break="no"/>gemeinde Rettenbach, Steehl
+                ich mei<lb break="no"/>ne Gehohrsamste Bitte, besonders<lb break="yes"/>an die
+                Vohlmacht u. an euch 2.</p><p> Mein Wunsch währ hin̄aus, u. das<lb break="yes"/>ich wieder zu men̄eim Beruf käm<lb break="no"/>me, i bi
+                mit Leib u. Seel ein Müller<lb break="yes"/>es ist it gemeint das ich
+                mein̄er Leb<lb break="no"/>tag, daheim, oder bei euch, bleiben<lb break="yes"/>mäst, dis ist Selbstverständlich.<lb break="yes"/>Und der 2<hi rendition="#sup">te</hi> Wunsch das ich nochmahl</p>
+<p><add place="bottom"><hi rendition="#r">23 15</hi></add></p>
+<pb facs="#image_026"/>
+<p>besucht werde, machet si ein̄e Spatz<lb break="no"/>ihrfahrt, wie ihr einmahl im
+                    Sin̄<lb break="yes"/>gehabt hat mich <w>zu</w><w>besuchen</w>.<lb break="yes"/>ich schließe mit Freuden
+                .u. mit der<lb break="yes"/>Hoffnung. Bitt um ein̄e Anwort<lb break="yes"/>wen̄igstens.</p>
+<p><hi rendition="#r"><seg ana="#salute">Lebet <hi rendition="#u">Wohl</hi><lb break="yes"/>u. Euher Aufrichtiger<lb break="yes"/>Freund grüst euch.</seg></hi></p>
+<p><seg ana="#signed"><hi rendition="#r">Franz Joseph <surname>W.</surname></hi></seg></p>
+<p>Hern <surname>N.</surname> Bürgmeister<lb break="yes"/>in <hi rendition="#u">Rettenbach</hi><lb break="yes"/>bei <hi rendition="#u">Ottobeuren</hi></p>
+<pb facs="#image_027"/>
+<p><hi rendition="#r">Also Erwirket siehs, scheint<lb break="yes"/>es hängt an euch ab<lb break="yes"/>blos.</hi>
+</p>
+</body>
+</text>
+</TEI>

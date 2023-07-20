@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2087f24" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2087</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>F.</surname></persName>
+<date type="sent">ca. 1900-1935</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sohn: Ludwig <surname>F.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2087f">
+<persName>
+<forename>Ludwig</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1935"/>
+<occupation>Gastwirt, Landwirt</occupation>
+<residence><geo decls="#WGS">47.6283377 9.9102676</geo>Heimenkirch, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Gastwirt</p>
+<p>Anstalt: <date from="1900" to="1935">1900-1935</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Manie (1930), Ideenflucht, Größenwahn (1900-35), Halluzination (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber fordert seinen Sohn auf, für seine Angehörigen zu beten, in die Kirche zu gehen und Grüße auszurichten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2087f24a.jpg" xml:id="image_076"/>
+<graphic mimeType="image/jpg" url="kfb2087f24b.jpg" xml:id="image_077"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_076"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Lieber Ludwig</hi></hi></salute>
+</opener>
+<p><hi rendition="#c"><hi rendition="#i">Vergiß das beten nicht. </hi><lb break="yes"/><hi rendition="#i">Auch für Deinen Angehörige.</hi></hi></p><p><hi rendition="#c">Gehe auch fleißig zur <hi rendition="#i">Kirche</hi>.<lb break="yes"/><hi rendition="#i">Frdl. Gruß an Vater <surname>S.</surname> &amp; Töchter</hi>.</hi></p><p><hi rendition="#r"><hi rendition="#i"><surname>S.</surname> &amp; Du</hi> sollten <w>ein mal</w> zum <surname>S.</surname>
+                        Balgach<lb break="yes"/>Kuh schau dirs an u. telephonire mir. <hi rendition="#i">Du Altstatten</hi>. Wir brauchen ein</hi></p>
+<p>Brief zusam̄en an <surname><hi rendition="#i">S.</hi></surname>.</p>
+<pb facs="#image_077"/>
+<p>
+<add hand="arzt" place="top"><hi rendition="#r"><surname><hi rendition="#i">F.</hi></surname><hi rendition="#i"> L I</hi>.</hi></add><lb break="yes"/><hi rendition="#i"><space/> Herrn</hi><lb break="yes"/><hi rendition="#c">Aug. <surname>S.</surname><lb break="yes"/><w>Schloß ermeister</w><lb break="yes"/>in Rom̄antshorn</hi><lb break="yes"/><hi rendition="#r">Schweiz</hi></p>
+</body>
+</text>
+</TEI>

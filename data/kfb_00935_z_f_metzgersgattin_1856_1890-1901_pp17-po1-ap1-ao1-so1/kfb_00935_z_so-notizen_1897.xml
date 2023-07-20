@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb935z03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>935</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>Z.</surname></persName>
+<date type="sent">ca. 1897</date>
+<date type="received">n.a.</date>
+<persName type="addressee"/>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb935z">
+<persName>
+<forename>Maria</forename>
+<surname>Z.</surname>
+</persName>
+<birth when="1856"/>
+<death when="1901"/>
+<occupation>Metzgersgattin</occupation>
+<residence><geo decls="#WGS">48.7274379 11.1781865</geo>Neuburg a. d. Donau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Metzger (zahlt)</p>
+<p>Anstalt: <date from="1890" to="1901">1890-1901</date></p>
+<p>Brieftypen: pp, po, ap, ao, Notizen</p>
+</state>
+<trait><p>[Alkoholismus], Epilepsie, Tobsucht (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notizen</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Aufzählung von Terminen, wahrscheinlich ihre Periode. Sie spricht auch in einem anderen Brief davon und bezeichnet diese als "Geschichtszeit"
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb935z03.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p> Mei <w>Gschicht zeid</w> hab Ich griht<lb break="yes"/><hi rendition="#c">1897 die erste:</hi><lb break="yes"/>am 30 Dezember Midag<lb break="yes"/>am 24 Januar Midag<lb break="yes"/>am 19 Februar in der Frü<lb break="yes"/>am 14 Merz in der frü<lb break="yes"/>am 7 Abriel in der frü<lb break="yes"/>am 27 Abriel in der frü<lb break="yes"/>am 19 Mai in der frü<lb break="yes"/>am 13 Juni nahmidag<lb break="yes"/>am 5 Julie in der frü<lb break="yes"/>am 30 Julie in Midag<lb break="yes"/>am 29 Sedember in der frü<lb break="yes"/>am 22 Okdober in der frü<lb break="yes"/>am 15 Nofember in der
+                    frü<lb break="yes"/>am 9 Dezember midag</p>
+</body>
+</text>
+</TEI>

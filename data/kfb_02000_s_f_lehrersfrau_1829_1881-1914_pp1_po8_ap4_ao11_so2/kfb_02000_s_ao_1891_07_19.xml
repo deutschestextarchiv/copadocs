@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2000s16" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2000</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Tochter: Lina <surname>H.</surname></persName>
+<date type="sent">19.07.1891</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>Z.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2000s">
+<persName>
+<forename>Barbara</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1914"/>
+<occupation>Lehrersfrau</occupation>
+<residence><geo decls="#WGS">47.5352544 10.3050352</geo>Stein, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1881" to="1914">1881-1914</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Halluzinatorische Verwirrtheit (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="tochter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich für die Umsorgung ihrer Mutter und freut sich über die Nachricht, dass diese in der Küche mithelfe und Handarbeiten verrichte/
+                    sich gut eingelebt habe. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2000s16.jpg" xml:id="image_033"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_033"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München</hi>,
+                    19.XII.91.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Hochverehrter Herr </hi><lb break="yes"/><hi rendition="#i">Oberarzt</hi>!</hi></salute>
+</opener>
+<p><add hand="arzt">/<hi rendition="#i">Photografie</hi><lb break="yes"/>von Frau Mutter<lb break="yes"/>übersendet</add></p>
+<p>Gestatten <hi rendition="#i">Sie</hi> mir, daß ich Ihnen<lb break="yes"/>meinen
+                herzlichsten Dank ausdrücke,<lb break="yes"/>für die gütige Mitteilung, über<lb break="yes"/>den Gesundheitszustand meiner Mutter.<lb break="yes"/>Ew.
+                Hochwohlgeboren haben mir damit<lb break="yes"/>großen Trost gegeben, daß meine<lb break="yes"/>arme Mutter sich in der Küche sowie<lb break="yes"/>mit
+                Handarbeiten beschäftigen darf,<lb break="yes"/>u. sich scheint's in die
+                Verhältnisse schon<lb break="yes"/>ganz eingelebt hat. − </p><p> Indem ich Ihnen für Ihre freundliche<lb break="yes"/>Fürsorge, die <hi rendition="#i">Sie</hi>
+                meiner Mutter<lb break="yes"/>stets <w>zu teil werden</w> ließen,<lb break="yes"/>innigen Dank sage, bitte ich<lb break="yes"/>herzlich, auch fernerhin der Kranken<lb break="yes"/>Ihr Wohlwollen nicht zu entziehen,<lb break="yes"/><seg ana="#salute">u. zeichne mit <add place="above">dem</add> Ausdruck größter<lb break="yes"/>Verehrung, als<lb break="yes"/><hi rendition="#c">Ihre </hi><lb break="yes"/><hi rendition="#r">dankbar ergebene </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Lina
+                            <surname>H.</surname>.</seg></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb147b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>147</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>B.</surname></persName>
+<date type="sent">22.09.1856</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor: n.a.</persName>
+<settlement type="sent">Kaltbronn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb147b">
+<persName>
+<forename>Genovefa</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1839"/>
+<death cert="unknown"/>
+<occupation>Bauerstochter</occupation>
+<residence><geo decls="#WGS">47.8689152 10.1575869</geo>Kaltbronn, Grönenbach</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bauer, Getreidehändler</p>
+<p>Anstalt: <date from="1856" to="1857">1856-1857</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Geistesstörung</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="verwandter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Ein Verwandter der Patientin drückt seine Hoffnung aus, dass der Zustand der Patientin sich in ein paar Wochen bessern könnte.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb147b03a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb147b03b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Kaltbron den 5<hi rendition="#sup">t<unclear>en</unclear></hi> Oktober<lb break="yes"/>1856.</hi></dateline>
+<salute><hi rendition="#c">Hochverehrtester Herr<lb break="yes"/>Docktor.</hi></salute>
+</opener>
+<p><add place="bottom"><add hand="arzt">d. 14 <hi rendition="#i">Octbr</hi>. 1856.<lb break="yes"/>den
+                beigefügten brief habe ich der Genovefa nicht übergeben,<lb break="yes"/>weil
+                <del><unclear>darin</unclear> steht, warum <add place="above">daß</add>
+                    sie</del> gewünscht wird, daß sie doch<lb break="yes"/>einmal nach Hause
+                verlangen möge. Das <unclear>Verlangt</unclear><lb break="yes"/>sie allerdings oft; ich
+                kan̄  es ihr aber, solange sie nicht anders<lb break="yes"/>wird nicht
+                bewilligen. Einem besuch steht <unclear>jedoch</unclear> nichts entgegen</add></add></p>
+<p><space/> Wie wir <w>so eben</w><lb break="yes"/>in dem letzsten Brief ver<lb break="no"/>nohmen haben, geht es bei<lb break="yes"/>der Genovefa leider Gott nicht<lb break="yes"/>besser
+                    <del>geht</del>, u Sie es nicht für<lb break="yes"/>Rathsam zum abholen halten,<lb break="yes"/>daher wollen wir wiederum<lb break="yes"/>auf einige Wochen
+                zusehen in<lb break="yes"/>der Hoffnung das es sich doch bald<lb break="yes"/>ändere, Sie dürfen uns nur schrei<pb break="no" facs="#image_002"/>ben wie Sie es
+                für besser halten<lb break="yes"/>mit dem bezahlen, ob man hin<lb break="no"/>über
+                soll, oder nicht, ob man auch<lb break="yes"/>mit ihr reden dürfte, dan̄
+                wird schon<lb break="yes"/>alles in richtigkeit gebracht werden.<lb break="yes"/><seg ana="#salute">nebst viele Grüße</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Xaver
+                            <surname>B.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

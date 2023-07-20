@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">24.03.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1890" to="1897">1890-1897</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Kompfschmerzen, wenn er Anfall bekommt, legt er sich auf eine Bank, wird aber ausgelacht, schämt sich
+                    
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s03a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb908s03b.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren den</hi> 24.<hi rendition="#sup">te</hi><lb break="yes"/><hi rendition="#i">März</hi> 1890.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Geehrtester Herr Arzt</hi>!</hi></salute>
+</opener>
+<p>
+<hi rendition="#i">Sie</hi> werden mir unterzeichneten <hi rendition="#i">Heinerich<lb break="yes"/>Joh. Jakob <surname>S.</surname> Verzeihen</hi> daß ich<lb break="yes"/><hi rendition="#i">Ihnen</hi> mit ein baar <hi rendition="#i">Zeilen</hi>
+                    beläßtigen<lb break="yes"/>muß.</p>
+<p> <seg ana="#med">Ich leide seid etliche Tagen an <hi rendition="#i">Kopfschmerzen</hi><lb break="yes"/>wen̄ ich eine zeitlang sitze
+                    oder liege so bekom̄<lb break="yes"/>ich Funken vor die <hi rendition="#i">Augen</hi> oder es ist ganz<lb break="yes"/>Schwarz daß ich
+                    für den <hi rendition="#i">Augenblik</hi> gar nicht's<lb break="yes"/>sehe und
+                    werde ganz schwach dabei fließt daß<lb break="yes"/><hi rendition="#i">Blut</hi> Tag u. <hi rendition="#i">Nacht</hi> von oben nach
+                    unten<lb break="yes"/>u. so wieder retur daß mich an der Son̄e oder<lb break="yes"/>im <hi rendition="#i">Bett</hi> friert.</seg>
+<hi rendition="#i"><emph>Sie</emph></hi> dürfen mir nicht in<lb break="yes"/><hi rendition="#i">Übel</hi> nehmen wen̄ ich eben klage. </p>
+<pb facs="#image_005"/>
+<p>
+<hi rendition="#i">Geehrtester Herr Arzt</hi>. <seg ana="#med">Da <hi rendition="#i">Sie</hi> mir öfters<lb break="yes"/>fragen wegen <hi rendition="#i">Anfall</hi>, so muß ich <hi rendition="#i">Ihnen</hi><lb break="yes"/>aufrichtig bestehen, daß ich ihn ein baar mal<lb break="yes"/>aber nur leichte
+                    gehabt habe, den̄ wen̄ es<lb break="yes"/>Funken oder Schwarz vor
+                    den <hi rendition="#i">Augen</hi>, ist und<lb break="yes"/>mir schlecht wird,
+                    so liege ich mich auf die<lb break="yes"/>bank um zu warten bis er vorüber ist,
+                        den̄<lb break="yes"/>sonst wirde ich schwanken, u. die Leute
+                        lachen<lb break="yes"/>mich dan aus, auch traue ich mir das vor<lb break="yes"/>dießen <hi rendition="#i">Ihnen</hi> nicht's zu sagen.</seg><lb break="yes"/></p>
+<p>
+<seg ana="#signed"><hi rendition="#r"><hi rendition="#i">Ihr</hi> ergebener <hi rendition="#i">Patient</hi>,<lb break="yes"/>dankbarer<lb break="yes"/><hi rendition="#i">Jak. <surname>S.</surname></hi></hi></seg><lb break="yes"/></p>
+<p><hi rendition="#c">Ich bitte <hi rendition="#i">Ihnen freundlichst</hi><lb break="yes"/>vor den andern nicht's zu sagen<lb break="yes"/>sonst wirde
+                    ich mich schähmen.</hi><lb break="yes"/></p>
+<p>  Ich bitte <hi rendition="#i">Ihnen</hi> mir mein<lb break="yes"/><hi rendition="#i">Wunsch</hi> jetzt u. v. frühern<lb break="yes"/><hi rendition="#i">Brief</hi> behilflich zu sein.<lb break="yes"/></p>
+</body>
+</text>
+</TEI>

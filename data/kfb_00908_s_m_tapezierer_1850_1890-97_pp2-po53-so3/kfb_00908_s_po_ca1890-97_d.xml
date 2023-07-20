@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s46" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">ca1890-97</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Dr. Ullrich</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1890" to="1897">1890-1897</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er beschwert sich über die Pfleger und will das Abschicken seiner Briefe
+                    verhindern.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s46a.jpg" xml:id="image_131"/>
+<graphic mimeType="image/jpg" url="kfb908s46b.jpg" xml:id="image_132"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_131"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#i">Herr Dr. Ullrich</hi>,</salute>
+</opener>
+<p><seg ana="#cens">da <hi rendition="#i">Sie </hi>mein Brief noch nicht abgeschickt<lb break="yes"/>haben</seg>, so dürfen's ihm auch nicht mehr thun,
+                den̄ mir ist es<lb break="yes"/>lieber wen̄ ich die armen Wehrlosen
+                Patienten der Regierungs<lb break="yes"/><hi rendition="#i">Comißion</hi> vorstellen
+                kan̄ d. h. über 200 <hi rendition="#i">Mißhandlungen</hi><lb break="yes"/>mit theilweise schwehre Körperverletzungen sowie betrug<lb break="yes"/>u. <hi rendition="#i">Unterschlagung</hi> welche die hohe Herrn v.
+                Pflegern<lb break="yes"/>haben zu schulden kom̄en laßen, heute hat Natterer<lb break="yes"/>als barmherziger Samariter 4. Mißhandlungen<lb break="yes"/>verübt, das ist Sontagruhe in der <seg ana="#inst">Mißhandlungs<lb break="yes"/>Anstalt</seg>
+<hi rendition="#i">Kaufbeuren</hi>, wo die Kranken einem Arzt<lb break="yes"/>welcher praktisch sein soll, anvertraut werden<lb break="yes"/>aber leider daß
+                die angehörigen von dieser Tyranischer<lb break="yes"/>behandlung keine Ahnung
+                haben, sonst wirden<lb break="yes"/>die Pfleger welche ich der Regierungs <hi rendition="#i">Comißion</hi><lb break="yes"/>aufrufen werde schon längst in einer Anstalt sein<lb break="yes"/>aber nicht bei <hi rendition="#i">Kaufbeuren</hi>. <add><hi rendition="#i">vielleicht kom̄t noch ein Mord<lb break="yes"/>vor.</hi></add><lb break="yes"/><hi rendition="#i">Herr Dr Ullrich</hi> wen̄ <hi rendition="#i">Sie </hi>eine <hi rendition="#i">Verantwortung</hi><lb break="yes"/>übernehmen wollen so nehmen <hi rendition="#i">Sie </hi>Ihre u. den<lb break="yes"/>Pflegern ihre Mißhandlung u. Körperverletzungen<lb break="yes"/>über,<lb break="yes"/><hi rendition="#r">dem <surname>S.</surname> brauchen
+                        <hi rendition="#i">Sie nicht Verantworten</hi><lb break="yes"/>wie <hi rendition="#i">Sie</hi> gesagt haben am 28. <hi rendition="#i">Juni</hi> 92.<lb break="yes"/><hi rendition="#i"><foreign xml:lang="lat">Sic transit Gloria Mundis</foreign></hi><lb break="yes"/><hi rendition="#i"><seg ana="#signed"><surname>S.</surname></seg></hi></hi></p>
+<pb facs="#image_132"/>
+<p><add place="top"><handShift medium="ink" scribe="patient"/><hi rendition="#c"><hi rendition="#i"><foreign xml:lang="lat">Sic transit Gloria
+                                Mundis</foreign></hi><lb break="yes"/><hi rendition="#i">Ihr Ergebener<lb break="yes"/><seg ana="#signed">Jak.
+                            <surname>S.</surname></seg></hi></hi></add><lb break="yes"/><handShift medium="pencil" scribe="patient"/>frage.<lb break="yes"/>? <hi rendition="#i">Wie viel Kranke<lb break="yes"/>werden hier in<lb break="yes"/>dieser Anstalt heimlich in's<lb break="yes"/><hi rendition="#u">jenseit geschaft.?</hi><lb break="yes"/>Geschrieben Nach<lb break="no"/>mittags 1. U</hi>h<hi rendition="#i">r.</hi><lb break="yes"/><add place="margin">Antwort.<lb break="yes"/>vielmehr als entlaßen<lb break="yes"/><hi rendition="#u">wurden.</hi></add><lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/><hi rendition="#i"><seg ana="#cens">Brief dürfen Sie nicht<lb break="yes"/>mehr
+                </seg></hi><seg ana="#cens">abschiken um daß<lb break="yes"/>Wir Patienten bei der<lb break="yes"/>hohen
+                Regierung's <hi rendition="#i">Comißion</hi><lb break="yes"/>in's gesamt beschwähren<lb break="yes"/>kön̄en wegen ganz
+                schlechter<lb break="yes"/>behandlung.</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><surname>S.</surname></seg></hi><lb break="yes"/><add place="margin"><hi rendition="#r"><hi rendition="#i">An<lb break="yes"/>Dr. Ullrich</hi></hi></add></p>
+</body>
+</text>
+</TEI>

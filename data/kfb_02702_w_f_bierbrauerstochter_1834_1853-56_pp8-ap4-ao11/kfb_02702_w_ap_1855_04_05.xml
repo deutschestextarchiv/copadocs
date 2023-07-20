@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2702w11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Freundin: Margaretha <surname>B.</surname></persName>
+<date type="sent">05.04.1855</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Maria <surname>W.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2702w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Bierbrauerstochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Brauereibesitz</p>
+<p>Anstalt: <date from="1853" to="1856">1853-56</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Vesania (17.11.1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="freundin1"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Richtet der Patientin Grüße, u.a. von ihrer Mutter aus, welche 
+                    selbst gerne Nachricht von ihrer Tochter empfangen würde. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2702w11.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline><hi rendition="#r">München den 5<hi rendition="#sup">t</hi> April <hi rendition="#u">1855</hi></hi></dateline>
+<salute><hi rendition="#c">Meine liebe Marie!</hi></salute>
+</opener>
+<p>Anbei erhälst du ein neues Kleid, Rock Hals<lb break="no"/>tuch und Handschuhe,
+                die herzlichsten Grüße<lb break="yes"/>deiner lieben Mutter <w>so wie</w> die
+                unsrigen folgen mit,<lb break="yes"/>erstere kan̄ nicht begreifen warum dein
+                    Stillschwei<lb break="no"/>gen so lange andauernd ist, wie mir scheint fängt es<lb break="yes"/>an ihr empfindlich zu werden. Deine Wünsche<lb break="yes"/>habe ich mitgetheilt, selbe zu erfüllen ist der<lb break="yes"/>Mutter Sache, und
+                dieselbe darum anzusprechen<lb break="yes"/>möchte sie vielleicht von dir erwarten.
+                − Die besten<lb break="yes"/>Empfehlungen an Herrn Direktor und F<unclear>:</unclear> Gemahlin<lb break="yes"/>gebe ich
+                bittlich auf, dieselben auszurichten, <seg ana="#salute">und
+                            sa<del><unclear>l</unclear></del>ge<lb break="yes"/>dir hiebei das
+                    herzlichste Lebewohl</seg>. Allen denen<lb break="yes"/>welche mit dir leben
+                und uns ken̄en unsere freund<lb break="no"/>lichsten Grüße, du aber halte
+                gute vergnügte<lb break="yes"/>Feiertage dieß ist der Mutter wie unser
+                    in̄ig<lb break="no"/>ster Wunsch, und <seg ana="#salute">sei versichert
+                    daß ich stets<lb break="yes"/>mit Liebe bleibe<lb break="yes"/><hi rendition="#c">Deine</hi><lb break="yes"/><hi rendition="#r">wohlmei<unclear>nen</unclear>de Freundin </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Marg<unclear>:</unclear>
+<surname>B.</surname></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

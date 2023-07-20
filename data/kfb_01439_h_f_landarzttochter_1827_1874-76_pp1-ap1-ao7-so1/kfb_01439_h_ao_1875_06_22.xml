@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1439h03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1439</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Regina <surname>R.</surname></persName>
+<date type="sent">22.06.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">26.06.1875</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1439h">
+<persName>
+<forename>Amalie</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1827"/>
+<death cert="unknown"/>
+<occupation>Landarzttochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Nördlingen/München, Stuttgart</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landarzt</p>
+<p>Anstalt: <date from="1874" to="1876">1874-76</date></p>
+<p>Brieftypen: pp, ap, ao, sonst.</p>
+</state>
+<trait><p>Melancholie</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin fühle sich in der Umgebung der Anstalt sehr unwohl und habe Angst, psychisch davon Schaden zu nehmen. 
+                    Ihre Schwester ist sehr besorgt und fragt den Direktor daher, ob eine andere Unterbringung ratsam wäre. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1439h03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb1439h03b.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb1439h03c.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Hochgeehrter Herr<lb break="yes"/>Direcktor!</hi></salute>
+</opener>
+<p><add hand="arzt"><unclear><hi rendition="#i">S</hi></unclear> 26/6.</add>
+</p><p><space/> Der letzte Besuch meiner Tochter<lb break="yes"/>und Schwester, in Ihrer Anstalt −<lb break="yes"/>veranlaßt mich, Sie um Ihren<lb break="yes"/>gütigen Rath, zu
+                bitten. </p><p><space/> Meine kranke Schwester, fühlt<lb break="yes"/>sich namenlos unglücklich! − nicht<lb break="yes"/>daß sie Grund zu <w>irgend einer</w>
+                Klage<lb break="yes"/>hätte über die dortige Begegnung<lb break="yes"/>sondern
+                über das schreckliche ihrer<lb break="yes"/>Lage, unter <seg ana="#inst">Narren</seg> leben zu müßen<lb break="yes"/>mit so klaren Bewußtsein. </p>
+<pb facs="#image_008"/>
+<p><space/> Sie fürchtet, daß sie durch die sich<lb break="yes"/>stets steigernde Sehnsucht
+                    heraus<lb break="no"/>zukommen − ihrer nicht mehr mächtig<lb break="yes"/>bleiben kann, und somit der Verzweif<lb break="no"/>lung und <seg ana="#med">Tobsucht</seg> anheim
+                    fallen muß. </p>
+<p><space/> Sagen Sie, Herr Direcktor, gibt<lb break="yes"/>es nicht <w>irgend ein</w> anderes Asyl
+                −<lb break="yes"/>welches Sie uns empfehlen könnten!?<lb break="yes"/>Wäre
+                ein Versuch für unser<lb break="yes"/>Gewißen nicht beruhigend, für alle<lb break="yes"/>Zeiten?! Ich quäle mich in Gedanken<lb break="yes"/>Tag u Nacht um
+                sie, und weiß keinen<lb break="yes"/>Rath. −</p>
+<p>Verzeihen Sie mir; wenn auch ich,<lb break="yes"/>noch komme und Ihnen einen kleinen <pb facs="#image_009"/>Theil der kostbaren Zeit Ihrer Erholung<lb break="yes"/>raube „: Gott segne Sie dafür! − </p>
+<p><space/> In der festen Überzeugung, daß Sie<lb break="yes"/>meiner dringenden Bitte in dieser<lb break="yes"/>traurigen Angelegenheit, eingehende<lb break="yes"/>Aufmerksamkeit
+                schenken, <seg ana="#salute">verbleibe<lb break="yes"/>ich mit besonderer Hochachtung<lb break="yes"/>Euer Wohlgeboren<lb break="yes"/><hi rendition="#r">ergebene<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed">R. <surname>R.</surname>.</seg></hi></p>
+<p>München d. 22<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Iuni<lb break="yes"/><space/> 1875.</p>
+</body>
+</text>
+</TEI>

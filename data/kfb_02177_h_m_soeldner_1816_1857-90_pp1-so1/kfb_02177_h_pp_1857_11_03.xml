@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2177h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2177</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>H.</surname></persName>
+<date type="sent">3.11.1857</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Walburga <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2177h">
+<persName>
+<forename>Josef</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1816"/>
+<death when="1890"/>
+<occupation>Söldner</occupation>
+<residence><geo decls="#WGS">48.8333636 10.7665374</geo>Fünfstetten/Donauwörth</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: k.a.</p>
+<p>Anstalt: <date from="1857" to="1890">1857-1890</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Mania cum delirio, Tobsucht, Mordlust (1857)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Hofft auf baldige Rückkehr nach Hause, beteuert, dass er gesund sei und
+                    bittet die Frau, das Haus nicht vor seiner Entlassung zu verkaufen</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2177h02a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb2177h02b.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb2177h02c.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb2177h02d.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r">Fünsfteten̄ den̄ 3 November 1857</hi></dateline>
+<salute><hi rendition="#c">Liebste Gatin</hi></salute>
+</opener>
+<p>Dein Man̄ Joseph <surname>H.</surname> in Jrse<lb break="yes"/>Schreibe an seine
+                Gatin Walburga<lb break="yes"/><surname>H.</surname> und Befind in Bester
+                    Gesundhet<lb break="yes"/>in meinen̄ Verstand Bin ich Gott sey<lb break="yes"/>Dank Ganz Gut und ich hofe das du<lb break="yes"/>und der Joseph
+                mit mein Schreiben̄ in<lb break="yes"/>Bester Gesundheit drefe und meine
+                    liebe<lb break="yes"/>Gatin so vilmal denke ich an dich<lb break="yes"/>in
+                Einnen̄ Dag und ich hofe du solst<lb break="yes"/>Bis vor weynnchten̄
+                zu mir <w>noch</w><w>mal</w><lb break="yes"/>Komen̄ ich den̄ke Bis sol
+                hin wahr ich<lb break="yes"/><del>net</del> Entlasen̄<pb facs="#image_005"/>und dan̄ must du mich wider holen̄<lb break="yes"/>ich alein darf
+                nich zuhaus aber das<lb break="yes"/>du Gewis <unclear>Forst</unclear> und ich
+                Griese dich vil<lb break="yes"/>und nur einmal wen̄ mir nur noch<lb break="yes"/><w>zusamen ̄Komen̄</w> deten̄ und dein̄
+                    Haus<lb break="yes"/>fangst nicht an̄ mit den̄ verkaufen̄
+                    du<lb break="yes"/>Bis ich nach Haus kom werst nicht als<lb break="yes"/>Betrogen̄ und ich Hofe du solst an̄<lb break="yes"/>mich auch
+                    Scheyben̄<lb break="yes"/><add place="bottom"><hi rendition="#c">Ich bite
+                        den̄ Hern Tiregter<lb break="yes"/>um <w>Ford
+                        zuschicken̄</w></hi></add><pb facs="#image_006"/><hi rendition="#r">Funfsteten̄ 3 Noveber 1857</hi><lb break="yes"/><hi rendition="#c">Liebste Gattin!</hi><lb break="yes"/>Ich hofe mein Bar
+                        zulen<pb facs="#image_007"/>
+<hi rendition="#c">An</hi><lb break="yes"/>Walburga
+                        <surname>H.</surname><lb break="yes"/>in Fuinssteten̄<lb break="yes"/>Landgericht Ubending</p>
+<p><seg ana="#signed"><hi rendition="#c">Joseph <surname>H.</surname></hi></seg></p>
+</body>
+</text>
+</TEI>

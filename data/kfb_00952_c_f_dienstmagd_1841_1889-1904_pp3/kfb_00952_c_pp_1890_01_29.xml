@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb952c01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>952</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>C.</surname></persName>
+<date type="sent">29.01.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Lena <surname>F.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb952c">
+<persName>
+<forename>Magdalena</forename>
+<surname>C.</surname>
+</persName>
+<birth when="1841"/>
+<death when="1904"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: "Illeg. Tochter einer Taglöhnerin, welche im Wochenbette starb und eines gut situierten verheirateten Bürgers"</p>
+<p>Anstalt: <date from="1889" to="1904">1889-1904</date></p>
+<p>Brieftypen: ao, pp</p>
+</state>
+<trait><p>Depression, Melancholie (1889), halluzinatorischer Verfolgungswahn (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Phantasie: nicht in Kaufbeuren, sondern über Arabien ins Budelhaus gekommen, 
+                    fragt Schwester, warum man ihr den Mann genommen hat, religiöse Phantasien
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb952c01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb952c01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><add hand="arzt"><surname>C.</surname>, 29.I.90</add></dateline>
+<salute><hi rendition="#c">Liebe Schwester</hi></salute>
+</opener>
+<p> Ich will dir nur schreiben daß ich unverhoft<lb break="yes"/>ins Budelhaus gefahren bin ich
+                hätte nach<lb break="yes"/>Kaufbeuren gehört man hatt mich über<lb break="yes"/>Arabien gefaren man hatt mich in der<lb break="yes"/>Keuche schnell wie möhlich
+                fort gefahren<lb break="yes"/>sie war nicht so schlecht ins Budelhaus das<lb break="yes"/>hab ich nicht gewollt und da haben die Herren<lb break="yes"/><del>s</del> der Poliezeidiner und der andere sie fort gefahren<lb break="yes"/>haben sie hatt ewas gemerkt in der Keuche<lb break="yes"/>daß man viel Sach fort
+                hatt in ihren Haushalt<lb break="yes"/>sie hat das Sach nicht gebraucht sie ist
+                    ja<lb break="yes"/>aus der Keuche gar nicht gekom̄en wer kann ihr<lb break="yes"/>zu na treten wer hatt doch Masch fort und<lb break="yes"/><del>d</del> wer kann ihr doch zu nah ich will dir nur<lb break="yes"/>schreiben
+                liebe Lena daß ich was auf<lb break="yes"/>dem Herzen hab wie kom̄t es
+                    den<lb break="yes"/>daß man dir den Man̄ fort genom̄en <pb facs="#image_002"/> ihr seyd doch miedander hindennaus wo der<lb break="yes"/>Herr <surname>A.</surname> bei Euch war er ist in Galizia<lb break="yes"/>d.
+                d. m. ich möchte es genau wissen ob es<lb break="yes"/>würklich so ist weil ich
+                alleweil was hör<lb break="yes"/><del>er</del> daß er bei dir nicht ist. ich hab gar<lb break="yes"/>keine Ruhe weil
+                es geheißen hat sie hatt<lb break="yes"/>ihre Leute um Hab und Gut gebracht es
+                    hatt<lb break="yes"/>im̄er geheißen sie soll 20 Tausend Mark
+                    gestollen<lb break="yes"/>wo sie über keinen Kosten gekönt hatt unser<lb break="yes"/>Herr Gott sei in Kapernaum die goldene<lb break="yes"/>Stadt man
+                hatt über sie gelogen der Gutbier<lb break="yes"/>muß da bei gewesen sein das Kind
+                sei von unsere<lb break="yes"/>Herrn Gott da hatt unser Herr <add>Gott</add> in
+                Gestalt einer<lb break="yes"/>Taube das <del>Ki</del> Jesus Kindle und gold Onkele
+                    ge<lb break="no"/>macht <del>und da ist noch er</del> und daß soll nicht vor<lb break="yes"/>kom̄en. </p>
+</body>
+</text>
+</TEI>

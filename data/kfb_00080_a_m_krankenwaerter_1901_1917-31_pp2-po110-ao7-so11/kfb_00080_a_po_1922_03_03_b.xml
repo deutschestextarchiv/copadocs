@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a72" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">03.03.1922</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1917" to="1931">1917-31</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, 
+                        progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt1"/>
+<handNote medium="ink" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er glaubt, dass er nicht auf diese Welt gehört, weil es ihm überall schlecht geht.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a72.jpg" xml:id="image_171"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_171"/>
+<opener>
+<dateline><add hand="arzt2">3.III.22.</add></dateline>
+<salute><hi rendition="#c">Sehr Hochgeehrter Herr Ober-Medizinalrat!</hi></salute>
+</opener>
+<p><add hand="arzt1" place="top">51</add><lb break="yes"/><del>I</del> Da ich jetzt weiß, daß Sie mich nicht auf Arbeit<lb break="yes"/>hinauslassen, ergeb ich mich Ihnen ganz &amp;. gar. Ich melde<lb break="yes"/>es Ihnen ehrlich, daß ich das Leben auf dieser Welt, nicht<lb break="yes"/>mehr <del>&amp;</del> will &amp;. kann aushalten. Das faule Leben,
+                macht<lb break="yes"/>mich ganz &amp;. gar <w>nichts nutz</w>, blöd, im̄er
+                närrischer &amp;. bringt<lb break="yes"/>mich zur Verzweiflung. Diese Welt kann ich gar nicht mehr<lb break="yes"/>leiden,
+                &amp;. hab den größten Zorn auf dieser Welt. Unter die<lb break="no"/>den Menschen mag ich nicht mehr sein &amp;. will nichts mehr<lb break="yes"/>wissen von dieser Welt-Menschensorte, (<del>will</del>) denn ich<lb break="yes"/>gehöre zu diesen Menschen nicht, weil ich zur <hi rendition="#u">Andern teu<lb break="no"/>ren Welt</hi> gehöre. Kann alle
+                Menschen nicht mehr leiden. Sie<lb break="yes"/>selbst &amp;. alle Herrn Ärzte
+                &amp;. Herrn Pfleger &amp;. Menschen ver<lb break="no"/>stehen mich nicht &amp;.
+                darauf hab ich Zorn, ich will weg von<lb break="yes"/>Euch.
+                Auch mit Gott hab ich viel Streit, &amp;. zerriß zur Strafe letz<lb break="no"/>te
+                Woche meine 2 Gebetbücher. Ich bin auf dieser Welt wie<lb break="yes"/>eine
+                Wetterfahne, alle Augenblick anders. Überall wo ich<lb break="yes"/>bin, gefällts
+                mir hier nicht, &amp;. was ich habe gefällt mir nicht,<lb break="yes"/>weil ich auf
+                diese Welt nicht gehöre. Die <hi rendition="#u">Andre Welt</hi> bleibt<lb break="yes"/>mir im̄er im Kopf &amp;. läßt mir keine Ruhe bis ich tot
+                bin. Das<lb break="yes"/>Leben ist mir auf der verdam̄ten Welt mit
+                Faullenzen ver<lb break="no"/>leidet, daß Sie es wissen. Ich achte nicht mehr auf
+                die Menschen.<lb break="yes"/>In dem Narrenhaus wird ein jeder Patient, wie <hi rendition="#i"><surname>G.</surname></hi>,<lb break="yes"/><hi rendition="#i"><surname>W.</surname></hi>, <surname>B.</surname>
+                u.s.w. &amp;. ich närrischer. Lassen Sie mich, bis<lb break="yes"/>Mittags im Bett
+                &amp;. Nachmittags aufstehen im Wachsaal.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll</seg>
+<hi rendition="#i"><seg ana="#signed">Hans <surname>A.</surname></seg></hi>
+                    der nicht auf diese<lb break="yes"/><seg ana="#curse">verfluchte böse dum̄e Welt</seg> gehört
+                    Amen.</hi></p>
+</body>
+</text>
+</TEI>

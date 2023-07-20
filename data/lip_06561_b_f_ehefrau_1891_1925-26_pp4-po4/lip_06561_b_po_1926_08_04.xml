@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip6561b06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>6561 (K. 30)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>B.</surname></persName>
+<date type="sent">04.08.1926</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Hövelhof</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip6561b">
+<persName>
+<forename>Anna</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1891-04-16"/>
+<death cert="unknown"/>
+<occupation>Ehefrau</occupation>
+<residence><geo decls="#WGS">51.8203938 8.6588368</geo>Geburtsort: Stukenbrock; Wohnort: Hövelhof</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet, Mann: Arbeiter</p>
+<p>Eltern: Vater: Kolonialwarenhändler, Mutter: n.a.</p>
+<p>Anstalt: <date from="1925-10-17" to="1926-10-25">17.10.1925-25.10.1926</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Epilepsie (1925)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="hand2"/>
+<handNote medium="crayon_green" scope="minor" scribe="hand3"/>
+<handNote medium="crayon_blue" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin bittet um Nachurlaub, da es ihr bis jetzt gut geht, und um das Rezept für ihr Medikament.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip6561b06a.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#i">Hövelhof, den</hi> 4. 8. 26.</dateline>
+<salute><hi rendition="#i">Wehrter Herr Direktor</hi>!</salute>
+</opener>
+<p><add hand="hand2"><hi rendition="#i">Fr. 5</hi><hi rendition="#u"><hi rendition="#i">a</hi></hi></add></p><p><add hand="hand2"><hi rendition="#i">A 6561</hi></add></p><p><add hand="hand3"><hi rendition="#i">CS</hi></add><hi rendition="#i"> </hi><add hand="hand4"><hi rendition="#i">Jt</hi></add></p><p><hi rendition="#i">Durch dieses Schreiben<lb break="yes"/>bitte ich um einige Wo<lb break="no"/>chen Nachurlaub, denn<lb break="yes"/>mein Befinden ist bis heu<lb break="no"/>te ganz gut. Wenn Sie mir<lb break="yes"/>gleichzeitig das Rezept oder<lb break="yes"/>die Medicamente mitschik<lb break="no"/>ken könnten zum
+                        Nachset<lb break="no"/>zen, so würde ich Ihnen<lb break="yes"/>sehr dankbar
+                    sein.<lb break="yes"/><seg ana="#salute">Indem ich schliesse grüsst<lb break="yes"/>Sie achtungsvoll</seg>
+<seg ana="#signed">Anna<lb break="yes"/><hi rendition="#r"><surname>B.</surname></hi></seg></hi>
+<add hand="hand2"><lb break="yes"/>Zu den Akten. Urlaub ist noch<lb break="yes"/>nicht abgelaufen! Jt.</add>
+</p>
+</body>
+</text>
+</TEI>

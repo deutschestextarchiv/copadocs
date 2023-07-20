@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1869bj01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1869b</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>J.</surname></persName>
+<date type="sent">07.01.1852</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1869bj">
+<persName>
+<forename>Wilhelm</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1817"/>
+<death when="1852"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">49.142291 9.218655</geo>Heilbronn in Würtemberg/Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1851" to="1852">1851-52</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Wahnsinn, Tobsucht (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink_black" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient bedankt sich für die Behandlung, bittet jedoch darum, nun entlassen zu werden, 
+                    da es ihm gut ginge.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1869bj01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1869bj01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi>
+<hi rendition="#i">d</hi>. 7 <hi rendition="#i">Janr</hi>
+                    1852</hi></dateline>
+<salute>Euer <hi rendition="#i">W</hi>ohlgeboren!</salute>
+</opener>
+<p><space/> erlaube ich mir hiemit um die<lb break="yes"/>gütige baldige Abholung
+                aus der <hi rendition="#i">A</hi>n<lb break="no"/>st<hi rendition="#i">alt</hi> zu
+                bitten, da ich Gott sey Dank<lb break="yes"/>ganz wohl bin,
+                und mich wieder<lb break="yes"/>mit meiner lieben Familie vereinigen<lb break="yes"/>möchte. </p><p><space/> Indem ich Ihrer mir bisher so<lb break="yes"/>sehr wohlwollenden &amp;
+                freundschaftlichen<lb break="yes"/>Behandlung verbindlichst danke,<lb break="yes"/>habe ich die Ehre mich Jhrer ferneren<lb break="yes"/><hi rendition="#i">W</hi>ohlgewogenheit zu empfehlen<lb break="yes"/><seg ana="#salute">&amp; zeichne
+                    so hochachtungs als freundlichst<lb break="yes"/><hi rendition="#r">Ihr
+                        ergebener!<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Wm</hi>
+<surname><hi rendition="#i">J.</hi></surname></seg><lb break="yes"/>v. <hi rendition="#i">Augsburg</hi></hi></p>
+<pb facs="#image_002"/>
+<p><hi rendition="#r">S<hi rendition="#sup"><hi rendition="#i"><hi rendition="#u">r</hi></hi></hi>
+<hi rendition="#i">W</hi>ohlgeboren<lb break="yes"/></hi>Herrn <hi rendition="#i">Direktor</hi>
+<hi rendition="#i">Hagen</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">hier</hi></hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb286b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>286</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Max <surname>B.</surname></persName>
+<date type="sent">20.09.1858</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor: n.a.</persName>
+<settlement type="sent">Kempten</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb286b">
+<persName>
+<forename>Ursula</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1820"/>
+<death cert="unknown"/>
+<occupation>ehemalige Schiffswirtin</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1858" to="1859">1858-1859</date></p>
+<p>Brieftypen: pp,ao</p>
+</state>
+<trait>
+<p>Geistesstörung, Suizidalität (1858-1859)
+                        </p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bekannter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Erkundigung nach Gesundheitszustand einer Bekannten beim Arzt
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb286b02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb286b02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Kem̄pten den 19. 2 Sptembr<lb break="yes"/>8858<lb break="yes"/><add hand="arzt">Pr. 20 Septbr 58.<lb break="yes"/>6 N 2838</add></hi></dateline>
+<salute>Geehrtester Herr Docktor.</salute>
+</opener>
+<p>Ich bin so frey, und würde Sie ersuchen<lb break="yes"/>mir
+                zu Schreiben wie sich die Frau <surname>B.</surname><lb break="yes"/>befindet und wie es mit ihren Fuß geht<lb break="yes"/>ihr Bruder in Neapel hatte
+                sich nach<lb break="yes"/>ihr erkundigt, damit ich ihm doch Schreiben<lb break="yes"/>kan̄ wie es mit ihrer Krankheit geht, ich<lb break="yes"/>würde Sie geehrter Herr Docktor nicht mit<lb break="yes"/>einem Briefe
+                belästigen, aber ich möchte ihm<lb break="yes"/>doch Schreiben wie es mit seiner
+                Schwester<lb break="yes"/>geht. </p>
+<pb facs="#image_004"/>
+<p> Ich bin überzeugt Sie werden es mir nicht<lb break="yes"/>in übel nehmen daß
+                ich mich an Sie<lb break="yes"/>gewendet habe, und <seg ana="#salute">grüßet Sie
+                    indeßen<lb break="yes"/>freundlich und achtungsvoll:</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r">Max
+                            <surname>B.</surname></hi></seg>
+</p><p><add hand="arzt">D. 22 Septbr 58.<lb break="yes"/><unclear>der</unclear> Frau
+                        <surname>B.</surname> geht es seit einigen<lb break="yes"/>Wochen
+                    besser; sie ist jetzt <unclear/> und<lb break="yes"/>sieht indessen <unclear/>
+                    besser aus; <del>Aber</del>
+<unclear/><lb break="yes"/>sich auch gern u. anhaltend. Aber nun ist<lb break="yes"/>sie
+                    noch in ängstlicher Stim̄ung, sich jetzt besonders<lb break="yes"/>daran
+                    hängt, das sie hier zu viel kosten<lb break="yes"/>An ihrem Fus werden wir hier
+                    <unclear/> umso<lb break="yes"/>besser kön̄en; wen̄ ja noch etwas
+                    zu<lb break="yes"/>machen sein sollte wen̄ es am besten, wen̄<lb break="yes"/>sie sich später in ein Spital oder Institut begäbe<lb break="yes"/><unclear>sed</unclear></add></p>
+</body>
+</text>
+</TEI>

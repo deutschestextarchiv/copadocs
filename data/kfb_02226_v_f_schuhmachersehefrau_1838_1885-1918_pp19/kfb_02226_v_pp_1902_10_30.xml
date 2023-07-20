@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2226v04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2226</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>V.</surname></persName>
+<date type="sent">30.10.1902</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann: Felix <surname>V.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2226v">
+<persName>
+<forename>Maria</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1838"/>
+<death when="1918"/>
+<occupation>Schuhmachersehefrau</occupation>
+<residence><geo decls="#WGS">48.1479335 10.7571408</geo>Langerringen, Augsburg, wohnhaft: Kolonie Hurlach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1885" to="1918">1885-1918</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Manie (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin möchte erfahren, wie es ihrer Familie geht.
+                    Ihr Mann soll zu ihr kommen, damit sie mit ihm reden kann.
+                    Sie will nach Hause und ihre Verwandten wiedersehen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2226v04a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2226v04b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb2226v04c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c">Irse</hi>
+</dateline>
+<salute>Theuerste meines Herzens </salute>
+</opener>
+<p>Warum last Ihr nichts mer<lb break="yes"/>fon Euich hören ich bitte<lb break="yes"/>den lieben Gott Täglich<lb break="yes"/>daß Er Eich Gesundhait<lb break="yes"/>schenke Hir sind file Kranke<lb break="yes"/>Lieber Man ich bin ser Bestirzt<lb break="yes"/>Da ich keine Andtwort zurik<lb break="yes"/>erhilt bist Du noch
+                krank<lb break="yes"/>oder was feldt den Eich<lb break="yes"/>Schreibe mir oder
+                Laß Dich<lb break="yes"/>mit dem Stellwagen<lb break="yes"/>herfiren ich möchte
+                selber<lb break="yes"/>mit dir Reden ich möchte<lb break="yes"/>gern nach Lechfeld
+                u. meine<lb break="yes"/>Verwandten <w>wider Sen</w><lb break="yes"/>Lieber Mann ich bitte Dich<lb break="yes"/>kom Du soll Dan könen
+                wir </p><pb facs="#image_002"/><p>Lieber Man wo sind<lb break="yes"/>Doch die Kinder fom Bruder<lb break="yes"/>Fridrich ich
+                möchte schon<lb break="yes"/>Erfaren wie es Inen gehe<lb break="yes"/>sei so gut
+                Liebe Man schreib<lb break="yes"/>Inen ein Briflein das ich<lb break="yes"/>wider
+                Beßer bin die <surname><unclear>G.</unclear></surname><lb break="yes"/>Ana hat mich Einmal besucht<lb break="yes"/>u meine Schwester
+                Kadtrina<lb break="yes"/>ich möchte hald wider nach<lb break="yes"/>Haus ich Laße
+                den Hochwirden<lb break="yes"/>Herr Pfarer grisen <seg ana="#salute">u. fon<lb break="yes"/>mir bist Du Lieber Veligs<lb break="yes"/>Herzlich
+                    gegrist</seg> kom<lb break="yes"/>lieber Man u holle mich<lb break="yes"/>ich
+                will nicht mer in Irse sein.<lb break="yes"/><space/> Amen. Gelobt sey Jesus<lb break="yes"/><hi rendition="#c">Christus.</hi>
+<hi rendition="#r"><seg ana="#signed">Maria <surname>V.</surname></seg>.</hi></p>
+<p><add hand="arzt">/: Abgesendet mit der Bemerkung, daß  das Befinden<lb break="yes"/>der Kranken <hi rendition="#u">unverändert</hi> ist <unclear>:</unclear> Nachricht erwünscht:/<lb break="yes"/><hi rendition="#i">Irsee</hi> d. 30: Octob. 1902:<lb break="yes"/><hi rendition="#c">d<hi rendition="#i">Julius</hi>.</hi></add>
+</p>
+<pb facs="#image_003"/>
+<p>
+<hi rendition="#r">An</hi><lb break="yes"/>Herrn Veligs <surname>V.</surname><lb break="yes"/><w>Kloster Lechfeld</w>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun732s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>732 (K. 670)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>S.</surname></persName>
+<date type="sent">ca. 1893-94</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mun732s">
+<persName>
+<forename>Anna</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1869-08-13"/>
+<death cert="unknown"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">52.3161663 7.7836981</geo>Geburtsort: Amsterdam; Wohnort: Mettingen (Kreis Steinfurt)</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Kaufmann; Mutter: Hausfrau</p>
+<p>Anstalt: <date from="1893-05-25" to="1894-03-30">25.05.1893-30.03.1894</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Imbecillität (1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="crayon_blue" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin beklagt sich über ihre Situation in der Anstalt und bittet ihre Eltern, sie wieder zu sich zu holen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun732s04a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="mun732s04b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Munster</hi> 20 <hi rendition="#i">August</hi></hi></dateline>
+<salute><hi rendition="#c">Liebe Eltern!</hi></salute>
+</opener>
+<p><add hand="vordruck"><foreign xml:lang="frz">Billet de Correspondance</foreign></add></p>
+<p><add hand="hand3"><hi rendition="#c">ad acta <hi rendition="#i">Frl. </hi><surname><hi rendition="#i">S.</hi></surname></hi><lb break="yes"/><hi rendition="#r">G </hi></add></p>
+<p>Ich bitte Euch liebe Eltern<lb break="yes"/>laß mich doch wieder zu Euch<lb break="yes"/>kommen ich kann ja so nicht<lb break="yes"/>mehr leben. O betet
+                doch mal<lb break="yes"/>für mich für Euer armes<lb break="yes"/>Kind. Mein Zeug,
+                meine <pb facs="#image_012"/>Wäsche, nichts habe ich hier<lb break="yes"/>in
+                Ordnung O ich bitte<lb break="yes"/>Euch um Gottes Willen<lb break="yes"/>last
+                mich doch wieder zu<lb break="yes"/>Euch kommen last mich<lb break="yes"/>doch
+                wieder aus diese<lb break="yes"/>Gefangenschaft heraus<lb break="yes"/>ich kann
+                hier unmöglich<lb break="yes"/>länger sein, sonst muß<lb break="yes"/>ich für ewig
+                verloren<lb break="yes"/>gehen. <hi rendition="#r"><seg ana="#signed">Euere <hi rendition="#i">Anna</hi></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2905m21" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2905</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Helene <surname>M.</surname></persName>
+<date type="sent">11.01.1882</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vikar: <surname>R.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2905m">
+<persName>
+<forename>Helene</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1848"/>
+<death when="1925"/>
+<occupation>Nudelfabrikanten-/Taglöhnerfrau</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern:</p>
+<p>Anstalt: <date from="1880" to="1925">1880-1925</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Fixe Ideen, Beeinträchtigungswahn (1881)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie beschwert sich über sein ungerechtes Verhalten ihr gegenüber.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2905m21a.jpg" xml:id="image_051"/>
+<graphic mimeType="image/jpg" url="kfb2905m21b.jpg" xml:id="image_052"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_051"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 11. Januar<lb break="yes"/>1882.</hi></dateline>
+<salute><hi rendition="#c">Werthester Herr <surname>R.</surname><lb break="yes"/>Vikar in
+                        Augsburg.</hi></salute>
+</opener>
+<p>Nur mit wenigen Zeilen<lb break="yes"/>muß ich Ihnen berichten,<lb break="yes"/>daß Sie mir ein schlechtes<lb break="yes"/>Loos bei Herrn Docktor Julius<lb break="yes"/>u. bei Fräulein Oberpflegerin<lb break="yes"/>spielten, Sie hätten
+                mehr bessere<lb break="yes"/>christlichen evangelischen Lutherischen<lb break="yes"/>Geistlichkeits Charackter<lb break="yes"/>zeigen sollen bei diesen<lb break="yes"/>lauen Christen. </p> <p>Ich habe Ihnen so oft gesagt,<lb break="yes"/>daß die Untugend mit<lb break="yes"/>Ihrer
+                Musick welches<lb break="yes"/>Ihr <w>Lieblings Geschäft</w>
+                war<lb break="yes"/>zu Ihrem u. meinem Unheil<lb break="yes"/>Raum schaffe, aber
+                Sie<lb break="yes"/>zeigten sich, wie ein<lb break="yes"/>ordinärer Heide. Ich
+                kan̄<lb break="yes"/>nicht begreifen, daß Sie<lb break="yes"/>so gottlos
+                sein kon̄ten, u.<lb break="yes"/>möchten mich auch bessere Fortschritte<lb break="yes"/><add place="margin">u. meinen Brief den Sie von mir haben, müßen
+                    Sie mir sogleich brin</add></p>
+<pb facs="#image_052"/>
+<p>in Ihrem heiligen Geistliche<lb break="yes"/>Amte erwerben, warum<lb break="yes"/>waren Sie den̄ gar so arg<lb break="yes"/>nachläßig, u.
+                auch habens mir<lb break="yes"/>mein Schicksal so verbittert;<lb break="yes"/>Wo
+                ich doch <hi rendition="#u">Alles</hi> u. <hi rendition="#u">Alles</hi><lb break="yes"/>auf Ihnen hielt; weil Sie auch<lb break="yes"/>im Som̄er
+                schon nicht meiner<lb break="yes"/>gedenken mochten, als Sie den<lb break="yes"/>Guten Herrn Stadtpfarrer<lb break="yes"/><surname>R.</surname> in der Anstalt
+                Kaufbeuren<lb break="yes"/>überall umher führten, blos<lb break="yes"/>nicht zu
+                mir, das hat mir<lb break="yes"/>auch recht weh gethan, u. so<lb break="yes"/>haben Sie manchen Dum̄en<lb break="yes"/>Jugendstreich gemacht, die<lb break="yes"/>gar <add place="above">nicht</add> anstandsmäsig waren<lb break="yes"/>von Ihnen gegen mich. −<lb break="yes"/>Wie haben Sie mich
+                nur erzürnt,<lb break="yes"/>daß Sie zum Herrn Dekan <surname>H.</surname> haben sagen mögen;<lb break="yes"/>ich sei die zufriedenste
+                in<lb break="yes"/>der ganz Anstalt, das war gar<lb break="yes"/>nicht sittlich
+                von Ihnen, hoffentlich<lb break="yes"/>kom̄en Sie sogleich u. verschaffen<lb break="yes"/>mir ein bessres Schicksal oder<lb break="yes"/>ich laße Ihnen
+                tüchtig strafen. Helene M</p>
+</body>
+</text>
+</TEI>

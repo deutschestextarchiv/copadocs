@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor3274s10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>3274 (K. 210)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>S.</surname></persName>
+<date type="sent">03.03.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat</persName>
+<settlement type="sent">Dortmund-Brechten</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor3274s">
+<persName>
+<forename>Franz</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1871-06-30"/>
+<death cert="unknown"/>
+<occupation>Elektrotechniker</occupation>
+<residence><geo decls="#WGS">51.5142273 7.4652789</geo>Geburtsort: Oelsdebenai; Wohnort: Dortmund</residence>
+<faith>konfessionslos</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: V: Aufseher, M: nicht bekannt</p>
+<p>Anstalt: <date from="1916-04-10" to="1921-07-25">10.04.1916-31.05.1916; 21.12.1920-25.07.1921</date></p>
+<p>Brieftypen: po, Lebenslauf</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um weitere Gutachten zur Beurteilung seines Zustandes
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor3274s10a.jpg" xml:id="image_030"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_030"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Dortmund-Brechten d</hi> 3. März 1929.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Sehr</hi> geehrter <hi rendition="#i">Herr</hi> Obermedizinalrat!</hi></salute>
+</opener>
+<p>In meiner bekannten <hi rendition="#i">Sache</hi> hat mein Vertreter<lb break="yes"/>den Antrag gestellt noch ein Obergutachten rasch ein<lb break="yes"/>Ergänzungsgutachten wegen meines Zustandes<lb break="yes"/>einzufordern, daß sich
+                wahrscheinlich in Physischer<lb break="yes"/>hinsicht die Schrift von 1916 bis
+                jetzt wohl in<lb break="yes"/>frage stehen dürfte, (ob schon Ihr Gutachten auf<lb break="yes"/>die Körperliche hinsicht als Gesund) und § 6. <hi rendition="#i">BGB</hi><lb break="yes"/>für mich in keinerleiweise in frage kom̄t.<lb break="yes"/>Da bei den ganzen Gerichtsackten sehr wenig <unclear>Ur</unclear>schriften<lb break="yes"/>meiner Handschrift in Originalen darin sind.<lb break="yes"/>Werde
+                ich meinen Herrn Vertreter beauftragen<lb break="yes"/>daß er die Zuziehung der
+                Handackten der Anst<del>h</del>allt<lb break="yes"/>von <hi rendition="#i">Apler</hi>beck beantragen soll. und nehme an<lb break="yes"/>daß diesen
+                Antrage auf Iherseite stattgegeben<lb break="yes"/>wird; da in denselben doch
+                Schriftproben aus<lb break="yes"/>allerhand Jahren sich darin befinden</p><p><hi rendition="#c"><seg ana="#salute">Es Grüß Sie mit aller<lb break="yes"/>Hochachtung</seg><lb break="yes"/>Ihr<lb break="yes"/><seg ana="#signed">F. J. <hi rendition="#i"><surname>S.</surname></hi></seg></hi></p><p><add place="margin">Beilage<lb break="yes"/>gefl: Kennnißnahme.</add>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1720w11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1720</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>W.</surname></persName>
+<date type="sent">04.04.1886</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Karolina <surname>M.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1720w">
+<persName>
+<forename>Georg</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1917"/>
+<occupation>Ökonomenssohn</occupation>
+<residence><geo decls="#WGS">47.5991939 10.711254276584267</geo>Roßhaupten, Füssen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonom</p>
+<p>Anstalt: <date from="1886" to="1917">1886-1917</date></p>
+<p>Brieftypen: pp, po, ap, ao, Notizen</p>
+</state>
+<trait><p>Depression, Halluzination (1888), Manie, Größenideen (1886)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber berichtet, dass er die Gemeinde an der Nase herum führt, da sie 1000 Mark bezahlen muss. 
+                    Er vermutet, dass zwei weitere Männer auch in die Anstalt gebracht werden.
+                    Er glaubt, dass der Bürgermeister einen schlechten Stand hat, weil die Gemeinde gespalten ist.
+                    Er möchte wissen, was in Roßhaupten passiert.
+                    Er hat geahnt, dass er in die Anstalt gebracht wird.
+                    Er bittet um Antwort.
+                    Er glaubt, seine Eltern wollen nichts von ihm wissen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1720w11a.jpg" xml:id="image_023"/>
+<graphic mimeType="image/jpg" url="kfb1720w11b.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_023"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 4/4. 86</hi><lb break="yes"/><hi rendition="#c"> <seg ana="#inst">Närische UniversitätsAnestalt<lb break="yes"/>für
+                        Geisteskranke</seg></hi></dateline>
+<salute><hi rendition="#c">Liebes Huttler Gor!</hi></salute>
+</opener>
+<p> Es war eine schöne Gaude, nur schade<lb break="yes"/>daß sie nicht am I. April war. Ich
+                    sage<lb break="yes"/>Ich führe die ganze Gemeinde im<lb break="yes"/>April
+                herum. Die Gemeinde zahlt gern<lb break="yes"/>tausend (1000) Mark Wen̄ sie
+                sich versöhnen<lb break="yes"/>darf Man meinte, Es braucht gar nichts<lb break="yes"/>als mich ins <seg ana="#inst">Narenhaus</seg> führen<lb break="yes"/>Der <surname>S.</surname> und <surname>F.</surname>
+                kom̄en noch<lb break="yes"/>In dasselbe <seg ana="#inst">Narrenloch</seg>.<lb break="yes"/>O <seg ana="#curse">Schenthur du
+                        verfluchte<lb break="yes"/>Miserable</seg> und ausgesuchte<lb break="yes"/>Bürgermeister steht auf schlechten Füßen<lb break="yes"/>Weil er die Gemeind
+                    zerissen<pb facs="#image_024"/> Jeder schaute Pfiffig nach.<lb break="yes"/>Jeder denkt was er mag.<lb break="yes"/>Ich möchte nur wessen was in<lb break="yes"/>Roßhaupten Neues vorgeht.<lb break="yes"/>Ich sah aus allen Reden<lb break="yes"/>Sie führen mich auf Irsee morgen<lb break="yes"/><space/> Ich möchte Antwort haben.<lb break="yes"/><seg ana="#salute">Es grüßt Euch</seg><lb break="yes"/><hi rendition="#c"><hi rendition="#i"><seg ana="#signed"><surname>W.</surname>
+                            Georg</seg></hi></hi></p>
+<p>
+<hi rendition="#c">Meine Eltern wollen ja doch<lb break="yes"/>nichts wissen von
+                        mir<lb break="yes"/>Als ich Ihnen begegnete
+                        <add><unclear>Kirche</unclear></add><lb break="yes"/>kan̄te ich
+                    gleich Ihre Abschicht</hi></p>
+<p><hi rendition="#c"> An Karolia <surname>M.</surname><lb break="yes"/>in<lb break="yes"/>Roßhaupten</hi><lb break="yes"/>bei Füssen</p>
+</body>
+</text>
+</TEI>

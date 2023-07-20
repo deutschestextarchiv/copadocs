@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2361e07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Laurentiu Gafiuc</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2361</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Leopold <surname>E.</surname></persName>
+<date type="sent">16.11.1873</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Monika <surname>E.</surname> </persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2361e">
+<persName>
+<forename>Leopold</forename>
+<surname>E.</surname>
+</persName>
+<birth when="1821"/>
+<death when="1886"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">47.7532903 10.3198281</geo>Ursulasried, St. Mang, Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verhieratet</p>
+<p>Anstalt: <date from="1873" to="1886">1873-86</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Tobsucht, Erregungszustände (1873), Wahnideen (1874)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Der Schreiber glaubt, dass es keine Verzeihung gibt, will aber Buße tun.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2361e07a.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="kfb2361e07b.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_018"/>
+<opener>
+<dateline/>
+<salute>Weib</salute>
+</opener>
+<p>warum hast du mir das gethan. Glaubst du meine<lb break="yes"/>Mutter hat mich zur Verdamniß auf
+                die Welt gebracht.<lb break="yes"/>den es ist unmöglich das wir noch verzeihnung
+                erlangen<lb break="yes"/>könen. Diese schand was König und Käißer wegen<lb break="yes"/>ums zwei <del>das</del> haben kan uns der Liebe Gott nicht mehr<lb break="yes"/>verzeihen. Den so machens die Heüden die Wüldesten<lb break="yes"/>Menschen nicht. Aber wir wollen noch zur buße greifen<lb break="yes"/>weil wir
+                noch könen. Won uns Seine Majestet die<lb break="yes"/>zeit schecken . Wir wollen
+                alles ertragen was wir könen<lb break="yes"/>geduldig wan nur die Ewigeselikeit
+                nicht hin ist.<lb break="yes"/>Gestern war mein Namens Tag aber du hast dich nicht<lb break="yes"/>bekümert. Jrße den 16 Novenber 1873 J M J Le<lb break="yes"/><space/> die Thränen flüßen das Jch keine Dünte brauchte </p>
+<pb facs="#image_019"/>
+<p>Es lebt noch<lb break="yes"/>der Alte<lb break="yes"/>Gotte | |</p>
+<p>Lebold <surname>E.</surname> w von<lb break="yes"/>Ursulasrid</p>
+<p>und<lb break="yes"/>der alte<lb break="yes"/>Kaiser</p>
+<p>Du hast gewußt<lb break="yes"/>kanst wieder<lb break="yes"/>Auf Lößen _ _ _</p>
+<p><hi rendition="#c">An die<lb break="yes"/>Monika <surname>E.</surname><lb break="yes"/>ein Wüthwe<lb break="yes"/>Ursulasrid.<lb break="yes"/><unclear>H</unclear>e 43 Str</hi></p>
+<p>Gelobt Jesus Kristus<lb break="yes"/>Gehe Geschwind</p>
+<p>Jch bin Jn verzweiflung<lb break="yes"/>Dein Eelicher Man Vatter<lb break="yes"/>von drei Kinder gerißen</p>
+<p>sonst geht es<lb break="yes"/>Dir schlecht
+                
+            </p>
+</body>
+</text>
+</TEI>

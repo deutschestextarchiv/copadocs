@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1789h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1789</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anton <surname>H.</surname></persName>
+<date type="sent">03.07.1913</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1789h">
+<persName>
+<forename>Anton</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1872"/>
+<death when="1917"/>
+<occupation>Schneidergehilfe</occupation>
+<residence><geo decls="#WGS">48.9537922 10.6076233</geo>Öttingen, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schneider</p>
+<p>Anstalt: <date from="1893" to="1917">1893-1917</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Epilepsie (1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Wiederholt Ermahnungen, brav und freundlich zu sein und nicht zu lügen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1789h01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1789h01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#i"><hi rendition="#r">prs.
+                                3.7.13.</hi></hi></add></dateline>
+<salute><hi rendition="#i">Mein libn Eltern!</hi></salute>
+</opener>
+<p> Liermiet ich eine<lb break="yes"/><hi rendition="#i">Kleinek</hi>eit tzu, hoffend<lb break="yes"/>es wird und uns
+                    zughen<lb break="no"/>geferut, er uns dahs es<lb break="yes"/>Dir gut geht.
+                Lasse dir<lb break="yes"/>wieder gut gehen, sei<lb break="yes"/>braf. und u
+                    fleisig<lb break="yes"/>wersteke, ick, Sei braf.<lb break="yes"/><space/> Sei braf ebenfalls<lb break="yes"/>fr Grühs, von deinen<lb break="yes"/>unser, treine, deinen<lb break="yes"/>Mutter. Vater. Geschwister.<lb break="yes"/>Freundlichlich. Du sollst<lb break="yes"/>nicht lügen.</p>
+<pb facs="#image_002"/>
+<p>Jede Lüge, jede N<lb break="yes"/>Nnehrlichlit, der Seine<lb break="yes"/>christ,
+                lichen; schreibe<lb break="yes"/>Ich euch zu Euch, Ich Krauben<lb break="yes"/>und
+                mihr sind.<lb break="yes"/>es es zu euch das.<lb break="yes"/>kom̄ern Licht,
+                das erleucht<lb break="no"/>tern. alls die Wahrheit.<lb break="yes"/>Ich thue mihr
+                zu dir<lb break="yes"/>zu mihr theile, diese<lb break="yes"/>d auch weder Sachen<lb break="yes"/>meine, Elterern,<lb break="yes"/>und es bekom̄en<lb break="yes"/>dieses, Ich hoffe auch.<lb break="yes"/><hi rendition="#c"><seg ana="#signed"> Dein <hi rendition="#i">Ant</hi>on.</seg></hi></p>
+</body>
+</text>
+</TEI>

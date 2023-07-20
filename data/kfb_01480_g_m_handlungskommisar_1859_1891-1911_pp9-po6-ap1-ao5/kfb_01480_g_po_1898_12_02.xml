@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1480g03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1480</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>G.</surname></persName>
+<date type="sent">02.12.1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Julius <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1480g">
+<persName>
+<forename>Karl</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1911"/>
+<occupation>Handlungskommissar</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1891" to="1911">1891-1911</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>[Epilepsie] (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Epilepsie, Krämpfe; möchte wissen, wie ihm geholfen werden kann; Lebenslauf kurz
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1480g03a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb1480g03b.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1480g03c.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irrsee</hi>, 2. Dezbr. 1898.</hi></dateline>
+<salute>Herrn <hi rendition="#i">Iulius <surname>H.</surname></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Ziehin!</hi> 6 Cüstrin</hi></hi></salute>
+</opener>
+<p>
+<space/>Ihre werthe Adreße der<lb break="yes"/>Augsburger
+                Abendzeitung ver<lb break="no"/>dankend erlaube ich mir nun heute<lb break="yes"/>Ihnen über meine gegenwär<lb break="no"/>tige Lage weiteren Bericht<lb break="yes"/>bekannt zu geben.<lb break="yes"/><space/>Ich bin nun seit 1892 in<lb break="yes"/>der
+                Heil- und Pflege-Anstalt Kauf<lb break="no"/>beuern und Irrsee unterge<lb break="no"/>bracht und <seg ana="#med">leide an <hi rendition="#u"><hi rendition="#i">Epi</hi></hi>
+<pb break="yes" facs="#image_005"/>
+<hi rendition="#u"><hi rendition="#i">lepsie</hi></hi> oder Fallsucht,
+                        Krämpfe<lb break="yes"/>und Nervenleiden, da mir also<lb break="yes"/>bisher nicht mehr geholfen wur<lb break="no"/>de, so möchte ich Sie hiermit
+                        er<lb break="no"/>suchen, wie dieser Krankheit<lb break="yes"/>geholfen
+                    werden kann, mir<lb break="yes"/>weitere <hi rendition="#u">Rückantwort</hi>
+                        zukom<lb break="no"/>men zu laßen; ich habe es<lb break="yes"/>in
+                    Erfahrung gebraucht, wie<lb break="yes"/>diesem Leiden zu helfen ist,<lb break="yes"/>ich würde Ihnen sehr dankbar<lb break="yes"/>dafür sein; es
+                    sind schon sechs<lb break="yes"/>Iahre. Ich bin jetzt erst 39 Iahre<lb break="yes"/>alt, meiner Profession ein<lb break="yes"/>Handlungskommis,
+                    auch</seg><pb facs="#image_006"/>schon verheirathet, früher war<lb break="yes"/>ich auch beim Militär und<lb break="yes"/>von <hi rendition="#u">Nördlingen</hi>/Ries in<lb break="yes"/>Bayern gebürtig.<lb break="yes"/>Für die
+                Rückantwort er<lb break="no"/>laube mir 10 Pfennige bei<lb break="no"/>zufügen.<lb break="yes"/><seg ana="#salute"><space/> Ihren geehrten Bericht<lb break="yes"/>im Voraus
+                bestens dankend<lb break="yes"/>zeichne<lb break="yes"/><hi rendition="#r">Mit aller Achtung!<lb break="yes"/>ergebenst!</hi><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Karl <surname>G.</surname></hi><lb break="yes"/>Zur Zeit
+                    Patient in der<lb break="yes"/>Heil und Pfleganstalt<lb break="yes"/><hi rendition="#u">Irrsee</hi><lb break="yes"/>bei <hi rendition="#i">Kaufbeuern<lb break="yes"/>Bayern</hi></seg></seg></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2323b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2323</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Friedrich <surname>B.</surname></persName>
+<date type="sent">12.8.1851</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Memmingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2323b">
+<persName>
+<forename>Friedrich</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1836"/>
+<death when="1885"/>
+<occupation>Landarztsohn</occupation>
+<residence><geo decls="#WGS">47.9867696 10.181319</geo>Memmingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landarzt</p>
+<p>Anstalt: <date from="1851" to="1885">1851-85</date></p>
+<p>Brieftypen: po,pp</p>
+</state>
+<trait><p>Schwermut, Aufregungszustände (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    dankt für Zuwendung während des Aufenthalts in der Anstalt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2323b01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Memmingen den 12. August 1851.</hi></hi></dateline>
+<salute><hi rendition="#c">Hochzuverehrender Herr <hi rendition="#i">Director</hi>!</hi></salute>
+</opener>
+<p>
+Zu Hause glücklich angekom̄en, halte ich es für meine erste<lb break="yes"/>Pflicht Ihnen nochmals meinen herzlichen Dank für die viele Liebe<lb break="yes"/>u. Güte, welche ich während meinem Aufenthalt in der Anstalt in so reichem<lb break="yes"/>Maße genossen habe, auszudrücken u. dabei den herzlichen Wunsch aus<lb break="no"/>zusprechen, daß Sie der l. Vater im Him̄el gesund erhalten möge<lb break="yes"/>um der leidenden Menschheit Ihre Hülfe noch recht lange wiedmen zu<lb break="yes"/>kön̄en.</p>
+<p>
+<seg ana="#salute">Schlieslich ersuche ich Sie Ihrer verehrten Frau Gemahlin meine höflich<lb break="no"/>sten Empfehlungen zu sagen, Ihnen aber empfehle ich mich auch im<lb break="yes"/>Namen der Meinigen mit aller Hochachtung u. Dankbarkeit</seg></p>
+<p><seg ana="#signed">
+<hi rendition="#r">Ihr ergebenster<lb break="yes"/><hi rendition="#i">Friedrich
+                <surname>B.</surname>.</hi></hi></seg></p>
+</body>
+</text>
+</TEI>

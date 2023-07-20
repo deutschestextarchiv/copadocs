@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb518o09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>518</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Michael <surname>O.</surname></persName>
+<date type="sent">05.06.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direkotr: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Mehring</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb518o">
+<persName>
+<forename>Franz</forename>
+<surname>O.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Bäckerssohn</occupation>
+<residence><geo decls="#WGS">48.2667 10.9833</geo>Mering, Friedberg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bäcker</p>
+<p>Anstalt: <date from="1853" to="1859">1853-59</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Kaufs- und Spekulationsmanie, Geistesverwirrung (1858-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="bruder"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte wissen, wie es seinem Bruder geht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb518o09a.jpg" xml:id="image_023"/>
+<graphic mimeType="image/jpg" url="kfb518o09b.jpg" xml:id="image_024"/>
+<graphic mimeType="image/jpg" url="kfb518o09c.jpg" xml:id="image_025"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_023"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Mering den 5 Juni 1859</hi></hi></dateline>
+<salute><hi rendition="#c">Geehrtester Herr <hi rendition="#i">Direcktor!</hi></hi></salute>
+</opener>
+<p>
+Jch hoffe meine baar Zeilen werden Sie nicht<lb break="yes"/>belästigen, um das Ansuchen zu stellen, wie<lb break="yes"/>es meinen Bruder Franz steht, seit dem<lb break="yes"/>letzten Besuche. <seg ana="#salute">Jch bitte Sie daher um<lb break="yes"/>eine gelegenheitliche Antwort u verbleibe<lb break="yes"/>hochachtungsvoll</seg></p>
+<p><seg ana="#signed"><hi rendition="#c">Jhr</hi><lb break="yes"/><hi rendition="#r">ergebener<lb break="yes"/><hi rendition="#i">Michael <surname>O.</surname>,<lb break="yes"/>Bäcker in Mering</hi></hi></seg></p>
+<pb facs="#image_025"/>
+<p><hi rendition="#i"><hi rendition="#r">Sr. Wohlgebrn</hi><lb break="yes"/><hi rendition="#c">Direcktor von der<lb break="yes"/>Kgl. Kreis-Irren Anstald<lb break="yes"/>in</hi><lb break="yes"/><hi rendition="#r">Irrse.</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

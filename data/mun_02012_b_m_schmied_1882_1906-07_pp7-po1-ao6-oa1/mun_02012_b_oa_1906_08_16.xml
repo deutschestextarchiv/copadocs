@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2012b09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2012 (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Geh. Med. Rat. <surname/></persName>
+<date type="sent">16.08.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater eines Patienten: Franz <surname>B.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun2012b">
+<persName>
+<forename>Franz</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1882-04-22"/>
+<death cert="unknown"/>
+<occupation>Schmied</occupation>
+<residence><geo decls="#WGS">51.8260823 8.1453352</geo>Geburtsort: Oelde; Wohnort: Oelde</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Schmiedemeister, Mutter: n.a.</p>
+<p>Anstalt: <date from="1906-07-16" to="1907-02-10">16.07.1906-10.02.1907</date></p>
+<p>Brieftypen: pp, po, ao, oa</p>
+</state>
+<trait><p>Geisteskrankheit (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="arzt"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="pencil" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Arzt antwortet auf die Anfrage des Vaters des Patienten (mun2012b08) und beschreibt dessen Zustand.
+                    Er verrichtet leichte Arbeiten und sein körperliches Befinden ist gut, seine Wahnideen halten aber an.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2012b09a.jpg" xml:id="image_021"/>
+<graphic mimeType="image/jpg" url="mun2012b09b.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="mun2012b09c.jpg" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Münster</hi>, den 16. Aug.
+                        1906</hi></dateline>
+<salute><hi rendition="#c">Erw. Wohlgeboren</hi></salute>
+</opener>
+<p>benachrichtige ich in Erwiede<lb break="no"/>rung der gefl. Anfrage<lb break="yes"/>vom 15. d. M., daß in dem Befin<lb break="no"/>den Ihres Sohnes
+                Franz<lb break="yes"/>seit meinem letzten Schreiben<lb break="yes"/>insofern eine
+                gewisse Änderung<lb break="yes"/>eingetreten ist, als er sich<lb break="yes"/>zur
+                Zeit seinem Wunsche ent<lb break="no"/>sprechend täglich − allerdings<lb break="yes"/>ohne nachhaltige Ausdauer<lb break="yes"/>mit leichter Arbeit
+                    be<lb break="no"/>schäftigt. Er ist jedoch fort<lb break="no"/>gesetzt in
+                Krankhaften<lb break="yes"/>Vorstellungen und <seg ana="#med">Sin<lb break="no"/>nestäuschungen</seg> befangen, <pb facs="#image_022"/>für seine Lage
+                uneinsichtig,<lb break="yes"/>in seiner Stimmung kindlich hei<lb break="no"/>ter
+                und zufrieden u. ohne<lb break="yes"/>jedes Interesse für die Vor<lb break="no"/>gänge in der Außenwelt.<lb break="yes"/>Der Patient bekundet in<lb break="yes"/>seinem ganzen Verhalten<lb break="yes"/>nach wie vor eine hoch<lb break="no"/>gradige Urteilsschwäche<lb break="yes"/>und Selbstüberschätzung,<lb break="yes"/>er spricht nicht weiter von<lb break="yes"/>seinen Angehörigen und<lb break="yes"/>äußert sich noch immer infolge<lb break="yes"/>der ihn
+                beherrschenden <seg ana="#med">Wahnideen</seg><lb break="yes"/>über zahlreiche, häufig wechseln<lb break="no"/>de und
+                unausführbare <add place="below">Pläne.</add>
+<pb facs="#image_023"/> Körperlich ist sein Befinden<lb break="yes"/>durchaus
+                zufriendestellend.<lb break="yes"/><add hand="hand2"><unclear>mdt Ischob<lb break="yes"/><hi rendition="#u">Schsm</hi></unclear></add><lb break="yes"/><add hand="hand3"><unclear>ab ord K.</unclear></add><lb break="yes"/><hi rendition="#c">der Direktor: </hi><lb break="yes"/><hi rendition="#r"> Geh. Med.
+                    Rat.</hi>
+</p>
+</body>
+</text>
+</TEI>

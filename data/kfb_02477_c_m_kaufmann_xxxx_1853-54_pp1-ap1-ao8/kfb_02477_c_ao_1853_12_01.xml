@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2477c05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2477</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>K.</surname></persName>
+<date type="sent">01.12.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">Gunzenhausen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2477c">
+<persName>
+<forename>Moritz</forename>
+<surname>K.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">49.1147095 10.7545933</geo>Gunzenhausen</residence>
+<faith>jüdisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1853" to="1854">1853-54</date></p>
+<p>Brieftypen: pp,ap,ao</p>
+</state>
+<trait><p>"trübe Gemüthsstimmung &amp; einen Zustand von Schwermuth“ (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Die Ehefrau des Patienten bedauert, dass sie aufgrund der hohen Zahl an Mitpatienten ihres Mannes nicht regelmäßig Bericht der Ärzte über dessen Zustand erhalten kann.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2477c05a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Euer Wohlgeboren</hi></salute>
+</opener>
+<p>Ihr sehr geehrtes Schreiben habe ich erhalten,<lb break="yes"/>dessen Inhalt
+                mich sehr schmerzt, daß Euer<lb break="yes"/>Wohlgeboren, meinem Wunsche alle 8
+                Tage Beriht<lb break="yes"/>über dem Befinden meines geliebten Gatten<lb break="yes"/>verweigern, es ist dies freilich viel verlangt,<lb break="yes"/>allein ich glaubte <unclear>berisigtigt</unclear> zu werden, da eben<lb break="yes"/>diese 150 kranke doch nicht alle famieljen-Väter<lb break="yes"/>sein werden, entschuldigen mich daher Euer<lb break="yes"/>Wohlgeboren, u lassen
+                meinen gerechten Schmerz<lb break="yes"/>nicht außerm Auge. Anbei sende ich zur
+                    <unclear>vorgerikten</unclear><lb break="yes"/>Jahreszeit für meinen Man̄ Weste u Mütze, mit<lb break="yes"/>der Bitte es gefälligst übergeben wollen, ich<lb break="yes"/>fügte auh einige Zeilen bei, wen̄ es Euer<lb break="yes"/>Wohlgeboren, für
+                gut finden dieselbe zu überge<unclear>ben</unclear>,<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll</seg><lb break="yes"/><hi rendition="#i"><seg ana="#signed">Johan̄a
+                                <surname>K.</surname></seg></hi></hi><lb break="yes"/><hi rendition="#i">Gunzenhausen</hi> d<hi rendition="#i">en</hi> 1
+                Dezember <hi rendition="#u">1853</hi>
+</p>
+<p>über Mütze u Weste bedarf es keiner Bescheinigung</p>
+</body>
+</text>
+</TEI>

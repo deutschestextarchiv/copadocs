@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2744s07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2744</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Clara <surname>S.</surname></persName>
+<date type="sent">ca1852-54</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2744s">
+<persName>
+<forename>Johann Christoph</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1802"/>
+<death cert="unknown"/>
+<occupation>Tabakfabrikant</occupation>
+<residence><geo decls="#WGS">49.5928616 11.0056</geo>Erlangen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1852" to="1854">1852-54</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>"psychische Störung"(1852)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet den Direktor darum, den Patienten nachhause holen zu dürfen und schickt hierzu ihren Sohn zur Anstalt. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2744s07a.jpg" xml:id="image_019"/>
+<graphic mimeType="image/jpg" url="kfb2744s07b.jpg" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Verehrter Herr <hi rendition="#i">D</hi>irecktor!</hi></salute>
+</opener>
+<p>Meine Zeilen die ich heute erlaube an<lb break="yes"/>Sie zu richten, sprechen
+                den Wunsch aus<lb break="yes"/>meinen unglücklichen Mann <w>heim zu<lb break="no"/>nehmen</w>, ich verfolge nun schon seit vielen<lb break="yes"/>Monaten dieße
+                Idee daß ich glaube<lb break="yes"/>mein Mann möchte in seiner häuslichen<lb break="yes"/>Umgebung, zurückkehren und das wieder<lb break="yes"/>werden was
+                er war. Ich habe deßhalb<lb break="yes"/>meinen Sohn Hermann beauftragt die<lb break="yes"/>Reiße nach dorten zu machen, Sie <w>ver<lb break="no"/>ehrter</w>
+                Herr <hi rendition="#i">D</hi>irecktor darum zu bitten<lb break="yes"/>mit den Vater
+                    <del>S</del>sprechen zu dürfen, und ihn<lb break="yes"/>dan̄ wen̄
+                auch nicht ganz geheilt, demohnge<lb break="no"/>achtet <del>den</del>
+<del>Sohn</del> meinen Man̄ nach meinen<lb break="yes"/>Wünschen den Sohn zu
+                    <w>über lassen</w>, dieße herzliche<lb break="yes"/>bitte ich nun schriftlich
+                an Sie stelle, wo ich <pb facs="#image_020"/>mit Zuversicht glaube, da<del>ß</del>s
+                Sie die Güte<lb break="yes"/>haben werden mir solche zu gewähren.</p><p><seg ana="#salute">Genehmigen Sie indeß die Hochachtung<lb break="yes"/><hi rendition="#c">Ihrer
+                            </hi><lb break="yes"/><hi rendition="#r">ganz ergebenen </hi></seg><hi rendition="#r"><seg ana="#signed">Clara
+                        <surname>S.</surname>.</seg></hi></p>
+</body>
+</text>
+</TEI>

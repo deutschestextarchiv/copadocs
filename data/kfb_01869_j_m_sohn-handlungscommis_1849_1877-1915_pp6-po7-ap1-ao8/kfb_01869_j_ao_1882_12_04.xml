@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1869j18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1869</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Pflegemutter/Tante: Sophie <surname>J.</surname></persName>
+<date type="sent">04.12.1882</date>
+<date type="received">08.12.1882</date>
+<persName type="addressee">Hofrat: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1869j">
+<persName>
+<forename>Wilhelm</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1849"/>
+<death when="1915"/>
+<occupation>Handlungs-Commis</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Kaufmann</p>
+<p>Anstalt: <date from="1877" to="1915">1877-1915</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hyperaesthesie des Gemeingefühls, Hypochondrie" (1876)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink_black" scope="major" scribe="pflegemutter"/>
+<handNote medium="ink_black" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Überlegt, ob eine höhere Klasse für ihren Pflegesohn geeigneter wäre und 
+                    fragt nach der Einschätzung des Hofrats. 
+                    Da der Patient länger nicht geschrieben hat, erkundigt sie sich zudem 
+                    nach dessen Befinden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1869j18a.jpg" xml:id="image_044"/>
+<graphic mimeType="image/jpg" url="kfb1869j18b.jpg" xml:id="image_045"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_044"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg</hi> d. <del>5</del>4/<hi rendition="#sub">12</hi>
+<hi rendition="#u">82.</hi></hi></dateline>
+<salute>Euer Hochwohlgeboren!</salute>
+</opener>
+<p><add hand="arzt"><unclear>h 8/12</unclear></add></p>
+<p>Jn Folge des heutigen Artikels<lb break="yes"/>deß <hi rendition="#i">Augsburg</hi>. Tageblattes,
+                möchte<lb break="yes"/>ich mir erlauben, an Herrn Hofrat<lb break="yes"/>die Frage
+                    <w>zu</w><w>stellen</w>, ob es geraten<lb break="yes"/>wäre wenn ich in Bezug
+                der 2t Claße<lb break="yes"/>Schritte für meinen Sohn thun<lb break="yes"/>würde.
+                − Jch bin überzeugt daß<lb break="yes"/>mich Herr Hofrat nicht falsch ver<lb break="no"/>stehe, als wäre ich nicht gänzlich be<lb break="no"/>ruhigt u.
+                dankbar für die bis<lb break="yes"/>jetzt genossene Verpflegung. </p>
+<pb facs="#image_045"/>
+<p>Allein ich halte es für meine Pflicht<lb break="yes"/>mir <w>zu</w><w>erlauben</w>,
+                diese Frage <w>zu</w><lb break="no"/><w>stellen</w> u. bitte um Beantwortug<lb break="yes"/>derselben.</p>
+<p>Es ist nun geraume Zeit, daß<lb break="yes"/>ich keine Nachricht von meinem<lb break="yes"/>Sohne habe; hoffentlich befintet<lb break="yes"/>sich Derselbe in
+                einem <w>erträg<lb break="no"/>lichen</w> Zustande. − Wenn es<lb break="yes"/>Herr Hofrat für paßend finten<lb break="yes"/>Denselben von meiner Anfrage<lb break="yes"/>Etwas zu sagen, so bitte ich mir<lb break="yes"/>einen
+                freundlichen Gruß zu <w>über<lb break="no"/>bringen</w>.</p>
+<p><hi rendition="#r"><hi rendition="#r">Hochachtungsvollst<lb break="yes"/></hi><seg ana="#signed"><hi rendition="#i">Sophie</hi>
+<surname><hi rendition="#i">J.</hi></surname>.</seg></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2132k04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2132</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>K.</surname></persName>
+<date type="sent">03.08.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2132k">
+<persName>
+<forename>Josef</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1870"/>
+<death when="1910"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">48.6147593 10.7211365</geo>Pfaffenhofen a. d. Zusam, Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1908" to="1910">1908-1910</date></p>
+<p>Brieftypen: pp, ao, ap</p>
+</state>
+<trait><p>Pr[ogressive] Par[alyse]  (1909)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+<handNote medium="typewriter" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin beklagt, dass sie keine Antwort erhalten hat und bittet um baldige Auskunft über den Zustand ihres Mannes.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2132k04a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb2132k04b.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg, den 3. August 1908</hi></dateline>
+<salute><hi rendition="#c">Geehrtester Herr Direktor</hi></salute>
+</opener>
+<p> Ich muß Ihnen mittheilen<lb break="yes"/>daß ich den keine Antwort<lb break="yes"/>bekome hab schon vor<lb break="yes"/>vierzehn Tage geschrieben
+                eine<lb break="yes"/>Briefmarke hinein gethan<lb break="yes"/>bitte
+                <del>S</del>schreiben Sie mir bald<lb break="yes"/>daß ich weiß wie es mit<lb break="yes"/>meinem Mann geht ob<lb break="yes"/>er bald kom̄t oder
+                    nicht.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Achtungsvoll findet<lb break="yes"/>Euch</seg>
+<seg ana="#signed">Marie <surname>K.</surname></seg>. </hi><lb break="yes"/>Adrße. S<del>d</del>chwibbogengaße N. 405/206 in<lb break="yes"/><hi rendition="#r">Augsburg</hi></p>
+<pb facs="#image_005"/>
+<p>
+<handShift medium="typewriter" scribe="hand2"/>Königreich Bayern<lb break="yes"/>Postkarte</p>
+<p><add hand="arzt">5. VIII. 08.<lb break="yes"/><unclear reason="shorthand"/><lb break="yes"/><unclear reason="shorthand"/><lb break="yes"/><unclear/><lb break="yes"/><unclear/></add></p>
+<p><handShift medium="ink" scribe="ehefrau"/>An die königliche Direktion<lb break="yes"/>der Heil und Pflegeanstalt<lb break="yes"/>in Kaufbeuern. </p>
+</body>
+</text>
+</TEI>

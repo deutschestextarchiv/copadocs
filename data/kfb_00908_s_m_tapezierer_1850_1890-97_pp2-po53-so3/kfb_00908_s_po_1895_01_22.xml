@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s36" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">22.01.1895</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Magistrat der Stadt Augsburg</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1890" to="1897">1890-1897</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um Freilassung und finanzielle Unterstützung, um sich wieder ein Leben außerhalb der Anstalt aufzubauen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s36a.jpg" xml:id="image_103"/>
+<graphic mimeType="image/jpg" url="kfb908s36b.jpg" xml:id="image_104"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_103"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee den</hi>. 22.<hi rendition="#sup">ten</hi>
+<hi rendition="#i">Januar 1895.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Einem hohen Magistrate!</hi><lb break="yes"/>der<lb break="yes"/><hi rendition="#i">Stadt
+                        Augsburg</hi>.</hi></salute>
+</opener>
+<p><space/> Geehrte Herrn ich befinde mich seid 8<hi rendition="#sup">ten</hi>
+<hi rendition="#i">März</hi> 1890<lb break="yes"/>in der Irrenanstalt, ohne daß ich
+                einen Grund<lb break="yes"/>hab Erforschen kön̄en wegen was ich eigentlich<lb break="yes"/>hier untergebracht bin.− Ich besitze leider Nie<lb break="no"/>mand den ich mein In̄erlichen Schmerz anver<lb break="no"/>trauen darf u. kan̄, "− Es ist Traurig wen̄ man<lb break="yes"/>heutzutage das menschliche Leben beobachtet, wie<lb break="yes"/>der Haß im̄er mehr u. mehr gegen seinen Nächsten<lb break="yes"/>überhand
+                nim̄t, ohne daß man Nutzen oder Vor<lb break="no"/>theil beziehen kan̄
+                u.s.w.− Natürlich ist es leichter<lb break="yes"/>einen Menschen zu
+                Verachten, als eine verlorene<lb break="yes"/>Ehre wieder auf rechtem Wege
+                herzustellen.</p>
+<p><space/> Ich sehne mich schon Jahrelang nach meiner<lb break="yes"/>Freiheit Arbeit
+                u. Verdienst ohne daß mir ge<pb break="no" facs="#image_104"/>lungen ist daßselbe zu
+                erhalten, obwohl ich stehts<lb break="yes"/>körperl. Gesund Geist u. Arbeitsfähig
+                war waß durch<lb break="yes"/>Zeugen bestädigt werden kan̄.</p>
+<p>Geehrte Herrn wie währe es wen̄ die Freiheit mir<lb break="yes"/>zurückgeben
+                würden, u mir eine Unterstützung nach<lb break="yes"/>rechtlichen Dingen
+                verabreichen, biß ich Arbeit u.<lb break="yes"/>einige Löhnungstagen hinter mir
+                hätte um nicht<lb break="yes"/>gleich Schulden machen zu müßen, da ich ja jetzt<lb break="yes"/>fünf Jahre hindurch nicht Verdienen kon̄te u auch<lb break="yes"/>Vermögenslos bin.− Oder wen̄ die Herrn für<lb break="yes"/>mich Verdienst selbst versorgen, so währe das mir<lb break="yes"/>am liebsten aber keine Anstalt solang ich noch<lb break="yes"/>Arbeitsfähig bin
+                u. mein Brod selbst suchen<lb break="yes"/>oder Nachgehen kan̄.<lb break="yes"/><hi rendition="#r">Ich Bitte freundlichst um baldige<lb break="yes"/>Antwort da der 8<hi rendition="#i"><hi rendition="#sup">te</hi> März</hi>
+                    bald da ist.<lb break="yes"/><seg ana="#salute"><hi rendition="#i">Hochachtungsvollst</hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Jakob <surname>S.</surname>.<lb break="yes"/>von Augsburg.</hi></seg></hi></p>
+</body>
+</text>
+</TEI>

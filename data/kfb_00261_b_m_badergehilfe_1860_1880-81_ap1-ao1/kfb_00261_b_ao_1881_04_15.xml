@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb261b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>261</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>B.</surname></persName>
+<date type="sent">15.04.1881</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor der Anstalt: n.a.</persName>
+<settlement type="sent">Dillingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb261b">
+<persName>
+<forename>Ludwig</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1860"/>
+<death cert="unknown"/>
+<occupation>Badergehilfe</occupation>
+<residence><geo decls="#WGS">48.4312893 10.4065009</geo>Burgau, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bierbrauersleute</p>
+<p>Anstalt: <date from="1880" to="1881">1880-1881</date></p>
+<p>Brieftypen: ap, ao</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Bruder des Patienten teilt dem Anstaltsdirektor mit, dass sein Bruder ohne Erlaubnis nach Hause zurückgekehrt ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb261b01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Dillingen</hi> den 15. <hi rendition="#i">April</hi> 1881</hi></dateline>
+<salute><space/>
+<unclear>V</unclear>erehrliche <hi rendition="#i">Direction der Heil &amp;
+                        Pflegeanstalten</hi></salute>
+</opener>
+<p><add hand="arzt" place="top">18<lb break="yes"/><milestone rendition="#hr" unit="section"/></add></p>
+<p><add hand="arzt"><hi rendition="#r"><hi rendition="#i">pr</hi>. 16.4.81<lb break="yes"/><hi rendition="#u">2335.</hi></hi></add></p>
+<p><space/> Bezugnehmend an Ihr Werthes von Gestern, theile ich mit<lb break="yes"/>daß
+                mein Bruder gestern <w>hei mge kom̄en</w> ist, bedaure sehr<lb break="yes"/>daß er ohne Erlaubniß fort ist, nöthige Aufklärungen, ersuche<lb break="yes"/><unclear>//</unclear>
+                dem Magistrate <unclear>Burgau</unclear> zukom̄en zu laßen.<lb break="yes"/><seg ana="#salute"><space/> Inzwischen Zeichnet mit<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Hochachtung</hi></hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Georg
+                                <surname>B.</surname></hi></seg></hi><lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+<p><add hand="arzt"><hi rendition="#u">2335.</hi>
+<space/>
+<hi rendition="#i">Kaufb</hi>. d 16.4.81<lb break="yes"/><unclear/> <hi rendition="#i">Nat</hi>. dem Stadtmagistrat <hi rendition="#i">Burgau</hi><lb break="yes"/>ist der dahier entwichene <surname>B.</surname><lb break="yes"/>sich bei seinem Bruder in <hi rendition="#i">Dillingen</hi>
+                    befindet<lb break="yes"/><hi rendition="#c">W.</hi></add></p>
+</body>
+</text>
+</TEI>

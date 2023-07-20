@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb533h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>533</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>H.</surname></persName>
+<date type="sent">ca. 1860</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb533h">
+<persName>
+<forename>Wilhelm</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1820"/>
+<death cert="unknown"/>
+<occupation>Fabrikdirektor</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1860" to="1860">1860</date></p>
+<p>Brieftypen: pp,po</p>
+</state>
+<trait><p>Fixe Ideen, [Größenideen] (1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    freundliche Aufnahme in Irsee, dann aber von Wärtern brutal maltretiert, Bitte um Befreiung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb533h02a.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb533h02b.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb533h02c.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#c"><del><hi rendition="#i">Kempten</hi></del><lb break="yes"/><hi rendition="#i">Ottobeuren</hi><lb break="yes"/></hi></dateline>
+<salute><hi rendition="#c">Lieber Herr Bürgermeister!</hi></salute>
+</opener>
+<p>Kaum kam ich hier im Schlosse<lb break="yes"/>an so nahm der Direktor<lb break="yes"/>mich
+                sehr <add place="above">mit</add> liebenswürdigen Ge<lb break="no"/>sichte auf und
+                führte mich<lb break="yes"/>getrennt von mein Frau in<lb break="yes"/>ein oberes
+                Stübchen. Dann<lb break="yes"/>fragte er mich, ob ich wüßte<lb break="yes"/>wo ich
+                wäre. In Irrsee<lb break="yes"/>sind, mir als Wahnsinnig<lb break="yes"/>von Ihrer
+                Frau u dem<lb break="yes"/>Herrn Bürgermeister überge<lb break="no"/>ben mit
+                strengster Behand<lb break="no"/>lung.</p><p><space/>Dann ließ er mich in diesem<lb break="yes"/>Stübchen, seine zwei Wärter<lb break="yes"/>maltretirten mich in der Nacht<lb break="yes"/>schmissen mich auf
+                den, zer<lb break="no"/>traten meine Brust, das<lb break="yes"/>Ströme von Blut
+                    aus</p>
+<p><hi rendition="#r">mein</hi><pb facs="#image_003"/>Herz, Lungen trat pp.</p><p><space/> Ich bitte sofort bei Er<lb break="no"/>halt dieser Zeilen zu
+                    dem<lb break="yes"/>Direktor zu gehen und mich<lb break="yes"/>zu befreien,
+                sonst bin ich<lb break="yes"/>für immer verloren!<lb break="yes"/><hi rendition="#r">Ihr<lb break="yes"/>d <hi rendition="#i"><surname><hi rendition="#u">H.</hi></surname></hi></hi><pb facs="#image_004"/>Herr
+                    Bürgermeister<lb break="yes"/><hi rendition="#i"><surname>A.</surname></hi><lb break="yes"/><hi rendition="#r">z.H.
+                    Wirthshaus Post.</hi></p><p><add>Dem Überbringer dieses
+                ist zu<lb break="yes"/>bescheinigen, daß er diese Zeilen er<lb break="yes"/>halten
+                        hat.</add></p>
+</body>
+</text>
+</TEI>

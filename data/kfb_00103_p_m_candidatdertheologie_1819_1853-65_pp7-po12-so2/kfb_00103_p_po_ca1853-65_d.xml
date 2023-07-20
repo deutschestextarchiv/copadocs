@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb103p16" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>103</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kaspar <surname>P.</surname></persName>
+<date type="sent">ca1853-65</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb103p">
+<persName>
+<forename>Kaspar</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1819"/>
+<death cert="unknown"/>
+<occupation>Candidat der Theologie</occupation>
+<residence><geo decls="#WGS">47.91185173928039 11.592666592515377</geo>Berg, Wolfratshausen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bauern</p>
+<p>Anstalt: <date from="1853" to="1865">1853-65</date></p>
+<p>Brieftypen: po, pp, so, ao</p>
+</state>
+<trait><p>Geistesstörung, Ruhelosigkeit (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient bittet um Verlegung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb103p16a.jpg" xml:id="image_035"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_035"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Tl. G. G. V.</hi></salute>
+</opener>
+<p><hi rendition="#i">Tacite inter nos!</hi><lb break="yes"/><hi rendition="#i">Iterum</hi> bitte ich drin<lb break="no"/>gendst
+                um Verlegung!<lb break="yes"/>Es scheint nur als sei<lb break="yes"/>ich in der
+                jetzigen Schlaf<lb break="no"/>stelle/ meinen Feinden er<lb break="no"/>wünscht/ so
+                ganz gelegen<lb break="yes"/>zu magischen Operationen<lb break="yes"/>in die Mitte
+                genom̄en;<lb break="yes"/>nur v. d. Seite der Kirche<lb break="yes"/>frei!
+                − Eine umsichtige<lb break="yes"/>Dire<hi rendition="#i">c</hi>tion wird
+                wissen,<lb break="yes"/>wenn es dieser Tage galt!<lb break="yes"/><seg ana="#curse">Pfui Teufel</seg>, der
+                    Grau<lb break="no"/>samkeiten! </p>
+</body>
+</text>
+</TEI>

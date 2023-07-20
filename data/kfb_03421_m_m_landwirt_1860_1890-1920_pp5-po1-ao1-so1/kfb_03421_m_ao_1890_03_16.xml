@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3421m01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3421</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>M.</surname></persName>
+<date type="sent">16.03.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung</persName>
+<settlement type="sent">Obergünzburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3421m">
+<persName>
+<forename>Rupert</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1860"/>
+<death cert="unknown"/>
+<occupation>Landwirt</occupation>
+<residence><geo decls="#WGS">47.8526446 10.4733471</geo>Ebersbach, Markt Oberdorf</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Privatier</p>
+<p>Anstalt: <date from="1890" to="1920">1890-1920</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Manie (1907)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Rupert ist angekommen und will nicht mehr in die Anstalt zurückgehen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3421m01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Obergünzburg am 16.Merz 1890</hi></dateline>
+<salute/>
+</opener>
+<p>
+<add><hi rendition="#c"><hi rendition="#u">1120.</hi></hi> <hi rendition="#r">pr. 17 3 90<lb break="yes"/>Vorlage z. <unclear>Vermerk</unclear><lb break="yes"/>Hr. <unclear>Rehnfr.M.</unclear></hi></add><lb break="yes"/>Betreff<lb break="yes"/>Des geisteskranken<lb break="yes"/>Rupert <surname>M.</surname> von<lb break="yes"/>Agratsberg.</p>
+<p>Ich kan Ihnen mittheilen, daß der <w>geistes<lb break="yes"/>kranke</w> Rupert <surname>M.</surname> angekomen ist,<lb break="yes"/>und sich <w>durch aus</w> nicht mehr will be<lb break="no"/>wegen laßen in die Anstalt zu<lb break="no"/>gehen, weil er <add>in</add> den Dienst von<lb break="yes"/>einem seiner Geschwister treten<lb break="yes"/>will, sollte es mit ihm gut gehen<lb break="yes"/>so werde ich seit kurzer Zeit in<lb break="yes"/>die Anstalt komen, und seine<lb break="yes"/>Sache in Richtigkeit bringen.</p>
+<p>An die kgl. Verwaltung<lb break="yes"/>der Heil und Pfleg<lb break="yes"/>Anstalt in Kaufbeuren<lb break="yes"/><hi rendition="#r">Joseph <surname>M.</surname><lb break="yes"/>Privatier in<lb break="yes"/>Obergünzburg</hi>
+</p>
+</body>
+</text>
+</TEI>

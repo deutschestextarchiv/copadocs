@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1491l01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1491</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Engelbert <surname>L.</surname></persName>
+<date type="sent">08.04.1894</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Firmpate: Johannes <surname>N.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1491l">
+<persName>
+<forename>Engelbert</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1835"/>
+<death when="1907"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">47.5970747 9.738314</geo>Wildberg (Lindau)</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1889" to="1907">1889-1907</date></p>
+<p>Brieftypen: pp,po</p>
+</state>
+<trait><p>Tobsucht, Verrücktheit mit Ausgang in apathischem Blödsinn, Halluzination (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Bittet um Abholung und Wiedereinstellung </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1491l01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1491l01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb1491l01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline>Ierrsee ine der Heilanstalt bei Kauyfbeure<lb break="yes"/><hi rendition="#c">ten 8 Aprül 1894</hi></dateline>
+<salute> Wertester Herrn <w>Firmm Patte</w> Johanes <surname>N.</surname></salute>
+</opener>
+<p> in Wildberg bei Lindau <w>in dem</w><lb break="yes"/>ich jezt schon
+                5 Jahr als Pazent<lb break="yes"/><w>je doch</w> mit <w>Holz Arbeit</w>
+<w>Beschäftig</w><w>bin</w><lb break="yes"/>so bin Gesund und Kräftig und Bitte<lb break="yes"/>sie möchten
+                die Gütte haben und <w>auf</w><w>besuch</w><lb break="yes"/><w>zu</w><w>mir</w> komen Engelbert
+                    <surname>L.</surname> ich habe<lb break="yes"/>im sind wider zu eich als
+                    Dintstknecht<lb break="yes"/>mit Arbeiten Helffen mit dem Lohne wie<lb break="yes"/>Vorher so Bitte <w>ich</w><w>sie</w> recht Bald zu<lb break="yes"/>mir komen und
+                selbst abhollen <w>zu<lb break="no"/>gleich</w> Grüsse ich die Fraziska witwe<lb break="yes"/>Holzhändler <surname>S.</surname> un Sohn Mags<lb break="yes"/><surname>S.</surname> Grüse ich auf freindlichte<lb break="yes"/>er sol mit
+                den Hern <w>Firm Pater</w><lb break="yes"/>Johanes
+                    <surname>S.</surname> in Wildberg mich<lb break="yes"/>besuchechen <w>zu gleich</w> an schähne<lb break="yes"/>Gruß Franz
+                Josef <surname>L.</surname> als Bruder<lb break="yes"/>und meine Schwester
+                Joseffa <surname>L.</surname><lb break="yes"/>Nebst Gruß Der ganzen
+                    Freundschafft<pb facs="#image_002"/>Sie Herr <w>Frirm Patto</w> ich Bitte das<lb break="yes"/>Sie mir recht Bald eine Antwort<lb break="yes"/>schreuben auch an
+                    <w>schöne</w><w>Gruß</w><lb break="yes"/>an Herrn Bürgermeister<lb break="yes"/><w>Johan</w><w>georg</w>
+<surname>V.</surname> in Schwatzen<lb break="yes"/>Gemeind Weisensberg
+                    Lindau<lb break="yes"/>ich bin Gesund und recht wohlauf<lb break="yes"/><space/> ich Bitte sie werden sebst<lb break="yes"/>Zu mier auf Besuch Kaufbayren<lb break="yes"/><w>in</w><w>die</w> Hailanstalt komen
+                    indem<lb break="yes"/>eine <w>rech</w><w>öne</w> Anstalt ist es wird<lb break="yes"/>eich nich
+                Reihn <seg ana="#salute">Es Grüßt<lb break="yes"/>Eich eier Dinstknecht</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Engelbert<lb break="yes"/><surname>L.</surname></seg></hi><pb facs="#image_003"/><hi rendition="#c">An</hi><lb break="yes"/>Herrn Johanes <surname>N.</surname><lb break="yes"/>Ekenom in Widlerg Bezürsamt<lb break="yes"/>Lindau<lb break="yes"/><hi rendition="#c">Post Schlachters<lb break="yes"/><w>ab zugeben</w></hi>
+</p>
+</body>
+</text>
+</TEI>

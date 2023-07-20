@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor1403w05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>1403 (K. 250)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>W.</surname></persName>
+<date type="sent">ca1908-09</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Emilie <surname>W.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor1403w">
+<persName>
+<forename>Wilhelm</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1871-08-08"/>
+<death when="1909-12-17"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">51.5918019 7.6616804</geo>Geburtsort: Peterswald; Wohnort: Kamen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: V: Tagelöhner, M: Ehefrau</p>
+<p>Anstalt: <date from="1908-01-30" to="1909-12-17">30.01.1908-17.12.1909</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will abgeholt werden, da er wieder gesund ist; will wieder arbeiten und Geld verdienen;
+                    hat 10 Pfund zugenommen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor1403w05a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="dor1403w05b.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="dor1403w05c.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline/>
+<salute>Liebe Emilie</salute>
+</opener>
+<p>ich bin jetzt<lb break="yes"/>gesund da kannste mich Samts<lb break="no"/>tag
+                abholen meine 6 Wochen<lb break="yes"/>sind weg ich kann zu Hause<lb break="yes"/>gehen da bringst den Kranken<lb break="no"/>schein mit das wir können<lb break="yes"/>unser Geld holen ich will jetzt<lb break="yes"/>wieder Arbeiten
+                das ich wieder<lb break="yes"/>Geld verdienen kann keine<lb break="yes"/>Steuer
+                darft du nicht bezahlen<lb break="yes"/>weil ich hab ein ½ Jahr krank<lb break="yes"/>gefeiert ich <add place="above">habe</add> 10 Pfund zugenommen<lb break="yes"/>ich 130 Pfd ich bin viel dicker die<lb break="yes"/><add place="margin">Weste</add> bast mir nicht mehr der Verwalter <pb facs="#image_014"/>hat mich gewogen wie ich rein kam<lb break="yes"/>da wog ich
+                120 Pfd ich bin jetzt Oben<lb break="yes"/>nicht <add place="above">mehr</add>
+                unten oben ist es schöner viel<lb break="yes"/>ruiger. Liebe Emilie da weist du<lb break="yes"/><hi rendition="#c">ja Bescheid.</hi><lb break="yes"/>Liebe Emilie <add place="above">will</add> jetzt Schluß<lb break="yes"/>machen <seg ana="#salute">ich laß alle schön grüssen</seg><lb break="yes"/><del>und</del><add place="above">der liebe Gott</add> behütte dich
+                segne dich<lb break="yes"/><hi rendition="#r">und meine liebe Kinder</hi><lb break="yes"/><seg ana="#signed"><hi rendition="#c">Eeurer Vater</hi><lb break="yes"/><hi rendition="#r">Wilhelm
+                    <surname>W.</surname></hi></seg>
+<pb facs="#image_015"/><hi rendition="#r">An Frau Emilie
+                        <surname>Wiedem<unclear/></surname></hi><lb break="yes"/><hi rendition="#c">in Kamen<lb break="yes"/><placeName type="street">Gottesbergstr.</placeName>
+<hi rendition="#i">N</hi> 1/2</hi><lb break="yes"/><hi rendition="#r">bei Ham in Westf<unclear>al</unclear></hi></p><p><add place="margin">frei</add>
+</p>
+</body>
+</text>
+</TEI>

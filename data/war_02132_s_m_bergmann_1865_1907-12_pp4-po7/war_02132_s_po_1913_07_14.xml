@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="war2132s09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 660: Warstein</collection>
+<idno>2132 (K. 670)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Paul <surname>S.</surname></persName>
+<date type="sent">14.07.1913</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Dr. Simon</persName>
+<settlement type="sent">Warstein</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="war2132s">
+<persName>
+<forename>Paul</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1865-08-04"/>
+<death cert="unknown"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">51.6804093 7.815197</geo>Geburtsort: Klein-Dombrokwa; Wohnort: Hamm</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verwitwet</p>
+<p>Eltern: Vater: Bergmann, Mutter: k.A.</p>
+<p>Anstalt: <date from="1907-10-25" to="1921-11-30">25.10.1907-09.04.1912; 14.10.1913-30.11.1921</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1907)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon_blue" scope="minor" scribe="hand2"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber wirft dem Arzt vor, ihn durch sein Gutachten betrogen und seine Heirat verhindert zu haben.
+                    Er will, dass die Öffentlichkeit den Vorgang beurteilt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="war2132s09.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#c">Herrn Dr. <hi rendition="#i">Simon</hi><lb break="yes"/>zu<lb break="yes"/><hi rendition="#i">Warstein</hi>. <add hand="hand2">71</add></hi></p>
+<p>Mit den falschen Gutachten die sie zu Gunsten<lb break="yes"/>des Ersten
+                Staatsanwalts zu Beuthen <hi rendition="#sup">a</hi>/<hi rendition="#sub">S</hi>
+                abgegeben<lb break="yes"/>haben sie ihre Kunst als Arzt bewiesen. Sie haben<lb break="yes"/>mich um die Heirat und die <w>Knappschafts kasse</w> ums<lb break="yes"/>Geld betrogen. Mein Dasein ist durch ihre Schurkerei<lb break="yes"/>vernichtet. Wo ist ein Grund der das Zerreißen<lb break="yes"/>meiner Heirat rechtfertigen könnte. Das Ärzte<lb break="no"/>gesetz läst viel zu
+                wünschen übrig, denn so wie<lb break="yes"/>verschiedene Leute zur Ausführung ihrer
+                    Betrügerei<unclear>en</unclear><lb break="yes"/>die Gutachten und Meineide brauchen, so liefern<lb break="yes"/>sie dieselben. Was Richter u Staatsanwälte durch<lb break="yes"/>Schurkerei nicht
+                vernichten können, vernichten<lb break="yes"/>Sie. Zu bedauern sind die armen
+                Geschöpfe, die<lb break="yes"/>in das <seg ana="#inst"><w>Vernichtungs
+                    Institut</w></seg> zu <hi rendition="#i">Warstein</hi> ver<lb break="no"/>bannt
+                werden sie finden kein Recht, weil Sie mit<lb break="yes"/>den Vertretern der
+                Polizei u Staatsanwaltschaft<lb break="yes"/>unter einer Decke liegen. Ein
+                gerechtes Urteil<lb break="yes"/>fällt der Laie, daher trete ich ihnen auf
+                strafbarem<lb break="yes"/>Wege entgegen wir wollen sehen wie sich die <w>Öffent<lb break="no"/>lichkeit</w> zu der Sache stellen wird. Es würde mich<lb break="yes"/>freun wenn Sie gegen mich die Klage erheben −<lb break="yes"/>Dann übergebe ich die Sache zur<lb break="yes"/>Beurteilung der Öffentlichkeit.<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Paul
+                                </hi><surname><hi rendition="#i">S.</hi></surname></seg>.</hi><lb break="yes"/><add hand="hand3">Z d A </add></p>
+</body>
+</text>
+</TEI>

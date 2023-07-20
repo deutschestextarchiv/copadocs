@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2702w07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>W.</surname></persName>
+<date type="sent">ca.1853-56</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Anton <surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2702w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Bierbrauerstochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Brauereibesitz</p>
+<p>Anstalt: <date from="1853" to="1856">1853-56</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Vesania (17.11.1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet ihren Bruder dafür zu sorgen, dass sie aus der Anstalt entlassen werden kann, 
+                    da sie befürchtet, nach dem Bemessen der Ärzte noch länger bleiben zu müssen.
+                    Beklagt ihre Situation und den dortigen Umgang. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2702w07a.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb2702w07b.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline/>
+<salute><space/> Lieber Anton! </salute>
+</opener>
+<p>mache doch so bald als möglich<lb break="yes"/>daß ich
+                nach Hause kom̄e, du siehst ja, daß<lb break="yes"/>mir nichts fehlt, u
+                wen̄ ich warten muß, bis<lb break="yes"/>mich der Direktor fort läßt, so muß
+                ich<lb break="yes"/>ganz gewiß bis dorthin verzweifeln, Du<lb break="yes"/>hast ja
+                bemerkt, daß er ganz u gar keine<lb break="yes"/>Lust bezeigt hat, mich so bald aus
+                seinen<lb break="yes"/>Klauen zu befreien, du mußt nicht durch<lb break="yes"/>zu
+                langes Hinhalten das wieder ver<lb break="no"/>schlim̄ern, was man jetzt gut
+                an mir<lb break="yes"/>gemacht hat. Du wirst ganz gewiß bin̄en<lb break="yes"/>ein paar Wochen ein halb dutzend Strümpf<lb break="yes"/>von mir
+                bekom̄en als Zeugniß meines<lb break="yes"/>Fleißes, aber mache nur daß ich
+                auch recht<lb break="yes"/>bald meine Effekten erhalte, den̄ ich bin sehr<lb break="yes"/>nothdürftig bestellt mit meiner Wäsche.</p><p>Wen̄ Du nur wüßtest, <seg ana="#inst">wie man sich<lb break="yes"/>da herin mißhandeln
+                    lassen muß</seg>, du hättest<lb break="yes"/>gewiß Mitleid mit mir, du weißt ja<lb break="yes"/>daß ich nicht reden kon̄te wie ich wollte
+                    v<unclear>o</unclear>r<lb break="yes"/>dem Direktor, Ja wen̄ du erst
+                wüßtest <pb facs="#image_017"/><seg ana="#inst">wie die andern Patienten mit<lb break="yes"/>einem umgehen, da hab ich nicht selten<lb break="yes"/>schon
+                    Schläge <w>davon getragen</w></seg>, u habe<lb break="yes"/>dan̄ erst
+                noch <del><unclear>st</unclear></del> stillschweigen müssen<lb break="yes"/>dazu,
+                Aber sei so gut u schreibe es dem<lb break="yes"/>Direktor nichts von diesem
+                Billet, das ich<lb break="yes"/>ohne sein Wissen an Dich bestellt habe, den̄<lb break="yes"/>ich würde sonst Verdruß bekom̄en. Also<lb break="yes"/>laß Dich erbitten, ich will ja nicht wieder<lb break="yes"/>so sein wie ich war,
+                u ich werde dan̄ schon<lb break="yes"/>für mich selber sorgen, laß das
+                deinen<lb break="yes"/>geringsten Kum̄er sein, Glaubst du den̄<lb break="yes"/><unclear reason="faded">andern Leuten mehr als mir</unclear>. Die Dir<lb break="yes"/>vielleicht die
+                Unwahrheit von mir<lb break="yes"/><unclear reason="faded">berichten</unclear>.
+                während es mir mein heiligster<lb break="yes"/>Ernst ist mit meinem Versprechen, </p><p><unclear reason="faded">Ich</unclear> würde <unclear reason="faded">noch</unclear> viel mehr
+                schreiben wen̄ es<lb break="yes"/><unclear reason="faded">der</unclear>
+<unclear reason="faded">Reue</unclear>
+<unclear reason="faded"/>
+<unclear>T/H</unclear><unclear/><unclear/> aber ich hoffe, dieß<lb break="yes"/>wenige war genügend, Dich zum Nachgeben<lb break="yes"/>zu <unclear reason="faded">be</unclear>wegen, den̄ so viel hab ich doch <unclear reason="faded">nicht</unclear><lb break="yes"/>verbrochen, daß ich diese unerhörte
+                    <del><unclear>St</unclear></del><lb break="yes"/>Strenge verdiene, <seg ana="#salute"><foreign xml:lang="frz">Adieu</foreign>, lieber Bruder </seg><lb break="yes"/>u denke daß mit der
+                größten Angst<lb break="yes"/>weitere Schritte erwartet,<lb break="yes"/><hi rendition="#c">Deine</hi><lb break="yes"/><hi rendition="#r">Schwester <add place="above"><seg ana="#signed">Marie</seg></add></hi></p>
+</body>
+</text>
+</TEI>

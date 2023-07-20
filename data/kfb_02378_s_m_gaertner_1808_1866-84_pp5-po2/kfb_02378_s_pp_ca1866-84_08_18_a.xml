@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2378s02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2378</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Engelbert <surname>S.</surname></persName>
+<date type="sent">18.08.18xx</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geschwister: <surname>S.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2378s">
+<persName>
+<forename>Engelbert</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1808"/>
+<death when="1884"/>
+<occupation>Gärtner</occupation>
+<residence><geo decls="#WGS">48.4539028 10.2785509</geo>Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Gärtner</p>
+<p>Anstalt: <date from="1866" to="1884">1866-1884</date></p>
+<p>Brieftypen: pp,ap</p>
+</state>
+<trait><p>Manie (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>Patient richtet sich an verschiedene Personen.
+                    </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2378s02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb2378s02b.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb2378s02c.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#c">Kafbeiren, den, 18<hi rendition="#sup">te</hi> Augus</hi></dateline>
+<salute/>
+</opener>
+<p>Jumau, Karina <del/>
+<surname>S.</surname>, Schwister<lb break="yes"/>Einen, Herlin, Grus, Sanb,
+                Dem,<lb break="yes"/>Johan, <surname>S.</surname>, Gerner, und,<lb break="yes"/>Egonum, Besizer, und Den, Waster<lb break="yes"/><surname>S.</surname>, der, Scheiter, ist, und,<lb break="yes"/>Seinen, Junfrauen, und, Der,<lb break="yes"/>Ganzer, <hi rendition="#i">H</hi>achbarb, dem <surname><hi rendition="#i">High</hi><unclear/></surname><lb break="yes"/>Glaus Der, Auch, den, Schneiter<lb break="yes"/>Hib, und, Tem,
+                Logge, Sohn,<lb break="yes"/>Einen Herlichen, Grus, und,<lb break="yes"/>das. Ich,
+                Dier, den Herren,<lb break="yes"/>Mosrur, Dautte, der, Dier, den<lb break="yes"/>Bestem, Rat, Geben, Kan.<lb break="yes"/>und, Von, dem, Herren, Scheit, der </p>
+<pb facs="#image_004"/>
+<p>An, 76. Im, Dinater, Gestile, Hat<lb break="yes"/>Einen, Herliche, und, das,
+                    T<unclear>u</unclear>r, Mier<lb break="yes"/>Batte, Schreib, Den, Ich, hab <hi rendition="#i">H</hi><unclear/><lb break="yes"/>An, Ganzen, Leib, Das, Mier,<lb break="yes"/>Gehört, Als die
+                Steifel, und<lb break="yes"/><unclear/>ich, Eine, Qeer hoffe,
+                und,<lb break="yes"/>das, Ich, Am, Vrautag, <hi rendition="#i">H</hi>ich<lb break="yes"/>Soh, Vernetz, Halbe, das,<lb break="yes"/>Mich, die, Ganzenach,
+                So,<lb break="yes"/>Gevrurren, Hat, und, das, Tur,<lb break="yes"/>Jötz. <hi rendition="#i">H</hi>ach, dem, Sache, Wohfir<lb break="yes"/>Gebrach, Zit. Zva
+                Anton, und<lb break="yes"/>Terrosia <hi rendition="#i">H</hi>ach, Minchen, Zien<lb break="yes"/>Sol, Das, Ich. Sie Mier, Jich<lb break="yes"/>Mer, In. den, Aug,
+                Raub. </p>
+<pb facs="#image_005"/>
+<p>und, das, Sie, Von, Mein, Gelt<lb break="yes"/>das, Ich, Mit, Meinen, Geschwistern<lb break="yes"/>Erworben, Halben, Dier, Schreiben.<lb break="yes"/>Es, Gein.
+                Ein, levit<unclear/>
+<unclear>Venbu</unclear><lb break="yes"/>und. Ein, Brister, der Barhe,<lb break="yes"/>Zigge
+                Barnisanritert. Bate den<lb break="yes"/>Juten, Of, Seine Lastier<lb break="yes"/>Verbant. Im, Seine, Wunt<lb break="yes"/>dem, <unclear>K</unclear>ind, Brachten,
+                Tem<lb break="yes"/>Juten, In, Bettanein und<lb break="yes"/>Lies. Jen. heilen,
+                und Tie. An<lb break="yes"/>Sontag, die Brogtig, Mit der<lb break="yes"/>häigen
+                Marta, Ich. Schlich Meim.<lb break="yes"/>Schreiben und, das, dide, Mir, Mein<lb break="yes"/>Grinme, <unclear/>og, und Eine, Grine, <unclear/><lb break="yes"/>Sigen, Solt, und Meine, <unclear>Qrre</unclear>, die<lb break="yes"/>Alle, Kanraten Haben, Ich Schliße Meine<lb break="yes"/><hi rendition="#c">Schreiben, Mit i. A. L. Z. </hi>
+</p>
+</body>
+</text>
+</TEI>

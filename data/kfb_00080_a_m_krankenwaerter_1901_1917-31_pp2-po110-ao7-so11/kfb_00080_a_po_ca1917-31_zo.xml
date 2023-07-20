@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a104" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca1917-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1917" to="1931">1917-31</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Er beschwert sich über seine Unterbringung und verlangt die Verlegung in das Krankenzimmer.
+                   Er droht mit Selbstmord, wenn er nicht verlegt wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a104a.jpg" xml:id="image_060"/>
+<graphic mimeType="image/jpg" url="kfb80a104b.jpg" xml:id="image_061"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_060"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Sehr Geehrter Herr Obermedizinalrat. </hi></salute>
+</opener>
+<p>Wie ich gehört habe; haben Sie meine 2 Briefe erhalten.<lb break="yes"/>Nun
+                wissen Sie jetzt, daß ich es hier auf <seg ana="#inst">C 3. dem ver<lb break="no"/>fluchten teufelartigen brüllen &amp;. donnerartigen Wachsaal<lb break="yes"/>bei den Narren</seg> ich im̄er <del>narr</del> nervöser &amp;. ärger
+                krank<lb break="yes"/><del>we</del> &amp;. aufgeregter werde. Herr Oberpfleger
+                sagte Ihn das auch.<lb break="yes"/>Vor 14 Tagen fragte ich Sie, ob ich nicht ins
+                    Krankenzim<lb break="no"/>mer darf, Sie sagten mir dafür Saukalt; Sie wür<lb break="no"/>den mich ins Krankenzim̄er tun, wenn es Herr Dok<lb break="no"/>tor Fuchs erlaubt. Vor 3-4 Tagen sagte ich Herrn Doktor<lb break="yes"/>Fuchs, daß Herr Direktor, Sie, mich ins Krankenzim̄er lassen<lb break="yes"/>wenn Herr Doktor Fuchs es erlaubt. Er schrieb das auf &amp;.
+                    sag<lb break="no"/>te mir, er erlaubt es gern, wen̄ dich von C 3. weg
+                komm,<lb break="yes"/>&amp;. sprach Er würde mit <del><unclear/></del> Ihnen reden.
+                Ich hatte schon<lb break="yes"/>Freude darauf, aber leider am
+                Abend sagte mir Herr Dok<lb break="no"/>tor Fuchs, daß Sie zu Ihm sagten; Sie hätten
+                mir das<lb break="yes"/>nicht gesagt, daß Sie mich ins Krankenzim̄er lassen,<lb break="yes"/>wenn Ers erlaubt, So jetzt weiß ich; daß Sie mich sehr<lb break="yes"/>angelogen haben &amp;. Herrn Doktor Fuchs auch. Wenn Sie<lb break="yes"/>mich nicht ins stille Krankenzim̄er lassen, &amp;. mir die<lb break="yes"/>Ruhe nicht gönnen, dann aber spuckts gewaltig.<lb break="yes"/>Dann gebe ich nicht nach bis ich hin bin &amp;. varecke. Sie<lb break="yes"/>aber
+                sind dabei, dafür Schuld. Ich ken̄e Sie jetzt schon. </p>
+<pb facs="#image_061"/>
+<p><add place="top"><hi rendition="#r">2.)</hi></add><lb break="yes"/>Sie wollen es gerade mit Fleiß gerne haben, daß ich<lb break="yes"/>hier unter dem Geschrei &amp;. Lärm selbst ganz aufgeregt<lb break="yes"/>&amp;.
+                närrisch werde; &amp;. mir dabei das Leben nehme, Sie<lb break="yes"/>sind mir bloß
+                der Gesundheit neidisch. Sie tun auch<lb break="yes"/>die Pfleger alle necken
+                &amp;. ausspotten. Den̄ wen̄ ich mir<lb break="yes"/>was antue,
+                dan̄ <del>sch</del> strafen Sie die Herrn Pfleger wo<lb break="yes"/>gar
+                nichts dafür können alle unschuldig sind, gewal<lb break="no"/>tig mit Geld &amp;.
+                schmeißten schon wegs mir leider 2 Pfle<lb break="no"/>ger hinaus. Also, daß Sie es
+                wissen, wenn ich auf C 3<lb break="yes"/>bleiben muß, dan̄ gebe Ich nicht
+                nach bis ich sterbe. Da<lb break="no"/>bei brauchen Sie keinen Pfleger bestrafen.
+                Wen̄ ich im ruhi<lb break="no"/>gen Krankenzim̄er bin, tu ich mir kein
+                Leid an. Al<lb break="no"/>so jetzt wissens Sie alles. Vor 8 Wochen schrieb ich
+                Ihnen das<lb break="yes"/>auch genauso, daß ich mich hin mache, wen̄ ich
+                hier bleiben<lb break="yes"/>muß, Sie paßten nicht auf, &amp;. am nächsten Tag, riß
+                ich<lb break="yes"/>meinen Arm auf &amp;. fraß Eisen. Sie waren Schuld, Und<lb break="yes"/>So kom̄ts wieder. Sie gehörten auf Ihre Lügen selbst hi<lb break="no"/>naus geschmissen von der Anstalt &amp;. bestraft, weil Sie<lb break="yes"/>meine Sachen wissen, die Pfleger kön̄en nichts dafür.<lb break="yes"/>Also fertig, Entweder lassen Sie mich ins Krankenzim<lb break="no"/>mer oder ich geh freiwillig in die andre Welt.<lb break="yes"/><space/> Also fertig.<lb break="yes"/><hi rendition="#c"><seg ana="#signed"><hi rendition="#i">Hans
+                                <surname>A.</surname></hi>.</seg> im Narrenhaus. </hi></p>
+</body>
+</text>
+</TEI>

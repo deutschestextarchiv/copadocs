@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">12.05.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: <surname>F.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1890" to="1897">1890-1897</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Entlassung, will im Sommer arbeiten, will sich uneingesperrt erholen an frischer Luft; ihm geht es gut, gute Kost + Behandlung, Kosten unnötig
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s04a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb908s04b.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren den</hi> 12. <hi rendition="#sup">ten</hi> <hi rendition="#i">Mai</hi> 1890.</hi><lb break="yes"/></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Löblicher Bürgermeister<lb break="yes"/>v. <surname>F.</surname>.</hi></hi><lb break="yes"/></salute>
+</opener>
+<p>
+<space/> <hi rendition="#i">Sie</hi> werden mir <hi rendition="#i">Verzeihen</hi>, daß ich<lb break="yes"/><hi rendition="#i">Ihnen</hi> mit einige <hi rendition="#i">Zeilen</hi> beläßtigen muß.<lb break="yes"/><lb break="yes"/></p>
+<p><hi rendition="#i">Herr Burgermeister. Da</hi> ich mich<lb break="yes"/>unterzeichneter in der
+                    <hi rendition="#i">Heil</hi> u. <hi rendition="#i">Pflege Anstalt</hi><lb break="yes"/>befinde, u. jetzt im <hi rendition="#i">Som̄er</hi> gerne in
+                die Arbeit<lb break="yes"/>gehen möchte, so <hi rendition="#i">Bitte</hi> ich mich
+                so balt als<lb break="yes"/>möglich heraus zulaßen.<lb break="yes"/>?<hi rendition="#i">Natürlich</hi>? bin ich im̄er noch schwach u. kränklich!
+                    –<lb break="yes"/>aber <hi rendition="#i">Sie</hi> kön̄ten mir doch
+                helfen, daß ich in<lb break="yes"/><hi rendition="#i">Augsburg</hi> in einer <hi rendition="#i">Anstalt</hi> als <hi rendition="#i">Ausgeher</hi><lb break="yes"/>oder sonstige leichte beschäftigung
+                besorgen kön̄ten<lb break="yes"/>d. h. wan̄ <hi rendition="#i">Sie</hi> wollen. <pb facs="#image_007"/> den̄ wen̄ man seid <hi rendition="#i">Weihnachten</hi> krank ist, so möcht<lb break="yes"/>man doch im
+                Som̄er sich erholen, u. d. kan̄ man<lb break="yes"/>in einer <hi rendition="#i">Anstalt</hi> wo man im̄er in 4. <hi rendition="#i">Mauren</hi> ein<lb break="no"/>gesperrt ist nicht, so viel <hi rendition="#i">Verstand</hi> habens doch.<lb break="yes"/><hi rendition="#i">Frische Luft</hi>, u <hi rendition="#i">Freie Bewegung</hi>, ist
+                    ge<lb break="no"/>sünder als 10. <hi rendition="#i">Jahr</hi> eingesperrt zu
+                sein, mir<lb break="yes"/>geht es gut u. <seg ana="#inst">man kan̄ nicht im
+                        mindesten<lb break="yes"/>klagen, gute <hi rendition="#i">Kost</hi> u <hi rendition="#i">Behandlung</hi></seg> aber jeder<lb break="yes"/>möchte
+                gerne die <hi rendition="#i">Freiheit</hi>. und wen̄ <hi rendition="#i">Sie</hi> mich<lb break="yes"/>noch lange warten laßen so geht es mit meiner<lb break="yes"/>Gesundheit <add>doch</add> nicht beßer, den̄ ich leide
+                    schon<lb break="yes"/>viel <hi rendition="#i">Jahren</hi>. u. nur die <hi rendition="#i">Frische Luft</hi> u<lb break="yes"/><hi rendition="#i">Freiheit</hi> kan̄ mich gesund machen, wozu<lb break="yes"/>?die vielen <hi rendition="#i">Kösten</hi>?<lb break="yes"/><seg ana="#salute"> <hi rendition="#r"><hi rendition="#i">Sind Sie so gut u. schreiben Sie</hi> mir.<lb break="yes"/></hi>
+<seg ana="#signed"> <hi rendition="#i">Ihr gehorsamer</hi> Ergebener<lb break="yes"/><hi rendition="#i">Jak. <surname>S.</surname> v. Augsburg</hi></seg><lb break="yes"/><hi rendition="#c">Tapezier.</hi></seg>
+</p>
+</body>
+</text>
+</TEI>

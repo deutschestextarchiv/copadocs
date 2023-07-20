@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7841s07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7841 (K. 310)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>S.</surname></persName>
+<date type="sent">08.03.1930</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: Berta und Benedikt <surname>S.</surname></persName>
+<settlement type="sent">Eickelborn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip7841s">
+<persName>
+<forename>Joseph</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1912-03-25"/>
+<death cert="unknown"/>
+<occupation>Zimmerlehrling</occupation>
+<residence><geo decls="#WGS">51.71895955 8.764869778177559</geo>Geburtsort: Paderborn; Wohnort: Paderborn</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Zimmermeister; Mutter: n.a.</p>
+<p>Anstalt: <date from="1929-05-10" to="1931-03-24">10.05.1929-24.03.1931</date></p>
+<p>Brieftypen: pp, po, Lebenslauf</p>
+</state>
+<trait><p>Schizophrenie (11.01.1929, Dr. Haberkant); Desorientiert, verkennt seine Umgebung, es handelt sich um das Erregungsstadium einer Katatonie (10.05.1929; Dr. Benthaus)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose>Er fragt, wann er abgeholt wird. Es geht ihm dort schlecht, da er durch das viele Sitzen Schmerzen hat. Er möchte, dass sein Vater ihn abholt.</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7841s07.jpg" xml:id="image_022"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<dateline><hi rendition="#r">Eikelborn, den 8. März 1930.</hi></dateline>
+<salute><hi rendition="#c">Liebe Eltern.</hi></salute>
+</opener>
+<p>Wann gedenkt Ihr mich denn <w>wieder<lb break="no"/></w><w>zu</w><w>holen</w>. Ich
+                habe hier so zu leiden<lb break="yes"/>an meinem vielen Sitzen, wie Ich Euch
+                    i<del>nn</del>m<lb break="yes"/>vorigen Brief schrieb, bekomme Ich ja<lb break="yes"/>einen krummen Rücken durch das viele<lb break="yes"/>Sitzen, denn
+                Bunten Wilh. hat Ihn nur<lb break="yes"/>bekommen durch das viele Pflügen. Liebe<lb break="yes"/>Eltern holt mich d<del>u</del>orh morgen. Vater<lb break="yes"/>kan ja um 4 Uhr kommen.<lb break="yes"/><seg ana="#salute"><hi rendition="#c">
+                        Nun will Ich schließen Es</hi><lb break="yes"/>grüßt Euch recht Herzlich</seg>
+<seg ana="#signed">Euer Sohn Joseph<lb break="yes"/><surname>S.</surname></seg>
+                z. Z. Eickelborn. Heilanstalt.</p>
+</body>
+</text>
+</TEI>

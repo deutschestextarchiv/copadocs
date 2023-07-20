@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb6270r35" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>6270</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: Franz Joseph <surname>R.</surname></persName>
+<date type="sent">17.01.1931</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Erisried</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb6270r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1895"/>
+<death cert="unknown"/>
+<occupation>Schuhmacher</occupation>
+<residence><geo decls="#WGS">48.0048016 10.4324403</geo>Erisried, Mindelheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schuhmacher</p>
+<p>Anstalt: <date from="1920" to="1931">1920-31</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Schizophrenie (1934), vorl. Diagn. Dementia praecox (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="vater"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Entlassung des Sohnes
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb6270r35a.jpg" xml:id="image_087"/>
+<graphic mimeType="image/jpg" url="kfb6270r35b.jpg" xml:id="image_088"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_087"/>
+<opener>
+<dateline>Erisried, den 17.I.31.</dateline>
+<salute><hi rendition="#c">Herr Medizinal-Rat!</hi></salute>
+</opener>
+<p>Möchte anfragen wie das Befinden<lb break="yes"/>meines Sohnes Joseph
+                    <surname>R.</surname> ist?<lb break="yes"/>Kön̄te man Ihn nicht auf
+                    die<lb break="yes"/>Probe einmal Heim-nehmen?<lb break="yes"/>Sollte jedoch
+                Verschlim̄erung ein<lb break="no"/>treten, daß man Ihn wieder<lb break="yes"/>einliefern müßte, muß die<lb break="yes"/>Zahlung wieder durch den<lb break="yes"/>Landarmen-Verband weitergehen<lb break="yes"/>wie jetzt, das müßte schon im<lb break="yes"/>Voraus fest-gesetzt werden;
+            
+            <pb facs="#image_088"/>
+               da ich nicht in der Lage bin<lb break="yes"/>für Ihn zu zahlen. Bitte um<lb break="yes"/><space/> Antwort.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvollst</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Frz. Joseph <surname>R.</surname></seg><lb break="yes"/>Schuhmachermeister<lb break="yes"/>Erisried</hi>
+</p>
+</body>
+</text>
+</TEI>

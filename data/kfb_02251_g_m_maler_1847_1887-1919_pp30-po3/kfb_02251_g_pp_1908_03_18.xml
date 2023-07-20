@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">18.03.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Babette <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Maler</p>
+<p>Anstalt: <date from="1887" to="1919">1887-1919</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Beschuldigt Schwester des Meineids.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g11a.jpg" xml:id="image_037"/>
+<graphic mimeType="image/jpg" url="kfb2251g11b.jpg" xml:id="image_038"/>
+<graphic mimeType="image/jpg" url="kfb2251g11c.jpg" xml:id="image_039"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_037"/>
+<opener>
+<dateline><hi rendition="#r">Irrse den 18 März 1908</hi></dateline>
+<salute><hi rendition="#c">Liebe Schwester!</hi></salute>
+</opener>
+<p>Wie Ich gehört von höherer<lb break="yes"/>Seite daß Du durch Herrn<lb break="yes"/>Oswald in Kaufbeuern dich<lb break="yes"/>verleiden, Ich der Betref<lb break="no"/>fende Unglückliche gewor<lb break="no"/>den ist Thatsache. Notar<lb break="yes"/>ist die alle Person von<lb break="yes"/>Urkunden Meineid Er<lb break="no"/>ben selig gewesen.<lb break="yes"/>Mich einer Ehr nicht ver<lb break="no"/>stehn wollen der Rauf<lb break="no"/>enpold werden bedanke<lb break="yes"/><del>ma</del> man sich mein Char<lb break="no"/>rackter zu werden Rock<lb break="yes"/>u Win̄er wie Haße Ober- </p>
+<pb facs="#image_038"/>
+<p>verwalter. Meine Geschenke<lb break="yes"/>ab zu brechen nur durch<lb break="yes"/>Leidenschaften<add place="above">liche</add> ein Unver<lb break="no"/>schämtes
+                wißen durch<lb break="yes"/>3 grobe Verwandten<lb break="yes"/>Postpacker u
+                Glatthar<lb break="yes"/>Feldwebel <surname>S.</surname> früher<lb break="no"/>er ein Lumpenpack
+                ein<lb break="yes"/>schlechter. Enterben u<lb break="yes"/>nicht mehr. Du bist ein<lb break="yes"/>Meineidige Lügnerin<lb break="yes"/>schon lange geweßen<lb break="yes"/>in Briefe.</p>
+<p><space/> <seg ana="#salute">Lebe wohl</seg> <seg ana="#signed">dein Bru<lb break="no"/>der Jakob <surname>G.</surname><lb break="yes"/><hi rendition="#r">Maler.</hi></seg><lb break="yes"/><add place="bottom">Weihnachten viel<lb break="yes"/>größerer
+                    Werth<lb break="yes"/>zu bekom̄en. </add><lb break="yes"/><add place="bottom">Oberpfleger<lb break="yes"/>unser neu<lb break="yes"/>ins Gericht<lb break="yes"/>geworfen. </add>
+</p>
+<pb facs="#image_039"/>
+<p>Wohlgeboren<lb break="yes"/>Babette <surname>G.</surname> Malers<lb break="no"/><hi rendition="#c">Tochter.<lb break="yes"/>Lindau im Bodensee.</hi><lb break="yes"/>frei </p>
+</body>
+</text>
+</TEI>

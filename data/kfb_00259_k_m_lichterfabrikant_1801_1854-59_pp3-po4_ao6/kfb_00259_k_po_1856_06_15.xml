@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb259k10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>259</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>K.</surname></persName>
+<date type="sent">15.06.1856</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor:  <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb259k">
+<persName>
+<forename>Joseph</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1801"/>
+<death cert="unknown"/>
+<occupation>Seifen- und Lichterfabrikant</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1854" to="1859">1854-59</date></p>
+<p>Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Confusio Idearum, Wahnvorstellungen (1854)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient bittet darum, seine Narben von einem speziellen Arzt untersuchen lassen zu dürfen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb259k10a.jpg" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_020"/>
+<opener>
+<dateline><hi rendition="#i">Irrsee</hi> d: 15<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> <hi rendition="#i">Junni</hi> <hi rendition="#u">1856</hi></dateline>
+<salute>Hochzuverehrenster Werthgeschätzter,<lb break="yes"/>H<unclear>l</unclear>: <hi rendition="#i">Dr: Seiderer</hi> &amp; <hi rendition="#i">Sa Famielie!</hi></salute>
+</opener>
+<p>Zum letzten mal habe ich die Ehre Sie zu er<lb break="no"/>suchen, mich aus
+                diesem Hause zu retten.<lb break="yes"/><unclear/> ersucht Sie daher, Ihren<lb break="yes"/>freund &amp; genoßen<unclear/>
+<hi rendition="#i">H: D<hi rendition="#sup"><hi rendition="#u">r</hi></hi> Horn
+                    pracktischen</hi><lb break="yes"/>Artzt in <hi rendition="#i">München</hi>, meine wenigen Wunden<lb break="yes"/><hi rendition="#i">Narben</hi> nebst Blutverlust in Augenschein<lb break="yes"/>zu nehmen − diese <hi rendition="#i"><hi rendition="#u">Schmiere</hi></hi> gefälligst<lb break="yes"/>abzuschätzen, um daß weitere
+                einstweg<lb break="yes"/>besorgen zu können, − Mit Ausgezeich<lb break="no"/>neter Hoch-Achtung verbleibe ich einst<lb break="no"/>weilen, euer treuherzigster
+                freund<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Joseph <surname>K.</surname></hi></seg><lb break="yes"/>zum Anger N<hi rendition="#u">o</hi> 45 − <hi rendition="#i">M</hi>ünchen<lb break="yes"/><hi rendition="#u">derzeit im
+                        Bad z:K:b:r: Anst<unclear>alt</unclear><lb break="yes"/>Irrsee.</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

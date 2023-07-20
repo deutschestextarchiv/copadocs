@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7442t11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7442 (K. 250)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine <surname>T.</surname></persName>
+<date type="sent">15.10.1931</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kabel bei Hagen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip7442t">
+<persName>
+<forename>Wilhelmine</forename>
+<surname>T.</surname>
+</persName>
+<birth when="1892-06-26"/>
+<death cert="unknown"/>
+<occupation>Ehefrau</occupation>
+<residence><geo decls="#WGS">51.4020053 7.4899059</geo>Geburtsort: Westerkappeln; Wohnort: Hagen-Kabel</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Ehemann: Bahnmeister; Vater: Landwirt; Mutter: n.a.</p>
+<p>Anstalt: <date from="1928-04-23" to="1929-09-24">23.04.1928-24.09.1929</date></p>
+<p>Brieftypen: pp, po, Lebenslauf, Gebet</p>
+</state>
+<trait><p>paranoide Erkrankung (1928 Dr. Korbsch)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="hand2"/>
+<handNote medium="crayon_blue" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin möchte vll. um Rat bitten, bezüglich ihrer Situation. Sie sagt, sie hatte recht mit dem Dienstmädchen und war damals auch nicht geisteskrank. Sie befindet sich deshalb auch in einer schwierigen Lage.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7442t11.jpg" xml:id="image_025"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_025"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kabel b. Hagen</hi>, d.
+                        15.10.31.</hi></dateline>
+<salute>Sehr geehrter Herr Direktor!</salute>
+</opener>
+<p><add hand="hand3">?</add></p><p><add hand="hand3">53.</add></p><p>Da ich immer schon mal <w>vor hatte</w>, dort<lb break="yes"/><w>vorbei zu kommen</w>, aber
+                    <w>bis her</w> noch<lb break="yes"/>nicht <w>dazu gekommen</w> bin, so erlaube<lb break="yes"/>ich mir einige Zeilen nach dort zu richten.<lb break="yes"/>Wenn's angebracht ist, komme ich aber doch<lb break="yes"/>noch, um mir mündlich
+                Rat zu holen.<lb break="yes"/>Bin nähmlich in einer Lage geraten, die<lb break="yes"/>mir nicht so angemehm ist.<lb break="yes"/>Ich war damals nicht
+                    <w>geistes gestört</w><lb break="yes"/>weder <w>geistes krank</w>; sondern alles was<lb break="yes"/>ich
+                angegeben habe (über dem Mädchen)<lb break="yes"/>das hat sich in dieser ganzen
+                Zeit<lb break="yes"/>noch mehr bewahrheitet.. Habe mich<lb break="yes"/>aber immer
+                noch bisher alleine<lb break="yes"/><w>durch gekämpft</w>. (Kann ich evt. auch<lb break="yes"/>1 Nacht dort <w>über nachten</w>?) Sonst alles wohl.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Freundl. Gruß</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#u" style="hand2">Frau <surname><hi rendition="#i">T.</hi></surname></hi>.</seg></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb585o07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>585</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Laura <surname>S.</surname></persName>
+<date type="sent">03.08.1882</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb585o">
+<persName>
+<forename>Hermann</forename>
+<surname>O.</surname>
+</persName>
+<birth when="1851"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Geburtsort: Frankenthal (Rheinpfalz); Wohnort: Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Studienlehrer</p>
+<p>Anstalt: <date from="1880" to="1885">1880-85</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>"Primäre Verrücktheit" (1879)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="anwohnerin"/>
+<handNote medium="ink_black" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin berichtet von einem Patienten, der "fast täglich" ihr Haus beobachte und 
+                    sie und ihre Tochter verfolge. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb585o07a.jpg" xml:id="image_023"/>
+<graphic mimeType="image/jpg" url="kfb585o07b.jpg" xml:id="image_024"/>
+<graphic mimeType="image/jpg" url="kfb585o07c.jpg" xml:id="image_025"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_023"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Euer
+                            Hochwohlgeboren</hi></hi></salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#u">beantwortet.</hi></add></p>
+<p>werden mir gestatten, Sie darauf aufmerksam<lb break="yes"/>zu machen, daß ein
+                    <hi rendition="#i">Patient </hi>Ihrer <hi rendition="#i">Heil-Anstalt</hi><lb break="yes"/>seit längerer Zeit − fast täglich unser Haus<lb break="yes"/>fixierend − den Marktplatz auf u. abspaziert,<lb break="yes"/>u. zwar 5-6
+                mal, was von vielen Leuten, beson<lb break="no"/>ders von unserer Nachbarschaft
+                bemerkt<lb break="yes"/>wurde. Seit 14 Tagen jedoch ist besagter<lb break="yes"/><hi rendition="#i">Herr</hi> unser steter Begleiter, so oft ich mit<lb break="yes"/>meiner Tochter ausgehe. Letztere kan̄ u. will<lb break="yes"/>allein nicht mehr fortgehen außer an den<lb break="yes"/>Vormittagen, wo wir diesen Herrn noch<lb break="yes"/>nie begegnet u. gesehen
+                haben. Während des <pb facs="#image_024"/>Kinderfestes verfolgte er uns im
+                    H<unclear>ölzchen</unclear><lb break="yes"/>fortwährend u. begleitete uns Mitwoch<lb break="yes"/>Abend zum
+                Lehnhof u. wieder herein bis<lb break="yes"/>zu unserm Haus − so daß mein
+                Schwiegersohn<lb break="yes"/>u. meine verheirathete Tochter, welche von<lb break="yes"/>der Reise komen u. von Allem nichts<lb break="yes"/>wußten, sofort
+                fragten − wer obiger Herr<lb break="yes"/>sei! −</p><p><space/> Der Betreffende ist von mittlerer<lb break="yes"/>Größe, trägt einen Zwicker u. wird im<lb break="yes"/>Alter sein von etwa 30-35 Iahren. </p><p><space/> Ich glaube Euer <hi rendition="#i">Hochwohlgeboren</hi><lb break="yes"/>einen Gefallen damit zu erweisen, indem<lb break="yes"/>ich Sie
+                darauf aufmerksam mache, u. <pb facs="#image_025"/>bin von Ihrer gütigen Abhilfe in
+                dieser<lb break="yes"/>Sachlage im Voraus überzeugt. </p><p><space/> Noch muß ich Ihnen bemerken daß<lb break="yes"/>die Begleitung in einer gewissen<lb break="yes"/>Distanz stattfindet.</p><p>Erst seit einigen weiß ich ganz bestim−t<lb break="yes"/>daß der betreffende Herr ein <hi rendition="#i">Patient</hi><lb break="yes"/>Ihrer Anstalt ist, sonst hätte ich mir<lb break="yes"/>schon
+                früher erlaubt Ihre Hilfe in<lb break="yes"/>dieser Angelegenheit zu beanspruchen. </p><p><hi rendition="#c"><seg ana="#salute">Mit aller <hi rendition="#i">Hochachtung</hi><lb break="yes"/></seg></hi><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Laura
+                    </hi><surname><hi rendition="#i">S.</hi></surname>.</seg></hi></p><p><hi rendition="#i">Kaufbeuren</hi> den 3ten August 1882. − </p>
+</body>
+</text>
+</TEI>

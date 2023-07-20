@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a94" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca1917-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt und Dr. Ährenfelder</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1917" to="1931">1917-31</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil_1" scope="major" scribe="patient"/>
+<handNote medium="pencil_2" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um anderes Essen, weil er Bauchschmerzen hat.
+                    Er will andere Arbeit, weil er im Holzstadel nichts zu tun hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a94a.jpg" xml:id="image_211"/>
+<graphic mimeType="image/jpg" url="kfb80a94b.jpg" xml:id="image_212"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_211"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Sehr Geehrter Herr Oberarzt </hi><lb break="yes"/><hi rendition="#r">&amp;.
+                        Herr Doktor Ährenfelder.</hi></salute>
+</opener>
+<p><space/> Seit letzten Samstag seitdem<lb break="yes"/>ich so viel Speck aß, hab
+                ich<lb break="yes"/>im Bauch im̄er noch Schmer<lb break="no"/>zen, <seg ana="#med">Abweichen</seg> hab ich nicht<lb break="yes"/>mehr. Aber im
+                Unterleib<lb break="yes"/>spür ich schon starkes Druk<lb break="no"/>ken &amp;.
+                krazen, wen̄ ich <del>schn</del><lb break="yes"/>schnaufe &amp;. nieße. Im<lb break="yes"/>Hals hab ich heftige
+                    Schmer<lb break="no"/>zen, kan̄ fast nicht schluk<lb break="no"/>ken;
+                Bring Fleisch &amp;. Schwarz<lb break="no"/>Brod fast nicht hinunter.<lb break="yes"/>Zu Kaufbeuren bekam<lb break="yes"/>ich deshalb kein Fleisch u.<lb break="yes"/>s. w. mehr sondern die<lb break="yes"/><seg ana="#inst">Extrakost</seg>, Brei &amp;. Milch <pb facs="#image_212"/><add place="top">2.)</add><lb break="yes"/>u. dergl. Sehr Geehrte<lb break="yes"/>Herren ich bitte Sie da<lb break="no"/>her, geben Sie mir<lb break="yes"/>die andere Kost, <hi rendition="#u">Brei</hi><lb break="yes"/><hi rendition="#u">Milch &amp;.</hi> <hi rendition="#u">Sem̄eln</hi> jeden<lb break="yes"/>Tag, sonst werd ich noch<lb break="yes"/>kränker. Im
+                Holzstadel<lb break="yes"/>sind alle Sägen hin ka<lb break="no"/>put, &amp;. für
+                mich ist we<lb break="no"/>nig arbeit dort &amp;. ist<lb break="yes"/>eißkalt.
+                Lassens mich bit<lb break="no"/>te im D Saal schriftlich ar<lb break="no"/>beiten,
+                bis neue Sägen<lb break="yes"/>da sind.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Es grüßt Sie</seg><lb break="yes"/><seg ana="#signed">Hans <surname>A.</surname></seg></hi><lb break="yes"/><handShift medium="pencil_2" scribe="patient"/>Bitte lassens mich die Wo<lb break="no"/>che im Bett bleiben bis<lb break="yes"/><hi rendition="#c">besser geht.</hi></p>
+</body>
+</text>
+</TEI>

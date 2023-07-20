@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb192a05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>192</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>A.</surname></persName>
+<date type="sent">18.04.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb192a">
+<persName>
+<forename>Heinrich</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1818"/>
+<death when="1866"/>
+<occupation>Pharmazeut</occupation>
+<residence><geo decls="#WGS">47.9867696 10.181319</geo>Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater Zollinspektor</p>
+<p>Anstalt: <date from="1859" to="1866">1859-1866</date></p>
+<p>Brieftypen: <!--Brieftypen--></p>
+</state>
+<trait><p>krankhafte Empfindlichkeit und Schwermut, fixe Ideen (1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Details zur finanziellen Versorgung des Sohns.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb192a05a.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="kfb192a05b.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb192a05c.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline><hi rendition="#r">München den 18<hi rendition="#u"><hi rendition="#sup">ten</hi></hi> April 1859. <add hand="arzt"><lb break="yes"/>pr 19 Apr 59</add></hi></dateline>
+<salute><hi rendition="#c">Euer Hochwohlgeboren!</hi></salute>
+</opener>
+<p>Haben geruht den Besuch meines Vetters<lb break="yes"/>Oberzollinspektor
+                        <surname><hi rendition="#i">M.</hi></surname> von Kempten<lb break="yes"/>freundlichst aufzunehmen, und ihm auf sein<lb break="yes"/>Gesuch
+                die tröstliche Zusicherung zu machen,<lb break="yes"/>meinen kranken Sohn Heinrich
+                    <surname>A.</surname> Ihre<lb break="yes"/>besondere Aufmerksamkeit
+                schenken zu<lb break="yes"/>wollen, wofür ich Ihnen herzlich danke,<lb break="yes"/>und zu Gott flehe, daß Er es Ihnen<lb break="yes"/>reichlich vergelten möge.
+                <space/> Ein Beweis<lb break="yes"/>dieses Aufmerksamkeit ist mir schon<lb break="yes"/>dadurch gegeben, daß Sie der förderlich<lb break="no"/>sten
+                Lieferung der Effekten des Kranken<lb break="yes"/>entgegen sehen, obschon ich am
+                    7<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> d. Mts<pb facs="#image_015"/> schon dem Bedürfnisse entsprochen und bereits<lb break="yes"/>der k. Verwaltung die Empfangs-Bestättigung<lb break="yes"/>vom
+                    12<hi rendition="#sup">ten</hi> dies empfangen habe, wie das mir<lb break="yes"/>zurückgesendete bescheinigte Verzeichniß be<lb break="no"/>wahrheitet, darunter sich auch ein ganz<lb break="yes"/>neuer und ein schon
+                getragener Anzug be<lb break="no"/>findet. <space/> Am nämlichen Tage habe<lb break="yes"/>ich auch 50 f in Banknoten der k. Ver<lb break="no"/>waltung
+                zugesendet und von derselben<lb break="yes"/>mit der Bemerkung die Bescheinigung<lb break="yes"/>vom 12<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                l. Mts <hi rendition="#i">Exp. N<hi rendition="#sup"><hi rendition="#u">ro</hi></hi></hi> 1496 erhalten,<lb break="yes"/>daß hieraus der
+                Verpflegs-Betrag für<lb break="yes"/>86 Tage des <hi rendition="#i">III Quart.</hi>
+                1858/59 nach täglichen<lb break="yes"/>27 <hi rendition="#i">X</hi> mit 38 f 42 <hi rendition="#i">X</hi> in Abzug gebracht und<lb break="yes"/>der Rest von 11 f 18
+                    <hi rendition="#i">X</hi> als Depositum ge<lb break="no"/>bucht worden sei.
+                <space/> Zur Vermeidung<lb break="yes"/>allenfallsiger Revisions-Anstände erlaube
+                    <pb facs="#image_016"/>ich mir zu bemerken, daß mein Sohn in Schwaben<lb break="yes"/>/:Mem̄ingen:/ heimathsberechtigt ist, folglich die Be<lb break="no"/>rechnung des Verpflegsbetrages nach 24 <hi rendition="#i">X</hi>r per<lb break="yes"/>Tag nach den Satzungen §.17 <hi rendition="#i">III</hi> Klasse
+                    <hi rendition="#i"><hi rendition="#u">bb</hi></hi> hätte<lb break="yes"/>geschehen dürfen; indessen, wenn es zu keinen An<lb break="no"/>ständen,
+                Veranlassung giebt, mag es aller<lb break="no"/>dings bei der Berechnung nach 27 <hi rendition="#i">X</hi> sein Ver<lb break="no"/>bleiben haben.</p><p>Ich lebe im Vertrauen auf Gott und zu Ihrer<lb break="yes"/>Herzensgüte, daß mein Sohn früher
+                als die<lb break="yes"/>Hoffnung gewährt, <del>bereits</del> soweit genesen<lb break="yes"/>werde, daß er in der Anstalts-Apotheke be<lb break="no"/>schäftigt
+                        werden könne.</p><p><seg ana="#salute">Indem ich Ihnen meinen Sohn empfehle,<lb break="yes"/>versichere ich
+                    vorzügliche Hochachtung.</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#c">Euer Hochwohlgeboren</hi><lb break="yes"/><hi rendition="#r">ergebenster Diener<lb break="yes"/><surname>A.</surname><lb break="yes"/>Oberinspektor</hi></seg></p>
+</body>
+</text>
+</TEI>

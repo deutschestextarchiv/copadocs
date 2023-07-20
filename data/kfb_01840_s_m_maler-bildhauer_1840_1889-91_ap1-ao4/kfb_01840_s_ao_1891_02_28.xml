@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1840s03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1840</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Marie <surname>S.</surname></persName>
+<date type="sent">28.02.1891</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1840s">
+<persName>
+<forename>Karl</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1840"/>
+<death when="1891"/>
+<occupation>Maler, Bildhauer</occupation>
+<residence><geo decls="#WGS">48.3954965 10.00589</geo>Neu-Ulm</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Gärtner</p>
+<p>Anstalt: <date from="1889" to="1891">1889-1891</date></p>
+<p>Brieftypen: ap, ao, zeichnung</p>
+</state>
+<trait><p>Progressive Paralyse (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Ist sehr besorgt um ihren Mann und erkundigt sich nach dessen Befinden, da der Patient selbst ihr nicht schreiben könne. 
+                    Die Schreiberin gibt an, schwermütig zu sein und ihren Mann nicht besuchen zu können. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1840s03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb1840s03b.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb1840s03c.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Geehrtester Herr <hi rendition="#i">Docktor</hi></hi></salute>
+</opener>
+<p><add hand="arzt"><unclear>pr</unclear> 2/<hi rendition="#sub">3</hi> 91 −
+                    schwache be<unclear/>gung.<lb break="yes"/><hi rendition="#c"><unclear/>−
+                    </hi>
+</add></p>
+<p>Längere Zeit kämpfe ich schon mit<lb break="yes"/>mir, es thut mir so leid Sie
+                    be<lb break="no"/>lästigen zu müßen, allein der Ge<lb break="no"/>danke, daß
+                mein armer unglück<lb break="no"/>licher Mann mir nicht mehr schreiben<lb break="yes"/>kan zwingt mich dazu! Herr<lb break="yes"/>Dockter, werden es
+                einer besorg<lb break="no"/>ten unglücklichen Frau verzeihen,<lb break="yes"/>wen̄ Sie im̄er wieder sich er<lb break="no"/>kundigt! O wie geht es
+                Ihm?<lb break="yes"/>kan er noch schlafen u. Essen? </p>
+<pb facs="#image_007"/>
+<p>Was wird er denken, daß ich<lb break="yes"/>so lange nicht kom̄e? aber meine<lb break="yes"/>Gesundheit ist gänzlich erschüttert,<lb break="yes"/>ich muß
+                selbst oft Bett hüten,<lb break="yes"/>ich sehne mich so sehr nach Ihm,<lb break="yes"/>Ihn zu sehen, o würde er mich<lb break="yes"/>wohl noch
+                ken̄en? er ist u.<lb break="yes"/>bleibt meine Sorge meine<del>n</del><lb break="yes"/>Kum̄er! ach! Herr Dockter!<lb break="yes"/>ich <hi rendition="#u">bitte</hi>, daß dem Ärmsten<lb break="yes"/>ja nicht zu weh
+                geschiet, ich kan<lb break="yes"/>Sie <hi rendition="#u">nur bitten</hi>, ihn
+                unter<lb break="yes"/>ihren Schutz zu stellen! </p><p>in meiner Schwermut, sehe<lb break="yes"/>ich Alles noch düsterer,
+                vielleicht, <pb facs="#image_008"/>als es ist! ich würde Herrn<lb break="yes"/>Docktor! vielmals bitten, mir<lb break="yes"/>in Bälde Nachricht zu geben, wie<lb break="yes"/>es meinem armen Manne geht,<lb break="yes"/>damit ich wieder
+                etwas ruhiger<lb break="yes"/>werde; zürnen Sie einer Un<lb break="no"/>glücklichen
+                nicht, wen̄ Sie Ihnen<lb break="yes"/>belästigt, den solche Schicksals<lb break="no"/>schläge sind zu schwer! − </p><p><hi rendition="#r"><seg ana="#salute">Hochachtungsvollst </seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Marie <surname>S.</surname></hi>
+</seg><lb break="yes"/>Gabelsbergerstraße N<hi rendition="#sup">o</hi> 46/<hi rendition="#sub">1</hi></hi><hi rendition="#i"><lb break="yes"/>München</hi> den 28<hi rendition="#sup"><hi rendition="#u">t</hi></hi>
+<hi rendition="#i">Feb</hi>. 1891.</p>
+</body>
+</text>
+</TEI>

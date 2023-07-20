@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2950r24" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2950</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>R.</surname></persName>
+<date type="sent">ca1923-36</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2950r">
+<persName>
+<forename>Magdalena</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1887"/>
+<death cert="unknown"/>
+<occupation>Dienstmädchen</occupation>
+<residence><geo decls="#WGS">47.6988348 10.321779800598831</geo>Kottern/Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schuhmacher</p>
+<p>Anstalt: <date from="1923" to="1936">1923-36</date></p>
+<p>Brieftypen: pp,po,ap</p>
+</state>
+<trait><p>[Suizidalität], Verfolgungswahn (1923), Versündigungsideen, Sinnestäuschungen, Willensstörungen (1828-36)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Kalenderränder</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Ränder von Kalenderblättern, nur ganze Sätze und klar lesbares transkribiert
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2950r24a.jpg" xml:id="image_070"/>
+<graphic mimeType="image/jpg" url="kfb2950r24b.jpg" xml:id="image_071"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_070"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>
+Weischt i reg mi so auf wegen jede <hi rendition="#u">Kleinigkeit</hi></p><p>
+Vor jedem Zettelchen bete ich 1 Vaterunser</p><p>
+Ehrwürdige Schwestern v. d. Abteilung.<lb break="yes"/>Ich bete 1 <hi rendition="#u">Vater unser jedes Zettelchen</hi></p><p>
+Waschtüchle</p><p>
+Zilli. Hofl oder Fahrgeld<lb break="yes"/>zum Hier<lb break="no"/>fahren<lb break="yes"/>Da 3 Extra<lb break="no"/>züg fahren<lb break="yes"/>Weil ich der<lb break="yes"/>Lokomotive<lb break="yes"/>einen Kuß<lb break="yes"/>gegeben hab</p><p>
+Um meine Post schneller zu erhalten
+</p>
+<pb facs="#image_071"/><p>Vor jedem Zettelchen<lb break="yes"/>Bete ich 1 Vater unser</p><p><hi rendition="#u">Hausfrau</hi> A bistle Schaüfele<lb break="yes"/>u an<lb break="yes"/>alter<lb break="yes"/>Weiler<lb break="no"/>rat<lb break="yes"/>ist<lb break="yes"/>ein<lb break="yes"/><hi rendition="#u">schlecht</hi>.<lb break="yes"/>Besten<lb break="yes"/>Dank<lb break="yes"/><hi rendition="#u">f.d. Brief.</hi></p>
+</body>
+</text>
+</TEI>

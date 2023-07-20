@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip2623k03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>2623 (K. 190)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Felix <surname>K.</surname></persName>
+<date type="sent">08.03.1912</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vorstand des Allgemeinen Knappschafftsvereins</persName>
+<settlement type="sent">Münster i. W.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip2623k">
+<persName>
+<forename>Felix</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1884-08-27"/>
+<death cert="unknown"/>
+<occupation>n.a.</occupation>
+<residence><geo decls="#WGS">51.0806259 11.9305596</geo>Geburtsort: Ruchenka; Wohnort: Osterfeld</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1913-11-24" to="1929-12-12">24.11.1913-12.12.1929</date></p>
+<p>Brieftypen: pp, po, Lebenslauf</p>
+</state>
+<trait><p>Dementia praecox (1913)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="hand2"/>
+<handNote medium="crayon" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient beschreibt, wie er mit einer Hacke auf den Kopf geschlagen wurde und dann in eine Anstalt kam. Er erklärt, welche Arbeitsstellen er hatte und dass er der Versorger seiner Familie war.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip2623k03a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="lip2623k03b.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Münster</hi>, den 8. <hi rendition="#i">M</hi>ärz 1913.</hi>
+</dateline>
+<salute><hi rendition="#r"><space/> Geehrten Vorstand des Algemeinen <w>Knappschaffts Verein</w></hi></salute>
+</opener>
+<p><add hand="hand2"><hi rendition="#i">Ad acta</hi>
+<surname><hi rendition="#i">K.</hi></surname><lb break="yes"/><hi rendition="#i">U</hi></add><lb break="yes"/><add hand="hand3"><hi rendition="#r">26</hi></add><lb break="yes"/></p><p><add place="margin">Invormation über neine<lb break="yes"/>Erkrankung des Bergmann<lb break="yes"/><hi rendition="#i">Felix </hi><surname><hi rendition="#i">K.</hi></surname><lb break="yes"/>aus <placeName>Osterfeld</placeName>.<lb break="yes"/><lb break="yes"/><lb break="yes"/><lb break="yes"/><hi rendition="#c">"<lb break="yes"/><lb break="yes"/><lb break="yes"/><lb break="yes"/><lb break="yes"/><lb break="yes"/></hi><hi rendition="#c">"</hi><lb break="yes"/><lb break="yes"/><lb break="yes"/><lb break="yes"/><lb break="yes"/>An den wohllöblichen<lb break="yes"/>Vorstand <space/> des<lb break="yes"/>Algemeinen <w>Knappschaffts<lb break="no"/><hi rendition="#c">Vereins.</hi></w>
+                    in <placeName>Bochum in. <hi rendition="#i">W</hi>.</placeName></add><lb break="yes"/><lb break="yes"/>informiere Ich <w>hier<lb break="no"/>mit</w> won meine Krankheit.<lb break="yes"/>Am anfang Oktober des<lb break="yes"/>Jahres 1910. schlug mir<lb break="yes"/>ein Mann unten in<lb break="yes"/>der Grube par <add place="above">100</add>
+<hi rendition="#i">M</hi>eter von<lb break="yes"/>Schachte II. In
+                    <placeName>Osterfeld</placeName> mit<lb break="yes"/>einer Steinhake auf den<lb break="yes"/>Kopf. auf der III. Sohle in Querschlag<lb break="yes"/>Wo Ich
+                zum Glück den<lb break="yes"/>Bergmann Franz <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/>von <placeName>Osterfeld</placeName> als Zeuge<lb break="yes"/>angeben kan der die<lb break="yes"/>Sache genau angeben wird<lb break="yes"/>könen. Als dan wurde Ich<lb break="yes"/>aus der Erde geholt und<lb break="yes"/>verhaftet war in der<lb break="yes"/>Anstalt Grafenberg und<lb break="yes"/>jetzt befinde ich mich in<lb break="yes"/>der <w>Provinzial Anstalt</w><lb break="yes"/><hi rendition="#i">M</hi>arientahl in <placeName><hi rendition="#i">M</hi><hi rendition="#i">ünster</hi></placeName>.<lb break="yes"/>Und
+                möchte gern in<lb break="yes"/>Mir zuständigen<lb break="yes"/><w>Knappschafts
+                    Krankenhause</w><lb break="yes"/><w>ver Pflegt</w> werden <pb facs="#image_009"/>Bin 28. Jahre alt
+                und <add hand="hand3">27</add><lb break="yes"/>war der Ernehrer meiner<lb break="yes"/><hi rendition="#i">M</hi>utter mit 8. Jahrigen<lb break="yes"/>Bruder. Habe auf<lb break="yes"/>Zeche Osterfeld seid 1903<lb break="yes"/>als Schacht-Hauer<lb break="yes"/>und
+                zuletzt als Afbruchs<lb break="no"/>Hauer gearbeitet<lb break="yes"/><lb break="yes"/><hi rendition="#c">Hochachtungsvoll<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Felix </hi><surname><hi rendition="#i">K.</hi></surname></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

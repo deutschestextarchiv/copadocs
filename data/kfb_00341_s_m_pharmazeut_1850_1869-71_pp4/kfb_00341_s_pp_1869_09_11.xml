@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb341s01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>341</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">August von <surname>S.</surname></persName>
+<date type="sent">11.09.1869</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Adolf von <surname>S.</surname></persName>
+<settlement type="sent">Stetten</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb341s">
+<persName>
+<forename>August von</forename><surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death when="1871"/>
+<occupation>Pharmazeut</occupation>
+<residence><geo decls="#WGS">47.9867696 10.181319</geo>Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1869" to="1871">1869-1871</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>kataleptiforme Anfälle, religiöse Schwärmerei (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber berichtet von seinen Sünden und fragt, warum ihn niemand darauf aufmerksam gemacht hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb341s01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb341s01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb341s01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Stetten, den 11. Septb. 1869.</hi></dateline>
+<salute><hi rendition="#c">Lieber <hi rendition="#i">Adolf</hi>!</hi></salute>
+</opener>
+<p>Eine Herzensangelegenheit drängt mich,<lb break="yes"/>Dir einen Brief zu
+                schreiben. Ich würde<lb break="yes"/>ganz offen mit Dir reden, wenn<lb break="yes"/>unser Getrenntsein uns nicht daran<lb break="yes"/>hindern würde. Ich bin nemlich<lb break="yes"/>auf Sünden von mir gekom̄en,<lb break="yes"/>auf die
+                Generationssünden nemlich.<lb break="yes"/>Ich habe deren viele begangen in<lb break="yes"/>Gedanken und in der That. Ich habe<lb break="yes"/>Mädchen
+                hauptsächlich die Generations<lb break="no"/>fragen ausgefragt und dadurch mei<lb break="no"/>nen Geschlechtstrieb befriedigt. Ich habe<lb break="yes"/>es
+                freilich nicht so gewußt, aber es<lb break="yes"/>ist offen gestanden schrecklich.
+                Gerne<lb break="yes"/>würde ich schon einen Pfarrer<lb break="yes"/>darüber
+                sprechen. Ich hätte es freilich <pb facs="#image_002"/>schon länger wißen können,
+                wenn ich auf<lb break="yes"/>meine Gewißenstimme mehr<lb break="yes"/>gehört und
+                den unschuldigen Ver<lb break="no"/>führungen nicht nachgegeben hätte.<lb break="yes"/>Ich könnte ein ganzes Register darüber<lb break="yes"/>(nemlich
+                    <w>Generation ssünden</w>) schreiben.<lb break="yes"/>Laß diesen Brief nur
+                lesen. Aber<lb break="yes"/>Eines möchte ich doch wißen,<lb break="yes"/>warum bin
+                ich nicht von Euch<lb break="yes"/>darauf aufmerksam gemacht<lb break="yes"/>worden; in de<del>r</del>n Religionsstunden<lb break="yes"/>ist zwar davon
+                geredet worden, aber<lb break="yes"/>offen gestanden, bin ich eben noch<lb break="yes"/>an so vielem gehängt, was mich davon<lb break="yes"/>abhielt. Ich
+                nehme es durchaus<lb break="yes"/>nicht übel; ich habe ja selber genug<lb break="yes"/>auf dem Gewißen. Grüße an alle.<lb break="yes"/><space/>
+<seg ana="#salute">Ich bleibe <del>alle</del>
+</seg><lb break="yes"/><hi rendition="#c"><seg ana="#salute">in Liebe</seg></hi><lb break="yes"/><seg ana="#signed"><hi rendition="#r">Dein<lb break="yes"/>Dich
+                        innigst liebender<lb break="yes"/>Bruder</hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">August</hi></hi></seg></p>
+<pb facs="#image_003"/>
+<p><hi rendition="#c"><hi rendition="#i">P. P.</hi></hi><lb break="yes"/>Sey doch so gut, mir in Bälde zu schreiben.<lb break="yes"/>Ich
+                will auch mündlich mehr mit Dir<lb break="yes"/>reden. </p>
+</body>
+</text>
+</TEI>

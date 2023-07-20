@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3914d03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3914</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karolina <surname>D.</surname></persName>
+<date type="sent">07.10.1932</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freundin: Anna <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb3914d">
+<persName>
+<forename>Karolina</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1879"/>
+<death cert="unknown"/>
+<occupation>Hausbesitzerin</occupation>
+<residence><geo decls="#WGS">47.5709212 10.6977089</geo>Füssen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Kaufmann</p>
+<p>Anstalt: <date from="1911" to="1932">1911-32</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Psychometrische Erregung (1910), Manische Erregung (1922), Manie (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Pat. bittet um Weitergabe von Briefen und Grüßen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3914d03a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb3914d03b.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> d. 7. <hi rendition="#i">Ocktober</hi> 32</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Meine liebe gute
+                    Anna!</hi></hi></salute>
+</opener>
+<p>Deine lb. Zeilen v. gestern und Packet<lb break="no"/>chen mit Zeitungen und
+                Freßalien v.<lb break="yes"/>heute mit großen Freuden empfangen.<lb break="yes"/>Diesmal will Dich nicht solange in<lb break="yes"/>Ungewißheit halten. Bitte sei
+                so lieb<lb break="yes"/>und besorge mir den Brief an die<lb break="yes"/>Herrschaften <surname>P.</surname> und Karte an <hi rendition="#i">Frau</hi><lb break="yes"/><surname><hi rendition="#i">P.</hi></surname> damit endlich meinen
+                Dank an<lb break="yes"/>meine Korespondenzen nach hier erledigt<lb break="yes"/>habe und nicht mehr Schuldnerin bin.<lb break="yes"/>Für das Jubelpaar benutze
+                das bei<lb break="no"/>gelegte Kärtchen zum Festgruß und<lb break="yes"/>ist mir
+                grade paßend gewesen. In<lb break="yes"/>den Bergen hats geschneit und wir haben<lb break="yes"/>diese Tage auch die Kälte gefühlt aber heute <add place="margin"><lb break="yes"/><handShift medium="pencil" scribe="patient"/><hi rendition="#i">Irsee<lb break="yes"/><hi rendition="#u">d. 8. X. 32 </hi><lb break="yes"/>Heute nur ganz<lb break="yes"/>kurz geschlf.<lb break="yes"/>v. 10 Uhr<lb break="yes"/>schon<lb break="yes"/>wach bis<lb break="yes"/>gegen 4 Uhr<lb break="yes"/><hi rendition="#u">früh.</hi></hi><lb break="yes"/>Entsetzlich ist das Loos &amp;<lb break="yes"/>Regen &amp;.
+                    Nebel ist heute<lb break="yes"/>früh.<lb break="yes"/>Gottesd. nicht im <hi rendition="#i">Hause</hi><lb break="yes"/>Gottlob &amp; eine Beerdigung ist<lb break="yes"/>nicht<lb break="yes"/>Morgengruß sendet Dir heute<lb break="yes"/>wieder
+                    Lina</add><pb facs="#image_013"/><handShift medium="ink" scribe="patient"/>lacht uns herrlicher Sonnenschein.<lb break="yes"/>Gehst am
+                Sontag auf das Kolmanns<lb break="no"/>fest nach <hi rendition="#i">Schwangau</hi>?
+                Bitte auch dem<lb break="yes"/><hi rendition="#i">Xaver</hi> &amp;. Augusta und den
+                    <hi rendition="#i">Baroneßen </hi><lb break="yes"/><hi rendition="#i">Marie</hi>
+                &amp;. <hi rendition="#i">Olga</hi> die Grüße zu erwidern<lb break="yes"/>und <hi rendition="#i">Sie</hi> möchten zusamen wieder in<lb break="yes"/>Eschach gute
+                Kirchweih halten. Sonst geht<lb break="yes"/>es mir gesundheitlich wieder beßer<lb break="yes"/>nur mein Reisen und Schmerzen<lb break="yes"/>in den Beinen und
+                die viele Zug<lb break="no"/>luft im Hause ist bei dieser Kälte<lb break="yes"/>immer noch mehr empfindlicher. Gegen<lb break="yes"/>11-12 ha bin schon meistens
+                wieder wach<lb break="yes"/>in den Schmerzen und Schlaflosigkeit.<lb break="yes"/>Wünsche Dir vernügten Sontag und<lb break="yes"/>auch <hi rendition="#i">Burgi</hi> &amp; <hi rendition="#i">Pauline</hi> und
+                sonstigen<lb break="yes"/>Bekannten herzlichste Grüße. <seg ana="#salute">Besonders<lb break="yes"/>Du seist mir herzlichst gegrüßt und<lb break="yes"/>mit
+                    einem inigsten <hi rendition="#i">Vergelts Gott</hi> bin Gott<lb break="no"/>befohlen </seg><seg ana="#signed">Deine treue Freundin Lina</seg>
+</p>
+</body>
+</text>
+</TEI>

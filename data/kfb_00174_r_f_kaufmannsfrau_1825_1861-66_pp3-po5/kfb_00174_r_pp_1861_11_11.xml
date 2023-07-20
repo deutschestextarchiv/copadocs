@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb174r07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>174</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Rosette <surname>R.</surname></persName>
+<date type="sent">11.11.1861</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb174r">
+<persName>
+<forename>Rosette</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1825"/>
+<death cert="unknown"/>
+<occupation>Kaufmannsehegattin</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1861" to="1866">1861-66</date></p>
+<p>Brieftypen: po, pp</p>
+</state>
+<trait><p>Hysterie (1861)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+    Schreibt, dass die EInlieferung ein Irrtum war, sie denjenigen, die sie einliefern ließen aber verzeiht und hofft, bald reisen zu können.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb174r07a.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="kfb174r07b.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb174r07c.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><space/> Kinder und Narren reden die<lb break="yes"/>Wahrheit!<lb break="yes"/><hi rendition="#r">Etsche Petsch!</hi>− </p>
+<p><space/> Weil man mich doch nur für<lb break="yes"/>den Narren hält, so finde ich's
+                    begreif<lb break="no"/>lich, daß mich gewisse Leute ins<lb break="yes"/>Irrenhaus gethan haben. Ich ver<lb break="no"/>zeihe Ihnen dieses Unrecht<lb break="yes"/>− denn irren ist menschlich!<lb break="yes"/>Und ich mache
+                meinen unterthä<lb break="no"/>nigsten Dank bei meinen Leidens<lb break="no"/>Genossen, da meine ich alle dieje<lb break="no"/>nigen, die mich, auf so
+                ehrenvolle<lb break="yes"/>Weise und mit einem so jugendlichen<lb break="yes"/>Begleiter, hieher transportieren <pb facs="#image_015"/>zu lassen, die Güte
+                hatten!<lb break="yes"/>Ich hoffe seiner Zeit Beweise<lb break="yes"/>geben zu
+                können, daß den Leuten<lb break="yes"/>die Lust vergehen wird, mich<lb break="yes"/>ferner für den Narren zu<lb break="yes"/>halten. − </p>
+<p>Allen Respekt habe ich vor<lb break="yes"/>meiner Kasse, daß dieselbe die<lb break="yes"/>gute Eigenschaft hat, nicht leer<lb break="yes"/>werden zu wollen, sondern<lb break="yes"/>mir die Hoffnung macht, für<lb break="yes"/>ausgestandne Leiden,
+                ferner<lb break="yes"/>schöne Reisen machen zu dürfen,<lb break="yes"/>die mir
+                Gelegenheit geben, Interes<lb break="no"/>santes und Schönes, hören und<lb break="yes"/>sehen zu können. </p>
+<p><space/><seg ana="#salute">Schönen Gruß, und den Wunsch<lb break="yes"/>baldigster Entlassung aus dem<lb break="yes"/><seg ana="#inst">Labyrinth</seg></seg>. -</p>
+<p>Irrsee am<lb break="yes"/>11<hi rendition="#sup">t</hi>. <hi rendition="#i">November</hi>
+		        1861.<lb break="yes"/><hi rendition="#r">Philippinen Sassafraß!</hi></p>
+<pb facs="#image_016"/>
+<p>Sr. Hochwohlgeboren<lb break="yes"/>dem königl. Herrn<lb break="yes"/>Regierungs Assessor<lb break="yes"/><hi rendition="#i">von <surname>R.</surname> </hi><lb break="yes"/><hi rendition="#i">Ansbach</hi>. </p>
+</body>
+</text>
+</TEI>

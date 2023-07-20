@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2719r01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2719 (K. 280)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ignaz <surname>R.</surname></persName>
+<date type="sent">09.02. ca. 1914-1919</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Frau des Oberlehrers: n.a. <surname>V.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun2719r">
+<persName>
+<forename>Ignaz</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1845-11-05"/>
+<death when="1919-02-12"/>
+<occupation>Landwirt</occupation>
+<residence><geo decls="#WGS">51.9625101 7.6251879</geo>Geburtsort: Ahden; Wohnort: Münster</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Rittergutspächter, Mutter: Hausfrau</p>
+<p>Anstalt: <date from="1914-02-23" to="1919-02-12">23.02.1914-12.02.1919</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1914)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="pencil" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet um Rückgabe seiner Betten und droht andernfalls mit Klage.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2719r01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="mun2719r01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt. <hi rendition="#r">Münster
+                            i. W., den</hi></add><hi rendition="#r"> 9ten <hi rendition="#i">Februar</hi>
+<add hand="vordruck">191</add></hi></dateline>
+<salute>An die Frau des Herrn Oberlehrer<lb break="yes"/><hi rendition="#r"><surname><hi rendition="#i">V.</hi></surname>
+<hi rendition="#i">Münst</hi>er</hi></salute>
+</opener>
+<p><add hand="hand3"><hi rendition="#c"><unclear><del>O</del></unclear> <space/> <hi rendition="#u"><hi rendition="#i">Ad acta </hi><surname><hi rendition="#i">R.</hi></surname></hi><lb break="yes"/>G. </hi></add></p>
+<p>meine Betten und Kissen mit<lb break="yes"/>allem Zubehör, sind mir imer noch nicht,<lb break="yes"/>von der <hi rendition="#u">Frau</hi> (Frau) Oberlehrer<lb break="yes"/><surname><hi rendition="#i">V.</hi></surname>
+<w>zurück erstattet</w> worden.<lb break="yes"/>Wenn die Zurückerstattung am elften<lb break="yes"/>Februar Nachmittags noch nicht<lb break="yes"/>Zurückerstattet
+                ist, So verklage<lb break="yes"/>ich die Frau des Herrn Oberlehrers<lb break="yes"/><add place="margin"><hi rendition="#i">Dr</hi>.</add>
+<surname><hi rendition="#i">V.</hi></surname> dahin, daß die Frau<lb break="yes"/>Oberlehrer verurteilt werden<lb break="yes"/>soll: <hi rendition="#i">Erstens</hi>: die <hi rendition="#u">sämtlichen<lb break="yes"/>Kosten</hi> des
+                    <hi rendition="#u"><hi rendition="#i">Processes</hi></hi> zu tragen.<lb break="yes"/>Zweitens daß die <hi rendition="#u">Betten</hi> und etwa<lb break="yes"/>noch sonstige Sachen, wieder zu meinen<lb break="yes"/>Händen
+                gebracht (<del>gebracht</del>) werden<lb break="yes"/>müssen.<lb break="yes"/><hi rendition="#r">wenden</hi>
+</p>
+<pb facs="#image_002"/>
+<p>Aber auch der Herr <hi rendition="#i">Doktor</hi><lb break="yes"/>hat es mir zugesagt, daß er daf<unclear>ür</unclear><lb break="yes"/>sorgen werde, daß ich meine<lb break="yes"/>Betten unversehrt
+                wieder erhal<unclear>ten</unclear><lb break="yes"/>soll. </p><p><space/> Ich habe meine Betten<lb break="yes"/>schon eine Reihe von <hi rendition="#u">langen
+                        Jahre<unclear>n</unclear></hi><lb break="yes"/>Es wäre eine <hi rendition="#u">Gefühllosigkeit<lb break="yes"/>Hohen Grades</hi>, mir meine <w>so</w><w>lang<lb break="no"/>jährige</w>, in
+                meinem Gebrauch gehabt<unclear>en</unclear><lb break="yes"/>gehabten Decken <add place="above">und und</add> Betten, mir,<lb break="yes"/>diese <del>mir diese</del>, und obendrein<lb break="yes"/>widerrechtlich, zu entreißen.<lb break="yes"/><milestone rendition="#hr" unit="section"/>
+<hi rendition="#r"><milestone rendition="#hr" unit="section"/></hi></p>
+<p>Mit dem jetzigen hiesigen Bett bin <unclear>ich</unclear><lb break="yes"/><w>keines wegs</w> zufrieden. J werde den<lb break="yes"/>Hern
+                Ober=Pfleger <w>dies bezüglich</w> vorbri<unclear>ngen</unclear>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2012b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2012 (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>B.</surname></persName>
+<date type="sent">23.07.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Heilanstalt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Oelde</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun2012b">
+<persName>
+<forename>Franz</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1882-04-22"/>
+<death cert="unknown"/>
+<occupation>Schmied</occupation>
+<residence><geo decls="#WGS">51.8260823 8.1453352</geo>Geburtsort: Oelde; Wohnort: Oelde</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Schmiedemeister, Mutter: n.a.</p>
+<p>Anstalt: <date from="1906-07-16" to="1907-02-10">16.07.1906-10.02.1907</date></p>
+<p>Brieftypen: pp, po, ao, oa</p>
+</state>
+<trait><p>Geisteskrankheit (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="typewriter" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet darum, ihn über das Befinden seines Sohnes und die voraussrichtliche Dauer seiner Krankheit zu informieren.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2012b01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Oelde</hi>, den 23/7 1906.</hi></dateline>
+<salute><space/> An<lb break="yes"/><space/> die Provinzialheilan<lb break="no"/><space/> stalt <hi rendition="#i"><hi rendition="#u">Münster</hi></hi></salute>
+</opener>
+<p><add hand="hand2">Eing.</add> <add hand="hand3">24.7.06.</add><lb break="yes"/><add hand="hand2"><hi rendition="#c">01 10 <unclear>11</unclear>
+<space/>
+<unclear/>
+<hi rendition="#i">D<hi rendition="#sup">r</hi>. Többen</hi></hi>
+<hi rendition="#r"><hi rendition="#i">R</hi>. <hi rendition="#i">No</hi>
+<unclear>ß.</unclear> 2012/<hi rendition="#sub">06</hi></hi><lb break="yes"/><hi rendition="#c"><unclear>I. M. Dh.</unclear></hi></add></p>
+<p>Ich bitte, mir gütigst das<lb break="yes"/>Befinden etc. meines dort<lb break="yes"/>unterbrachten Sohnes Franz<lb break="yes"/>mitzuteilen. Auch wäre<lb break="yes"/>mir ein Urteil über die<lb break="yes"/>voraussichtliche dauer sei<lb break="no"/>ner Krankheit sehr er<lb break="no"/>wünscht.<lb break="yes"/><seg ana="#salute">Mit verbindlichsten dan<lb break="no"/>ke im Voraus zeichnet<lb break="yes"/><hi rendition="#r">Hochachtungsvoll!</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Franz
+                                </hi><surname><hi rendition="#i">B.</hi></surname></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

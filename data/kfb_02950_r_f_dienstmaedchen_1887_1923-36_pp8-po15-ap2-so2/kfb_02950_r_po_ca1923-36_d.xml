@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2950r13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2950</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>R.</surname></persName>
+<date type="sent">ca1923-36</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Abteilungsschwestern: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2950r">
+<persName>
+<forename>Magdalena</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1887"/>
+<death cert="unknown"/>
+<occupation>Dienstmädchen</occupation>
+<residence><geo decls="#WGS">47.6988348 10.321779800598831</geo>Kottern/Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schuhmacher</p>
+<p>Anstalt: <date from="1923" to="1936">1923-36</date></p>
+<p>Brieftypen: pp,po,ap</p>
+</state>
+<trait><p>[Suizidalität], Verfolgungswahn (1923), Versündigungsideen, Sinnestäuschungen, Willensstörungen (1828-36)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte nach Hause
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2950r13a.jpg" xml:id="image_033"/>
+<graphic mimeType="image/jpg" url="kfb2950r13b.jpg" xml:id="image_034"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_033"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#i">An die Ehrwürdige Schwestern auf d. Abteilung</hi></salute>
+</opener>
+<p> Den Datum weiß ich nicht; ich glaub Er heißt Vergißmeinicht<lb break="yes"/>Erlaube mir für
+                den lb. Brief ein par Zeilen zu erwidern.<lb break="yes"/>Hab einen so langen
+                Gedankengang u. z. Zt. einen großen Vgel<lb break="yes"/>im Kopf; daß Er ein eigens
+                Zim̄er braucht; u. bittet die Freiheit<lb break="yes"/>so bald wie möglich
+                zu erhalten. Je bälder ich hier wegkom;<lb break="yes"/>desto freudiger ich mich
+                zeig. Bin koi Stund sicher wen̄ Er dan̄<lb break="yes"/>wieder s
+                Rappeln anfängt. I lauf sonst hoim oder sitz an <w>Tele<lb break="no"/>graphestang</w> na die wird mi scho na bringa wo i hikör. Wißse<lb break="yes"/>a Schnäpsle got mir a; an trocknen hab i gnua; jetzt will i no<lb break="yes"/>wisse; wos heißt; Herr wir preisen deine Stärke - Wer erbarmt<lb break="yes"/>sich
+                eines armen verlassenen Wurms oder Schachtel ohne Deckel.<lb break="yes"/>Bete alle
+                Tage soviel u. wen̄ dieses nicht erhört wird; daun̄ weiß ich<lb break="yes"/>niht. Verzage nicht u. habe Mut, dan̄ wird wieder alles
+                gut. Ja die<lb break="yes"/>Welt ist schön man muß sie nur verstehn wie wirds mir
+                auf d. Heimfahrt gehen.</p><p>
+<add place="margin">Grüße an<lb break="yes"/>alle Schwester<lb break="yes"/>Schwestern u. <unclear>Auch an Frl. Wittwe u.</unclear></add></p><p>
+<add place="margin">Ausschuß v. Frauenverein</add></p>
+</body>
+</text>
+</TEI>

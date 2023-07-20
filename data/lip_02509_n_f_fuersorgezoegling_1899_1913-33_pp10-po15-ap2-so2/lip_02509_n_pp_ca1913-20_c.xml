@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip2509n18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>2509 (K. 170)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Erna <surname>N.</surname></persName>
+<date type="sent">ca. 1913-20</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip2509n">
+<persName>
+<forename>Erna</forename>
+<surname>N.</surname>
+</persName>
+<birth when="1899-07-10"/>
+<death cert="unknown"/>
+<occupation>Fürsorgezögling</occupation>
+<residence><geo decls="#WGS">51.347413849999995 7.569084715363729</geo>Geburtsort: Hohenlimburg; Wohnort: Hohenlimurg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater Buchbinder</p>
+<p>Anstalt: <date from="1913-08-19" to="1933-12-01">19.08.1913-24.11.1920; 17.02.1926-01.12.1933</date></p>
+<p>Brieftypen: pp, po, ap, so</p>
+</state>
+<trait><p>Psychopathie, Imbecillität</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Beiblatt zum Lebenslauf</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Sie schickt das Bild zurück, um es nicht zu zerreissen und möchte die Wahrheit erfahren.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip2509n18a.jpg" xml:id="image_055"/>
+<graphic mimeType="image/jpg" url="lip2509n18b.jpg" xml:id="image_056"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_055"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><space/> Carrlo nehmen Sie einstweilen Ihr Bild<lb break="yes"/>zurück denn
+                zerreißen möchte ich <add place="above">e<hi rendition="#i">s</hi></add> nicht wie<lb break="yes"/>das andere. Zeigen Sie un<hi rendition="#i">s</hi> Briefe Ihr
+                wahres<lb break="yes"/>Gesicht und gestehen Sie mir entlich die<lb break="yes"/><hi rendition="#r">Wahrheit für mich hat</hi><lb break="yes"/>dieses Bild dann alles verloren wenn<lb break="yes"/>die
+                Entscheidung fällt.<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Ihre
+                        Erna</seg></hi>
+<pb facs="#image_056"/><!--Fotografie-->
+</p>
+</body>
+</text>
+</TEI>

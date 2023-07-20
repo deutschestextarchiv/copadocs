@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb473s02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>473</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sophia <surname>S.</surname></persName>
+<date type="sent">29.11.1871</date>
+<date type="received">30.11.1871</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb473s">
+<persName>
+<forename>Josef</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1841"/>
+<death when="1871"/>
+<occupation>Maschinenschlosser</occupation>
+<residence><geo decls="#WGS">47.5352544 10.3050352</geo>Stein, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: "gänzlich vermögenslos"</p>
+<p>Anstalt: <date from="1871" to="1871">1871</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Melancholie, Angst (1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    wünscht Nachricht über das Befinden ihres Mannes
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb473s02.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg d. 2<del>8</del>9<hi rendition="#sup"><hi rendition="#u">ten</hi></hi></hi> N.<lb break="yes"/><add hand="arzt" place="top"><hi rendition="#i">pr</hi>. 30. Nov.
+                    1871</add></dateline>
+<salute>Werthester Herr Direktor!</salute>
+</opener>
+<p><w>So eben</w> habe ich die draurige<lb break="yes"/>Nachricht erhalten, daß es bei<lb break="yes"/>meinem Man̄ bedeutent
+                schlim̄er<lb break="yes"/>geht; welches ich nicht gehofft<lb break="yes"/>habe, Wie ich gelesen hab erhalte<lb break="yes"/>ich bald wieder Nachricht wobe<lb break="yes"/>ich Ihnen Herr Direktor ge<lb break="no"/>wieß dankbar bin, den
+                das wirde<lb break="yes"/>mich arg kränken wen ich meinen<lb break="yes"/>Man̄ nicht mehr sehet;<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Achtungsvoll</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">S. S.
+                </hi></seg></hi></p><p><add hand="arzt" place="bottom">Heute Morgen<lb break="yes"/>den bereits gestern<lb break="yes"/>Abends geschrieben Brif<lb break="yes"/>übgesendet<lb break="yes"/>30/11 71 <space/> <unclear>St.</unclear>
+</add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb500n06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Angela Hofmann</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>500</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Katharina <surname>N.</surname></persName>
+<date type="sent">28.03.1860</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sohn: Franz <surname>N.</surname></persName>
+<settlement type="sent">Hecken</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb500n">
+<persName>
+<forename>Franz</forename>
+<surname>N.</surname>
+</persName>
+<birth when="1821"/>
+<death cert="unknown"/>
+<occupation>Bauern- und Müllerssohn</occupation>
+<residence><geo decls="#WGS">48.3277485 11.9905263</geo>Hecken, Erding</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: wohlhabend</p>
+<p>Anstalt: <date from="1857" to="1860">1857-60</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Schwermut, [Suizidalität] (1857-1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    schickt Geld; Bekannte/Verwandte verstorben
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb500n06a.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><hi rendition="#r">Hecken den 28<lb break="yes"/>Marz 1860.</hi></dateline>
+<salute><space/> Lieber Sohn!</salute>
+</opener>
+<p>
+<add hand="arzt" place="above">31 Marz 1860</add>
+
+Hier überschicke ich dir 50f. wie Ihr, Du und<lb break="yes"/>der Sebastian euch verständiget habt, und wie<lb break="yes"/>auch, ich und deine Geschwißterte nichts entgegen<lb break="yes"/>haben, vorsichtig und bedachtsam wählen und<lb break="yes"/>die Sache nicht zu übertreiben, und besonders<lb break="yes"/>Gott um seine Gnade bitten, daß Er es zum<lb break="yes"/>Besten lenken wolle für Zeit und Ewigkeit,<lb break="yes"/>welches wir von ganzen Herzen wünschen<lb break="yes"/><seg ana="#salute">Jn Schutz Gottes empfehlend</seg> <seg ana="#signed">bleibe ich Deine<lb break="yes"/>um dich stets</seg></p>
+<p><seg ana="#signed"><hi rendition="#r">besorgte Mutter<lb break="yes"/>Katharina <surname>N.</surname>.</hi><lb break="yes"/>Auch ist deine <unclear>Gothe</unclear> Brodin<lb break="yes"/>von Gräsing im Schlag<lb break="yes"/>gestorben.</seg></p>
+<p>Bethe ja in dieser hl.<lb break="yes"/>Charwoche recht eifrig<lb break="yes"/>wie sehnlich ich dein Bestes<lb break="yes"/>wünsche das kanst du dir denken<lb break="yes"/></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1697e03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1697</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>E.</surname></persName>
+<date type="sent">15.08. ca1906-12</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Auguste <surname>P.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1697e">
+<persName>
+<forename>Maria</forename>
+<surname>E.</surname>
+</persName>
+<birth when="1858"/>
+<death when="1912"/>
+<occupation>Monteursehefrau</occupation>
+<residence><geo decls="#WGS">47.457056800000004 10.271660845701515</geo>Fischen, Sonthofen, geb. Zülen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1906" to="1912">1906-12</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>[Epilepsie], [Halluzination], [Suizidalität] (1906)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie bittet um Beistand und hofft, dass sie bald nach Hause kann. Ihr geht es schlecht.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1697e03a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1697e03b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r"><w>Kauf Beuerin</w> den 15. August</hi></dateline>
+<salute><hi rendition="#c">Liebe Auguste!</hi></salute>
+</opener>
+<p>Ich muß Dir auch noch einmal<lb break="yes"/>anbitten sei so gut u steh<lb break="yes"/>mir zur Seite noch hoffe<lb break="yes"/>ich immer nach mein
+                    Heim<lb break="yes"/>und dan werden wier uns<lb break="yes"/>einigen können nun
+                So gut<lb break="yes"/>und Sende Mier ein paar<lb break="yes"/>Mark per Post das ich
+                    mir<lb break="yes"/>eine Kleinichkeit antuhn<lb break="yes"/>kan denn den Tag
+                über Leben<lb break="yes"/>bei ein Top Wasser daß geht<lb break="yes"/>nur
+                    <del>das</del>schlecht und ich glaube nicht<lb break="yes"/>das ich es
+                    verdien<del>t</del>d hätte so<lb break="yes"/>zu leben hoffenlich
+                <del>d</del>seid ihr alle<lb break="yes"/>wohl und Munter nun
+                    Sch<del>h</del>reibe<lb break="yes"/>mir bald antwort. <seg ana="#salute">Nun
+                        Herzlichen<lb break="yes"/>Gruß an Auguste<lb break="yes"/><surname>P.</surname> u Deinen<lb break="yes"/>Mann</seg></p>
+<p><add place="margin">Gruß von Frau<lb break="yes"/><seg ana="#signed">Mraie
+                    <surname>E.</surname></seg></add><lb break="yes"/><w>Kauf Beierin</w><lb break="yes"/>u
+                Krankenhaus <w>Kauf B<del>a</del>uerin</w></p>
+<pb facs="#image_006"/>
+<p><add hand="arzt"><hi rendition="#i">Pat. leidet immer noch an epi<lb break="no"/>leptischen Anfällen u. Verwirrtheits-<lb break="yes"/>u.
+                        Aufregungszuständen. I. V.<lb break="yes"/><hi rendition="#r">DrKock.</hi></hi></add>
+</p>
+</body>
+</text>
+</TEI>

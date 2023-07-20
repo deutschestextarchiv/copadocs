@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l53" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName> <!--?-->
+<date type="sent">xx.07.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Patrizier</p>
+<p>Anstalt: <date from="1859" to="1872">1859-72</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon_red" scope="minor" scribe="arzt1"/>
+<handNote medium="ink" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin bedauert die Abwesenheit des Adressaten und drückt ihre Gefühle aus.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l53a.jpg" xml:id="image_143"/>
+<graphic mimeType="image/jpg" url="kfb519l53b.jpg" xml:id="image_144"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_143"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Verehrtester Herr <hi rendition="#i">Doctor</hi>!</hi></salute>
+</opener>
+<p><add hand="arzt1" place="top">im Juli 1859 nach <unclear/><lb break="yes"/><hi rendition="#r">adreßirt</hi></add>
+</p>
+<p><add hand="arzt2" place="top"><hi rendition="#r"><hi rendition="#u">24027.</hi></hi></add></p>
+<p>Nächste Woche die Gegend v Herieden bereisend,<lb break="yes"/>würde ich mir das
+                Vergnügen machen mich selbst<lb break="yes"/>nach <hi rendition="#i">Ihrem</hi>
+                Befinden zu erkundigen, wen̄ <hi rendition="#i">Sie</hi> es erlauben<lb break="yes"/>u. kein Hinderniß vorfällt. − <hi rendition="#i">D</hi>ie Zeit
+                    <hi rendition="#i">Ihrer</hi> Abwe<lb break="no"/>senheit ist hier eine Ewigkeit
+                − u kein Ort zu weit<lb break="yes"/>an den sich mein <hi rendition="#i">magnetisirtes</hi> Wesen nicht hingezogen<lb break="yes"/>fühlt. − <hi rendition="#i">D</hi>as so sehr naturschöne Triesdorf<lb break="yes"/>mit allen
+                Annehmlichkeiten wird gewiß auch wieder<lb break="yes"/>zu <hi rendition="#i">Ihrem</hi> besten Wohle beitragen. − Nur traurig, daß<lb break="yes"/><hi rendition="#i">Ihr</hi> Hr. Vater (: dieser eben so ausgezeichnet brave und
+                    all<lb break="no"/>berühmte Man̄ − nun nicht mehr ist. − <hi rendition="#i">Ihr</hi> l. Kind<lb break="yes"/>scheint recht wohl zu sein;
+                − ich habe es diesen, Som̄er öfter<lb break="yes"/>gesehen. Wär ich so
+                glücklich es zu haben. u wär ich<lb break="yes"/>so glücklich <hi rendition="#i">Ihre</hi> Magd zu sein!!!− Allein in jeder<lb break="yes"/>Eigenschaft
+                unberücksichtigt u (:villeicht aus eigen Verschulden,<lb break="yes"/>doh ohne
+                Wißen u. Willen:) ist <hi rendition="#u"><w>wahnsin̄ig</w><w>schmerzend</w></hi>!−<lb break="yes"/>Und die
+                Quallen meiner Verzweiflung sind: meine tiefe<lb break="yes"/>Verehrung und mein unbegrenztes Zutrauen.−<lb break="yes"/>die ganze Welt
+                hat keinen Ersatz für jene, die <hi rendition="#i">Ihne<unclear reason="damage">n</unclear></hi><lb break="yes"/>eimal mehr − und − dan̄ ferne sein soll.− </p>
+<pb facs="#image_144"/>
+<p> Wäre ich nicht in so angenehmen Lebensverhältniß<lb break="yes"/>u daher meist
+                einer sehr guten <add place="above">u heiter</add> Stim̄ug −
+                    <del>fähig</del> − so<lb break="yes"/>würde ich mir <add place="above">villeiht</add> schon längst den Todesstich versetzt<lb break="yes"/>haben. Und
+                wäre mir stets <hi rendition="#i">Ihr</hi> Wiedersehen und<lb break="yes"/>Hilfe
+                versagt, so <del>wäre der erste für <del>s</del>Sie u. der<lb break="yes"/>zweite
+                    mir.</del> − Dan̄ − ein Wiedersehen −<lb break="yes"/><hi rendition="#r">jenseits </hi><lb break="yes"/><hi rendition="#r"><seg ana="#salute">v <hi rendition="#i">Ihrer</hi> nur durch <hi rendition="#i">Sie</hi> Unglücklichen </seg><lb break="yes"/><seg ana="#signed">G </seg><lb break="yes"/>338. </hi></p>
+<p> Folgenden Montag Jhre Rückkehr erwartend, erfüllt<lb break="yes"/>uns mit <hi rendition="#u">Freude</hi>
+<unclear reason="damage"/> zu kurzer Erholungs<lb break="no"/>Zeit <unclear reason="damage"/>
+</p>
+</body>
+</text>
+</TEI>

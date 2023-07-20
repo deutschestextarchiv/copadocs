@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a39" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">04.09.1930</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat und Doktor</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1917" to="1931">1917-31</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er leidet unter seinen Wahnvorstellungen, immer unflätige Reime auf geistliche Wörter bilden zu müssen.
+                    Er bittet um eine bestimmte Behandlung, weil es ihm so schlecht geht.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a39a.jpg" xml:id="image_099"/>
+<graphic mimeType="image/jpg" url="kfb80a39b.jpg" xml:id="image_100"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_099"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#r">4.9.30</hi></add></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr Medizinalrat!<lb break="yes"/>&amp; sehr geehrter Herr Doktor! </hi></salute>
+</opener>
+<p>Meine <seg ana="#curse">verfluchte</seg> böse
+                    Gotteslästerungsqual kann<lb break="yes"/>ich nicht mehr aushalten. Sie
+                wird immer ärger.<lb break="yes"/>Den ganzen Tag solang ich wach <add place="above">bin</add>, auch unterm arbei<lb break="no"/>ten, hab ich folgende schreckliche
+                eckelhafte Gedanken im Kopf<lb break="yes"/>durch Teufelsgeister leider unzählige
+                Mal. Wie z. B.<lb break="yes"/>Gott = Kot = <seg ana="#curse">falsche Grott</seg> =
+                    <seg ana="#curse">geschissnes Kompot</seg>. leider<lb break="yes"/>Vater Unser
+                = <seg ana="#curse">Alte<del>s</del>r Brunzer. Alter Brunzer</seg>. leider.<lb break="yes"/>Kyrieleis = <seg ana="#curse">Alter Kikriki scheiß</seg>. leider.<lb break="yes"/>Heiliger Geist = <seg ana="#curse">der in die Hose
+                    scheißt</seg>. leider.<lb break="yes"/>Bei jedem Heiligen
+                    Wort kom̄t im̄er gleich ein verfluchter<lb break="yes"/>Gotteslästerungsreim ein böser Ausdruck.</p>
+<pb facs="#image_100"/>
+<p>Beim <seg ana="#inst">Tütenkleben</seg> heißt es leider: Soviel Tüten ich ge<lb break="no"/>macht habe wie z. B. 100 <seg ana="#curse">soviel mal lekt mich der<lb break="yes"/>Herrgott am Arsch</seg>. Ich kämpfe fest gegen die
+                Lästerei;<lb break="yes"/>aber sie kommt im̄er ärger.</p> <p>Bitte
+                Herr Medizinalrat! Helfen Sie mir &amp; geben<lb break="yes"/>Sie mir 8. od. 14
+                Tage lange <seg ana="#med">Trionalkur</seg> wie voriges<lb break="yes"/>Jahr Herr
+                Med. Dr. Fuchs es auch tat. Bekomme mit<lb break="yes"/>der Lästerungsqual oft sehr
+                arge Selbstmordgedan<lb break="no"/>ken &amp; Verführungen muß
+                mich mit Gewalt beherrschen.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Es grüßt Sie höflichst</seg>
+<hi rendition="#i"><seg ana="#signed">Hans
+                    <surname>A.</surname></seg>.</hi></hi></p>
+<p>Vorgestern gab ich dem <hi rendition="#i"><surname>S.</surname></hi> Hans 15
+                ₰. Er versprach<lb break="yes"/>mir dafür 1 Messerklinge. Gab sie mir aber
+                nicht,<lb break="yes"/>er hat mich um 15 ₰ betrogen.</p>
+</body>
+</text>
+</TEI>

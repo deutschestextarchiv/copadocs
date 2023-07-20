@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1439h10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1439</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Amalie <surname>H.</surname></persName>
+<date type="sent">ca1974-76</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1439h">
+<persName>
+<forename>Amalie</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1827"/>
+<death cert="unknown"/>
+<occupation>Landarzttochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Nördlingen/München, Stuttgart</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landarzt</p>
+<p>Anstalt: <date from="1874" to="1876">1874-76</date></p>
+<p>Brieftypen: pp, ap, ao, sonst.</p>
+</state>
+<trait><p>Melancholie</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>liste</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Aufzählung des Kofferinhalts
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1439h10a.jpg" xml:id="image_024"/>
+<graphic mimeType="image/jpg" url="kfb1439h10b.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb1439h10c.jpg" xml:id="image_026"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#c">Inhalt des Koffers.</hi>
+</p><p>6. P. Bettjaken<lb break="yes"/><unclear>7</unclear> − Hemden<lb break="yes"/><unclear/>
+                − Strumpf<lb break="yes"/>Handtücher<lb break="yes"/>Sacktücher<lb break="yes"/>Schwarze H Schürz<lb break="yes"/>Hausschürz<lb break="yes"/>Schla<del>a</del>fhauben<lb break="yes"/>P. Unterärmel<lb break="yes"/><unclear>w</unclear>eis wollen<unclear>er</unclear> u. ein grauer
+                    Schl<del>l</del>ips<lb break="yes"/><del>geh</del> gestreiftes u. ein gehägelt
+                Tüchle.<lb break="yes"/>Barben<lb break="yes"/>Hosen <pb facs="#image_025"/>2.
+                Unterleiblen<lb break="yes"/>1. Nähkörpchen mit Fäden u. Sch<unclear/><lb break="yes"/>2 − Lederstiefel<lb break="yes"/>1 − Lederhausschuhe
+                u. 1. par Zeugh<unclear/><add place="below">sch<unclear/></add><lb break="yes"/>1 − Zeugstiefel.<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/><hi rendition="#c"> Kleider</hi><lb break="yes"/>1 grau <w>P<unclear>ar</unclear></w><w><unclear>we</unclear>sch</w>
+                mit T<unclear>inek</unclear> u. <unclear/><lb break="yes"/>1 schwarz mit T<unclear>ineg</unclear> u. Iacke<lb break="yes"/>2
+                Braune 1 karrirt u. ein glattes<lb break="yes"/>1 Regenmantel mit Kragen<lb break="yes"/>1 weißwollener Kopfschal<lb break="yes"/>1 graues Iäckle<lb break="yes"/>1 weiß u schwarz klein karrirtes <unclear/><lb break="yes"/>1 schwarz u. weiß wollener <unclear>u</unclear><unclear/><lb break="yes"/><space/> ein rother wollener <handShift medium="pencil" scribe="patient"/>Unter<unclear>rock</unclear>
+<pb facs="#image_026"/><handShift medium="ink" scribe="patient"/>gestreiften Rock
+                mit schr<unclear>e<del>t</del></unclear>gem<lb break="yes"/>Saum von
+                Schwester Ricke<lb break="yes"/>weißer Schirtingrock<lb break="yes"/><unclear>sc</unclear>hottischen Rock<lb break="yes"/>blauer
+                    Schal<del>l</del><lb break="yes"/>schwarze Winterjacke</p>
+</body>
+</text>
+</TEI>

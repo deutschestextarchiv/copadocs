@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1834m01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1834</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>M.</surname></persName>
+<date type="sent">06.10.1891</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Wemding, Donauwörth</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1834m">
+<persName>
+<forename>Johann</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1815"/>
+<death when="1891"/>
+<occupation>Sattlergeselle</occupation>
+<residence><geo decls="#WGS">48.8745463 10.7240157</geo>Wemding, Donauwörth</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Gastwirt, Badbesitzer</p>
+<p>Anstalt: <date from="1872" to="1891">1872-1891</date></p>
+<p>Brieftypen: ap, ao</p>
+</state>
+<trait><p>Tobsucht (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Bruder des Patienten entschuldigt sich dafür, aufgrund seines hohen Alters nicht die Beerdigung des verstorbenen Patienten besuchen zu können .
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1834m01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Wemding den 6<hi rendition="#sup">ten</hi> <hi rendition="#i">October</hi> 1891.</hi></dateline>
+<salute><space/> <hi rendition="#i">Euer Hohwohlgeboren</hi>!</salute>
+</opener>
+<p><add hand="arzt" place="top">Rsp. 10.X.91</add></p>
+<p>Vor Allem spreche ich Jhnen <w>schuldig sten</w> und verbündlich<lb break="no"/>sten
+                dank und, über die gütige Mittheilung bezüglich<lb break="yes"/>welche ich am 18
+                Aug. über meinen Bruder <hi rendition="#i">Joh <surname>M.</surname></hi><lb break="yes"/>erheilt, u. ebenfalls über die delegraphise Mittheilung<lb break="yes"/>über seinen Todt welche mir der Stadtmagistrat mittheilte. </p>
+<p><space/> Ich würde zu seiner Beerdigung gekom̄en sein, allein<lb break="yes"/>mein Alter (79 Jahre.) u. da ich ohnehin angegriffen bin hindert<lb break="yes"/>mich hieran. </p>
+<p>Ich erlaube mir daher nochmal Ihre Güte in anspruch zu<lb break="yes"/>nehmen u. Sie
+                    <w>zu</w><w>bitten</w> mir güttigst mitteilen <w>zu</w><w>laßen</w><lb break="yes"/>ob sein Todt durch einen Schlaganfall, ob durch harten Kampf<lb break="yes"/>erfolgt ist, u. ob er die Tröstungen unserer heil. Religion<lb break="yes"/>erhalten hat. Einen Trauergottesdienst werde ich hier<lb break="yes"/>abhalten laßen. </p>
+<p><space/>
+<seg ana="#salute">Mit der Bitte meine Freiheit <w>zu</w><w>entschuldigen</w> u.
+                    Versicherung<lb break="yes"/>meiner vorzüglichen Hochachtung<lb break="yes"/><hi rendition="#r">ergebenster</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Jos.
+                                <surname>M.</surname></hi></seg> Privatier.</hi></p>
+<p>Die Mittheilung zahle ich gerne<lb break="yes"/>wen̄ sie was kostet, u. bitte<lb break="yes"/>selber <unclear>per</unclear> Post nachnehmen zu laßen.</p>
+</body>
+</text>
+</TEI>

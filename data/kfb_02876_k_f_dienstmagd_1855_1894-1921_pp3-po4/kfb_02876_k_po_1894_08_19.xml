@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2876k05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2876</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Luise <surname>K.</surname></persName>
+<date type="sent">19.08.1894</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2876k">
+<persName>
+<forename>Luise</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1855"/>
+<death when="1921"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Lehnkutscherseheleute</p>
+<p>Anstalt: <date from="1894" to="1921">1894-1921</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Größen- und Verfolgungsideen (1894), Neurose mit wahrscheinlich arterioskl. Anfällen (1920),  hypomanische Zustände (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>Die Patientin beschwert sich darüber, sich in einer bayerischen Anstalt zu befinden und verlangt nach einer Verlegung nach Görlitz. </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2876k05a.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb2876k05b.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren</hi>, d. 19. <hi rendition="#i">August</hi> 1894</hi></dateline>
+<salute>Sehr geehrter Herr Doktor!</salute>
+</opener>
+<p><hi rendition="#r">Mit Gegenwärtigem</hi><lb break="yes"/>erlaube ich mir, Sie höflich zu er<lb break="no"/>suchen, daß ich
+                so bald als möglich<lb break="yes"/>aus der erbärmlichsten, katholischen<lb break="yes"/>Kneipe Bayerns auf preußische Kos<lb break="no"/>ten nach <hi rendition="#i">Görlitz</hi>
+                abgeholt werde.<lb break="yes"/>Kost und Arzt spotten jeder Be<lb break="no"/>schreibung. Bei bayrischen Ärzten suche<lb break="yes"/>ich überhaupt keine Hilfe,
+                da Preußen<lb break="yes"/>tüchtige Ärzte besitzt. Wüßte ich nicht,<lb break="yes"/>daß norddeutsche Ärzte die Hirschberger<lb break="yes"/>Angelegenheit ergriffen
+                haben, hätte</p>
+<pb facs="#image_016"/>
+<p> ich nie den Mut gefunden, Sie<lb break="yes"/>mit einer Notiz zu belästigen.<lb break="yes"/>Die Nichte des Naturforschers<lb break="yes"/><hi rendition="#i">Levinson</hi> gehört nach Preußen.<lb break="yes"/><seg ana="#salute">Um recht
+                    baldige Erfüllung meiner Bitte ersucht</seg></p>
+<p><hi rendition="#r"><seg ana="#salute">hochachtungsvoll</seg></hi></p>
+<p><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Luise
+                            <surname>K.</surname></hi></seg><lb break="yes"/>kgl.
+                    Heil-Anstalt.</hi><lb break="yes"/>Herrn<hi rendition="#i"> D</hi><hi rendition="#sup"><hi rendition="#i">r</hi></hi><hi rendition="#i"> Menzel,</hi>
+                Arzt, <hi rendition="#i">Görlitz</hi>,<lb break="yes"/><hi rendition="#r">Wilhelms-Platz 12/I.</hi></p>
+</body>
+</text>
+</TEI>

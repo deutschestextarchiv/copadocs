@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2652m03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2652</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Crecenz/Kreßenzia/Kreßenz <surname>M.</surname></persName>
+<date type="sent">16.09.1850</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2652m">
+<persName>
+<forename>Alois/Aloys</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1798"/>
+<death cert="unknown"/>
+<occupation>Priester</occupation>
+<residence><geo decls="#WGS">48.4564554 10.8207702</geo>Gablingen, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1850" to="1852">1850-52</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Tobsuchtsanfälle (1850)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwester"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schwester des Patienten bittet den Direktor, eine Eingabe zu machen, damit der Patient eine "Zulage" erhält.
+                    Zudem soll er für sie erfragen, ob der Patient weitere Kleidung benötigt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2652m03a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb2652m03b.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg den 16<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> September<lb break="yes"/>1850.
+                    </hi></dateline>
+<salute><hi rendition="#c">Wohlgeborner Herr Direcktor!</hi></salute>
+</opener>
+<p>Jn der Angelegenheit meines <add place="inline">H.</add> Bruders war ich beim<lb break="yes"/>Ordinariate um für ihn um eine Zulage zu bitten;<lb break="yes"/>habe aber zur Antwort erhalten meine bitte allein<lb break="yes"/>würde nicht
+                nützen, sondern der Herr Diricktor möchte<lb break="yes"/>sich doch gütigst dafür
+                verwenden, daher bin ich so frei<lb break="yes"/>Sie zu bitten <w>wohlg eborner</w>
+                Herr Direcktor sie möchten<lb break="yes"/>doch so gütig sein, und eine Eingabe
+                machen, und dabei<lb break="yes"/>bemerken daß er so <w>w enig</w> habe und damit
+                unmöglich<lb break="yes"/><w>aus reichen</w> könne, und darum einer <w>Zulag e</w> sehr<lb break="yes"/>benöthigt wäre. − Wenn es Jhnen <w>wohlg eborner</w> Herr<lb break="yes"/>Direcktor nicht möglich wäre, so könnte mein <add place="inline">H.</add> Bruder<lb break="yes"/>vielleicht selbst darum einkommen wenn sie nur
+                ihr<lb break="yes"/>gütiges Wort hinzufügen würden. − </p>
+<p>Auch dürfte ich vielleicht noch so frei sein, und sie<lb break="yes"/>ersuchen.
+                meinen H. bruder zu fragen, ich möchte ihm<lb break="yes"/>einen Rock,
+                    B<del>l</del>einkleid und Weste schicken, der<lb break="yes"/>Schwager
+                    <surname>K.</surname> ist gestorben, und da würde ich es <pb facs="#image_009"/>in der Versteigerung kaufen, der Rock und die
+                    We<unclear>ste</unclear><lb break="yes"/>sind schwarz, es giebt aber auch einen dunkelgrünen<lb break="yes"/>welcher noch schöner ist, er möchte bestimmen, welch<unclear>en</unclear><lb break="yes"/>er <w>vorz ieht</w>, den würde ich dann kaufen. −<lb break="yes"/>Auch wollte ich ihm einen warmen Schlafrock und<lb break="yes"/>warme Schuhe für den Winter schicken wenn er es<lb break="yes"/>mag und es ihm
+                recht ist − </p>
+<p><seg ana="#salute">Jch bitte Sie <w>noch mals</w> um ihre gütige Verwendung<lb break="yes"/><hi rendition="#c">und
+                    bin </hi><lb break="yes"/><hi rendition="#r">Jhre ergebene<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed">Kreßenzia <surname><hi rendition="#u">M.</hi></surname>.</seg></hi></p>
+<p>meine Adresse ist.<lb break="yes"/>An die Jungfer<lb break="yes"/>Kreßenz
+                        <surname>M.</surname> wohnhaft in<lb break="yes"/><unclear>d</unclear>er Fuggerei <hi rendition="#i"><hi rendition="#u">No</hi></hi>. <hi rendition="#u">17</hi> in<lb break="yes"/><space/>
+<hi rendition="#u">Augsburg</hi></p>
+<p><space/> Meinem Herrn Bruder bitte ich viele Grüße zu s<unclear/></p>
+</body>
+</text>
+</TEI>

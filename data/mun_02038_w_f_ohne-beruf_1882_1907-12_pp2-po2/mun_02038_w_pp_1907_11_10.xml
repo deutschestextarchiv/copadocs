@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2038w03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2038 (K. 720)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>W.</surname></persName>
+<date type="sent">10.11.1907</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster i. W.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mun2038w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1882-02-27"/>
+<death cert="unknown"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">51.71895955 8.764869778177559</geo>Geburtsort: Paderborn; Wohnort: Paderborn</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: n.a.; Mutter: Hausfrau</p>
+<p>Anstalt: <date from="1907-04-04" to="1912-08-06">04.04.1907-06.08.1912</date></p>
+<p>Brieftypen: po, pp</p>
+</state>
+<trait><p>einfache Seelenstörung (1907)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie bittet darum, dass ihre Eltern sie sofort abholen, weil sie es in der Anstallt nicht mehr aushält.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2038w03a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="mun2038w03b.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt. <hi rendition="#r">Münster i. W., den</hi></add> <hi rendition="#r">10. 11. <add hand="vordruck">190</add>7.</hi></dateline>
+<salute><hi rendition="#c">Lieber Vater u. liebe Mutter!</hi></salute>
+</opener>
+<p><add hand="hand2">G 11/<hi rendition="#sub">11</hi>
+<hi rendition="#sup">0</hi>7 ad acta Frl. <surname><hi rendition="#i">W.</hi></surname><lb break="yes"/>G.</add></p><p>Euere lieben Brief und Paketchen habe ich<lb break="yes"/>erhalten. Ich danke Euch herzlich
+                dafür. Gewiß<lb break="yes"/>geht es Euch auch jetzt noch recht gut. Von mir<lb break="yes"/>kann ich Euch nicht's Gutes mitteilen, deshalb<lb break="yes"/>möchte ich Euch bitten mich so bald als möglich<lb break="yes"/>wieder zu holen.
+                Ich kann es hier nicht mehr<lb break="yes"/>aushalten und hoffe daß Ihr liebe
+                Eltern mich<lb break="yes"/>so bald als möglich holt, doch bitte gleich nach
+                Empfang<lb break="yes"/>dieses Briefes. Lieber will ich ja auf Alles ver<lb break="no"/>zichten nur holt mich fort, dieses Leben kann ich<lb break="yes"/>weiter nicht mehr ertragen darum denke ich auch<lb break="yes"/>nicht daß Ihr
+                mich noch länger hier laßt. Bitte<lb break="yes"/>kommet doch <w>so gleich</w>
+                damit ich es doch wieder etwas <pb facs="#image_011"/>besser bekomme. Zwei Monate
+                noch in diesem<lb break="yes"/>Hause zu bringen zu müssen wäre ja fürchterlich<lb break="yes"/><seg ana="#salute">Nun will ich schließen und hoffe daß Ihr so bald<lb break="yes"/>als möglich kommt mich abzuholen. Das<lb break="yes"/>weitere erzähle ich Euch dann.<lb break="yes"/>In herzlicher Liebe grüßt
+                    Euch</seg><lb break="yes"/><hi rendition="#r">Eure Tochter<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Maria</hi></seg>.</hi></p>
+</body>
+</text>
+</TEI>

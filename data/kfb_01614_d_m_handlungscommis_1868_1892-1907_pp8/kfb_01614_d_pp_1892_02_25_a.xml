@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1614d07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1614</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>D.</surname></persName>
+<date type="sent">25.02.1892</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Onkel: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1614d">
+<persName>
+<forename>Karl</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1868"/>
+<death when="1907"/>
+<occupation>Handlungscommis</occupation>
+<residence><geo decls="#WGS">48.6263543 10.745509</geo>Buttenwiesen, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Mühlbesitzerseheleute</p>
+<p>Anstalt: <date from="1892" to="1907">1892-1907</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Religiöse Schwärmerei (1892), Halluzinationen (1904)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+bittet um Verzeihung für sein Verhalten zuhause
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1614d07a.jpg" xml:id="image_020"/>
+<graphic mimeType="image/jpg" url="kfb1614d07b.jpg" xml:id="image_021"/>
+<graphic mimeType="image/jpg" url="kfb1614d07c.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="kfb1614d07d.jpg" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_020"/>
+<opener>
+<dateline><hi rendition="#i">Kaufbeuren</hi>, den 25. Febr 1892 </dateline>
+<salute>Libber Onkel</salute>
+</opener>
+<p>Auch dich habe<lb break="yes"/>ich bei meinem<lb break="yes"/>kurzen Aufenthalt<lb break="yes"/>bei dir beleidigt &amp;<lb break="yes"/>meine liebe Tante.<lb break="yes"/>Meinen lieben<lb break="yes"/>Vater habe ich so<lb break="no"/>eben recht um<lb break="yes"/>Verzeihung gebeten<lb break="yes"/>und hoffe auch von<lb break="yes"/>dir &amp; von der Tante <pb facs="#image_021"/> daß Ihr mir ver<lb break="no"/>zeihen möget.<lb break="yes"/>Ich habe mich<lb break="yes"/>schrecklich elend ge<lb break="no"/>macht, dadurch, daß<lb break="yes"/>ich meinen Vater so<lb break="yes"/>sehr
+                beleidigt habe.<lb break="yes"/>Aber ich kann<lb break="yes"/>es nicht mehr
+                    un<lb break="no"/>geschehen machen,<lb break="yes"/>wenn mir nur mein<lb break="yes"/>Vater wieder voll<lb break="no"/>ständig verzeiht,<lb break="yes"/>damit ich wieder<lb break="yes"/>sein Sohn werde. <pb facs="#image_022"/> O, wenn ich nur<lb break="yes"/>das Böße unter<lb break="no"/>lassen hätte, schon<lb break="yes"/>deshalb weil ich<lb break="yes"/>Gott dadurch be<lb break="no"/>leidigt, wenn es<lb break="yes"/>zu spät ist, sieht<lb break="yes"/>man erst recht seine<lb break="yes"/>Schuld
+                ein.<lb break="yes"/>Schicke mir bald<lb break="yes"/>lieber Onkel nur<lb break="yes"/>verzeihe deinem<lb break="yes"/>unglückseligen<lb break="yes"/>Neffen, der auch <pb facs="#image_023"/>auf deine Worte<lb break="yes"/><hi rendition="#u">nicht</hi> gehört hat.</p><p><space/> Verzeihe, verzeihe<lb break="yes"/>mir.</p><p><space/> Liebe Tante verzeihe<lb break="yes"/>auch Du mir nur<lb break="yes"/>ich danke Euch für<lb break="yes"/>Eure Liebe, die Ihr<lb break="yes"/>mir zwar ent<lb break="no"/>gegengebracht habt,<lb break="yes"/>aber die ich nicht<lb break="yes"/>erwiedert
+                habe.</p><p><hi rendition="#r"><seg ana="#salute">Mit besten Grüßen</seg><lb break="yes"/><seg ana="#signed">Euer Euch-liebender<lb break="yes"/>Neffe
+                            <hi rendition="#i">Carl</hi></seg></hi></p><p>Herrn<lb break="yes"/>Gerichtsvollzieher <surname><hi rendition="#i">D.</hi></surname><lb break="yes"/>in Neuburg<hi rendition="#i"> a/D</hi>.</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l80" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Patrizier</p>
+<p>Anstalt: <date from="1859" to="1872">1859-72</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Die Patientin erkundigt sich nach der Möglichkeit, einen bestimmten Arzt in Anspruch nehmen zu können.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l80a.jpg" xml:id="image_217"/>
+<graphic mimeType="image/jpg" url="kfb519l80b.jpg" xml:id="image_218"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_217"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Hochgeehrtester Herr!</hi></salute>
+</opener>
+<p>Wegen gegenwärtigem bedeutenden Unwohlsein auf die Ehre<lb break="yes"/>eines
+                persönlichen Benehmens verzichten zu müßen, werden hoch<lb break="no"/>dieselbe
+                einige Zeilen gütigst entschuldigen − mit der höflichsten<lb break="yes"/>Bitte enthaltend − <hi rendition="#i">Ihren</hi> hochgeehrtesten und
+                schätzbarsten Haus<lb break="no"/>Arzt <unclear>Ktl.</unclear> Herrn <hi rendition="#i">Dr. Müller</hi>, der als Mitglied in <hi rendition="#i">Ihrer</hi>
+                hohen Familie<lb break="yes"/>durch die Vortheile einer gesicherten u. glücklichen
+                    <w>Lebens Existenz</w><lb break="yes"/>u. durch die Versicherung: in Zukunft nur von sich selbst abhängig<lb break="yes"/>zu sein − seinen Wirkungskreis nach Außen in gewißen
+                    Be<lb break="no"/>ziehungen <unclear reason="damage">nun zu</unclear>
+                beschränken sucht − noch in Anspruch nehmen<lb break="yes"/>zu dürfen?
+                − Sollte es aber den Verhältnißen der Zeit oder<lb break="yes"/>seiner
+                eigenen <hi rendition="#i">Disposition</hi>, (die im Bewußtsein seiner unvergleich<lb break="no"/>baren u. unerschöpflichen Natur- u Geistes-Vorzüge durch entge<lb break="no"/>gen <hi rendition="#i">Extremitäten</hi> den Charakter eines
+                mächtigen <hi rendition="#i">Egoisten</hi>, oder <add place="above">wie</add><lb break="yes"/>auch den Zustand eines stets tiefen Leidens, der im
+                    <unclear>Kft.</unclear> Ehe-Ver<lb break="no"/>hältniß leider nur unglücklich
+                machen kan̄, aussprechend)− <pb facs="#image_218"/>entgegen sein, so
+                ist auch zu abschlägiger Antwort bereit −<lb break="yes"/><space/> die sich mit
+                Hochachtung nen̄t<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">M <surname>v.</surname></hi></seg><lb break="yes"/>ersuchend um eine kl Rückäuße<lb break="no"/>rung an der <hi rendition="#i">Porte</hi> gütigst zu<lb break="yes"/>hinterlaßen.
+                    −</hi>
+</p>
+</body>
+</text>
+</TEI>

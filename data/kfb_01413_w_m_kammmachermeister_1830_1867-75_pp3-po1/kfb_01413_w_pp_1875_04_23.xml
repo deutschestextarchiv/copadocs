@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1413w01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1413</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>W.</surname></persName>
+<date type="sent">23.04.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Alle: n.a.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1413w">
+<persName>
+<forename>Karl</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1830"/>
+<death cert="unknown"/>
+<occupation>Kammmachermeister</occupation>
+<residence><geo decls="#WGS">48.143242 10.2540507</geo>Babenhausen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Kammacher</p>
+<p>Anstalt: <date from="1867" to="1875">1867-1875</date></p>
+<p>Brieftypen: pp, so, ao</p>
+</state>
+<trait><p>Verrücktheit, Selbstüberhebung (1867)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient bittet um Vorbereitungen für seine baldige Entlassung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1413w01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1413w01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c">Irse den 23<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Aprill 1875</hi></dateline>
+<salute><hi rendition="#c">Meine Liebe Alle!</hi></salute>
+</opener>
+<p>kan̄ Euch die freudige Nachricht Mitt<lb break="no"/>theilen, daß ich noch
+                auf den Markt,<lb break="yes"/>nach Hauße kom̄e, ich werde alles<lb break="yes"/>wieder recht machen, dürft ohne alle<lb break="yes"/>Sorge sein,
+                so Nattürlich were es<lb break="yes"/>für, mich u. Euch ein Trauriges Leben<lb break="yes"/>ich werde dan̄ am Son̄tag abends<lb break="yes"/>mit
+                der Post kom̄en, sagt nur<lb break="yes"/>dem Schneider
+                    <surname>S.</surname> Er soll<lb break="yes"/>mir meine Hoße u. Schille
+                fertig<lb break="yes"/>machen, ich habe seid meinem<lb break="yes"/>hiersein gute
+                Pflege gehabt,<lb break="yes"/>ich bin gut mit den Herrn <pb facs="#image_002"/>hier ausgekom̄en, habe Ihnen mancher<lb break="yes"/>Stunde Unterhaltung
+                geleistet,<lb break="yes"/>Es sind seit meinem letzten hiehr<lb break="yes"/>sein
+                Viele gekom̄en die ich nicht<lb break="yes"/>kante, Es wird alles wieder<lb break="yes"/>ins alte geleiß kom̄en seid<lb break="yes"/>daher ohne
+                Sorge </p><p><space/> schließe mein schreiben<lb break="yes"/><seg ana="#salute">mit besten Grüßen an Euch alle</seg>
+</p><p><hi rendition="#c"><seg ana="#signed"><hi rendition="#i">C.</hi>
+<surname><hi rendition="#i">W.</hi>iedemann</surname></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

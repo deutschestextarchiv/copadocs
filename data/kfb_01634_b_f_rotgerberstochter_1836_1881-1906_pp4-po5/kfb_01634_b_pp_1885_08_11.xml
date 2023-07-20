@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1634b06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1634</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Lucie <surname>B.</surname></persName>
+<date type="sent">11.08.1885</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vetter: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1634b">
+<persName>
+<forename>Lucie</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1836"/>
+<death when="1906"/>
+<occupation>Rotgerberstochter</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Rotgerber; Vermögen 8300 M, "ohne selbständigen Erwerb"</p>
+<p>Anstalt: <date from="1881" to="1906">1881-1906</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Halluzinatorische Verrücktheit, angeborener Schwachsinn (1881)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Besuch, weiß, woran es ihr fehlt, bittet erneut um Besuch, richtet Grüße aus
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1634b06a.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb1634b06b.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb1634b06c.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren den <add place="above">11.</add> August
+                    1885.</hi></dateline>
+<salute><hi rendition="#r">Geehrtester Herr Vetter!</hi></salute>
+</opener>
+<p> Da ich schon längre Zeit dahier bin und<lb break="yes"/>befinde mich leider noch nicht
+                ganz gut und<lb break="yes"/>so find ichs für aller Höchst nothwendig daß<lb break="yes"/>man mich besuchen muß und daß mans doch<lb break="yes"/>mit den
+                Herr <w>Ober Arzts</w> ausmachen soll<lb break="yes"/>da ich
+                von Ihn bis jetzt nichts mehr bekommen<lb break="yes"/>habe wos ich doch für sehr
+                nothwendig finde<lb break="yes"/>denn ich habe mich lang gemg gelitten da ich
+                    schon<lb break="yes"/>weiß wos mir fehl daß man mich vollständig<lb break="yes"/>kuriren kann wie es sich gehört denn ich kann<lb break="yes"/>noch ein schönes
+                    <add place="above">alter</add> verleben. Herr Vetter wo<lb break="yes"/>Sie
+                doch Vormund für mich sind sollten Sie<lb break="yes"/>doch mehr bekäm̄ern
+                    <add place="above">um</add> mich und nicht <add place="above">nur</add> ander
+                    <pb facs="#image_016"/> Leut <w>über lassen</w> daß Sie
+                mit mir thun wie<lb break="yes"/>Sie mögen und Herr Vetter es ist jetzt noch<lb break="yes"/>eine schöne Zeit zum reißen und geht nicht so<lb break="yes"/>weit und Sie müßen halt um meine Kösten<lb break="yes"/>kommen da hilf halt alles
+                nichts und so bald<lb break="yes"/>wie es möglich ist. Sind Sie doch so
+                    freundlich?<lb break="yes"/>daß Sie mit mir mündlich sprechen mögen <w>mit<lb break="no"/>einander</w>. <seg ana="#salute">Und viele Herzliche grüße an
+                        die<lb break="yes"/>Frau Schwester Babette</seg> obwohl bei Ihr<lb break="yes"/>alles gesund ist und was Sie für eine Jugend<lb break="yes"/>bekommen hat, bin ich und meine Freundin<lb break="yes"/>bewundert weil Sie auch
+                von Lindau ist<lb break="yes"/>und mir täglich <w>zusam̄en kommen</w> nur<lb break="yes"/>ist Sie auf einer andern
+                Abtheilung und<lb break="yes"/>bitte Sie um recht Baldige Antwort <w>da<lb break="no"/>mit</w> ich weiß woran daß ich bin <seg ana="#salute">mit<lb break="yes"/>dießen beschließe ich mein schreiben</seg>
+<seg ana="#signed">und<lb break="yes"/>verbleibe eiere gehorsame Base.</seg></p>
+<p><seg ana="#signed"><hi rendition="#r"><hi rendition="#u">Fräulein Luzia.</hi></hi></seg>
+<pb facs="#image_017"/> An Herrn Jakob <surname>B.</surname><lb break="yes"/><hi rendition="#r"><w>Gerber Meister</w></hi><lb break="yes"/>in Lindau.</p>
+</body>
+</text>
+</TEI>

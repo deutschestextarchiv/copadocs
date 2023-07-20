@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1763s39" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katrin Schreinemachers</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1763</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>S.</surname></persName>
+<date type="sent">22.01.1913</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vetter:  <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1763s">
+<persName>
+<forename>Georg</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1831"/>
+<death when="1916"/>
+<occupation>Mahlknecht</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonomen</p>
+<p>Anstalt: <date from="1863" to="1916">1863-1916</date></p>
+<p>Brieftypen: pp, po </p>
+</state>
+<trait><p>Hypochondrie, (folie raisonnante)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet um Besuche und möchte Möglichkeit zum Beichten erhalten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1763s39a.jpg" xml:id="image_222"/>
+<graphic mimeType="image/jpg" url="kfb1763s39b.jpg" xml:id="image_223"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_222"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 22<hi rendition="#sup">ten</hi> Januar
+                    1913.</hi></dateline>
+<salute><hi rendition="#c">Geehrter Herr Vetter!</hi></salute>
+</opener>
+<p> Ich habe gehofft, daß ich längstens in 14 Tage eine<lb break="yes"/>Antwort bekom̄e,
+                daß meine Sache besorgt wird, und<lb break="yes"/>jetzt ist es 4 Wochen u. habe
+                noch keine Antwort<lb break="yes"/>bekom̄en. Wen̄ es gesorgt wird daß
+                ich zum Beichten<lb break="yes"/>gehen darf, wo ich mich vorbereiten kan̄
+                zum Sterben,<lb break="yes"/>so bitte ich, schreiben Sie mir sogleich eine
+                Antwort,<lb break="yes"/>u. schiken Sie mir meinen Brief wieder. Andere dürfen<lb break="yes"/>jede Woche, u. auch alle Tag alein ausgehen. Daher<lb break="yes"/>hab ich auch das Recht zum Ausgehen. Wen̄ Sie aber<lb break="yes"/>noch
+                nichts wißen, daß ich zum Beichten gehen darf, dan̄<lb break="yes"/>bitte
+                ich, daß Sie mich sogleich besuchen, ich habe Ihnen<lb break="yes"/>noch etwas
+                mitzuteilen, was mehr als 10 Reißgelder<lb break="yes"/>wert ist, das Reißgeld
+                bezahle ja ich. Ich gieb Ihnen<lb break="yes"/>eine Schrift mit, dan̄
+                kön̄en Sie sogleich das Geld hollen,<lb break="yes"/>u. das Andere
+                bekom̄en doch auch Sie in die Hand, da<lb break="yes"/>ich es bei mir nicht
+                aufbewahren kan̄. Wen̄ Sie keinen<lb break="yes"/>Honig haben bringen
+                Sie mir Äpfel mit, u. so rote<lb break="yes"/>saure Beer wie an dem Garten beim
+                    <surname>G.</surname> wachsen<lb break="yes"/>damit kan̄ ich um ein
+                Mark Honig ersparen.<lb break="yes"/>Ich wünsche Ihnen auch daß Sie in Zukunft
+                    beßere<lb break="yes"/>Geschäfte machen, als mit der Bauren-Arbeit.<lb break="yes"/>Sie müßen nicht den Pfenig sparen, u. die hunderte <pb facs="#image_223"/>  Mark verlieren was ich den Leuten gelien habe.<lb break="yes"/>Jetzt haben Zeit daß Sie mich besuchen. Es ist jeden<lb break="no"/>falls beßer wen̄ Sie mit mir sprechen, als schreiben.<lb break="yes"/>Ich hoffe daß Sie mich besuchen, sogleich, oder schiken<lb break="yes"/>Sie mir
+                den Brief bis wan̄ Sie mich besuchen.<lb break="yes"/>Blatz ist da noch
+    genug zum schreiben.<lb break="yes"/><seg ana="#salute">Ich grüße Euch, Vetter u. Base freundlich</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#c">Euer Vetter Georg <surname>S.</surname></hi></seg><lb break="yes"/>Nochmal, besuchen Sie mich auf jeden Fall.  </p>
+</body>
+</text>
+</TEI>

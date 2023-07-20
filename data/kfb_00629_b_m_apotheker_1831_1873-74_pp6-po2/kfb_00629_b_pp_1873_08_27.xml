@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb629b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>629</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>B.</surname></persName>
+<date type="sent">27.08.1873</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Präsident: n.a. <surname>L.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb629b">
+<persName>
+<forename>Ludwig</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1831"/>
+<death cert="unknown"/>
+<occupation>Apotheker</occupation>
+<residence><geo decls="#WGS">47.8803788 10.622246</geo>Kaufbeuren</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1873" to="1874">1873-1874</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Alkoholismus], Apathie, Tobsucht (1873)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Befreiung und Weiterleitung der Nachricht an Freunde und seine Frau
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb629b03a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb629b03b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#r">Telegraphische Tepschesche.</hi><lb break="yes"/>An herrn Präsidenten von<lb break="yes"/><hi rendition="#i"><surname>L.</surname></hi>:</salute>
+</opener>
+<p>Ych werde wieder<lb break="no"/>natürlich in <hi rendition="#i">Irsee</hi> festgehalten<lb break="yes"/>und bitte meinen freund <hi rendition="#i">Metrel</hi><lb break="yes"/>von meinem <hi rendition="#i">Loose</hi> mich von meinen<lb break="yes"/>Freunde <hi rendition="#i">Metrel</hi> befreit werd.<lb break="yes"/><hi rendition="#r">Kaufbeuren d.<lb break="yes"/>27. 8. 73<lb break="yes"/><seg ana="#signed"><hi rendition="#i"><surname>B.</surname></hi><lb break="yes"/>Apothe<unclear>cer</unclear></seg></hi></p>
+<p>
+<hi rendition="#c">Lieber Freund!</hi><lb break="yes"/>Folgende Telepesche
+                    befördern!<lb break="yes"/>augenblick an die tellen. Den̄ ich werde<lb break="yes"/>ich kurzen Tagen verückt.<lb break="yes"/>Meine Frau schärfe ein,
+                heute noch<lb break="yes"/>mich abzuholen und <hi rendition="#i"><surname>R.</surname></hi> mit<lb break="yes"/><hi rendition="#r">zunehmen.<lb break="yes"/><seg ana="#signed"><hi rendition="#i"><surname>B.</surname></hi></seg></hi>
+</p>
+<pb facs="#image_004"/>
+<p><hi rendition="#r">Herrn Präsidenten<lb break="yes"/><hi rendition="#i">Herrman̄<lb break="yes"/>Augsburg</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

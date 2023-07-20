@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1969m04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1969</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Michael <surname>M.</surname></persName>
+<date type="sent">21.08.1903</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1969m">
+<persName>
+<forename>Michael</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1855"/>
+<death when="1908"/>
+<occupation>Pferdewärter, Dienstknecht "kein Vermögen"</occupation>
+<residence><geo decls="#WGS">48.63467 10.3196907</geo>Bachhagel, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1879" to="1908">1879-1908</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie, Psychose, epileptiforme Krämpfe (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    unverständlich
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1969m04a.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline/>
+<salute>An Hern Dohdor</salute>
+</opener>
+<p><surname>M.</surname> 2 aus<lb break="yes"/>Reden ich bin kein Sau bin<lb break="yes"/>Wieser Her in von die Herr a<lb break="yes"/>Pegar der Sau Herein niht an<lb break="no"/>Saffen die Sulden... für Sie<lb break="yes"/>zal ich nicht ich bin Ein<lb break="yes"/>Jünling... Ein Jehder in<lb break="yes"/>der Kih... Arleid für ich bin<lb break="yes"/>Den Adel Wer mer<lb break="yes"/>kan sol es ton<lb break="yes"/><hi rendition="#c">ich Wüsche Euh<lb break="yes"/>den Friden</hi></p>
+<p><add hand="arzt"><hi rendition="#r"><hi rendition="#i">Ad Acta <hi rendition="#u"><surname>M.</surname> M.</hi><lb break="yes"/>v. i 21 VIII. 03.<lb break="yes"/>DrAtz.</hi></hi></add>
+</p>
+</body>
+</text>
+</TEI>

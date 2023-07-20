@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb77j20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>77</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehemann: Josef <surname>J.</surname></persName>
+<date type="sent">02.07.1851</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb77j">
+<persName>
+<forename>Maria Clara</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1792"/>
+<death cert="unknown"/>
+<occupation>Klaviersfabrikantfrau</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1850" to="1857">1850-1857</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Reizbarkeit, Agilitaet</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehemann"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Ehemann der Patientin wendet sich nach eigener Erkrankung an den Direktor der Anstalt. Dieser gibt dem Ehemann zudem Auskunft über den Zustand seiner Frau.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb77j20a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München</hi> 2. <hi rendition="#i">Juli</hi>
+                    1851.</hi></dateline>
+<salute><space/> Hochgeehrter Herr Direcktor!</salute>
+</opener>
+<p>In kurzen Worten meinen höflichen Dank für das<lb break="yes"/>Zeugniß, welches
+                nach einigen Kreutz u. Querfahrten<lb break="yes"/>endlich doch mir <w>zu
+                gekom̄en</w> ist. − Ich kann nur wenig<lb break="yes"/>schreiben weil ich
+                heute das erste mal nach 13 tägigem Lager<lb break="yes"/>wieder auser dem bette
+                bin, u. mich noch <hi rendition="#u">sehr</hi> schwach fühle. </p>
+<p><space/> Bitte meiner frau das Billet zu übergeben. O! wenn<lb break="yes"/>es nur
+                gut ginge! Die traurige Krankheit meiner frau<lb break="yes"/>kostet mich gewiß
+                auch das Leben. </p>
+<p><seg ana="#salute"><hi rendition="#c">In besonderer Hochachtung<lb break="yes"/>Euer
+                        Wohlgeboren</hi><lb break="yes"/><hi rendition="#r">ergebenster: </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Ig. Jos.
+                    <surname>J.</surname></seg></hi>
+</p>
+<p><add hand="arzt">d. 12 Juli 51. <hi rendition="#r">Mit bedauern habe ich
+                        vernom̄en, daß Sie krank waren, hoffe<lb break="yes"/>aber, daß sie
+                        wieder d. Gesundh. erlangt haben, dere<unclear>r</unclear> Sie jetzt so sehr
+                        bedürfen </hi><lb break="yes"/>Ihren brief habe ich Ihrer Frau Gemahlin
+                    übergeben. Deren Zustand<lb break="yes"/>ist aber leider im̄er noch
+                    derselbe. Jetzt <del>behauptet sie, ihre</del> äußert sie<lb break="yes"/>sich
+                    dahin, dß ihre frühere behauptung, nicht arbeiten u haushalten zu<lb break="yes"/>können, bloße bosheit gewesen, dß sie eine
+                        Verbrecher<unclear>in</unclear>
+<unclear>sei u dgl</unclear><lb break="yes"/><del><unclear>er</unclear></del> und hat somit ihr
+                        <unclear>Wahn</unclear><unclear/>
+<add place="above">auf</add> einen andern Gegenstand geworfen.<lb break="yes"/>Sie <del>meint</del> würde <del><unclear>der</unclear></del> jetzt eben so
+                    wenig dazu fähig sein als früher<lb break="yes"/><del>Wir</del>
+<w>Ich</w><w>habe</w> jetzt eine <unclear>Mineralwasserung</unclear> mit ihr
+                    begon̄en; <unclear>vo</unclear>llenst<lb break="yes"/><del>kann</del> ist sie von Erfolg.
+                        <del>Indem ich hoffe, da</del></add>
+</p>
+</body>
+</text>
+</TEI>

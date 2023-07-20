@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2905m09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2905</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Helene <surname>M.</surname></persName>
+<date type="sent">05.04.1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Evangelische Schulkommission</persName>
+<settlement type="sent">Kaufbeuren, Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2905m">
+<persName>
+<forename>Helene</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1848"/>
+<death when="1925"/>
+<occupation>Nudelfabrikanten-/Taglöhnerfrau</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern:</p>
+<p>Anstalt: <date from="1880" to="1925">1880-1925</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Fixe Ideen, Beeinträchtigungswahn (1881)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie zählt Politiker auf.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2905m09.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_029"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuri Irrsee den 5. April
+                    1898.0</hi></dateline>
+<salute><space/> Lieber Requisiti Jackob Georg Matthäus Christian Heinrich
+                    Friedrich<lb break="yes"/>Friedrich Wilhelm<del><unclear/></del>
+<surname>M.</surname> bei Äschache Evangelisch Schulkommission</salute>
+</opener>
+<p>Nun muß ich heute euch hochachtungsvollst theur requisitten<lb break="yes"/>nächstens sind Herr Regierungs Subjekttermino Objeckt<lb break="yes"/>trepppreciö
+                Oberregiererrath Herr Regierengerrath Herr<lb break="yes"/>von Speierregierungs
+                sofort trupppreciö Obermedicinal<lb break="no"/>rath Herr von
+                    <surname>K.</surname> reserv visitiv von Docktor<lb break="yes"/>Herr Helferich Professor Herr Docktor Rechtwalt <surname>H.</surname><lb break="yes"/>gerichtlicher Gerr Oberamtsrichter von Neuul<unclear/> mitbetheilig<lb break="yes"/>gerichtlich hier reisender RechtsAnwalt Docktor
+                    <surname>H.</surname><lb break="yes"/>von München neuerding gerichtlicher Rebgartensspeckulant<lb break="yes"/>treffend der Herr Regierungerrath von <surname>L.</surname>
+                treffend<lb break="yes"/>der Reichstagabgeordneter Docktor <surname>V.</surname>
+                v. Augsburg gütigst<lb break="yes"/>trupppreciö öffentlich Herr Regierungrath Herr<lb break="yes"/>von <surname>S.</surname> von Augsburg gerichtlicherrath
+                Herr<lb break="yes"/>Bürgermeister <surname>K.</surname> von Kempten Herr<lb break="yes"/>Deckan Herr <surname>H.</surname> von Kempten Herr<lb break="yes"/>Oberlandesgerichterrath <surname>W.</surname> im Königlich
+                    <w>Oberlandes<lb break="yes"/>gerichtsschreibbehörd</w> Docktor
+                    <surname>H.</surname> im Spitalsstrev<lb break="yes"/>Kemptens Spital Artzt
+                trupppreciös <w>Stubbezirkgerichts<lb break="yes"/>Schreibbehörd</w> Docktor
+                    <surname>K.</surname> königlicher Advokat von<lb break="yes"/>Kempten werd
+                daselbst treffend die einzig <surname>G.</surname> geboren<lb break="yes"/>nervverschwachern Markkrankheitensschreibbitten<lb break="yes"/>neuerdings
+                sum̄iren</p>
+</body>
+</text>
+</TEI>

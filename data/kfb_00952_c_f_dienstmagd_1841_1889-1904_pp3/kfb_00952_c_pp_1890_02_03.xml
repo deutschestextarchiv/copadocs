@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb952c02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>952</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>C.</surname></persName>
+<date type="sent">03.02.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Lena <surname>F.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb952c">
+<persName>
+<forename>Magdalena</forename>
+<surname>C.</surname>
+</persName>
+<birth when="1841"/>
+<death when="1904"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: "Illeg. Tochter einer Taglöhnerin, welche im Wochenbette starb und eines gut situierten verheirateten Bürgers"</p>
+<p>Anstalt: <date from="1889" to="1904">1889-1904</date></p>
+<p>Brieftypen: ao, pp</p>
+</state>
+<trait><p>Depression, Melancholie (1889), halluzinatorischer Verfolgungswahn (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will abgeholt werden, sie hat Heimweh, die Schwester soll sie besuchen kommen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb952c02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb952c02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><add hand="arzt">3. II. 90</add></dateline>
+<salute><hi rendition="#c">Liebe Schwester</hi></salute>
+</opener>
+<p>
+Ich will dir nur schreiben daß ich gar keine Ruhe<lb break="yes"/>habe ich hab was auf dem Herzen ist jemand schlecht<lb break="yes"/>gewest wo er doch im̄er so rechtschaffen war und hatt<lb break="yes"/><del>in</del> im was zugetragen ist den̄ im H<unclear>au</unclear> swesen was<lb break="yes"/>gestohlen worden wo sie doch nicht daheim war<lb break="yes"/>ist denn dein Mann gestern auf die Reise gegangen<lb break="yes"/><del>war</del> <del>i</del> liebe Schwester ich bitte dich es geth schon<lb break="yes"/>lange ein Feuer bei Kaufbeuern und bei der Nacht<lb break="yes"/>läutet man mit den Glocken <del>ist den dein Mann</del><lb break="yes"/>ist alles wohl ich hab heimweh hol mich doch eim<lb break="yes"/>den Herrn <surname>A.</surname> mit ich kans nicht mehr aus<lb break="no"/>halten ist den vieles im Haushalt <del>vieles</del> fortge<lb break="no"/>kom̄en hatt man Schlüssel auf mich machen lassen<lb break="yes"/>ist den̄ ein Herr mit graue Hosen und mit einer<lb break="yes"/>"schweren" Tafel ins Haus gekom̄en libe Schwester<lb break="yes"/>kom̄m doch ich hab heimweh <del>ist</del> sind den̄ Besser
+				    
+<pb facs="#image_004"/>
+fortgekom̄en hatt den der Hans ein Bett gekom̄en<lb break="yes"/>ist den die Frau <surname>T.</surname> bei dir liebe Schwester<lb break="yes"/>ich bitt dich kom̄ doch ich möcht dich sehen.<lb break="yes"/>ich möchte noch wissen ob du im̄er das Essen<lb break="yes"/>hast bezahlen und den Kaaffee hast du damals<lb break="yes"/>im Spital die Datschen gebacken wo die Schwestern<lb break="yes"/>mir raus geboten haben. ich muß dir noch was<lb break="yes"/>schreiben <del>das fürchtig ist weil man im̄er so<lb break="yes"/>bei der Nacht:</del> daß ich vieles hab entbehren<lb break="yes"/>müssen jetzt muß ich schließen liebe Lena<lb break="yes"/>kom̄e doch bald ich hab Sehnsucht nach dir.</p>
+<p>Liebe Herr Schwager kom̄ doch. <seg ana="#salute">Es grüßt dich </seg><seg ana="#signed">deine<lb break="yes"/><hi rendition="#r">dich liebende Schwester<lb break="yes"/>Magdalena.</hi></seg><lb break="yes"/><add hand="arzt"><surname>C.</surname></add>
+</p>
+</body>
+</text>
+</TEI>

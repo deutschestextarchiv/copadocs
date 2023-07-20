@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1969m03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1969</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Anton <surname>M.</surname></persName>
+<date type="sent">09.12.1896</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Michael <surname>M.</surname></persName>
+<settlement type="sent">Weiden</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1969m">
+<persName>
+<forename>Michael</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1855"/>
+<death when="1908"/>
+<occupation>Pferdewärter, Dienstknecht "kein Vermögen"</occupation>
+<residence><geo decls="#WGS">48.63467 10.3196907</geo>Bachhagel, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1879" to="1908">1879-1908</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie, Psychose, epileptiforme Krämpfe (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="bruder"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    entschuldigt sich, dass er noch nicht zu Besuch gekommen ist; kann ihn auch das folgende Jahr nicht besuchen;
+                    verspricht aber nächsten Sommer mit dem Bruder zu kommen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1969m03a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb1969m03b.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1969m03c.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Weiden</hi>, 9. Dezbr. 1896.</hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder Michael!</hi></salute>
+</opener>
+<p> Vor allem bitte ich Dich um Entschuldigung<lb break="yes"/>dahin, daß es mir bisher nicht
+                möglich war,<lb break="yes"/>mein Versprechen zu halten und Dich zu<lb break="yes"/>besuchen. Vergangenes Frühjahr war ich<lb break="yes"/>Willens solches zu thun,
+                da jedoch mein<lb break="yes"/>Gesuch um Versetzung auf eine leichtere<lb break="yes"/>Station, aus Gesundheitsrüksichten<lb break="yes"/>von Seite
+                meiner vorgesetzten Behörde<lb break="yes"/>eine Berücksichtigung fand, war ich<lb break="yes"/>genöthigt, meinen Urlaub zum<lb break="yes"/>Umzuge von
+                Beilegries hieher<lb break="yes"/>zu benützen.<lb break="yes"/><space/> Nachdem ich voraussichtlich <unclear>rer</unclear><lb break="yes"/>nächstem Som̄er keinen Urlaub <pb facs="#image_005"/> erhalte, mir es somit
+                auch nicht<lb break="yes"/>möglich ist, Dich lieber Bruder zu<lb break="yes"/>besuchen, was mir sehr leid thut, so<lb break="yes"/>bitte ich Dich auch im Namen
+                    der<lb break="yes"/>Brüder Du möchtest uns so gut es<lb break="yes"/>Dir
+                möglich ist, ausführlichen Brief<lb break="yes"/>über Dein Befinden zu
+                    kom̄en<lb break="yes"/>lassen.<lb break="yes"/><space/> Zum bevorstehendem Jahrewchsel<lb break="yes"/>übersende ich Dir lieber
+                Bruder hiemit<lb break="yes"/>jetzt schon die herzlichsten Glückwünsche<lb break="yes"/>auch im Namen der Brüder, unser<lb break="yes"/>einziger Wunsch
+                geht dahin daß Dir<lb break="yes"/>der Geber alles Guten baldige <w>Gesund<lb break="yes"/>heit</w> schenken möchte.<lb break="yes"/>Bruder Alois
+                befindt sich noch<lb break="yes"/>in Amerika, er und seine Frau:<lb break="yes"/>sind Gott sei Dank gesund. <pb facs="#image_006"/> Vom Bruder Joh. und Bernhard<lb break="yes"/>habe ich vor Einiger Zeit Brief<lb break="yes"/>erhalten,
+                dieselben klagen über<lb break="yes"/>die heurige schlechte Ernte und<lb break="yes"/>den Betrieb der Landwirtschaft<lb break="yes"/>überhaupt.<lb break="yes"/><space/> Bruder Joh. hat mir versprochen<lb break="yes"/>nächsten Som̄er mit
+                mir Dich<lb break="yes"/>lieber Bruder zu besuchen.<lb break="yes"/>In Erwartung
+                baldiger Nachricht<lb break="yes"/><seg ana="#salute">beschließe ich mit vielen herzlichen<lb break="yes"/>Grüßen</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r">Dein Dich liebender<lb break="yes"/>Bruder
+                        Anton.</hi></seg>
+</p>
+</body>
+</text>
+</TEI>

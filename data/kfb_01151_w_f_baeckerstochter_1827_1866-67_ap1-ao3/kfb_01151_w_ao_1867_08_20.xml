@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1151w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1151</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Joseph <surname>W.</surname></persName>
+<date type="sent">20.08.1867</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Schopflohe</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1151w">
+<persName>
+<forename>Josepha</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1827"/>
+<death cert="unknown"/>
+<occupation>Bäckerstochter</occupation>
+<residence><geo decls="#WGS">48.9801924 10.4830007</geo>Schopflohe, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bäcker</p>
+<p>Anstalt: <date from="1866" to="1867">1866-67</date></p>
+<p>Brieftypen: ap, ao</p>
+</state>
+<trait><p>Verrücktheit, Verstandesschwäche (1867)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Zusendung des "Kostgeldes"
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1151w04.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r">Schopflohe d. 20.<lb break="yes"/><hi rendition="#i">Aug</hi>. 1867.</hi></dateline>
+<salute>Königliche Verwaltung<lb break="yes"/>der Kreis-Jrrenanstalt<lb break="yes"/>in <hi rendition="#i">Irsee</hi>!</salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#r"><hi rendition="#i">prs</hi>. am 25 <hi rendition="#i">Aug</hi> 1867<lb break="yes"/><hi rendition="#i">E N</hi>
+                        2747</hi></add></p><p>Kostgeld für <hi rendition="#i">Josepha</hi><lb break="yes"/><surname><hi rendition="#i">W.</hi></surname> betr.</p><p>Man beehrt sich in Anlage <hi rendition="#i">rubr</hi>. Kostgeld <hi rendition="#i">pro</hi><lb break="yes"/><hi rendition="#i">Iuli</hi>, <hi rendition="#i">Aug</hi>. u. <hi rendition="#i">Sept</hi>. 1867 mit<lb break="yes"/><hi rendition="#c">41fl 3xr 6fl. </hi><lb break="yes"/>zu übersenden
+            </p><p><seg ana="#salute">Mit ausgezeichneter Hochachtung besteht </seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Joseph <surname>W.</surname></seg><lb break="yes"/>Bruder d. Patientin</hi></p><p><add hand="arzt"><add place="margin"><unclear><hi rendition="#i">fct</hi></unclear><lb break="yes"/><hi rendition="#i">eodem</hi><lb break="yes"/>EmpfangsAnzeige<lb break="yes"/><hi rendition="#i"><unclear>D</unclear>V</hi>.
+                        <space/> W<unclear>r</unclear></add></add></p>
+</body>
+</text>
+</TEI>

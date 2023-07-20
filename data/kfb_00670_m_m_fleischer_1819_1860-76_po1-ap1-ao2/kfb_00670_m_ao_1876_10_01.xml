@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb670m04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>670</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vinzens/Vincenz <surname>M.</surname></persName>
+<date type="sent">01.10.1876</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Günzburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb670m">
+<persName>
+<forename>Johann Nepomuk</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1819"/>
+<death when="1876"/>
+<occupation>Landgerichtsassessor</occupation>
+<residence><geo decls="#WGS">48.4539028 10.2785509</geo>Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Fleischer</p>
+<p>Anstalt: <date from="1860" to="1876">1860-1876</date></p>
+<p>Brieftypen: po, ap, ao</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="verwalter"/>
+<handNote medium="pencil" scope="minor" scribe="verwalter2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bedankt sich für die übersendete Kleidung seines verstorbenen Bruders und erkundigt sich nach einem fehlenden Schlafrock.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb670m04.JPG" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><hi rendition="#r">Günzburg den 1<hi rendition="#sup">t</hi>. Oktobr
+                            <hi rendition="#u">1876</hi><lb break="yes"/><add hand="verwalter"><hi rendition="#i">pr.</hi> 3.
+                            <unclear/></add></hi></dateline>
+<salute><hi rendition="#c">An die verwaltung der <w>Kreiß Irren Anstald</w> Jrrse. </hi></salute>
+</opener>
+<p><add hand="verwalter2" place="top"><hi rendition="#c">530</hi></add>
+</p>
+<p>Die Kleider von meinem Bruder <hi rendition="#i">Johan
+                    <surname>M.</surname></hi><lb break="yes"/>Asesor habe ich erhalten welche alle in bester<lb break="yes"/>Ordnung wahren weshalb ich Ihnen Freundlichst<lb break="yes"/>Danke, jedoch ein
+                    Schla<del>ß</del>frock welcher warscheinlich noch<lb break="yes"/>vorhanden
+                sein wird hat sich nicht vorgefunden<lb break="yes"/>weshalb ich Sie ersuche den
+                selben noch <w>zu</w><w>schicken</w><lb break="yes"/><space/>
+<seg ana="#salute">Achtungsfoll zeichnet </seg><lb break="yes"/><hi rendition="#r"><unclear/>
+<seg ana="#signed">Vinzens <surname>M.</surname></seg><lb break="yes"/>Metzgermeist</hi>
+</p>
+<p><add hand="verwalter"><space/> N<hi rendition="#sup">o</hi> 598<lb break="yes"/><space/> Am 4/ X. 76.<lb break="yes"/>Auf Ihr Schreiben v. 1 d. M. bemerken<lb break="yes"/>wir Ihnen, daß Ihr
+                    verstorbener<lb break="yes"/>Hr. Bruder schon seit Jahren keinen<lb break="yes"/>Schlafrock mehr trug, der früher<lb break="yes"/>von ihm
+                    benützte aber so abgetragen<lb break="yes"/>war, daß er abgeschrieben werden<lb break="yes"/>mußte.<lb break="yes"/><space/>
+<unclear>W :</unclear><lb break="yes"/><hi rendition="#c"><unclear>Wd.</unclear></hi></add></p>
+</body>
+</text>
+</TEI>

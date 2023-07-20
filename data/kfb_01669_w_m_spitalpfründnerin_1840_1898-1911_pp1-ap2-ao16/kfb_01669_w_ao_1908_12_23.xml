@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1669w15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1669</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Philippina ("Lina") <surname>H.</surname></persName>
+<date type="sent">23.12.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Dr. Zierl</persName>
+<settlement type="sent">Lindau</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1669w">
+<persName>
+<forename>Babette</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1840"/>
+<death when="1911"/>
+<occupation>Spitalpfründnerin</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Tuchscherer</p>
+<p>Anstalt: <date from="1898" to="1911">1898-1911</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Idiotie (1899), [Wahnideen, Halluzinationen]</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erkundigt sich nach dem Befinden der Patientin.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1669w15.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline><hi rendition="#r">Lindau den 23 Dezb 1908.</hi></dateline>
+<salute><hi rendition="#c">Sehr Geehrter Herr Direktor!</hi></salute>
+</opener>
+<p>Ersuche höfl um Nachricht über das<lb break="yes"/>Befinden, von meiner lieben
+                Schwester<lb break="yes"/>Babette <surname>W.</surname>. </p><p>Für Ihre werthe Bemühung spreche ich<lb break="yes"/>im voraus meinen besten Dank aus.  </p><p><hi rendition="#c"><seg ana="#salute">Zeichne<lb break="yes"/><space/> Hochachtungsvoll
+                    </seg><lb break="yes"/><seg ana="#signed">Frau Philippina <surname>H.</surname>.</seg></hi></p><p><add hand="arzt"><hi rendition="#i">Unverändert, hallucinirt, oft erregt, zankt laut<lb break="yes"/>mit sich
+                    selbst, geht hin u. her, gestikuliert lebhaft,<lb break="yes"/>Äussert
+                    verworrene Verfolgungsideen. Sonst ruhig,<lb break="yes"/>apatisch, schweigsam.
+                    Körp. wohl. </hi><lb break="yes"/><hi rendition="#c">2<del>6</del>7.12.08.</hi> <hi rendition="#r"><hi rendition="#i">D<hi rendition="#sup">r</hi> Zierl</hi></hi>
+</add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1621b20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1621</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Martin <surname>B.</surname></persName>
+<date type="sent">31.05.1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder:  <surname>B.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1621b">
+<persName>
+<forename>Martin</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1832"/>
+<death when="1906"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.2433959 10.3634009</geo>Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater Schneider, Mutter Hausiererin</p>
+<p>Anstalt: <date from="1890" to="1906">1890-1906</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Secundäre Seelenstörung (1894), [Alkoholismus], Halluzination (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schreiber"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sein Bruder soll ihm die Schwester oder die Schwägerin zum Abholen schicken und die neue Adresse seiner Frau ausfindig machen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1621b20a.jpg" xml:id="image_067"/>
+<graphic mimeType="image/jpg" url="kfb1621b20b.jpg" xml:id="image_068"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_067"/>
+<opener>
+<dateline>Irsee den 31 / Mai 1898.<lb break="yes"/></dateline>
+<salute><hi rendition="#c">Lieber Bruder!</hi><lb break="yes"/></salute>
+</opener>
+<p> Ich habe sonst Niemand, an dem Ich mich<lb break="yes"/>wenden könnte, der mir behilflich
+                    sein<lb break="yes"/>würde; als an Dich, es ist hart für mich<lb break="yes"/>das ich Dir nochmal schreiben muß.<lb break="yes"/>Ich kenne es jetzt selber, das
+                es Dir<lb break="yes"/>nicht Ernst war mich zu besuchen, daher<lb break="yes"/>nehme ich zu Dir nochmal Die Hoffnung<lb break="yes"/>Du wirst mir auch Diesesmal
+                    Behilflich<lb break="yes"/>sein bei der Schwester Josepha, ein gutes<lb break="yes"/>Wort beilegegen. oder bei Deinem Weib<lb break="yes"/>Es soll
+                eine so gut sein gegen mich, um<lb break="yes"/>mich zu besuchen. Es würde mich
+				    von<lb break="yes"/>Herzen freuen, daß Ich einnmal persönlich<lb break="yes"/>reden kennte, wenn Niemand kommt, zu<lb break="yes"/>mir auf Besuch so kann man
+                mich nicht<lb break="yes"/>entlassen. also lieber Bruder, mache Ernst<lb break="yes"/>das dein Weib oder die Schwester zu mir<lb break="yes"/>herrauf
+                kom̄en kann, das Ich mit Ihr persön<lb break="no"/>lich reden kann. Denn das
+                Leben hat hier<lb break="yes"/>für mich keinen Werth Ich möchte auch<lb break="yes"/>wieder meine Freiheit haben. Ich hoffe Du <pb facs="#image_068"/> wirst mich
+                Dieses mal nicht mehr so lange<lb break="yes"/>warten lassen und mir eine
+                    umgehende<lb break="yes"/>Antwort schreiben, ob Jemand kom̄t zu mir<lb break="yes"/>auf Besuch, mache es mir auch zu wissen, wo<lb break="yes"/>mein
+                Weib und meine Tochter sich jetzt<lb break="yes"/>aufhalten. schreib recht bald,
+                laß mich nicht<lb break="yes"/>mehr im Ungewissen warten. Soll ich nochmal<lb break="yes"/>an den Bürgermeister schreiben oder an wen?<lb break="yes"/></p>
+<p> <seg ana="#signed">Dein<lb break="yes"/><hi rendition="#c">dankbarer Bruder<lb break="yes"/><lb break="yes"/>Martin <surname>B.</surname></hi><lb break="yes"/><lb break="yes"/><seg ana="#salute">nebst Gruß an Euch Alle.</seg><lb break="yes"/><lb break="yes"/>Herrn Michael <surname>B.</surname><lb break="yes"/><lb break="yes"/>wohnhaft im Ziegelhaus<lb break="yes"/><lb break="yes"/>nebst dem Viehmarkt<lb break="yes"/>in<lb break="yes"/>Krumbach.</seg>
+</p>
+</body>
+</text>
+</TEI>

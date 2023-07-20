@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1659a02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1659</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kaspar <surname>A.</surname></persName>
+<date type="sent">01.11.1895</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Cousine: n.a. <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1659a">
+<persName>
+<forename>Kaspar</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1913"/>
+<occupation>Schneider, Unteroffizier</occupation>
+<residence><geo decls="#WGS">48.7990056 10.7444384</geo>Mündling, Donauwörth</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1879" to="1913">1879-1913</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Halluzinatorische Paranoia (1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Antrag, eine vergessene Tabakpfeife selbst bei Cousine abholen zu dürfen. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1659a02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb1659a02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Irrsee dem 1. Nov<lb break="yes"/>1895.</hi></dateline>
+<salute>Wertheste Frau <unclear>Hase</unclear>!</salute>
+</opener>
+<p><add hand="arzt" place="margin">ad <surname>A.</surname></add><lb break="yes"/>Ich
+                habe einmal wie <del>s</del>Sie sig wohl<lb break="yes"/>auch erin̄ern
+                werden, dem Haus<lb break="no"/>herren <surname>H.</surname> geschnitten auf<lb break="yes"/>der Stadelten̄e für seine Kühe auf<lb break="yes"/>Ihren
+                    Antr<del>g</del>ag hier -- <unclear>gestelt</unclear>.<lb break="yes"/>Dagegen
+                ersuche ich Sie nun<lb break="yes"/>mir mein Rauchzeug bestehend<lb break="yes"/>aus einer Tabackspfeife, einer<lb break="yes"/>Schweinsblase und etwas Rauch<lb break="no"/>tabak, welchen, ich bei meinem letzten<lb break="yes"/>Besuche, den
+                ich von der Anstalt<lb break="yes"/>aus unternom̄en hatte in Ihrem<lb break="yes"/>Hause - liegen ließ = zu über<lb break="no"/>senden. Es ist ein
+                Gegenstand der<lb break="yes"/>kgl. Militäradministration, und<lb break="yes"/>dürfte Ihnen die Ausweisung<lb break="yes"/>dieses Gegenstandes an seinen ge<lb break="no"/>setzlichen Ort, kaum zur<lb break="yes"/>Beschwerde sein. - </p>
+<p>Nog lieber aber wäre es mir, </p>
+<pb facs="#image_004"/>
+<p> wen ich von der gemeinde<lb break="yes"/>aus Order bekäme diesen Rauch<lb break="no"/>zeug - selbst zu holen, so daß ich mit<lb break="no"/>hin in der
+                Lage wäre meinem<lb break="yes"/>Heimweh etwas zu steuern<lb break="yes"/>insoferne, als einer Ausweisung<lb break="yes"/>eines Zahlungsmandates von<lb break="yes"/>der Gemeindeverwaltung aus an<lb break="yes"/>die Verwaltung der
+                Anstalt<lb break="yes"/>/: sieh, die Aushändigung eines be<lb break="no"/>trages
+                zur Heimreise an den<lb break="yes"/>Gesuchsteller Kaspar <surname>A.</surname><lb break="yes"/>zum Zweck des Besuches seiner<lb break="yes"/>in der gemeinde
+                Mündling<lb break="yes"/>weilend an Verwandschaft :/<lb break="yes"/>auch von der
+                Direktion aus<lb break="yes"/>nichts mehr im Wege steht.<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Ihr ergebenster Vetter<lb break="yes"/>Kaspar
+                            <surname>A.</surname></seg></hi>
+</p>
+<p><hi rendition="#c">Meine Adresse ist "An<lb break="yes"/>Kaspar
+                        <surname>A.</surname>, Patient in<lb break="yes"/>Irrenanstalt Irrse. in
+                    Irrse</hi>.</p>
+</body>
+</text>
+</TEI>

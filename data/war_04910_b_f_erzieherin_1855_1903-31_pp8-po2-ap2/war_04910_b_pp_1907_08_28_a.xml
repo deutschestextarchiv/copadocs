@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="war4910b09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 660: Warstein</collection>
+<idno>4910 (K. xx)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>B.</surname></persName>
+<date type="sent">28.08.1907</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Neffe: Walther <surname>K.</surname></persName>
+<settlement type="sent">Warstein</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="war4910b">
+<persName>
+<forename>Anna</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1855-04-07"/>
+<death cert="unknown"/>
+<occupation>Erzieherin</occupation>
+<residence><geo decls="#WGS">52.0191005 8.531007</geo>Geburtsort: n.a.; Wohnort: Bielefeld</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Buchhändler, Mutter: ohne Beruf</p>
+<p>Anstalt: <date from="1903-03-14" to="1931">14.03.1903-1931</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>einfache Seelenstörung (1903)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="ink_red" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin berichtet, dass sie der Mutter des Adressaten geschrieben hat.
+                    Sie sendet dem Adressaten gute Wünsche zum Geburtstag.
+                    Sie reagiert auf eine Erzählung seiner Schwester.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="war4910b09a.jpg" xml:id="image_021"/>
+<graphic mimeType="image/jpg" url="war4910b09b.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="war4910b09c.jpg" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Warstein Kreis</hi><lb break="yes"/><hi rendition="#i">Arnsberg</hi><lb break="yes"/><hi rendition="#i">Villa Stephany</hi><lb break="yes"/>28. VIII. 1907</hi></dateline>
+<salute><hi rendition="#c">Lieber, guter <hi rendition="#i">Walther</hi>!</hi></salute>
+</opener>
+<p><hi rendition="#c"><hi rendition="#i"><foreign xml:lang="lat">Vivat</foreign> Walther</hi>!</hi></p>
+<p><space/> Gestern schrieb ich Deiner<lb break="yes"/>lieben Mutter; unsere Briefe<lb break="yes"/>haben sich gekreuzt! −<lb break="yes"/>In Deinem kommen<lb break="no"/>den Lebensjahre wün<lb break="no"/>sche ich Dir viel Glück<lb break="yes"/>und Gottes reichsten<lb break="yes"/>Segen. Der Ernst des <pb facs="#image_022"/>Lebens tritt an Dich heran.<lb break="yes"/><space/> Deine
+                Schwester schrieb<lb break="yes"/>mir; daß sie sich in Deinen<lb break="yes"/><hi rendition="#i">Inse</hi><del><unclear><hi rendition="#i">v</hi></unclear></del><hi rendition="#i">pressibles</hi> herrlich ver<lb break="no"/>gnügt hätte! −
+                Aber! die<lb break="yes"/>must Du doch für <hi rendition="#i">Bern</hi><lb break="no"/><hi rendition="#i">nardus</hi> aufbewahren.<lb break="yes"/>Ich habe
+                meines Bruders<lb break="yes"/>Buchsen nie angezogen<lb break="yes"/>wohl aber
+                Großpapa's Über<lb break="no"/>zieher. Heute ist das rechte<lb break="yes"/>Wetter
+                um die Getreide<lb break="yes"/>Garben zu trocknen. <seg ana="#salute">Sei<lb break="yes"/>recht vergnügt an Deinem<lb break="yes"/>Geburtstag und
+                    behalte lieb<lb break="yes"/>Deine <w>Dich</w><w>liebende</w> Tante</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed"><hi rendition="#i">Anna</hi></seg></hi>
+</p>
+<pb facs="#image_023"/>
+<p><add hand="hand2"><hi rendition="#i">Frl. </hi><surname><hi rendition="#i">B.</hi></surname><hi rendition="#i"> </hi><lb break="yes"/><unclear><hi rendition="#i">Dr Tehw</hi></unclear></add><lb break="yes"/><hi rendition="#i">Herrn St</hi><hi rendition="#sup"><hi rendition="#i">nd</hi></hi><hi rendition="#i"> Walther </hi><surname><hi rendition="#i">K.</hi></surname><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">Adr. Herrn Baumeister J. F. </hi><surname><hi rendition="#i">K.</hi></surname><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Dordmund</hi></hi><lb break="yes"/>am <hi rendition="#i">Kaiser Wilhem Hain </hi><lb break="yes"/><hi rendition="#i">f<hi rendition="#u">r</hi></hi>!<lb break="yes"/><add hand="hand3"><space/>
+<surname><hi rendition="#i">B.</hi></surname></add>
+</p>
+</body>
+</text>
+</TEI>

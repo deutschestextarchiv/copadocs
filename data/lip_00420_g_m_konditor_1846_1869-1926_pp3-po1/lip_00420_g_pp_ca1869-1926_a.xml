@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip420g04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>420 (K. 100)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Friedrich Wilhelm <surname>G.</surname></persName>
+<date type="sent">ca. 1869-1926</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freund: n.a. <surname>G.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip420g">
+<persName>
+<forename>Friedrich Wilhelm</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1846-10-04"/>
+<death when="1926-10-10"/>
+<occupation>Konditor</occupation>
+<residence><geo decls="#WGS">51.3434582 7.5074393</geo>Geburtsort: Delstern; Wohnort: Delstern</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Arbeiter</p>
+<p>Anstalt: <date from="1869-04-10" to="1926-10-10">10.04.1869-10.10.1926</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Schizophrenie</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient wünscht Nachricht, ob er beim König Gnade finden wird, ansonsten möchte er Land verlassen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip420g04.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Geehrter Herr <surname>G.</surname></hi></salute>
+</opener>
+<p><add hand="arzt" place="top">17</add><lb break="yes"/>Ich bitte Sie mir dieses schreiben<lb break="yes"/>was ich Ihnen
+                zuschicken werde<lb break="yes"/>nachzusehen und <unclear>durch</unclear> dann
+                    auf<lb break="no"/>schluß geben ob ich beim Könige<lb break="yes"/>Gnade finde
+                oder nicht. Wenn<lb break="yes"/>Sie es nicht glauben so möchte<lb break="yes"/>ich Sie bitten mir mit Ihrer<lb break="yes"/>Tochter in ein anderes Land zu<lb break="yes"/>schiecken, was mir von Gott<lb break="yes"/>verheißen wird. </p><p><space/> Hiermit will ich schließen<lb break="yes"/>in der Hoffnung daß ich von<lb break="yes"/>Ihnen und Ihrer Tochter eine<lb break="yes"/>etwas tröstliche Antwort<lb break="yes"/>bekomme<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Es grüßt</seg> <seg ana="#signed">Ihr treuer<lb break="yes"/>Herzensfreund<lb break="yes"/>Friedrich
+                        <surname>G.</surname>.</seg></hi>
+</p>
+</body>
+</text>
+</TEI>

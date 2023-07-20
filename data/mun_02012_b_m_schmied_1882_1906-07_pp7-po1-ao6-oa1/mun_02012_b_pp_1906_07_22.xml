@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2012b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2012 (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>B.</surname></persName>
+<date type="sent">22.07.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern, Geschwister: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun2012b">
+<persName>
+<forename>Franz</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1882-04-22"/>
+<death cert="unknown"/>
+<occupation>Schmied</occupation>
+<residence><geo decls="#WGS">51.8260823 8.1453352</geo>Geburtsort: Oelde; Wohnort: Oelde</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Schmiedemeister, Mutter: n.a.</p>
+<p>Anstalt: <date from="1906-07-16" to="1907-02-10">16.07.1906-10.02.1907</date></p>
+<p>Brieftypen: pp, po, ao, oa</p>
+</state>
+<trait><p>Geisteskrankheit (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+<handNote medium="crayon" scope="minor" scribe="hand4"/>
+<handNote medium="pencil" scope="minor" scribe="hand5"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber möchte wissen, warum er in der Anstalt ist.
+                    Er möchte wieder an die Arbeit und bittet um Geld für die Heimfahrt.
+                    Er betont seine beruflichen Fähigkeiten im Vergleich zu anderen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2012b03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="mun2012b03b.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="mun2012b03c.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="mun2012b03d.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt. <hi rendition="#r">Münster
+                            i.W., den</hi></add><hi rendition="#r"> 22 Juli. <add hand="vordruck">190</add>6</hi></dateline>
+<salute><hi rendition="#c">Liebe Eltern und Geschw.</hi></salute>
+</opener>
+<p><add hand="hand3">25./7 06 <hi rendition="#u" style="hand4">ad acta</hi></add> <add hand="hand5"><surname><hi rendition="#i">B.</hi></surname></add><lb break="yes"/><hi rendition="#c"><add hand="hand3">G </add><lb break="yes"/><add hand="hand5"><del><unclear><hi rendition="#i">Prämeier</hi></unclear></del></add></hi>
+</p>
+<p>Bin schon zeit Monntag hier und möchte<lb break="yes"/>gerne erfahren aus welchen
+                Grunde ich<lb break="yes"/>hier sein solte. Habe doch hier keine<lb break="yes"/>Geschäftliche Angelegenheiten zu Befördern<lb break="yes"/>Es hatt mir die Acht
+                Tage ganz gut<lb break="yes"/>gefallen, und möhte wieder an meine<lb break="yes"/>Arbeit Habe noch keine Rohr und<lb break="yes"/>kein Eisen bestelt. Mir fehlt
+                auch<lb break="yes"/>einige Mark Geld das ich wieder<lb break="yes"/>nach
+                        <placeName><hi rendition="#i">Oelde</hi></placeName> fahren kann. Senden<lb break="yes"/>Sie mir bitte einige <hi rendition="#i">M</hi>ark Geld <pb facs="#image_007"/>dan fahre ich Manntag nach <placeName><hi rendition="#i">Oelde</hi></placeName><lb break="yes"/>Ich möchte gerne wissen welcher das<lb break="yes"/>beansprucht
+                hatt. den möchte ich seine<lb break="yes"/>wenigen Kentnisse noch inspesieren<lb break="yes"/>Ode wenn einer von uns das<lb break="yes"/>Beansprucht hatt und
+                mir zu viel<lb break="yes"/>ist, dan wärde ich mich Bemühen<lb break="yes"/>eine
+                Stelle in <hi rendition="#i">Münster</hi> zu<lb break="yes"/>verschaffen. oder ich
+                mache noch weite<lb break="yes"/>von Hause fort, und werde die<lb break="yes"/>ersten Jahr nich wieder nach <placeName><hi rendition="#i">Oelde</hi></placeName><lb break="yes"/>kommen und werde dort<lb break="yes"/>Bemüht sein für mich eine
+                Schmiede<lb break="yes"/>annehmen oder Pachten. </p>
+<pb facs="#image_008"/>
+<p>dan werde ich auf der Viehwage<lb break="yes"/>versichten. Ohne mich ist doch keiner
+                von<lb break="yes"/>uns im Stande dort das Vieh zu<lb break="yes"/>wiegen, dem
+                Könnt ihr meinetwegen<lb break="yes"/>für meinen Schwager dort das Gebäude<lb break="yes"/>bauen lassen. Dan wird der doch reichlich<lb break="yes"/>Besorgt
+                sein, Ich für meine Person<lb break="yes"/>gebrache nähmlich kein Geld von andere<lb break="yes"/>Senden Sie mir mir bitte meim<lb break="yes"/>Einhundertenachtzig <hi rendition="#i">M</hi>ark, die<lb break="yes"/>ich in
+                meiner Lebenszeit erspart<lb break="yes"/>habe, dann werde ich hier bezahlen<lb break="yes"/>und für das ander werde ich wohl aus<unclear>k</unclear><lb break="yes"/>finden. </p>
+<pb facs="#image_009"/>
+<p>Ich lasse mich nicht von jedes Kind<lb break="yes"/>zur Hand befordern Besonder von<lb break="yes"/>unser Stockfische in der Schmiede,<lb break="yes"/>welche
+                nicht wissen was Stahl<lb break="yes"/>und Eisen ist. Nur zum fressen<lb break="yes"/>geboren sind und mehr schaden<lb break="yes"/>wie Nützen einbringe
+                stehen herum<lb break="yes"/>wie so Turmspatzen auf der Tage<lb break="yes"/>Ich
+                verdine allein mehr wie die<lb break="yes"/>ganzen Kärls in der Schmiede das ist<lb break="yes"/>denn andern nur nicht recht. aber das<lb break="yes"/>bleibt
+                mir ganz egal Ich kann auch<lb break="yes"/>aller verschiedene Weise Arbeiten.<lb break="yes"/><seg ana="#salute"><hi rendition="#u">Es Grüß Euer
+                    Sohn</hi></seg>
+<seg ana="#signed">Franz</seg>.</p>
+<p><add place="margin">Bitte sofort zu Schreiben. <w>meinet wege</w> könnt ihr die
+                    Wiegehüte nehmen</add><lb break="yes"/><add place="top"><unclear>samt Eiche</unclear> und Thüren
+                </add></p>
+</body>
+</text>
+</TEI>

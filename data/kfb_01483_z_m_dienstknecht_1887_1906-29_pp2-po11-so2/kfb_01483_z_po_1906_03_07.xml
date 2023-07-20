@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1483z03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1483</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Michael <surname>Z.</surname></persName>
+<date type="sent">07.03.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1483z">
+<persName>
+<forename>Michael</forename>
+<surname>Z.</surname>
+</persName>
+<birth when="1887"/>
+<death when="1929"/>
+<occupation>Dienstknecht, Taglöhner, Bettler</occupation>
+<residence><geo decls="#WGS">47.7633615 10.376461</geo>Haldenwang, Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Taglöhner</p>
+<p>Anstalt: <date from="1906" to="1929">1906-1929</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Halluzination] (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bedankt sich für das erhaltene Papier und berichtet, dass er an den Direktor geschrieben hat. Er erlaubt dem Arzt, den Brief zu lesen.
+                    Er bittet um sofortige Entlassung oder die Verlegung in eine andere Abteilung, vorzugsweise in die gegenüberliegende.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1483z03a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1483z03b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#u">Kaufbeuren, den 7. März 1906.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#u">(Hochgeehrter Herr Doktor!)</hi></hi></salute>
+</opener>
+<p> Ich will mich Ihnen für das er<lb break="no"/>haltene Papier auch höflich bedan<lb break="no"/>ken. Habe die Hälfte von dem<lb break="yes"/>Bogen Papier
+                verbraucht u. das<lb break="yes"/>was ich schreiben haben wollen<lb break="yes"/>an den Herrn Dierekor durch<lb break="yes"/>den Oberpfleger abegeschickt.<lb break="yes"/>Habe Ihnen davon jetzt in Ken̄t<lb break="no"/>niß gesetzt
+                u. Ihnen auch, wen̄<lb break="yes"/>es Ihnen beliebt ist über Näheres<lb break="yes"/>berichten. Davon heute genug ge<lb break="no"/>schrieben, <add>um
+                    Sie</add> weil ich ja doch nicht<pb facs="#image_006"/> zu überlästigen. Auf
+                    Wunsch<lb break="yes"/>Ihrerseits kön̄en Sie vielleicht<lb break="yes"/>den Brief den <del>d</del> ich an den<lb break="yes"/>Direktor befördern
+                    <add>ließ</add> auch nach<lb break="no"/>lesen. <seg ana="#inst">Auch möcht ich
+                    Bitte Sie<lb break="yes"/>noch stellen wen̄ nicht sofortige<lb break="yes"/>Entlassung angeordnet wird,<lb break="yes"/>mich in einen
+                    ander Ab<lb break="no"/>teilungsraum zu unterbringen<lb break="yes"/>Möchte
+                    besonders gern in die Ab<lb break="no"/>teilung b.I. wisawie von dieser<lb break="yes"/>ich mich jetzt befinde.</seg><hi rendition="#u"><seg ana="#salute">Achtungs<lb break="no"/><hi rendition="#c">vollst!</hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r"><surname>Z.</surname> Mich.</hi></seg></hi></p>
+</body>
+</text>
+</TEI>

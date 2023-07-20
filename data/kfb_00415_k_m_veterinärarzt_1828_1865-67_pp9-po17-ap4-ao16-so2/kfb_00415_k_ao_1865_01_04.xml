@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k35" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johannes <surname>R.</surname></persName>
+<date type="sent">04.01.1865</date>
+<date type="received">08.01.1866</date>
+<persName type="addressee">Direktor <surname>K.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1865" to="1867">1865-67</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="freund"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er erkundigt sich nach dem Zustand des Patienten und bittet ihn um Geld
+                    für seine Mutter.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k35a.jpg" xml:id="image_068"/>
+<graphic mimeType="image/jpg" url="kfb415k35b.jpg" xml:id="image_069"/>
+<graphic mimeType="image/jpg" url="kfb415k35c.jpg" xml:id="image_070"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_068"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg den 4 <hi rendition="#i">Januar</hi>
+                        1865.</hi></dateline>
+<salute><hi rendition="#c">Verehrtester Herr Direktor!</hi></salute>
+</opener>
+<p><add hand="arzt" place="top">Melanholie u. hypoch. Erscheig.<lb break="yes"/>Keine <unclear/> Symptome. Will<lb break="yes"/>der Mutter nichts <unclear/><lb break="yes"/>8.1.66. <space/>
+<hi rendition="#i">DK</hi></add></p>
+<p>Die Sorge um meinen Landsman̄ <surname>K.</surname><lb break="yes"/>veranlaßt mich Sie schon wieder mit meinen<lb break="yes"/>Bitten
+                zu belästigen. Es wäre mir sehr<lb break="yes"/>lieb zu erfahren wie es mit
+                    <surname>K.</surname> steht,<lb break="yes"/>u. was Sie für Hoffnungen
+                oder Befürchtun<lb break="no"/>gen für seine Zukunft haben. Ferner wäre<lb break="yes"/>mir angenehm zu erfahren ob <surname>K.</surname> sich<lb break="yes"/>nicht bewegen läßt (wen̄ sein Zustand einen<lb break="yes"/>solchen Antrag erlaubt) daß seiner alten<lb break="yes"/>Mutter monatlich oder
+                vierteljährig eine<lb break="yes"/>kleine Unterstützung gereicht werden<lb break="yes"/>darf. <surname>K.</surname> ist jetzt freilich auf ein<lb break="yes"/>Jahr quiesziert, aber er bezieht doch im̄er<lb break="yes"/>noch so viel daß es seiner 75 jährigen Mutter<lb break="yes"/>monatlich ein Paar
+                Gulden geben könnte.<lb break="yes"/>Ich werde von dieser alten Frau im̄rt
+                bestürmt<lb break="yes"/>kan̄ aber ohne <surname>K.</surname>
+                Zustim̄ung nichts hergeben</p>
+<pb facs="#image_069"/>
+<p><seg ana="#salute">Zum Jahreswechsel wünsche ich Ihnen alles<lb break="yes"/>Gute für Leib u. Seele, besonders Gesund<lb break="no"/>heit, Kraft u.
+                    Freudigkeit zu Ihrem schönen<lb break="yes"/>Berufe.<lb break="yes"/><space/>
+                    Herrn Verwalter, Hr. S. <hi rendition="#i">Julius</hi> u.
+                        <surname>K.</surname><lb break="yes"/>bitte herzlich zu grüssen.</seg><lb break="yes"/><space/> Mit aller Verehrung Jhr<lb break="yes"/><hi rendition="#r">ergebenster<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Johannes <hi rendition="#u"><surname>R.</surname></hi></hi></seg></hi></p>
+<pb facs="#image_070"/>
+<p><hi rendition="#r">S. Wohlgeboren<lb break="yes"/>T. Herrn <hi rendition="#i">Dr.
+                        Kiderle</hi><lb break="yes"/>Direktor der Kreis-Anstalt<lb break="yes"/>für Geisteskranke
+                    in<lb break="yes"/><hi rendition="#i"><hi rendition="#u">Irsee:</hi></hi><lb break="yes"/>bei Kaufbeuren.</hi><lb break="yes"/><hi rendition="#u">frei</hi>.</p>
+</body>
+</text>
+</TEI>

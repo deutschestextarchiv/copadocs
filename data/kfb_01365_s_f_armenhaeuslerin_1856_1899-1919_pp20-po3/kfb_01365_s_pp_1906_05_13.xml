@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1365s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1365</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>S.</surname></persName>
+<date type="sent">13.05.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tochter: Marie <surname>S.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1365s">
+<persName>
+<forename>Anna</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1856"/>
+<death cert="unknown"/>
+<occupation>Armenhäuslerin</occupation>
+<residence><geo decls="#WGS">48.4327435 10.3711492</geo>Großanhausen, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Zimmermann</p>
+<p>Anstalt: <date from="1899" to="1919">1899-1919</date></p>
+<p>Brieftypen: po, pp</p>
+</state>
+<trait><p>Schwachsinn, Paranoia (1899-1919)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet um Briefe und Besuch
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1365s05a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="kfb1365s05b.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline><hi rendition="#c">Kaufb Den 13ten Mai 1906;</hi></dateline>
+<salute><hi rendition="#c">Liebe Marie,</hi></salute>
+</opener>
+<p>Ich muß dir einige zeilen schreiben<lb break="yes"/>Auf was vier ein Grund, mir Seit<lb break="yes"/>Im 20ten Januar niht mehr schreibst.<lb break="yes"/>u ich hab
+                dir öfter geschrieben u<lb break="yes"/>keine Antwort bekom̄en, meine<lb break="yes"/>Bitte mein eintziges verlangen<lb break="yes"/>Schreibe mir so
+                schnell wie möglich<lb break="yes"/>Wies mit der Thereß ist u wies<lb break="yes"/>Ichr geht, wen nur Selber komen<lb break="yes"/>köntest das gar keins hergeht<lb break="yes"/>Sei so gut u kom Selber zu<lb break="yes"/>Mir u ob du oder die
+                andere<lb break="yes"/>Nichts zum Strüken haben, ich<lb break="yes"/>Weis gar niht
+                wie ihr mir<lb break="yes"/>Vorkomt, sich so verlassen<lb break="yes"/>Ichr mahts
+                mir kantz gut. <pb facs="#image_018"/> Ich bitte dich sei doh so gut<lb break="yes"/>u kom eins zu mir rauf,<lb break="yes"/>aber Bald, </p>
+<p><hi rendition="#r"><seg ana="#salute">Es grüst dich</seg>
+<seg ana="#signed">deine Mutter<lb break="yes"/>Anna <surname>S.</surname> </seg></hi></p>
+<p><hi rendition="#c">Adreß<lb break="yes"/>An Frl Maria <surname>S.</surname><lb break="yes"/>Bei Herrn Johan <surname>B.</surname><lb break="yes"/>Prievatir<lb break="yes"/>in Güntzburg a/D </hi></p>
+</body>
+</text>
+</TEI>

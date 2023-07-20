@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip120h03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>120 (K. 120)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Friedrich <surname>H.</surname></persName>
+<date type="sent">06.11.1911</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater</persName>
+<settlement type="sent">Eickelborn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip120h">
+<persName>
+<forename>Friedrich</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1879-01-13"/>
+<death cert="unknown"/>
+<occupation>Bandwirker</occupation>
+<residence><geo decls="#WGS">51.2743154 7.2436668</geo>Geburtsort: Langerfeld; Wohnort: Langerfeld</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Landwirt</p>
+<p>Anstalt: <date from="1911-02-07" to="1918-07-01">07.02.1911-01.07.1918</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Paranoia (1911)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Material.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip120h03.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Eickelborn 6. Nov</hi>. 1911.</hi></dateline>
+<salute><hi rendition="#c">Lieber Vater!</hi></salute>
+</opener>
+<p>Ich habe von hier aus an Herrn <hi rendition="#i">Dr. Niemeyer</hi> geschrieben, du<lb break="yes"/>kannst nun mal hingehen, und Ihm mein Material zustellen, Du<lb break="yes"/>machst Ihm mal 1000 Mark bieten evtl. auf 2000. Sollte sich
+                Herr <hi rendition="#i">Niemeyer</hi><lb break="yes"/>trotzdem noch ablehnend verhallten, so erwarte ich das die Herren
+                die<lb break="yes"/>mir meine Mastr. herausgeholt haben, auch soviel Karakter
+                haben<lb break="yes"/>werden, das Sie an den Staatsanwalt Schreiben, evtl an die
+                Regierung<lb break="yes"/>oder ans Ministerium. An den Landeshauptmann habe ich
+                geschrieben,<lb break="yes"/>ich habe aber weder etwas gehört noch gesehen.
+                Sollten die Herren sich aus<lb break="yes"/>Patriotischen Gründen dazu nicht
+                verstehen können, so gebe ich Ihnen hierdurch<lb break="yes"/>schriftlich das ich
+                nicht wieder ins Ausland gehen werde Ich habe auch vor<lb break="yes"/>einiger
+                Zeit an Herrn <surname>Land<hi rendition="#i">é.</hi></surname> geschrieben, aber
+                auch keine Antwort<lb break="yes"/>erhalten, evtl machst Du auch dem mal ein
+                angebot machen. </p>
+<p> <hi rendition="#c">Herzlichen Gruß Fr.</hi>
+</p>
+</body>
+</text>
+</TEI>

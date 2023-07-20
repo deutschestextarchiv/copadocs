@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb286b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>286</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ursula <surname>B.</surname></persName>
+<date type="sent">ca.1858-1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vetter: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb286b">
+<persName>
+<forename>Ursula</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1820"/>
+<death cert="unknown"/>
+<occupation>ehemalige Schiffswirtin</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1858" to="1859">1858-1859</date></p>
+<p>Brieftypen: pp,ao</p>
+</state>
+<trait>
+<p>Geistesstörung, Suizidalität (1858-1859) </p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin kündigt an, aus finanziellen Gründen wahrscheinlich nicht länger in der Anstalt bleiben zu können. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb286b03a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb286b03b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Werthester Vetter</hi></salute>
+</opener>
+<p>Der gute Johan̄es kan̄ mich nicht län̄ger<lb break="yes"/>in
+                Irrsee verhalten den daß Geld braucht<lb break="yes"/>man̄ zu <hi rendition="#u">nothwen̄tig</hi> und gerade jetzt muß<lb break="yes"/>er wider 120 f Zin̄s bezahlen x später<lb break="yes"/>wider 40f ich bitte
+                dich laß doch gleich durch<lb break="yes"/>meine Euphrosina ein Fuhrwerk bestellen<lb break="yes"/>x hole mich den̄ wir haben wichtiges mit<lb break="yes"/>einander zu reden wegen dem <hi rendition="#u">Julius</hi> x<lb break="yes"/>wegen <hi rendition="#u">mir</hi> den̄ wen̄ dieses nicht bezahlt
+                wird kan̄<lb break="yes"/>der Julius die <unclear>Haymer</unclear> nicht
+                übernehmen sage<lb break="yes"/>aber ja nicht daß Frau von
+                    <surname>H.</surname> so gütig<lb break="yes"/>war dir dieses zu übergeben
+                sondern sage zum<lb break="yes"/>Herrn Direcktor ich müsse vor Gericht ich will dir<lb break="yes"/>schon sagen warum ich zum Gericht muß ich bitte </p>
+<pb facs="#image_006"/>
+<p> dich ich bitte bitte dich hohle mich doch gleich<lb break="yes"/><seg ana="#salute">es grüßt dich so wie deine Frau x deine Kinder<lb break="yes"/>Vater x
+                    Geschwister deine <hi rendition="#r">dankbare Baße</hi><lb break="yes"/>Ursula <surname>B.</surname></seg>
+</p>
+<p><unclear reason="faded"/><unclear reason="faded">Lang</unclear><lb break="yes"/><unclear reason="faded">Frl.</unclear><lb break="yes"/><unclear reason="faded"/></p>
+</body>
+</text>
+</TEI>

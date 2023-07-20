@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2950r12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2950</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>R.</surname></persName>
+<date type="sent">25.5.1936</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arbeitsvorsteherin: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2950r">
+<persName>
+<forename>Magdalena</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1887"/>
+<death cert="unknown"/>
+<occupation>Dienstmädchen</occupation>
+<residence><geo decls="#WGS">47.6988348 10.321779800598831</geo>Kottern/Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schuhmacher</p>
+<p>Anstalt: <date from="1923" to="1936">1923-36</date></p>
+<p>Brieftypen: pp,po,ap</p>
+</state>
+<trait><p>[Suizidalität], Verfolgungswahn (1923), Versündigungsideen, Sinnestäuschungen, Willensstörungen (1828-36)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gratulation zum Namenstag
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2950r12.jpg" xml:id="image_032"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_032"/>
+<opener>
+<dateline>Am 25. 5. 36.</dateline>
+<salute><hi rendition="#i">Sehr Geehrte Arbeiterin̄<lb break="no"/>vorsteherin u. Zugleich<lb break="yes"/>Namenstagskind oder <unclear>Lenne</unclear></hi></salute>
+</opener>
+<p>
+<hi rendition="#u">Einen kleinen Spruch:</hi><lb break="yes"/>Bin zwar kaum 5 <hi rendition="#u">käsehoch</hi>:<lb break="yes"/>aber gratulieren kan̄
+                ich doch,<lb break="yes"/>Gesundheit Glück u. langes<lb break="yes"/><hi rendition="#r">Leben</hi><lb break="yes"/>möge Euch der Gott Vater im̄<lb break="yes"/><hi rendition="#r">Him̄el geben.</hi><lb break="yes"/>Näheres Später so Gott
+                will mündlich<lb break="yes"/><add place="margin">Wünsch baldige<lb break="yes"/><hi rendition="#u">fröhliche Him̄elfahrt.</hi></add></p>
+</body>
+</text>
+</TEI>

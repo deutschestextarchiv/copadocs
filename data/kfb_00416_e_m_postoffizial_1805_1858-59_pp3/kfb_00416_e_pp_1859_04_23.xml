@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb416e01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>416</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Moritz von <surname>E.</surname></persName>
+<date type="sent">23.04.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb416e">
+<persName>
+<forename>Moritz von</forename><surname>E.</surname>
+</persName>
+<birth when="1805"/>
+<death cert="unknown"/>
+<occupation>Königl. Postoffizial beim Oberpostamt Augsburg (pensioniert)</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1858" to="1859">1858-1859</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschung</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber berichtet, dass er sich wohl befindet.
+                    Er bittet um die Zusendung von Quittungen und gibt Anweisungen zu finanziellen Angelegenheiten.
+                    Er lässt seine Mutter grüßen und erkundigt sich nach den Umständen des Adressaten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb416e01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb416e01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb416e01c.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb416e01d.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> d. 23/<hi rendition="#sub">4</hi> 59. </hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder! </hi></salute>
+</opener>
+<p><add hand="hand2" place="top">− <unclear>111</unclear> −</add>
+</p>
+<p>Ich befinde mich wohl und hoffe wenigstens<lb break="yes"/>bis Mitte <hi rendition="#i">Mai</hi> bei euch zu sein. Meine<lb break="yes"/>Sachen gehen
+                etwas langsam, übrigens<lb break="yes"/>hoffe ich, da<unclear>ch</unclear> ich
+                jedenfalls versetzt werde. −<lb break="yes"/>Ich hab wieder
+                Urlaubs-Verlängerung<lb break="yes"/>erhalten, es kann auch bis Ende <hi rendition="#i">Mai</hi> dauern.<lb break="yes"/>Ich werde mir übrigens jetzt es
+                angelegen<lb break="yes"/>sein lassen, daß ich meinen Wunsch.<lb break="yes"/>erreiche. Sei <w>so</w><w>gut</w> u schicke mir <hi rendition="#u">um</hi><lb break="no"/><hi rendition="#u">gehends</hi>
+<hi rendition="#u">zwei Monats-Quittungen</hi>, du <pb facs="#image_002"/>kannst
+                dann Ende dieses Monats mein<lb break="yes"/>Geld erheben. Ich hoffe, daß die
+                Mutter<lb break="yes"/>gesund ist, ich <del>lasse</del>
+<unclear><del>sh</del>geb</unclear> euch wieder<lb break="yes"/><del>16fl</del>
+<add place="above">16fl u.</add> 20fl Hauszins u 10fl für den<lb break="yes"/>Schneider; die übrigen 20fl schickst<lb break="yes"/>du wieder an mich hieher.
+                −</p>
+<p>Herzliche Grüße an die lieb Mutter, sie<lb break="yes"/>soll sich nichts abgehen
+                lassen u. auch.<lb break="yes"/>etwas für sich sorgen, dafür schicke ich.<lb break="yes"/>hauptsächlich das Geld. − N<hi rendition="#u">ichts
+                    Neues</hi>?!<lb break="yes"/>Wie steht es mit dir?! Ich befind<hi rendition="#u">e mich</hi><lb break="yes"/><hi rendition="#u">sehr wohl</hi> u. körperlich, wie geistig<lb break="yes"/><hi rendition="#r">wieder gesund. </hi></p>
+<pb facs="#image_003"/>
+<p> Ersuche den Herrn <hi rendition="#i">Doctor</hi> K<hi rendition="#i">oller</hi>
+<add place="above"><unclear>in einem Briefe </unclear></add>um unsere<lb break="yes"/><hi rendition="#u">Rechn</hi>ung, wir können sie ja bezahlen.<lb break="yes"/>Es wird mich freuen, von dir einmal<lb break="yes"/>etwas gewißes
+                betreffs deines Unterkom̄ens<lb break="yes"/>zu hören. − Ich habe auch
+                100fl Emolument<lb break="yes"/>bis 1<hi rendition="#sup"><hi rendition="#u">t</hi></hi>
+<hi rendition="#i">A</hi>pril gut gemacht., die ich übrigens<lb break="yes"/>erst
+                bei meiner Ankunft in <hi rendition="#i">Augsburg</hi> er<lb break="no"/>hebe. Nun
+                schreib mir bald u such auch etwas<lb break="yes"/>postalisches zu erfahren.
+                        <surname><unclear>O.</unclear></surname>, den ich grüßen<lb break="yes"/>lasse, wird dir vielleicht etwas mittheilen<lb break="yes"/>können. <seg ana="#salute">Nochmals Herzliche Grüße an die<lb break="yes"/>lieb
+                    Mutter, es grüßt Dich<lb break="yes"/><hi rendition="#c">dein treuer Bruder
+                    </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Moritz</seg>.
+                    </hi><lb break="yes"/><space/>
+<hi rendition="#u">Fortsetzung</hi>
+</p>
+<pb facs="#image_004"/>
+<p> Leider blieb mein Brief eine Woche aus<lb break="yes"/>Versehen liegen, was
+                übrigens <hi rendition="#u">nichts</hi> aus<lb break="no"/>macht. Schick mir also
+                sogleich <del>eine</del><lb break="yes"/>zwei <hi rendition="#i">Quitt</hi>ungen. Ich bin sehr begierig<lb break="yes"/>von dir etwas zu vernehmen. Gegenwärtig<lb break="yes"/>sind auch
+                die Aussichten se<hi rendition="#u">hr kriegerisch</hi>.<lb break="yes"/>Ich
+                hoffe in einigen Wochen bei euch zu<lb break="yes"/>sein. Ich befinde mich wohl u.
+                wünsche<lb break="yes"/>euch das Gleiche. Wie steht es denn mit deinen<lb break="yes"/>Sachen?! <seg ana="#salute">Also leb wohl u. sei gegrüßt<lb break="yes"/><hi rendition="#c">von deinem treuen </hi><lb break="yes"/><hi rendition="#r">Bruder </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Moritz</seg> . </hi></p>
+</body>
+</text>
+</TEI>

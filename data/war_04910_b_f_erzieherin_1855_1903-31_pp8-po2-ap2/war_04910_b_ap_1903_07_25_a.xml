@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="war4910b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 660: Warstein</collection>
+<idno>4910 (K. xx)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname/></persName>
+<date type="sent">25.07.1903</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tante: Anna <surname>B.</surname></persName>
+<settlement type="sent">Dortmund</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="war4910b">
+<persName>
+<forename>Anna</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1855-04-07"/>
+<death cert="unknown"/>
+<occupation>Erzieherin</occupation>
+<residence><geo decls="#WGS">52.0191005 8.531007</geo>Geburtsort: n.a.; Wohnort: Bielefeld</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Buchhändler, Mutter: ohne Beruf</p>
+<p>Anstalt: <date from="1903-03-14" to="1931">14.03.1903-1931</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>einfache Seelenstörung (1903)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="nichte"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Nichte gratuliert ihrer Tante zum Namenstag. Sie berichtet von ihren Tanzstunden und bittet um einen Rat, ob sie sich für ein Rad entscheiden soll.
+                    Sie erkundigt sich nach dem Befinden der Tante.
+                    Die Patientin bedankt sich für das Namenstagsgeschenk und die guten Wünsche. Sie wünscht eine gute Reise. Sie berichtet von verschiedenen Personen.
+                    Sie rät vom Rad ab.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="war4910b01a.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="war4910b01b.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r"><add hand="vordruck">Dortmund, den</add> 25. Juli
+                        1903.<lb break="yes"/><add hand="vordruck"><placeName type="street">Gutenbergstrasse</placeName> 37 <hi rendition="#sup">I</hi></add></hi></dateline>
+<salute><add hand="vordruck"><del hand="nichte">Betrifft:</del></add><hi rendition="#c"> Liebe Tante Anna.</hi></salute>
+</opener>
+<p>Ich gratuliere Dir zu Deinem<lb break="yes"/>Namenstag, und wünsche Dir,<lb break="yes"/>daß du noch oft deinem Na<lb break="no"/>menstage entgegensehen
+                wirst.<lb break="yes"/><add hand="patient">Ich wünsche Dir eine gute Reise<lb break="yes"/>über den großen <hi rendition="#i">Ocean.</hi></add><lb break="yes"/>Ich habe seit dem 19. April Tanzstunde. Am<lb break="yes"/>20.
+                Juni hatten wir Tanzkränzchen und ich habe<lb break="yes"/>bis 5 Minuten nach 2 Uhr
+                getanzt. Am 1. August<lb break="yes"/>haben wir Schlußball. Ich habe bei Herrn<lb break="yes"/><surname>W.</surname> Tanzstunde, im <hi rendition="#i">Casino</hi>. Mir steht die<lb break="yes"/>Wahl frei. Ich darf entweder ein
+                Rad od. wählen,<lb break="yes"/>oder zwei Jahre nicht vereisen. Was würdest<lb break="yes"/>Du nehmen? Ich werde mich wahrscheinlich<lb break="yes"/>zu einem
+                Rade entschließen. Wie geht es in </p>
+<p><add hand="patient" place="top"><hi rendition="#i">Maria <add place="above">Towé</add></hi>
+<hi rendition="#u">spielt</hi> sehr schön <hi rendition="#i">Klavier</hi> eine
+                            <w><hi rendition="#i">Sona </hi><lb break="no"/><hi rendition="#i">te</hi></w> "<foreign xml:lang="engl"><hi rendition="#i">Nearer my God to
+                            The</hi></foreign> mit <w><hi rendition="#i">Mar </hi><lb break="no"/><hi rendition="#i">gerete</hi></w><hi rendition="#i">
+<surname>S.</surname></hi> 4 <hi rendition="#i">händig</hi></add>
+</p>
+<p><add hand="patient" place="margin"><hi rendition="#i">Regina</hi>
+<surname><hi rendition="#i">T.</hi></surname> tanzt sehr graziös<lb break="yes"/>auch der kleine<lb break="yes"/><hi rendition="#i">Frederick</hi></add>
+</p>
+<p><add hand="patient" place="bottom"><hi rendition="#i">Her</hi>zlichen Dank an
+                    Vater für das Namenstags<lb break="no"/>geschenk. Auf Wiedersehen! <seg ana="#pic">[Raute mit Strichen]</seg></add>
+</p>
+<p><add hand="patient" place="margin">1000 Küsse von Deiner Dich liebenden</add><lb break="yes"/><add hand="patient" place="top">Tante Anna Maria<lb break="yes"/>Theresia</add>
+</p>
+<p><add place="margin"><hi rendition="#i">Wesel Windmöller!<lb break="yes"/>Echo! Donkey
+                        Äolos!</hi></add></p>
+<pb facs="#image_003"/>
+<p>Bielefeld? Grüße alle!<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Herzliche Grüße und 1000 Küsse<lb break="yes"/>an Dich. Onkel Heinrich und
+                    Tante<lb break="yes"/>Elise </seg><lb break="yes"/><seg ana="#signed">von
+                        Eurer Euchliebenden Nichte<lb break="yes"/>Maria.</seg></hi>
+</p>
+<p><add hand="patient" place="bottom"><hi rendition="#r"><hi rendition="#i">Provincial Irrenanstalt </hi><lb break="yes"/><hi rendition="#i">Münster
+                            in Westphalen</hi></hi><lb break="yes"/>Meine liebe herzige <hi rendition="#i">Maria</hi>!<lb break="yes"/><foreign xml:lang="engl"><hi rendition="#i">Many thanks for your
+                            </hi><lb break="yes"/><hi rendition="#i">good whishes also to </hi><lb break="yes"/><hi rendition="#i">dear Walther. but if I was </hi><lb break="yes"/><hi rendition="#i">you I would not whish for </hi><lb break="yes"/><hi rendition="#i">a Rad. A fine horse is </hi><lb break="yes"/><hi rendition="#i">musch more useful and </hi><lb break="yes"/><hi rendition="#i">a true friend you must </hi><lb break="yes"/><hi rendition="#i">keep to mama when </hi><lb break="yes"/><hi rendition="#i">father is out and can </hi><lb break="yes"/><hi rendition="#i">ride in a </hi>cari<hi rendition="#i">age or </hi><lb break="yes"/><hi rendition="#i">trammway. I whould be </hi><lb break="yes"/><hi rendition="#i">happy if you came a </hi><lb break="yes"/><hi rendition="#i">quatre to </hi>see<hi rendition="#i"> me to
+                            mo</hi><lb break="no"/>cow<hi rendition="#i"> the park is very </hi><lb break="yes"/><hi rendition="#i">beautiful and I
+                am</hi></foreign></add></p>
+<p><add hand="patientin"><add place="top"><surname><hi rendition="#i">W.</hi></surname> hieß doch der Mann welcher<lb break="yes"/>mit <hi rendition="#i">Heinrich Klage</hi>
+<hi rendition="#i">hatte</hi><lb break="yes"/>eingen den Wunderschönen <hi rendition="#i">Hühner</hi><lb break="no"/>hund Nim̄rod und <surname><hi rendition="#i">H.</hi></surname> Dogge<lb break="yes"/>Emmy <surname><hi rendition="#i">H.</hi></surname> ist auch hier u Lili
+                                <surname><hi rendition="#i">P.</hi><lb break="no"/><hi rendition="#i">mann</hi></surname> Frau <hi rendition="#i">Inspector</hi> Emmy <surname><hi rendition="#i">M.</hi></surname></add></add>
+</p>
+<p><add hand="patientin"><add><foreign xml:lang="frz"><hi rendition="#i">Honi soi qui mal </hi><lb break="yes"/><hi rendition="#i">i pense</hi></foreign><hi rendition="#i"> </hi><lb break="yes"/><foreign xml:lang="engl"><hi rendition="#i">longing so
+                                </hi><lb break="yes"/><hi rendition="#i">very scincerly </hi><lb break="yes"/><hi rendition="#i">to see you all. </hi><lb break="yes"/><hi rendition="#i">Elise, Heinrich and </hi><lb break="yes"/><unclear><hi rendition="#i">togint I</hi></unclear><hi rendition="#i"> have not seen </hi><lb break="yes"/><hi rendition="#i">scince February.</hi></foreign></add></add></p>
+</body>
+</text>
+</TEI>

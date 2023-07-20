@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb907b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>907</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>B.</surname></persName>
+<date type="sent">23.11.1897</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberbahnamt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb907b">
+<persName>
+<forename>Johann</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1868"/>
+<death cert="unknown"/>
+<occupation>Ökonom</occupation>
+<residence><geo decls="#WGS">48.8196556 10.5167978</geo>Reimlingen, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bauern</p>
+<p>Anstalt: <date from="1897" to="1898">1897-98</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Imbecillität (1898), Geistesschwäche verbunden mit pathologischen Charaktereigentümlichkeiten (1897)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um die Zahlung einer Kaution?; bekräftigt seine Treue zum Amtsgericht Nördlingen?
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb907b01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb907b01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb907b01c.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb907b01d.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<salute><hi rendition="#i">Köngliches <w>Ober Bahnamt</w><lb break="yes"/><hi rendition="#c">Augsburg</hi></hi><lb break="yes"/>Allergnädiegstes,
+				        <w>Ober Bahnamt</w></salute>
+</opener>
+<p>
+<add hand="arzt">23 XI 97<lb break="yes"/><hi rendition="#i"><hi rendition="#u"><surname>B.</surname></hi></hi></add>
+<handShift medium="ink" scribe="patient"/><lb break="yes"/>wollen, sich endschlüssen und Unter<lb break="no"/>zeichneten,
+                baldiege Vormerkung, zur<lb break="yes"/>Kauttion <hi rendition="#i">von sechs bis
+                    zu neun hundert</hi><lb break="yes"/>oder <hi rendition="#i">Dausent Mark</hi>
+                erforderlich sind.<lb break="yes"/>Und so zu sofortigen, Verfügung<lb break="yes"/>auf dem Versprechen, auf daß Amts<lb break="no"/>schweigen, Treu Fleißig
+                    außtauer<lb break="yes"/>wird auch mein bestreben, auf<lb break="yes"/>diesen
+                Grund gerichtet sein.<lb break="yes"/>Zur befrüdieckung meiner,<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Herrn Vorgesten.</hi></hi><pb facs="#image_002"/>
+<space/> Meinem Amtsgericht, <hi rendition="#i">Nördlingen</hi><lb break="yes"/>auf
+				    den Oberamtsrichter auf<lb break="yes"/>mein <w>Ehren <hi rendition="#i">Wort</hi></w> <hi rendition="#i">treu</hi>
+                u. red<lb break="no"/>lich, bis in den Todt in daß<lb break="yes"/>Grab. An die<lb break="yes"/><space/> Dierecktions zur Gene<lb break="no"/>miegung. Den<lb break="yes"/><space/> <hi rendition="#i">Herrn</hi> Dierecktor<lb break="yes"/><hi rendition="#i">bitte</hi> ich sehr zur<lb break="yes"/>Huldiegung.<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Euer Dich Grüssender<lb break="yes"/>aufrichtieger</hi><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Johann <surname>B.</surname></hi></seg></seg>
+<pb facs="#image_003"/>
+<hi rendition="#i">Bezirksamt<lb break="yes"/>Nördlingen<lb break="yes"/><hi rendition="#c">Johann <surname>B.</surname><lb break="yes"/>von<lb break="yes"/>Reimlingen No. 30</hi></hi><lb break="yes"/>Bitte Städts
+                zur Hu<hi rendition="#i">ttiegung</hi><lb break="yes"/>und <hi rendition="#i">Genemie<del>h</del>iegung</hi><lb break="yes"/>baldiege Nachricht hoffe<lb break="yes"/>h<hi rendition="#i">öffliechst <w>zuruckzuerstat<lb break="no"/>en</w></hi><pb facs="#image_004"/><hi rendition="#i">Ans</hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Köngliches<lb break="yes"/><w>Ober Bahnamt</w><lb break="yes"/>Augsburg</hi></hi><lb break="yes"/>Allergnädigstes <w>Ober
+                                Bahnamt</w> wolle,<lb break="yes"/>ich mich endschlüssen, die Vormerkung<lb break="yes"/>sobald als möglich, die Bemerkung,<lb break="yes"/>stäts bestättigen wollen.<lb break="yes"/><hi rendition="#i">Reimlingen</hi> den 23. <hi rendition="#i">November</hi> 1897.<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Bezirksamt<lb break="yes"/>.<lb break="yes"/>Nördlingen</hi></hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

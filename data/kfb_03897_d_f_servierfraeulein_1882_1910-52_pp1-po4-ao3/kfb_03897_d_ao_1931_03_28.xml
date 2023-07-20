@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3897d02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3897</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>D.</surname></persName>
+<date type="sent">28.03.1931</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Memmingen</settlement>
+<settlement type="received">Kaufbeuren</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb3897d">
+<persName>
+<forename>Adelinde</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1882"/>
+<death when="1952"/>
+<occupation>Servierfräulein</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: geschieden</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1910" to="1952">1910-1952</date></p>
+<p>Brieftypen: ao, pp, po</p>
+</state>
+<trait><p>Cerebralsklerose bei manisch-depressivem Irresein, zirkuläre Psychose, agitative Depression (1952)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="exmann"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Exmann möchte Patientin als Haushaltshilfe aufnehmen, vorausgesetzt, er findet eine neue Wohnung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3897d02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb3897d02b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i"><hi rendition="#u" style="arzt">Memmingen</hi></hi>
+                        28.3.31.</hi></dateline>
+<salute><hi rendition="#c"> An <hi rendition="#i">Direktion</hi> der Heil u.
+                        Pflegeanstalt!</hi></salute>
+</opener>
+<p> Ihr Schreiben vom 20.3. erhalten besten<lb break="yes"/>Dank. Betreffs einer
+                Beurlaubung der<lb break="yes"/><hi rendition="#u">Frau </hi><surname><hi rendition="#u" style="arzt">D.</hi></surname>, habe ich Ihnen
+                    folgendes<lb break="yes"/>mitzuteilen, was bei einer Beurlaubung<lb break="yes"/>zu berrüksichtigen ist. Ich wohne noch<lb break="yes"/>in dem Hause, das einstmals
+                Frau <surname>D.</surname>.<lb break="yes"/>gehörte u. durch die Inflation alles
+                verloren ging.<lb break="yes"/>Ich bin wohl schon länger als Wohnungssuchender<lb break="yes"/>gemeldet aber es geth da eben langsam, und<lb break="yes"/>müßte in
+                dem Falle zuerst eine andre Wohnung<lb break="yes"/>haben. Würde ich Frau.
+                    <surname>D.</surname> in das Haus<lb break="yes"/>nehmen, würde sicher
+                die alte Sache das auch<lb break="yes"/>eine der Ursachen war wieder in
+                    Erscheinung<lb break="yes"/>treten. Dann kommt noch weiter hinzu<lb break="yes"/>daß der Hausbesitzer Frau <surname>D.</surname> in<lb break="yes"/>das
+                Haus nicht hinein lassen will, da<lb break="yes"/>er glaubt es tut kein gut u.
+                könnte am Ende<pb facs="#image_006"/>gar noch was anstellen. Daß ich geschieden<lb break="yes"/>bin u. Frau <surname>D.</surname> vorerst nur als<lb break="yes"/>Haushälterin nach Hause nehme hab ich ihr<lb break="yes"/>schon
+                mitgeteilt.</p><p>Ich möchte Sie höflichst ersuchen die Verhältnisse<lb break="yes"/>zu Berüksichtigen u. mir ihre
+                    Ansicht<del>e</del><lb break="yes"/>ob Frau <surname>D.</surname> so
+                weit ist, und sich<lb break="yes"/><del>dr</del> in die Verhältnisse hinein finden
+                    kann.<lb break="yes"/>Ist es notwendig neben Frau
+                    <surname>D.</surname> anfangs<lb break="yes"/>noch eine Person zu
+                haben.?</p><p><hi rendition="#c"><seg ana="#salute">Im Voraus besten Dank<lb break="yes"/>Grüßt<lb break="yes"/>Achtungsvollst</seg><lb break="yes"/><seg ana="#signed">Josef
+                            <surname>D.</surname></seg></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Mem̄ingen</hi><lb break="yes"/>Luitpoldstr. 22</hi><hi rendition="#sup">.I</hi></p>
+</body>
+</text>
+</TEI>

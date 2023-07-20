@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb907b10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>907</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>B.</surname></persName>
+<date type="sent">08.06.1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb907b">
+<persName>
+<forename>Johann</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1868"/>
+<death cert="unknown"/>
+<occupation>Ökonom</occupation>
+<residence><geo decls="#WGS">48.8196556 10.5167978</geo>Reimlingen, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bauern</p>
+<p>Anstalt: <date from="1897" to="1898">1897-98</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait>
+<p>Imbecillität (1898), Geistesschwäche verbunden mit pathologischen
+                            Charaktereigentümlichkeiten (1897)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>offizieller Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose>
+                    Wäre bei der Post gut aufgehoben, sucht anscheinend Arbeit.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb907b10a.jpg" xml:id="image_031"/>
+<graphic mimeType="image/jpg" url="kfb907b10b.jpg" xml:id="image_032"/>
+<graphic mimeType="image/jpg" url="kfb907b10c.jpg" xml:id="image_033"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_031"/>
+<opener>
+<dateline><hi rendition="#i">Irsse d. <hi rendition="#u">8 Junie 1898.</hi> Oberbahnamt<lb break="yes"/><hi rendition="#c">Augsburg</hi></hi></dateline>
+<salute/>
+</opener>
+<p><hi rendition="#i">Köngliches Privat Bahnamt<lb break="yes"/>Oberberbahnamt
+                    Augsburg.<lb break="yes"/>Privatamt Ergebenster meine<lb break="yes"/>Augsburg
+                    Herrn Vorgesten<lb break="yes"/>Genehmiegster einen Dienst<lb break="yes"/>Meine Herrn durch genemhiegung<lb break="yes"/>Vorgetzen <space/> des
+                    Oberbahnamt<lb break="yes"/>durch einen Prievat Bahnamt<lb break="yes"/>Dienst
+                    <space/> Augsburg von einer<lb break="yes"/>u. wen es in Kaution
+                        dausen<del>d</del>t<lb break="yes"/>einer Privat </hi>s<hi rendition="#i">tark gestelt u.<lb break="yes"/>Post wäre noch mehr geleistet<lb break="yes"/>als Post<unclear>bnal</unclear>hoerde durch <w>Amts</w><lb break="no"/><w>wo</w> ich im
+                    verschwiegenheit<lb break="yes"/>Fuhrwerk ausdauer u. Zeugnies<lb break="yes"/>recht<space/> vorliegt treu fleisieg<lb break="yes"/>verlessieg Ehrlichkeit<lb break="yes"/>wäre.<space/> beweist in diesem<lb break="yes"/><hi rendition="#c">Inhalt.</hi></hi>
+</p>
+<pb facs="#image_032"/>
+<p><hi rendition="#i"><hi rendition="#r">Unterzeichneter<lb break="yes"/>bekent stäts<lb break="yes"/>durch baltiegste<lb break="yes"/>Nachricht<lb break="yes"/>Zuerteilen.<lb break="yes"/>Privat Bahn<lb break="yes"/>Oberbahnamt<lb break="yes"/>Augsburg</hi><lb break="yes"/><hi rendition="#c">Ergebenster</hi><lb break="yes"/><hi rendition="#r">meine Herrn Vorgesetzen<lb break="yes"/>durch aufrietiekgeit<lb break="yes"/>bestädtiegt.<lb break="yes"/>Johann
+                            <surname>B.</surname><lb break="yes"/>von<lb break="yes"/>Beimlingen</hi><lb break="yes"/>Bezierksamt<space/> Nördlingen.</hi>
+</p>
+<pb facs="#image_033"/>
+<p><hi rendition="#i"><hi rendition="#c">Köngliches<lb break="yes"/>Oberbahn e<lb break="yes"/>Prievat Bahnamt<lb break="yes"/>Augsburg<lb break="yes"/>Prievat Dienst<lb break="yes"/>bestädtiegt</hi><lb break="yes"/><hi rendition="#r">werden wird</hi><lb break="yes"/><hi rendition="#c"> Ergebenster</hi><lb break="yes"/><hi rendition="#r">Johann <surname>B.</surname></hi><lb break="yes"/><hi rendition="#c">ledieg katolisch<lb break="yes"/>über 30.
+                        Jahre alt.<lb break="yes"/>Bauernsohn<lb break="yes"/>von<lb break="yes"/>Reimlingen</hi><lb break="yes"/>Bezierksamt<lb break="yes"/><hi rendition="#r">Nördlingen</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

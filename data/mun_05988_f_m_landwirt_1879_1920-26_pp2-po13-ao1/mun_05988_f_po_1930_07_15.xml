@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun5988f07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>5988 (K. 90)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>F.</surname></persName>
+<date type="sent">15.07.1930</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Epa: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun5988f">
+<persName>
+<forename>Heinrich</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1879-07-10"/>
+<death cert="unknown"/>
+<occupation>Landwirt</occupation>
+<residence><geo decls="#WGS">51.9097831 7.958472934876058</geo>Geburtsort: Freckenhorst; Wohnort: Freckenhorst</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Landwirt; Mutter: n.a.</p>
+<p>Anstalt: <date from="1920-03-29" to="1920-08">29.03.1920-xx.08.1920</date></p>
+<p>Brieftypen: 14.04.1922-14.07.1923</p>
+</state>
+<trait><p>Schizophrenie (1920)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="hand2"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                Er bittet die Damengesellschaft, dass ihn von dort jemand besuchen kommt und erzählt kurz von sich.</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun5988f07a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="mun5988f07b.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="mun5988f07c.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline>Münster d. 15.7.1930.</dateline>
+<salute><hi rendition="#c">Werte Epa!</hi></salute>
+</opener>
+<p><add hand="hand2">zu den Ackten</add></p><p>Ich <hi rendition="#u" style="hand3"><hi rendition="#i">Heinrich </hi><surname><hi rendition="#i">F.</hi></surname></hi><lb break="yes"/>Da ich Sie mal<lb break="yes"/>Besucht habe. Das ich<lb break="yes"/>Sie vorigen Winter<lb break="yes"/>was Gekauft habe.<lb break="yes"/>Und Euer Geschäft<lb break="yes"/>angesehen habe. So<lb break="yes"/>sehe ich mich geneigt<lb break="yes"/>Ihnen zu Schreiben wie<lb break="yes"/>mir geht. Nun habe<lb break="yes"/>ich die Bitte Sie Werte<lb break="yes"/><w>Damen Gesellschaft</w>. Ob<lb break="yes"/>ich Sie um Hülfe<lb break="yes"/>Schreibe, mich hier<pb facs="#image_014"/>in dieser
+                    Ansta<unclear>lt</unclear><lb break="yes"/>zu Besuchen kom<unclear>men</unclear><lb break="yes"/>Weil ich gerne a<unclear>us</unclear><lb break="yes"/>dieser Anstalt hera<unclear>us</unclear><lb break="yes"/>will. Bin Ledig<lb break="yes"/>mein Beruf ist<lb break="yes"/>Gutsbesitzer <hi rendition="#i">Heinrich </hi><lb break="yes"/><surname><hi rendition="#i">F.</hi></surname>. Bitte S<unclear>ie</unclear><lb break="yes"/>ob wohl 1 oder 2 Da<unclear>men</unclear><lb break="yes"/>kommen lassen wol<unclear>len</unclear><lb break="yes"/>um mich hier zu<lb break="yes"/>Besuchen kommen
+                    u<unclear>nd</unclear><lb break="yes"/>mündlich sprechen.<lb break="yes"/><lb break="yes"/>Mein Name ist<lb break="yes"/><hi rendition="#i">Heinrich </hi><surname><hi rendition="#i">F.</hi></surname><lb break="yes"/><lb break="yes"/>dieses Schreiben <w>m<unclear>it</unclear><lb break="no"/>Bringen.</w>
+<pb facs="#image_015"/> Nach die Epa<lb break="yes"/><lb break="yes"/>in
+                    <placeName>Münster</placeName><lb break="yes"/><placeName type="street">Ludgerristraße</placeName>!<lb break="yes"/><lb break="yes"/><lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Meine Adreße ist<lb break="yes"/>Gutsbesitzer<lb break="yes"/><hi rendition="#i">Heinrich </hi><surname><hi rendition="#i">F.</hi></surname><lb break="yes"/>Provinzialheilanstalt<lb break="yes"/><placeName type="street">Kinderhauserstraße Nr. 92</placeName>.<lb break="yes"/>Hauptgebäude M. A. 2. </p>
+</body>
+</text>
+</TEI>

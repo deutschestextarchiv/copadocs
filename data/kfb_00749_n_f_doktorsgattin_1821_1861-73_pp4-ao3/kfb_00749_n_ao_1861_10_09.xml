@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb749n07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>749</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Dr. <surname>N.</surname></persName>
+<date type="sent">09.10.1861</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Dinkelscherben</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb749n">
+<persName>
+<forename>Franziska</forename>
+<surname>N.</surname>
+</persName>
+<birth when="1821"/>
+<death cert="unknown"/>
+<occupation>Doktorsgattin</occupation>
+<residence><geo decls="#WGS">48.3492317 10.5893034</geo>Dinkelscherben</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1861" to="1873">1861-73</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>melancholische Verstim̄ung", "Tobsucht" (Gerichtsärztliches Zeugnis, 14.04.1865)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehemann"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber macht sich Sorgen um die Gesundheit seiner Frau.
+                    Er schickt der Anstalt Geld.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb749n07a.jpg" xml:id="image_019"/>
+<graphic mimeType="image/jpg" url="kfb749n07b.jpg" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Hochverehrtester Herr<lb break="yes"/>Direktor!
+                    </hi></salute>
+</opener>
+<p><add hand="arzt" place="top">27. 49 4 <unclear>b. R. <hi rendition="#sup">br</hi>/<hi rendition="#sub">br</hi></unclear><lb break="yes"/>72 − 4 <unclear>v. t.</unclear>
+                    61/<hi rendition="#sub">68</hi><lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>L<hi rendition="#sup"><unclear>r</unclear></hi> 100f − x − <unclear>fiat Quittg</unclear></add></p>
+<p><add hand="arzt" place="top"><hi rendition="#r">pr. 14 Okt.<lb break="yes"/><hi rendition="#u"><unclear>175 </unclear></hi></hi></add></p>
+<p><add hand="arzt" place="top">an den <unclear>V. K</unclear> fehlen 13f 9 + 4 Hl.<lb break="yes"/>welche bei <w>nächster</w><w>Gelegenheit</w> gesendet<lb break="yes"/>werden mögen <unclear>G</unclear><lb break="yes"/><hi rendition="#r">V<hi rendition="#u">orlage</hi></hi></add></p>
+<p><add hand="arzt" place="margin">Da der Brief zum <w>Herrn</w><w>directer</w><lb break="yes"/>soll ist eine Acten-vermerkung<lb break="yes"/>zu machen. <unclear>G</unclear></add></p>
+<p><space/> Der gegenwärtigen<lb break="yes"/>Sachlage nach ist noch an<lb break="yes"/>kein Ende der Anfälle zu<lb break="yes"/>denken. Ihre Äußerungen<lb break="yes"/>sind im̄er die leeren Worte,<lb break="yes"/>die nie zur That werden.<lb break="yes"/>Sie können Sich unsre Sorgen<lb break="yes"/>vorstellen, besonders
+                bei den<lb break="yes"/>Gedanken der Unheilbarkeit<lb break="yes"/>des Übels. Bei
+                der besten Er<lb break="no"/>mannung tritt doch im̄er die<lb break="yes"/>Möglichkeit der Nichtgenesung<lb break="yes"/>vor Augen und so tragen sich <pb facs="#image_020"/>oft die trübsten Bilder der<lb break="yes"/>Zukunft auf. Ich
+                verlasse mich<lb break="yes"/>auf Ihre günstige Prognose,<lb break="yes"/>wen<unclear>n</unclear> manchmal der Trost mir<lb break="yes"/>gelingen will.
+                <space/> Hier finde<lb break="yes"/>ich für die <unclear>steten</unclear> Auslagen<lb break="yes"/>und für das neue <hi rendition="#i">Quartal</hi> 100 fl.<lb break="yes"/>Zwanzig Gulden sei Ihnen in<lb break="yes"/>Vorlage. Der Überschuß
+                    <unclear>bitte</unclear> ich<lb break="yes"/>für künftige Auslagen vorzu<lb break="no"/>merken. Ich empfehle aufs<lb break="yes"/>Neue
+                        <unclear><del>d</del>meine</unclear> Frau Ihrer besondern<lb break="yes"/>Sorgfalt <seg ana="#salute">und geharre in vorzüg<lb break="no"/>lichster
+                    Verehrung u Hochachtung<lb break="yes"/><hi rendition="#r">Ihr<lb break="yes"/>dankschuldigst<unclear>er</unclear>
+</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Dr
+                            <surname>N.</surname></seg>
+</hi></p>
+<p>Dinkelscherben<lb break="yes"/><hi rendition="#c">den 9 ten Okt.<lb break="yes"/><hi rendition="#u">1861. </hi></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1792f09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1792</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Therese <surname>F.</surname></persName>
+<date type="sent">15.10.1896</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freundin</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1792f">
+<persName>
+<forename>Therese</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1838"/>
+<death when="1899"/>
+<occupation>Zimmermannswitwe, Fabrikarbeiterin</occupation>
+<residence><geo decls="#WGS">47.8458763 10.4192911</geo>Obergünzburg, Oberdorf</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Tagelöhner</p>
+<p>Anstalt: <date from="1893" to="1899">1893-1899</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Verfolgungswahn, Seelenstörung (1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet, dass ihr Geld geschickt wird
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1792f09a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="kfb1792f09b.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline>Irrsee den 15 <del>S</del>Oktober 1896</dateline>
+<salute><hi rendition="#c">wedeste Frreinden.<lb break="yes"/>Frau
+                                <surname><unclear>V.</unclear></surname></hi></salute>
+</opener>
+<p><add hand="arzt">ad<lb break="yes"/><surname><hi rendition="#u">f.</hi>.</surname></add>
+</p><p>ich shreibe an eich <w>weil</w><w>ih</w> ich schon<lb break="yes"/>zwi<del>l</del>mal geschriben
+                habe ich<lb break="yes"/>und ih eimal edwaß erfaren<lb break="yes"/>ih bütte
+                    <unclear>einuch</unclear> schikeid mir<lb break="yes"/>5 oder 6 Mark und sie 2
+                    <unclear>eisgofes</unclear><lb break="yes"/>mir schigen ich ha noch 3 Mrg<lb break="yes"/>von der Theres gud
+                bis an Doner<lb break="no"/>stag oder Fridtag <unclear>nur</unclear> am dorf
+                        <unclear>mir<lb break="yes"/>sigen</unclear> es wie wol noh dim bis<lb break="yes"/>Augsburg nonch in der arbeid sein<lb break="yes"/>ich bidte euch
+                shicked mir das<lb break="yes"/>Geld das ich wieder zu eich hinuder<lb break="yes"/>komen werde ich bin <w>doh</w><w>gesond</w><lb break="yes"/>ich möhd wiesen ober er ach inn dei<lb break="yes"/>fleisig bezald
+                hat schigen sie mir<lb break="yes"/>Geld eine grus an die Mägere<lb break="yes"/>ich schlie min schribe in andre<lb break="yes"/>vilele grischen d mir anzeigre<lb break="yes"/><hi rendition="#r">frieden</hi>
+<pb facs="#image_018"/>Die adrs ist an Frau <surname>V.</surname><lb break="yes"/>in Poste brunen <add place="above">Nr 11</add> bascher er ed<lb break="yes"/>mei adrres ist Theres <surname>F.</surname> in<lb break="yes"/>Irsee Plegeren Breigtide Erhrd<lb break="yes"/>ich hofe mei schriben wirt niht<lb break="yes"/>gns unen sosd sein.</p>
+</body>
+</text>
+</TEI>

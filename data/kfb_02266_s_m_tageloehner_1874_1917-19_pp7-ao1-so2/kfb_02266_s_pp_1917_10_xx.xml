@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2266s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2266</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>S.</surname></persName>
+<date type="sent">10.1917</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tochter</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2266s">
+<persName>
+<forename>Josef</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1874"/>
+<death when="1919"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Schmiedmeisterseheleute</p>
+<p>Anstalt: <date from="1917" to="1919">1917-1919</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Progressive Paralyse (1917)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="minor" scribe="patient"/>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er sagt seiner Tochter, dass sie ihn besuchen soll und wie sie mit seinem Geld umgehen soll.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2266s05a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb2266s05b.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><handShift medium="ink" scribe="patient"/><hi rendition="#r">Kaufbeuern d. 10.1917.</hi></dateline>
+<salute><hi rendition="#c">Werther Tochter.</hi></salute>
+</opener>
+<p>Habe deinen Brief erhalten<lb break="yes"/>und gelesen das du mein Geld<lb break="yes"/>bekom̄en hast 82 <hi rendition="#i">M</hi> kome sofort<lb break="yes"/>und hohle mich ich bin vollständig<lb break="yes"/>gesund sonst
+                kön̄te ich nicht die<lb break="yes"/>Schweren arbeiten thun.<lb break="yes"/>nim mir zigarrn ent Geld <del>G</del>Kragen<lb break="yes"/>Grawate und Brust
+                mit, kom̄e so<lb break="yes"/>s<unclear>o</unclear>
+<handShift medium="pencil" scribe="patient"/>Kam̄ Bartbürste<lb break="yes"/><handShift medium="ink" scribe="patient"/>schnell als möglich ich bin auf <hi rendition="#i">AI</hi><lb break="yes"/>Wann du schreibst so schreibst dahin<lb break="yes"/>wo die adreße
+                beiliegt in die<lb break="yes"/>Anstalt schreibst nicht mehr. <handShift medium="pencil" scribe="patient"/>Wenn<lb break="yes"/>Du nicht kom̄st
+                sobald als möglich<lb break="yes"/>wirst sehen was ich du, du hast<lb break="yes"/>mir noch zu gehorchen oder willst<lb break="yes"/>mich sitzen lassen. Da es der<lb break="yes"/>Medizinalrath selbst zu mir<lb break="yes"/>gesagt hat ich
+                darf in 14 Tagen<lb break="yes"/>heim wen̄ ich ihn die Schlosserei<lb break="yes"/><hi rendition="#r">gehe</hi></p>
+<pb facs="#image_013"/>
+<p>Ich habe keinen Pfenig Geld nim mir<lb break="yes"/>eines Mit von meinem Lohn
+                thue mir<lb break="yes"/>ja nichts verbrauchen von meinem Lohn<lb break="yes"/>nur
+                das Fahrgeld darfst du<lb break="yes"/>nehmen ich will auch ein Geld haben<lb break="yes"/>wenn ich heim kom̄e. </p><p>Kom̄e so
+                schnell als möglich <del>s</del><lb break="yes"/>schreiben thue ich dir nicht mehr.<lb break="yes"/>glaubst du
+                villeich ich bekom̄e<lb break="yes"/>das Papier und Die<del>r</del> Brief<lb break="no"/>marken so leicht. </p><p>Die Adrese welche beiligt da<lb break="yes"/><del>S</del>schreibst du mir <w>so</w><w>schnell</w> als<lb break="yes"/>möglich wenn du kom̄st. Nim̄<lb break="yes"/>mir
+                meine Uhr mit Kette mit und das<lb break="yes"/>Notizbuch. Es ist besser wenn du
+                kom̄st<lb break="yes"/>so schnell wie möglich es ist für dich besser.<lb break="yes"/>Nehme so 20-30 <hi rendition="#i">M</hi> mit. Nim̄ mir
+                        zigarrn <add place="below">und ein <w>zündholz<lb break="no"/>schachtel</w></add><lb break="yes"/>mit. <seg ana="#signed">Dein Vater</seg> </p>
+<p><hi rendition="#c"><seg ana="#salute"><hi rendition="#i">M</hi>it Gruß</seg></hi><lb break="yes"/>bin auf <hi rendition="#i">A. I</hi> Schloserei</p>
+</body>
+</text>
+</TEI>

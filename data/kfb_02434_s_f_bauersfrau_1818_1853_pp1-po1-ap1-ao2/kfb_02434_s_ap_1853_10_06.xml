@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2434s03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2434</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Benedikt <surname>S.</surname></persName>
+<date type="sent">06.10.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Walburga <surname>S.</surname></persName>
+<settlement type="sent">Holzgünz</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2434s">
+<persName>
+<forename>Walburga</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1818"/>
+<death cert="unknown"/>
+<occupation>Bauersfrau</occupation>
+<residence><geo decls="#WGS">48.024444 10.2586779</geo>Holzgünz, Ottobeuren</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Vermögen: "mit vielen Schulden zu kämpfen hat"</p>
+<p>Anstalt: <date from="1853" to="1853">1853</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Nymphomanie; Manie (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehemann"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+<handNote medium="ink" scope="minor" scribe="martin"/>
+<handNote medium="ink" scope="minor" scribe="theresia"/>
+<handNote medium="ink" scope="minor" scribe="juliana"/>
+<handNote medium="ink" scope="minor" scribe="johannes"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will sie bald wieder nach Hause holen; Holz-Geschäft wurde nicht abgeschlossen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2434s03a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb2434s03b.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb2434s03c.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Holzgünz d 6. Oktober</hi><lb break="yes"/>1853.<lb break="yes"/><add hand="arzt"><unclear>scr.</unclear> 11 Novr 53</add></hi></dateline>
+<salute><hi rendition="#c">Vielgelibt Ehfrau</hi></salute>
+</opener>
+<p>
+Dein Schreiben habe ich richtig erhalten<lb break="yes"/>und mit größter Freude venom̄en daß<lb break="yes"/>es bey dir ganz gut geth mein vorhaben<lb break="yes"/>ist dich am 19 dis Monats zu meiner<lb break="yes"/>und unserer Kinder größter Freude<lb break="yes"/>dich wieder in unsere Heimat ab<lb break="yes"/>zuholen den das Hauswesen mit<lb break="yes"/>der Magt zuführen ist mir sozuwider<lb break="yes"/>daß ich es beynahe nicht mehr ertragen<lb break="yes"/>kan. Die Ehrabschneidrische Reden die<lb break="yes"/>ich hören mus zerspringen mir beynahe<lb break="yes"/>das Herz im Leibe doch hat mich vergangene<lb break="yes"/>Samstag unser Hochwürdiger Herr<lb break="yes"/>Pfarr getröstet es mit gedult zu<lb break="yes"/>Leiden er hat mir auch geraten dich sobald<lb break="yes"/>als wie moglich zuholen. Jch über schüke<lb break="yes"/>dir die zwey Bücher samt dem wert und<lb break="yes"/>Papbir und <del>1</del> <add>einen</add> Gulden Geld.
+				    
+<pb facs="#image_006"/>
+Der verkauf mit dem Holz ist<lb break="yes"/>nicht zustandegekomen indem mir<lb break="yes"/>der Herr <surname>V.</surname> nicht mehr als 1000 Gulden<lb break="yes"/>bezahlen wolte <w>so</w><w>bin</w> ich gesint in nicht<lb break="yes"/>zu verkaufen und das getreid ist im<lb break="yes"/>Dreschen sehr übel ausgefalen das<lb break="yes"/>weitere wollen wir dan persöhnlich<lb break="yes"/>miteinander Reden.<lb break="yes"/><seg ana="#salute">Es grüst dich auf das Freundlichste<lb break="yes"/>dein getreuer Eheman wie auch deine<lb break="yes"/>Geschwister und die großMuter u Frau<lb break="yes"/>gevatern und unser lieben Kinder</seg></p>
+<p><add>und die Franziska<lb break="yes"/>ist auch recht gesond<lb break="yes"/>und wohlauf</add></p>
+<p><seg ana="#signed"><hi rendition="#r">Benedikt <surname>S.</surname><lb break="yes"/><add hand="martin">Martin <surname>S.</surname></add><lb break="yes"/><add hand="theresia">Theresia <surname>S.</surname></add><lb break="yes"/><add hand="juliana">Juliana <surname>S.</surname></add><lb break="yes"/><add hand="johannes">Johanes <surname>S.</surname></add></hi></seg>
+<pb facs="#image_007"/>
+<hi rendition="#c">Die<lb break="yes"/>Patinten Wlburga<lb break="yes"/><surname>S.</surname> betrfend.</hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

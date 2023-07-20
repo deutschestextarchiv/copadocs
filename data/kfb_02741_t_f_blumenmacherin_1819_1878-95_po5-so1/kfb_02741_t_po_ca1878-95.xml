@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2741t06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2741</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Corona <surname>T.</surname></persName>
+<date type="sent">ca1878-95</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Himmlischer Vater</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2741t">
+<persName>
+<forename>Corona</forename>
+<surname>T.</surname>
+</persName>
+<birth when="1819"/>
+<death when="1895"/>
+<occupation>Blumenmacherin, Näherin</occupation>
+<residence><geo decls="#WGS">48.7678768 10.7981234</geo>Kaisheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1878" to="1895">1878-95</date></p>
+<p>Brieftypen: po, so</p>
+</state>
+<trait><p>Halluzinatorische Verrücktheit, Wahnvorstellungen (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Brief an Gott über ihren Weg zur Christin
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2741t06a.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="kfb2741t06b.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline/>
+<salute>Himlischer Vater, Aller Heulichster <unclear>Bühtter!</unclear></salute>
+</opener>
+<p>Ich Aller undert dreipstr Sende Dein Ehrfurchtsfoll die<lb break="no"/>Andwort
+                ich b<hi rendition="#u">in</hi> geboren. 1 Dausendt Acht Hundert 19.<lb break="yes"/>Im Stadt Keustadt an der Waldnab dort bin<lb break="no"/>ich
+                gedauft wo<hi rendition="#u">rd</hi>en. Und Meunst heilich=Mutter und<lb break="no"/>Furst Wendelün Hochselicher Vatter haben hier mich<pb break="no" facs="#image_015"/>haben mich Ausgezogen Zum Grüßtenthum.<lb break="yes"/>bis ich 13 Jahr Alt war <seg ana="#pic">lange Striche und Kreuze</seg><lb break="yes"/>und mene Heumath ist by Menen<lb break="yes"/>Aller
+                    Heulichsten Himmerlüschen fatter</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1630g07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1630</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>G.</surname></persName>
+<date type="sent">ca. 1888-1905</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1630g">
+<persName>
+<forename>Xaver</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1905"/>
+<occupation>Schlosser</occupation>
+<residence><geo decls="#WGS">47.6096057 10.3343227</geo>Emereis, Vorderburg, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonom, Bauerseheleute</p>
+<p>Anstalt: <date from="1888" to="1905">1888-1905</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>alkoholische Halluzinationen (1888)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient schreibt an den Oberarzt, dass er aufgrund seines tadellosen Verhaltens nicht in der Anstalt sein sollte.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1630g07a.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="kfb1630g07b.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_018"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Herr Oberarzt, ich bin Beglaubt wen̄ ich nicht<lb break="yes"/>Duzentfälltige
+                Garantie, u Hunderfälltige<lb break="yes"/>Zeigenschaft, leiste kom̄t der
+                Gefärliche Vogel<lb break="yes"/>aus diesem Kefig nicht mehr hinaus, u ich mag<lb break="yes"/>Absolut nicht mehr hir sein ich wende mich<lb break="yes"/>Strengstens Bewiesen fort zu kom̄en den<lb break="yes"/>ich habe draußen
+                mein <w>fort komen</w> auch <pb facs="#image_019"/> Überhaupt
+                wen̄ ich mich thadellos aufhalte<lb break="yes"/>wie Zeit meines Lebens ich
+                habe mich in u<lb break="yes"/>außer der Anstalt dadellos Benomen u. jetzt<lb break="yes"/>mach wen̄s mir auf diese Art, mir scheint<lb break="yes"/>nur daß man̄ uns schön ins Gesicht thut, u bei<lb break="yes"/>Derektion,
+                Gericht u Regierung werden wir<lb break="yes"/>Verkohlt. Oder welcher Gastgeber
+                kan̄ ich einer<lb break="yes"/><add place="margin">Unordnug
+                    beschuldigen</add><lb break="yes"/><add place="margin">Oder
+                        <w>der</w><w>ganzen</w> Um<lb break="no"/>gebung</add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb8662w03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Corinna Köhler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>8662</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Frieda <surname>W.</surname></persName>
+<date type="sent">8.8.1918</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freundin: Flora <surname>H.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb8662w">
+<persName>
+<forename>Frieda</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1888"/>
+<death cert="unknown"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">48.2452273 10.3693017</geo>Hürben, Krumbach</residence>
+<faith>jüdisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Kaufmann</p>
+<p>Anstalt: <date from="1916" to="1932">1916-32</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Hebephrenie (1916)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin verschickt Grüße.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb8662w03a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb8662w03b.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline/>
+<salute>Meine l. Freundin Flora!</salute>
+</opener>
+<p>Sende Euch viele Grüße<lb break="yes"/>wünsche Euch in beste<lb break="yes"/>Gesundheit <w>zu</w><w>erfreuen</w>?<lb break="yes"/>Meine b Verwandten<lb break="yes"/>haben im̄er <w>zu</w><w>klagen</w><lb break="yes"/>hätte <w>zu</w><w>gerne</w> Besuch<lb break="yes"/>von unseren
+                Lieben<lb break="yes"/>aus <hi rendition="#i">New-Jork</hi>, da die<lb break="yes"/>herzliche Widmung von<lb break="yes"/>In̄igkeit herrscht?<lb break="yes"/>Schätze Euch ferner<lb break="yes"/>gutes Wohlergehn </p><p><add hand="arzt">20.<lb break="yes"/><surname>W.</surname></add>
+</p><p><add place="margin"><hi rendition="#i">Frau Flora <surname>H.</surname><lb break="yes"/>Jüdischen Frauenkongrehs<lb break="yes"/><hi rendition="#r">München.<lb break="yes"/>Frauenstrahse<lb break="yes"/>6/3.</hi></hi></add>
+<pb facs="#image_009"/></p>
+<p><surname>W.</surname> Heilanstalt. </p><p>Mit<lb break="yes"/>achtbaren<lb break="yes"/>Gedenken ferner meiner<lb break="yes"/>Eure
+                Schwester Frieda </p><p><hi rendition="#i">Kaufbeuren
+                8. August 1918.</hi></p>
+</body>
+</text>
+</TEI>

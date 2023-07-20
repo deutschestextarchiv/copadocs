@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1763s43" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katrin Schreinemachers</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1763</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>S.</surname></persName>
+<date type="sent">ca. 1863-1916</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vetter:  <surname>K.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1763s">
+<persName>
+<forename>Georg</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1831"/>
+<death when="1916"/>
+<occupation>Mahlknecht</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonomen</p>
+<p>Anstalt: <date from="1863" to="1916">1863-1916</date></p>
+<p>Brieftypen: pp, po </p>
+</state>
+<trait><p>Hypochondrie, (folie raisonnante)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient beschwert sich, dass er nicht beichten gehen darf, keinen Besuch bekommt und schlecht behandelt wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1763s43a.jpg" xml:id="image_232"/>
+<graphic mimeType="image/jpg" url="kfb1763s43b.jpg" xml:id="image_233"/>
+<graphic mimeType="image/jpg" url="kfb1763s43c.jpg" xml:id="image_234"/>
+<graphic mimeType="image/jpg" url="kfb1763s43d.jpg" xml:id="image_235"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_232"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Da man mir in der Anstalt seid 19 Jahr das<lb break="yes"/>Beichten verbietet, so verlange
+                ich daß ich nach<lb break="yes"/>Türkheim gehen darf zum Beichten. <seg ana="#cens">Auch daß<lb break="yes"/>ich schreiben darf, und daß man meine Briefe<lb break="yes"/>auch fortschikt daß mich mein Vetter besucht</seg>,<lb break="yes"/>und daß ich mich auch beschwehren darf, wo<lb break="yes"/>es für
+                Recht und Wahrheit gesorgt wird.<lb break="yes"/>Andere dürfen ausgehen, und werden
+                    gans<lb break="yes"/>gut behandelt, u. ich darf nie fürs Haus <pb facs="#image_233"/> hinaus, und werde gans grausam be<lb break="no"/>handelt,
+                mir vergünt nich einmal das<lb break="yes"/>Wasser was ich trinke, daß der
+                    Pfleger<lb break="yes"/>den Becher Wasser vom Maul weggreißt,<lb break="yes"/>und so ist es in allein. Den Anden gibt<lb break="yes"/>man, und mir nim̄t
+                man alles, was ich<lb break="yes"/>notwendig brauch, sogar meine Zeitungen<lb break="yes"/>und alles Papier daß ich keinen Fetzen<lb break="yes"/>Abtritpapier ghabt habe, und zu Wei<pb break="no" facs="#image_234"/> nachten hat
+                mir alle Äpfel und Leb<lb break="no"/>kuchen genom̄en, und zu Ostern das<lb break="yes"/>Ei das ich bekom̄en hab, und noch viel<lb break="yes"/>Anderes. Ich bin auch nicht geisteskrank,<lb break="yes"/>mich hat man verhandelt
+                und verurteilt<lb break="yes"/>das ist Beweiß, daß ich nicht geisteskrank<lb break="yes"/>bin. Man hat mich blos deßwegen in<lb break="yes"/>die
+                Irrenanstalt getan, weil man <pb facs="#image_235"/> mich nicht unschuldig in eine
+                    Straf<lb break="no"/>anstalt bringen kon̄te, darüber kan̄<lb break="yes"/>man sich überzeugen, u. daß man so<lb break="yes"/>lan ich in der
+                Anstalt bin, nicht im<lb break="yes"/>geringsten eine Geisteskrankheit be<lb break="no"/>merkt hat. Zuerst daß ich zum Beichten<lb break="yes"/>gehen darf,
+                und daß mich mein Vetter be<lb break="no"/>sucht, ich bezahle ja alles. <seg ana="#signed">Georg <surname>S.</surname></seg><lb break="yes"/><hi rendition="#r">von Höchstädt</hi>
+</p>
+</body>
+</text>
+</TEI>

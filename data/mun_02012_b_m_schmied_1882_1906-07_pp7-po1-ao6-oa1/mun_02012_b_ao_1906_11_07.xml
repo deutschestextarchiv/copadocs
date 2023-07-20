@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2012b14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2012 (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>B.</surname></persName>
+<date type="sent">07.11.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geheimrat: n.a. <surname>G.</surname></persName>
+<settlement type="sent">Oelde</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun2012b">
+<persName>
+<forename>Franz</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1882-04-22"/>
+<death cert="unknown"/>
+<occupation>Schmied</occupation>
+<residence><geo decls="#WGS">51.8260823 8.1453352</geo>Geburtsort: Oelde; Wohnort: Oelde</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Schmiedemeister, Mutter: n.a.</p>
+<p>Anstalt: <date from="1906-07-16" to="1907-02-10">16.07.1906-10.02.1907</date></p>
+<p>Brieftypen: pp, po, ao, oa</p>
+</state>
+<trait><p>Geisteskrankheit (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="typewriter" scope="minor" scribe="hand3"/>
+<handNote medium="ink" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Vater möchte wissen, ob er seinen so abholen kann. Der Sohn hat ihn in einem Brief darum gebeten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2012b14.jpg" xml:id="image_031"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_031"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Oelde</hi>, den 7. Novbr.
+                        1906.</hi></dateline>
+<salute>Herrn<lb break="yes"/><hi rendition="#c"> <unclear>J</unclear>eheimrat <hi rendition="#i">Gerlach</hi><lb break="yes"/><hi rendition="#i"><hi rendition="#u">Münster</hi></hi></hi></salute>
+</opener>
+<p><add hand="hand2">Eing.</add> <add hand="hand3">7.11.06.</add> <add hand="hand4">R. No B. 2012/06<lb break="yes"/><unclear><hi rendition="#i">Herr</hi></unclear><hi rendition="#i"> D</hi><hi rendition="#sup"><hi rendition="#i">r</hi></hi><hi rendition="#i">
+                        Hegemann</hi></add><lb break="yes"/><add hand="hand2">0, 16 M<lb break="yes"/>I. W. Dr<unclear>G</unclear>.</add></p>
+<p> Wie Ihnen bekannt sein wird,<lb break="yes"/>hat mein in Ihrer Anstalt un<lb break="no"/>tergebrachter Sohn vor einigen<lb break="yes"/>Tagen an mich
+                einen Brief ge<lb break="no"/>schrieben, in welchem er mich<lb break="yes"/>bittet, ihn wiederzuholen.<lb break="yes"/>Ich möchte um Ihre gütige Ansicht<lb break="yes"/>ersuchen, wie Sie über dieses<lb break="yes"/>Ersuchen meines
+                Sohnes denken.<lb break="yes"/>Ich könnte ihn bei der Arbeit sehr<lb break="yes"/>gut gebrauchen.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Hochachtungsvoll!</seg><lb break="yes"/><seg ana="#signed">Franz <surname><hi rendition="#i">B.</hi></surname></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

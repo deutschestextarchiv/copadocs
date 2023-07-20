@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l33" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">xx.08.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Frau von Doktor <surname>M.</surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Patrizier</p>
+<p>Anstalt: <date from="1859" to="1872">1859-72</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Brief an Frau von Dr. Müller, drohender / sarkastischer Ton, fordert Entschädigung und Entschuldigung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l33a.jpg" xml:id="image_081"/>
+<graphic mimeType="image/jpg" url="kfb519l33b.jpg" xml:id="image_082"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_081"/>
+<opener>
+<dateline/>
+<salute>HochVerehrteste! Hochwohlgeborn!</salute>
+</opener>
+<p>
+<handShift medium="crayon" scribe="arzt"/>vom August 1859<lb break="yes"/>Adreßirt
+                an Frau <surname>M.</surname><lb break="yes"/>Triesdorf </p>
+<p>
+<handShift medium="ink" scribe="patient"/>Bei meiner Rückkehr v. Ansbach wird <hi rendition="#i">Ihre</hi> hohe <unclear>Beiwesenheit</unclear><lb break="yes"/>in Triesdorf noch villeicht eine erwünschte <del>Gelegenheit</del>
+<add place="above">Auskunft</add> bieten. −<lb break="yes"/>Daß dieser
+                Aufenthalt auch dem kl. Prinzen <hi rendition="#i">Fridrich</hi> so zuträglich, ist<lb break="yes"/>sehr erfreuend.- Wäre ich so glücklich die Magd zu sein, der
+                das<lb break="yes"/>so unaussprechlich liebwürdige Kind anvertraut ist u. welche
+                Hr. <hi rendition="#i">D</hi>. <hi rendition="#i">M</hi>.<lb break="yes"/>selbst auch
+                    <del>aufs</del> zärtlich liebevoll begegnet u. berücksichtiget wird. −<lb break="yes"/>Solch Untergebene haben jedenfalls eine angenehme Stelle, wie<lb break="yes"/>auch jene <hi rendition="#i">Pat</hi>: nie unberückstichtigt
+                bleiben, zu denen Neigung u.<lb break="yes"/>Seichtthum einen Arzt verbinden.
+                − Anderfalls sich pflicht<lb break="no"/>gemäßer Behandlung <hi rendition="#i">dispensirend</hi> u zutrauensvollst wiederholte Bitten<lb break="yes"/>seit
+                Jahren nie erhörend, werden Hr. <hi rendition="#i">D M</hi>. aus diesen u noch aus<lb break="no"/>führlicheren Gründen wegen bew.s. Sum̄e veranlaßt; da
+                qualvolle<lb break="yes"/>durch sein Mißtrauen, Mißgunst u. mit Schadenfreude
+                    geforder<lb break="no"/>te Mißhandlung dies als Entschädigung für diejenige
+                verlangen,<lb break="yes"/>welche nur die Zielscheibe der ungeheucheltsten
+                Grobheiten und<lb break="yes"/><hi rendition="#i">Intriguen</hi>
+<add place="above">stets</add> sein muß<del>, statt</del>. Wäre hochdemselben um ein
+                gering<lb break="yes"/>auch an meinem Wohle gelegen; /: gegön̄t :/ so wäre
+                dieselbe Zeit<lb break="yes"/>hinreichend gewesen, die statt deßen nur allseitig
+                    Unannehm<lb break="no"/>lichkeit verursachte. Daher um Entschuldigung bittet </p>
+<p><seg ana="#signed"> dero<lb break="yes"/>ergebenst Dienen<lb break="yes"/>Ernest <hi rendition="#i">Wilh L</hi></seg></p>
+<pb facs="#image_082"/>
+<p>
+<hi rendition="#i">Hochwohlgeboren </hi><lb break="yes"/>Frau <hi rendition="#i">Doctor</hi> <surname>M.</surname><lb break="yes"/>derzeit in Triesdorf<lb break="yes"/>p. E. </p>
+</body>
+</text>
+</TEI>

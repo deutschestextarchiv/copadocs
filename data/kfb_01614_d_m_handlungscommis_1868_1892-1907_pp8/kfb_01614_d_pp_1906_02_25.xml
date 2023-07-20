@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1614d01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1614</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>D.</surname></persName>
+<date type="sent">25.02.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1614d">
+<persName>
+<forename>Karl</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1868"/>
+<death when="1907"/>
+<occupation>Handlungscommis</occupation>
+<residence><geo decls="#WGS">48.6263543 10.745509</geo>Buttenwiesen, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Mühlbesitzerseheleute</p>
+<p>Anstalt: <date from="1892" to="1907">1892-1907</date></p>
+<p>Brieftypen: <!--Brieftypen--></p>
+</state>
+<trait><p>Religiöse Schwärmerei (1892), Halluzinationen (1904)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Grüße an die Schwester und Bitte um eine Sendung von Zigaretten.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1614d02a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb1614d02b.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irrsee</hi>, den 25. Februar
+                        1906.</hi></dateline>
+<salute><hi rendition="#i">Liebe Schwester</hi>!</salute>
+</opener>
+<p>Unlieb verspätet erlau<lb break="no"/>be ich mir Ihnen meine<lb break="yes"/>besten Schooßwünsche zum<lb break="yes"/>Papier zu bringen.</p><p>Gleichzeitig gebe ich<lb break="yes"/>Ihnen meine Ehrenworth<lb break="yes"/>daß ich bis heute
+                nicht<lb break="yes"/>dazu Zeit nehmen<lb break="yes"/>konnte und mir die<lb break="yes"/>Sache zu schwer<lb break="yes"/>fiel </p><p><space/> Erstens war es mir<lb break="yes"/>zu ungewohnt Euer wer<pb break="no" facs="#image_005"/>thes Ich gleich zu über<lb break="no"/>fallen, zweitens ist<lb break="yes"/>es
+                Freiherrendienst Ihnen<lb break="yes"/>dieses zu überreichen.<lb break="yes"/>Von
+                    <hi rendition="#i">Dr Tischinger</hi> sehe<lb break="yes"/>ich im vorneherein
+                    <add place="above">ab</add> und<lb break="yes"/>wünsche Euch zum <w>zwei<lb break="no"/>ten</w> Mahle ein ge<lb break="no"/>segnetes Compliment.<lb break="yes"/>Einer gesegneten Por<lb break="no"/>tion von Cigarren wür<lb break="no"/>de ich von Ihrer feinen<lb break="yes"/>Seite nicht absehen und<lb break="yes"/>sehe ich Ihrer Zuneigung<lb break="yes"/>mit Freudenwünschen<lb break="yes"/>entgegen. </p><p><seg ana="#salute">Es grüßt Sie mit<lb break="yes"/>freundlicher Hochachtung </seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Karl
+                                </hi><surname><hi rendition="#i">D.</hi></surname></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

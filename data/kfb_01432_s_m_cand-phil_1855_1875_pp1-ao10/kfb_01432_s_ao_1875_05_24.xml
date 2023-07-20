@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1432s11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1432</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: Josef <surname>S.</surname></persName>
+<date type="sent">24.05.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Mönchsdeggingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1432s">
+<persName>
+<forename>Theodor</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1855"/>
+<death cert="unknown"/>
+<occupation>Cand. Philologie in Erlangen</occupation>
+<residence><geo decls="#WGS">48.774956 10.5767002</geo>Mönchsdeggingen, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Doktor</p>
+<p>Anstalt: <date from="1875" to="1875">1875</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Moralischer Irrsinn</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Da sich der Zustand des Sohnes wieder deutlich verschlechtert habe, 
+                    hat der Vater vor, diesen erneut nach Irsee zu bringen. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1432s11a.jpg" xml:id="image_029"/>
+<graphic mimeType="image/jpg" url="kfb1432s11b.jpg" xml:id="image_030"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_029"/>
+<opener>
+<dateline><hi rendition="#r">Moenchs-Deggingen 24 Mai<lb break="yes"/>1875.</hi></dateline>
+<salute>Hochwohlgeborner,<lb break="yes"/>Hochzuverehrender Herr Direktor!</salute>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#c"><hi rendition="#u">10</hi></hi></add></add></p><p><add hand="arzt"><hi rendition="#r"><hi rendition="#i">pr</hi>. 25. 5
+                        75</hi></add>
+</p><p><add hand="arzt"><hi rendition="#r">Vorläufig zu<lb break="yes"/><hi rendition="#i">reponiren</hi><lb break="yes"/><unclear>N.</unclear></hi></add></p><p>Das Leiden meines Sohnes Theodor<lb break="yes"/>welcher vergangenen Herbst<lb break="yes"/>mit
+                meiner Frau bei Ihnen in<lb break="yes"/>Irrsee war, hat sich in letzter<lb break="yes"/>Zeit auffallend und bedenklich<lb break="yes"/>gesteigert, <w>so
+                    daß</w> seine<lb break="yes"/>Unterbringung in einer Heil<lb break="no"/>anstalt dringend geboten er<lb break="no"/>scheint.</p><p><space/> Schon seit 8 Tagen ist er wie<lb break="no"/>der spurlos verschwunden u.<lb break="yes"/>sobald ich seiner habhaft werden<lb break="yes"/>kann kom̄e ich selbst mit
+                    <pb facs="#image_030"/>ihm nach Irrsee.</p><p><space/>
+<seg ana="#salute">Sie hievon im Voraus<lb break="yes"/>in Kenntniß setzend,
+                        zeich<lb break="no"/>net mit ausgezeichneter<lb break="yes"/>Hochachtung u.
+                    Verehrung<lb break="yes"/><unclear>als</unclear><lb break="yes"/><hi rendition="#r">Euer Hochwohlgeborn<lb break="yes"/>gehorsamster </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Dr</hi>. <surname><hi rendition="#i">S.</hi></surname></seg>, <unclear>prs</unclear></hi>
+</p>
+</body>
+</text>
+</TEI>

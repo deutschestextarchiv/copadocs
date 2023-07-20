@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb667d01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Stephanie Kamm</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>667</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Katharina <surname>D.</surname></persName>
+<date type="sent">ca1860-61</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: Barbara <surname>D.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb667d">
+<persName>
+<forename>Katharina</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1819"/>
+<death cert="unknown"/>
+<occupation>Bäckerstochter</occupation>
+<residence><geo decls="#WGS">47.5833051 9.8499989</geo>Scheidegg im Allgäu, Weiler</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bäcker</p>
+<p>Anstalt: <date from="1860" to="1861">1860-61</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Geistesbeschränkung, Manie (1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Man soll ihn holen, sonst sterben vor Heimweh, letzter Brief, wenn man sie nicht holt; Anschuldigung: Mutter liebt fremde Leute mehr
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb667d01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<salute><hi rendition="#r">Geliebteste Mutter</hi></salute>
+</opener>
+<p>Jch lasse euch grüssen, um der bietteren Trähnen,<lb break="yes"/>das sie mich hollen lassen, oder ich muß sterben,<lb break="yes"/>vor Heimweh, es ist nicht so wie man gesagt<lb break="yes"/>hat, die Liebe ist falsch wie zu mier ich kan̄,<lb break="yes"/>Jhnen blos mehr Verzeihen. Diesen Brief<lb break="yes"/>hat Katharina <surname>D.</surname> in Scheidegg geschrieben,<lb break="yes"/>es ist der, letze in ihrem Leben wen man<lb break="yes"/>sie nicht hollet. Jch hätte nicht geglau<del>p</del>bt<lb break="yes"/>das eine Mutter eine solche Liebe zu dem eige<lb break="yes"/>ne Fleisch und Blut hat, das ihr die fremde<lb break="yes"/>Leit lieber sind.</p>
+<p><seg ana="#signed"><del>Baba</del> Barbara <surname>D.</surname> Witwe<lb break="yes"/>in Scheidegg, bei Landgericht Weiller.</seg>
+</p>
+</body>
+</text>
+</TEI>

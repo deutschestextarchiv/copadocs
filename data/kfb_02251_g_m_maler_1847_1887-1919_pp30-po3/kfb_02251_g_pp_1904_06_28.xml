@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g21" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">28.06.1904</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Babette <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Maler</p>
+<p>Anstalt: <date from="1887" to="1919">1887-1919</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Erzählung über zwielichtige Arbeiter im Betrieb und die Aufforderung an die Schwester, etwas dagegen zu unternehmen. 
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g21a.jpg" xml:id="image_073"/>
+<graphic mimeType="image/jpg" url="kfb2251g21b.jpg" xml:id="image_074"/>
+<graphic mimeType="image/jpg" url="kfb2251g21c.jpg" xml:id="image_075"/>
+<graphic mimeType="image/jpg" url="kfb2251g21d.jpg" xml:id="image_076"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_073"/>
+<opener>
+<dateline><hi rendition="#c">Irrse 28. Juni 1904.</hi></dateline>
+<salute><hi rendition="#c">Liebe Schwester!</hi></salute>
+</opener>
+<p>Ich will Dir nur Mittheilen<lb break="yes"/>u nicht länger mehr war<lb break="no"/>ten von Mißhandlungen<lb break="yes"/>Ehrabschneidungen u Schlech<lb break="no"/>tigkeiten alles von Er<lb break="no"/>denklichten in unserm<lb break="yes"/>Hauße
+                bei Arbeiten thun<lb break="yes"/>u Treiben im Geschäfte<lb break="yes"/>gegangen
+                gestanden Kurz<lb break="yes"/>war. Herr Meineidiger<lb break="yes"/><surname>S.</surname> ich gar nicht<lb break="yes"/>annehmen
+                    <del>e</del> während<lb break="yes"/>ein unerfahrener Herr<lb break="yes"/>Junger <surname>T.</surname> Erard<lb break="yes"/>von Lindau
+                    verbi<del>e</del>te<lb break="yes"/>seine dume Iden von<lb break="yes"/>Ehrden
+                klichten wo Farben </p>
+<pb facs="#image_074"/>
+<p>u Farben Kasten sich<lb break="yes"/>in Werkstatt sich Befinden<lb break="yes"/>nicht <del>f</del> erschrecken müßen<lb break="yes"/>wo man Daheim ist.<lb break="yes"/>Junge Herr <surname>T.</surname> ein<lb break="yes"/>unartiger
+                Man ist.<lb break="yes"/>Dieße Anstalt ist ein<lb break="yes"/>ordinäres Benehmen.<lb break="yes"/>Mache anzeige Bürger<lb break="no"/>meister. Der Peuße der<lb break="yes"/>frühre Soldate Knape u<lb break="yes"/><surname>M.</surname>
+                Rottmeister in<lb break="yes"/>Lindau ein Lumpen<lb break="no"/>pak u Meineidiger<lb break="yes"/><surname>K.</surname> die Urkunden<lb break="no"/>fälschung u Notar<lb break="yes"/>mit <surname>W.</surname> Oberver<lb break="no"/>walter u dieser Anstalt<lb break="yes"/>Kein Vermögen o ohne<lb break="yes"/>Zinß bei Ubersehen<lb break="yes"/>war. du wirst jetzt </p>
+<pb facs="#image_075"/>
+<p>wißen was Du zu thun<lb break="yes"/>hast. Jetzt schließe<lb break="yes"/>mein
+                Schreiben. u Beant<lb break="no"/>worte mir <del>Bri</del> Briefe.<lb break="yes"/>Es grüßt dich dein<lb break="yes"/><space/> Bruder<lb break="yes"/>Jakob
+                    <surname>G.</surname><lb break="yes"/>Maler. </p>
+<pb facs="#image_076"/>
+<p>Wohlgeborn<lb break="yes"/><hi rendition="#c">Fräulein Babette <surname>G.</surname><lb break="yes"/>Malerstochter.<lb break="yes"/>Lindau im Bodensee.</hi><lb break="yes"/>frei.</p>
+</body>
+</text>
+</TEI>

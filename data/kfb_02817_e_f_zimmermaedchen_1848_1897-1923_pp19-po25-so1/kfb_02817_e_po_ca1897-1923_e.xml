@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2817e42" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2817</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>E.</surname></persName>
+<date type="sent">ca1897-1923</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2817e">
+<persName>
+<forename>Maria</forename>
+<surname>E.</surname>
+</persName>
+<birth when="1848"/>
+<death when="1923"/>
+<occupation>Zimmermädchen</occupation>
+<residence><geo decls="#WGS">48.221764 10.1058969</geo>Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1897" to="1923">1897-1923</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait>
+<p>Größen- und Verfolgungsideen, Beeinträchtigungsideen, [Halluzinationen]
+                            (1911), halluzinatorische Verrücktheit (1922)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin wendet sich an den Medizinalrat, um aus der Anstalt entlassen zu werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2817e42a1.jpg" xml:id="image_150"/>
+<graphic mimeType="image/jpg" url="kfb2817e42a2.jpg" xml:id="image_151"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_150"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p> Herr <hi rendition="#i">Medecinalrath</hi> seit so freundlih und rihtet die<lb break="yes"/>Sachen gut das ih nach Haus kan ih stelle mih unter<lb break="yes"/>keiner corodell habe es jung niht angenohmen<lb break="yes"/>im alter gar niht ih
+                weiß warum ih die Shritte<lb break="yes"/>gethan hab da ih mih als brave
+                rehtshaffine Persohn<lb break="yes"/>nihts u fürhten habe weder Gericht noh Polizei<lb break="yes"/>die Polozei geht’s überhaupt nihts an die hätte<lb break="yes"/>ordnung mit den Konig sahen mahen sollen aber die<lb break="yes"/>Leute niht in
+                    <seg ana="#inst">Naarenhaus</seg> thun ohne verhandlung<lb break="yes"/>hinter
+                mein Rüken gehts ja als da <del>k</del> kan<lb break="yes"/>man viel mahen Herzog
+                oder Prinzin hin und her<lb break="yes"/>Bayerishe Prinzen sind niht mehr wie ander
+                die <del/><lb break="yes"/>andere Prinzen u Konig haben mir nihts gethan die<lb break="yes"/>sind selbst gekomen ob ih ein willige was Sie</p>
+<pb facs="#image_151"/>
+<p> wolten oder niht das sind meine Sahen ih<lb break="yes"/>übe keine <del>Rast</del>
+                Rache Indem ih dem Him̄el<lb break="yes"/>will and den Prinzen hätte shon
+                längst Rache<lb break="yes"/>üben könen das habe ih niht gewolt zu keinen<lb break="yes"/>Naaren lasse mih niht mahen den meine Kopf<lb break="no"/>Shmertzen
+                komen im̄er wieder wen ih niht<lb break="yes"/>Reih <del>w</del> bin Reih
+                hätte werden sollen aber den<lb break="yes"/>Betel bin ih für mein Persohn niht
+                gewöhnt ih habe<lb break="yes"/>den Leuten geben könen ih war der Meinug Elter<lb break="yes"/>Reht und Gottes geboth geht for Lug u Truck She<unclear reason="knick"/><lb break="yes"/>Ih irrte mih. ih möcthe nah Haus sollen Glüklih
+                sein<lb break="yes"/>u bald den ih muß meiner Freinde verzeihen wie<lb break="yes"/>u keine <w>aus rede</w> mehr die fremte<lb break="yes"/>Leute gehen mih niht an</p>
+<p> </p>
+</body>
+</text>
+</TEI>

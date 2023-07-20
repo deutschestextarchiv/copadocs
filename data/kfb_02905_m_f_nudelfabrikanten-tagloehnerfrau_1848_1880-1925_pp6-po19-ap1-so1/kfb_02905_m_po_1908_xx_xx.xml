@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2905m27" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2905</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Helene <surname>M.</surname></persName>
+<date type="sent">xx.xx.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2905m">
+<persName>
+<forename>Helene</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1848"/>
+<death when="1925"/>
+<occupation>Nudelfabrikanten-/Taglöhnerfrau</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern:</p>
+<p>Anstalt: <date from="1880" to="1925">1880-1925</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Fixe Ideen, Beeinträchtigungswahn (1881)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Aufzählung von verschiedenen Leuten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2905m27a.jpg" xml:id="image_064"/>
+<graphic mimeType="image/jpg" url="kfb2905m27b.jpg" xml:id="image_065"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_064"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Vom <unclear>MocVers</unclear> Sixti Johan̄es <surname>B.</surname><lb break="yes"/>Gebürg <unclear>??? Heinrich ??</unclear> Gerichtvollschuldl<lb break="yes"/>Lossow Wohlöblich Hoheits<lb break="yes"/><hi rendition="#i">Seniori</hi>, Jackob <surname>T.</surname><lb break="yes"/>Nerv Visitiv Vorsteherreih<lb break="yes"/>Hoirs Sixt
+                    <surname>B.</surname> Brombeist<lb break="yes"/>Julius
+                    <surname>V.</surname> Lindaus<lb break="yes"/>Schieber Bezirks Schuhmacherei<lb break="yes"/>jäh Herri Josephs Schiebe<unclear/><lb break="yes"/>Schweb <w>Bez irk</w> Amtman̄s<lb break="yes"/><surname>S.</surname> Rath Hoir Gemeind<lb break="yes"/>Degebstein Schielinsch<lb break="yes"/>Hel<unclear>amedrifer</unclear> Radivikat<lb break="yes"/><unclear>Traub</unclear> Bodler reeb Bezirk<lb break="yes"/>Kaspar <surname>G.</surname>
+<unclear>Nauersch</unclear><lb break="yes"/>schwells schells stells schwebs<lb break="yes"/>schlepp peub
+                Bodler Radivikation<lb break="yes"/>Nudelfabrikations N<unclear/>
+<surname>M.</surname><lb break="yes"/>Maccaronen Nudelfabrick <surname>M.</surname><lb break="yes"/><add place="margin">Vetter Götte Friedrich <surname>M.</surname>
+<unclear>Hochbuch</unclear> Hoir</add></p>
+<pb facs="#image_065"/>
+<p>Jns Seinen Namens <hi rendition="#i">Senior</hi> Evangelisch<lb break="yes"/>Königlich Hochheits Serviev<lb break="yes"/><space/> heftVerein 1908. v
+                    <unclear>Vierllenbarr</unclear><lb break="yes"/>und Dolkkönigs <hi rendition="#i">Serwiro</hi> v. Bayern<lb break="yes"/>Jrrseeensstreck Kaufbeur<lb break="yes"/><surname>R.</surname>
+                hinoch Christ Ogets<lb break="yes"/><hi rendition="#i">Senioro</hi> O/amts
+                Stadtpfarrei<lb break="yes"/>Jackob <surname>R.</surname> Zwilchhofrath<lb break="yes"/>Herrns Stadtthallenrat<lb break="yes"/>tapp pfarreir Oberpflegerei<lb break="yes"/>Nerv Weh efritz zum<lb break="yes"/><surname>M.</surname>
+                Helferisch chirurgsch<lb break="yes"/>Herrns Nappflegernnam<lb break="yes"/>Matthäus Helferöch Herrsch<lb break="yes"/>chlynicksschoppprofessors<lb break="yes"/>Sohn vom <surname>M.</surname> chlinike<lb break="yes"/>Erlangen Nerv Wehefritz<lb break="yes"/>Hschlepp Paul Bodlerried Degelstein<lb break="yes"/>Herrns Sixt <surname>B.</surname> grdl Bürgermeister<lb break="yes"/>v. Hoir bei Lindau i Bodensee.<lb break="yes"/><add place="margin">Herrn Nerv wirthaus <surname>S.</surname><lb break="yes"/><hi rendition="#i">Seniori</hi> im Bad Schach Bad Degelstein</add></p>
+</body>
+</text>
+</TEI>

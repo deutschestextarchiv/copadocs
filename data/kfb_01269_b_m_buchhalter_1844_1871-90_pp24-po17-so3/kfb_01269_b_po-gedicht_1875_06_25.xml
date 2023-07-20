@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1269b13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1269</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">25.06.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Irrenarzt</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1269b">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1844"/>
+<death cert="unknown"/>
+<occupation>Buchhalter</occupation>
+<residence><geo decls="#WGS">48.4113545 10.2991562</geo>Klein-Kötz, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonom "sehr guten Vermögensverhältniß" 200 Tagwerk</p>
+<p>Anstalt: <date from="1871" to="1890">1871-1890</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Depression, Selbstüberschätzung (1871), Wahnideen, Verfolgungswahn (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gedicht an einen Irrenarzt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1269b13a.jpg" xml:id="image_055"/>
+<graphic mimeType="image/jpg" url="kfb1269b13b.jpg" xml:id="image_056"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_055"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#u">An einen Irrenarzt.</hi></hi></salute>
+</opener>
+<p>Ach bleib u. weile stets in<lb break="yes"/><space/> deiner Jünger Mitte<lb break="yes"/>Es ist so Brauch u. deutsche<lb break="yes"/><hi rendition="#r">Sitte.</hi><lb break="yes"/>Bei den dir anvertrauten<lb break="yes"/>Seelen bist Arm du Hand<lb break="yes"/><hi rendition="#r">u. Pfleger,</hi><lb break="yes"/>Du kennst der Liebe herben<lb break="yes"/>Schmerz im Jahr
+                −,<lb break="yes"/>Gewiß reichst du die Hilfe<lb break="yes"/>gerne dar.<lb break="yes"/>Ermißt die Welt den<lb break="yes"/>Kum̄er nicht für
+                welchen<lb break="yes"/>du dich hergegeben<lb break="yes"/>Gibt es noch bess're
+                Zeiten,<lb break="yes"/>Hier ist nicht viel mehr<lb break="yes"/>zu erstreben<lb break="yes"/>Ist elend nur zu nennen<lb break="yes"/><hi rendition="#r">unser
+                    Leben.</hi><lb break="yes"/>Kein Joch ist süß u. leicht<lb break="yes"/>ist keine Bürde<lb break="yes"/>Lump allein ist noch lange<lb break="yes"/>keine Würde.<lb break="yes"/>Man täuscht sich oft im<lb break="yes"/>Urtheil Andrer<lb break="yes"/>Nur sich selbst kann man<lb break="yes"/>nicht ändern<pb facs="#image_056"/>Obwohl nichts andres <unclear reason="damage"/><lb break="yes"/>ein Wandrer<lb break="yes"/>Profitirt man nichts in<lb break="yes"/>unsern Ländern.<lb break="yes"/>Quält Verlangen unsre<lb break="yes"/>müden Glieder<lb break="yes"/>Trank u. Speise lullt uns<lb break="yes"/><hi rendition="#r">ein</hi><lb break="yes"/>Richten wir uns ein Gefie<lb break="no"/><hi rendition="#r">der</hi><lb break="yes"/>Sorgenlos wir schlum̄ern<lb break="yes"/><hi rendition="#r">ein</hi>.<lb break="yes"/>Unsre Sehnsucht nach der<lb break="yes"/>Heimath,
+                Vieh u. Wald<lb break="yes"/>X mal schöner Kunibal<unclear reason="damage">d</unclear></p>
+<p>d. 25. Juni 1875.<lb break="yes"/>825. Kleinkötz. −</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2936s31" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Urban <surname>S.</surname></persName>
+<date type="sent">22.8.1926</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mitpatient: Joseph <surname>M.</surname></persName>
+<settlement type="sent">Betteldorf</settlement>
+<settlement type="received">Kaufbeuren</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2936s">
+<persName>
+<forename>Urban</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1872"/>
+<death when="1927"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Lentin, Ingolstadt</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Schneider</p>
+<p>Anstalt: <date from="1922" to="1927">1922-27</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>erregb. Psychopathie, Hypomanie, Beeinträchtigungs- und Verfolgungswahn (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet Mitpatienten, zu ihm zu kommen, da er ihn dringend brauche.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2936s31a.jpg" xml:id="image_138"/>
+<graphic mimeType="image/jpg" url="kfb2936s31b.jpg" xml:id="image_139"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_138"/>
+<opener>
+<dateline><hi rendition="#r">Betteldorf den 32. August<lb break="yes"/>26</hi></dateline>
+<salute>Beste Freundin!</salute>
+</opener>
+<p><add hand="arzt"><surname><hi rendition="#i">S.</hi></surname> an <surname><hi rendition="#i">M.</hi></surname><lb break="yes"/>geschrieben.</add>
+</p><p>An H. Joseph <surname>M.</surname><lb break="yes"/>Werkführer<lb break="yes"/>in Kaufbeuren<lb break="yes"/>Heil und
+                Pflege-Anst.</p><p>Ich habe erfahren, Daß Du<lb break="yes"/>belastungsfähig bist.<lb break="yes"/>Kom̄e zu
+                mir, ich brauche<lb break="yes"/>dich nothwendig. Weiteres<lb break="yes"/>mündlich. <seg ana="#salute">Mit Grus</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Dein bester Freund.<lb break="yes"/>Hans <surname>O.</surname></seg></hi><lb break="yes"/>von Grüße auch von deine <pb facs="#image_139"/>
+<hi rendition="#u">Freunden</hi>
+</p>
+</body>
+</text>
+</TEI>

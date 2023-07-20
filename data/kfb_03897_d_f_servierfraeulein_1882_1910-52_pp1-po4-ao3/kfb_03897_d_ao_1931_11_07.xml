@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3897d07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3897</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>D.</surname></persName>
+<date type="sent">07.11.1931</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Memmingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb3897d">
+<persName>
+<forename>Adelinde</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1882"/>
+<death when="1952"/>
+<occupation>Servierfräulein</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: geschieden</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1910" to="1952">1910-1952</date></p>
+<p>Brieftypen: ao, pp, po</p>
+</state>
+<trait><p>Cerebralsklerose bei manisch-depressivem Irresein, zirkuläre Psychose, agitative Depression (1952)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="exmann"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Urlaubsverlängerung für seine Exfrau, lobt ihr Aussehen und ihren Gesundheitszustand, möchte Scheidung rückgängig machen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3897d07.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Memmingen</hi> 7. 11.
+                    31.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#u">Sehr verehrter Herr
+                            Direktor</hi>!</hi></salute>
+</opener>
+<p>Über den Gesundheitszustand u. das Aussehen<lb break="yes"/>meiner Frau, wahr ich
+                überascht, jedoch<lb break="yes"/>vollauf zufrieden.</p><p>Ich möchte Sie Höflichst ersuchen, beiliegendem<lb break="yes"/>Schreiben meiner Frau betreffs
+                    Urlaub<lb break="no"/>verlängerung und Aufenthaltsbewilligung<lb break="yes"/>bei mir <w>statt zu geben</w>. Betreffs der Scheidung<lb break="yes"/>brauchen Sie keine Bedenken haben,<lb break="yes"/>ich werde
+                selbige wieder Rükgänig machen.<lb break="yes"/>Näheres dann mündlich, wenn es
+                    möglich<lb break="yes"/>ist, werde ich Samstag den 14. Nov. vorsprechen.<lb break="yes"/>Die Kinder erfreuen sich sehr wieder eine<lb break="yes"/>Mutter
+                zu haben.</p><p><hi rendition="#c"><seg ana="#salute">Hochachtungsvollst<lb break="yes"/>Grüßt Sie</seg><lb break="yes"/><seg ana="#signed">Josef <surname>D.</surname><lb break="yes"/>Memmingen<lb break="yes"/>Luitpoldstr. 22. I.</seg></hi></p>
+</body>
+</text>
+</TEI>

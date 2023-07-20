@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2817e41" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2817</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>E.</surname></persName>
+<date type="sent">ca1897-1923</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.
+                    <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2817e">
+<persName>
+<forename>Maria</forename>
+<surname>E.</surname>
+</persName>
+<birth when="1848"/>
+<death when="1923"/>
+<occupation>Zimmermädchen</occupation>
+<residence><geo decls="#WGS">48.221764 10.1058969</geo>Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1897" to="1923">1897-1923</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait>
+<p>Größen- und Verfolgungsideen, Beeinträchtigungsideen, [Halluzinationen]
+                            (1911), halluzinatorische Verrücktheit (1922)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Formulierungsversuche, die teils in anderen Briefen aufgegriffen werden 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2817e41a.jpg" xml:id="image_149"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_149"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p> hätte shon 3 Todt für ein sterbn könen </p><p>In aller Tiester Erhfurht wagd<lb break="yes"/>Die gehorsamte Dinerin<lb break="yes"/><del>noh
+                    einmal ein paar Zeilein<lb break="yes"/>zu rihten</del> Einfaches Fräulein<lb break="yes"/>Bezugnehmend auf Retur Antwort<lb break="yes"/>Seine <hi rendition="#i">Maj</hi>e<hi rendition="#i">s</hi><hi rendition="#i">tä</hi>dt des
+                König Otto<lb break="yes"/><del>den Ih</del> Dem meine Kleinigkeit<lb break="yes"/>läuft jezt shon ein Jahr<lb break="yes"/>in <hi rendition="#i">München</hi>
+<del>er</del> herum Den<lb break="yes"/>Ih fordere <add place="above">Wünshe</add>ein <add place="above">brchen</add> Pensinonial<lb break="yes"/><del>P</del> Geld von Seiner <hi rendition="#i">Maj</hi>e<hi rendition="#i">st</hi>ädt Ih<lb break="yes"/>habe in meine Jugenjahre<lb break="yes"/>keine
+                große einbildung gemacht<lb break="yes"/>sonst kön̄te ih vieleiht shon<lb break="yes"/><del>längst ein</del><add place="above">g</add> früher ein Fürsten<lb break="yes"/>bekomen habe Das überge weißt ja<lb break="yes"/>Seine
+                Durhlauhesten Prinz<lb break="yes"/>und Regint selbst. Beteid<lb break="yes"/>ung
+                Darf man keine rechen oder<lb break="yes"/>Zählen ih <del>b</del> Einfaches Mädhe<lb break="yes"/>oder Fräulein bin auh beleidig<lb break="yes"/><del>das ih
+                    im̄er König u Kaiser<lb break="yes"/>Preußish wie</del>Bayerishe<lb break="yes"/><del>Hoheiten nah mir <unclear/></del></p>
+</body>
+</text>
+</TEI>

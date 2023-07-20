@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7442t08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7442 (K. 250)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine <surname>T.</surname></persName>
+<date type="sent">16.09.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Pastor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Eickelborn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip7442t">
+<persName>
+<forename>Wilhelmine</forename>
+<surname>T.</surname>
+</persName>
+<birth when="1892-06-26"/>
+<death cert="unknown"/>
+<occupation>Ehefrau</occupation>
+<residence><geo decls="#WGS">51.4020053 7.4899059</geo>Geburtsort: Westerkappeln; Wohnort: Hagen-Kabel</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Ehemann: Bahnmeister; Vater: Landwirt; Mutter: n.a.</p>
+<p>Anstalt: <date from="1928-04-23" to="1929-09-24">23.04.1928-24.09.1929</date></p>
+<p>Brieftypen: pp, po, Lebenslauf, Gebet</p>
+</state>
+<trait><p>paranoide Erkrankung (1928 Dr. Korbsch)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon_blue" scope="minor" scribe="hand2"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand3"/>
+<handNote medium="ink" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie sagt, sie kam durch eine List in die Anstalt. Ein Brief, den sie an den Pastor geschrieben hatte, wurde nicht versandt. Der hiesige Oberarzt ist katholisch und sie sehnt sich nach ihren Kindern. Sie sagt, sie ist nicht krank, sondern nur erholungsbedürftig.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7442t08.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline><hi rendition="#r">Eickelborn d. 16.9.28.</hi></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr <hi rendition="#i">Pastor</hi>!</hi></salute>
+</opener>
+<p><add hand="hand4"><hi rendition="#u" style="hand3">Ad acta Fr. <surname>T.</surname></hi></add></p><p><add hand="hand2"><hi rendition="#r">32.</hi></add></p><p>Die schönsten Grüße von Eickelborn<lb break="yes"/>sendet Ihnen Frau <surname><hi rendition="#i">T.</hi></surname>.<lb break="yes"/>Kann Ihnen mitteilen, daß ich seit<lb break="yes"/>Ende April hier bin und <hi rendition="#u" style="hand3">auf
+                    ganz<lb break="yes"/>listiger Weise nach hier gekommen<lb break="yes"/>bin,</hi> durch <hi rendition="#u" style="hand3">die kath. Fürsörgerin.</hi><lb break="yes"/>Ich habe schwer gelitten ich suche<lb break="yes"/>aber mein Heil
+                dort bei den<lb break="yes"/>Protestanten. Im Anfange habe<lb break="yes"/>ich
+                gleich einen Brief an Herrn<lb break="yes"/><hi rendition="#i">Pastor</hi>
+                gerichtet, <seg ana="#cens">der ist <hi rendition="#u">nicht</hi> ab<lb break="no"/>geschickt worden</seg>! <hi rendition="#u" style="hand3">Der Oberarzt ist<lb break="yes"/>auch kath.</hi> Wenn ich nur diesen<lb break="yes"/>Sommer
+                in Urlaub gekommen<lb break="yes"/>wäre, ich jammere <add place="above">so</add>
+                nach den Kindern.<lb break="yes"/>Nervenkrank bin ich nicht; sondern nur<lb break="yes"/>erholungsbedürftig. (Gott helfe mir.) <hi rendition="#c"><lb break="yes"/><seg ana="#salute">Herzlichen Gruß auch an Schwester</seg><lb break="yes"/><hi rendition="#r"><hi rendition="#i">M</hi>arta u.
+                        Frauenverein.</hi><lb break="yes"/><seg ana="#signed">Frau <surname>T.</surname>.</seg></hi>
+</p>
+</body>
+</text>
+</TEI>

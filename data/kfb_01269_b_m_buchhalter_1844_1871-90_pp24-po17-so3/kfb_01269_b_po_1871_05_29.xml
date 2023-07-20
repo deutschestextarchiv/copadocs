@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1269b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1269</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">29.05.1871</date>
+<date type="received">n.a.</date>
+<persName type="addressee">königliche Regierung</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1269b">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1844"/>
+<death cert="unknown"/>
+<occupation>Buchhalter</occupation>
+<residence><geo decls="#WGS">48.4113545 10.2991562</geo>Klein-Kötz, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonom "sehr guten Vermögensverhältniß" 200 Tagwerk</p>
+<p>Anstalt: <date from="1871" to="1890">1871-1890</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Depression, Selbstüberschätzung (1871), Wahnideen, Verfolgungswahn (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will entlassen werden, weil er nicht krank ist
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1269b02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1269b02b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Hohe kgl. Regierung<lb break="yes"/>von Schwaben u.<lb break="yes"/><space/> Neuburg.<lb break="yes"/>− Kam̄er des Inneren − </p>
+<p><hi rendition="#r">Der Unterzeichnete<lb break="yes"/>befindet sich seit nahezu<lb break="yes"/>fünf Wochen in der<lb break="yes"/>hiesigen Kreis-Irren-<lb break="no"/>Anstalt, obwohl er<lb break="yes"/>nicht krank ist, was<lb break="yes"/>ich dem Herrn Director<lb break="yes"/><hi rendition="#i">Kiderle</hi> vergebens<lb break="yes"/>versichere. Deßhalb<lb break="yes"/>stelle ich an die hohe<lb break="yes"/>kgl. Regierung die<lb break="yes"/>gehorsamste Bitte:<lb break="yes"/>„gegen solches Ver<lb break="no"/>„fahren
+                    Seiten der<lb break="yes"/>„Direction der hiesigen<lb break="yes"/>„Kreis-Irren-Anstalt<lb break="yes"/>einzuschreiten“ und<lb break="yes"/>gegen Herrn Direc<lb break="no"/>tor <hi rendition="#i">Kiderle</hi> Unter<lb break="no"/>suchung einzuleiten. </hi><lb break="yes"/><add place="margin">Betreff:<lb break="yes"/>Gesuch um Ent<lb break="no"/>lassung aus der<lb break="yes"/>Irren-Anstalt<lb break="yes"/><space/> Irrsee.</add><lb break="yes"/><add place="bottom"><hi rendition="#r"><hi rendition="#i">Verte</hi></hi></add>
+<pb facs="#image_006"/><hi rendition="#r">Eine baldige Willfah<lb break="no"/>rung
+                    meiner Bitte<lb break="yes"/>glaube ich schon deßhalb<lb break="yes"/>erwarten
+                    zu dürfen,<lb break="yes"/>als ich versichern kann,<lb break="yes"/>daß ich
+                    Angesichts des<lb break="yes"/>Umstandes, daß ich hier<lb break="yes"/>als
+                    geistig Kranker<lb break="yes"/>behandelt werde leicht<lb break="yes"/>begreiflich körperlich<lb break="yes"/>krank zu werden be<lb break="no"/>fürchten muß, gegen<lb break="no"/>wärtige Beschwerde<lb break="yes"/>somit
+                    einen Not großer<lb break="yes"/>Inhumanität bezeichnet,<lb break="yes"/>dessen Abhilfe nicht mehr<lb break="yes"/>als billig ist. Zu solcher<lb break="yes"/>Erwartung verharre<lb break="yes"/>als einer hohen kgl.<lb break="yes"/>Regierung.<lb break="yes"/>ergebenster!<lb break="yes"/>Josef
+                        <surname>B.</surname>.</hi><lb break="yes"/><add place="margin">Irrsee, den 29. Mai<lb break="yes"/><space/> 1871. </add>
+</p>
+</body>
+</text>
+</TEI>

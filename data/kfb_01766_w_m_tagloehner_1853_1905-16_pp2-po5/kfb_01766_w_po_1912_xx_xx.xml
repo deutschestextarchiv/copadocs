@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1766w05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1766</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Martin <surname>W.</surname></persName>
+<date type="sent">ca1912</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1766w">
+<persName>
+<forename>Martin</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1853"/>
+<death when="1916"/>
+<occupation>Taglöhner</occupation>
+<residence><geo decls="#WGS">48.6303725 11.0995944</geo>Schönesberg, Neuburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Wirt</p>
+<p>Anstalt: <date from="1905" to="1916">1905-16</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Epileptisches Irresein, sekundärer Schwachsinn (1905)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Direktor soll an Bürgermeister schreiben wegen Gelddingen bzw. Bürgermeister soll kommen und darüber reden, 
+                    Direktor bekommt dann Belohnung von 10 Mark
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1766w05a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb1766w05b.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb1766w05c.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#r">Lieber Freund Herr Direktdor!</hi></salute>
+</opener>
+<p> Es ist jetzd bald 7 Jahre das ich<lb break="yes"/>hir bin und habe alles Aus Liebe<lb break="yes"/>zu Gott geli<del>dten</del><add>ten</add>. Lieber Freund Herr<lb break="yes"/>Direktdor wen Sie nur so gut<lb break="yes"/>wären und würten für
+                mich an<lb break="yes"/>den Ersten Bürgermeister von<lb break="yes"/>Friedberg
+                Schreiben Er soll so gut sein<lb break="yes"/>und soll mir hundert Mark <w>Leihen</w><w>bis</w><lb break="yes"/>die Sächzigdausend Mark zins da<lb break="yes"/>sind die ih vom
+                Mund Erschbahren<lb break="yes"/>muß. bis Es mein Eigenthum wird <pb facs="#image_011"/> Ich würde Ihm gern hunderd<lb break="yes"/>Mark zins auf
+                zwei Jhre. geben<lb break="yes"/>das ih auch Ein wenig Etwas hätte<lb break="yes"/>wo Er dan Auch hiher Reisen kan<lb break="yes"/>um mich zu Besuchen. und von<lb break="yes"/>diesen Sahen zureden, das<lb break="yes"/>mir so Schwer am Herzen
+                    liegt.<lb break="yes"/>bis die ganze Sume 130000 Mark<lb break="yes"/>Vätterliches Erbguth mein <w>Eigen<lb break="yes"/>thum</w> wird. Ich bin Euer <w>Aufrich<lb break="yes"/>tiger</w> <del>Frun</del> Freund Martin<lb break="yes"/><hi rendition="#c"><surname>W.</surname>. dahir.</hi>
+<pb facs="#image_012"/>
+<hi rendition="#r">Lieber Freund Herr Dierektor!</hi><lb break="yes"/>Zur Belonung
+                Bekomen Sie<lb break="yes"/>10 Mark. Seidoch so gut und<lb break="yes"/>helft mir
+                aus meiner Not,<lb break="yes"/>Ich bin Euer aufrichtiger<lb break="yes"/>Freund
+                Martin <surname>W.</surname><lb break="yes"/><hi rendition="#r"><add>von</add> Schönesberg Bezirksgeri<add>cht</add><lb break="yes"/>Neuburg a/d.. Bezirksamt.</hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

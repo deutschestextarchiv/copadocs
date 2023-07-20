@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb88b04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>88</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>B.</surname></persName>
+<date type="sent">08.06.1856</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwalter: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Burgheim</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb88b">
+<persName>
+<forename>Joseph</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1798"/>
+<death cert="unknown"/>
+<occupation>Müller</occupation>
+<residence><geo decls="#WGS">48.7003635 11.0165677</geo>Burgheim, Neuburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1856" to="1857">1856-1857</date></p>
+<p>Brieftypen:  pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Tobsucht (1856-57)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="sohn"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet den Verwalter, seinem Vater die geschickte Kleidung zu übergeben.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb88b04.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><hi rendition="#r"><add hand="hand2">8./</add> Burgheim den 8 Juni <add place="below">1856</add><lb break="yes"/><add hand="hand3"><unclear>prcco f:</unclear> 13 Juny
+                            56</add><lb break="yes"/><add hand="hand2">E N<hi rendition="#u"><hi rendition="#sup">o</hi></hi> 2128</add></hi></dateline>
+<salute><hi rendition="#c">Hochgeehrter Herr Verwalder</hi></salute>
+</opener>
+<p> Jndem ich meiem Vatter diese <w>Gleidungs<lb break="no"/>stüke</w>
+<w>über sende</w> so ehrsuche ich sie meinen<lb break="yes"/>Vatter zu <w>uber
+                    geben</w>.</p>
+<p><space/><seg ana="#salute"> In <w>volster</w><w>hochachdung</w> ihres ergebener</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Joseph
+                            <surname>B.</surname></seg> im<lb break="yes"/>Burgheim</hi></p>
+<p><add hand="hand2">Eingetroffen: 1 Halstuch<lb break="yes"/><space/> 2 Schürzen<lb break="yes"/><space/> 1 Jacke<lb break="yes"/><space/> 2 Nachthauben<lb break="yes"/><space/> 2 p. Strümpfe<lb break="yes"/><space/> 1 Hose<lb break="yes"/><space/> 1 <unclear>Cort</unclear><lb break="yes"/><space/> 1 Säckchen<lb break="yes"/><space/> 1 p. Stiefeln<lb break="yes"/><space/> 1 p. Pantoffel<lb break="yes"/><milestone rendition="#hr" unit="section"/></add></p>
+<p><add hand="hand3"><hi rendition="#u"><hi rendition="#i">Erden</hi></hi><lb break="yes"/><hi rendition="#i">fiat</hi>
+<unclear>Samstags<lb break="no"/>Anzüge</unclear>.<lb break="yes"/><unclear/></add></p>
+<p><add hand="hand2"><unclear>fort</unclear></add></p>
+</body>
+</text>
+</TEI>

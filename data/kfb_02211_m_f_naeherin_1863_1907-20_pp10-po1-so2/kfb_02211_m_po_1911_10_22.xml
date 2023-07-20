@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2211m01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Susanne Klohn</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2211</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josefa <surname>M.</surname></persName>
+<date type="sent">22.10.1911</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2211m">
+<persName>
+<forename>Josefa</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1863"/>
+<death when="1920"/>
+<occupation>Näherin</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Schwester: Hausmeisterin, Bruder: Schuhmachermeister</p>
+<p>Anstalt: <date from="1907" to="1920">1907-20</date></p>
+<p>Brieftypen: po, pp</p>
+</state>
+<trait><p>Verfolgungswahn mit Zerstörungstrieb, religiöser Wahn (1907)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    klagt über stark schmerzende Ohren; meint, in einem anderen Haus wäre sie bereits gesund;
+                    fragt, ob sie eine Frau umbringen solle, um herauszukommen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2211m01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2211m01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb2211m01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><add>prs. 22.10.11.</add></dateline>
+<salute><hi rendition="#c">Werther Herr Oberarzt.</hi></salute>
+</opener>
+<p>
+Ich bin der Meinung daß Herr <surname>C.</surname> an dem<lb break="yes"/>Faßnachtsball zu mir gesagt hatt, zehn Jahre<lb break="yes"/>soll ich noch bei Ihnen sein, soll ich dan̄<lb break="yes"/>noch so lange Zeit die wehen Ohren<lb break="yes"/>haben? Am Gartenfest war ich zufrieden<lb break="yes"/>da waren sie doch ganz gut, u. hab gar keine<lb break="yes"/>Schuppen mehr hinten dort gehabt. u. nach<lb break="yes"/>dem Gartenfest hab ich vom Frl. Ober<lb break="no"/>pflegerin Kiechlein bekom̄en dick mit<lb break="yes"/>Zucker bestreut u. darauf hab ich die<lb break="yes"/>wehen Ohren <add>wider</add> bekom̄en <add>ganz</add> naß <del>ist</del> bin ich<lb break="yes"/>oft hinter den Ohren u. Sie thun ja so<lb break="yes"/>als wie wen̄ Sies kaum anrühren<lb break="yes"/>dürften, mir hatt mein ich so geträumt<lb break="yes"/>Sie brauchen mich nicht mehr anschauen.
+
+<pb facs="#image_002"/>
+Mir hatt auch geträumt in einem<lb break="yes"/>andern Haus wär ich schon längst gesund.<lb break="yes"/>u. weil ich mir alles gefallen ließ<lb break="yes"/>käme ich nicht hinaus was solle ich mir<lb break="yes"/>dan̄ nicht gefallen lassen bitte. Soll ich<lb break="yes"/>jetzt im̄er bei Frau <surname>M.</surname> im<lb break="yes"/>Zim̄er sein ist das das Seperatzim̄er<lb break="yes"/>u. wen̄ ich da herin̄en umgebracht<lb break="yes"/>werde, so meine ich soll ich Herrn Ober<lb break="no"/>arzt bitten daß Sie dan̄ sorgen daß<lb break="yes"/>ich eine schöne Leich bekom̄e, ich meine<lb break="yes"/>daß ich schön begraben u. einen schönen<lb break="yes"/>Grabstein bekom̄e. <seg ana="#signed">Ihre ergebenste<lb break="yes"/>Patzientin Josepha <surname>M.</surname></seg>.
+				    
+<pb facs="#image_003"/>
+Der Hilfslehrer Max <surname>G.</surname> in Altötting an die<lb break="yes"/>Knabenschule in Wasserburg ich habe in als Kl. Knabe<lb break="yes"/>gekan̄t ist das wohl der Sohn von Fr. <surname>G.</surname> bei welcher ich schon<lb break="yes"/>in Augsburg ge<lb break="no"/>näht habe.<lb break="yes"/>Ich habe es<lb break="yes"/>in der Zeitung<lb break="yes"/>gelesen die<lb break="yes"/>Neuigkeit.</p>
+<p>Ich hab solche Gedanken als daß meine<lb break="yes"/>Geschwistert haben möchten, ich solle<lb break="yes"/>dum̄ sein. 2. Ich habe es <del>so</del> in meinem<lb break="yes"/>Sin̄, wen̄ ich aus dießer Anstalt dürfte ich<lb break="yes"/>müßte glaube ich etwas tragen, daß man es<lb break="yes"/>weiß daß ich schon in dießer Anstalt war.<lb break="yes"/>Frage Muß ich die Frau <surname>M.</surname> umbringen<lb break="yes"/>daß ich aus dießer Anstalt darf u. dan<lb break="yes"/>meine ich ob ich mit dem Herrn Oberarzt<lb break="yes"/><surname>Z.</surname> ins Zuthaus soll. sind doch schreckliche<lb break="yes"/>Gedanken da mir auch schon geträumt<lb break="yes"/>hatt in diesem Haus bringt man nie<lb break="no"/>mand um, da wäre es schon gesorgt<lb break="yes"/>nicht ein Thierchen soll man umbringen<lb break="yes"/>Wen̄ Herr Oberarzt zu mir kom̄t, muß<lb break="yes"/>ich mich da fürchten, daß Sie mir waß thun<lb break="yes"/>kön̄ten u. ich dan̄ ohne einen geistlichen<lb break="yes"/>Herrn von dießer Welt scheiden müßte.
+</p>
+</body>
+</text>
+</TEI>

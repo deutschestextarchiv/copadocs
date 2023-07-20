@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb149f08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>149</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>F.</surname></persName>
+<date type="sent">30.12.1919</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ignatz, Marie</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb149f">
+<persName>
+<forename>Magdalena</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1929"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">47.5861627 9.9436023</geo>Simmerberg, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1915" to="1929">1915-29</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Senile Demenz (1915), Halluzinationen (1919)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gruß zum Jahresende mit Neujahrswünschen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb149f08a.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="kfb149f08b.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_018"/>
+<opener>
+<dateline><hi rendition="#c">Kaufbeiren den 30 Dez. 1919.</hi></dateline>
+<salute><hi rendition="#c">Lieber <del>Iglatz</del><add place="above">Ignatz</add> und Famile Marie.</hi></salute>
+</opener>
+<p>Ich habe shon lange Euch nicht mehr geshriben<lb break="yes"/>Ih weiß wohl daß auch
+                Irh zwei lange habet<lb break="yes"/>und veile Trofen geweit habet. Es kont<lb break="yes"/>nun eines gutes Jahr Ich wüsche Euch ein<lb break="yes"/>Gesundheit langes Leben alles gut an Leib<lb break="yes"/>Seele. Ih bin auh
+                Gesundt daß beste ist<lb break="yes"/>alles Gefangen. Ich auh viele Trofen geweit<lb break="yes"/>und alle am Morgen und die Augen naß<lb break="yes"/>den Franz
+                Sohn Karl wahr an heilige<lb break="yes"/>Veinachten bei mir in besuch ader weide<lb break="yes"/>ihr fall nicht her aber wen Er wieder<lb break="yes"/>oder
+                Sein Schwester, dan fahrt er in die<lb break="yes"/>Krone dort nimt Er daß Furwek
+                bis<lb break="yes"/>vor die Thüre, dan thut mih die zum<lb break="yes"/>Shesse hir
+                Sohn Franz hat wie ein<lb break="yes"/>Baket von allen gebrach und eine Mark daß<lb break="yes"/>Schreiben kan, die thut für und Ihre<lb break="yes"/>Kinder
+                meisten und Ihr Man. Ich wahr<lb break="yes"/>halt daß letzemal bös krank. <pb facs="#image_019"/>Die Dare wahr bereitz den ganzen Tag<lb break="yes"/>bei mir
+                die Tehra die hät mih shon nach<lb break="yes"/>Haus gebracht. die Elis wahr auh
+                bei<lb break="yes"/>mir Ih wüsche auch Deinen Kinder<lb break="yes"/>allen, ein
+                neues gute Jhar alles<lb break="yes"/>gute an Leib und Selle Rosa Ludwiger<lb break="yes"/>Marta Barbera Augsta und Medil<lb break="yes"/>und der Kranken
+                Marie, allen alles<lb break="yes"/>Gesunteheh langes Leben die Kosh ist<lb break="yes"/>vohl meisten bekomend. Hollt nich<lb break="yes"/>in gotetes
+                Villen ab oder thut was Ihr<lb break="yes"/>wolt. daß Essen am Morgen Kaffe<lb break="yes"/>Mitag Milch in die Küche gang ih noch dort<lb break="yes"/>kom ih
+                kaffe vielen daß beste ist, Grus an<lb break="yes"/>Deine Nahbaren, weist zu Noh
+                klte Shebeis<lb break="yes"/>Ih wüshe Euch Noch male ein gutes neus<lb break="yes"/>Jhar, Ih beshlise mei Shreiben.<lb break="yes"/>Großmuter Magdalena
+                    <surname>F.</surname>. Vitwe<lb break="yes"/>An Adrese Ignatz
+                    <surname>F.</surname> Misser berg<lb break="yes"/>Post Ammt Ilmenstadt Parei
+                Misser</p>
+<p><hi rendition="#c">Absender Magdalena <surname>F.</surname>. aufenthalt.<lb break="yes"/><seg ana="#salute">Viele grüß alls Gefangene</seg></hi>
+</p>
+</body>
+</text>
+</TEI>

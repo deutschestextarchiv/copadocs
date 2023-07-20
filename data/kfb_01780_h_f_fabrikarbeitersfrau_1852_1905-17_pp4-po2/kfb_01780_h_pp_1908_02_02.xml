@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1780h03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1780</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Therese <surname>H.</surname></persName>
+<date type="sent">02.02.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Neffe: Johann Friedrich <surname>P.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1780h">
+<persName>
+<forename>Therese</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1852"/>
+<death when="1917"/>
+<occupation>Fabrikarbeitersfrau</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Tagelöhner</p>
+<p>Anstalt: <date from="1905" to="1917">1905-1917</date></p>
+<p>Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Beobachtungs-, Beziehungs-, Verfolgungswahn, Paranoia, Halluzinationen (1905)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Besuch, ersetzt Reisekosten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1780h03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb1780h03b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbäuern den 2 <hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Februar 1908.</hi></dateline>
+<salute><hi rendition="#c">Geehrter Her Neffe!</hi></salute>
+</opener>
+<p>Indem wir seit unsern Kinderjahren fremd<lb break="yes"/>sind und doch der nächste
+                    Verwande<lb break="yes"/>bist und ich mich schon bereitz drei Jahre<lb break="yes"/>in der Anstalt befinde, so möchte ich<lb break="yes"/>Dich biten
+                wen es Deine Frau erlaubt<lb break="yes"/>mich zu besuchen. Ich hoffe auch daß<lb break="yes"/>Du mir meine Bite nicht abschlagen<lb break="yes"/>wirst, indem es
+                unter Deinen günstigen<lb break="yes"/>Verhältnißen nicht auf die Reise<lb break="yes"/>Kosten ankom̄t und ich Dir wieder<lb break="yes"/>ersetze.
+                Alles nähere mündlich. <pb facs="#image_008"/>Wohlgeborn
+                        Geehrten<lb break="yes"/>Herrn Johann Friedrich<lb break="yes"/><surname>P.</surname> Fabrikant in<lb break="yes"/><hi rendition="#c">Alling</hi><lb break="yes"/><hi rendition="#r">bei<lb break="yes"/>Regensburg.</hi><pb facs="#image_008"/><seg ana="#salute"><hi rendition="#c">Ich beschließe<lb break="yes"/>mein<lb break="yes"/>Schreiben mit vielen herzlichen<lb break="yes"/>Grüßen als Unbekant<lb break="yes"/>an Deinen Herrn
+                            Schwiegervater<lb break="yes"/>an Dich Deine Liebe Frau und<lb break="yes"/>Dein einziges liebes Töchterlein.</hi><lb break="yes"/>Meine Adreße<lb break="yes"/>Therese <surname><hi rendition="#i">K.</hi></surname><lb break="yes"/>in
+                            der<lb break="yes"/>Heilanstalt in Kaufbäuern.<lb break="yes"/><seg ana="#metaling">Bite um Verzeihung meiner<lb break="yes"/>schlechten
+                                Schrift.</seg></seg></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun5988f15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>5988 (K. 90)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>F.</surname></persName>
+<date type="sent">01.02.1931</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun5988f">
+<persName>
+<forename>Heinrich</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1879-07-10"/>
+<death cert="unknown"/>
+<occupation>Landwirt</occupation>
+<residence><geo decls="#WGS">51.9097831 7.958472934876058</geo>Geburtsort: Freckenhorst; Wohnort: Freckenhorst</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Landwirt; Mutter: n.a.</p>
+<p>Anstalt: <date from="1920-03-29" to="1920-08">29.03.1920-xx.08.1920</date></p>
+<p>Brieftypen: 14.04.1922-14.07.1923</p>
+</state>
+<trait><p>Schizophrenie (1920)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand2"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+            Er antwortet auf eine Kontaktanzeige einer Dame. Er erzählt, dass er Landwirt ist und dass sie ihn gerne jederzeit in der Anstalt besuchen kann.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun5988f15a.jpg" xml:id="image_040"/>
+<graphic mimeType="image/jpg" url="mun5988f15b.jpg" xml:id="image_041"/>
+<graphic mimeType="image/jpg" url="mun5988f15c.jpg" xml:id="image_042"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_040"/>
+<opener>
+<dateline>Münster d. 1.2.1931.</dateline>
+<salute><hi rendition="#c">Geehrte Dame!</hi></salute>
+</opener>
+<p><add hand="hand3">Zu den Akten <hi rendition="#u" style="hand2"><surname>F.</surname>.</hi></add></p><p>Wie ich aus der<lb break="yes"/>Zeitung gelesen habe<lb break="yes"/>daß Sie mit einen<lb break="yes"/>Herrn Bekannt sein<lb break="yes"/>wollten. Mein Name<lb break="yes"/>ist Heinrich <surname>F.</surname><lb break="yes"/>Ich bin unverheiratet<lb break="yes"/>Katholisch, möchte auch<lb break="yes"/>die Bekanntschaft<lb break="yes"/>einer Dame <pb facs="#image_041"/>wenn Sie nun <unclear>so</unclear><lb break="yes"/>gut sein wollen <unclear/><lb break="yes"/>mit mir in Bek<unclear>annt</unclear><lb break="no"/>schaft zu
+                treten. <unclear/><lb break="yes"/>die Bitte mich <unclear/><lb break="yes"/>in dieser Anstalt<lb break="yes"/>zu Besuchen. Ich <unclear/><lb break="yes"/>Landwirt habe<lb break="yes"/>einen Bauernhof<lb break="yes"/>Suche deßhalb eine<lb break="yes"/><del>Be</del> Bekanntschaft.<lb break="yes"/>Bin ganz Gesund<lb break="yes"/>Klug sonst alles <unclear/><lb break="yes"/>Möchte Sie hier n<unclear/><lb break="yes"/>sprechen. <pb facs="#image_042"/>Ich hier in der<lb break="yes"/>Provinzialheilanstalt<lb break="yes"/>Marienthal wo Sie<lb break="yes"/>mir
+                jeden Tag sprechen<lb break="yes"/>können. Sie können sich<lb break="yes"/>am Thor
+                melden. Ich<lb break="yes"/>bin im Hauptgebäüde<lb break="yes"/>M. A. 2. dieses
+                Schreiben<lb break="yes"/>mitbringen.<lb break="yes"/>Landwirt <seg ana="#signed"><hi rendition="#i">Heinrich<lb break="yes"/></hi><hi rendition="#r"><surname><hi rendition="#i">F.</hi></surname></hi></seg>.</p>
+</body>
+</text>
+</TEI>

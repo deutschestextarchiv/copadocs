@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb149f07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>149</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>F.</surname></persName>
+<date type="sent">30.12.1912</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Maria <surname>V.</surname>, Martin <surname>V.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb149f">
+<persName>
+<forename>Magdalena</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1929"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">47.5861627 9.9436023</geo>Simmerberg, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1915" to="1929">1915-29</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Senile Demenz (1915), Halluzinationen (1919)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    wünscht alles Gute zum neuen Jahr
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb149f07a.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb149f07b.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline><hi rendition="#c">Kaufbeiren den 30 Dez: 1919.</hi></dateline>
+<salute><hi rendition="#c">Liebe Maria und Martin <surname>V.</surname></hi></salute>
+</opener>
+<p>Ih habe dir schon lange nicht mehr geschriben<lb break="yes"/>Ich weiß wohl wie die
+                zwei auch <w>lange Veile</w><lb break="yes"/>habet, und viele Trofen, gweit haben.<lb break="yes"/>Es komt un
+                wider daß neue Jahr ich wünsche<lb break="yes"/>mir gutes neües Jahr Gesundheit
+                langes<lb break="yes"/>Leben, als gute an Leib und Seele,<lb break="yes"/>Ih bin
+                auh Gott sei Dank Gesund Ih wüsche<lb break="yes"/>auh Deinen als gute und Deinen
+                Gebard<lb break="yes"/>und Ana, daß gleihe gute Jahr.<lb break="yes"/>geweit habe
+                bereits alle Tage oder<lb break="yes"/>renüschen Nase Augen gehabt. Die lezete<lb break="yes"/>Zeit an Veinahten hat mich der Sohn Franz<lb break="yes"/>besuht
+                seine Shwestern Elis und dehre<lb break="yes"/>Sie haten zu wenig gorshen. Aer wen
+                Sie<lb break="yes"/>wider tan Kehre Sie zu Krone dort nehmen<lb break="yes"/>daß
+                Furwerk mit Shese und bleiben dort<lb break="yes"/>fohrn, dan wird mih die Frau von
+                dir<lb break="yes"/>hinaus thun ih danke dir für die dauer<lb break="yes"/>Die
+                Keth hat an meisten für getan <pb facs="#image_017"/>als Dahre da wahr ich böß krank
+                so<lb break="yes"/>daß Sie mich mit nehmen konte. Sie<lb break="yes"/>wahr bereitz
+                den ganzen Tag bei mir Name<lb break="yes"/>hate schon zuwege gebracht. Mit dem
+                Vater<lb break="yes"/>weiß ih Vohl daß er gestorben ist, und<lb break="yes"/>ein
+                Trauriges begraben wen eine Mutter<lb break="yes"/>gefangen. Das hat min Parher
+                getragen<lb break="yes"/>Es ist für gut daß er Erlös ist. Du und<lb break="yes"/>Martin nöhtet, so Sein und mih hollen<lb break="yes"/>ih habe es bei dir gut
+                gehabt der Mensh<lb break="yes"/>Martin ist er doch noh. ein guter
+                    <unclear>resinen</unclear><lb break="yes"/>Wein wahr gut, oder wenistens auf Melatz<lb break="yes"/>den
+                Lokomotifür fahr zu eider Zeit mehr<lb break="yes"/>kan er niht. Die Leut sind wie
+                andere<lb break="yes"/>Leut, daß Leben ist man Siher, mit<lb break="yes"/>Eessen
+                thut es so Morgen Kafe Mitag Milh<lb break="yes"/>habe, und ihn Küche gehe ih noch.
+                Also<lb break="yes"/>wüshe ih alles gut deiner ganzen Famile.<lb break="yes"/><hi rendition="#c">Adrese An Martin und Maria <surname>V.</surname>.<lb break="yes"/>in Voradelberg ihn Tirol. Osch Öesthreih<lb break="yes"/>Großmuter Magdalena <surname>F.</surname> Vitwe<lb break="yes"/>Abseder
+                    Magdalen <surname>L.</surname>. vele Grüse<lb break="yes"/>shreib auch mir
+                    wider, alls gefangen</hi></p>
+</body>
+</text>
+</TEI>

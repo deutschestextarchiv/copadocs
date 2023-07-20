@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb999m02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>999</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ursula <surname>M.</surname></persName>
+<date type="sent">27.01.1887</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: Joseph <surname>V.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb999m">
+<persName>
+<forename>Ursula</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1846"/>
+<death when="1900"/>
+<occupation>Näherin</occupation>
+<residence><geo decls="#WGS">48.3568624 10.7447118</geo>Willishausen, Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Tagelöhner</p>
+<p>Anstalt: <date from="1880" to="1900">1880-1900</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Geistesstörung, [Halluzination] (1880-1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Abholung, Grüße
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb999m02a.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb999m02b.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb999m02c.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r">Irse den 27<hi rendition="#sup">ten</hi> Januar 1887</hi></dateline>
+<salute><hi rendition="#c">Liber Vater</hi></salute>
+</opener>
+<p>
+Sein Sie so kut ich möchte<lb break="yes"/>heim machen Sie mir eine Freide<lb break="yes"/>das ich abgecholt werde aus der<lb break="yes"/>Anstalt Ich grüße Inen Freindich<lb break="yes"/>mid der Hofnung balt nach<lb break="yes"/>Hausen zu komen einen<lb break="yes"/>Gruß an Jospf Jochanes u<lb break="yes"/>Maria an Schwager u Schwegerine<lb break="yes"/>u an ale begande in Hauseu<lb break="yes"/>Wilischausen Haben Sie auch<lb break="yes"/>die gite einen Gruß von mir<lb break="yes"/><hi rendition="#u" style="arzt">an Hochwirdigen Hern Dom Pfarer<lb break="yes"/>Permane in Augsburg an<lb break="yes"/>Hochwirdigen Hern Bischo Langradit<lb break="yes"/>an Hochwirdigen Hern Dom Viohaar<lb break="yes"/>Lenze u an ale begande</hi>
+<pb facs="#image_003"/>
+Prister in Augsburg Freindliche<lb break="yes"/>grüße in der Hofnung mein<lb break="yes"/>Brif werde Inen Gesund an drefen<lb break="yes"/>einen Freindliche Gruß an meine<lb break="yes"/>Daufbatlein<lb break="yes"/><seg ana="#salute">Ich schlise und<del>er</del> Fraindliche grüße<lb break="yes"/>von inen</seg> <seg ana="#signed">Tochter Ursula <surname>M.</surname>.</seg>
+<pb facs="#image_004"/>
+An Hern Josepf <surname>V.</surname> in Hausen<lb break="yes"/><hi rendition="#r">Bost Geserschausen.</hi>
+</p>
+</body>
+</text>
+</TEI>

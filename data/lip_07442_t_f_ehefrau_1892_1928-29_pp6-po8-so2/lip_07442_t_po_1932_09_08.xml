@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7442t14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7442 (K. 250)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine <surname>T.</surname></persName>
+<date type="sent">08.09.1932</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor: n.a. <surname>H.</surname></persName>
+<settlement type="sent">Hagen-Kabel</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip7442t">
+<persName>
+<forename>Wilhelmine</forename>
+<surname>T.</surname>
+</persName>
+<birth when="1892-06-26"/>
+<death cert="unknown"/>
+<occupation>Ehefrau</occupation>
+<residence><geo decls="#WGS">51.4020053 7.4899059</geo>Geburtsort: Westerkappeln; Wohnort: Hagen-Kabel</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Ehemann: Bahnmeister; Vater: Landwirt; Mutter: n.a.</p>
+<p>Anstalt: <date from="1928-04-23" to="1929-09-24">23.04.1928-24.09.1929</date></p>
+<p>Brieftypen: pp, po, Lebenslauf, Gebet</p>
+</state>
+<trait><p>paranoide Erkrankung (1928 Dr. Korbsch)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand2"/>
+<handNote medium="crayon_blue" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                 Sie war in der Heimat, konnte aber in der Anstalt nicht vorbeikommen, da sie zu viel Gepäck hatte.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7442t14.jpg" xml:id="image_028"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_028"/>
+<opener>
+<dateline/>
+<salute>Sehr geehrter Herr Oberarzt!</salute>
+</opener>
+<p>Viele Grüße aus<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Osnabrück</hi> sendet<lb break="yes"/><hi rendition="#u" style="hand2"><seg ana="#signed">Frau <surname><hi rendition="#i">T.</hi></surname></seg>.</hi></hi><lb break="yes"/><space/> War 5 Wochen hier in der<lb break="yes"/>Heimat u. hatte
+                mir vorgenommen,<lb break="yes"/>auch dort <w>vorbei zu fahren</w>; aber<lb break="yes"/>es ist mir <hi rendition="#u">nicht</hi> möglich; habe
+                    <w>zu</w><w>viel</w><lb break="yes"/><hi rendition="#r">Gepäck...</hi> </p><p><add hand="hand2"><hi rendition="#i">ad acta</hi></add><lb break="yes"/></p><p><add place="margin">Hr.<lb break="yes"/><hi rendition="#i">Oberarzt<lb break="yes"/>Dr. Hürten<lb break="yes"/>Eickelborn</hi><lb break="yes"/>b. <hi rendition="#i">Lippstadt</hi>.</add></p>
+<p><add hand="hand3">56.</add></p>
+</body>
+</text>
+</TEI>

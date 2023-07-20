@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="munxxxb04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>xxxx (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>B.</surname></persName>
+<date type="sent">30.11.1911</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Landeshauptmann: n.a. <surname>H.</surname></persName>
+<settlement type="sent">Münster i. W.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="munxxxb">
+<persName>
+<forename>Wilhelm</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1894-10-06"/>
+<death cert="unknown"/>
+<occupation>Fürsorgezögling</occupation>
+<residence><geo decls="#WGS">51.956874 7.0038803</geo>Geburtsort: Dortmund; Wohnort: Gescher</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1910-01-21" to="1912-01-03">21.01.1910-03.01.1912</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Geisteskrankheit (1910)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Er bittet darum, eine Antwort auf seinen letzten Brief zu bekommen, in dem er darum bat, ihn zu entlassen. Er würde lieber ins Gefängnis gehen, als in der Anstalt zu sein, da er dort besser behandelt werden würde.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun0xxxxb04a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="mun0xxxxb04b.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="mun0xxxxb04c.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><add hand="vordruck">Provinz<hi rendition="#u">ialheil</hi>anstalt
+                            <hi rendition="#r">Münster i. W., den</hi></add>
+<hi rendition="#r">30. Januar. <add hand="vordruck">191</add>1.</hi></dateline>
+<salute><hi rendition="#c">Hochwohlgeborener, gnädiger Herr<lb break="yes"/>Landeshauptmann!</hi></salute>
+</opener>
+<p><add hand="hand2">G 3i/<hi rendition="#sub">1</hi> ii <hi rendition="#i">ad acta
+                            </hi><surname><hi rendition="#i">B.</hi></surname></add></p><p><add hand="hand2"><hi rendition="#c">G</hi></add></p><p>Am 24. d. Mts. richtete ich ein Schreiben<lb break="yes"/>an Ihnen. in welchen ich Sie dringent<lb break="yes"/>gebeten habe mir meine Freiheit<lb break="yes"/>wieder
+                    <w>zu</w><w>geben</w>. Auf welchen<lb break="yes"/>ich keine Antwort bekommen<lb break="yes"/>habe, dieses veranlaßt mir Sie<lb break="yes"/>noch einmal zu
+                schreiben und<lb break="yes"/>zwar aus den Grund daß ich<lb break="yes"/>auf
+                meinen Brief den ich<lb break="yes"/>an Ihnen geschrieben habe<lb break="yes"/>Antwort bekomme.<lb break="yes"/>Bemerke noch kurz:<lb break="yes"/>Ich nehme
+                für einens monatlichen<lb break="yes"/>Anstaltsaufenthalt hier drei Jahre<lb break="yes"/>Zuchthaus an. Im Zuchthaus werde<pb facs="#image_011"/>ich
+                wenigstens als Mensch behandelt,<lb break="yes"/>als Lump bin ich hier
+                herein-gekommen,<lb break="yes"/>als Lump werde ich behandelt, und<lb break="yes"/>als Lump gehe ich hier wieder heraus<lb break="yes"/>diese meine Manug ist sehr
+                ernst.<lb break="yes"/><hi rendition="#c">Euer Gnaden<lb break="yes"/>untertänigster Diener<lb break="yes"/><seg ana="#signed">Wilhelm
+                            <surname>B.</surname></seg></hi><pb facs="#image_012"/>An<lb break="yes"/><hi rendition="#c">Herrn Landeshauptmann.<lb break="yes"/><hi rendition="#i">Dr</hi>. Hammerschmidt.<lb break="yes"/>zu Münster.</hi>
+</p>
+</body>
+</text>
+</TEI>

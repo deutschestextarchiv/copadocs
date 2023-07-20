@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s27" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">30.12.1893</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Armenpflegratschaft Augsburg</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1890" to="1897">1890-1897</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt1"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er beschwert sich, dass er kein Verbrecher ist und frei sein will und droht mit einem Ausbruch, sollte er nicht freigelassen werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s27a.jpg" xml:id="image_070"/>
+<graphic mimeType="image/jpg" url="kfb908s27b.jpg" xml:id="image_071"/>
+<graphic mimeType="image/jpg" url="kfb908s27c.jpg" xml:id="image_072"/>
+<graphic mimeType="image/jpg" url="kfb908s27d.jpg" xml:id="image_073"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_070"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee den 30 Dezember 1893.</hi></hi></dateline>
+<salute><hi rendition="#c">Hochlobliche Armenpfleg<lb break="no"/>ratshaft
+                        Augsburgs!</hi></salute>
+</opener>
+<p><add hand="arzt1" place="top"><hi rendition="#r">16<unclear>/4</unclear>6/95</hi></add><lb break="yes"/><space/> Wir leben heutzutage in einer zeit wo<lb break="yes"/>alles studirt u. kritisirt, um den Soxialisten<lb break="no"/>thum einhalt zu
+                thun, und zu vernichten.−<lb break="yes"/><hi rendition="#i">Meine Herrn</hi>,
+                bitte wer befördert den eigent<lb break="no"/>lich die Soxialie u. Archenie und ihre
+                folgen?−<lb break="yes"/>Niemand anderst als diejenige welche<lb break="yes"/>für das Heil u. Wohl des Volkes handeln u.<lb break="yes"/>bewahren sollten;</p>
+<p>Eine Obrigkeit oder behörde welche einen<lb break="yes"/>armen Wehrlosen Menschen,
+                der sich nie ein<lb break="yes"/>Verbrechen zu schulden kom̄en ließ, deßhalb<lb break="yes"/>nicht in's Zuchthaus werfen kan̄, daher eine<lb break="yes"/>Krankheit <hi rendition="#u" style="arzt2">vorschützt</hi>, die
+                er gar nicht einmal<lb break="yes"/>besitzt, um ihn auf ewig von allen Mensch<lb break="no"/>licher Gesellschaft ausschließen zu kön̄en.− <pb facs="#image_071"/><seg ana="#inst">Und ihn <hi rendition="#i">Ungerecht</hi> in eine <hi rendition="#i">Irrenanstalt</hi> sperrt<lb break="yes"/>welch gleich ein Rußisch
+                        Sibirien kom̄t</seg>, eine<lb break="yes"/>solche behörde die einen armen <hi rendition="#i">Unklüklichen</hi><lb break="yes"/>ohne Abschied von seinen Geschwister nehmen<lb break="yes"/>zu
+                laßen in die Verbanung schikten; selbe<lb break="yes"/>ist nicht im stande, die
+                wichtigste frage der<lb break="yes"/>heutigen Zeit zu lösen?
+                −−−</p>
+<p>Geehrte Herrn. Ich bin seid 8 <hi rendition="#i">März</hi> 1890. dahier<lb break="yes"/>in der <seg ana="#inst">Verbanungsanstalt</seg>
+<hi rendition="#i">Kaufbeuren<lb break="yes"/>Irsee</hi> internirt, Warum?
+                −−−</p>
+<p>Ich wahr stehts ein ruhiger stiller Ehrlicher<lb break="yes"/>Mensch, der niemand
+                beleidigte oder sonst<lb break="yes"/>ein schaden zufügte, der die Welt u. ihr<lb break="yes"/><hi rendition="#i">Unrecht</hi> ken̄en lernte, ein solcher
+                Man̄<lb break="yes"/>sieht daher ernster in die Welt als die<lb break="yes"/>welche nicht von der Mam̄aschooß kom̄en.<lb break="yes"/>Ein
+                ernster erfahrener Man̄ spricht wenig<lb break="yes"/>um desto beobachtet er
+                mehr waß um<lb break="yes"/>ihn vorgeht, <hi rendition="#i">Gerecht oder
+                    Ungerecht</hi>?−<lb break="yes"/>Ich weiß sehr gut, daß ich strafen hab
+                wegen <pb facs="#image_072"/>
+<hi rendition="#i">Bettel</hi>, ein jeder Handwerker der wegen Armuth<lb break="yes"/>die Welt bereisen muß − muß betteln um sein<lb break="yes"/>Hunger zu
+                stillen u. Obdach zu finden, aber die<lb break="yes"/><hi rendition="#u" style="arzt2">feindliche behörde Augsburgs</hi> beläßtigte ich nicht?<lb break="yes"/>der <hi rendition="#i">B</hi>orgiße der Reiche wo nur sagen darf?
+                −<lb break="yes"/><hi rendition="#i">Mein Herz waß begehrst</hi>? − der
+                weiß nichts von<lb break="yes"/>einer Noth u. Elend. − deßhalb wird der arme<lb break="yes"/>Handwerker verachtet, verhaßt, verstoßen, <hi rendition="#i">ja</hi><lb break="yes"/>man sperrt ihn unter <seg ana="#inst">Mörder, Diebe, Tobsichtige,<lb break="yes"/>Wahnsin̄ige, <hi rendition="#i"><unclear>Plöde</unclear></hi>
+<hi rendition="#u" style="arzt2">schweine</hi></seg> u.s.w.? − <add hand="arzt2">!</add><lb break="yes"/>um ihn sein trauriges leben zu verbittern<lb break="yes"/>u. eine
+                Seelenhöllenqual aufbürdet die<lb break="yes"/>nicht mehr zu verantworten
+                ist.−</p>
+<p>Geehrte Herrn. Ein jeder Verbrecher bekom̄t ein<lb break="yes"/>Anwalt, der
+                ihn aus der schlinge zieht.−<lb break="yes"/>nach der buße wird er Entlaßen
+                ob er Redlich<lb break="yes"/>geworden ist oder nicht?− Dem Mörder sucht man<lb break="yes"/>um begnadigung nach,?− Die reiche studirten<lb break="yes"/>Verbrecher welche tausende von Armen den<lb break="yes"/>Nothpfen̄ig berauben, u Verschwenden gehen<lb break="yes"/>meistens frei
+                aus? <hi rendition="#i">Ist das Recht</hi>.− <hi rendition="#i">Nein</hi>
+                −</p>
+<pb facs="#image_073"/>
+<p><hi rendition="#i">Meine Herrn. Bitte</hi> ich bin jetzt 3 Jahre 10 Monat<lb break="yes"/>um meine Freiheit Arbeit u. Verdienst ge<lb break="no"/>kom̄en als ein Geist u. Arbeitsfähiger Man̄.<lb break="yes"/>Ein
+                jeder Zuchthäusler macht etwas gut wo<lb break="yes"/>er sich etwas verschreiben
+                laßen kan̄, Ich hier<lb break="yes"/>aber nicht, nicht ein tropfen bier
+                ganze Jahr <add hand="arzt2">½ Lit <add place="below">täglich.</add></add><lb break="yes"/>wo ich mir nur einmal schreiben laßen kön̄te<lb break="yes"/>die Augsburgerbehörde ist die einzige welche<lb break="yes"/>so hungrig thut mit
+                ihre reiche Stiftungen daß<lb break="yes"/>sie ihre arme Opfern nicht ein tropfen
+                bier<lb break="yes"/>vergön̄en, bis 8 <hi rendition="#i">März</hi> 94. hat
+                Augsburg für<lb break="yes"/>mich tausende von Mark unöthig ausgegeben<lb break="yes"/>ohne eine Wohlthat nur im geringsten<lb break="yes"/>geleistet zu
+                haben, da sie mir freiheit<lb break="yes"/>Arbeit u Verdienst beraubt haben. Ich
+                werde<lb break="yes"/>nicht Geisteskrank, aber wen̄ ich biß <hi rendition="#i">März</hi><lb break="yes"/>nicht entlaßen werde, werde ich meine<lb break="yes"/>freiheit
+                selbst suchen u. auch finden. <seg ana="#curse"><hi rendition="#i">Pfui<lb break="yes"/>shande</hi></seg> das die behörde Augsburg aus einen<lb break="yes"/>Ehrlichen Menschen einen Verbrecher macht<lb break="yes"/>durch
+                    <hi rendition="#i">Ungerechtes</hi> berauben der freiheit.<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Irsee den 30. Dezember 1893.<lb break="yes"/>Hochachtungsvollst<lb break="yes"/>Jak.
+                    <surname>S.</surname>.</hi></hi><lb break="yes"/><add place="margin"><hi rendition="#i">Bitte um<lb break="yes"/>baldige a<lb break="yes"/>antwort</hi></add></p>
+</body>
+</text>
+</TEI>

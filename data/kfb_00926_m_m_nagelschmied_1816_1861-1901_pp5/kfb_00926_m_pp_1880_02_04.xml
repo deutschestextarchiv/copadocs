@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb926m01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>926</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>M.</surname></persName>
+<date type="sent">02.04.1880</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter</persName>
+<settlement type="sent">Biberbach</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb926m">
+<persName>
+<forename>Georg</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1816"/>
+<death when="1901"/>
+<occupation>Nagelschmied</occupation>
+<residence><geo decls="#WGS">48.5169777 10.811195</geo>Biberbach, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Krämer</p>
+<p>Anstalt: <date from="1861" to="1901">1861-1901</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Alienation, Tobsucht, Onanie, Sinnestäuschungen (1861)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Kleidung und Geld
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb926m01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb926m01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb926m01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Biberbh den 4 Febuaar <add place="above">1880</add></hi></dateline>
+<salute><hi rendition="#c">Liebe</hi><lb break="yes"/>Mutter</salute>
+</opener>
+<p>du wirst miech doch nicht<lb break="yes"/>verlasen weil ich in der Noth<lb break="yes"/>Bin Sogros ich meiner Lebtag<lb break="yes"/>nicht Gewesen Bin ich
+                Brauch ein<lb break="yes"/>Kleidung, Sernodwindig Geld haben<lb break="yes"/>Mus
+                Liebe Mutter Ich kom heite<lb break="yes"/>Noch nach Augsburg Bis Abend<lb break="yes"/>Schafdie Heillig Kreitz Biecher<lb break="yes"/>inder Schmithse
+                Buchandglug<lb break="yes"/>Buchllandlung <pb facs="#image_002"/>Einmal hmder
+                dausend<lb break="yes"/>heillig Kreitz Bichlein An<lb break="yes"/>Das die Leiden
+                hans Siren mit<lb break="yes"/>könen in Bairen <hi rendition="#r"><lb break="yes"/>Georg <surname>M.</surname></hi>
+</p>
+<p><pb facs="#image_003"/><hi rendition="#c">An<lb break="yes"/>Wohllgeboren<lb break="yes"/>frau<lb break="yes"/>in Minchen <add place="below">h. 2</add><lb break="yes"/>Abzugeben<lb break="yes"/>Beim <surname>S.</surname></hi></p>
+</body>
+</text>
+</TEI>

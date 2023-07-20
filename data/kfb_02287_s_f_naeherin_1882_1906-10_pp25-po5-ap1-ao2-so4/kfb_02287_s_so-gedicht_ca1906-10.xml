@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2287s17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2287</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josefine/Josephine <surname>S.</surname></persName>
+<date type="sent">ca. 1906-10</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2287s">
+<persName>
+<forename>Josefine/Josephine</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1882"/>
+<death cert="unknown"/>
+<occupation>Näherin, Buchhalterin</occupation>
+<residence><geo decls="#WGS">47.9316785 10.4213798</geo>Wineden, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Gutsbesitzer, Söldner und Krämer</p>
+<p>Anstalt: <date from="1906" to="1910">1906-10</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait>
+<p>Manisch-depressives Irresein (1908)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Verschiedene Lebensweisheiten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2287s17a.jpg" xml:id="image_071"/>
+<graphic mimeType="image/jpg" url="kfb2287s17b.jpg" xml:id="image_072"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_071"/><pb facs="#image_072"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#c">Was Du mir bist?...</hi><lb break="yes"/>Was Du mir bist? −
+                Ich<lb break="yes"/>wills Dirs sagen: Der<lb break="yes"/>Ausblick in 1 schönes
+                Land,<lb break="yes"/>Wo frucht geschmückte Bäume ragen<lb break="yes"/>U. Blumen
+                blüh'n, am Quellenrand.<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Was du mir bist? − Des<lb break="yes"/>Sternes
+                Funkeln, der düsteres<lb break="yes"/>Gewölk durchbricht, Der ferne<lb break="yes"/>Lichtstrahl, der im Dunkeln,<lb break="yes"/>Zum Wandrer spricht: Verzage nicht!!<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>U. war mein Leben auch Ent<lb break="no"/>sagen, Was Du mir bist?
+                    ̄<lb break="yes"/>Kan̄st Du noch fragen? ̄<lb break="yes"/>U. glänzte mir kein froh'<lb break="yes"/>Geschick, − Du bist mein Glauben<lb break="yes"/>an das Glück, Du bist <unclear/> Leben Glück u. Liebe<lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+<p>Vom Leben d. Sonn.<lb break="yes"/>Man̄ kan̄ sehr grob sein, doch<lb break="yes"/>das Grobe, So sagen daß es<lb break="yes"/>gleicht dem Lobe, So
+                hat man<lb break="yes"/>selbst beim Liebsten ja<lb break="yes"/>Was
+                Liebenswürdiges an<lb break="no"/>getan, Sagt man ihm dann,<lb break="yes"/>daß man
+                ihn Liebe, Weil nie<lb break="yes"/>ein Wässerchen er ja trübe.<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/><hi rendition="#u">Prüfe wer sich ewig bindet,<lb break="yes"/></hi>Ist ein Engel
+                od. Teufel,?<lb break="yes"/>Ist schüchtern sie? Ist sie voll Mut?<lb break="yes"/>Nur I benim̄t Dir dan̄ jeden̄ Zweifel,<lb break="yes"/>Setz
+                Dich auf ihr = Liebstes nun.<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/><hi rendition="#c"><hi rendition="#u">Siehe
+                        es Zeichen.</hi></hi><lb break="yes"/>Wen̄ sich Verlobte Küsse schenken<lb break="yes"/>Kan̄ jeder wohl den Grund sich denken,<lb break="yes"/>bei sehnlichen Kuß,
+                Gleich fragt man<lb break="yes"/>ists ein Lieber Frieden Kuß z. Schluß. </p>
+</body>
+</text>
+</TEI>

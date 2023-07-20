@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">14.09.1925</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ober-Medizinalrat, Ärzte: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1917" to="1931">1917-31</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    zählt auf, was er seit Ende August alles gegessen hat (Nägel, Drahtstücke etc.)
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a07a.jpg" xml:id="image_046"/>
+<graphic mimeType="image/jpg" url="kfb80a07b.jpg" xml:id="image_047"/>
+<graphic mimeType="image/jpg" url="kfb80a07c.jpg" xml:id="image_048"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_046"/>
+<opener>
+<dateline><add hand="arzt">14.9.25</add></dateline>
+<salute>Sehr geehrter Herr Ober-Medizinalra<unclear>th</unclear><lb break="yes"/>&amp;. Herren
+                    Ärzte!</salute>
+</opener>
+<p><seg ana="#curse">Ich verfluchte Wetterfahne kann<lb break="yes"/>mich nicht
+                    mehr beherrschen.</seg> Ich<lb break="yes"/>trau mir selbst nicht mehr. <hi rendition="#u">Die<lb break="yes"/>verfluchte Gebetsunruhe &amp;. böse<lb break="yes"/>Gotteslästerungen kom</hi>men<lb break="yes"/>jeden Tag immer
+                ärger. Das<lb break="yes"/>drückt mich zu schwer. <pb facs="#image_047"/>Leider
+                verfluchte ich folgendes:<lb break="yes"/>Am <hi rendition="#u">24. August</hi>
+                fraß ich 92 Steinchen<lb break="yes"/>&amp;. 1 <hi rendition="#u">Nagel &amp;. 8
+                    Glasscherben</hi>.<lb break="yes"/>am <hi rendition="#u">25. August</hi> fraß
+                ich = 28 Blechscherben.<lb break="yes"/>Am <hi rendition="#u">27. August</hi>
+                fraß ich = 7 größere<lb break="yes"/><hi rendition="#c">Drahtstücke 7 Stück.</hi><lb break="yes"/>Am <hi rendition="#u">29. August</hi> fraß ich 1 Nagel &amp;<lb break="yes"/><hi rendition="#c">5 kl. Glasscherben.</hi><pb facs="#image_048"/>Am <hi rendition="#u">3. Septbr.</hi> fraß ich 4 Drahtstückchen<lb break="yes"/><hi rendition="#c">1 Glasscherbe &amp;. 11 Tonsteine.<lb break="yes"/>Am <hi rendition="#u">14. Septbr</hi>. heute fraß ich<lb break="yes"/><hi rendition="#c">51 Stck. mittlere Drahtstücke.</hi><lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Spüre etwas im Leib.<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/><seg ana="#salute">Es grüßt Sie höflichst</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed"><hi rendition="#i">Hans
+                                    <surname>A.</surname>..</hi></seg></hi></hi><lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+</body>
+</text>
+</TEI>

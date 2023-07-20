@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb647b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>647</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>B.</surname></persName>
+<date type="sent">11.03.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager: Michael <surname>B.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb647b">
+<persName>
+<forename>Jakob</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1839"/>
+<death when="1876"/>
+<occupation>Ökonom und Gastwirt</occupation>
+<residence><geo decls="#WGS">48.4564554 10.8207702</geo>Gablingen, Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Anstalt: <date from="1875" to="1876">1875-76</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Tobsucht  (1875-76)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will wieder abgeholt werden; berichtet von seinem Besitz
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb647b01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb647b01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c">Erse den 11 Märtz 1875</hi></dateline>
+<salute><hi rendition="#c">Lieber Shwager u Schwägerin</hi></salute>
+</opener>
+<p> Ich bin so frei und Benahrichte dier das Du mich<lb break="yes"/>wider Abhollen weill Du
+                mich so <w>an gelogen</w> hast<lb break="yes"/>und hast mihr
+                so Eunen Rausch angefüld und es wahr<lb break="yes"/>Deine Schuld niht Du weist es
+                so gut wie ih das <unclear>Atze</unclear><lb break="yes"/><w>Schwiger Vatter</w> ein bößer Man ist aber ich vertzeie
+                    iche<lb break="yes"/>wil in friden mit um Wieder miet liebe Schager und<lb break="yes"/>Schager ihr werdet <add place="below">wisen</add> wie ich mein
+                Anweßen <w>über nomen</w><lb break="yes"/>Ich habe 2 Kühe
+                zwei Alde Pferde kein guten Wagen<lb break="yes"/>Ich muste gleich um Dausend fl
+                Vieh und futterKaufen<lb break="yes"/>keinen Stegen Holz alle Jahr 150 Holz ich
+                Habe noch ein <unclear>Gataste</unclear><lb break="yes"/>44 Tagweig und drei Wießen
+                und Jetzt habe ich Eein<lb break="yes"/>so schönes Aweßen Das Noch Eimal so viel
+                Werd hat<lb break="yes"/>Alz wie <w>fohr her</w> durch
+                meinen Fleißt es defen Alle in der<lb break="yes"/>Gantzen gegent wie ih mich
+                gelagt habe u ich mith meine<lb break="yes"/>Großen Fleist habe Ein so schönes
+                    geschaft<lb break="yes"/>Ich habe Neuzig Dakwerg zanzig Dawerh Wießen<lb break="yes"/>und zanzig tagwerg Holz un Jetzt <w>Bauhe</w><w>icht</w><pb facs="#image_002"/> Nah mein
+                Stall dan hat und Kanfe noch züchn<lb break="yes"/>Stük viehe das mein Anwesenen
+                noch viell Schoner Wird<lb break="yes"/><seg ana="#salute">Iih Beshieße mein Schreibe mit
+                        <w>fiel</w><w>und</w><w>eaßend</w><lb break="yes"/>Krießen </seg>
+<seg ana="#signed">Eier Dangbarer Jackob <surname>B.</surname></seg><lb break="yes"/>Aus Gablinger Langericht Günzburg<lb break="yes"/>noch sezich bei
+                das ich Recht gesund bin und<lb break="yes"/>Meine forgestasten folgen <add place="below">Leiste</add> wirde das ich bald wieder<lb break="yes"/>Nach Hauße
+                kan die zigaren haben gut von minen Bruder</p>
+<p><hi rendition="#c">An<lb break="yes"/>Michael<lb break="yes"/>Herr <surname>B.</surname>
+                        Müller<lb break="yes"/>in<lb break="yes"/>Ortnermhaußen Landgericht<lb break="yes"/>Augsburg</hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

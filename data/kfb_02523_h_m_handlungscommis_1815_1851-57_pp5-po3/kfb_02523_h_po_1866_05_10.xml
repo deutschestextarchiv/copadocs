@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2523h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2523</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">August <surname>H.</surname></persName>
+<date type="sent">10.05.1866</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2523h">
+<persName>
+<forename>August</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1815"/>
+<death cert="unknown"/>
+<occupation>Handlungscommis</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: Kaufmann</p>
+<p>Anstalt: <date from="1851" to="1857">1851-57</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>"unheilbaren fixen Idee" (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet darum, mit Frauen zusammenzukommen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2523h01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2523h01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#i">Madame <surname>H.</surname></hi>!</salute>
+</opener>
+<p>Schon der Zeit ich mich hier aufhalte, werde<lb break="yes"/>ich von
+                Frauenzim̄ern angerufen, welche<lb break="yes"/>sich hier aufhalten u
+                darunter sind Einige<lb break="yes"/>welche mir wohl wollen, ich würde Sie<lb break="yes"/>deßwegen bitten, Nachfrage zu halten,<lb break="yes"/>wie ich mit
+                denselben <w>zusam̄en kom̄en</w><lb break="yes"/>könnte ohne meinen Feinden in die<lb break="yes"/>Hände zu fallen,
+                wie hätten etwas abzu<lb break="no"/>machen, was für unsere Gesundheit &amp;<lb break="yes"/>Freude nöthig wäre, da ich ohnehin gesunden<lb break="yes"/>Verstandes bin, so glaube ich daß Sie mir<lb break="yes"/>mit ein paar Damen,
+                wohl den Gefallen<lb break="yes"/>erweisen würden u Gelegenheit zu ver<lb break="no"/>schaffen irgendwo zusam̄en zu kom̄en<lb break="yes"/>um über Verschiedenes zu sprechen, was<lb break="yes"/>für meine Zukunft nöthig
+                    wäre.<lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+<pb facs="#image_002"/>
+<p>Jch bin überzeugt daß Sie diesen mei<lb break="no"/>nen Wunsch gewiß erfüllen
+                werden<lb break="yes"/>wenn Sie erfahren, daß für mich irgend<lb break="no"/>eine
+                Zufriedenstellung nöthig ist, wel<lb break="no"/>che man blos von
+                frauenzim̄ern verlan<lb break="no"/>gen kann, welche sich mit mir auf
+                        <w>ir<lb break="no"/>gend eine</w> Weise abgegeben haben<lb break="yes"/>u
+                mir deßwegen nichts <hi rendition="#i">re</hi>fühiren<lb break="yes"/>dürfen.<lb break="yes"/>Entschuldigen Sie die Freyheit daß<lb break="yes"/>ich mich an Sie
+                wende, bitte auch um<lb break="yes"/>eine schriftliche Antwort u <seg ana="#salute">empfehle<lb break="yes"/><hi rendition="#r">mich Ihnen
+                            ergebenst<unclear>e</unclear></hi><lb break="yes"/><seg ana="#signed"><hi rendition="#u"><hi rendition="#i">August <surname>H.</surname></hi></hi></seg></seg><lb break="yes"/><hi rendition="#i">Irsee</hi> den 10 <hi rendition="#i">M<hi rendition="#u">ai</hi></hi><hi rendition="#u"> 1886.</hi>
+</p>
+</body>
+</text>
+</TEI>

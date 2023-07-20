@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2871w25" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Angela Hofmann</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2871</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mathilda Franziska <surname>W.</surname></persName>
+<date type="sent">21.08.1909</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Augsburger Zeitung:  <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2871w">
+<persName>
+<forename>Mathilda Franziska</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1852"/>
+<death when="1922"/>
+<occupation>Ingenieursgattin</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, Wohnort Darmstadt</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Bortenmacher</p>
+<p>Anstalt: <date from="1891" to="1922">1891-1922</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>schwachsinnige Verfolgungs- und Beziehungswahnideen (1914)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Antwort auf Stellenanzeige in der Zeitung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2871w25.jpg" xml:id="image_087"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_087"/>
+<opener>
+<dateline>Kaufbeuren den 21 <hi rendition="#sup"><hi rendition="#u">ten</hi></hi> August
+                    1909.</dateline>
+<salute><hi rendition="#r">Neue Augsburger Zeitung.</hi></salute>
+</opener>
+<p> Bezugnehmend auf Ihre Anose - gestatte ich mir -<lb break="yes"/>mich Ihnen bestens zu
+                Empfehlen - für den Fall<lb break="yes"/>es Sie nicht geniert daß ich mich zur Zeit
+                in der<lb break="yes"/>Heil und Pflege Anstalt bin̄ - und mich im<lb break="yes"/>57. <hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                Lebensjahre Befinde! Ich kan̄ Nähen und<lb break="yes"/>auch ein wenig mit
+                Kindern Umgehen - dann<lb break="yes"/>gut Kochen - sowie auch wie Sie es
+                    wünschen<lb break="yes"/>etwas Hausarbeit Uebernehmen - und Erlaube<lb break="yes"/>mir mich, dießbezüglich bei Ihnen zu melden -<lb break="yes"/>Stephanienstraße 18/1. Bezüglich der Lohnansprüche<lb break="yes"/>gestatte ich mir
+                noch zu Bemercken daß 50 Mark<lb break="yes"/>pr Monat für das was ich zu Leisten
+                    vermag<lb break="yes"/>nicht zu Unbescheiden wäre.</p><p>
+<seg ana="#signed">F. <surname>W.</surname></seg> E.3.<lb break="yes"/><add place="margin">Näheres zu Erfragen in der<lb break="yes"/><space/> Anstalt.</add></p>
+</body>
+</text>
+</TEI>

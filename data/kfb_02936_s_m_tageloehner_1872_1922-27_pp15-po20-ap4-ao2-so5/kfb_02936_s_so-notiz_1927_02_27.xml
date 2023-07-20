@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2936s11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Urban <surname>S.</surname></persName>
+<date type="sent">21.02.27</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2936s">
+<persName>
+<forename>Urban</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1872"/>
+<death when="1927"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Lentin, Ingolstadt</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Schneider</p>
+<p>Anstalt: <date from="1922" to="1927">1922-27</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>erregb. Psychopathie, Hypomanie, Beeinträchtigungs- und Verfolgungswahn (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notiz</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    berichtet, dass ein Patient nicht mit ausgehen möchte
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2936s11a.jpg" xml:id="image_044"/>
+<graphic mimeType="image/jpg" url="kfb2936s11b.jpg" xml:id="image_045"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_044"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#u">21. II. 27.</hi></hi></dateline>
+<salute/>
+</opener>
+<p>Als ich gestern den H <surname>R.</surname> Oberpfleger, mitteihlte.<lb break="yes"/>daß ich die Erlaubniß zum Ausgehen habe,<lb break="yes"/>glaubte
+                Er mir es. Und ersuchte sogleich den<lb break="yes"/>H Max <surname>R.</surname>,
+                    <del>ers</del> er solle mit mir ausgehen.<lb break="yes"/>Wo H
+                    <surname>R.</surname> auch zustim̄te, wovon mich<lb break="yes"/>H
+                    <surname>R.</surname>, verständigte. Als ich zu H Pfleger<lb break="yes"/><surname>G.</surname> sagte, er wolle mich zu H <surname>R.</surname><lb break="yes"/>laßen, tath er es, mit den Worten. H <surname>R.</surname><lb break="yes"/>geht <hi rendition="#u">nicht</hi> mit. Sondern H
+                    <surname>B.</surname>.<lb break="yes"/>Als ich H <surname>B.</surname>
+                frug, warum H <surname>R.</surname>, daß thue <pb facs="#image_045"/>sagte H
+                    <surname>B.</surname>, zu<del>m</del> mir. Wen er kein<lb break="yes"/><hi rendition="#u">Bier trinken</hi> darf gehe er mit. </p>
+</body>
+</text>
+</TEI>

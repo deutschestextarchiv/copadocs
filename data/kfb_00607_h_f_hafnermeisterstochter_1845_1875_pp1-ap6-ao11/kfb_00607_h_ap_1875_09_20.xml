@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb607h13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>607</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Sara <surname>H.</surname></persName>
+<date type="sent">20.09.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sara <surname>H.</surname></persName>
+<settlement type="sent">Lindau</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb607h">
+<persName>
+<forename>Sara</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1875"/>
+<occupation>Hafnermeisterstochter</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Hafnermeister</p>
+<p>Anstalt: <date from="1875" to="1875">1875</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>"Religiöser Wahnsinn, Fixe Ideen" (1875)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="mutter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Mutter versichert ihrer Tochter, dass sie diese bald abholen werde, 
+                    jedoch auf Rat des Arztes noch abwarten müsse, bis sich ihr gesundheitlicher 
+                    Zustand gebessert habe.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb607h13a.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb607h13b.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="kfb607h13c.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_025"/>
+<opener>
+<dateline><hi rendition="#r">Lindau den 20<hi rendition="#sup">ten</hi> September 1875.</hi></dateline>
+<salute><hi rendition="#c">Meine liebe liebe Sara!</hi></salute>
+</opener>
+<p>Glaubte Dir nicht mer zu Schreiben<lb break="yes"/>bevor ich Dich abholen könne,
+                aber da<lb break="yes"/>ich heut einen werthen Brief von Herrn<lb break="yes"/>Dierecktor erhielt, so sehe ich mich veran<lb break="no"/>laßt Dir noch einige
+                Zeilen zuzuschücken<lb break="yes"/>um̄ Dir zu sagen daß Du dich ganz<lb break="yes"/>bestim̄t darauf verlaßen kan̄st daß ich<lb break="yes"/>bald kom̄e Dich abzuholen. Herr Dierecktor<lb break="yes"/>schrieb mir eben daß Du dato die Reise<lb break="yes"/>noch nicht ohne Nachtheil
+                machen kön̄test<lb break="yes"/>indem ein Gang in Garten Dich sehr<lb break="yes"/>angegriffen habe<del>s</del> dacher man
+                noch<lb break="yes"/>einige Tage wartten müße biß man<lb break="yes"/>die Reise
+                ohne Nachtheil unternehmen könne<lb break="yes"/>Dacher Geduld
+                meine Liebe! hoffe doch<lb break="yes"/>Dich noch diese Woche zu sehen, da ich<lb break="yes"/>en̄tschloßen bin̄ auf <w>jeden</w><w>fall</w> ende
+                    <pb facs="#image_026"/>Der Woche abzureißen u dan̄ zu dir<lb break="yes"/>zu kom̄en u dorten zu warten biß<lb break="yes"/>Hr Dierecktor erlaubt die
+                Reise zu<lb break="yes"/>unternehmen, werde auch dan̄ Herrn<lb break="yes"/>Dierecktor fragen ob Er für gut fände<lb break="yes"/>wan̄ ich vorerst
+                an̄tstatt nach Lindau<lb break="yes"/>nach <w>Mönchs Deggingen</w>
+                zum̄ Veter H<unclear>e</unclear>inrich<lb break="yes"/>Reisen würde
+                um̄ dort noch zu Deiner<lb break="yes"/>Erholung einen Landaufenthalt nehmen<lb break="yes"/>da die Reise dorthin nicht einmahl so<lb break="yes"/>weit
+                währe als nach Lindau , u der<lb break="yes"/>Veter uns mit Freuden aufnähme u<lb break="yes"/>schon ein Zim̄er mit Betten in Bereit<lb break="no"/>schafft
+                für uns hat. Theile es Herrn<lb break="yes"/>Dierecktor vorläufig mit, ob Er es für<lb break="yes"/>gut finde. Nun schlüße ich in der<lb break="yes"/>Hoffnung
+                Dich meine liebe Sara recht<lb break="yes"/>bald <w>wieder zusehen</w>. <seg ana="#salute">Es grüßt<lb break="yes"/>Dich recht herzlich Deine Dich dem<lb break="yes"/>dem Herrn em̄pfehlende Mutter</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">S. <surname>H.</surname>
+                        Wittwe</seg></hi></p>
+<pb facs="#image_027"/>
+<p><space/> Sage Herrn Dierecktor meine<lb break="yes"/>freundlichsten Em̄pfehlung u Dank<lb break="yes"/>für Dero gütige Zuschrifft u<lb break="yes"/>ich hoffe auf
+                baldige Nachricht<lb break="yes"/>ob ich kom̄en dürfe! −</p><p>Auch freundliche Grüße an Fr Dockter.<lb break="yes"/>u Fr <surname>O.</surname>. u Frl
+                    <surname>H.</surname><lb break="yes"/>Frl Schwester werde mir ein Brief an<lb break="yes"/>Sie
+                mitgeben.</p>
+</body>
+</text>
+</TEI>

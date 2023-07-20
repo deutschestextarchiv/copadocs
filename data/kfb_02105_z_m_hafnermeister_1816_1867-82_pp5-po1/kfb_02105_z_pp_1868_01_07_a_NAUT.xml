@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2105z04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2105</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>Z.</surname></persName>
+<date type="sent">07.01.1868</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager: <surname>O.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2105z">
+<persName>
+<forename>Johann</forename>
+<surname>Z.</surname>
+</persName>
+<birth when="1816"/>
+<death when="1882"/>
+<occupation>Hafnermeister</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1867" to="1882">1867-1882</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Fixe Ideen, Wahnideen (1867)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="amanuensis"/>
+<handNote medium="ink" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>rivater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    sendet Neujahresgrüße; bittet um Zigarren, ein Reißbrett etc. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2105z04a.jpg" xml:id="image_027"/>
+<graphic mimeType="image/jpg" url="kfb2105z04b.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="kfb2105z04c.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_027"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee den 7 Januar
+                        1868.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Lieber Schwager </hi><surname><hi rendition="#i">O.</hi></surname><hi rendition="#i">!</hi></hi></salute>
+</opener>
+<p>Heute ist es mir erst möglich Dir diese<lb break="yes"/>Zeilen zu senden, da ich
+                seither etwas un<lb break="no"/>wohl war. Ich hoffe Dich recht gesund zu<lb break="yes"/>wissen, und zweifle nicht daß Du diese<lb break="yes"/>Zeilen
+                allsogleich zu meiner Gemüths<lb break="no"/>Ruhe beantwortest. Ich gratulire<lb break="yes"/>Dir zugleich nachträglich zum neuen<lb break="yes"/>Jahre, &amp;
+                erwarte nun sicher Deine Person<lb break="yes"/>selbst oder Dein Portrait mit den<lb break="yes"/>hier erbetenen Sachen. Drei Kistchen<lb break="yes"/>Cigarren,
+                1 Reißbrett, den Zeichnungs<lb break="no"/>Preiß von Fritz. Den beigelegten Brief<lb break="yes"/>an Fritz ersuche ich Dich zu besorgen. <pb facs="#image_028"/><seg ana="#salute">Indem ich nun Deine Frau so wie Deine<lb break="yes"/>ganze Familie bestens grüße,</seg> ersuche<lb break="yes"/>ich Dich meinem
+                Verlangen nachzu<lb break="no"/>kommen und verbleibe wie im̄er<lb break="yes"/><seg ana="#signed">Dein aufrichtiger <hi rendition="#r"><hi rendition="#i">Schwager</hi><lb break="yes"/><handShift scribe="patient"/>Johann <surname>Z.</surname><lb break="yes"/>Thon u. Oeffenfarbrickand</hi></seg>
+<pb facs="#image_029"/><handShift scribe="amanuensis"/><hi rendition="#r">An</hi><lb break="yes"/><hi rendition="#i">Herrn Adam <surname>O.</surname></hi><lb break="yes"/>bg. Kaufmann<lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><w>Münchs Kirchen</w></hi> bei<lb break="yes"/><hi rendition="#i">Nördlingen</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

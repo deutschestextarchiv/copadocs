@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb343r11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>343</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>R.</surname></persName>
+<date type="sent">ca1860-71</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb343r">
+<persName>
+<forename>Johanna</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1871"/>
+<occupation>Professorstochter</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Professor</p>
+<p>Anstalt: <date from="1860" to="1871">1860-71</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Fixer Wahnsinn (1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Gedicht</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gedicht über die "Irseer"
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb343r11a.jpg" xml:id="image_042"/>
+<graphic mimeType="image/jpg" url="kfb343r11b.jpg" xml:id="image_043"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_042"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#c">Die Irseer.</hi><lb break="yes"/>Dieß Irsee ist ein weites Grab.<lb break="yes"/>Sahen außen steht
+                ein Unglücksrab!<lb break="yes"/>Bald sind sie hart, bald sind sie wild,<lb break="yes"/>Wie die Regierung es befiehlt.<lb break="yes"/>Zwar schallt zum
+                Him̄el ihr Gesang,<lb break="yes"/>Doch hat er einen schlechten Klang.<lb break="yes"/>Sie treiben mit dem Höchsten Spott,<lb break="yes"/>Den̄
+                nur der <hi rendition="#u">König</hi> ist ihr <hi rendition="#u">Gott</hi>!
+                − <pb facs="#image_043"/>Ihr Geist nim̄t keinen <del>edlen</del><add place="above">kühnen</add> Flug<lb break="yes"/>Ihr Herz fühlt keinen edlen Zug<lb break="yes"/>Sie haben nicht des Christen Muth,<lb break="yes"/>Und
+                nen̄en feig das Böse gut<lb break="yes"/>dem Staat gefällig stets zu seyn.<lb break="yes"/>Schließt man hier selbst Gesunde ein<lb break="yes"/>Was auch
+                die Welt darüber spricht,<lb break="yes"/>Hier ken̄t man Scham und Ehre
+                nicht! − </p>
+</body>
+</text>
+</TEI>

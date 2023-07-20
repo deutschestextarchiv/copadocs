@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2802s03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2802</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>S.</surname></persName>
+<date type="sent">12.11.1851</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Caroline <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2802s">
+<persName>
+<forename>Karl</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1807"/>
+<death cert="unknown"/>
+<occupation>Juwelier</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Knopfmacher</p>
+<p>Anstalt: <date from="1851" to="1853">1851-1853</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Pat. bittet Ehefrau um ausführlichen Bericht über die geschäftlichen Entwicklungen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2802s03a.jpg" xml:id="image_027"/>
+<graphic mimeType="image/jpg" url="kfb2802s03b.jpg" xml:id="image_028"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_027"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irrsee </hi>den 12.<hi rendition="#sup">ten</hi>
+<hi rendition="#i">Nov</hi>. 1851._</hi></dateline>
+<salute><space/> Liebe <hi rendition="#i">Caroline</hi>!</salute>
+</opener>
+<p>Es ist mir unbegreiflich daß ich bis heute noch ohne Nachricht<lb break="yes"/>von Dir bin, obwohl der Herr <hi rendition="#i">Director</hi> von hier die Güte
+                hatte<lb break="yes"/>schon <hi rendition="#i">Samstag</hi> vor 8. Tagen an Dich zu
+                schreiben. </p><p>Ich ersuche Dich daher <hi rendition="#u">umgehend</hi> zu <del>A</del>antworten u. zugleich <w>ausführ<lb break="no"/>lich</w> zu berichten Alles was
+                vorgegangen ist; warum schreibt Herr<lb break="yes"/><hi rendition="#i">D.<hi rendition="#sup">r</hi>
+<surname>P.</surname></hi> mir nicht, zum nichtsthun hab ich Ihn nicht
+                angenom̄en.<lb break="yes"/>Sind Dir Gelder von den Ausständen eingegangen?
+                Besorge auch den<lb break="yes"/>Verkauf der ueberflüßigen Gegenstände u. schicke
+                mir <hi rendition="#i">circa</hi> f 12.-<lb break="yes"/>welche ich <hi rendition="#u">dringend</hi> nöthig habe, dann 2. Hemden u. meinen <hi rendition="#i"><unclear>Boninous</unclear></hi><lb break="yes"/>da es hier sehr kalt ist._ Was machen meine lieben Kinder,<lb break="yes"/>sind sie wohl? Mache doch daß ich von hier fortkom̄e, denn
+                ich kann<lb break="yes"/>es vor Schwermuth u <hi rendition="#i">Kum̄er</hi> bald nicht mehr aushalten, obwohl ich<lb break="yes"/>von Seite des Herrn <hi rendition="#i">Directors etc </hi>die
+                liebenswürdigste Behandlung<lb break="yes"/>genieße, allein die Sehnsucht nach
+                meinem Beruf um Euch Allen<lb break="yes"/>nützlich zu wirken übersteigt Alles.
+                Kom̄ doch so bald als möglich u.<lb break="yes"/>hole mich von hier ab, denn
+                Du weißt ja, welch <hi rendition="#u">große Verluste</hi><lb break="yes"/>wir hiedurch erleiden, es ist noch sehr wichtig es zu ordnen, was
+                ich Dir<lb break="yes"/>hier nicht mittheilen kann. <seg ana="#salute">Indessen
+                    grüßt Dich herzlich</seg><hi rendition="#r"><lb break="yes"/><seg ana="#signed">Dein<lb break="yes"/><hi rendition="#u">Carl.</hi>
+</seg></hi></p>
+<pb facs="#image_028"/>
+<p>
+<hi rendition="#r"><hi rendition="#i">Madame<lb break="yes"/>Caroline
+                            <surname>S.</surname><lb break="yes"/>Hunoldsgraben N.<hi rendition="#sup">o</hi> 298.<lb break="yes"/><hi rendition="#u">frei</hi><lb break="yes"/><hi rendition="#u">Augsburg.</hi></hi></hi></p>
+</body>
+</text>
+</TEI>

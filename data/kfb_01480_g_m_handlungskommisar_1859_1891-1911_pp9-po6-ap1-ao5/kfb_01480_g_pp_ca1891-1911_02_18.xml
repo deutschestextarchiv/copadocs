@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1480g15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1480</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>G.</surname></persName>
+<date type="sent">18.22.1891-1911</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Christiane <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1480g">
+<persName>
+<forename>Karl</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1911"/>
+<occupation>Handlungskommissar</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1891" to="1911">1891-1911</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>[Epilepsie] (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote scope="sole"/>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte sie und Vaterstadt wieder sehen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1480g15a.jpg" xml:id="image_035"/>
+<graphic mimeType="image/jpg" url="kfb1480g15b.jpg" xml:id="image_036"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_035"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi>, 18.Februar</hi></dateline>
+<salute>Gott im Himmel zum Gruß!<lb break="yes"/><hi rendition="#c">Liebe Christiana!</hi></salute>
+</opener>
+<p>
+<space/> Lange ist es her, daß ich schon<lb break="yes"/>nichts mehr von dir gehört
+                habe und<lb break="yes"/>umsomehr in meiner von Dir ge<lb break="no"/>schiedenen
+                Trennung denke ich mit mehr<lb break="yes"/>Vertrauen an Dich, daß es Dir gut<lb break="yes"/>gehen möge und du in deiner Frei<lb break="no"/>heit dein Loos
+                glimpflicher ertragen<lb break="yes"/>mögest als Dein Mann der täglich<lb break="yes"/>an dich denkt.<lb break="yes"/>Im Namen Gottes kann ich Dir<lb break="yes"/>versichern, daß es sein weiser Rath<lb break="no"/>schluß ist <hi rendition="#u">Dich</hi> und meine Vaterstadt<lb break="yes"/>bald wieder zu
+                sehen und ich möchte Dich<lb break="yes"/>daher bitten mir baldigst eine Rück <pb break="no" facs="#image_036"/> antwort zukommen zu laßen <seg ana="#salute">in
+                        dieser<lb break="yes"/>Erwartung grüßt Dich inzwischen</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#c">dein</hi><lb break="yes"/><hi rendition="#r"><w>dich</w><w>liebender</w> Ehegatte</hi><lb break="yes"/><hi rendition="#i">Karl <surname>G.</surname></hi><lb break="yes"/>z.Z.
+                    Patient in der Heil und<lb break="yes"/>Pfleganstalt<lb break="yes"/><hi rendition="#i"><hi rendition="#u">Irsee</hi></hi>,<lb break="yes"/>bei <hi rendition="#i">Kaufbeuern</hi></seg><lb break="yes"/><add> <seg ana="#salute">Gruß an Deine<lb break="yes"/>Mutter!</seg></add>
+</p>
+</body>
+</text>
+</TEI>

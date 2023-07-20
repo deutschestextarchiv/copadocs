@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2214b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2214</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Katharina <surname>B.</surname></persName>
+<date type="sent">ca1911-20</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2214b">
+<persName>
+<forename>Katharina</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1841"/>
+<death when="1920"/>
+<occupation>Nagelschmiedswitwe</occupation>
+<residence><geo decls="#WGS">47.48474 10.327536</geo>Hindelang, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet, verwitwet</p>
+<p>Anstalt: <date from="1911" to="1920">1911-20</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Manisch-depressiv], Alkoholismus (1911)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>offizieller Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> bittet um Hilfe, da sie Streit mit einer Mitpatientin hat </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2214b01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2214b01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb2214b01c.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb2214b01d.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Libster Herr Oberartz</hi></salute>
+</opener>
+<p> sie werden es mier nicht<lb break="yes"/>in übel aufnemen wenn<lb break="yes"/>ich es Euch
+                es schrieftlich<lb break="yes"/>mitteile das ich bitte meine<lb break="yes"/>Krankheit zu verbessern<lb break="yes"/>nicht mehr zu kränken<lb break="yes"/>wie
+                die Mina <surname>W.</surname><lb break="yes"/>was ich an meiner leiden<lb break="yes"/>erkenne iest mier die <pb facs="#image_003"/> Gall überlaufen
+                    darum<lb break="yes"/>habe ich keinen Abetit<lb break="yes"/>mer ich leide
+                schon seid 8 tagen<lb break="yes"/>und verschlimmert sich mer<lb break="yes"/>als
+                zu bessern die Mina<lb break="yes"/>hat mier die Fäuste auf<lb break="yes"/>den
+                Rücken gestosen durch<lb break="yes"/>diese hohen <unclear>Trepen
+                    hinauf</unclear><lb break="yes"/>und sprach <seg ana="#curse">du Ates Sau<lb break="no"/>Mensch du versteltes</seg>
+<pb facs="#image_002"/> du widest dich auch noch<lb break="yes"/>wiederspenstieg
+                    stellen<lb break="yes"/>da mite ich mich Fischtellen<lb break="yes"/>und den
+                Atem erhalhen<lb break="yes"/>am Sontag kam ich in<lb break="yes"/><del>K</del> Küche wolte sie mier<lb break="yes"/>den Rafens<lb break="yes"/>gesecht schüten onhe<lb break="yes"/>ihrsache aus Rache<lb break="yes"/>das sie
+                die Karolina<lb break="yes"/><del>gehofen</del> gewürgt<lb break="yes"/>wie sie sie <hi rendition="#r">hat</hi>
+<pb facs="#image_004"/> und geschlagen hat<lb break="yes"/>und ich sie
+                    bemitleidete<lb break="yes"/>jetz thut sie mier alles<lb break="yes"/>zum
+                treutz sovil sie<lb break="yes"/>kan̄ sie hat eine haß<lb break="yes"/>über mich das sie mier<lb break="yes"/>mit einen Löffel voll<lb break="yes"/>Wasser vergeben<lb break="yes"/>wirde darum. Liber<lb break="yes"/>Herr Oberartz
+                    <add>bitte ich</add> dieses<lb break="yes"/>Ellend zu vermitlen </p>
+</body>
+</text>
+</TEI>

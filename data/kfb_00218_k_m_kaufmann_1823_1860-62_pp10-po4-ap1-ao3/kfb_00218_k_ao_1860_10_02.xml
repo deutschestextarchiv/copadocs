@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb218k18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>218</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elise <surname>K.</surname></persName>
+<date type="sent">02.10.1860</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kempten</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb218k">
+<persName>
+<forename>Ernst</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1823"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1860" to="1862">1860-1862</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Geisteswahn (1862)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin übersendet die Verpflegungskosten für ihren Ehemann.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb218k18.jpg" xml:id="image_075"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_075"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kempten</hi> den 2ten <hi rendition="#i">Octbr</hi> 1860</hi></dateline>
+<salute>An die königliche Verwaltung</salute>
+</opener>
+<p><add hand="hand3" place="top"><hi rendition="#c">(2)</hi></add>
+</p>
+<p><add hand="hand2" place="top"><hi rendition="#r">pr. 4 Okt.</hi></add></p>
+<p><add hand="hand3" place="top"><hi rendition="#r"><hi rendition="#u">40</hi></hi></add></p>
+<p><space/> Hiemit habe ich die Ehre Ihnen bey<lb break="no"/>folgend die
+                Verpflegskosten für das<lb break="yes"/>1te Quartal für meinen Man̄ Herrn<lb break="yes"/><hi rendition="#i">Ernst <surname>K.</surname></hi> im
+                Betrage von f. 41. 4x−<lb break="yes"/>zu übersenden, <seg ana="#salute">und bitte Sie meine<lb break="yes"/>hochachtungsvollste Empfehlung zu genehm<lb break="no"/>igen. </seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed"><hi rendition="#u"><hi rendition="#i">Elise <surname>K.</surname></hi>.</hi></seg></hi></p>
+<p><add hand="hand2"><hi rendition="#r">fiat Quittung<lb break="yes"/>über 41. 3.6. +<lb break="yes"/>G<unclear>e</unclear>.</hi></add></p>
+<p><add hand="hand2">+ Ersuche für die<lb break="yes"/>obige keine ausländischen<lb break="yes"/>Banknoten mehr zu senden<lb break="yes"/>weil sie bei uns
+                    nicht <unclear>kassen<lb break="no"/>nustig</unclear> sind.</add></p>
+</body>
+</text>
+</TEI>

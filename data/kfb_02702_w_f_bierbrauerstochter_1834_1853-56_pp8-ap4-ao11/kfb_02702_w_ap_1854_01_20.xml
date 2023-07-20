@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2702w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Joseph <surname>W.</surname></persName>
+<date type="sent">20.01.1854</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Maria <surname>W.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2702w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Bierbrauerstochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Brauereibesitz</p>
+<p>Anstalt: <date from="1853" to="1856">1853-56</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Vesania (17.11.1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="bruder1"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet seine Schwester, bald an deren Mutter zu schreiben und gibt ihr den Rat, 
+                    sich an die Anweisungen der Ärzte zu halten, um bald wieder entlassen werden zu können.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2702w04a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb2702w04b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Munchen</hi> 20 <hi rendition="#i">Jan</hi>. 1854 </hi></dateline>
+<salute><hi rendition="#c">Liebe Schwester!</hi></salute>
+</opener>
+<p>Deine Kleider wirst du in kürzester<lb break="yes"/>Zeit bekommen, was du sonst
+                noch brauchst<lb break="yes"/>oder willst weiß ich nicht, konnte es auch<lb break="yes"/>aus deinem Briefe nicht ersehen. Sehr<lb break="yes"/>befremdend
+                war es mir in deinem Briefe<lb break="yes"/>keine Frag nach der Mutter zu finden.</p><p>Du weißt, wie sehr du der Mutter am<lb break="yes"/>Herzen liegst, warum schreibst du <hi rendition="#u">nie</hi> an<lb break="yes"/>sie? Ich erwarte, daß du in Bälde
+                der<lb break="yes"/>Mutter schreibst, <hi rendition="#u">und ihr deine
+                    Wünsche</hi> pp<lb break="yes"/><hi rendition="#u">mittheilst</hi>.</p><p>Von zu Hause kann ich dir keine <w>Neuig<lb break="no"/>keiten</w> schreiben;
+                        d<del><unclear>ie</unclear></del>enn die Mutter befindet<lb break="yes"/>sich leider noch immer nicht besser.</p><p>Dein Wunsch dich aus Irrsee abzuholen,<lb break="yes"/>wird augenblicklich ferne Erfüllung<lb break="yes"/>finden, wenn Herr <hi rendition="#i">Direktor</hi>
+<hi rendition="#i">Hagen</hi>
+<pb facs="#image_010"/>deine Heilung so weit erklärt, daß du<lb break="yes"/>ohne
+                Nachtheil für dein weiteres Wohl<lb break="yes"/>aus der Anstalt entfernt werden
+                kan̄st.<lb break="yes"/>Sei überzeugt, daß wir alle diesen<lb break="yes"/>Augenblick <hi rendition="#u">mit Freude begrüßen</hi> werden,<lb break="yes"/>und mit <hi rendition="#u">so größerer Freude</hi> je <hi rendition="#u">bälder</hi><lb break="yes"/>er naht. Es liegt sehr viel an die dir dieses<lb break="yes"/>zu
+                beschleunigen, wenn du mit williger<lb break="yes"/>Folgsamkeit den Rathschlägen
+                deines Arztes<lb break="yes"/>nachkomst.</p><p><space/> <seg ana="#salute">Schreibe bald an die Mutter und sei<lb break="yes"/><space/> indessen von uns Allen
+                    herzlichst<lb break="yes"/><space/> gegrüßt. </seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Joseph</hi></seg>.</hi></p>
+</body>
+</text>
+</TEI>

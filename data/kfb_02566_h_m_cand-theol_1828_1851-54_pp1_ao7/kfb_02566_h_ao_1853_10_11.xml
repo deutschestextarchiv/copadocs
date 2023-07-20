@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2566h04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2566</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Christian <surname>H.</surname></persName>
+<date type="sent">11.10.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2566h">
+<persName>
+<forename>Nikolaus</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1828"/>
+<death cert="unknown"/>
+<occupation>cand. Theologie Uni München</occupation>
+<residence><geo decls="#WGS">47.7169589 12.8629459</geo>Reichenhall</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1851" to="1854">1851-54</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>"Schwermuth", [Verwirrtheit], [Manie] (1852)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="bruder1"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erfreut sich über das gute Befinden seines Bruders und bittet den Arzt, diesem einen 
+                    Brief auszuhändigen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2566h04.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Ew. Wohlgeboren!</hi></salute>
+</opener>
+<p><space/> Höchst erfreuend war mir Jhre durch meinen Bruder in Reichenhall<lb break="yes"/>mir zugekommene freundliche Mittheilung über das Besserbefinden des<lb break="yes"/>in Jhrer Heilanstalt weilenden Bruders Nikolaus. Meinen
+                innigsten<lb break="yes"/>Dank hiefür, sowie für die ihm bisher zugewendete
+                liebvolle Sorge<lb break="yes"/>und Pflege! <space/> Anliegenden Brief bitte ich
+                dem Bruder nach<lb break="yes"/>Jhrem Gutbefinden einzuhändigen. Recht gerne hätte
+                ich <add place="above">ihn</add> schon früher<lb break="yes"/>besucht, allein mein
+                bisheriger strenger Seelsorgsposten gestattete mir<lb break="yes"/>Dies nicht. <seg ana="#salute"><space/> Den Kranken u mich Jhrem gütigen Wohlwollen em<lb break="no"/>pfehlend zeichne ich in vollkommener Hochachtung<lb break="yes"/><hi rendition="#r">ergebenster Diener </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Christian <surname>H.</surname></seg>
+                        Cooperator.</hi></p><p>München am 11<hi rendition="#sup"><hi rendition="#u">te</hi></hi> Okt. 1853.</p>
+</body>
+</text>
+</TEI>

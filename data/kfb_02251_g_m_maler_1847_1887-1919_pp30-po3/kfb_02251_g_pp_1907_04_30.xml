@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">30.04.1907</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Babette <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Maler</p>
+<p>Anstalt: <date from="1887" to="1919">1887-1919</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/><!--anpassen!-->
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beschuldigt Schwester, Erbe unterschlagen zu haben etc.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g12a.jpg" xml:id="image_040"/>
+<graphic mimeType="image/jpg" url="kfb2251g12b.jpg" xml:id="image_041"/>
+<graphic mimeType="image/jpg" url="kfb2251g12c.jpg" xml:id="image_042"/>
+<graphic mimeType="image/jpg" url="kfb2251g12d.jpg" xml:id="image_043"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_040"/>
+<opener>
+<dateline><hi rendition="#c">Irsee den 30 April 1907.</hi></dateline>
+<salute>Liebe Schwester!</salute>
+</opener>
+<p>Da Ich gehört habe daß du<lb break="yes"/>eine Lebensversicherung<lb break="yes"/>haben solllest bist eine<lb break="yes"/>ganz andere freche Person<lb break="yes"/>von Betrug oder Meineid<lb break="yes"/>schon lange geweßen<lb break="yes"/>Ehrabschneidungen Miß<lb break="no"/>handlungen du mir warst<lb break="yes"/>verbitte Ich mir, nerke<lb break="yes"/>deinen groben Unfug<lb break="yes"/>der sich trent von mir.<lb break="yes"/>Verzinslichung von solchen<lb break="yes"/>Erben ab zu stellen gar<lb break="yes"/>nichts war. Schweniger<lb break="yes"/>sche Meineidige Waare<lb break="yes"/>eine jeden nir
+                    Verleit<lb break="no"/>en. Knopf noch <del>nur</del>
+</p>
+<pb facs="#image_041"/>
+<p>oder Herr <surname>O.</surname> alles<lb break="yes"/>Uberdöppelt worden<lb break="yes"/>durch Erben. Bei Tante<lb break="yes"/><surname>H.</surname> nicht Enterb<lb break="no"/>lichung u
+                Verzinslichung<lb break="yes"/>nehr. Betreff Zeitungen<lb break="yes"/>Mißhandlungen ver<lb break="no"/>bitte nir. Farr in der<lb break="yes"/>Anstalt
+                juior der alte<lb break="yes"/>Verbitte Ich mir, lauter<lb break="yes"/>Schwindel
+                grober Unfug.<lb break="yes"/>u Lüger von Ehrabschnei<lb break="no"/>dung.
+                    <surname>W.</surname> betreff<lb break="yes"/>Söhnen noch gar nie
+                solche<lb break="yes"/>lumpen Kerl nie ange<lb break="no"/>nomen habe.<lb break="yes"/><seg ana="#salute">Jetzt Schließe mein schrei<lb break="no"/>ben
+                    daß du dießen<lb break="yes"/>Brief erhalten haben wirst</seg>
+</p>
+<pb facs="#image_042"/>
+<p><seg ana="#signed"><hi rendition="#c">Dein Bruder<lb break="yes"/>Jakob
+                            <surname>G.</surname><lb break="yes"/>Maler.</hi></seg><lb break="yes"/>Betreff Postpacker Söhne sind<lb break="yes"/>iner der Gleiche
+                Charakter wer<lb break="yes"/>sie kante. -</p>
+<p>Der Oberpfeger der neun alle groben<lb break="yes"/>Unfug oder die Mißhandlungen<lb break="yes"/>von Bübischen benehmen u Meineid </p>
+<pb facs="#image_043"/>
+<p>Wohlgeborn<lb break="yes"/>Babette Greiff Malerstochter<lb break="yes"/><hi rendition="#c">in Lindau<lb break="yes"/>Bodensee.</hi><lb break="yes"/>frei. </p>
+</body>
+</text>
+</TEI>

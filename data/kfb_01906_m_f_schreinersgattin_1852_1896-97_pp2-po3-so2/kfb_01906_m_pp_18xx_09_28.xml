@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1906m05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1906</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karoline <surname>M.</surname></persName>
+<date type="sent">28.09.18xx</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Georg <surname>L.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1906m">
+<persName>
+<forename>Karoline</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1852"/>
+<death when="1897"/>
+<occupation>Schreinersgattin</occupation>
+<residence><geo decls="#WGS">48.2679546 10.8883816</geo>Königsbrunn, Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1896" to="1897">1896-1897</date></p>
+<p>Brieftypen: po, sonstiges</p>
+</state>
+<trait><p>Paralytische Seelenstörung, Größenwahn (1896)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Sie bittet um Besuch.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1906m05a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb1906m05b.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb1906m05c.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb1906m05d.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline>Ise den 28. Setember 18<unclear reason="damage"/>.</dateline>
+<salute><unclear>Gen Gülenbputer</unclear> Bruder!<lb break="yes"/>Und Schwägrin!
+                    An̄a Emile</salute>
+</opener>
+<p>Ich will Euch Schreiben<lb break="yes"/>das wihr unß seit den<lb break="yes"/>letzten mall
+                nicht sahen<lb break="yes"/>u bin 3 Jahr von den<lb break="yes"/><surname>M.</surname> weg dießen<lb break="yes"/>flühtn Schläger Und<lb break="yes"/>wahre mir Sonst<lb break="yes"/><unclear reason="damage">Wan</unclear>. Ihr mich, <hi rendition="#u">Besuchen</hi><lb break="yes"/>würden wie Früher<lb break="yes"/>Ihr könted mir einen<lb break="yes"/>Großen gefallen dun<lb break="yes"/>nach Augsburg zu<lb break="yes"/>Fahren Und meine<lb break="yes"/><hi rendition="#r">Wasch aus
+                    den</hi>
+<pb facs="#image_011"/>Aus den Leihaus hollt<lb break="yes"/>Ich kan Euch alles
+                Müdlich<lb break="yes"/>sagen Hast Du nicht<lb break="yes"/>Zeit u kom̄en
+                hast<lb break="yes"/>Du <handShift medium="pencil"/><hi rendition="#u">Lieber</hi>
+<handShift medium="ink"/>Bruder<lb break="yes"/>nicht Zeit so laß Du<lb break="yes"/>mein Geliebte Schwä<lb break="no"/>gerin zu mihr wie<lb break="yes"/><unclear reason="damage"/>h die An̄a! Ich kan<lb break="yes"/>Euch <del>s</del>Schreibin <unclear reason="overwriting"/><lb break="yes"/>das es Gutgekeh mit<lb break="yes"/>meiner Gesundheit.<lb break="yes"/>Aber regt Ma<unclear> hu Ich</unclear><lb break="yes"/>noch <add place="above">was</add> bin kom̄t gewiß<lb break="yes"/>daß Jhr mich <w>wider<lb break="yes"/>seht</w>. Und Emilli
+                kan̄ <pb facs="#image_012"/>dan beim Papa<lb break="yes"/>bleiben das Er
+                nicht<lb break="yes"/>Allein Ist<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Vieliebe Grüße<lb break="yes"/>An Euch Alle bis wir<lb break="yes"/>unß <hi rendition="#u">Wittersehn</hi></seg><lb break="yes"/>Euere Liebenter</hi><lb break="yes"/>Schwester u. Schwaiger<lb break="yes"/>u. Nichten An̄a u
+                Emil.<lb break="yes"/><hi ana="#signed" rendition="#r"><hi rendition="#u" style="arzt2">Lina <surname>M.</surname></hi></hi>
+</p>
+<pb facs="#image_013"/>
+<p><add hand="arzt"><hi rendition="#c">An<lb break="yes"/>Georg
+                            <surname>L.</surname></hi><lb break="yes"/><hi rendition="#r">Stadtmusikmeister<lb break="yes"/>in Lindau<lb break="yes"/>am Bodensee.</hi></add></p>
+</body>
+</text>
+</TEI>

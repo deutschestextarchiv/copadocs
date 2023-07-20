@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a105" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca1917-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1917" to="1931">1917-31</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er beschwert sich über seine Station und die anderen Patienten, wegen denen er keine Ruhe hat.
+                    Er will auf eine ruhigere Station verlegt werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a105.jpg" xml:id="image_062"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_062"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Sehr geehrter Herr Obermedizinalrat!</hi></salute>
+</opener>
+<p><add place="top"><hi rendition="#r"><hi rendition="#u">1.)</hi></hi></add>
+</p><p>Ich richte wieder an Sie eine Bitte. Auf der <seg ana="#inst">zu
+                    lauten schrecklichen<lb break="yes"/>lärmenden Abteilung C 3</seg> kann und mag
+                ich es nicht mehr aus<lb break="no"/>halten. Durch diese Geschreie und Lärme und
+                Streite werde ich nur<lb break="yes"/>immer ärger aufgeregter &amp;. kränker &amp;.
+                Lebensmüder. Ich kann dabei<lb break="yes"/>gar nicht richtig beten &amp;. lesen.
+                Denn der Patient <hi rendition="#i"><surname>M.</surname></hi> macht den größ<lb break="no"/>ten Lärm, der Pfarrer <hi rendition="#i"><surname>A.</surname></hi>
+                hat oft besonderen Streit mit mir, &amp;. neckt<lb break="yes"/>mich und Andere,
+                der Lehrer <hi rendition="#i"><surname>S.</surname></hi> macht den größten Lärm
+                    <add place="above">&amp;.</add> mit<lb break="yes"/>mir streitet er weil ich
+                Handschuhe an habe, die neuen Patienten<lb break="yes"/><hi rendition="#i"><surname>K.</surname></hi> &amp;. <hi rendition="#i"><surname>K.</surname></hi> tun lärmen und schreien &amp;. so geht es
+                den gan<lb break="no"/>zen Tag &amp;. oft Nachts weiter, und das kann ich nicht
+                ertragen. Mei<lb break="no"/>ne Nerven sind selbst nicht ganz gesund, drum bedürfen
+                die Nerven<lb break="yes"/>und ich Ruhe. Ich bitte Sie daher höflichst, lassen Sie
+                mich, sofort oder<lb break="yes"/>mindestens bis 1. Oktober ins obere oder untere
+                Krankenzimmer,<lb break="yes"/>oder sogar n̄ach Irsee, einfach in eine
+                ruhige stille Abteilung aber<lb break="yes"/>nicht auf C 2 weil es da auch unruhig
+                ist. Ich tue jetzt im̄er gut,<lb break="yes"/>&amp;. bleibe im̄er im
+                Krankenzim̄er &amp;. melde mich nicht mehr zurück.<lb break="yes"/>Mit dem
+                Beten hab ich auch viel Unruhe. Geben Sie mir bitte<lb break="yes"/>auch wieder
+                Arbeit, &amp;. geben Sie mir im Garten keine Hand<lb break="no"/>schuhe an. Erfüllen
+                Sie mir die Bitte &amp;. tuns mich weg vom C 3.<lb break="yes"/><space/>
+<seg ana="#salute">Es grüßt Sie höflichst Ihr</seg><lb break="yes"/><hi rendition="#c"><hi rendition="#i"><seg ana="#signed">Hans <surname>A.</surname></seg></hi>. leider C 3.</hi></p>
+</body>
+</text>
+</TEI>

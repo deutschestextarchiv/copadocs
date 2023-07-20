@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2058w19" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2058</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz Josef <surname>W.</surname></persName>
+<date type="sent">13.06.1891</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Martin <surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2058w">
+<persName>
+<forename>Franz Josef</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1842"/>
+<death when="1899"/>
+<occupation>Müllergeselle</occupation>
+<residence><geo decls="#WGS">47.9484351 10.3943101</geo>Markt Rettenbach, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Webermeister</p>
+<p>Anstalt: <date from="1875" to="1899">1875-99</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>partieller Wahnsinn (1874), Nymphomanie, Satyriasis (1880)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    erwartet ein Buch von seinem Bruder, soll es ihm schicken
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2058w19a.jpg" xml:id="image_070"/>
+<graphic mimeType="image/jpg" url="kfb2058w19b.jpg" xml:id="image_071"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_070"/>
+<opener>
+<dateline><hi rendition="#r">Irsee d. 13. d. Jun̄i 1891.</hi></dateline>
+<salute><hi rendition="#c">Liebster Herr Bruder!</hi></salute>
+</opener>
+<p> Nachdem ich mich von Dier entfernt habe, hat<lb break="yes"/>es mich gleich gereut, das ich
+                Dir, die Stiefel<lb break="yes"/>it <w>mit gebe</w> hab.
+                Kanst deine Schuh u. Kietel<lb break="yes"/><w>auch</w><w>haben</w> − u.
+                Schük mihr dafier daviehr das<lb break="yes"/>Buch, wo du gesagt hast, ich köns
+                haben −.<lb break="yes"/>Eben, ich weiß aber nicht ob man es dir schikt.<lb break="yes"/>Kom also den nächsten Sontag, Mändlich zu<lb break="yes"/>Mihr,
+                es Freud mich besser, mihr seits halt<lb break="yes"/>doch allet gute Bruder
+                geweßen. Vieleicht er<lb break="no"/>laubt es dir noch <w>so</w><w>vil</w> Zeit, vor der Heuhet<lb break="no"/>zeit. Das Buch möcht ich, das ich bei manchem<lb break="yes"/>Bunkt, Trost −
+                Erqwiekung Erfassen kan −. Jch<lb break="yes"/>hab kei Areit − u. von
+                ein̄er Entlassung<lb break="yes"/>in der Taht weiß ich <del>nichs</del>.
+                nichts −.</p>
+<p><hi rendition="#r"><seg ana="#salute">Dein Bruder<lb break="yes"/>Grüßt dich</seg></hi></p>
+<p><hi rendition="#r"><seg ana="#signed">Franz Joseph <surname>W.</surname><lb break="yes"/>Mihler</seg></hi></p>
+<pb facs="#image_071"/>
+<p><hi rendition="#u">An</hi><lb break="yes"/>Hern Martin <hi rendition="#u"><surname>W.</surname></hi><lb break="yes"/>Oekenom<lb break="yes"/>in <hi rendition="#u">Rieden</hi><lb break="yes"/>bei <hi rendition="#u">Kaufbeuren</hi>
+</p>
+</body>
+</text>
+</TEI>

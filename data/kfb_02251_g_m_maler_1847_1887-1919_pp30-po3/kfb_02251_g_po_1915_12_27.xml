@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Carima Jekel</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">27.12.1915</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberverwalter: <surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Maler</p>
+<p>Anstalt: <date from="1887" to="1919">1887-1919</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/><!--anpassen!-->
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Auflistung seines Vermögens und kurze Erwähnung der Familienerbgeschichte
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g07a.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="kfb2251g07b.jpg" xml:id="image_023"/>
+<graphic mimeType="image/jpg" url="kfb2251g07c.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<dateline><hi rendition="#c">Irsee den 27 dezember 1915.</hi></dateline>
+<salute><hi rendition="#c">Werther Herr Obervalter Wörle</hi></salute>
+</opener>
+<p>Ich kan nur nir Erlauben<lb break="yes"/>Ihre Güte zu Beanspruchen<lb break="yes"/>Betreffend meiner Schwester.<lb break="yes"/>die sich in der Kreisirrenanstalt<lb break="yes"/>befindet. die nir gar keine<lb break="yes"/>Ehrenwort haltet
+                in Briefen<lb break="yes"/>Ich habe nämlich 754 Marken<lb break="yes"/>bis 762 Mk
+                also Geld, 800<lb break="yes"/>Mark Vermögen, 1000 Mark<lb break="yes"/>2
+                Geschwister Gerber Kapitäne<lb break="yes"/>u München Kinder Gerber<lb break="yes"/>100 Mk. Ich also ein Bru<lb break="no"/>der Jakob keinen Pfenig<lb break="yes"/>Erhalten habe bei einer<lb break="yes"/>Munde Tante Gerber<lb break="yes"/>gestorben ist Geld Verzins<lb break="no"/>lichung u Heinbezahlung<lb break="yes"/>gar kein daran denken<lb break="yes"/>war, vom Zins u Kapital </p>
+<pb facs="#image_023"/>
+<p>ergeht Alle, Unterschlagung<lb break="yes"/>Betrug Notar <w>Verleug<lb break="yes"/>ung</w> vom Tage der<lb break="yes"/>Stunde Verzinslichung<lb break="yes"/>geht an <del>v</del> viele von<lb break="yes"/>Jahren zusamen gekom̄en<lb break="yes"/>konte nicht nehr Schreiben<lb break="yes"/>Knage Bodler eine<lb break="yes"/>Lügner Meineidige<lb break="yes"/>Menschen wie Knopf<lb break="yes"/>sind Mißhandlung.<lb break="yes"/>Die Schwester ist alles<lb break="yes"/>zu Beschuldigen selber<lb break="yes"/>ein Schlechtes Weibsbild<lb break="yes"/>geworden.<lb break="yes"/>Schließen mein Schreiben<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Es grüßt Sie </hi><lb break="yes"/><seg ana="#signed">Jakob Greiff<lb break="yes"/>Maler.</seg>
+</seg>
+</p>
+<pb facs="#image_024"/>
+<p>Wohlgeborn<lb break="yes"/>Herrn <surname>W.</surname> Oberver<lb break="no"/>Walter.<lb break="yes"/>Heil u Pflege Anstalt<lb break="yes"/>in Kaufbeuern<lb break="yes"/><lb break="yes"/>frei. </p>
+</body>
+</text>
+</TEI>

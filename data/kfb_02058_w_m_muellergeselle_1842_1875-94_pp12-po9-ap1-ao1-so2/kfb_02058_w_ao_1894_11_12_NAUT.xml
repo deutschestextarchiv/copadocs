@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2058w25" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2058</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Florian <surname>W.</surname></persName>
+<date type="sent">13.11.1894</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung Heil- und Pflegeanstalt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Rettenbach</settlement>
+<settlement type="received">Irsee</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2058w">
+<persName>
+<forename>Franz Josef</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1842"/>
+<death when="1899"/>
+<occupation>Müllergeselle</occupation>
+<residence><geo decls="#WGS">47.9484351 10.3943101</geo>Markt Rettenbach, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Webermeister</p>
+<p>Anstalt: <date from="1875" to="1899">1875-99</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>partieller Wahnsinn (1874), Nymphomanie, Satyriasis (1880)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="amanuensis_bruder"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bruder wünscht zu erfahren, an welcher Krankheit Patient starb und ob die Sterbesakramente erteilt wurden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2058w25.jpg" xml:id="image_087"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_087"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Rettenbach</hi> den 13. <hi rendition="#i">IX</hi> 94.</hi></dateline>
+<salute><hi rendition="#c">Wohlgeb. Herrn,<lb break="yes"/>der kgl. Verwaltung
+                        der Heil u. Pflege</hi><lb break="no"/><hi rendition="#r">Anstalt Ir<del>r</del>see.</hi></salute>
+</opener>
+<p>Indem ich unterm Heutigen, erfahren<lb break="yes"/>habe, daß mein Bruder den 8.
+                d. Mt. gestor<lb break="no"/>ben sei, so möchte ich Sie freundlichst ersuchen<lb break="yes"/>mir zu benach<del>t</del>richtigen, welche, Krankheit<lb break="yes"/>er gehabt oder welches seine Todesursache<lb break="yes"/>gewesen
+                u. ob derselbe die hl. Sterbsackramente<lb break="yes"/>empfangen habe. </p>
+<p><seg ana="#salute">In Erwartung daß Sie mir die Bitte<lb break="yes"/>nicht abschlagen,<lb break="yes"/><hi rendition="#c">grüßt</hi><lb break="yes"/><hi rendition="#r">Sie freundlichst </hi></seg><lb break="yes"/><seg ana="#salute"><hi rendition="#r"><hi rendition="#i">Florian </hi><surname><hi rendition="#i">W.</hi></surname><lb break="yes"/>Oekonom.</hi></seg>
+</p>
+</body>
+</text>
+</TEI>

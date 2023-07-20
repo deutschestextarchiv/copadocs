@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s55" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">ca1890-97</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Armenpflegschaftsrat der Stadt Augsburg</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1890" to="1897">1890-1897</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Wendet sich an den Rat, weil er gesund sei und deswegen schon lange die Anstalt verlassen will.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s55.jpg" xml:id="image_145"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_145"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Einem<lb break="yes"/><hi rendition="#i"><hi rendition="#u">Hochlöblichen Armenpflegschafts</hi><lb break="yes"/>Rath. </hi>der<lb break="yes"/><hi rendition="#i"><hi rendition="#u">Kreis Hauptstadt Augsburg.</hi></hi></hi></salute>
+</opener>
+<p><space/>
+<hi rendition="#i">Betreff.</hi><lb break="yes"/><hi rendition="#i">Bitte</hi> u. <hi rendition="#i">Gesuch</hi> des
+                als<lb break="yes"/><hi rendition="#i">Patienten</hi> in der <hi rendition="#i">Heil</hi> u. <hi rendition="#i"><w>Pfleg<lb break="no"/>Anstalt</w>
+                    Kaufbeuren</hi> unter<lb break="no"/>gebrachten <hi rendition="#i">Heinrich Joh.
+                    Jak.<lb break="yes"/><surname>S.</surname></hi> behufs Entlaßung<lb break="yes"/>aus derselben.</p>
+<p><hi rendition="#r">Ich wage mir hoffnungsvoll<lb break="yes"/>mit <hi rendition="#i">Vertrauen</hi>; meine nachfolgen<lb break="no"/>de <hi rendition="#i">Bitte</hi>, einem hohen <hi rendition="#i">Magistrath<lb break="yes"/>Rath</hi> u. <hi rendition="#i">Armenpflegschaft</hi> der<lb break="yes"/><hi rendition="#i">Stadt-Gemeinde Augsburg</hi> zu<lb break="yes"/>unterbreiten.</hi></p>
+<p><hi rendition="#r"><space/>
+<hi rendition="#i">Daß</hi> ich am samstag d. 8<hi rendition="#i"><hi rendition="#sup">ten</hi> März</hi><lb break="yes"/>vorigen Jahres, von <hi rendition="#i">Krankenhaus Augs<lb break="no"/>burg</hi> nach 11. <hi rendition="#i">Wöchentlicher</hi>
+                    krankheit<lb break="yes"/>in die <hi rendition="#i">Heil</hi> u. <w><hi rendition="#i">Pfleg</hi> anstalt</w>
+<hi rendition="#i">Kauf<lb break="no"/>beuren</hi> gekom̄en bin, u. durch
+                    diese<lb break="yes"/>lange geraume Zeit hindurch so<lb break="yes"/>trau<add place="above">r</add>gige <hi rendition="#i">Verzweiflungsvolle Monaten</hi><lb break="yes"/>erlebt habe, so daß ich mich genöthigt<lb break="yes"/>u.
+                    gezwungen fühle, an Einem hohen<lb break="yes"/><hi rendition="#i">Armenpflegschafts Rath</hi> zu wen<lb break="no"/>den, um diesen Trostlosen
+                    dasein u.<lb break="yes"/>fortwährenden Einsperren in Isolier<lb break="yes"/>Zellen, Gängen u. Gefangenhöfen endlich<lb break="yes"/>enthoben zu sein; Ich
+                    fühle mich schon<lb break="yes"/>fünf Virtel jahre so gesund u kräftig,<lb break="yes"/>daß ich zu jeder Menute meine ent<lb break="no"/>laßung
+                    erwarte.</hi></p>
+</body>
+</text>
+</TEI>

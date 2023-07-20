@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1822a01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1822</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>A.</surname></persName>
+<date type="sent">ca1885-93</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1822a">
+<persName>
+<forename>Johann</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1859"/>
+<death cert="unknown"/>
+<occupation>Zimmermann</occupation>
+<residence><geo decls="#WGS">48.5209801 10.5593511</geo>Eppisburg, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner, Zimmermann</p>
+<p>Anstalt: <date from="1885" to="1893">1885-93</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Geistesstörung (1889), Gewalthätigkeit (1885)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Gedicht und Zeichnungen</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Spottgedicht auf Augart [Hand2], Aufzählung Tiere, Pflanzen, Orte
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1822a01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1822a01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb1822a01c.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb1822a01d.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>
+<add hand="arzt"><hi rendition="#u">ad <surname>A.</surname></hi></add><lb break="yes"/>Der <surname>A.</surname>
+                ist ein Simpel so weit man kocht<lb break="yes"/>und frißt, und <seg ana="#metaling">wer das will nicht
+                    glauben,<lb break="yes"/>der lese nur sei Schrift.</seg> Der wird es offenbaren<lb break="yes"/>da fehlt gewiß kein Haar, denn er ist viel<lb break="yes"/>erfahren, doch nur mit Schurkerei. Ein Zeichner<lb break="yes"/>trotzt den Teufel
+                ein Grobian dabei, und thut<lb break="yes"/>er dieses leugnen, dann ist die Made
+                    neu.<lb break="yes"/>O Elend solcher Simpel, der bild sich noch waß<lb break="yes"/>ein, der will ein Zim̄ergselle sogar ein guter sein.<lb break="yes"/>Dem Branntwein wird er Meister, das sieht dem<lb break="yes"/>Lumpen gleich, daher will er nicht bleiben im<lb break="yes"/>schönen deutschen
+                Reich. Ein Schuft so nixt wie<lb break="yes"/>dieser nim̄t noch ein Arzt
+                hier an, dem gehören<lb break="yes"/>bloß noch Brügel dann wer er
+                    Lam̄eszahm<lb break="yes"/><seg ana="#pic">[Geometrische Formen]</seg><handShift medium="crayon" scribe="patient"/>Johan <surname>A.</surname>
+<pb facs="#image_002"/>
+<hi rendition="#r"><handShift medium="pencil" scribe="patient"/>Königreich Bayern</hi><lb break="yes"/>Thierreih Pferde Schweine
+                Schafe Zügen<lb break="yes"/>Esel Ochsen Kühe Früchte Rosen Haber<lb break="yes"/>Roggen Gerste Wügen Klee Hofpen<lb break="yes"/>Dabak Waizen Bohnen Obstbämen<lb break="yes"/>Afpel Birn Nuß zwetschen Pflumen<lb break="yes"/>Meneralien
+                Porzolan Plei <unclear>Cafibeber</unclear><lb break="yes"/>Zimat Steinkohlen
+                Kalksteine Salz im<lb break="yes"/>uberflus Was man nicht brucht wirt verkauft<lb break="yes"/>und in frende Lender gefahren <add>Ein Ma<unclear>?</unclear><lb break="yes"/>Ein He<unclear>rz</unclear></add><lb break="yes"/><add hand="arzt">bei Unterpustenberg (Oberbayern)<lb break="yes"/>bei
+                Leonach (Oberfranken)<lb break="yes"/>bei der Oberpfalz (gegen Bohnen)</add><lb break="yes"/>Bayern Grenzt gen Osten Böhmen Ostrich<lb break="yes"/>gegen Westen an Wutmberg und Baden<lb break="yes"/>Hessen Darmstadt gegen Süden an
+                die <unclear>Sche</unclear><lb break="yes"/>Tyrol gegen Norden Thüregen und Prusen
+                    <pb facs="#image_003"/>
+<hi rendition="#i">Johan <surname>A.</surname></hi><lb break="yes"/>von <hi rendition="#i">Dillingen</hi></p>
+<p> <seg ana="#pic">[geometrische Figuren, Blumen]</seg></p>
+<p><hi rendition="#r"><hi rendition="#i">Johan<lb break="yes"/>Aug</hi></hi><lb break="yes"/><unclear>kogoankrabewina</unclear>
+<pb facs="#image_004"/>
+<handShift medium="crayon" scribe="patient"/><hi rendition="#i">Johan <surname>A.</surname><lb break="yes"/>in
+                    Eppishof</hi><lb break="yes"/><seg ana="#pic">[Altar]</seg>
+</p>
+</body>
+</text>
+</TEI>

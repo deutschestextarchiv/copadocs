@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k22" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>K.</surname></persName>
+<date type="sent">ca1865-67</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Base: Sophie <surname>I.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1865" to="1867">1865-67</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um etwas und bedauert, dass sie nicht geheiratet haben.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k22a.jpg" xml:id="image_041"/>
+<graphic mimeType="image/jpg" url="kfb415k22b.jpg" xml:id="image_042"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_041"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Kaufbeuren</hi>. Datum des
+                        Post-Stempls</hi></dateline>
+<salute><hi rendition="#c">Liebes Bäschen<lb break="yes"/><hi rendition="#i">Sophie</hi>!</hi></salute>
+</opener>
+<p>Ich bedaure zwar aber es drängt mich die<lb break="yes"/>Pflicht Dir sagen zu
+                müßen, daß ich<lb break="yes"/>den Stammbuch Vers; Zarhte Sehnsucht <hi rendition="#i">etc</hi><lb break="yes"/>gewehlt mit Rosen ct u. Engeln wieder<lb break="yes"/>haben muß:
+                du sollst von mir eine <hi rendition="#i">Potho<lb break="no"/>graphie</hi> dafür
+                bekommen, u. bitte auch<lb break="yes"/>Dich mir von dir eine beizulegen
+                wen̄ Du<lb break="yes"/>mir die verlange Sachen schickst.<lb break="yes"/>Liebes Bäschen! Er wäre anders wen̄ der<lb break="yes"/>Vater nicht so
+                eigensin̄ig gewesen wäre.<lb break="yes"/>Ich hätte Dich geheurathet u. wäre
+                ein Thier<lb break="no"/>Arzt in Zusmarshausen, statt dem helb<lb break="no"/>enerischen <unclear/>. Schreibe mir<lb break="yes"/>in̄ner 3-4 Tagen unter
+                der Addreße<lb break="yes"/>Hs. Fr. Xaver <hi rendition="#i"><surname>K.</surname> k. Milit Vet.</hi> Arzt im<lb break="yes"/>k.
+                4. <hi rendition="#i">Chev. leg. Rgt. "Koenig"</hi> 4.<hi rendition="#sup">t</hi>
+                detechirt<lb break="yes"/><hi rendition="#i">Escadron Kempten</hi>.</p>
+<p><seg ana="#salute">Unter Vielen herzlichen Grüßen u. Küße,<lb break="yes"/>welche
+                    ich dir schon viele Gab, u gewiß nicht<lb break="yes"/>mich wie Unmoralisch <unclear/><lb break="yes"/>Grüßt dich dein ehemaliger <unclear/> u.
+                        <unclear>Freund</unclear></seg><lb break="yes"/><hi rendition="#r">X. <hi rendition="#i"><surname>K.</surname>
+                        k. Milit Vet</hi><lb break="yes"/>Arzt</hi><lb break="yes"/><add>Was deine Familie<lb break="yes"/>Mutter
+                    Bruder u. Schwister</add></p>
+<pb facs="#image_042"/>
+<p><hi rendition="#r"><hi rendition="#i">Ihrer Wohlgeborn</hi><lb break="yes"/>Fräulein Sophie <hi rendition="#i"><hi rendition="#u"><surname>I.</surname></hi></hi>.<lb break="yes"/>Thierarztens-Tochter</hi><lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Dinkelscherben</hi></hi><lb break="yes"/>Eisenbahnstation</hi><lb break="yes"/><hi rendition="#i">franco</hi><lb break="yes"/>markirt<lb break="yes"/>3 tr</p>
+</body>
+</text>
+</TEI>

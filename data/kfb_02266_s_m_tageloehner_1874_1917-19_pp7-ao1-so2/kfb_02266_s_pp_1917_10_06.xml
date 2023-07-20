@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2266s08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2266</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>S.</surname></persName>
+<date type="sent">06.10.1917</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tochter: Kathi <surname>S.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2266s">
+<persName>
+<forename>Josef</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1874"/>
+<death when="1919"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Schmiedmeisterseheleute</p>
+<p>Anstalt: <date from="1917" to="1919">1917-1919</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Progressive Paralyse (1917)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Er beteuert, dass er vollständig gesund ist und bittet vehement, dass seine Tochter ihn abholt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2266s08a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="kfb2266s08b.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline><hi rendition="#c">Kaufbeuer dem 6. Oktober 17.</hi></dateline>
+<salute><hi rendition="#c">Liebe Kathi.</hi></salute>
+</opener>
+<p>Habe deine Briefe erhalten, ich darf hin<lb break="no"/>aus bin vollständig
+                Gesund und<lb break="yes"/>darf heim wenn jemand kom̄t.<lb break="yes"/>Wenn du meinen Lohn erhalten<lb break="yes"/>hast so verbrauch mir ja nichts<lb break="yes"/>davon sonst spuckte es. Wenn du<lb break="yes"/>nicht sofort
+                kom̄st und hohlst mich<lb break="yes"/>da ich vollständig Gesund bin und<lb break="yes"/>zu jederzeit heim darf wenn jemand<lb break="yes"/>komt. Wenn ich
+                nicht Gesund wäre,<lb break="yes"/>ich nicht in die Schlosserei kom̄en und<lb break="yes"/>könnte nicht ihn der Schloßerei arbeiten<lb break="yes"/>und
+                mir ist es versprochen worden.<lb break="yes"/>Wenn ich 19 Tage arbeiten
+                kan̄ dan̄<lb break="yes"/>darf ich heim. jezt bin ich aber schon<lb break="yes"/>4 Wochen darin und darf jederzeit<lb break="yes"/>Heim wenn jemand
+                komt. Ich rate<lb break="yes"/>dir noch kom̄e sofort den es fält<lb break="yes"/>nicht gut aus wenn du nicht kom̄st<lb break="yes"/>und
+                verbrauchst mir von mein Geld <pb facs="#image_018"/>verbrauchst du bist noch nicht
+                volljährig<lb break="yes"/>wen̄ du nicht sofort komst freue dich<lb break="yes"/>wenn ich kom̄e und da ich vollständig<lb break="yes"/><del>g</del>Gesund bin und alle Schweren arbeiten<lb break="yes"/>in der
+                Schlosserei thun kan̄. Kom̄st<lb break="yes"/>du nicht sofort
+                dan̄ wirst du sehen<lb break="yes"/>wie es geht. Laß es dir gemerkt<lb break="yes"/>sein was ich dir schreibe. Ich bin<lb break="yes"/>vollständig
+                Gesund. </p><p>Wenn du komst nimst mir Brust<lb break="yes"/>Kragen
+                Grawate mit und das<lb break="yes"/>Geld was du zum fahren brauchst<lb break="yes"/>und mir mitnimst kannst du<lb break="yes"/>schon von meinem Lohn nehmen.</p>
+<p><hi rendition="#c"><seg ana="#salute">Gruß dein <hi rendition="#i">V</hi>ater</seg></hi><lb break="yes"/><surname>S.</surname> Josef<lb break="yes"/><hi rendition="#r">Liege <del>af</del> auf <hi rendition="#i">AI.</hi> Kaufbeuer</hi></p>
+</body>
+</text>
+</TEI>

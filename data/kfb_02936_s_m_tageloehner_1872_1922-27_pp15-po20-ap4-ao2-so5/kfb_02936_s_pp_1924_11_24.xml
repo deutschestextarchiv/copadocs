@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2936s23" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Urban <surname>S.</surname></persName>
+<date type="sent">24.11.1924</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Familie von umworbener Frau: Familie <surname>H.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2936s">
+<persName>
+<forename>Urban</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1872"/>
+<death when="1927"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Lentin, Ingolstadt</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Schneider</p>
+<p>Anstalt: <date from="1922" to="1927">1922-27</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>erregb. Psychopathie, Hypomanie, Beeinträchtigungs- und Verfolgungswahn (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beklagt, dass die Tochter der Adressaten nicht heiraten will/darf, obwohl sie nur den Patienten als Mann will.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2936s23a.jpg" xml:id="image_116"/>
+<graphic mimeType="image/jpg" url="kfb2936s23b.jpg" xml:id="image_117"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_116"/>
+<opener>
+<dateline><hi rendition="#c">Kaufbeuren d. 30. XI. 24.</hi></dateline>
+<salute><hi rendition="#r">Wehrte Famielie <surname>H.</surname>!</hi></salute>
+</opener>
+<p>Aus einen Brieflein gelesen. Daß<lb break="yes"/>sich H Schwager <hi rendition="#u">Adam</hi>, zum 2.ten <hi rendition="#i">X</hi><lb break="yes"/>verheirathet. Als wie frühers H. <w>Ober<lb break="no"/>Bürgermeister</w>
+<surname>W.</surname>, so wünsche<lb break="yes"/>ich ihm, alles Gute. O
+                wen̄ noch seine<lb break="yes"/>Schwesterl Walli auch heirathsfähig<lb break="yes"/>wäre. Müßte Sie nich auch gleich<lb break="yes"/>heirathen. <seg ana="#salute"><hi rendition="#u">Grus von ihr</hi><lb break="yes"/>und von mir.</seg>
+<seg ana="#signed"><surname>S.</surname> Urban</seg><lb break="yes"/>abgedankter Schwiegersohn <add place="margin">und
+                Schwager</add></p><p>I glaub die Wali, will keinen andern<lb break="yes"/><hi rendition="#c"><hi rendition="#u">als mich</hi></hi>. Und ich
+                hab schon so<lb break="yes"/><hi rendition="#r"><hi rendition="#u">viele</hi></hi>.</p><p>An Wohlgeborn<lb break="yes"/>Famielie <surname>H.</surname><lb break="yes"/>in Augsburg<lb break="yes"/>Georgistraße <hi rendition="#i">F</hi>
+                37/0.</p>
+<pb facs="#image_117"/>
+<p> Schickt mir von Bubi, daß Bild dan schicke ich<lb break="yes"/><hi rendition="#r"><hi rendition="#u">auch was</hi></hi><lb break="yes"/>Im Voraus ein gutes Neujahr 1925 </p>
+</body>
+</text>
+</TEI>

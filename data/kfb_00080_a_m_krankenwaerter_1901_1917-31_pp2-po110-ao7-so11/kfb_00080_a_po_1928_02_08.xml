@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">08.02.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ober-Medizinalrath u. Oberarzt: Dr. Fuchs</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1917" to="1931">1917-31</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    kann sehr schlecht schlafen, vor allem dann kommt seine "Gotteslästerung" wieder
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a10a.jpg" xml:id="image_051"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_051"/>
+<opener>
+<dateline><add hand="arzt">8. II. 28.</add></dateline>
+<salute>Sehr geehrter Herr Oberarzt <hi rendition="#i">Dr. Fuchs.</hi><lb break="yes"/>&amp;. Sehr geehrter Herr Ober-Medizinalrat!</salute>
+</opener>
+<p>Seit paar Tagen hab ich Nachts sehr arge schreckliche Sinnes-&amp;. Ge<lb break="no"/>sichtstäuschungen, die mich sehr erschrecken &amp;. mir große Angst
+                bringen.<lb break="yes"/>Sehe zuerst graußame Sachen, aber gleich sind sie
+                verschwunden &amp;. ich<lb break="yes"/>weiß nicht mehr was ich sah. Heute Nacht
+                schlief ich schlecht &amp;. hatte diese<lb break="yes"/>arge Unruhe. Von Ein Uhr ab
+                schlief ich fast nicht mehr, höchstens 1 Stunde.<lb break="yes"/>Auch leider wird
+                meine Gotteslästerungsqual von Tag zu Tag im<lb break="no"/>mer ärger &amp;.
+                verfluchter. Besonders bei Nachts wenn ich wach bin kommt<lb break="yes"/>die arge
+                Gotteslästerungsqual am meisten. <hi rendition="#i">Euer Hochwohlgeboren</hi>!<lb break="yes"/>Ich bitte Sie höflichst, tun Sie mich jetzt <hi rendition="#i"><hi rendition="#u">impfen</hi></hi> od. <hi rendition="#i"><hi rendition="#u">hypnotisieren</hi></hi>.<lb break="yes"/>Helfen Sie mir bitte doch. Ich
+                will willig Ihnen dafür Jahre lang <w>schrift<lb break="yes"/>liche</w> Arbeit
+                machen &amp;. immer gut tun.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvollst</seg>
+<seg ana="#signed"><hi rendition="#i">Hans
+                    <surname>A.</surname></hi>.</seg></hi></p>
+</body>
+</text>
+</TEI>

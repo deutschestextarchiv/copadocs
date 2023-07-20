@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip2509n20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>2509 (K. 170)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Carrlo <surname>F.</surname></persName>
+<date type="sent">13.12.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verlobte: Erna <surname>N.</surname></persName>
+<settlement type="sent">Werdohl</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip2509n">
+<persName>
+<forename>Erna</forename>
+<surname>N.</surname>
+</persName>
+<birth when="1899-07-10"/>
+<death cert="unknown"/>
+<occupation>Fürsorgezögling</occupation>
+<residence><geo decls="#WGS">51.347413849999995 7.569084715363729</geo>Geburtsort: Hohenlimburg; Wohnort: Hohenlimurg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater Buchbinder</p>
+<p>Anstalt: <date from="1913-08-19" to="1933-12-01">19.08.1913-24.11.1920; 17.02.1926-01.12.1933</date></p>
+<p>Brieftypen: pp, po, ap, so</p>
+</state>
+<trait><p>Psychopathie, Imbecillität</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="verlobter"/>
+<handNote medium="ink" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Er schreibt der Patientin, dass er sich mit ihr Treffen möchte und schlägt dafür einen Treffpunkt vor. Er sagt, er hat auch an den Direktor geschrieben, da er sich nicht im Geheimen treffen will. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip2509n20.jpg" xml:id="image_058"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_058"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Werdohl, den 13. Dez.
+                        1927.</hi></hi></dateline>
+<salute><hi rendition="#i">Meine liebe kleine Erna!</hi></salute>
+</opener>
+<p><space/>
+<hi rendition="#i">Eben komme ich von Nachtschicht, wir haben uns verabredet </hi><lb break="yes"/><hi rendition="#i">am Sonntag mit den Fahrrädern nach
+                        </hi><placeName><hi rendition="#i">Hagen</hi></placeName><hi rendition="#i">
+                    zu fahren, da währe es mir </hi><lb break="yes"/><hi rendition="#i">sehr recht,
+                    wenn ich mich mit Dir treffen könnte. Bedingung ist natürlich </hi><lb break="yes"/><hi rendition="#i">trockenes Wetter sonst fahren wir nicht. Du komst
+                    dann an die Brücke </hi><lb break="yes"/><hi rendition="#i">an der Kaiserstraße
+                    u. zwar um 2 Uhr, denn wir wollen verschiedene Sachen </hi><lb break="yes"/><hi rendition="#i">kaufen, schreibe mir rechtzeitig Bescheid wenn Du einen andern
+                    Treff</hi><lb break="no"/><hi rendition="#i">punkt vorzuschlagen hast. </hi><lb break="yes"/><hi rendition="#i">Nun meine liebe Dolly, wie geht es Dir?
+                    Hoffendlich ist alles gut ge</hi><lb break="no"/><hi rendition="#i">gangen. An
+                    Herrn Oberarzt habe ich gerstern ein Brief geschrieben u. </hi><lb break="yes"/><hi rendition="#i">da ich nie ohne sein </hi><del><hi rendition="#i">w</hi></del><hi rendition="#i">Wissen mich mit Dir in Eickelborn treffen
+                    würde</hi><del><hi rendition="#i">,</hi></del><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">u. </hi><hi rendition="#u"><hi rendition="#i">aber auch nicht von Dir lassen werde</hi></hi><hi rendition="#i">. Also
+                    führe Dich so. daß </hi><add place="above"><hi rendition="#i">ich</hi></add><hi rendition="#i"> an </hi><lb break="yes"/><hi rendition="#i">einem schönen Tag mein
+                    Versprechen einlösen kann. </hi><lb break="yes"/><seg ana="#salute"><hi rendition="#i">So Dolly, einen recht süßen Kuß, ich glaube ich muß schlafen
+                        </hi><lb break="yes"/><hi rendition="#i">gehen, auch wüßte ich nichts zu
+                        schreiben mehr. </hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Sei gegrüßt u. oftmals geküßt</hi></hi><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">von Deinem </hi><seg ana="#signed"><hi rendition="#i">Carrlo</hi></seg><hi rendition="#i">.</hi></seg><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">P.S. Eben Deine Karte
+                    erhalten, bitte genaue Aufklärung.</hi>
+</p>
+<p><add hand="patient"><hi rendition="#i">H</hi>err
+                        <surname>F.</surname> nehmen Sie diesen<lb break="yes"/>Brief zurück
+                    und tragen Sorge das<lb break="yes"/>ich meinen Glauben an Sie nicht ganz
+                    verliere erwarte<lb break="yes"/>bi<hi rendition="#i">s</hi> Sonntag eine
+                    Antwort. Mögen Sie nicht verge<hi rendition="#i">ss</hi>en<lb break="yes"/>haben
+                    wie e<hi rendition="#i">s</hi> ist wenn man schlimmer <add place="above">dran</add> ist wie ein Gefangener.</add></p>
+</body>
+</text>
+</TEI>

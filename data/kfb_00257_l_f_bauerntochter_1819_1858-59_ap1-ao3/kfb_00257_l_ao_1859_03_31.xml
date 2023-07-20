@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb257l04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>257</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Fanni <surname>Z.</surname></persName>
+<date type="sent">31.03.1959</date>
+<date type="received">02.04.1859</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb257l">
+<persName>
+<forename>Therese</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1819"/>
+<death when="1859"/>
+<occupation>Köchin, Bauerntochter</occupation>
+<residence><geo decls="#WGS">47.8743013 10.5341514</geo>Friesenried, Obergünzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1858" to="1859">1858-1859</date></p>
+<p>Brieftypen: ap, ao</p>
+</state>
+<trait><p>Blödsinnigkeit, Schwermut (1858)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bekannte"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater/offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Eine Bekannte übernimmt die Bezahlung der Versorgungskosten für die Patientin und erkundigt sich nach deren Befinden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb257l04a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb257l04b.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><hi rendition="#r">München den 31<hi rendition="#sup">t</hi> März<lb break="yes"/>1859</hi><lb break="yes"/><add hand="arzt">6 7<lb break="yes"/>pr 2 April. 59.<lb break="yes"/>E N<hi rendition="#sup">o</hi>1421.</add></dateline>
+<salute><hi rendition="#c">Euer Wohlgeborn!</hi></salute>
+</opener>
+<p><add hand="arzt" place="bottom">Von Obigen 93 t 08 x für III u IV Qu.<lb break="yes"/>verpflegskosten<lb break="yes"/>und dispositiongeld<lb break="yes"/>fiat quittung u<lb break="yes"/>Vorlage Graaschel.<lb break="yes"/></add><add hand="arzt" place="margin">82f 9x4<lb break="yes"/>11f 10x4 "<lb break="yes"/>S<hi rendition="#sup">a</hi> 93f 18x-"</add>
+</p><p>Im Auftrage der Frau Fürstin von <surname>A.</surname> in Brüssel<lb break="yes"/>übersende ich hiemit neuerdings 93 fl: 18 Kr für Frl. Therese<lb break="yes"/><surname>L.</surname> um die Verpflegungskosten in der Anstalt für
+                begin̄endes<lb break="yes"/>Semester zu decken. Ich ersuche Euer Wohlgeborn
+                mir möglichst<lb break="yes"/>bald den richtigen Empfang des Geldes anzuzeigen und
+                zugleich<lb break="yes"/>den Hrn. Doktor in meinem Namen zu ersuchen, mir nur<lb break="yes"/>in einigen Zeilen mitzutheilen, in welchem Zustande sich<lb break="yes"/>die unglückliche Kranke befindet und welche Hoffnungen<lb break="yes"/>man für ihre Heilung hat, da ich die Fürstin davon in <pb facs="#image_009"/> Kenntniß setzen soll.<lb break="yes"/>Mit ausgezeichneter
+                Hochachtung</p>
+<p><hi rendition="#r">ergebenste Fanni <surname>Z.</surname><lb break="yes"/>pensionirte Erzieherin der Prinzessinnen</hi><lb break="yes"/><hi rendition="#c">von <surname>A.</surname></hi><lb break="yes"/><hi rendition="#r">Sonnenstraße <hi rendition="#i">nr</hi>. 21/1<lb break="yes"/>München</hi></p>
+</body>
+</text>
+</TEI>

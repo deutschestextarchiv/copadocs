@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2091w12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2091</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Therese <surname>W.</surname></persName>
+<date type="sent">28.08.1894</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Elisabetha <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2091w">
+<persName>
+<forename>Therese</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1895"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">48.7371951 11.1795268</geo>Neuburg a. d. Donau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Tagelöhner</p>
+<p>Anstalt: <date from="1882" to="1895">1882-95</date></p>
+<p>Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Verrücktheit , Aufregungszustände, Sinnestäuschungen (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will heimgeholt werden, möchte eine Jacke, war im Tobhaus
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2091w12a.jpg" xml:id="image_030"/>
+<graphic mimeType="image/jpg" url="kfb2091w12b.jpg" xml:id="image_031"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_030"/>
+<opener>
+<dateline><hi rendition="#c">Irsee den 28 August 1894.</hi></dateline>
+<salute><hi rendition="#c">Liebste Schwester!</hi></salute>
+</opener>
+<p><hi rendition="#c"/>Ich bitte Dich ob Du mich nicht heim hollen köntest.<lb break="yes"/>Da
+                ich einmal heim könte wenn es <w>gelegen heit</w><lb break="yes"/>gibt ich bin wohl inerlich krank geworden aber<lb break="yes"/>doch wen ich heim könte.</p><p> Liebe Schwester hole mich.</p><p> <seg ana="#signed">Deine Theres.</seg></p><p>
+<hi rendition="#r">An Theres <surname>W.</surname> inder Irrenanstalt<lb break="yes"/>Irse bei Kaufbeiern.<lb break="yes"/>fr<lb break="yes"/>An
+                    Frau Elisabetha <surname>S.</surname> Schumachers<lb break="no"/>wittwe
+                    am Brandl Nr 5 B früher 4 B<lb break="yes"/>Neuburg an der Donau.<lb break="yes"/><add place="inline">frei</add></hi><pb facs="#image_031"/> zu erfreuen und mit
+                Dir arbeiten zu könen.<lb break="yes"/>So ist schon wieder der 28 August und deine
+                    verien<lb break="yes"/>zeit bald vorbei in 8 Tag liebe zenzi Bas heute sehr
+                    schön<lb break="yes"/>noch und die <surname>H.</surname> sagt daß Du oft
+                mit Deiner Mutter<lb break="yes"/>auf und ab gegangen bist mit deinem grünen Schild
+                    da<lb break="yes"/>hat sie Dich gesehen. Beim ankomenden Winter soltest mir<lb break="yes"/>meine Tuchjacke schicken wen Du willst in die Kappele hi<lb break="no"/>nunter Liebe zenzi ich möchte eben hir Stadt mid machen da<lb break="yes"/>mit ich es mit heim brächte hir recht prozig gewesen zu<lb break="yes"/>sein.- Denke Dir unter 150-170 kan nicht eine reden wie<lb break="yes"/>drausen ich muß also mit Gotteshilfe imer allein herum<lb break="yes"/>mich auf halten da mich also mein <w>geburts Ort</w> so freut<lb break="yes"/>und hir keine mit mir spricht da ich
+                von keiner weis<lb break="yes"/>wo sie her ist so bitte ich Dich lisabeth mir meine
+                    Tuchja<lb break="no"/>ke zu schicken daß ich es Ihnen herunter tun kann.
+                    Weißt<lb break="yes"/>daß ich gern wenn ich mag meine Arbeit tuhe so ge<lb break="no"/>schid es auch da,, Ich habe dir sonst nichts zu schreiben<lb break="yes"/>was neu were als Geld hab ich keines und wo kein<lb break="yes"/>Geld ist da ist auch die noth; Ich kann nichts thun<lb break="yes"/>als Gott
+                unaufhörlich bitten mich Gesund heim zu schi<lb break="no"/>ken ich mußt 2 mal ins
+                Dobhaus seit deinen letzten<lb break="yes"/>Briefwechseln.</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">15.09.1893</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: <surname>J.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1890" to="1897">1890-1897</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beschwerde, Ohrenleiden, darf aber nicht liegen bleiben, Wärter haben sich falsch verhalten und keinen Arzt gerufen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s09a.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="kfb908s09b.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_018"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Mittwoch den 25. Oktbr 1893<lb break="yes"/>Herr Dr. Julius!</hi></hi><lb break="yes"/></salute>
+</opener>
+<p>
+
+Da ich neulich den 7. <hi rendition="#i">Septembr</hi> dieses Jahres<lb break="yes"/>wegen einer beschwährte auf eine schlechtere<lb break="yes"/>Abtheilung versetzten, so bringe ich den̄och<lb break="yes"/>eine beschwährte, wen̄ auch die Herrn ihr<lb break="yes"/>unrecht nicht erken̄en wollen,?<lb break="yes"/><lb break="yes"/></p>
+<p>Ich habe ein Ohrenleiden u, deßhalb wollte<lb break="yes"/>ich bis mittag liegen bleiben, da
+                aber<lb break="yes"/>den Herrn Fürsten von Wärtern nicht recht<lb break="yes"/>wahr, so zogen sie mir mein frühstük<lb break="yes"/>ab. Haben die Knechten das
+                    recht<lb break="yes"/>ein Urtheil zu fällen, haben die Knechte<lb break="yes"/>welche von ein Narrenhaus ins <hi rendition="#i">ander</hi><lb break="yes"/>laufen
+                ein <seg ana="#curse">das Verecken zu wünschen</seg><lb break="yes"/>wie Herr v.
+                        <surname><hi rendition="#i">K.</hi></surname> oder wie man<lb break="yes"/><del>st</del> ihn stehts tituliren muß den<lb break="yes"/>Kindischen
+                schneidergesell, h<hi rendition="#i">aben</hi> die <pb facs="#image_019"/> Wärter
+                mich aufzuhetzen bitte<lb break="yes"/>sehen sie in der Instruktion nach.<lb break="yes"/>? Was haben die Wärter zu thun<lb break="yes"/>wen̄ ein
+                Man̄ nicht aufstehen will?<lb break="yes"/>Antwort. Sie haben ein Arzt zu
+                    rufen<lb break="yes"/>u. sich still zu verhalten, auch wen̄ ihm<lb break="yes"/>nichtsfehlt den Mann,.- haben die<lb break="yes"/>Wärter das
+                gethan? <hi rendition="#i">Nein</hi>.<lb break="yes"/></p>
+<p><seg ana="#inst">Ja leider haben die Herrn Aerzte<lb break="yes"/>so wenig
+                    recht, als wie die Patienten<lb break="yes"/>sonst wirden die Herrn nicht<lb break="yes"/>tanzen wie die <hi rendition="#i">Pfleger</hi><lb break="yes"/>pfeifen,</seg>
+<hi rendition="#i"><foreign xml:lang="it">note béne</foreign></hi>.-<lb break="yes"/>Der <surname><hi rendition="#i">K.</hi></surname> u. <surname><hi rendition="#i">G.</hi></surname><lb break="yes"/>gehören v. rechts wegen sofort<lb break="yes"/>Entlaßen. schon wegen den unverschähmten<lb break="yes"/><hi rendition="#r">Wort <seg ana="#curse">Vereck</seg>.<lb break="yes"/><seg ana="#signed">
+<hi rendition="#i"><surname>S.</surname> J</hi>. </seg></hi>
+</p>
+</body>
+</text>
+</TEI>

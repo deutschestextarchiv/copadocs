@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2012b05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2012 (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>B.</surname></persName>
+<date type="sent">01.08.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern, Geschwister: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun2012b">
+<persName>
+<forename>Franz</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1882-04-22"/>
+<death cert="unknown"/>
+<occupation>Schmied</occupation>
+<residence><geo decls="#WGS">51.8260823 8.1453352</geo>Geburtsort: Oelde; Wohnort: Oelde</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Schmiedemeister, Mutter: n.a.</p>
+<p>Anstalt: <date from="1906-07-16" to="1907-02-10">16.07.1906-10.02.1907</date></p>
+<p>Brieftypen: pp, po, ao, oa</p>
+</state>
+<trait><p>Geisteskrankheit (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber erkundigt sich, ob sein Brief angekommen ist.
+                    Er möchte das Schützenfest mitfeiern.
+                    Er möchte an die frische Luft.
+                    Er hat dringende Arbeiten zu verrichten.
+                    Er berichtet von den Besuchen der Ärzte.
+                    Er bittet um einen Besuch.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2012b05a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="mun2012b05b.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt. <hi rendition="#r">Münster
+                            i.W., den</hi></add><hi rendition="#r"> 1 <hi rendition="#i">August</hi>,
+                            <add hand="vordruck">190</add>6</hi></dateline>
+<salute><hi rendition="#c">Liebe Eltern u G.</hi></salute>
+</opener>
+<p>Frage in aller Kürtze an ob Sie den ersten<lb break="yes"/>Brief erhalten haben.
+                Bei mir steht alles in bester<lb break="yes"/>Zufriedenheit, Was ich auch von Euch
+                hoffe.<lb break="yes"/>Hoffentlich wirst du wohl am Sonntag<lb break="yes"/>nach
+                hier kommen, und dan werde<lb break="yes"/>ich mittfahren. Wann haben wir
+                Schützenfest<lb break="yes"/>das möcht ich mir wohl wünschen mittzu<lb break="no"/>feiern. Weil ich es noch nie mitgefeiert<lb break="yes"/>habe. Bin schon in der
+                dritten Woche hier<lb break="yes"/><seg ana="#inst">und habe noch keine Erlaupnis
+                    das ich<lb break="yes"/>im Garten spazieren kann, Möchte<lb break="yes"/>mir
+                    doch lieber draßen in freier Luft<lb break="yes"/>beschäftigen als hier den
+                    ganzen Tag<lb break="yes"/>auf den Zimmer liegen zu 14 <hi rendition="#i">M</hi>ann.</seg><lb break="yes"/>Habt ihr das Gras schon geschnitten dann<lb break="yes"/>kann ich
+                ja helfen, zum häuern dann <pb facs="#image_013"/>kämet man wenigstens in freier
+                Luft<lb break="yes"/>Und ich habe meine dringende Arbe<unclear>it</unclear><lb break="yes"/>an das Gitter, und die 10 Stiken<unclear>aton</unclear><lb break="yes"/>12 Schiebekarrenräder, 1 Lockare den<lb break="yes"/><w>Hand
+                    wagen</w>, und die Stal<unclear>lenrichten</unclear><lb break="yes"/>zu arbeiten, <seg ana="#inst">Täglich komen die Artzt<lb break="yes"/>zum Besuche,
+                wohl fünf Stük sind hier<lb break="yes"/>vertretten,</seg> um die Kranken und
+                    ges<unclear>unden</unclear><lb break="yes"/>einer Besuch zu gestaden. Ich will <unclear>hier</unclear><lb break="yes"/>mit schließen, es ist doch <unclear>mih zu liebe</unclear><lb break="yes"/>Nur noch die eine bitte am Samstag<lb break="yes"/>nach hier komm,
+                worauf ich mich <unclear>erfre</unclear><lb break="yes"/>lasse, sonst wird man ja <unclear>nigden Hoz</unclear><lb break="yes"/>gewahr, Kein Brief und keien Kar<unclear>te</unclear><lb break="yes"/><hi rendition="#c"><seg ana="#salute">Es Grüß Euer Sohn</seg><lb break="yes"/><seg ana="#signed">Franz. <hi rendition="#i">B</hi>.</seg><lb break="yes"/><hi rendition="#u"><w>Schmiede argiket</w></hi></hi><hi rendition="#u"> </hi></p>
+</body>
+</text>
+</TEI>

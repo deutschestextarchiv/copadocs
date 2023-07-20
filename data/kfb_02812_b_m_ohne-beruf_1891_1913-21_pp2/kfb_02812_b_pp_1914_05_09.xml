@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2812b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2812</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">09.05.1914</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: n.a. <surname>B.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2812b">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1891"/>
+<death when="1921"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">48.36904145 10.903678159995689</geo>Augsburg Fuggerei</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Eisendreher, Hausierhändlerin</p>
+<p>Anstalt: <date from="1913" to="1921">1913-21</date></p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Epileptischer Dämmerzustand (1913), [Blödsinn, Apathie] (1913-1921)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> unzusammenhängende Satzteile ohne erkenntlichen Sinn. </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2812b01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2812b01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c">7. Mai. 14.</hi></dateline>
+<salute><hi rendition="#c">Liebe Mutter.</hi></salute>
+</opener>
+<p>Ich du nim̄er Zeinen gazeime<lb break="no"/>Studten dabie wen ich meinen<lb break="yes"/>Anfetbe kon̄e dan̄ hat mein Zein̄ans<lb break="no"/>bredte B Fester zr Brechen zaus<lb break="no"/>schrei wie
+                schweisen̄en dan<lb break="yes"/>hab ich nichte wen kommen<lb break="yes"/>sep sterber und hoben nich ab<lb break="yes"/>dan-kot bei einen
+                    danheim̄<lb break="yes"/>di K Landschaft. kammer Zeim̄e<lb break="yes"/>Zeinen. l Beinbre<del>i</del>chen in<lb break="yes"/>meines
+                Makechen getan und<lb break="yes"/>da brigest drienen d meine<lb break="yes"/>le
+                Mei Mutte <del>u</del>im<lb break="yes"/>kom̄bd und <space/> Teder wieder<lb break="no"/>Wnemichmeich. abholen.</p>
+<pb facs="#image_002"/>
+<p><handShift medium="pencil" scribe="patient"/><seg ana="#salute">Liebe Mutter.</seg> ich<lb break="yes"/>mein liebes Kind<lb break="yes"/>wie wüscht ihnen<lb break="yes"/>l klük das hab<lb break="yes"/>wieder kommen.</p>
+</body>
+</text>
+</TEI>

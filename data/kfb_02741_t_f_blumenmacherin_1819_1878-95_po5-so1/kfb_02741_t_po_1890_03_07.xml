@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2741t04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2741</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Corona <surname>T.</surname></persName>
+<date type="sent">07.03.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Jesus Christus</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2741t">
+<persName>
+<forename>Corona</forename>
+<surname>T.</surname>
+</persName>
+<birth when="1819"/>
+<death when="1895"/>
+<occupation>Blumenmacherin, Näherin</occupation>
+<residence><geo decls="#WGS">48.7678768 10.7981234</geo>Kaisheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1878" to="1895">1878-95</date></p>
+<p>Brieftypen: po, so</p>
+</state>
+<trait><p>Halluzinatorische Verrücktheit, Wahnvorstellungen (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte Rechenschaft ablegen bei Jesus Christus
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2741t04a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb2741t04b.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb2741t04c.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><hi rendition="#c"><add hand="arzt">/: <hi rendition="#u"><hi rendition="#i">ad <surname>T.</surname></hi></hi>:/</add></hi>
+<hi rendition="#r">ten 7 Mäerz 1890!</hi></dateline>
+<salute>Aller Heuulehster Hochwüdehster Jesus Chrüstus</salute>
+</opener>
+<p>
+Rüchtter über Die Lebendichen und Totten! eber Weldt<lb break="yes"/>und Enzügkeudt: ich Ihre Aller<unclear>mesthe</unclear> Durch düß Ferdamdte<lb break="yes"/>Sadan und Würth Sadan Schöfler Sadtan und Küdt Sündt<lb break="yes"/>Aufgefodert Zum Jingsten Jengsten Gericht mit<lb break="yes"/>Ferunglücklichm Merders Thadt Nahm die fon Krmünall<lb break="yes"/>Allen Heulichsten Hochgerücht Im der Pfarkürch Irße<lb break="yes"/>Eugeklagt end Morgen bey Allerheulehsten Jesus<lb break="yes"/>Rechter end Stadthaltter Erdten Ire Rechenschaft Ab<lb break="no"/><hi rendition="#r">zulegen bey Allerheulichstene<lb break="yes"/>Deufaltüchkeudt</hi>
+<pb facs="#image_011"/>
+<hi rendition="#c"><hi rendition="#i">A</hi><lb break="yes"/>Allerheulehsten Jesus<lb break="yes"/>Rüchtter Hemlls und ter Erdt</hi></p>
+<p><hi rendition="#r">Pfahrkirch Irße </hi>
+<pb facs="#image_012"/>
+Himlescher Vatter ich bütte Morgen mih <unclear>neben</unclear><lb break="yes"/>Zu draggen laßsen In dü Pfarkürche
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2702w09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Anton <surname>W.</surname></persName>
+<date type="sent">06.01.1854</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Maria <surname>W.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2702w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Bierbrauerstochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Brauereibesitz</p>
+<p>Anstalt: <date from="1853" to="1856">1853-56</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Vesania (17.11.1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="bruder2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Spricht sich darüber aus, dass er eine Besserung des Zustandes seiner Schwester wahrnimmt 
+                   und sich freuen würde, wenn diese bald entlassen werden könnte. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2702w09a.jpg" xml:id="image_020"/>
+<graphic mimeType="image/jpg" url="kfb2702w09b.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_020"/>
+<opener>
+<dateline><hi rendition="#r">München am 6 <unclear><hi rendition="#sup">t</hi></unclear> Ianuar
+                    1854</hi></dateline>
+<salute><hi rendition="#c">Liebe Schwester!</hi></salute>
+</opener>
+<p><space/> Vor Allem meinen herzlichen Dank für Deine Glückwünsche.<lb break="yes"/>Auch ich wünsche dir ein glückseeliges Neues= Jahr, namentlich<lb break="yes"/>mögest Du so fortschreiten in deiner Beßerung als es bis<lb break="yes"/>jetzt
+                der Fall war. −</p><p>Du machst mir in deinem Briefe den Vorwurf, daß ich an deinem<lb break="yes"/>Schicksal
+                        <del><unclear>k</unclear></del>gar keinen Antheil nehme, sey versichert daß
+                ich<lb break="yes"/>stets von Deinem Leben und Treiben genau unterrichtet<lb break="yes"/>war, u. daß ich voll Theilnahme für deine Person bin,<lb break="yes"/>namentlich hat mich dein Brief an die Mutter außerordentlich<lb break="yes"/>gefreut, da er mich zu der Überzeugung brachte,<lb break="yes"/>daß noch nicht alle Hoffnung an dir aufzuge<del>g</del>ben ist. </p>
+<pb facs="#image_021"/>
+<p>Dieser Brief zeigt, daß in dir Sin̄e erwacht<del>e</del> zu <add place="above">seyn</add> schein<unclear>en</unclear><lb break="yes"/>die bis jetzt nicht mehr zu nehmen waren.</p><p><del><unclear reason="overwriting"/></del>Vor kurzer Zeit war dein einziges Verlangen von Hause<lb break="yes"/><w>fort zu kom̄en</w>, deine jetzigen Briefe deuten eine<lb break="yes"/>heftige Sehnsucht nach dem älterlichen
+                    Hause an,<lb break="yes"/>kurz der Inhalt deiner Briefe berechtigt zu der
+                Hoffnung<lb break="yes"/>daß wir dich bald in den Kreis unserer Familie<lb break="yes"/>wieder werden aufnehmen kön̄en, was mich sehr<lb break="yes"/>freuen würde.</p><p>Gleichzeitig mit diesem Briefe wird ein Brief an den<lb break="yes"/>Vorstand der Heilanstalt
+                Herrn Dr. Hagen abgehen,<lb break="yes"/>worin ich denselben ersuchen werde, über
+                dein Befind<unclear>en</unclear><lb break="yes"/>näher <del>a</del>Aufschlüße zu geben, und worin für dich,<lb break="yes"/>falls derselbe es für rathsam erachtet, <add place="above">vor der
+                    Hand</add> ein Besuch<lb break="yes"/>von mehren Tagen oder Wochen
+                        zu<del><unclear>nach</unclear></del> Hause <del>be=</del><lb break="yes"/>von mir befürwortet wird.</p><p>Die Mutter ist sehr leidend. − </p><p><seg ana="#salute">Es laßen dich Deine Brüder herzlich grüßen </seg><lb break="yes"/><hi rendition="#c">Dein</hi><lb break="yes"/><hi rendition="#r">Bruder<lb break="yes"/><space/> <seg ana="#signed">Anton</seg>.</hi></p><p><add place="bottom"><hi rendition="#i">N.B.</hi><lb break="yes"/><seg ana="#metaling">Nim̄ zu deinen Briefen<lb break="yes"/>beßere Tinte,
+                    man kan̄<lb break="yes"/>selbe kaum lesen, so blaß<lb break="yes"/>ist
+                    die Schrift. − </seg></add></p>
+</body>
+</text>
+</TEI>

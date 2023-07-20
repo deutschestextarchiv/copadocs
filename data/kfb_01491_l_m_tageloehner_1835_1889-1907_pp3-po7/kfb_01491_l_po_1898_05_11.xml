@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1491l05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1491</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Engelbert <surname>L.</surname></persName>
+<date type="sent">11.05.1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>N.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1491l">
+<persName>
+<forename>Engelbert</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1835"/>
+<death when="1907"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">47.5970747 9.738314</geo>Wildberg (Lindau)</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1889" to="1907">1889-1907</date></p>
+<p>Brieftypen: pp,po</p>
+</state>
+<trait><p>Tobsucht, Verrücktheit mit Ausgang in apathischem Blödsinn, Halluzination (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Patient spricht von baldiger Entlassung, bittet um Geldsendung und Reisetasche
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1491l05a.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb1491l05b.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb1491l05c.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline>Marktorf Irrse Pfläg<lb break="no"/>Anstalt ten 11 Mai 1898</dateline>
+<salute>Geerteste Wittwe Frau<lb break="yes"/><surname>N.</surname> <w>Holz handler</w><lb break="yes"/>in der Stat
+                    Lindau</salute>
+</opener>
+<p>
+<w>in dem</w> ich als Pflag<lb break="no"/>Ling Engelbert
+                    <surname>L.</surname><lb break="yes"/>mit Holzarbeit Be<lb break="no"/>schäftigt Bin und mier<lb break="yes"/>der Königlie Regirungs<lb break="yes"/>Prensen dent die Freuheit<lb break="yes"/>gegeben am Sontag te 8<lb break="yes"/>Mai 1889 so <w>werde</w><w>ich</w><lb break="yes"/>Entlass ten 15 Mai 1889<lb break="yes"/>so Bitt ich Eengelbert<lb break="yes"/><surname>L.</surname> Bruder des<lb break="yes"/>Jahan Pobsist
+                    <surname>S.</surname><lb break="yes"/><w>Holz händler</w> in Lindau<lb break="yes"/>Gestorben am 7
+                    Oktober<lb break="yes"/>1887 Ligt Grabe auf<lb break="yes"/>dem Frid Ashach
+                    Werteslte<lb break="yes"/>Wittwe Frau <surname>S.</surname><lb break="yes"/><w>Holz händler</w> in Lindau<lb break="yes"/>Sinin und mier
+                    <unclear reason="damage">9</unclear> Mak<lb break="yes"/>Geld schüken in die<lb break="yes"/><w>Pfläge Anstalt</w>:<lb break="yes"/>Irrsee an
+                    Pflägling<lb break="yes"/><hi rendition="#r">Engelbert <surname>L.</surname></hi><pb facs="#image_016"/>Bis Sontag ten 15 Mai<lb break="yes"/>Sie Werteste Frau <w>franz<lb break="no"/>iska</w> schüke Sie mir<lb break="yes"/>eine <w>Reisse Tasche</w>:<lb break="yes"/>wen es ihnen
+                    Möglich<lb break="yes"/>ist mich als Bruder<lb break="yes"/><surname>N.</surname> selpst abholen<lb break="yes"/>Biß am 15 Mai am
+                    Sontag<lb break="yes"/>das wirde mich ann<lb break="yes"/>Besten Freuhen im
+                    die<lb break="yes"/>Freuheit als Holzmach<lb break="yes"/>man i mit mier<lb break="yes"/>Ser Wohl zufrieden<pb facs="#image_017"/> gewesen ich war<lb break="yes"/>feleißig an der<lb break="yes"/>Arbeit<lb break="yes"/><seg ana="#salute">Es auf
+                        das<lb break="yes"/>freudlichste</seg><lb break="yes"/><seg ana="#signed">Pflägling<lb break="yes"/>Engelbert Locher</seg><lb break="yes"/><hi rendition="#c">an</hi><lb break="yes"/><w>Wohl Geboren</w><lb break="yes"/>Witwe Frau
+                        <surname>S.</surname> Holzhändler<lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/>Lindau am<lb break="yes"/><w>Boden See</w></p>
+</body>
+</text>
+</TEI>

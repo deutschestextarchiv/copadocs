@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb803m05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>803</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Friedrich <surname>M.</surname></persName>
+<date type="sent">17.12.1862</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: Joseph <surname>M.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb803m">
+<persName>
+<forename>Friedrich</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1837"/>
+<death cert="unknown"/>
+<occupation>Rotgerberssohn</occupation>
+<residence><geo decls="#WGS">48.618268 10.4155609</geo>Wittislingen, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Rotgerber, Privatier (zahlt)</p>
+<p>Anstalt: <date from="1862" to="1870">1862-70</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Aufregung abwechselnd mit Schwermut, Melancholie, Erotomanie (1862)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet seine Eltern, ihn abzuholen, weil er gesund sei.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb803m05a.jpg" xml:id="image_061"/>
+<graphic mimeType="image/jpg" url="kfb803m05b.jpg" xml:id="image_062"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_061"/>
+<opener>
+<dateline><hi rendition="#r">Ihrßsech den 17 <hi rendition="#i">D</hi>ezembr
+                        1862</hi></dateline>
+<salute><hi rendition="#c">Theuerste Eltern!</hi></salute>
+</opener>
+<p><space/> Möchten Sie! die Güte haben, <w>in dem</w><lb break="yes"/>ich durch <hi rendition="#u">Thochgthoren</hi> als Gesund, des<lb break="yes"/><hi rendition="#u">Verstandes</hi> erklrät bin:=<hi rendition="#sup">!!</hi><lb break="yes"/>Dacher möchten<hi rendition="#sup">s</hi> Sie die Güte haben
+                −<lb break="yes"/>als am Samstag den 19<hi rendition="#sup">s=</hi> dieses
+                Monats<lb break="yes"/>Abends, mit eigenen <w>Fuhr Werck</w>, ab<lb break="no"/>hollen laßen: um ½4 Uhr in <hi rendition="#u">Offingen.</hi><lb break="yes"/><hi rendition="#r"><seg ana="#salute">Nebst freundlichen Gruß</seg><lb break="yes"/>Wirthschäftlich, Eurer<lb break="yes"/>dankbarrer Sohn<lb break="yes"/><hi rendition="#i">Friedrich <surname>M.</surname></hi><lb break="yes"/>Roth-Gerbersohn<lb break="yes"/><unclear/></hi><lb break="yes"/><add place="margin"><hi rendition="#u">Bestädigt Bauschmied<lb break="yes"/><hi rendition="#r">Vorstand.</hi></hi></add></p>
+<pb facs="#image_062"/>
+<p><hi rendition="#u">H<hi rendition="#i">err Joseph <surname>M.</surname></hi><lb break="yes"/><hi rendition="#r">Rothgerber Meister<lb break="yes"/>von<lb break="yes"/><hi rendition="#i">W</hi>ittislingen</hi></hi><lb break="yes"/><hi rendition="#u">Laag. <hi rendition="#i">D</hi>illingen</hi><lb break="yes"/><add place="margin">an der Donau</add>
+</p>
+</body>
+</text>
+</TEI>

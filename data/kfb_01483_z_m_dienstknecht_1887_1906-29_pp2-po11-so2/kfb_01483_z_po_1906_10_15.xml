@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1483z10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1483</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Michael <surname>Z.</surname></persName>
+<date type="sent">15.10.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1483z">
+<persName>
+<forename>Michael</forename>
+<surname>Z.</surname>
+</persName>
+<birth when="1887"/>
+<death when="1929"/>
+<occupation>Dienstknecht, Taglöhner, Bettler</occupation>
+<residence><geo decls="#WGS">47.7633615 10.376461</geo>Haldenwang, Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Taglöhner</p>
+<p>Anstalt: <date from="1906" to="1929">1906-1929</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Halluzination] (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber möchte, dass der Arzt ihm glaubt, obwohl er als Lügner verleumdet wird. 
+                    Er gesteht ein, dass nicht nur seine schlechte Erziehung sondern auch er selbst an dem Verlauf seines Lebens schuld sind, da er gegen den Willen seines Vaters
+                    zwei Jahre in der Fremde war. In dieser Zeit musste er betteln und Bettelstrafen verbüßen. Außerdem gesteht er, sich selbst befriedigt zu haben, was er für unsittlich hält und für seine
+                    gesundheitlichen Probleme verantwortlich macht, und bittet den Arzt dashalb um Hilfe.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1483z10a.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb1483z10b.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="kfb1483z10c.jpg" xml:id="image_027"/>
+<graphic mimeType="image/jpg" url="kfb1483z10d.jpg" xml:id="image_028"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_025"/>
+<opener>
+<dateline><add hand="arzt">15.X.06.</add></dateline>
+<salute><hi rendition="#c">Lieber Herr Doktor!</hi> </salute>
+</opener>
+<p>
+<add hand="arzt"><hi rendition="#i">ad acta <surname><unclear>S.</unclear></surname></hi></add><lb break="yes"/>Ich möchte Sie nochmals ersuchen meinen<lb break="yes"/>Worten
+                Glauben zu schenken. Den̄ wenn<lb break="yes"/>Sie jetzt noch weiter daran
+                zweifeln was<lb break="yes"/>ich Ihnen seit letzter Zeit teils mündlich u.<lb break="yes"/>schriftlich mitgeteilt habe; was mir<lb break="yes"/>so sehr
+				    Verdruß <del>ver</del> bereitet wen̄ man<lb break="yes"/>mich allem Anschein
+				    nach as <seg ana="#curse">gemeinen<lb break="yes"/>Lügner</seg> betrachtet. <seg ana="#pol">Deshalb habe
+                    ich Sie<lb break="yes"/>wiederum gebeten Ihnen mitteilen<lb break="yes"/>zu
+                    dürfen wie sich die ganze Geschichte<lb break="yes"/>verhält und in welch
+                    schroffer Weise<lb break="yes"/>man es wagt aus einem redlichen<lb break="yes"/>u. ehrlichen Menschen in solch harte<lb break="yes"/>Strafe zu bringen, um
+                    natürlich wie<lb break="yes"/>es heutzutuage gar häufich geschieht<lb break="yes"/>einen Menschen der noch so sehr darum<lb break="yes"/>bestrebt ist ein ordentliches Leben zu<lb break="yes"/>führen in Wirklichkeit
+                    in die Strafe<lb break="yes"/>hineinschafft auf daß er seines Lebens<lb break="no"/>dauer als ein <seg ana="#curse">Taugenichts</seg> verachtet wird.<pb facs="#image_026"/> von seinen Mitmenschen.</seg> Die schlechte<lb break="yes"/>Erziehung die
+                ich genossen ist auch<lb break="yes"/>nicht allein an meinem ganzen<lb break="yes"/>Lebenslauf schuld; sondern ich bin<lb break="yes"/>auch mitschuldig weil ich
+                ohne Wissen<lb break="yes"/>u. Willen meines Vater über zwei Jahre<lb break="yes"/>in der fremde aufgehalten habe. Ich<lb break="yes"/>wollte auch Gottes weite Welt
+                    mal<lb break="yes"/>durchwandern. Doch ich habe mich aber<lb break="yes"/>schrecklich getäuscht indem ich erwartete<lb break="yes"/>meinen Lebensunterhalt
+                besser be<lb break="no"/>streiten zu kön̄en. <seg ana="#pol">Ich bin in
+                        ganz<lb break="yes"/>verkom̄enen Gesellschaften geraten,<lb break="yes"/>weil ich mich gezwungen fühlte hiezu<lb break="yes"/><del>dim</del> mich beeinflußen zu lassen. Auch<lb break="yes"/>habe ich mich
+                    in unzüchtige Handlungen<lb break="yes"/>eingelassen weil ich <del>mich</del>
+                    nur not<lb break="no"/>gedrungen gebettelt habe u. die Bettel<lb break="no"/>strafen die ich verbüßt habe haben<pb facs="#image_027"/> mich hiezu veranlaßt.
+                    Den̄ ich habe<lb break="yes"/>nicht umsonst so ein blasses Aussehen<lb break="yes"/>was der <del>d</del> Herr Dierektor selbst gesagt<lb break="yes"/>hat.</seg> Als Doktor Wissen Sie ja selbst<lb break="yes"/>daß solch unzüchtige Handlungen<lb break="yes"/>den Menschen allmählich ums
+                    Leben<lb break="yes"/>bringen. <seg ana="#med">Ich weiß das diese Onanie<lb break="yes"/>oder besser gesagt Selbstbefriedigung<lb break="yes"/>für
+                    schädliche Folgen an der eigenen<lb break="yes"/>Gesundheit nach sich zieht;
+                    wen̄ es zu<lb break="yes"/>häufig betrieben wird.</seg> Solche<lb break="yes"/>Strapazen wie ich in meinem<lb break="yes"/>Leben schon erlitten
+                habe würde<lb break="yes"/>unter Umständen unter Tausend<lb break="yes"/>nicht
+                einer auzuhalten imstande sein;<lb break="yes"/>den̄ so ein Riesennatur wie
+                ich habe<lb break="yes"/>hat in tausend Fällen nicht einer<lb break="yes"/><seg ana="#pol">Wan̄ Ihr erst einmal bekan̄t ist<lb break="yes"/>was
+                    mit mir für Lasterhaftigkeiten<lb break="yes"/>getrieben worden sind. Ich bin
+                        gerne<pb facs="#image_028"/>bereit Ihnen Alles genau zu erzählen<lb break="yes"/>über meine geschlechtliche Verirrungen.<lb break="yes"/>Ich
+                    bitte Sie inständig darum mich<lb break="yes"/>hierüber aufzuklären. Es
+                        werden<lb break="yes"/>ja wie mir bekan̄t ist in allen<lb break="yes"/>größeren Städten Bücher feilgehalten<lb break="yes"/><del>um</del> zur Hebung der Sittlichkeit.</seg> Leider<lb break="yes"/>habe
+                ich ein solches Buch noch nicht ge<lb break="no"/>lesen weil es mir nicht möglich
+                    war<lb break="yes"/>ein solches zu kaufen oder zu ent<lb break="no"/>lehnen.
+                Deshalb <del>r</del> wende ich mich an<lb break="yes"/>Sie um mich über solch
+                    lasterhaftes<lb break="yes"/>Thun u. Treiben aufmerksam zu machen.<lb break="yes"/>Ich glaube zuversichtlich daß es Ihnen<lb break="yes"/>möglich
+                sein wird diese Bitte zu er<lb break="no"/>füllen; indem Sie heut Vormittag<lb break="yes"/>mit aller Gemütsrühe u. Gütte meine<lb break="yes"/>Worte<del>n</del> zu Herzen genom̄en haben.<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Hochachtungsvollst!<lb break="yes"/>grüßt Sie<lb break="yes"/>ergebenst</hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r"><surname>Z.</surname> Michael.</hi></seg>
+</p>
+</body>
+</text>
+</TEI>

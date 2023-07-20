@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2087f37" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2087</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Marie <surname>F.</surname></persName>
+<date type="sent">26.05.xxxx</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann: Ludwig <surname>F.</surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2087f">
+<persName>
+<forename>Ludwig</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1935"/>
+<occupation>Gastwirt, Landwirt</occupation>
+<residence><geo decls="#WGS">47.6283377 9.9102676</geo>Heimenkirch, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Gastwirt</p>
+<p>Anstalt: <date from="1900" to="1935">1900-1935</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Manie (1930), Ideenflucht, Größenwahn (1900-35), Halluzination (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="frau"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Frau des Patienten ist getroffen von seinen Vorwürfen und hofft, dass er bald wieder nach Hause kann.
+                    Der Patient interpretiert die Nachricht als Abwendung und beklagt die verlorene Liebe seiner Frau.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2087f37a.jpg" xml:id="image_103"/>
+<graphic mimeType="image/jpg" url="kfb2087f37b.jpg" xml:id="image_104"/>
+<graphic mimeType="image/jpg" url="kfb2087f37c.jpg" xml:id="image_105"/>
+<graphic mimeType="image/jpg" url="kfb2087f37d.jpg" xml:id="image_106"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_103"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Berg 26 Mai</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Lieber Ludwig !</hi></hi></salute>
+</opener>
+<p>Bin gut nachhause gekom̄en, aber<lb break="yes"/>sehr aufgeregt. u. müde;
+                lieber Ludwig<lb break="yes"/>daß kan̄ ich nicht vergessen, deine schwere<lb break="yes"/>Vorwirfe sind bitter u hart zum<lb break="yes"/>Ver<unclear>kencken</unclear>. Hab ich das wirklich<lb break="yes"/>verdient.
+                Mein Spruch mir schon<lb break="yes"/>jahreweis ein zu. </p>
+<p>Lerne Leiden ohne zu Klagen<lb break="yes"/>auch das soll fernerhin mir gelten<lb break="yes"/>Weis ich wohl., daß du es unüberlegt<lb break="yes"/>gesagt hast.
+                aber es thut bitter weh.<lb break="yes"/>Nun lieber Ludwig heute übersende<lb break="yes"/>ich dir durch Alban Schuhe, Soken<lb break="yes"/>u dergleichen
+                Hartwurst<lb break="yes"/>Schokolade u. den Rosenkranz. <pb facs="#image_104"/>den
+                du verlangtest.<lb break="yes"/>Hoffe daß du dich in Bälde<lb break="yes"/>ganz
+                erholest u daß kein<lb break="yes"/>Rükfall meh einkehre<lb break="yes"/>bei dir,
+                den wir könten dich<lb break="yes"/>so notwendig brauchen.<lb break="yes"/>u. die
+                Liebe u Strenge des<lb break="yes"/>Vaters mangelt jeden Tag.<lb break="yes"/>Nächsten Woche fangen wir<lb break="yes"/>auch an mit Heuen. </p>
+<p>Ich bitte dich, liebe Ludwig halte<lb break="yes"/>dich doch gut daß du dich richtig<lb break="yes"/>ausheilen kanst. Den der <unclear>Mann</unclear><lb break="yes"/>fehlt mir, ich habe so Heimweh<lb break="yes"/>seit dem letzten
+                Abschied von dir.<lb break="yes"/>ich leide u. fühle mit dir u. kan̄<lb break="yes"/>dir nicht heffen, als nur durch<lb break="yes"/>Gebet. Dieses
+                Brieflein nimt viele<lb break="yes"/>Thränen mit zu dir, viele stille<lb break="yes"/><hi rendition="#c">stille Zähren.</hi></p>
+<pb facs="#image_105"/>
+<p>Ich bitte dich sei mir nicht mehr<lb break="yes"/>böse auch unsren Kinder nicht<lb break="yes"/>und <seg ana="#salute"><hi rendition="#c">grüßt dich</hi><lb break="yes"/>mit der ganzen Familie</seg><lb break="yes"/><hi rendition="#c">deine</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><seg ana="#signed">Marie</seg></hi></hi><lb break="yes"/><seg ana="#salute">Gruß an Herr Oberpfleger<lb break="yes"/><hi rendition="#r">Steinle.</hi></seg></p>
+<p><add hand="patient" place="bottom"><hi rendition="#c"><hi rendition="#i"><hi rendition="#u">Mein Lied.</hi></hi></hi><lb break="yes"/><unclear reason="shorthand"/></add></p>
+<p><add hand="patient" place="top"><hi rendition="#i">abgewentet hat das<lb break="yes"/>verdutzet mich. Hab<lb break="yes"/>Sie geliebt ja onhe<lb break="yes"/>Ende &amp; bin dahin gefarhen.<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Lud <surname>F.</surname></seg></hi></hi></add></p>
+<pb facs="#image_106"/>
+<p><add><hi rendition="#i">Alle dürren Blätter<lb break="yes"/>fallen herab auf<lb break="yes"/>mich. Das meine<lb break="yes"/>Frau
+                        die Lieb mir</hi></add>
+</p>
+</body>
+</text>
+</TEI>

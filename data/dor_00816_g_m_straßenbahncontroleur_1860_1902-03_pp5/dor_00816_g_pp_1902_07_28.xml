@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor816g05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>816 (K. 70)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Carl <surname>G.</surname></persName>
+<date type="sent">28.07.1902</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Klara <surname>G.</surname></persName>
+<settlement type="sent">Aplerbeck</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor816g">
+<persName>
+<forename>Carl</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1860-10-17"/>
+<death cert="unknown"/>
+<occupation>Straßenbahncontroleur</occupation>
+<residence><geo decls="#WGS">51.4370171 7.335124</geo>Geburtsort: Greifswald; Wohnort: Witten</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: V: Metzger, M: ohne</p>
+<p>Anstalt: <date from="1902-10-18" to="1903-10-29">18.10.1902-29.10.1903</date></p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt1"/>
+<handNote medium="crayon" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Essen, da er Stärkung benötigt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor816g05a.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="dor816g05b.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_018"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Apblaberk</hi> d 28 7.
+                    02</hi></dateline>
+<salute><hi rendition="#c">Liebes gutes <hi rendition="#i">Klärhen</hi></hi></salute>
+</opener>
+<p><add hand="arzt1" place="top"><surname>G.</surname></add><lb break="yes"/><add hand="arzt2" place="top"><hi rendition="#u">z. d.
+                    A.</hi></add></p>
+<p>dienen lieben<lb break="yes"/>brief habe<del>n</del> ich<lb break="yes"/>erhalten
+                und daraus<lb break="yes"/>ersen daß es dir<lb break="yes"/>gut geth Liebe<lb break="yes"/><unclear>Cearda</unclear> du mußt<lb break="yes"/>mir
+                    etw<add>a</add> butter<lb break="yes"/>Wurst und Kuchen<lb break="yes"/>schickhe ick schick<hi rendition="#i">e</hi>n<lb break="yes"/>den ich gebreache<lb break="yes"/>die Stie <w>Stärku<lb break="yes"/>ng</w> narung<lb break="yes"/>ich jetzt sehr<lb break="yes"/>schwach da <add place="above">muß</add> man<lb break="yes"/><unclear>n</unclear> Stamann <w>Stä<lb break="yes"/>rkun</w> haben <pb facs="#image_019"/>Ich werd er Schlißen<lb break="yes"/><seg ana="#salute">Es Grüßt und<lb break="yes"/>küßt dich
+                    Tamal</seg><lb break="yes"/><seg ana="#signed">dein Teuer Carl</seg><lb break="yes"/>Grüß den Kinden<lb break="yes"/>auch viel Tausend<lb break="yes"/>mal</p><p><seg ana="#salute">Es Grüß und<lb break="yes"/>Küß dich<del>t</del></seg>
+<seg ana="#signed">dein<lb break="yes"/>lieber nochmal</seg></p>
+<p><hi rendition="#c"><seg ana="#signed">dein Guter<lb break="yes"/>Carl</seg><lb break="yes"/>Schluß</hi>
+</p>
+</body>
+</text>
+</TEI>

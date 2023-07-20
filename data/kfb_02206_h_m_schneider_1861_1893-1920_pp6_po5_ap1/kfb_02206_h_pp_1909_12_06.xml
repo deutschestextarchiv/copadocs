@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2206h10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2206</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Gustav <surname>H.</surname></persName>
+<date type="sent">06.12.1909</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwiegermutter: Babette <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2206h">
+<persName>
+<forename>Gustav</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1920"/>
+<occupation>Schneider</occupation>
+<residence><geo decls="#WGS">48.4487175 10.2213539</geo>Leipheim, Günzburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Weber</p>
+<p>Anstalt: <date from="1893" to="1920">1893-1920</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>Imbecillität (1904)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    hat keine Hoffnung mehr, aus der Anstalt entlassen zu werden; ein Brief an Leipheim von ihm wurde nicht abgeschickt,
+                    dass sei ein sicheres Zeichen dafür, dass er nicht mehr entlassen wird
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2206h10a.jpg" xml:id="image_029"/>
+<graphic mimeType="image/jpg" url="kfb2206h10b.jpg" xml:id="image_030"/>
+<graphic mimeType="image/jpg" url="kfb2206h10c.jpg" xml:id="image_031"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_029"/>
+<opener>
+<dateline><hi rendition="#c">Irsee, den 6 Dezbr. 1909.</hi></dateline>
+<salute><hi rendition="#c">Liebe Babett und Schwiegermutter.</hi></salute>
+</opener>
+<p>
+Indem wieder Weihnachten herannaht so wür<lb break="no"/>de es mich freuen, wen̄ Ihr <add>mir</add> wieder einige<lb break="yes"/><hi rendition="#i">M</hi>ark schiken würdet daß ich wieder ein Bier<lb break="yes"/>trinken kan̄, den mit der Arbeit ist es bei<lb break="yes"/>mir nichts mehr los das ich ein Bier bekom̄e<lb break="yes"/>weil mir nichts mehr vergön̄t ist den̄ es<lb break="yes"/>heist der Gaul wo den Haber verdient, der<lb break="yes"/>bekom̄t ihn nicht u. so ist es auch bei mir<lb break="yes"/><hi rendition="#u" style="arzt">der Fall gewesen, <hi rendition="#u" style="arzt">ich habe im̄er gearbeitet<lb break="yes"/>und bereits nichts bekom̄en.</hi> Doch Liebe Freun<lb break="no"/>de wen̄ es noch so wäre wie früher das ich</hi><lb break="yes"/>wieder von diesem Haus hinaus kom̄en würde<lb break="yes"/>so würde ich mit Freuden arbeiten wen̄ ich<lb break="yes"/>sogar einen Schoppen Bier täglich bekom<lb break="no"/>men würde, oder wen̄ <del>wen̄</del> ich in der Ans<lb break="no"/>talt eine Freiheit hätte wie ichs schon gehabt<lb break="yes"/>habe dan wäre ich auch noch zufrieden<lb break="yes"/>was ich für die Arbeit bekom̄e aber mei<lb break="no"/>ne Lebenszeit in der Anstalt zubringen<lb break="yes"/>da ist mir der Verdienst zu wenig. Denn
+
+<pb facs="#image_030"/>
+wen̄ von Euch mich jemand besuchen würde<lb break="yes"/>Ihr würdet Euch wundern das man mich nicht<lb break="yes"/>mehr nach Leipheim lassen will. Und was ich<lb break="yes"/>Euch noch schreiben will so geht es mir recht<lb break="yes"/>gut nur das ist mir das ärgste das man mich<lb break="yes"/>nim̄er hinaus lassen will den̄ <seg ana="#cens">ich habe diesen<lb break="yes"/>Som̄er wieder nach Leipheim geschrieben aber<lb break="yes"/>meinen Brief hat man nicht fort geschikt<lb break="yes"/>das ist ein sicherer Beweis das mich die Ärzte<lb break="yes"/>nicht mehr hinaus lassen</seg> drum sind solche<lb break="yes"/>Leute in der Anstalt am glücklichsten wo<lb break="yes"/>schon <add>recht</add> alt sind solche haben doch eine Hoff<lb break="no"/>nung daß sie<del>r</del> bald sterben kön̄en.</p>
+<p><hi rendition="#c"><seg ana="#salute">Ich schließe mein Schreiben<lb break="yes"/>u. grüße Euch alle von Herzen<lb break="yes"/>Auch viele Grüße an <surname>O.</surname> Familie</seg><lb break="yes"/><seg ana="#signed">Gustav <surname>H.</surname></seg></hi></p>
+<p><hi rendition="#c">Auch wünsche ich gute Feiertage</hi>
+<pb facs="#image_031"/>
+<hi rendition="#r">An Fräulein Babette <surname>S.</surname><lb break="yes"/>in Treuchtlingen</hi>
+</p>
+</body>
+</text>
+</TEI>

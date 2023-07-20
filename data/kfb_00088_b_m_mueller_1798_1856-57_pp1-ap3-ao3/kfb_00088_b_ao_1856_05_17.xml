@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb88b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>88</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>B.</surname></persName>
+<date type="sent">17.05.1856</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Burgheim</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb88b">
+<persName>
+<forename>Joseph</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1798"/>
+<death cert="unknown"/>
+<occupation>Müller</occupation>
+<residence><geo decls="#WGS">48.7003635 11.0165677</geo>Burgheim, Neuburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1856" to="1857">1856-1857</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Tobsucht (1856-57)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="sohn"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber erkundigt sich nach dem Befinden seines Vaters und, ob es Hoffnung auf Besserung gibt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb88b03.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Burgheim</hi> den 17. <hi rendition="#i">Mai</hi> 1856.<lb break="yes"/><add hand="arzt"><hi rendition="#i">pr</hi>. 18 <hi rendition="#i">Mei</hi>
+                    56.</add></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Wohlgeborner Herr Director</hi>!
+                            <add hand="arzt"><hi rendition="#i">E. N</hi><hi rendition="#sup"><hi rendition="#u"><hi rendition="#i">o</hi></hi></hi><hi rendition="#i"> </hi>1948</add></hi></salute>
+</opener>
+<p> Der gehorsamst Unterzeichnete wagt es hiemit, sich schriftlich an <hi rendition="#i">Sie</hi><lb break="yes"/>zu wenden, und bittet um einige Augenblicke gnädiges Gehör.<lb break="yes"/>Ich bin der Sohn des in der Anstalt zu Irrsee sich befindlichen<lb break="yes"/>Joseph <surname><hi rendition="#i">B.</hi></surname>, und
+                seit seiner hiesigen Abwesenheit<lb break="yes"/>der Geschäftsführer des nicht
+                unbedeutenden Mühl- und Oekono<lb break="no"/>mie-Anwesens. Seit seines Aufenthaltes
+                in der Anstalt<lb break="yes"/>zu Irrsee haben ich und meine noch 5 Geschwisterte
+                nicht die ge<lb break="no"/>ringste Nachricht von unserm Vater erhalten.</p><p><hi rendition="#i">Sie</hi> werden daher die Güte haben, meine gehorsamste Bitte zu<lb break="yes"/>erhören: Wie steht das Befinden meines Vaters? Wie<lb break="yes"/>sein körperlicher und geistiger Zustand? Läßt sich noch<lb break="yes"/>besseres
+                hoffen, und wie lange kann es noch währen? </p><p><space/> Ich bitte um Nachricht und <seg ana="#salute">verharre mit vollkom̄enster<lb break="yes"/>Hochachtung<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Ew. Wohlgeboren</hi></hi><lb break="yes"/><hi rendition="#r">gehorsamster</hi><lb break="yes"/><seg ana="#signed">Joseph <surname>B.</surname></seg><lb break="yes"/>Müllerssohn von Burgheim.</seg></p>
+<p><add hand="arzt">d. 19 Mei 56.<lb break="yes"/>Ihr Vater hat sich seit seinen
+                        <unclear>Siordei</unclear><lb break="yes"/>ganz gut, <del>bei</del>
+                    ordentlich und besonen betragen,<lb break="yes"/><del>Ob und wie be</del> u nur
+                    über sein <unclear>Krurzeste </unclear>scheint er<lb break="yes"/>in Unklaren zu
+                    sein. Ob u. wie lange dieses gute <del>Verh</del> Be<lb break="no"/>finden
+                    anhalten werde, muß die Zeit lehren. Es wäre<lb break="yes"/>gut, wen̄
+                    Sie ihn einmal besuchten, weil man bei dieser<lb break="yes"/>Gelegenheit sich
+                    erst recht überzeugen wurde<lb break="yes"/>wie seine Gesin̄ung gegen di
+                    Seinigen beschaffen ist.<lb break="yes"/><hi rendition="#c">Md.</hi></add></p>
+</body>
+</text>
+</TEI>

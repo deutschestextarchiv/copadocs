@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2702w22" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Anton <surname>W.</surname></persName>
+<date type="sent">06.01.1854</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2702w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Bierbrauerstochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Brauereibesitz</p>
+<p>Anstalt: <date from="1853" to="1856">1853-56</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Vesania (17.11.1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder2"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Meint, bei der Patientin eine Besserung festgestellt zu haben, 
+                    und fragt daher, ob diese nach Ermessen des Arztes für einen Besuch 
+                    nach Hause kommen könne. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2702w22.jpg" xml:id="image_041"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_041"/>
+<opener>
+<dateline><hi rendition="#r">München am 6<hi rendition="#sup">t</hi> Ianuar 1854</hi></dateline>
+<salute><hi rendition="#c">Euer Hochwohlgeboren!</hi></salute>
+</opener>
+<p><space/> Ich erlaube mir als Antwort auf den Brief vom<lb break="yes"/>31<hi rendition="#sup">t</hi> Dezember meiner Schwester Marie einen Brief beizulegen<lb break="yes"/>mit dem Ansuchen denselben gefälligst der Marie einzu<lb break="no"/>händigen. Zugleich stelle ich die Bitte, da Marie in ihren<lb break="yes"/>Briefe eine auffallende Beßerung ihrer Gemüthszustandes<lb break="yes"/>zeigt, und namentlich eine so große Sehnsucht hat bald<lb break="yes"/>nach Hause zu kom̄en, uns gefälligst über das Befinden<lb break="yes"/>der Marie weitere Aufschlüße zu geben, und uns nament<lb break="no"/>lich da<unclear>von</unclear> zu benachrichtigen, ob Euer Hochwohlgeboren<lb break="yes"/>einen
+                Besuch der Marie bei uns zur Zeit schon<lb break="yes"/>für rathsam und
+                zwekdienlich erachten. </p><p><seg ana="#salute"><hi rendition="#c">Euer Hochwohlgeboren</hi><lb break="yes"/><hi rendition="#r">ergebenster Diener </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Anton
+                    Wagner</seg></hi></p><p><add hand="arzt">d. 10 Januar 54.<lb break="yes"/><unclear/> auf <unclear/> vom 6ten d. M.<lb break="yes"/>glaube ich, daß ein Besuch Mariens zuhause gegenwertig<lb break="yes"/>noch zu früh sein dürfte. <unclear>Wir</unclear> gelangen mehr
+                    u mehr zu<lb break="yes"/>der Überzeugung, daß ihre <del>Gesin</del> in <unclear/>
+<unclear/><lb break="yes"/>Gesundungsänderung, <del><unclear/></del>
+<del><unclear/></del> so wie ihr <unclear>relatives</unclear>
+                        Wohl<unclear>verhalten</unclear><lb break="yes"/><unclear>hier</unclear> nur ein scheinbar ist. Sie müsse wohl
+                    <unclear/> der Dis<unclear>ugler</unclear>, Do<lb break="yes"/>sie sich
+                            <del><unclear>hier</unclear></del> fügen nicht entziehen, u. dieß wird
+                    wohl der Hauptgrund ihres <unclear>fortverlangenes</unclear>
+<unclear>sei</unclear>. E<unclear>ine</unclear>
+<unclear>wirklich</unclear><lb break="yes"/></add></p>
+</body>
+</text>
+</TEI>

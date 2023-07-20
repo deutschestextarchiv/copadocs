@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1795k01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1795</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>K.</surname></persName>
+<date type="sent">01.04.1884</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Krankenheilanstalt Kaufbeuren: n.a.</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1795k">
+<persName>
+<forename>Karl</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1838"/>
+<death when="1889"/>
+<occupation>Briefträger</occupation>
+<residence><geo decls="#WGS">48.7371951 11.1795268</geo>Neuburg a. d. Donau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Postpackerseheleute</p>
+<p>Anstalt: <date from="1884" to="1889">1884-1889</date></p>
+<p>Brieftypen: po, pp, ao</p>
+</state>
+<trait>
+<p>hallucinatorische Verworrenheit (1884)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>offizieller Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Patient schildert seinen Krankheitsverlauf in der Zeit vor der Anstalt und
+                    beginnt in seiner frühesten Kindheit. </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1795k01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuern den 1/4. 84.<lb break="yes"/></hi><add hand="arzt"><unclear><hi rendition="#i">ad</hi></unclear><hi rendition="#u"><surname>K.</surname> Karl</hi></add></dateline>
+<salute><hi rendition="#c">Hochgeherte <w>Krankenheil Anstalt</w><lb break="yes"/><hi rendition="#i">Kaufbeuren
+                            Viliale</hi>!</hi></salute>
+</opener>
+<p>Von meiner Kindheit an kaum ein Vierteljahr alt<lb break="yes"/>began schon mein
+                Leiden nämlich ich bekam̄ eine Augen<lb break="no"/>drieße am linken Auge am
+                Backenknochen welche sich<lb break="yes"/>verhäutete u. meine liebe Mutter in der
+                größten<lb break="yes"/>Angst mein Auge einzubiesen begab <add place="above">Sie</add> sich zu Herrn<lb break="yes"/><hi rendition="#i">Dr
+                        <surname>H.</surname></hi> welcher zugleich Artzt im städtischen
+                    Kranken<lb break="no"/>haus bei den Barmherzigen Brüdern u. Barmherzigen<lb break="yes"/>Schwestern in Neuburg a/<hi rendition="#i">D:</hi> meiner Heimath
+                war.<lb break="yes"/>Doch Herr <hi rendition="#i">D<hi rendition="#u">r</hi>
+<surname>H.</surname></hi> kante das gefährliche nicht u. meinte<lb break="yes"/>es wäre nur ein Geschwür od. ein Gewächs u. das<lb break="yes"/>Gewächs wucherte fort doch gottlob den Auge nichts schadent<lb break="yes"/>bis
+                nach einen halben Jahr ein fremder <hi rendition="#i">Herr Docktor</hi><lb break="yes"/>aus München mit Nam̄en Herr Franz
+                    <surname>H.</surname><lb break="yes"/>ein <w>aus gezeichneter</w>
+<w>Kinder Artzt</w> nach nach Neuburg a/<hi rendition="#i">D</hi>,<lb break="yes"/>kam̄, und meine Mutter nichts eiligeres zu thun<lb break="yes"/>wußte als
+                mich als eine einjähriges Kind am Arm̄e<lb break="yes"/>hinüber zutragen,
+                wier blos ein Haus weit weg<lb break="yes"/>davon wonthen näm̄lich bei einen
+                Schreinermeister<lb break="yes"/>u. städtischen Baurath Herrn <hi rendition="#i">Alois <surname>S.</surname></hi> einen tüchtigen<lb break="yes"/>Bürger
+                u. Hausherrn welches es in meinen lieben<lb break="yes"/><w>Heimäths Ort</w> lauter
+                gibt lauter reelle gute Leute<lb break="yes"/>den es <unclear>Heirathet</unclear>
+                meistens die Landsleute im̄er<lb break="yes"/><w>zu sam̄en</w> nur
+                ich war ausersehen ein ganz<lb break="yes"/>mier fremdes aber von Gott u. der hl.
+                    Mutt<hi rendition="#i">er</hi><lb break="yes"/>Gottes bestim̄tes Mädchen zu heirathen. das übrige<lb break="yes"/>wissen Sie Herr Dr von. selbst mit Gewiß.<lb break="yes"/><hi rendition="#r"><seg ana="#signed">Karl
+                            <surname>K.</surname><unclear><hi rendition="#i">Zettz.</hi></unclear></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

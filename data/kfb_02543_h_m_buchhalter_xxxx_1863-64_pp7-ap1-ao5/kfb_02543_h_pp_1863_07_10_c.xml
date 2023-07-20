@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2543h06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2543</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>H.</surname></persName>
+<date type="sent">10.07.1863</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Matt <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2543h">
+<persName>
+<forename>Wilhelm</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1864"/>
+<occupation>Buchhalter, studierte Theologie</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1863" to="1864">1863-64</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"psychische und körperliche Aufregung", "Wahnvorstellungen" (1863)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er beschwert sich über seine Unterbringung in der Anstalt und bittet für einen anderen Patienten
+                    um Kleidung und Geld.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2543h06.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Jrsee</hi> den 10<hi rendition="#sup">t</hi>
+<hi rendition="#i">July</hi> 1863.</hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder <hi rendition="#i">Matt</hi></hi></salute>
+</opener>
+<p>Vom Krankenhaus <hi rendition="#i">Augsburg</hi><lb break="yes"/>in das Jrrenhaus nach <w>Jrr<lb break="no"/>see</w> gebracht <hi rendition="#u">durch gütige</hi><lb break="yes"/>Verwendung meines<lb break="yes"/>Herr Schwagers, ist das<lb break="yes"/>nicht ein abscheuliche<lb break="yes"/>Gebahren, jetzt wo ich das<lb break="yes"/>Glück hatte, Geld, Braut<lb break="yes"/>zu besitzen, Geschäft
+                in<lb break="yes"/>München, mich in<lb break="yes"/>solche Lagen zu
+                    <unclear>es</unclear><lb break="yes"/>versetzen, Sei so gut<lb break="yes"/>den Bruder
+                    <w>des</w><w>her</w><lb break="yes"/><surname><hi rendition="#i">A.</hi></surname> der auch
+                in<lb break="yes"/><hi rendition="#i">Jrrsee </hi>verweilt, <hi rendition="#i">Ferdinand </hi><lb break="yes"/><surname><hi rendition="#i">A.</hi></surname>
+<w>aufzusuche</w><w>und</w><lb break="yes"/>zu sag<del><unclear reason="rubbing">r</unclear></del>en, sein
+                Bruder<lb break="yes"/>läßt Jhn bitten Kleider<lb break="yes"/>Wäsch; Geld
+                umgehend<lb break="yes"/>zu schicken, weil er<lb break="yes"/><add place="margin">nicht seine gute Kleide<unclear>r </unclear><lb break="yes"/>verderben will.
+                    Hoffend<lb break="yes"/>daß du meinem Wunsche<lb break="yes"/>hinsichtlich
+                    Geld umgehend entsprichst<lb break="yes"/></add><add place="top"><hi rendition="#r"><seg ana="#salute">grüßt Dich Dein<lb break="yes"/>Bruder</seg></hi></add></p><p><add place="margin"><hi rendition="#r"><unclear>Näherere</unclear><lb break="yes"/>an <unclear>seinen</unclear><lb break="yes"/><unclear>Dorthen</unclear>
+<unclear>Kunst</unclear><lb break="yes"/>Dein aufrichtige<lb break="yes"/>Bruder Mühen<lb break="yes"/><unclear/></hi></add></p><p><add place="top"><seg ana="#salute">Grüße an Frau<lb break="yes"/>an Kinder </seg></add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2936s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Corinna Köhler</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Urban <surname>S.</surname></persName>
+<date type="sent">06.09.1923</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Braut: Waly<surname>H.</surname></persName>
+<settlement type="sent">Kaubeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2936s">
+<persName>
+<forename>Urban</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1872"/>
+<death when="1927"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Lentin, Ingolstadt</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Schneider</p>
+<p>Anstalt: <date from="1922" to="1927">1922-27</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>erregb. Psychopathie, Hypomanie, Beeinträchtigungs- und Verfolgungswahn (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient bedauert, nicht mit Braut zusammen zu sein. Arztkommentar: Karte an andere Patientin gerichtet.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2936s04a.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb2936s04b.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="kfb2936s04c.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_025"/>
+<opener>
+<dateline>H. u. Pflge-Anstalt Kaufbeuern<lb break="yes"/><hi rendition="#r">den 6. Septb 23.</hi></dateline>
+<salute><hi rendition="#r">Heißgeliebte Braut un Mutter.</hi></salute>
+</opener>
+<p>Seit dem Tage, wo ich dich nicht<lb break="yes"/>mehr sehe, bin ich ganz <hi rendition="#u">verzagt</hi>.<lb break="yes"/>Sehe
+                jetzt, wie weit du jetzt<lb break="yes"/><hi rendition="#u">wieder</hi> mit
+                deinen Eigensin̄<lb break="yes"/>gekomen, bist. Und so warst<lb break="yes"/>du am 17. Novbr 1921. <hi rendition="#u">auch</hi><lb break="yes"/>was mich damals, meist vom<lb break="yes"/>deiner Seite, trieb. O
+                wie schön<lb break="yes"/>kön̄ten wir, wie daß Bild<lb break="yes"/>zeigt,
+                beisam̄en alle drei<lb break="yes"/>in einen Stübchen. </p>
+<p><seg ana="#salute">Gruß und Kuß</seg>
+<seg ana="#signed"><add place="above">von</add> dein unglücklih.
+                        Br.</seg>
+</p><p><add place="margin">Ich, besuche dich <hi rendition="#u">bald</hi></add>
+</p><p><add place="margin">Der Mutter hab ich geschriebn</add>
+</p><p>An Frl Waly <surname>H.</surname><lb break="yes"/>Dienstmädchen z Zeit<lb break="yes"/>in Irsee b Kaufbeuer<lb break="yes"/>Heil und Pflege-Anstalen </p>
+<pb facs="#image_026"/>
+<p><handShift medium="ink" scribe="arzt"/><hi rendition="#u">Pflegeanstalt <unclear>Irsee</unclear></hi><lb break="yes"/>An die<lb break="yes"/>Direktion der Heil- und Pflegeanstalten<lb break="yes"/>b. Kaufbeuren.<lb break="yes"/>Irsee, den 7. IX. 1923 </p><p>Betreff: <surname><hi rendition="#i">H.</hi></surname> Walburga<lb break="yes"/><space/> Anliegende Postkarte dürfte möglicherweise von dem<lb break="yes"/>Patienten <surname><hi rendition="#i">S.</hi></surname> hinausgeschmuggelt
+                worden sein. Ich<lb break="yes"/>bitte deshalb Herrn Obermedizinalrat um Anweisung,<lb break="yes"/>ob dieselbe der Patientin <surname><hi rendition="#i">H.</hi></surname> übergeben werden<lb break="yes"/>soll.<lb break="yes"/><hi rendition="#r"><hi rendition="#i">D Maier</hi>, Oberarzt.</hi>
+</p>
+</body>
+</text>
+</TEI>

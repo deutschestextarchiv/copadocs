@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">10.06.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Babette <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Maler</p>
+<p>Anstalt: <date from="1887" to="1919">1887-1919</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/><!--anpassen!-->
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Angebliche Unterschlagungen und Misshandlungen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g15a.jpg" xml:id="image_051"/>
+<graphic mimeType="image/jpg" url="kfb2251g15b.jpg" xml:id="image_052"/>
+<graphic mimeType="image/jpg" url="kfb2251g15c.jpg" xml:id="image_053"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_051"/>
+<opener>
+<dateline><hi rendition="#c">Irrse 10 Juni 1906.</hi></dateline>
+<salute><hi rendition="#c">Liebe Schwester!</hi></salute>
+</opener>
+<p>Ich kan dir nur Mitheilen<lb break="yes"/>daß Ich nicht nehr zu<lb break="yes"/>Frieden über Herrn<lb break="yes"/><surname>S.</surname> Familie<lb break="yes"/>erdenklichte Ehrabschnei<lb break="no"/>dungen Lugen von Miß<lb break="no"/>handlungen u nicht Be<lb break="no"/>rehtigte Wissen von<lb break="yes"/>Familiär ein in dießem<lb break="yes"/>Hauße – ankom̄en dürfen<lb break="yes"/>u. mir alles
+                    Unterschla<lb break="no"/>gen Meineidige Waare<lb break="yes"/>ist. Mit einem
+                Sohne gar<lb break="yes"/>nichts zu thun hattest.<lb break="yes"/>Meine Junge
+                Lehrlinge<lb break="yes"/>nie befähigte über Arbei<lb break="no"/>ten Resultate <del>e</del>
+                oder Reden<lb break="yes"/>nicht zum <del>W</del> Wort sprechen<lb break="yes"/>vortrag
+                Abstatten über- </p>
+<pb facs="#image_052"/>
+<p>nomen werden kön̄en.<lb break="yes"/><surname>H.</surname> Maler verbitte<lb break="yes"/>Ich nir.
+                    <surname>L.</surname> nit Herrn<lb break="yes"/>Colegen Bürgermeistern<lb break="yes"/>sich alle Uberreden laßen<lb break="yes"/>gewinen Erben. Deine<lb break="yes"/>Umverschämte Reden<lb break="yes"/>nach einer Anstalt
+                    <del>v</del> wo<lb break="yes"/>Ich mich von Dir trene,<lb break="yes"/>ist
+                gar <add place="above">kein</add> verhältniß gegen<lb break="yes"/>mich du bist
+                bei die<lb break="yes"/>Umverschämteste Per<lb break="no"/>son von Lügen wo man<lb break="yes"/>sich gar nicht ein anderes<lb break="yes"/>Beispiel machen
+                kan̄.<lb break="yes"/>Oberverwalter in Kauf<lb break="no"/>beuern u Irrse
+                daß selbe<lb break="yes"/>wider. Notar ein Mein<lb break="no"/>eid geweßener von
+                Erben<lb break="yes"/>Gerber u <surname>S.</surname>.<lb break="yes"/><seg ana="#salute">Ich Schließen nein Schrei<lb break="no"/>ben.</seg>
+<seg ana="#signed">Dein Bruder<lb break="yes"/>Jakob <surname>G.</surname><lb break="yes"/>Maler. </seg><lb break="yes"/><add place="bottom">Gäbeln nißhandlungen<lb break="yes"/>nicht Bedanken. </add>
+</p>
+<pb facs="#image_053"/>
+<p>An<lb break="yes"/><hi rendition="#c">Babette <surname>G.</surname> Malerstochter<lb break="yes"/>in<lb break="yes"/>Lindau am Bodensee. </hi><lb break="yes"/>frei.
+            </p>
+</body>
+</text>
+</TEI>

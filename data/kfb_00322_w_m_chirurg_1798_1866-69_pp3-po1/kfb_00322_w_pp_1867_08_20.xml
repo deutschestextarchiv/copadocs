@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb322w01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>322</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Lorenz <surname>W.</surname></persName>
+<date type="sent">20.08.1867</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Ludwig <surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb322w">
+<persName>
+<forename>Lorenz</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1798"/>
+<death when="1869"/>
+<occupation>Chirurg</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1866" to="1869">1866-69</date></p>
+<p>Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient beklagt sich, dass er seit mehreren Monaten nichts von seinen Kindern gehört hat. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb322w01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb322w01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb322w01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Irrsee</hi> den 20 Augst 1867.</dateline>
+<salute><add place="top"><unclear>er will <unclear>sohn</unclear> nicht
+                            sein!</unclear></add><lb break="yes"/>Li<unclear>ebe</unclear>r Ludwig!</salute>
+</opener>
+<p>Ob du diesen Namen verdinst mus sich erst zeigen.<lb break="yes"/>Mein Wunsch
+                    <del>ist</del> dringend dich anzukom̄e mich aus <unclear/><lb break="yes"/>gegen<unclear/> Lage zu <unclear>Loeßen</unclear>, <unclear/> nicht
+                    <unclear>wecken</unclear><lb break="yes"/>wolt <unclear/> mit einem Brief <unclear/> zu <unclear/><lb break="yes"/>es ist jezt <hi rendition="#i">h</hi>ier ein Jahr u. noch kein <hi rendition="#i">Resultat</hi>,<lb break="yes"/>was seit Ihr heilkünstler, Du
+                wirst dich überzeugen<lb break="yes"/>das du mein Krankheit nicht <unclear/> u. ich
+                mit<lb break="yes"/><unclear/> Geist Thätig <unclear>werd wen dan du den
+                    denoh</unclear><lb break="yes"/>Zeifelst wirst doh für deinen Vater ein kleines<lb break="yes"/>Plätzchen in deiner Anstalt haben. − </p><p><hi rendition="#i">Xaver</hi> hat sich noch nie bei mir sehen lassen<lb break="yes"/>u. von unsre
+                Kinder schon seit fünf Monat keins<lb break="yes"/>nicht einmal zu Namenstag bekam
+                ich Wünsche<lb break="yes"/>nur von der Mutter eine Zuckerstangel<lb break="yes"/>aber ohne Mecin u. so felt mir neue<lb break="yes"/>Kraft. Ich würde mich ja gern <unclear/><lb break="yes"/>aber der Herr will es nicht, schon<lb break="yes"/>zweimal muste
+                ich M<unclear>erk</unclear> versuche doch <unclear/><lb break="yes"/>es mislang es scheint ich hab noch nicht genug <pb facs="#image_002"/>geliten, Was werden die Leute <unclear/><lb break="yes"/>siebenzig jähriger Man̄ d<unclear/>ke. </p><p>In der Hofnung <unclear>neue</unclear> Packungen so <unclear/>
+<unclear>schnell</unclear><lb break="yes"/>als möglich auf meine Kosten zu zu besorgen<lb break="yes"/><seg ana="#salute">Grüst Dich</seg>
+<seg ana="#signed">Lorenz <surname><hi rendition="#i">W.</hi></surname></seg>
+</p><p>Dein liebe <hi rendition="#i">Emilie</hi> u. Kinderchen herzliche Küsse<lb break="yes"/>u Güsse
+                von <unclear/>
+</p>
+<pb facs="#image_003"/>
+<p><hi rendition="#i">Herrn<lb break="yes"/>Ludwig <surname>W.</surname></hi>,
+                Oberarzt der Heilanstalt<lb break="yes"/>Sch<unclear>niead landen</unclear>
+<hi rendition="#i">Zirch.</hi><lb break="yes"/><unclear/>
+<hi rendition="#c">bei <hi rendition="#u">Schaffhausen</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2642m02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2642</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>M.</surname></persName>
+<date type="sent">24.08.1855</date>
+<date type="received">n.a.</date>
+<persName type="addressee">K. Regierungskommission</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2642m">
+<persName>
+<forename>Karl</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1825"/>
+<death when="1855"/>
+<occupation>Regimentsauditor, Rechtspraktikant </occupation>
+<residence><geo decls="#WGS">49.9740542 9.1493636</geo>Aschaffenburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1855" to="1855">1855-55</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>fixe Idee, Suizidalität, Wutanfälle (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient bittet mit diesem Schreiben um ein Verhör.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2642m02.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r">Jrrsee den 24. August 1855</hi></dateline>
+<salute><hi rendition="#c">K. Regierungskom̄ission!</hi></salute>
+</opener>
+<p>Jch zeige an, daß ich gegen Mutter, Tante, Anna<lb break="yes"/><surname>B.</surname> wie gegen sonstige Verwandte nicht das Gering<lb break="no"/>ste Gravirende erbringen kann, im Übrigen<lb break="yes"/>bitte ich um ein
+                    Verhör<del>!</del>.<lb break="yes"/><hi rendition="#r"><seg ana="#signed">Karl
+                            <surname>M.</surname></seg></hi>
+</p><p><seg ana="#metaling">Die Eile wird die Form entschuldigen.</seg></p>
+</body>
+</text>
+</TEI>

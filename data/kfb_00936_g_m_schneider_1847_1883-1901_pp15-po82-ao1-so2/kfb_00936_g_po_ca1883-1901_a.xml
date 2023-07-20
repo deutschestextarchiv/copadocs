@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb936g76" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Pius <surname>G.</surname></persName>
+<date type="sent">ca1883-1901</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion in Kaufbeuren</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb936g">
+<persName>
+<forename>Pius</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1901"/>
+<occupation>Schneider</occupation>
+<residence><geo decls="#WGS">48.570171 10.590197622123007</geo>Kicklingen, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1883" to="1901">1883-1901</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait>
+<p>Halluzinationen, Größenwahn, Verfolgungswahn (1883)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er will das Geld, das er mit seiner Arbeit verdient.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb936g76a.jpg" xml:id="image_307"/>
+<graphic mimeType="image/jpg" url="kfb936g76b.jpg" xml:id="image_308"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_307"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">An</hi> die <hi rendition="#i">Direction<lb break="yes"/>in Kaufbeuren!</hi></hi></salute>
+</opener>
+<p><space/> Ja, ich habe gearbeitet, aber gewieß<lb break="yes"/>nicht um mir von
+                einem <seg ana="#curse">Lausbuben</seg><lb break="yes"/><hi rendition="#i">Volk</hi> sagen zu lassen, wenn ich mich eine<lb break="yes"/>Stunde im Garten ergehen will, hier befehlen<lb break="yes"/>wir!
+                und jeder <seg ana="#curse">Hund</seg> hat zu gehorchen<lb break="yes"/>Niemals kam
+                es mir in Sinn Jemanden<lb break="yes"/>unrecht zu thun. daß es hier so ist und<lb break="yes"/>sein kann, wird niemand mehr Wunder<lb break="yes"/>nehmen der
+                meine Schriften gelesen hat.<lb break="yes"/>Da ich aber nur deßwegen arbeite um<lb break="yes"/>mir wenigstens an Sonn- und Feiertagen<lb break="yes"/>auch
+                eine Maas Bier kaufen zu können<lb break="yes"/>mir das verdiende Geld zurükbehält<lb break="yes"/>dafür andere es in die Tasche giebt, und<lb break="yes"/>frei
+                zum Bier gehen läßt, daß wird<lb break="yes"/>selbst der Nachwelt ein Geheimniß
+                bleiben<lb break="yes"/>Daß sich die <seg ana="#curse"><hi rendition="#i">Wittelsbacher</hi> Schand<lb break="no"/>hund, die elendesten
+                    Banditten</seg><lb break="yes"/>haben kaufen müssen damit Sie<lb break="yes"/>die Geschichte <hi rendition="#i">Wittelsbach</hi> u. dessen<lb break="yes"/><seg ana="#curse">Schande <hi rendition="#i">Krone</hi></seg> mit dessen Ruhm<lb break="yes"/>Ehre begraben können.<lb break="yes"/>Ich verlange mein verdientes Geld<lb break="yes"/>aber nicht den Spott <del>vol</del> von Leute<lb break="yes"/>welche unterschluf bei solche <seg ana="#curse">Spitzbube</seg><lb break="yes"/>suchen das Sie sagen könmen<lb break="yes"/>jetzt befehlen wir und
+                diese Verbre <pb facs="#image_308"/>haben nichts zu sagen sonst werden<lb break="yes"/><del>S</del>sie Ihre Rolle ausgespielt haben<lb break="yes"/>ich
+                verlange sofortige Antwort<lb break="yes"/><hi rendition="#r"><hi rendition="#i"><seg ana="#signed">Pius <surname>G.</surname></seg></hi></hi></p>
+<p><hi rendition="#r">An die <hi rendition="#i">Direction<lb break="yes"/>Kaufbeuren.</hi><lb break="yes"/>durch Güte</hi></p>
+</body>
+</text>
+</TEI>

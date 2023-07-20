@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g19" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">28.07.1905</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Babette <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Maler</p>
+<p>Anstalt: <date from="1887" to="1919">1887-1919</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beschwerden über Oberpfleger, diverse Leute und die Schwester
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g19a.jpg" xml:id="image_066"/>
+<graphic mimeType="image/jpg" url="kfb2251g19b.jpg" xml:id="image_067"/>
+<graphic mimeType="image/jpg" url="kfb2251g19c.jpg" xml:id="image_068"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_066"/>
+<opener>
+<dateline><hi rendition="#c">Irsee den 28 Juli 1905.</hi></dateline>
+<salute>Liebe Schwester!</salute>
+</opener>
+<p>Ich kan dir nur Mittheilen<lb break="yes"/>zu Berichten daß Ich dir<lb break="yes"/>Klagen u Beschwerten von<lb break="yes"/>Mißhandlungen Schlecht<lb break="yes"/>machen von Erdenklichten<lb break="yes"/>Ehrabschneidungen der<lb break="yes"/>Preße Redacktionen<lb break="yes"/>Verbitte nir. Herr <surname>S.</surname> oder Herr Oberpfle<lb break="no"/>ger wie <surname>F.</surname> in der<lb break="yes"/>Anstalt also Ich dir jetzt<lb break="yes"/>Angezeigt habe wie bei<lb break="yes"/>einer Pfarrei die Katho<lb break="no"/>liszimus gänzlich ist<lb break="yes"/>Sei nir eine Karrackter<lb break="yes"/>nache nir Schritte.<lb break="yes"/>Warum Besuchst du </p>
+<pb facs="#image_067"/>
+<p>nich nicht daß andere<lb break="yes"/>Mündlich. Also nochnals<lb break="yes"/>Alles Ehrdenkliche nicht<lb break="yes"/>nehr von Ehrabschneidungen<lb break="yes"/>Von Erben keine Besteuer<lb break="no"/>ung nicht annehme.<lb break="yes"/><seg ana="#salute">Jetzt Schließen meine<lb break="yes"/>Schreiben,<lb break="yes"/>Lebe Vohl es Grüßt<lb break="yes"/>Dich </seg> <seg ana="#signed">Dein Bruder,<lb break="yes"/>Jakob
+                            <surname>G.</surname><lb break="yes"/>Maler. </seg></p>
+<pb facs="#image_068"/>
+<p>Wohlgeboren<lb break="yes"/><hi rendition="#c">Fräulein Babette <surname>G.</surname>.<lb break="yes"/>Malerstochter<lb break="yes"/>in Lindau.<lb break="yes"/>Bodensee</hi><lb break="yes"/>frei </p>
+</body>
+</text>
+</TEI>

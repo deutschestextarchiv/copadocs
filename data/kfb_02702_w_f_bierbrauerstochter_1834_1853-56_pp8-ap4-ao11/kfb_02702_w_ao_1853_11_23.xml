@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2702w23" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Max <surname>W.</surname></persName>
+<date type="sent">23.11.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Dr. F.W. Hagen</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2702w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Bierbrauerstochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Brauereibesitz</p>
+<p>Anstalt: <date from="1853" to="1856">1853-56</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Vesania (17.11.1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder3"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Übersendet Zeugnisse/Dokumente an den Arzt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2702w23.jpg" xml:id="image_042"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_042"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München</hi> 23 <hi rendition="#i">Nov</hi>. 1853.</hi></dateline>
+<salute>Seiner Wohlgeboren Herrn <hi rendition="#i">Doctor</hi>
+<hi rendition="#i">F.W. Hagen</hi><lb break="yes"/>Vorstand der Heilanstalt Irrsee! 
+                    </salute>
+</opener>
+<p><add place="top"><add hand="arzt">pr. 25 Nobr 1853<lb break="yes"/>631.
+                    </add></add></p>
+<p>Anliegend übersende ich zwei Zeugniße, nemlich<lb break="yes"/>ein ärztliches
+                Zeugniß des Hr. Me<del><unclear>z</unclear></del>dicinal<lb break="no"/>raths <surname>G.</surname>
+<unclear><hi rendition="#i">dd</hi></unclear>. 17 Nov. lf.
+                    Jhs. legalisirt von<lb break="yes"/>dem
+                    k. Stadtgerichtsarzt <surname>K.</surname>
+<hi rendition="#i">sub</hi>
+<hi rendition="#i">dato</hi><lb break="yes"/>20 Nov. lf. Jhs, dan̄
+                ein Vermögenszeugniß<lb break="yes"/>ausgestellt vom kgl. Kr. u. Stadtgericht<lb break="yes"/><hi rendition="#i">München</hi>
+<unclear>sub</unclear>
+<hi rendition="#i">dato</hi> 22 November. </p><p><space/> Indem ich Euer Wohlgeboren den ge<lb break="no"/>eigneten Gebrauch dieser Dokumente
+                    <w>anheim<lb break="no"/>stelle</w>, bitte ich die Verzögerung ihrer<lb break="yes"/>Übersendung darum zu entschuldigen,<lb break="yes"/>weil Herr
+                Medicinalrath <surname>G.</surname> bei seiner<lb break="yes"/>Geschäfts<unclear>überhäu</unclear>fung vieler wiederholter<lb break="yes"/>Ansuchen um Ausstellung fraglichen<lb break="yes"/>Attestes bedurfte. </p><p><space/> Erlauben E. W. mir zugleich noch die<lb break="yes"/>Bitte, meine Familie zeitweise von
+                dem<lb break="yes"/>Gesundheitszustande meiner Schwester in<lb break="yes"/>Ken̄tniß zu setzen;</p><p><seg ana="#salute"><hi rendition="#c">Mit ausgezeichneter Hochachtung<lb break="yes"/>Euer
+                        Wohlgeboren</hi><lb break="yes"/><hi rendition="#r">ergebenster Diener </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><surname><hi rendition="#i">W.</hi></surname>
+<hi rendition="#i">Max</hi></seg><lb break="yes"/>Rechts<unclear>ke</unclear><unclear/><unclear>zdent</unclear></hi></p><p><add place="bottom"><add hand="arzt"><hi rendition="#c"><hi rendition="#i">Verte</hi></hi></add></add></p>
+</body>
+</text>
+</TEI>

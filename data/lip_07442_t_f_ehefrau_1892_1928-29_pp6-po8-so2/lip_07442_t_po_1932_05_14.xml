@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7442t13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7442 (K. 250)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine <surname>T.</surname></persName>
+<date type="sent">14.05.1932</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Hagen-Kabel</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip7442t">
+<persName>
+<forename>Wilhelmine</forename>
+<surname>T.</surname>
+</persName>
+<birth when="1892-06-26"/>
+<death cert="unknown"/>
+<occupation>Ehefrau</occupation>
+<residence><geo decls="#WGS">51.4020053 7.4899059</geo>Geburtsort: Westerkappeln; Wohnort: Hagen-Kabel</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Ehemann: Bahnmeister; Vater: Landwirt; Mutter: n.a.</p>
+<p>Anstalt: <date from="1928-04-23" to="1929-09-24">23.04.1928-24.09.1929</date></p>
+<p>Brieftypen: pp, po, Lebenslauf, Gebet</p>
+</state>
+<trait><p>paranoide Erkrankung (1928 Dr. Korbsch)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand2"/>
+<handNote medium="crayon_blue" scope="minor" scribe="hand3"/>
+<handNote medium="crayon_green" scope="minor" scribe="hand4"/>
+<handNote medium="pencil" scope="minor" scribe="hand5"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                 Sie sagt, dass sie sich schon früher melden wollte, sogar zu Besuch kommen wollte, dass man ihr aber abraten hat, da es "krankhaft" sei, eine Anstalt einfach so zu besuchen. Vll. kommt sie dennoch nocheinmal vorbei. Sie erzählt von ihren Kindern und sagt, dass es ihr immer noch nicht völlig gut geht, aber man nicht beunruhigt sein muss.   
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7442t13.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_027"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Hagen-Kabel</hi>, d.
+                        14.5.32.</hi></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr <hi rendition="#i">Direktor!</hi></hi></salute>
+</opener>
+<p><add hand="hand5"><hi rendition="#r">entl. 1929.</hi></add></p><p><add hand="hand4">2 <unclear><hi rendition="#i">Arl</hi></unclear></add></p><p><add hand="hand3">55.</add></p>
+<p>Die herzlichsten Pfingstgrüße sendet<lb break="yes"/><hi rendition="#r">Frau
+                            <surname><hi rendition="#i">T.</hi></surname>.</hi><lb break="yes"/>Wollte schon immer mal ein Lebenszeichen von<lb break="yes"/>mir
+                geben; auch mal nach dort gekommen sein<lb break="yes"/>besonders Ostern; aber ich
+                habe mich abraten lassen,<lb break="yes"/>weil man das hier "krankhaft" bezeichnet,<lb break="yes"/>einer Anstalt einen Besuch zu machen.<lb break="yes"/>Gewiß
+                danke ich Gott, daß ich nicht da sein brauche;<lb break="yes"/>aber man ist doch
+                noch <w>manch mal</w> im Geiste<lb break="yes"/>da. Gesundtheitlich geht es uns
+                allen gut.<lb break="yes"/>Die Kinder lernen gut. 3 Söhne sind auf dem<lb break="yes"/>Gymnasium. Der älteste hat die Obersekunda-Reife,<lb break="yes"/>der zweite ist im Quarta, der dritte in Septa.<lb break="yes"/>Ich habe nichts
+                gegen <hi rendition="#i">Eickelb</hi>.. vielleicht komme<lb break="yes"/>ich doch
+                    <w>noch mal</w> vorbei; weil die Festtags-Fahr<lb break="no"/>karten solange
+                Gültigkeit haben, hat man so schöne<lb break="yes"/>Gelegenheit zum Reisen..<lb break="yes"/><hi rendition="#u" style="hand2">Meine seelischen Leiden sind
+                    auch noch immer nicht<lb break="yes"/>zu Ende, aber man</hi> kann schon ruhiger
+                sein −<lb break="yes"/>man hat schon was gelernt zu tragen. <hi rendition="#c"><lb break="yes"/><seg ana="#salute">Nochmals "frohe Pfingsten"
+                        wünschend<lb break="yes"/>u. viele Grüße</seg><lb break="yes"/><seg ana="#signed">Frau <surname><hi rendition="#i">T.</hi></surname>.</seg></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca1917-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Anstalt: <date from="1917" to="1931">1917-31</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    seine Unruhe überkommt ihn auch im Bad; denkt dann beispielsweise sein Glied wäre Gottes Nase,
+                    er kämpft dagegen an, "weil [er] muß"
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a11a.jpg" xml:id="image_052"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_052"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#i">Euer Hochwohlgeboren! Herr Medizinalrat!</hi></salute>
+</opener>
+<p><space/> Meine Gotteslästerungsqual kommt immer ärger. Hier im Wachsaal &amp;. im<lb break="yes"/>Klosett hab ich die Unruhe am meisten. Muß ich zum Beispiel
+                schiffen, &amp;. tu mein<lb break="yes"/>Glied heraus, dann heißt es in meinen
+                verfluchten Gedanken leider; mein Glied sei<lb break="yes"/>Gottes Nase, &amp;.
+                Urin sei Jesus Blut. Daß ich meine Ruhe krieg, tu ich dagegen<lb break="yes"/>kämpfen &amp;. sag &amp;. denke: Mein Glied ist mein Messer od. Stillett od. Dolch
+                mit<lb break="yes"/>Scheide; Der Hoden ist mein Geldbeutel mit den zwei Markstücken
+                &amp;. das vie<lb break="no"/>le Haar dort; ist <hi rendition="#i"><surname>A.</surname></hi> Schnurrbart &amp;. der Urin ist mein
+                Schlaftrunk ge<lb break="no"/>meint. Was beim Stuhlgang herauskommt, ist mein Haufen
+                Geldstück oder<lb break="yes"/>Honig &amp;. dergleichen gemeint. Beim Donnern vom
+                Hintern; hat mein Revol<lb break="no"/>ver geschossen. Im Wachsaal wenn der Herr <hi rendition="#i"><surname>P.</surname></hi> u. s. w. nackt sind, oder<lb break="yes"/>zum Schiffen gehen, dann hab ich die Unruhe gerade so arg; der
+                Hintern<lb break="yes"/>wird entweder als Reisetasche oder Handtasche betrachtet. </p>
+<p>Meine Gebetsunruhe kommt auch immer ärger. Wenn ich mit einem Gebet fer<lb break="no"/>tig bin &amp;. <hi rendition="#u">Amen</hi> sagen oder denken sollte, ist es
+                soweit gkeommen, daß ich das<lb break="yes"/>Wort <hi rendition="#i">Amen
+                </hi>leider mit dem Wort <hi rendition="#i"><surname>A.</surname></hi> nicht mehr
+                auseinanderkenne,<lb break="yes"/>muß sehr viel mal das Wort <hi rendition="#i">Amen</hi> sagen &amp;. habs nie richtig herausgebracht,<lb break="yes"/>obs
+                    <hi rendition="#i">Amen</hi> od. <surname>A.</surname> hieß.<lb break="yes"/>Die <del>K</del> Gotteslästerungsqual ist nicht mehr zum aushalten. Aber ich hab
+                Geduld<lb break="yes"/>&amp;. will sie aushalten, weil ich muß.<lb break="yes"/><hi rendition="#c"><hi rendition="#u"><seg ana="#salute">Hochachtungsvollst</seg>
+<seg ana="#signed"><hi rendition="#i">Hans <surname>A.</surname>.</hi> Krz.
+                                <hi rendition="#i">A. B.</hi></seg></hi></hi></p>
+</body>
+</text>
+</TEI>

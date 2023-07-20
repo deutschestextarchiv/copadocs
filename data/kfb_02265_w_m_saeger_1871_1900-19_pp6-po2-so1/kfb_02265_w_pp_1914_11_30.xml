@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2265w05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2265</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>W.</surname></persName>
+<date type="sent">30.11.1914</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: Johann Georg <surname>W.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2265w">
+<persName>
+<forename>Josef</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1871"/>
+<death when="1919"/>
+<occupation>Säger</occupation>
+<residence><geo decls="#WGS">47.5538309 10.0206483</geo>Oberstaufen, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Bruder: Bauschlosser</p>
+<p>Anstalt: <date from="1900" to="1919">1900-1919</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Halluzinationen, geistig zurückgeblieben (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bekandt sich für seine Weihnachtsgeschenke oder Aufzählung seiner Weihnachtswünsche (unklar); Neujahreswünsche
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2265w05a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb2265w05b.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><hi rendition="#r">Irse, Den 30 November 1914.</hi></dateline>
+<salute><hi rendition="#c">Lieber Vatter!</hi></salute>
+</opener>
+<p>
+Fon Meinem schreiben habe ich meine<lb break="yes"/>Fordschreibung von Irse zu Miedteilung<lb break="yes"/>von dem Bewonden wonord meine<lb break="yes"/>Befientung fon der ledzden zeid von<lb break="yes"/>Diessem <seg ana="#inst">Bladzord</seg> in Irse Auch iedzd<lb break="yes"/>von diessem wonord. wonhafde Befiendung<lb break="yes"/>Forkomennen fordgehen. Fon Diessem<lb break="yes"/>Weinachds forabet haben Weinachdsgeschengk<lb break="yes"/>presend geben forkomen gangen. Zwei<lb break="yes"/>wurst Ledzelden Eien Baket sechs Ledzelden,<lb break="yes"/>und zwei Ledzelden auß andernsorden, fünf<lb break="yes"/>Ziegar zehn Nuß sechs Äpfel, Fon Kriesdbaum<lb break="yes"/>haben bekomen sieben Nuß, fünf Zugker gudzen,<lb break="yes"/>Eien Ledzelden Bieskwied bekomen.
+
+<pb facs="#image_013"/>
+Fon Meiner zukomennen Weinachdbresend<lb break="yes"/>Machde ich meine Freindlichsden Bedangkung<lb break="yes"/>fon Gebener Sach. Meine Naü Jahr Gliegkwienschung<lb break="yes"/>gruß, zu der in dem Negsden naerhnden<lb break="yes"/>Neü Jahr zukomen Gliegkwienschen wohlergeen<lb break="yes"/>erhalden forkomende Gesundheid wohlergeen<lb break="yes"/>erhalden, Wie Hofendliech von ihrem<lb break="yes"/>forkomung von Brief erhalden auch<lb break="yes"/>ordnung hab könen gehen<lb break="yes"/><seg ana="#salute">Zu Freindliechsdem gruß schließt nebsd Brief</seg></p>
+<p><hi rendition="#c"><seg ana="#signed">der Sohn<lb break="yes"/>Josef <surname>W.</surname></seg><lb break="yes"/>Absendder</hi></p>
+<p>Adres: An Herrn Johan Georg <surname>W.</surname><lb break="yes"/><hi rendition="#c">Seilermeister<lb break="yes"/>in Oberstaufen<lb break="yes"/>von Algäu</hi><lb break="yes"/>Von Abgangener Adreß ankunfd deß Enfangnemen<lb break="yes"/>von befiendung wen niechd zu bladz hab<lb break="yes"/>gangen, kön Brief zuriegksenden Josef <surname>W.</surname><lb break="yes"/><hi rendition="#c">Absendder</hi>
+</p>
+</body>
+</text>
+</TEI>

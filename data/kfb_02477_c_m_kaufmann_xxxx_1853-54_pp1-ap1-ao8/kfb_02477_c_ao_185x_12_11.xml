@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2477c04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2477</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>K.</surname></persName>
+<date type="sent">11.12.185x</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">Gunzenhausen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2477c">
+<persName>
+<forename>Moritz</forename>
+<surname>K.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">49.1147095 10.7545933</geo>Gunzenhausen</residence>
+<faith>jüdisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1853" to="1854">1853-54</date></p>
+<p>Brieftypen: pp,ap,ao</p>
+</state>
+<trait><p>"trübe Gemüthsstimmung &amp; einen Zustand von Schwermuth“ (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Ehefrau des Patienten sendet einige Gegenstände in die Anstalt und macht darauf aufmerksam, dass in ihrer Familie Weihnachten nicht gefeiert wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2477c04a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener><dateline><hi rendition="#r"><hi rendition="#i">Gunzenhausen</hi> d<hi rendition="#i">en</hi> 11
+                    Dezember <hi rendition="#u">185<unclear reason="damage"/></hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#u">Euer Wohlgeboren</hi></hi></salute>
+</opener>
+<p>Gestern im Besitze Ihres sehr geehten Schreiben<lb break="yes"/>gekom̄en,
+                bin ich Ihnen für der Mittheilung<lb break="yes"/>sehr danckbar, gebe Gott daß ich
+                recht bald wieder<lb break="yes"/>hoffnungsvolle Nachrichten erhalte. Es folgen
+                zugleih<lb break="yes"/>die gewünschten Sachen für meinen Man̄, ein<lb break="yes"/>Weihnachts-Geschenck habe ich zur Zeit noch niht<lb break="yes"/>beigelegt, u erlaube mir Euer Wohlgeboren<lb break="yes"/>darauf aufmerksam zu
+                machen, daß wir dieses<lb break="yes"/>Fest niht feiern, daher auh Geschencke an
+                diesen<lb break="yes"/>Tage niht Sitte u nie bei uns noch vorgekom̄en,<lb break="yes"/>es wäre dies für meinen Man̄ eine neue<lb break="yes"/>Erscheinung, u ob nicht dies etwa zur Erneuerung<lb break="yes"/>der fixen Idee
+                des Taufens hervorrufen kön̄te,<lb break="yes"/>erachten es Euer Wohlgeboren
+                übrigens für<lb break="yes"/>besser, erbitte ich mir dies gefälligst, wen̄<lb break="yes"/>auh nur durch einige Worte mir mitzutheilen,<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Johan̄a
+                                <surname>K.</surname></hi></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

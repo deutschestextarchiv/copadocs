@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb218k02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>218</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ernst <surname>K.</surname></persName>
+<date type="sent">02.10.1860</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Elise <surname>K.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb218k">
+<persName>
+<forename>Ernst</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1823"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1860" to="1862">1860-1862</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Geisteswahn (1862)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient dankt seiner Ehefrau für ihre letzte Sendung an ihn und berichtet ihr von seinen Geschäftsverbindungen in Frankreich.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb218k02a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb218k02b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irrsee</hi> den 2 Octr 1860</hi></dateline>
+<salute><hi rendition="#c">Meine liebe gute <hi rendition="#i">Elise</hi>!</hi></salute>
+</opener>
+<p><space/> Der Herr <hi rendition="#i">Director</hi> hat mich<lb break="yes"/>heute
+                aufgefordert an dich zu<lb break="yes"/>schreiben &amp; Dir für deine let<hi rendition="#i">z</hi>te<lb break="yes"/>Sendung zu danken was ich von<lb break="yes"/>Herzen gern thue. Der herr<lb break="yes"/><hi rendition="#i">Director</hi> will an Dich schreiben<lb break="yes"/>&amp; da will ich meinen
+                Brief<lb break="yes"/>mit dem an die kleine Lisa<lb break="yes"/>mit der
+                Danksagung für die<lb break="yes"/><w>übersch icken</w> Sachen; mitgeben<lb break="yes"/>Liebe Lisa du kannst dir<lb break="yes"/>dencken wie ich mich
+                einmal<lb break="yes"/><w>hin aus</w> sehne aus diesem Hause<lb break="yes"/>wo
+                ich nun schon so lange sit<unclear><hi rendition="#i">z</hi>e</unclear><lb break="yes"/>&amp; wenn Du es machen kannst<lb break="yes"/>so hole mich doch
+                    bald<hi rendition="#u">, a</hi>b. </p>
+<pb facs="#image_002"/><p><space/> Ich habe wegen Borsten schoene<lb break="yes"/>Verbindungen mit Lyon ange<lb break="no"/>knüpft es ist da ein Agent der <unclear><hi rendition="#i">suis</hi></unclear><lb break="yes"/>meine Waaren auch Wolle + <unclear>M</unclear>ägen<lb break="yes"/>nach Lyon, <hi rendition="#i">Marseille</hi> &amp; <hi rendition="#i">Paris</hi>
+                    ver<lb break="no"/>kaufen kan̄ &amp; wird das gewiß<lb break="yes"/>ein
+                schoenes Geschaeft.<lb break="yes"/><space/>
+<seg ana="#salute">Empfange die herzlichsten<lb break="yes"/>Grüße von Deinem
+                    treuen</seg><lb break="yes"/><hi rendition="#r"><hi rendition="#u"><seg ana="#signed"><hi rendition="#i">Ernst</hi></seg>.</hi></hi></p>
+<p><hi rendition="#c"><space/>
+<hi rendition="#i">Madame<lb break="yes"/>Elise <surname>K.</surname>.</hi><lb break="yes"/><space/>
+<hi rendition="#i">Wohl</hi>geboren<lb break="yes"/><space/>
+<hi rendition="#u"><hi rendition="#i">Kempten</hi></hi></hi></p>
+</body>
+</text>
+</TEI>

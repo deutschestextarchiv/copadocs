@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1763s18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katrin Schreinemachers</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1763</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>S.</surname></persName>
+<date type="sent">19.03.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bischof: Maximilian von <surname>L.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1763s">
+<persName>
+<forename>Georg</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1831"/>
+<death when="1916"/>
+<occupation>Mahlknecht</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonomen</p>
+<p>Anstalt: <date from="1863" to="1916">1863-1916</date></p>
+<p>Brieftypen: pp, po </p>
+</state>
+<trait><p>Hypochondrie, (folie raisonnante)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Möchte vom Bischof eine Beichte in Türkheim ermöglicht bekommen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1763s18a.jpg" xml:id="image_147"/>
+<graphic mimeType="image/jpg" url="kfb1763s18b.jpg" xml:id="image_148"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_147"/>
+<opener>
+<dateline>
+<add><handShift medium="pencil" scribe="patient"/><hi rendition="#r">15.08.06</hi></add></dateline>
+<salute><handShift medium="ink" scribe="patient"/>An hochwürdigen Herrn! Herrn<lb break="yes"/>Maximilian v. Lingg<lb break="yes"/><hi rendition="#c">Bischof in Augsburg!</hi></salute>
+</opener>
+<p> Stelle ich unterthänigst, gehorchsamst<lb break="yes"/>die Bitte, Seine bischöflichen
+                    Gnaden<lb break="yes"/>möchte sorgen, daß ich nach Türkheim<lb break="yes"/>zu
+                den Herrn Kapuziner zum Beichten<lb break="yes"/>gehen darf, da dieße, als ich an
+                    1893<lb break="yes"/>gebeichtet habe, gesagt haben, ich soll<lb break="yes"/>öfter beichten, und es sei eine große<lb break="yes"/>Sünde, wen̄ man zu
+                Ostern nicht<lb break="yes"/>einmal beichtet. In der Anstalt ver<lb break="no"/>bietet, ohne Ursache, man mir den<lb break="yes"/>Empfang der hl. Sakramente, u.
+                    habe<lb break="yes"/>auch gar keine Aussicht daß ich zum<lb break="yes"/>Beichten gehen darf, wo ich mich vor<lb break="no"/>bereiten kan̄ zum
+                Sterben. So muß<lb break="yes"/>ich vereken wie eine Katz, welche <pb facs="#image_148"/> auch nicht die hl Sakramente empfangen<lb break="yes"/>dürfen. Ich bin jetzt bereitz 75 Jahre alt u.<lb break="yes"/>zim̄lich
+                gefährlich krank, da bin ich alle Tage<lb break="yes"/>nicht sicher vor dem Tod. Da
+                der Kurat <surname>F.</surname><lb break="yes"/>in der Anstalt, sogar die
+                falschen Zeugnißen<lb break="yes"/>machen, u. erklärt mich sogar als ganz blöd<lb break="no"/>sin̄ig, inde<del>r</del><handShift medium="pencil" scribe="patient"/>m <handShift medium="ink" scribe="patient"/>er sagte, mit mir
+                kön̄e man gar<lb break="yes"/>nichts machen mit dem Beichten. Da kan̄
+                    <handShift medium="pencil"/><add place="inline">man</add><lb break="yes"/><handShift medium="ink"/>doch glauben, daß der schlechter ist als der<lb break="yes"/>Judas. Da es doch unglaubar ist, möchte man<lb break="yes"/>es
+                mich auch beweißen laßen. Ich bitte, Seine<lb break="yes"/>b. Gnaden möchte mich
+                nicht länger dem schlechten<lb break="yes"/>Kurat überlaßen, u. sorgen daß ich
+                sobald<lb break="yes"/>als möglich nach Türkheim kom̄e, um auch<lb break="yes"/>zu hören, was die Herrn Kapuziner über<lb break="yes"/>mich
+                sagen. Ich bitte, daß ich sogleich etwas<lb break="yes"/>erfahre, ob Seine b.
+                Gnaden für mich sorgen<lb break="yes"/>daß ich mich vorbereiten kan̄ zum
+                Sterben.<lb break="yes"/><seg ana="#salute">In der Hoffnung, daß meine Bitte nicht<lb break="yes"/>unerhört
+                    bleibt, sende ich den Gruß<lb break="yes"/>Gelobt sei Jesus Christus.</seg>
+<seg ana="#signed"> Georg <surname>S.</surname></seg><lb break="yes"/><hi rendition="#r">von Höchstädt.a/D.</hi></p>
+</body>
+</text>
+</TEI>

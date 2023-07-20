@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2012h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2012</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sigmund <surname>H.</surname></persName>
+<date type="sent">10.11.1877</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2012h">
+<persName>
+<forename>Sigmund</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1839"/>
+<death when="1879"/>
+<occupation>Müllergeselle, Mühlknecht</occupation>
+<residence><geo decls="#WGS">47.8052615 10.2136981</geo>Altusried, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1877" to="1879">1877-79</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Melancholie, Wahnvorstellungen, Blödsinn, epileptoforme Anfälle (1877-1879)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet den Direktor, seinem Bruder zu schreiben, wenn er entlassen werden soll. 
+                    Jetzt ist die beste Zeit, um noch Arbeit zu finden, denn er ist auf den Verdienst angewiesen.
+                    Er würde auch in der Anstalt im Garten oder auf dem Feld arbeiten.
+                    Er ist mit der Versorgung in der Anstalt zufrieden und war noch nie so gesund, aber er kann dort kein Geld verdienen.
+                    Die Gemeinde soll auch etwas für ihn zahlen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2012h01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2012h01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c">Kaufbeuren ten 10 Novemper 1877</hi></dateline>
+<salute>Herr Direckter </salute>
+</opener>
+<p> Sie möchten so gut sein und meinem<lb break="yes"/>Bruder Jakob <surname>H.</surname>
+<add>schreiben</add> wen Sie mich entlaßen<lb break="yes"/>den jetzt ist die Zeit
+                noch wo man Arbeit<lb break="yes"/>bekom̄t den speter ist es nicht mehr so
+                gut mit<lb break="yes"/>meinen Handwerck jetzt ist noch die beste zeit<lb break="yes"/>den ich muß doch auch vom meinem verstinste<lb break="yes"/>Leben
+                den man wird auch Ahlt den solt man<lb break="yes"/>etwas Haben den ich bin jetzt
+                Gesund und<lb break="yes"/>kan Ales mag sein was es wiel Ich Arbeite<lb break="yes"/><del>bi</del> bei Eich 6 Wochen Im Gart und im Felde one<lb break="yes"/>wiederede
+                imer Gerne Ich hate mit keine Werte<lb break="yes"/>keine Unschine <add>Rede</add>
+                und Sie mit mir <add>icht</add> verteihlt sonst bin<lb break="yes"/>gern hier ich
+                bin mit Eich mit kost zuvrieden<lb break="yes"/>Am Donerstag ist 3 Monate seid ich
+                    die<lb break="yes"/>Arbeit mißen entlaßen und häte alle Wochen<lb break="yes"/>6 bis 7 Mark verdint ich recht wohl zuvrieden<lb break="yes"/>Das gesund bin ich ni
+                so Gesund geveßen wie<lb break="yes"/>jetzt bin Ich möcht euch Gehortamst biten
+                    das<lb break="yes"/>mir die Gemeinde Ach etwas für mich zahlea<lb break="yes"/>weil sie mich geschlagen das ich keinen vestand<lb break="yes"/>nicht mehr und
+                nicht gewießt was thu<lb break="yes"/>nun seit so gut und gefelieg und schreibt
+                meinem<lb break="yes"/>Bruder <seg ana="#salute">euer danbare</seg> <seg ana="#signed">Sigmund <surname>H.</surname></seg></p>
+<pb facs="#image_002"/><p><hi rendition="#c">an<lb break="yes"/>Jackob <surname>H.</surname> in Weuhalden<lb break="yes"/>zu Altusried<lb break="yes"/>Landgricht Grinenbach<lb break="yes"/>Bezirchamt
+                Memingen</hi></p>
+</body>
+</text>
+</TEI>

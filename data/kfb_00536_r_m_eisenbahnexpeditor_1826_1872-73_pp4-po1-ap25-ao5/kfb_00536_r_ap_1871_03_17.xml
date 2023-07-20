@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb536r09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Alphons und Oskar <surname>R.</surname></persName>
+<date type="sent">17.03.1871</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: Josef<surname>R.</surname></persName>
+<settlement type="sent">Ottobeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb536r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1873"/>
+<occupation>Eisenbahnexpeditor, Zuchthaussträfling</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Simmerberg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1872" to="1873">1872-73</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Melancholie (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="söhne"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beglückwünschen ihren Vater zum Namenstag und drücken ihre Verbundenheit/Liebe aus.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb536r09a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="kfb536r09b.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="kfb536r09c.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline><hi rendition="#r">Ottobeuren den 17 März<lb break="yes"/>1871.</hi></dateline>
+<salute><hi rendition="#c">Liebster Vater!</hi></salute>
+</opener>
+<p><space/> Es naht nun Ihr Namens<lb break="no"/>fest heran und da fühlen<lb break="yes"/>wir uns aufs neue mit<lb break="yes"/>mächtiger Liebe zu Ihnen<lb break="yes"/>hingezogen und bringen<lb break="yes"/>deßhalb unsere kindlichen<lb break="yes"/>Wünsche dar.</p><p>Möge Sie der himmlische Vater<lb break="yes"/>noch recht lange gesund leben <pb facs="#image_018"/>lassen u. uns recht bald<lb break="yes"/>wieder zu dir
+                führen. Es<lb break="yes"/>ist dieser Wunsch zwar<lb break="yes"/>kurz aber er
+                kommt aus<lb break="yes"/>unsern kindlichen für <del>s</del>Sie<lb break="yes"/>mit Liebe schlagenden Herzen.<lb break="yes"/>Täglich beten wir in der<lb break="yes"/>Kirche zum lieben Gott für<lb break="yes"/>Sie und die liebe
+                Mutter,<lb break="yes"/>daß es Euch gut gehen möge.<lb break="yes"/>Wir haben es
+                uns nun für<lb break="yes"/>gut angewöhnt u. sind gerne <pb facs="#image_019"/>hier. In-dem wir Ihnen noch<lb break="no"/>mals alles Gute wünschen,<lb break="yes"/><seg ana="#salute">verbleiben wir unter herzlichen<lb break="yes"/>Grüßen</seg><lb break="yes"/><hi rendition="#c">Ihre</hi><lb break="yes"/><hi rendition="#r">danbaren Kinder<lb break="yes"/><seg ana="#signed">Alphons</seg> u.<lb break="yes"/><seg ana="#signed">Oskar</seg>.</hi></p>
+</body>
+</text>
+</TEI>

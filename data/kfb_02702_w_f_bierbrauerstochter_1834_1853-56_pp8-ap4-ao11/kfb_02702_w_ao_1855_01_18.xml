@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2702w17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Freundin: Margaretha <surname>B.</surname></persName>
+<date type="sent">18.01.1855</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2702w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Bierbrauerstochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Brauereibesitz</p>
+<p>Anstalt: <date from="1853" to="1856">1853-56</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Vesania (17.11.1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="freundin1"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Fragt im Namen der Mutter nach dem Befinden der Patientin.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2702w17.jpg" xml:id="image_035"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_035"/>
+<opener>
+<dateline><hi rendition="#r">München den 18 Jän̄er <hi rendition="#u">1855</hi></hi></dateline>
+<salute><hi rendition="#c">Euer Hochwohlgeborn</hi></salute>
+</opener>
+<p><space/> Übersende ich anliegenden Brief, zur freundlichen<lb break="yes"/>Übergabe an Marie. − <hi rendition="#i">Mad</hi>: <surname>W.</surname>
+                welche sich bestens<lb break="yes"/>empfehlen läßt, harrt mit großer Sehnsucht
+                Jhren<lb break="yes"/>gütigen Nachrichten entgegen, ob Sie mit Mariens<lb break="yes"/>Zustand zufriedener und eine fortwährende Beßerung be<lb break="no"/>merkbar ist. <space/>
+<seg ana="#salute">Um diese große Gefälligkeit, und recht<lb break="yes"/>baldige
+                    Nachricht bittend, empfehle ich mich Jhnen wie Frau<lb break="yes"/>Gemahlin
+                    vielmal, und verbleibe Hochachtungsvollst<lb break="yes"/><hi rendition="#c">Jhre</hi><lb break="yes"/><hi rendition="#r">ergebenste </hi></seg><hi rendition="#r"><seg ana="#signed">Margaretha<lb break="yes"/><surname>B.</surname></seg>.</hi>
+</p><p><add hand="arzt">d. 23 F<hi rendition="#i">e</hi>br 55.<lb break="yes"/>Fräul.
+                        <surname>W.</surname> hat sich seit meinem letzten Briefe<lb break="yes"/><add place="above">im Ganzen zieml.
+                            gut</add><del><unclear>zi</unclear></del>
+                            be<del>nomen</del><add place="above">tragen</add> sodaß jetzt allerdings die Frage <add place="above">erst</add>
+<unclear>ab</unclear><unclear/>
+<unclear/><lb break="yes"/>steht, ob die im̄er noch an ihr zu bemerkenden <hi rendition="#u">Eigenthüm</hi><lb break="no"/><del>lichkeiten</del> noch
+                    Reste der Krkht
+                    <del>oder</del> seien oder etwas Cha<lb break="no"/>rakter von jeher eigenthüml.
+                    waren. Jch meinerseits<lb break="yes"/>muß zwar im̄er noch an der
+                    Möglichkt zweifeln daß </add>
+</p>
+</body>
+</text>
+</TEI>

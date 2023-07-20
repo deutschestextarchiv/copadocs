@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb536r33" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sohn: Joseph ("Peppi") <surname>R.</surname></persName>
+<date type="sent">29.04.1872 </date>
+<date type="received">n.a. </date>
+<persName type="addressee">Anstaltsleitung ("Commandantschaft")</persName>
+<settlement type="sent">Augsburg </settlement>
+<settlement type="received">n.a. </settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb536r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1873"/>
+<occupation>Eisenbahnexpeditor, Zuchthaussträfling</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Simmerberg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1872" to="1873">1872-73</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Melancholie (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="sohn"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Der Sohn bittet (auch im Namen seiner Mutter) um Auskunft über den gesundheitlichen Zustand seines Vaters, 
+                   da dieser seit längerer Zeit nichtmehr geschrieben hat. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb536r33.jpg" xml:id="image_070"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_070"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg</hi> 29. <hi rendition="#i">April</hi> 1872.<lb break="yes"/><add hand="arzt"><unclear><hi rendition="#i">pr</hi>.</unclear>
+                            1 Mai 1872<lb break="yes"/>in
+                        Jrsee</add></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">V</hi>erehrliche <hi rendition="#i">C</hi>om̄andantschaft!</hi></salute>
+</opener>
+<p><space/> Jch ersuche <hi rendition="#i">S</hi>ie hiemit im <hi rendition="#i">N</hi>amen meiner <hi rendition="#i">M</hi>utter<lb break="yes"/>von ganzem
+                Herzen, mir nur mit ein paar <hi rendition="#i">Z</hi>eilen <add place="above">mitzutheilen</add>,<lb break="yes"/>ob &amp; wie mein Vater krank ist, wenn
+                derselbe selbst<lb break="yes"/>vielleicht nicht schreiben kann.</p><p><space/>
+<hi rendition="#i">S</hi>ie werden es mir nicht verdenken, wenn ich<lb break="yes"/>es wage, diese ergebenste <hi rendition="#i">B</hi>itte zu stellen, nachdem<lb break="yes"/>ich, seit sehr langer <hi rendition="#i">Z</hi>eit ohne jedes
+                Lebenszeichen<lb break="yes"/>meines Vaters, in steter Ungewißheit leben muß,<lb break="yes"/>ob er gesund oder krank ist.</p><p><space/> Der gefl Erhörung meiner <hi rendition="#i">B</hi>itte entgegensehend,<lb break="yes"/>erlaube ich mir noch unten meine Adresse zu bemerken<lb break="yes"/><seg ana="#salute">&amp; zeichne<lb break="yes"/><hi rendition="#c">Hochachtungsvollst!</hi></seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed"><hi rendition="#u"><hi rendition="#i">Joseph </hi></hi><surname><hi rendition="#u">R.</hi></surname></seg></hi></p><p>Adresse:<lb break="yes"/><space/>
+<hi rendition="#i">Joseph </hi><surname><hi rendition="#i">R.</hi></surname><lb break="yes"/><unclear>&amp;</unclear> Adresse dhl. <hi rendition="#i">Th.
+                        </hi><surname><hi rendition="#i">M.</hi></surname><lb break="yes"/><space/><hi rendition="#i"> Augsburg.</hi></p><p><add hand="arzt"><hi rendition="#r">Adresse<lb break="yes"/>der Frau<lb break="yes"/><surname>R.</surname> Katharina<lb break="yes"/>Kaffe Ruider
+                            3/St.<lb break="yes"/>Goggiestaße: </hi></add></p>
+</body>
+</text>
+</TEI>

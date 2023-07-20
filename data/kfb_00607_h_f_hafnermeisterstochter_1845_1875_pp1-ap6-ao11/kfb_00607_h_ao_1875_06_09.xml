@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb607h17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>607</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Sara <surname>H.</surname></persName>
+<date type="sent">09.06.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Lindau</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb607h">
+<persName>
+<forename>Sara</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1875"/>
+<occupation>Hafnermeisterstochter</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Hafnermeister</p>
+<p>Anstalt: <date from="1875" to="1875">1875</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>"Religiöser Wahnsinn, Fixe Ideen" (1875)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Berichtet von einem Ereignis, das ihrer Meinung nach zur Krankheit der Tochter beigetragen habe. 
+                    Demnach wies die Patientin einen Verehrer zurück, was sie jedoch im Nachhinein bereute. 
+                    Die damit in Verbindung stehende "Schwermuth" der Patientin entwickelte sich mit der Zeit dann zu einer "Geistesstörung".
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb607h17a.jpg" xml:id="image_034"/>
+<graphic mimeType="image/jpg" url="kfb607h17b.jpg" xml:id="image_035"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_034"/>
+<opener>
+<salute><hi rendition="#c">Sehr geehrter Herr Dockter!</hi></salute>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#u">4.</hi></add></add></p><p><add hand="arzt"><add place="top"><unclear><hi rendition="#i">pr</hi>.</unclear> 9. <hi rendition="#i">Juni</hi> 75<lb break="yes"/><hi rendition="#i">ad
+                            acta</hi>
+<surname><hi rendition="#i">H.</hi></surname>.<lb break="yes"/><unclear/></add></add></p>
+<p>Erlaube mir, nach dem Schreiben von Herrn<lb break="yes"/>Gerichts-Arzt einiges
+                über meine <seg ana="#med">Geistes<lb break="no"/>kranke</seg> Tochter beyzufügen,
+                was vieleicht<lb break="yes"/>auch viel zu ihrem traurigen Zustand beytrug.<lb break="yes"/>Es ereignete sich vorigen Herbst daß ein<lb break="yes"/>Achtbarer
+                Man̄ meiner Tochter sollche Auf<lb break="no"/>merksamkeit bewies daß man
+                einen<lb break="yes"/>Antrag vermuthen kon̄te, da aber meine<lb break="yes"/>Tochter eine völlige Abneigung zeugte<lb break="yes"/>so unterblieb der Antrag
+                − u nun<lb break="yes"/>stellte es sich nachher doch herraus daß<lb break="yes"/>sie dennoch einen Antrag erwarttete, <pb facs="#image_035"/>Und da
+                sollcher nicht erfolgte sie Reue<lb break="yes"/>bekahm über ihr Benehmen, u
+                würklich<lb break="yes"/>erst von da an ihr einziger Wunsch muß<lb break="yes"/>gewesen sein daß doch noch ein Antrag<lb break="yes"/>kähme, den sie gerne
+                angenom̄en hätte<lb break="yes"/>weil sie erst hernach in̄ige Gefühle
+                für<lb break="yes"/>Ihn em̄pfand. Da aber <hi rendition="#u">nichts</hi>
+                erfolgte<lb break="yes"/>so artete ihre von da an gehegte Schwer<lb break="no"/>muth in <seg ana="#med">Geistesstörungen</seg> aus, wozu<lb break="yes"/>freilich auch körperlich krankhafte Zuständ<unclear>e</unclear><lb break="yes"/>dazu beytrugen, da der <seg ana="#med">Andrang deß<lb break="yes"/>Blutes gegen
+                    den Kopf</seg>, u ihre angegriffe<unclear>nen</unclear><lb break="yes"/>Nerven nach Hrn D<hi rendition="#sup">r</hi>.'s Ausssage diesen<lb break="yes"/>Zustand <w>herbey führten</w>. −</p><p><seg ana="#salute"><space/> Diese bemerkungen mir zu erlauben<lb break="yes"/>bittet zu En̄tschuldigen eine tüf
+                    becküm̄<unclear>erte</unclear><lb break="yes"/>Mutter.</seg><seg ana="#signed"><space/> S. <surname>H.</surname> Wittwe.</seg></p>
+</body>
+</text>
+</TEI>

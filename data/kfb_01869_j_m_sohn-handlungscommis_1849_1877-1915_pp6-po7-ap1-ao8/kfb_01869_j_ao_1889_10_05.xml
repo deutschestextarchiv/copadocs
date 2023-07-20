@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1869j17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1869</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Pflegemutter/Tante: Sophie <surname>J.</surname></persName>
+<date type="sent">10.05.1889</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Hofrat: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1869j">
+<persName>
+<forename>Wilhelm</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1849"/>
+<death when="1915"/>
+<occupation>Handlungs-Commis</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Kaufmann</p>
+<p>Anstalt: <date from="1877" to="1915">1877-1915</date></p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hyperaesthesie des Gemeingefühls, Hypochondrie" (1876)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink_black" scope="major" scribe="pflegemutter"/>
+<handNote medium="crayon_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich für einen Brief, der Aufschluss über das Befinden des Patienten liefert. 
+                    Dieser hat zudem bald Geburtstag und soll einige Sachen zugeschickt bekommen. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1869j17a.jpg" xml:id="image_041"/>
+<graphic mimeType="image/jpg" url="kfb1869j17b.jpg" xml:id="image_042"/>
+<graphic mimeType="image/jpg" url="kfb1869j17c.jpg" xml:id="image_043"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_041"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg</hi> d. 5/<hi rendition="#sub">10</hi>
+<hi rendition="#u">89</hi>.<hi rendition="#sub">.</hi></hi></dateline>
+<salute>Hochverehrterster Herr Hofrat! </salute>
+</opener>
+<p>Schon seit längerer Zeit, schulde<lb break="yes"/>ich Herrn Hofrat, meinen Dank,<lb break="yes"/>für den erhaltenen trostreichen<lb break="yes"/>Brief! </p>
+<p>Bitte Denselben, wenn auch etwas<lb break="yes"/>verspätet frdl. entgegenzunehmen.<lb break="yes"/>Es gereicht mir zu großen Troste,<lb break="yes"/>daß Herr Hofrat,
+                so lebhafte <pb facs="#image_042"/>Theilnahme, mir u. meinem Sohne<lb break="yes"/>schenken u. bitte Uns Dieselbe <w>zu</w><w>erhalten</w>.<lb break="yes"/>An ihre
+                verehrten Angehörigen,<lb break="yes"/>gestatte ich mir, die Achtungsvollsten<lb break="yes"/>Empfehlungen beizufügen.</p>
+<p>Der beigelegte Brief, meines Sohnes<lb break="yes"/>überzeugte mich, von seiner <seg ana="#med"><w>Verworren<lb break="no"/>heit</w></seg>; allein mein Patient scheint<lb break="yes"/>mir doch nicht traurig zu sein, waß<lb break="yes"/>etwas tröstlich ist u. doch thut es mir<lb break="yes"/>wehe daß
+                er so ist! − Allein es ist ja<lb break="yes"/>Gottes- Wille u. im Dinste muß<lb break="yes"/>man sich fin<unclear>t</unclear>en lernen.</p>
+<p>Mein Sohn wünscht auch <w>Wollene</w><lb break="no"/><w>Hemden</w> u. Leibbinden, daher<lb break="yes"/>wandte ich mich an Herrn Ober<unclear>n</unclear>pflg.<lb break="yes"/>mit dem
+                Ersuchen, dafür Sorge<lb break="yes"/><w>zu</w><w>tragen</w>. − Allein dadurch wurde<lb break="yes"/>ich Schuldnerin bei der Verwaltung <pb facs="#image_043"/>waß mir
+                leid ist; u. würde recht gerne<lb break="yes"/>den Betrag einsenden, wen̄
+                        Derselbe<lb break="yes"/>mir <w>bekant gegeben</w> würde. − Da<lb break="yes"/>ich
+                diese Güte nicht mißbrauchen<lb break="yes"/>möchte.</p>
+<p><hi rendition="#u" style="arzt">Am </hi><hi rendition="#i"><hi rendition="#u">Montag</hi></hi><hi rendition="#u"> ist der G</hi>eburts-Tag<lb break="yes"/>meines Sohnes; ich sende Demselben<lb break="yes"/>Einiges u.
+                hoffe eine kl. Freude<lb break="yes"/><w>zu</w><w>bereiten</w>! − Wenn ich um
+                    <hi rendition="#i"><hi rendition="#u" style="arzt">Mittags<lb break="no"/></hi></hi><hi rendition="#u" style="arzt">kaffee gegen Vergütung</hi> bitten
+                darf<lb break="yes"/>so wäre es mir sehr erwünscht.<lb break="yes"/>Nun habe ich
+                die Güte, deß Herrn<lb break="yes"/>Hofrat wieder recht in Anspruch ge<lb break="no"/>nom̄en; danke daher bestens für<lb break="yes"/>Jhre
+                gefällige Nachsicht u. Geduld.</p><p><hi rendition="#r"><seg ana="#salute">Hochachtungsvollst<lb break="yes"/>Jhre stetz dankbare<lb break="yes"/></seg><seg ana="#signed"><hi rendition="#i">Sophie</hi>
+<surname><hi rendition="#i">J.</hi></surname>.</seg></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb607h12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>607</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Sara <surname>H.</surname></persName>
+<date type="sent">15.09.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Lindau</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb607h">
+<persName>
+<forename>Sara</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1875"/>
+<occupation>Hafnermeisterstochter</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Hafnermeister</p>
+<p>Anstalt: <date from="1875" to="1875">1875</date></p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>"Religiöser Wahnsinn, Fixe Ideen" (1875)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Hat die Nachricht erhalten, ihre Tochter voraussichtlich in 8 Tagen abholen zu dürfen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb607h12.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline><hi rendition="#r">Lindau den 15<hi rendition="#sup">ten</hi> Septem̄ber
+                    1875.</hi></dateline>
+<salute><hi rendition="#c">Hochgeehrterster Herr Dierecktor!</hi></salute>
+</opener>
+<p><add hand="arzt"><add place="top"><unclear/> 19/9</add></add></p><p>Mitt großem Dank u Freude! vernahm<lb break="yes"/>ich aus dero freundlicher Zuschrift<lb break="yes"/>daß ich Hoffnung haben darf meine<lb break="yes"/>l Tochter in 8
+                Tagen abholen <add place="above">zu</add> dürfen.<lb break="yes"/>Erwartte nun mit
+                freudigem Sehnen<lb break="yes"/>die Anzeuge deß Tages der En̄tlaßung.<lb break="yes"/>wo ich allsdan̄ nicht säumen werde<lb break="yes"/>sogleich
+                abzureisen, u allsdan̄ meinen<lb break="yes"/>Dank Hrn Diereckter mündlich
+                    auszu<lb break="no"/>drücken.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Zeichnet sich
+                    hochachtungsvollst </seg><lb break="yes"/>Dero dankende <seg ana="#signed">Wittwe <surname>H.</surname></seg>.</hi></p>
+</body>
+</text>
+</TEI>
