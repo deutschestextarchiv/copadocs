@@ -88,7 +88,8 @@ blockquote { border-left:5px solid #ddd; margin-left:3rem; padding-left:1rem }
 a { color:var(--base-color); text-decoration:none }
 a:hover { color:var(--base-color); text-decoration:underline }
 
-.btn-primary { background:#265085; border-color:#173151 }
+.btn-primary { background:var(--base-color); border-color:var(--base-color) }
+.btn-primary:hover { background:var(--base-color); border-color:var(--base-color); opacity:.8 }
 a.btn:hover { text-decoration:none }
 
 /* cards */

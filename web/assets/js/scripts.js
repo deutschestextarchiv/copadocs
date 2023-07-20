@@ -208,7 +208,7 @@ $( function() {
     "processing": true,
     "ajax": base + "list.json",
     "initComplete": function(settings, json) {
-      $('[data-bs-toggle="tooltip"]').tooltip();
+      $('[data-bs-toggle="tooltip"]').tooltip()
     },
     "language": dt_l10n,
     "columns": [
@@ -334,7 +334,11 @@ $( function() {
       }
     },
     "initComplete": function(settings, json) {
-      $('[data-bs-toggle="tooltip"]').tooltip();
+      $('[data-bs-toggle="tooltip"]').tooltip()
+      let wantRecord = document.location.hash.match(/^(#[a-z]{3}-.*)/)
+      if ( wantRecord != null && $('a[href="' + wantRecord[0] + '"]').length ) {
+        showRecord( $('a[href="' + wantRecord[0] + '"]').first() )
+      }
     },
     "language": dt_l10n,
     "columns": [
@@ -346,7 +350,7 @@ $( function() {
       {
         "className": "text-nowrap",
         "render": function(data, type, row) {
-          return `<a class="btn-link" data-archive="${row[fields.archiveShort]}" data-record="${row[fields.record]}" style="cursor:pointer">${row[fields.record]}</a>`
+          return `<a href="#${encodeURIComponent(row[fields.archiveShort])}-${encodeURIComponent(row[fields.record])}" class="copa-record" data-archive="${row[fields.archiveShort]}" data-record="${row[fields.record]}" style="cursor:pointer">${row[fields.record]}</a>`
         }
       },
       {
@@ -406,11 +410,97 @@ $( function() {
       {
         "className": "text-end",
         "render": function(data, type, row) {
-          console.log(row)
           return `${row[row.length - 2]}`
         }
       }
     ]
+  })
+
+  $(document).on('click', 'a.copa-record', function() {
+    let el = $(this)
+    showRecord(el)
+    return false
+  })
+
+  window.addEventListener('hashchange', function() {
+    if ( !document.location.hash || document.location.hash == '#' ) {
+      $('#copa-record').hide()
+      $('#copa-list').show()
+      return
+    }
+    let wantRecord = document.location.hash.match(/^(#[a-z]{3}-.*)/)
+    if ( wantRecord != null && $('a[href="' + wantRecord[0] + '"]').length ) {
+      showRecord( $('a[href="' + wantRecord[0] + '"]').first() )
+    }
+  })
+
+  function showRecord (el) {
+    let record = dt_rec.rows().data().toArray().filter(row => row[fields.archiveShort] == el.data('archive') && row[fields.record] == el.data('record') )[0]
+    $('[data-field]').each( function() {
+      $(this).html( record[fields[$(this).data('field')]] )
+    })
+    history.pushState({ "foo": "bar"}, "Detailansicht Patientenakte" )
+    document.location.hash = el.attr('href')
+    $.get( base + "list.json", function(data) {
+      let filtered = data.data.filter(row => row[fields.archiveShort] == el.data('archive') && row[fields.record] == el.data('record') )
+      var dt_rec_single = $('#record-list-single').DataTable({
+        "destroy": true,
+        "processing": true,
+        "data": filtered,
+        "initComplete": function(settings, json) {
+          $('[data-bs-toggle="tooltip"]').tooltip()
+          if (this.api().page.info().pages === 1) {
+            $('#record-list-single_length').hide()
+            $('#record-list-single_info').hide()
+            $('#record-list-single_paginate').hide()
+          }
+        },
+        "language": dt_l10n,
+        "columns": [
+          {
+            "type": "natural",
+            "render": function (data, type, row) {
+              return `<code style="font-size:smaller"><a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">${row[fields.id]}</a></code>`
+            }
+          },
+          {
+            "render": function(data, type, row) {
+              return `<abbr title="${textTypes[row[fields.textType]]}" data-bs-toggle="tooltip">${row[fields.textType]}</abbr>`
+            }
+          },
+          {
+            "render": function(data, type, row) {
+              return `${row[fields.sender]}`
+            }
+          },
+          {
+            "render": function(data, type, row) {
+              return `${row[fields.dateSent]}`
+            }
+          },
+          {
+            "render": function(data, type, row) {
+              return `${row[fields.placeSent]}`
+            }
+          },
+          {
+            "orderable": false,
+            "render": function(data, type, row) {
+              return `${row[fields.extentPages]} S., ca. ${row[fields.extentWords]} Wörter`
+            }
+          },
+        ]
+      })
+      $('#copa-record').show()
+      $('#copa-list').hide()
+    })
+  }
+
+  $(document).on('click', '#copa-record-close', function() {
+    // remove hash fragment from window.location
+    history.pushState("", document.title, window.location.pathname + window.location.search)
+    $('#copa-record').hide()
+    $('#copa-list').show()
   })
 
   const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
