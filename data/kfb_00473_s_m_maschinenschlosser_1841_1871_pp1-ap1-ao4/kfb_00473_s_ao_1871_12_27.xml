@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb473s06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>473</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sophia <surname>S.</surname></persName>
+<date type="sent">27.12.1871</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb473s">
+<persName>
+<forename>Josef</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1841"/>
+<death when="1871"/>
+<occupation>Maschinenschlosser</occupation>
+<residence><geo decls="#WGS">47.5352544 10.3050352</geo>Stein, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: "gänzlich vermögenslos"</p>
+<p from="1871" to="1871">Anstalt: 1871</p>
+<p from="1871" to="1871">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Melancholie, Angst (1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin bittet um eine Bestätigung, dass die Kosten für den Anstaltsaufenthalt ihres Mannes gezahlt sind.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb473s06.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg</hi> den 27 Dezember
+                        1871.</hi><lb break="yes"/><hi rendition="#c"><add hand="hand2">pl. 24. <hi rendition="#i">Dez.</hi> 71<lb break="yes"/>EN3578.</add></hi></dateline>
+<salute><hi rendition="#c">Hochzuverehrender Herr Direktor!</hi></salute>
+</opener>
+<p> Vielmal um Entschuldigung bittend, daß ich Ew Wohlgeboren<lb break="yes"/>wiederholt belästige, zwingt mich meine mißliche Lage<lb break="yes"/>und
+                insbesondere das Drängen von Gläubigern mei<lb break="no"/>nes verstorbenen Mannes
+                dazu, geehrten Herrn Di<lb break="no"/>rektor zu ersuchen, mir, wenn meine
+                Heimathgemeinde<lb break="yes"/>das Guthaben der Kreisirrenanstalt getilgt haben<lb break="yes"/>sollte, die Quittung oder vielmehr die Bestätigung<lb break="yes"/>dessen gütigst zukommen lassen zu wollen, indem<lb break="yes"/>von dieser Bestätigung die Aushändigung des meinen<lb break="yes"/>Mann noch
+                treffenden Lohntheiles an mich von der<lb break="yes"/>Eisenbahnbehörde abhängig
+                gemacht ist.<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Mit vollster
+                        Hochachtung und Verehrung<lb break="yes"/><hi rendition="#i">Euer
+                            Wohlgeboren </hi></hi><lb break="yes"/><hi rendition="#r">ganz
+                        ergebenste</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Sophie
+                            <surname>S.</surname>, </seg><lb break="yes"/>Wittwe.<lb break="yes"/>/: Windgasse F. 26<hi rendition="#sub">/I</hi> :/</hi>
+</p>
+<p><add hand="hand3" place="margin">Inzwischen erledigt<lb break="yes"/><space/>
+<unclear>Wg</unclear></add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2744s03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2744</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Clara <surname>S.</surname></persName>
+<date type="sent">07.12.1852</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Erlangen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2744s">
+<persName>
+<forename>Johann Christoph</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1802"/>
+<death cert="unknown"/>
+<occupation>Tabakfabrikant</occupation>
+<residence><geo decls="#WGS">49.5928616 11.0056</geo>Erlangen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1852" to="1854">Anstalt: 1852-54</p>
+<p from="1852" to="1854">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>"psychische Störung"(1852)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Ist nach ihrem letzten Besuch in Irsee besorgt, und bittet um Nachricht über das Befinden 
+                    des Patienten. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2744s03.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><hi rendition="#r">Erlangen, den 7 December 1852.</hi></dateline>
+<salute><hi rendition="#c">Hochgeschäzter Herr <hi rendition="#i">D</hi>irecktor!</hi></salute>
+</opener>
+<p>Es sind <del>und</del>nun volle 4 Wochen das ich die Ehre hatte mit Ihnen zu
+                sprechen<lb break="yes"/>und seitdem entbehre ich alle weitern Nachrichten,
+                    <del>was</del> vertrauungsvoll<lb break="yes"/>wende ich mich daher mit dießen
+                Zeilen auf das Neue an Sie verehrter<lb break="yes"/>Herr! mit der dringenden Bitte
+                mir von meinen armem Mann ei<lb break="no"/>niges mitzutheilen. Irrsee verließ ich
+                mit Gefühlen die nicht be<lb break="no"/>schreibar sind. − und mein Zustand
+                ist ein sehr bedauerns<del>d</del>würdiger<lb break="yes"/>zu nennen weil ich mir
+                nun meinen Mann so dencke das er sein<lb break="yes"/>Unglück auf das tiefste
+                    fühlt<unclear>.</unclear> und auf dieße Weiße sein Leben ver<lb break="no"/>küm̄ert. − noch überdieß mit den irrigen Wahn er sei von sei<lb break="no"/>ner Frau auf das schrecklichste betrogen. − <del>K</del>können
+                Sie mir <w>ver<lb break="no"/>argen</w> wenn ich sage meine Lebensruhe ist dahin.
+                − und mich für<lb break="yes"/>iezt als ganz unglücklich
+                    fü<del>h</del>l<del>l</del>te. Das meinen Man̄ <del>von</del> nur gutes
+                        <w>wied<unclear>er </unclear><lb break="no"/>fährt</w> überzeugte ich mich
+                hinlänglich, und das er durch Ihre liebe<unclear>vol</unclear><lb break="yes"/>Benehmen entschädigt wird sehe ich gar wohl ein, allein es bietete
+                    s<unclear>ich</unclear><lb break="yes"/>gar vieles dar, nametlich bei einen Leidenten der dan̄
+                wünscht zuweil<unclear/><lb break="yes"/>auch wieder in seiner häuslichen und <w>geschäfts Umgebung</w> sein
+                zu können<lb break="yes"/>was nur gerechte Wünsche sind − namentlich bei
+                einen Manne wie<lb break="yes"/>mein armer Mann dachte wen er nicht zugegen war das
+                Alles <w>zu<lb break="no"/>grunde</w> geht. Daher wiederholt die dringende Bitte
+                verehrter Herr<lb break="yes"/><hi rendition="#i">D</hi>irecktor an Sie gerichtet
+                ermüden Sie nicht in Ihrer Herzensgüte <add place="above">u. Ged<unclear/></add> gege<unclear/><lb break="yes"/>meinen Man̄, bieten Sie alles auf ihn womöglich seine Lage
+                zu erleich<unclear/><lb break="yes"/>Gott wird Sie und Ihre Familie gewiß dafür seegnen. −</p>
+</body>
+</text>
+</TEI>

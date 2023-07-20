@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun1988k13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>1988 (K. 170)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>K.</surname></persName>
+<date type="sent">10.07.1904</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Amtsgerichtsrat: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun1988k">
+<persName>
+<forename>Heinrich</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1846-10-13"/>
+<death cert="unknown"/>
+<occupation>Arbeiter</occupation>
+<residence><geo decls="#WGS">51.920586 7.727183</geo>Geburtsort: Wolbeck; Wohnort: Wolbeck</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Weber, Mutter: Arbeiterin</p>
+<p from="1900-06-28" to="1905-05-05">Anstalt: 28.06.1900-05.05.1905</p>
+<p from="1900-06-28" to="1905-05-05">Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber berichtet, dass es ihm gut geht und er arbeitet, sodass er entlassen werden kann.
+                    Er möchte dem Adressaten einen Besuch abstatten, wenn er zu seiner Mutter geht.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun1988k13.jpg" xml:id="image_033"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_033"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt <hi rendition="#r">Münster
+                            i. W., den</hi></add><hi rendition="#r"> 10<hi rendition="#i">ten</hi>
+<hi rendition="#i">Juli</hi>
+<add hand="vordruck">190</add>4.</hi></dateline>
+<salute><space/>
+<hi rendition="#i">Hochgeehrter Herr Amts=Gerichts=Rat</hi>!</salute>
+</opener>
+<p><add hand="hand3"><hi rendition="#c">G <hi rendition="#sup">ii</hi>/<hi rendition="#sub">7</hi> 04 <hi rendition="#u" style="hand4">ad acta</hi> Heinrich <surname><hi rendition="#i">K.</hi></surname><lb break="yes"/>G. </hi></add></p>
+<p><hi rendition="#i">Ich finde Mich veranlast Ihnen zu berichten, wie es Mir </hi><lb break="yes"/><unclear><hi rendition="#i">no</hi></unclear><hi rendition="#i">ch
+                    geht. Ich bin gesund und munter. Ich arbeite alle Tage im </hi><lb break="yes"/><hi rendition="#i">Garten, auch mitunter im Keller bei den Kartoffeln, denn
+                    diese </hi><lb break="yes"/><unclear><hi rendition="#i">mü</hi></unclear><hi rendition="#i">sen abgekeimt werden. Der Herr Geheim=Rat ist gut mit </hi><lb break="yes"/><hi rendition="#i">Mir zufrieden, Er hat Mir auch gesagt, es sei
+                    jetzt alles in Ordnung </hi><lb break="yes"/><hi rendition="#i"><unclear>de</unclear>nn es wäre ja
+                    auch die höchste Zeit, Mich zu entlassen, da Ich </hi><lb break="yes"/><hi rendition="#i">Meine Mutter besuchen könnte. Wenn es Ihnen nicht unlieb ist,
+                    </hi><lb break="yes"/><hi rendition="#i">will Ich Sie einen Besuch abstaten, wenn
+                    Ich nach </hi><placeName><hi rendition="#i">Wolbeck</hi></placeName><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i"><unclear>z</unclear>u Meiner Mutter gehe.
+                    Nun wünsche Ich Ihnen, wie auch Ihrer </hi><lb break="yes"/><hi rendition="#i">Familie, Gesundheit, Zufriedenheit und ein langes Leben. </hi><seg ana="#salute"><hi rendition="#i">Das </hi><lb break="yes"/><hi rendition="#i">Ihnen dieser Brief freundlichst antreffen wird
+                    hofft Ihr ergeben</hi><lb break="no"/><unclear><hi rendition="#i">s</hi></unclear><hi rendition="#i">ter Diener</hi></seg> <seg ana="#signed"><hi rendition="#i">Heinrich </hi><surname><hi rendition="#i">K.</hi></surname></seg><hi rendition="#i">. aus </hi><placeName><hi rendition="#i">Wolbeck</hi></placeName><hi rendition="#i"> zur Zeit auf der
+                    </hi><lb break="yes"/><hi rendition="#i">Heil=Anstalt Marienthal bei
+                    Münster.</hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2807h03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2807</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Gebhard <surname>H.</surname></persName>
+<date type="sent">05.01.1888</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Rottach</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2807h">
+<persName>
+<forename>Gebhard</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1855"/>
+<death when="1921"/>
+<occupation>Hausierer, früher Bäcker</occupation>
+<residence><geo decls="#WGS">47.728436099999996 10.311632859707668</geo>St. Lorenz, Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Maurer und Ökonom</p>
+<p from="1888" to="1921">Anstalt: 1888-1921</p>
+<p from="1888" to="1921">Brieftypen: ap, ao, Schuldschein</p>
+</state>
+<trait><p>"Geistesstörung [...], welche sich Anfangs als Melancholie äußerte, bald aber in Manie überging" (15.03.1888)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Schuldschein</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber stellt einen Schuldschein über 100 Mark aus.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2807h03.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#c">Schultschein. </hi><lb break="yes"/>Über 100<hi rendition="#i"> M</hi>ark mit worten Hundert<lb break="yes"/><hi rendition="#i">M</hi>ark welche mir <hi rendition="#i">Herrnn</hi> Josef<lb break="yes"/><surname>B.</surname> Baar gelichen
+                hat. Ich verspräche<lb break="yes"/>Im die Sume Bis in einem Halben<lb break="yes"/>Jahre mit verzinßung wieder Baar<lb break="yes"/>Heim zu zahlen.<lb break="yes"/><hi rendition="#c">Rottach den 5/<hi rendition="#sub">1</hi> 18.88 </hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Gebhart
+                                <surname>H.</surname>
+</hi></seg></hi></p>
+</body>
+</text>
+</TEI>

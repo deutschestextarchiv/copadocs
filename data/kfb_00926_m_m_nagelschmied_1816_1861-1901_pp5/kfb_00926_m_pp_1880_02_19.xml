@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb926m02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>926</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>M.</surname></persName>
+<date type="sent">19.02.1880</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geschwister</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb926m">
+<persName>
+<forename>Georg</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1816"/>
+<death when="1901"/>
+<occupation>Nagelschmied</occupation>
+<residence><geo decls="#WGS">48.5169777 10.811195</geo>Biberbach, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Krämer</p>
+<p from="1861" to="1901">Anstalt: 1861-1901</p>
+<p from="1861" to="1901">Brieftypen: pp</p>
+</state>
+<trait><p>Alienation, Tobsucht, Onanie, Sinnestäuschungen (1861)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Gulden, dass er sich Zigarren, Schnupftabak und Kleider kaufen kann
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb926m02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb926m02b.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb926m02c.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Irse den 19 febuar 1870</hi></dateline>
+<salute><hi rendition="#c">Liebe</hi><lb break="yes"/>Geschwistert</salute>
+</opener>
+<p>ich hofe mein Schreiben<lb break="yes"/>Werte eich in Bester Gsuntheit. an<lb break="yes"/>Irefen. Liebe Geschwistret <unclear>Irihn</unclear> bin<lb break="yes"/>Gottlob Gesund und Wohllauf<lb break="yes"/>sind Sogud und
+                Schicken Mir<lb break="yes"/>3 Gulden zum schnupftuwag<lb break="yes"/>3 Gulden zu
+                Zigaren Kaufen Kan<lb break="yes"/>3 Gulden zur Regratzin Oder zum<lb break="yes"/>Bier Gehen. ich Brauch einen Ganzen<lb break="yes"/>Anzug Kleider den ich
+                sernodwindig<lb break="yes"/>Brauch. Die Allten Kleiter wo ich zu hans<lb break="yes"/>hab die Kan icch nicht Brauchen <pb facs="#image_004"/>Liebe
+                Geschwistret ihr Kind mir<lb break="yes"/>Hunder Gulden Schicken zudenen<lb break="yes"/>Kleiter Sokan ich mir saber an<lb break="yes"/>Schafen </p>
+<p><hi rendition="#r"><seg ana="#salute">Ich Grise eich vil<lb break="yes"/>Mal</seg>
+<seg ana="#signed">Eir auffrichtiger<lb break="yes"/>Bruder<lb break="yes"/>Georg <surname><hi rendition="#i">M.</hi></surname></seg></hi>
+</p>
+<p><pb facs="#image_005"/><hi rendition="#c">An<lb break="yes"/>Herren Xaver
+                        <surname>M.</surname><lb break="yes"/>in<lb break="yes"/>Markt Biberbach Kramer<lb break="yes"/>Kramer Am Berg Nagelschmid </hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2000s12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2000</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Tochter: Lina <surname>H.</surname></persName>
+<date type="sent">28.05.1907</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2000s">
+<persName>
+<forename>Barbara</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1914"/>
+<occupation>Lehrersfrau</occupation>
+<residence><geo decls="#WGS">47.5352544 10.3050352</geo>Stein, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1881" to="1914">Anstalt: 1881-1914</p>
+<p from="1881" to="1914">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Halluzinatorische Verwirrtheit (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="tochter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich für die Umsorgung ihrer Mutter, die sich dadurch auch wieder besser bewegen könne. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2000s12.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München</hi> 28 <hi rendition="#i">Mai</hi> 1907</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Hochverehrter Herr </hi><lb break="yes"/><hi rendition="#i">Oberarzt</hi>! </hi></salute>
+</opener>
+<p>Ich möchte Ihnen hiemit meinen<lb break="yes"/>innigsten Dank zum Ausdruck<lb break="yes"/>bringen für Ihre gütige Fürsorge,<lb break="yes"/>die <hi rendition="#i">Sie</hi> meiner lieben Mutter<lb break="yes"/>in so reichem Maße
+                    <w>zu teil</w><lb break="yes"/>werden ließen. Ich habe mich<lb break="yes"/>so sehr gefreut, daß
+                sie wieder<lb break="yes"/>so gut sich bewegen kann &amp;<lb break="yes"/>ich kann
+                Ihnen nicht genug danken,<lb break="yes"/>daß <hi rendition="#i">Sie</hi> mir mein
+                gutes Mutterl<lb break="yes"/>wieder so hergestellt haben. </p><p>Mit der herzlichen Bitte, ihr auch<lb break="yes"/>ferner Ihre hilfreiche Hand zu bieten,<lb break="yes"/><seg ana="#salute">zeichne ich in Hochachtung &amp; Verehrung<lb break="yes"/><hi rendition="#c">als Jhre </hi><lb break="yes"/><hi rendition="#r">dankbare </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Lina <surname>H.</surname></seg>.</hi></p>
+</body>
+</text>
+</TEI>

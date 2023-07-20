@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="gut4882h03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 661: Gütersloh</collection>
+<idno>4882 (K. 500)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>H.</surname></persName>
+<date type="sent">10.12.1922</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: <surname>H.</surname></persName>
+<settlement type="sent">Gütersloh</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="gut4882h">
+<persName>
+<forename>Heinrich</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1893-11-08"/>
+<death when="1943-07-28"/>
+<occupation>Schlosser</occupation>
+<residence><geo decls="#WGS">52.0191005 8.531007</geo>Geburtsort: Bielefeld; Wohnort: Bielefeld</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Heizer</p>
+<p from="1911-06-07" to="1943-07-28">Anstalt: 07.06.1911-28.07.1943</p>
+<p from="1911-06-07" to="1943-07-28">Brieftypen: pp, po</p>
+</state>
+<trait><p>Schizophrenie (1911, 1922)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um ein "anständiges" Paket zu Weihnachten; möchte wieder heim, da er wieder gesund sei
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="gut4882h03a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="gut4882h03b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline>Gütersloh den 10.12.1922.</dateline>
+<salute>Meine Liebe ._.<lb break="yes"/>Mutter!</salute>
+</opener>
+<p>Ich kann dir<lb break="yes"/>Mitteilen das<lb break="yes"/>es Gott,
+                dem,<lb break="yes"/>Allmächtiegen<lb break="yes"/>Gefallen hatt.<lb break="yes"/>Mir noch mal<del>h</del><lb break="yes"/>meine 5. Seine.+.<lb break="yes"/>Wunder Gegeben<lb break="yes"/>Wo ich Ihn später<lb break="yes"/><hi rendition="#r"><add>bitte wenden.</add></hi></p>
+<p>
+<add hand="arzt"><hi rendition="#i">Ungeeignet, im Erre<lb break="no"/>gungszustand ge<lb break="no"/>schrieben,<lb break="yes"/>z.
+                        Krankenblatt</hi>. 11/12 22.</add></p>
+<p>An<lb break="yes"/>Frau Witw. <hi rendition="#i"><surname>H.</surname></hi><lb break="yes"/>Willa Sommenst G. Einschlingen<lb break="yes"/><hi rendition="#i"><placeName>Qeulle</placeName> N<hi rendition="#sup"><hi rendition="#u">o</hi></hi></hi> 33.<lb break="yes"/><add>G.</add>
+<hi rendition="#i">Brackwede</hi>. In der das 3.<lb break="yes"/>Kaiserturmes. <pb facs="#image_006"/>Dankbar für sein will. Liebes<lb break="yes"/>Mutty. Du
+                weist doch, das es<lb break="yes"/>balde Weinachten ist, und :+:<lb break="yes"/>da hätte ich gerne ein an<lb break="no"/>ständieges Pake vom dir,<lb break="yes"/>kannst zu Onkel sagen<lb break="yes"/>das ich <hi rendition="#u" style="arzt">balde <w>wieder<lb break="yes"/>Hergestellt</w> bin, und er möchte</hi><lb break="yes"/>mich balde <hi rendition="#u" style="arzt"><w>Wieder</w><w>holen</w></hi><lb break="yes"/>und Ihm Sagen, das ich alz<lb break="yes"/><hi rendition="#u" style="arzt">Scharfrichter von
+                Landon oder<lb break="yes"/>Lord Georg::"</hi> Vergessene<lb break="yes"/>hätte
+                    <add>und</add>;._. wir wollten ferner<lb break="yes"/>die besten Freunde werden<lb break="yes"/><hi rendition="#u" style="arzt">im Duutschen Reichstage. Einen<lb break="yes"/>schönen Gruß
+                von Mister <unclear>Ünne</unclear><lb break="yes"/>und die <unclear>Z.</unclear> Areständtin bei Dr. Schmidt.<lb break="yes"/>in Güters<del>h</del>loh. denn die Königin ist meine<lb break="yes"/>beste Freundin</hi> hier in Engeland. <unclear>Einaz</unclear><lb break="yes"/>geunau aus den Harz ist auch</p>
+<p><add place="margin">alz deutsche rose Franz Schwester. <seg ana="#salute">die besten Grüse</seg> <seg ana="#signed">dein Sohn</seg> <hi rendition="#i">Heinrick</hi></add>
+</p>
+</body>
+</text>
+</TEI>

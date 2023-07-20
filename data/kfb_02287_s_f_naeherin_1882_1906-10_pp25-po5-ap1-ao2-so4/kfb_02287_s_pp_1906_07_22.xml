@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2287s08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Lichtenau</repository>
+<collection>Patientenakten</collection>
+<idno>2287</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josefine/Josephine <surname>S.</surname></persName>
+<date type="sent">22.07.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: Max <surname>S.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2287s">
+<persName>
+<forename>Josefine/Josephine</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1882"/>
+<death cert="unknown"/>
+<occupation>Näherin, Buchhalterin</occupation>
+<residence><geo decls="#WGS">47.9316785 10.4213798</geo>Wineden, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Gutsbesitzer, Söldner und Krämer</p>
+<p from="1906" to="1910">Anstalt: 1906-10</p>
+<p from="1906" to="1910">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Manisch-depressives Irresein (1908)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patientin möchte wieder nach Ursberg.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2287s08a.jpg" xml:id="image_024"/>
+<graphic mimeType="image/jpg" url="kfb2287s08b.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb2287s08c.jpg" xml:id="image_026"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren</hi> d. 22<lb break="yes"/>Juli 1906</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#u"><hi rendition="#i">Lieber
+                                Vater!</hi></hi></hi></salute>
+</opener>
+<p><space/> Mit schon langer erwart<lb break="no"/>ung auf Ihnen,
+                    habe ich noch<lb break="yes"/>keine Antwort, seit doch so<lb break="yes"/>gut
+                    u laßet mich wieder nach<lb break="yes"/>Ursberg, ich bitte Ihnen macht<lb break="yes"/>doch Wege daß ich wieder nach<lb break="yes"/>Ursberg kann
+                    den̄ hier hat es<lb break="yes"/>für mich doch keinen Wert.<lb break="yes"/>Die Erwürdige <hi rendition="#i">M</hi>utter hat mir<lb break="yes"/>versprochen ich darf ganz be<lb break="no"/>stimt wieder
+                    kom̄en was<lb break="yes"/>ist es sonst für mich als wieder
+                <pb facs="#image_025"/>nach Ursberg zu gehen u zu<lb break="yes"/>bleiben. </p><p>Ich bitte Ihnen lb. Vater seit<lb break="yes"/>doch
+                    so gut u laßet mich wieder<lb break="yes"/>hinab nach Ursberg.<lb break="yes"/>Wohl gb. <hi rendition="#i">Herr</hi> Direktor<lb break="yes"/>hat schon vor 4
+                    Wochen versprochen<lb break="yes"/>daß ich wieder nach Ursberg kan̄
+
+            </p>
+<p><seg ana="#salute"><hi rendition="#r">Viele Dankbare Grüße sendet<lb break="yes"/>Ihnen</hi>
+<seg ana="#signed">Ihre<lb break="yes"/>Tochter <hi rendition="#i">Josephine
+                                <surname>S.</surname>.</hi></seg></seg></p>
+<pb facs="#image_026"/>
+<p><hi rendition="#u">Abs <hi rendition="#i"><surname>S.</surname></hi>
+<hi rendition="#i">Kaufbeuren.</hi></hi>
+</p>
+<p><hi rendition="#r"><hi rendition="#i">Herrn <hi rendition="#u">Max
+                                <surname>S.</surname></hi></hi><lb break="yes"/><hi rendition="#u"><hi rendition="#i">Blumenried</hi></hi><lb break="yes"/>Post Ronsberg.<lb break="yes"/>St. <hi rendition="#u">Günzach.</hi></hi></p>
+</body>
+</text>
+</TEI>

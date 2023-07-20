@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb343r03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>343</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>R.</surname></persName>
+<date type="sent">10.04.1861</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb343r">
+<persName>
+<forename>Johanna</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1871"/>
+<occupation>Professorstochter</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Professor</p>
+<p from="1860" to="1871">Anstalt: 1860-71</p>
+<p from="1860" to="1871">Brieftypen: pp, po</p>
+</state>
+<trait><p>Fixer Wahnsinn (1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    verweigert es zu sprechen, außer vor Hr. Pfarrer; möchte ansonsten Französisch üben, lesen oder stricken
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb343r03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb343r03b.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline/>
+<salute>Hochverehrtester Herr Direktor!</salute>
+</opener>
+<p>Da Offenheit die erste aller Tugenden<lb break="yes"/>ist, so theile ich Ihnen
+                mit, daß ich<lb break="yes"/>entweder in Irsee gar <hi rendition="#u">Nichts</hi><lb break="yes"/>mehr sage, oder nur ganz<lb break="yes"/><hi rendition="#u">Unbedeutendes</hi>, wen̄ Sie mich<lb break="yes"/>nicht in Beiseyn des
+                Herrn<lb break="yes"/>Pfarrers <surname>Z.</surname> darum fragen.<lb break="yes"/><hi rendition="#u">Jede</hi> Frage, die Sie in <hi rendition="#u">seiner</hi><lb break="yes"/>Gegenwart an mich richten, <hi rendition="#u">jeden</hi><lb break="yes"/>Wunsch, den Sie <hi rendition="#u">vor</hi>
+<hi rendition="#u">ihm</hi> gegen<lb break="yes"/>mich <w>aus sprechen</w>, will ich gerne<lb break="yes"/>erfüllen, <add place="above">und beantworten,</add> den ausgenommen,<lb break="yes"/>daß ich mich in seiner
+                    Abwesen<lb break="no"/>heit über Etwas aussprechen<lb break="yes"/>soll. Herr
+                Pfarrer <surname>Z.</surname> ist<lb break="yes"/>mein Seelsorger; der Herr<lb break="yes"/>Kaplan geht mich nichts an. − −<lb break="yes"/>Verzeihen Sie mir, daß ich nicht<lb break="yes"/>gern nähe; die Rückenschmer<lb break="no"/>zen, die mir langes Sitzen<lb break="yes"/>verursacht, sind gar so
+                peinlich. <pb facs="#image_007"/>Erlauben Sie mir gütigst, daß ich<lb break="yes"/>mich im Französischen übe, und<lb break="yes"/>lese' oder stricke'. Wir machen,<lb break="yes"/>wie Sie Selbst wissen werden,<lb break="yes"/>wenig Bewegung,
+                weßhalb ich gern<lb break="yes"/>im Haus herumgehe. <hi rendition="#u" style="arzt">Haben Sie<lb break="yes"/>den Befehl mich in politischer Be<lb break="no"/>ziehung um Manches zu befra<lb break="no"/>gen</hi>, so bemühen
+                Sie Sich mit<lb break="yes"/>Herrn Doktor Julius zu mir<lb break="yes"/>herauf,
+                wen̄ der' Herr Pfarrer<lb break="yes"/>da ist; außerdem antworte ich<lb break="yes"/>auf nichts mehr. − Was würden Ihnen<lb break="yes"/>auch
+                durch Strafen erpresste<lb break="yes"/>Antworten nützen, ? die hätten<lb break="yes"/>doch keinen <hi rendition="#u">Werth</hi>. Bedenken<lb break="yes"/>Sie Sich darüber, und zweifeln<lb break="yes"/>Sie nicht an der
+                    <hi rendition="#u">Festigkeit</hi> meines<lb break="yes"/><hi rendition="#u">Entschlusses</hi>! Hochachtungsvollst<lb break="yes"/><hi rendition="#c">Euch Hochwohlgeboren!</hi><lb break="yes"/><hi rendition="#r">ergebenste<lb break="yes"/>Johan̄a
+                        <surname>R.</surname>.</hi></p>
+<p><seg ana="#metaling">Leider hatte ich kein<lb break="yes"/>schöneres Papier Ihnen<lb break="yes"/>darauf
+                zu schreiben.</seg><lb break="yes"/>Irsee, den 10 April 1861. </p>
+</body>
+</text>
+</TEI>

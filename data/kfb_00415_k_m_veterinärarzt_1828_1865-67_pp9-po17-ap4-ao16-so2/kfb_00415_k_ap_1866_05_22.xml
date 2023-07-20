@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k39" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johannes <surname>R.</surname></persName>
+<date type="sent">22.05.1866</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freund: Xaver <surname>K.</surname></persName>
+<settlement type="sent">Weissenhorn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1865" to="1867">Anstalt: 1865-67</p>
+<p from="1865" to="1867">Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="freund"/>
+<handNote medium="pencil_blue" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er distanziert sich von den Problemen des Patienten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k39a.jpg" xml:id="image_081"/>
+<graphic mimeType="image/jpg" url="kfb415k39b.jpg" xml:id="image_082"/>
+<graphic mimeType="image/jpg" url="kfb415k39c.jpg" xml:id="image_083"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_081"/>
+<opener>
+<dateline><hi rendition="#r">Weissenhorn d. 22 <hi rendition="#i">Mai</hi>
+                        1866.</hi></dateline>
+<salute><hi rendition="#c">Lieber Herr <surname>K.</surname>!</hi></salute>
+</opener>
+<p>Ich bin noch im̄er hier, u. werde<lb break="yes"/>noch mehrere Wochen in
+                Weissenhorn<lb break="yes"/>bleiben. Ich kan̄ also wegen<lb break="yes"/>ihrem bedienten <surname>N.</surname><lb break="yes"/>nichts thun. Überhaupt wird sich mit<lb break="yes"/>diesem nicht
+                viel mehr machen lassen,<lb break="yes"/>weil Sie sich mit ihm bereits abge<lb break="no"/>funden, u. in Gegenwart des<lb break="yes"/>Wachmeister <hi rendition="#i"><surname>O.</surname></hi> erklärt haben<lb break="yes"/>sich
+                mit f 15,- zu begnügen.<lb break="yes"/>Wen̄ Sie mit
+                    <surname>N.</surname> noch<lb break="yes"/>einmal verkehren wollen,
+                so<lb break="yes"/>wenden Sie sich nur an <surname><hi rendition="#i">O.</hi></surname>, ich<lb break="yes"/>kan̄ u. will in dieser Sache
+                nichts<lb break="yes"/>mehr zu thun haben. Auch wegen<lb break="yes"/>den
+                Reitstiefeln wollen Sie di<lb break="no"/>rekt an <surname><hi rendition="#i">O.</hi></surname> schreiben u. dem<lb break="no"/>selben für diesen Fall
+                erklären<lb break="yes"/>daß ich die Zahlung leiste.<lb break="yes"/>Aber ich
+                meine Sie hätten vor<lb break="yes"/>der Hand keinen Mangel an<lb break="yes"/>Stiefel u. an Sporn, u. kön̄ten<lb break="yes"/>ihr Geld vielleicht besser
+                verwenden.</p>
+<pb facs="#image_082"/>
+<p>Dem Herrn Auditor <surname>B.</surname> in Passau<lb break="yes"/>werden Sie hoffentlich geschrieben<lb break="yes"/>haben. Wen̄ nicht, so
+                thun Sie es<lb break="yes"/>lieber heute noch als erst mor<lb break="no"/>gen,
+                den̄ <surname>B.</surname> hat nobel gehan<lb break="no"/>delt.<lb break="yes"/><space/> Die letzten Briefe an Herele<lb break="yes"/>u. mich
+                haben Sie falsch addressirt.<lb break="yes"/>Ich habe Hereles, u. derselbe<lb break="yes"/>hat meinen Brief erhalten.<lb break="yes"/><seg ana="#salute">Herzliche Grüsse von mir, meiner<lb break="yes"/>Frau &amp; der Familie
+                            <surname>K.</surname>. </seg><lb break="yes"/><hi rendition="#r">Mit aller Freundschaft<lb break="yes"/>Ihr
+                    ergebenster<lb break="yes"/><hi rendition="#i"><seg ana="#signed">Johannes
+                                    <surname><hi rendition="#u">R.</hi></surname></seg></hi></hi></p>
+<pb facs="#image_083"/>
+<p><hi rendition="#r">T. Herrn<lb break="yes"/><hi rendition="#i">Xaver
+                            <surname>K.</surname></hi><lb break="yes"/>Unterveterinärarzt beim <hi rendition="#i"><unclear/></hi></hi><lb break="no"/><hi rendition="#c">Regimente in</hi><lb break="yes"/><add>in <hi rendition="#u">Irrsee </hi></add><hi rendition="#r"><hi rendition="#i"><hi rendition="#u"><del>Landshut.</del></hi></hi></hi><lb break="yes"/><add place="margin"><hi rendition="#u">frei</hi>.</add><lb break="yes"/><add hand="hand2">3</add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2938s02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2938</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Alois <surname>S.</surname></persName>
+<date type="sent">30.01.1922-27</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Pfarrer <surname>P.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2938s">
+<persName>
+<forename>Alois</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1870"/>
+<death when="1927"/>
+<occupation>Taglöhner</occupation>
+<residence><geo decls="#WGS">47.8713286 10.6020953</geo>Oberbeuren, Kaufbeuren</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater: Pfründner</p>
+<p from="1922" to="1927">Anstalt: 1922-27</p>
+<p from="1922" to="1927">Brieftypen: pp, po, Lebenslauf</p>
+</state>
+<trait><p>zyklisch: Schwermut, Depression / Erregung (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Pat. bittet um Zigaretten und Hausschuhe
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2938s02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb2938s02b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline>Heilanstalt Kaufbeuren 31. I</dateline>
+<salute><hi rendition="#c">Meine Liben!</hi></salute>
+</opener>
+<p>Ich bin jetzt, hir wo ich schon<lb break="yes"/>Lange hin gehörte hätte<lb break="yes"/>Geht mir bis dato gut<lb break="yes"/>Essen gut Schlafen gut<lb break="yes"/>Nur nicht ich meine<lb break="yes"/>Hausschuhe v Hans u täglich<lb break="yes"/>2 - 3 Cigaretten u s. w.<lb break="yes"/>sei so gut u besuche
+                mich<lb break="yes"/>am Dinstag d 30 I Januar<lb break="yes"/>u bringe mir
+                gewüschtes<lb break="yes"/><seg ana="#salute">Grus u Dank im Voraus</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Alois
+                            <surname>S.</surname><lb break="yes"/>Oberbeuren 55.<lb break="yes"/>Kaufbeuren</seg></hi><lb break="yes"/>Bringe mir auch was<lb break="yes"/>auf der Post eingelaufen<lb break="yes"/>ist sowie Cigaretten<lb break="yes"/><hi rendition="#r">u etwas
+                    Geld</hi><pb facs="#image_006"/> An Hern <unclear>Fridlich</unclear>
+<surname>H.</surname><lb break="yes"/>Oberbeuren 55<lb break="yes"/>Bin jetz hir wo du<lb break="yes"/>mich schon lange woltetst<lb break="yes"/>Es gehte mir gut hab<lb break="yes"/>jetz mein Ruhe u s. w<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Gruß</seg> besuhe mich auch<lb break="yes"/>noh <seg ana="#signed">Alois
+                                <surname><hi rendition="#i">S.</hi></surname> z h
+                    hir</seg></hi></p> <p>An Her Her Hohwürden hern<lb break="yes"/>Pfarer <surname>P.</surname> Oberbeuren<lb break="yes"/>Ersuche sie frendlich mih<lb break="yes"/>doh
+                    mal zu besuchen u<lb break="yes"/>mir etlihe Cigaretten<lb break="yes"/>zu bring Es geht mir gut<lb break="yes"/>hir <seg ana="#salute">Grus u Dank im voraus </seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Ir Nachbar Aloi <surname><hi rendition="#i">S.</hi></surname></seg></hi></p>
+</body>
+</text>
+</TEI>

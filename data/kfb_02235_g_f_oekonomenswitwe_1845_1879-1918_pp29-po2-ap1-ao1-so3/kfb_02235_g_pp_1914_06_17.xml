@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2235g27" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2235</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Regina <surname>G.</surname></persName>
+<date type="sent">17.06.1914</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Kinder Josefa und Rupert <surname>G.</surname> und Bruder Georg <surname>O.</surname> </persName>
+<settlement type="sent"/>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2235g">
+<persName>
+<forename>Regina</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1918"/>
+<occupation>Ökonomenswitwe</occupation>
+<residence><geo decls="#WGS">47.582117800000006 9.728007926245988</geo>Weißenberg, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Bauersleute, "ziemlich gut situiert"</p>
+<p from="1879" to="1918">Anstalt: 1879-1918</p>
+<p from="1879" to="1918">Brieftypen: pp</p>
+</state>
+<trait><p>Gehörs- und Gesichtshallucinationen (1886), wahnhafte Ideen (1904)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Antwort und Abholung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2235g27a.jpg" xml:id="image_048"/>
+<graphic mimeType="image/jpg" url="kfb2235g27b.jpg" xml:id="image_049"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_048"/>
+<opener>
+<dateline>Irse den 17 Juni 1914</dateline>
+<salute>Liben Kinder Liber Bruder Georg</salute>
+</opener>
+<p>Das wir anfangen kön̄en jetzt<lb break="yes"/>hat man Futter und Sreue das<lb break="yes"/>Vieh in Stall kom̄t durch ihn ist<lb break="yes"/>alles
+                in seiner Hand ist alles gelegt,<lb break="yes"/>Wir Arbeiten für uns selber es<lb break="yes"/>soll ihn zu Niderträchtig sein<lb break="yes"/>ihm Feides Land
+                Leben mehr<lb break="yes"/>als eine Markt verseumen<lb break="yes"/>hir kostet so
+                lange behaltet man<lb break="yes"/>einand die Prüfung gemacht ist<lb break="yes"/>alle Kosten fallen fort den Gang<lb break="yes"/>selber thun seiner Kirche in<lb break="yes"/>Weissensberg ihren Dank selbe<lb break="yes"/>bringen Nutz
+                anwedung<lb break="yes"/>anerkenung das nur Ar<unclear reason="damage"/>
+</p>
+<pb facs="#image_049"/>
+<p>Bitte eine baldige Antwort nicht<lb break="yes"/>so lange ohne Hilfe lassen die<lb break="yes"/>Män̄er schiken die mich gebracht haben<lb break="yes"/>die
+                Eignen Leute gehen kön̄en<lb break="yes"/>beide oder alle Drei mit einander<lb break="yes"/>kom̄en. Die Tochter Josefa hat es mir<lb break="yes"/>versprochen ich kom̄ selber mih zu holen<lb break="yes"/>Wort halten das
+                ihr mich selber<lb break="yes"/>holen kön̄en ausgehart ausgelitten<lb break="yes"/>hier feierabend ist Ruhe ist des Bürgesrech<lb break="yes"/>Obrigkeit gibt Landgericht Lindau<lb break="yes"/>Stift Wirth Herzog Einziehen<lb break="yes"/>näher beieinander sind für<lb break="yes"/>sein Amt liebt
+                Kaisers Zins <unclear reason="damage">Mü</unclear><lb break="yes"/>Mütze alles bezahlt wirt jede<lb break="yes"/>Bahwächter hat ein
+                schön̄<unclear/><lb break="yes"/>Leben die Freiheit muß <unclear reason="damage">h??</unclear><lb break="yes"/>die Erlößung kom̄t den<lb break="yes"/><unclear reason="damage">?gen sein</unclear></p>
+</body>
+</text>
+</TEI>

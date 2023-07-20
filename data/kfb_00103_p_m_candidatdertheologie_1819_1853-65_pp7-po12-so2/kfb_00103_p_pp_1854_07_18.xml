@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb103p06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>103</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kaspar <surname>P.</surname></persName>
+<date type="sent">18.07.1854</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: Anna <surname>P.</surname></persName>
+<settlement type="sent">Irrsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb103p">
+<persName>
+<forename>Kaspar</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1819"/>
+<death cert="unknown"/>
+<occupation>Candidat der Theologie</occupation>
+<residence><geo decls="#WGS">47.91185173928039 11.592666592515377</geo>Berg, Wolfratshausen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Bauern</p>
+<p from="1853" to="1865">Anstalt: 1853-65</p>
+<p from="1853" to="1865">Brieftypen: po, pp, so, ao</p>
+</state>
+<trait><p>Geistesstörung, Ruhelosigkeit (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Da sich der Patient schon über ein Jahr in der Anstalt befindet, bittet er seine Mutter um Hilfe bei seiner Entlassung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb103p06a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="kfb103p06b.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#r">Irrsee den 18<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Juli 1854.</hi><lb break="yes"/>G.s.J.G.u.<unclear>M.</unclear></dateline>
+<salute><hi rendition="#c">Liebe Mutter!</hi></salute>
+</opener>
+<p>Über ein Jahr und ein Monat wohne ich hoch<lb break="yes"/>über der Meeresfläche
+                nahe am Gebirge des sogenan̄ten Al<lb break="no"/>geues in einem Hause, das
+                vor 1802, groß und bedeutungs<lb break="no"/>voll, wie etwa Benediktbeuren, von den
+                Söhnen des hl.<lb break="yes"/>Vaters Benediktus bewohnt und beherrscht war.
+                Bereits über<lb break="yes"/>ein Jahr und ein Monat also! die Probe einer so langen
+                Zeit<lb break="yes"/>dürfte, glaube ich, zu Jederman̄s gewünschten
+                Überzeugungen<lb break="yes"/>über mich und meine Zu- und Umstände geführt haben.
+                Darum<lb break="yes"/>lasse man mich jetzt nun, da man es bis heute nicht zuließ,
+                frei!<lb break="yes"/>Die Direktion läßt sich noch nichts anmerken, mich frei zu
+                geben:<lb break="yes"/>vielleicht solltet du für meine Befreiung etwas thun!<lb break="yes"/>die hiesigen Hausgesetze sagen mir, daß die Angehörigen Einen<lb break="yes"/>von hier fort abholen kön̄en. Darum stelle Versuche an,<lb break="yes"/>mich aus dieser Lage zu bringen, damit ich
+                endlich einmal wie<lb break="no"/>der meinem Beruf nachgehen kan̄.<lb break="yes"/><space/> Unsere Sache dem lieben Gott empfohlen; seit so gut, thu'!<lb break="yes"/>mach!, was zu machen ist! und gib' mir sodan̄ darüber
+                Bericht!<lb break="yes"/><hi rendition="#c">Dein</hi><lb break="yes"/><hi rendition="#r">aufrichtiger, dankbarer Sohn<lb break="yes"/><seg ana="#signed">Kaspar <surname>P.</surname></seg><lb break="yes"/><hi rendition="#i">Candidat.</hi></hi>
+</p>
+<pb facs="#image_014"/>
+<p><hi rendition="#c">An</hi><lb break="yes"/>Wittwe, Anna <surname>P.</surname><lb break="yes"/>Bäurin von Berg<lb break="yes"/><hi rendition="#c">bei</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u"><hi rendition="#i">Koenigsdorf.</hi></hi><lb break="yes"/>Landg. Wolfratshausen.<lb break="yes"/>Kr. Oberbaiern./ </hi>
+</p>
+</body>
+</text>
+</TEI>

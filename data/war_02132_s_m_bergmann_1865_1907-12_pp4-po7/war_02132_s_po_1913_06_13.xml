@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="war2132s08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 660: Warstein</collection>
+<idno>2132 (K. 670)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Paul <surname>S.</surname></persName>
+<date type="sent">13.06.1913</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>P.</surname></persName>
+<settlement type="sent">Herringen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="war2132s">
+<persName>
+<forename>Paul</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1865-08-04"/>
+<death cert="unknown"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">51.6804093 7.815197</geo>Geburtsort: Klein-Dombrokwa; Wohnort: Hamm</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verwitwet</p>
+<p from="" to="">Eltern: Vater: Bergmann, Mutter: k.A.</p>
+<p from="1907-10-25" to="1921-11-30">Anstalt: 25.10.1907-09.04.1912; 14.10.1913-30.11.1921</p>
+<p from="1907-10-25" to="1921-11-30">Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1907)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon_green" scope="minor" scribe="hand2"/>
+<handNote medium="crayon_blue" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber hält den Arzt für einen Schurken, der ihn um seine Heirat und sein Geld betrogen hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="war2132s08.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_018"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Herringen</hi> d. 16 Juni
+                        1913.</hi></dateline>
+<salute>Geehrter Herr <surname><hi rendition="#i">P.</hi></surname>!</salute>
+</opener>
+<p><hi rendition="#c"><add hand="hand2">Conf.</add></hi> <hi rendition="#r"><add hand="hand3">X 65</add></hi></p>
+<p>Was hat Dr. <hi rendition="#i">Simon</hi> mit seinem <w>Größen<lb break="no"/>wahn</w> erreicht. Er hat mich um die<lb break="yes"/>Heirat und die Steuer
+                und <w>Knappschafts<lb break="no"/>kasse</w> ums Geld betrogen. Sind diese<lb break="yes"/>Vorwürfe ungerecht, warum klagt<lb break="yes"/>er nicht. Ich
+                erbringe den Beweis, das<lb break="yes"/>er ein größerer Schurke ist wie
+                        <surname><hi rendition="#i">O.</hi></surname><lb break="yes"/>u. <surname><hi rendition="#i">R.</hi></surname>. Hunderte
+                von Menschen<lb break="yes"/>sind auf die Schurkerei dieses Mannes<lb break="yes"/>angewiesen sie finden kein Recht<lb break="yes"/>weil er mit der Polizei und der<lb break="yes"/>Staatsanwaltschaft unter einer Decke<lb break="yes"/>liegt.
+                Die Postkarten die Dr. <hi rendition="#i">Simon</hi><lb break="yes"/>u. <hi rendition="#i">Hegemann</hi> von mir erhält erregen<lb break="yes"/>hier Aufsehen u. mancher ist gespant<lb break="yes"/>wie die Sache
+                enden wird.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Mit Gruß</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Paul </hi><surname><hi rendition="#i">S.</hi></surname></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

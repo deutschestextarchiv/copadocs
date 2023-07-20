@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1669w02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1669</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Philippina ("Lina") <surname>H.</surname></persName>
+<date type="sent">21.05.1899</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Lindau</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1669w">
+<persName>
+<forename>Babette</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1840"/>
+<death when="1911"/>
+<occupation>Spitalpfründnerin</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Tuchscherer</p>
+<p from="1898" to="1911">Anstalt: 1898-1911</p>
+<p from="1898" to="1911">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Idiotie (1899), [Wahnideen, Halluzinationen]</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erkundigt sich nach dem Zustand ihrer Schwester. 
+                    Laut der Notiz des Arztes sei diese teilweise unruhig und spreche mit sich selbst.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1669w02.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r">Lindau den 21 <hi rendition="#i">Mai</hi>
+                    1899</hi></dateline>
+<salute><hi rendition="#c">Direktion der Krankenanstalt<lb break="yes"/></hi><hi rendition="#r">Kaufb<del>ä</del>euren!</hi></salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#r"><hi rendition="#i">prs</hi>. 22.
+                            <unclear><hi rendition="#i">V.</hi></unclear><space/> 〃 −</hi></add></p>
+<p>Ersuche höflich um Mittheilung<lb break="yes"/>über das Befinden meiner<lb break="yes"/>Schwester Babette <surname>W.</surname> von Lindau.</p><p>Empfangen Sie im <w>vor aus</w> meinen<lb break="yes"/>verbindlichsten Dank.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Mit alles Hochachtung</seg></hi> </p><p><hi rendition="#c">Frau <seg ana="#signed">Philippina <surname>H.</surname></seg><lb break="yes"/>Paradies C 99.</hi></p><p><add hand="arzt"><hi rendition="#i">R</hi><unclear><hi rendition="#i">sp.</hi></unclear> 23/5
+                        −<lb break="yes"/>Befinden seit letzter Nachricht unver<lb break="no"/>ändert Zuweilen unruhig, u. viel<lb break="yes"/>mit sich sprechend. körperl.
+                    wohl.<lb break="yes"/><hi rendition="#r">dZ.</hi><lb break="yes"/></add></p>
+</body>
+</text>
+</TEI>

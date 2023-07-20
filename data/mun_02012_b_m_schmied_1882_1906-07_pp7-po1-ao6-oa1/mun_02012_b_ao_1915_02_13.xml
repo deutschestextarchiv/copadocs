@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2012b15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2012 (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>B.</surname></persName>
+<date type="sent">13.02.1915</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Anstalt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Oelde</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun2012b">
+<persName>
+<forename>Franz</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1882-04-22"/>
+<death cert="unknown"/>
+<occupation>Schmied</occupation>
+<residence><geo decls="#WGS">51.8260823 8.1453352</geo>Geburtsort: Oelde; Wohnort: Oelde</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Schmiedemeister, Mutter: n.a.</p>
+<p from="1906-07-16" to="1907-02-10">Anstalt: 16.07.1906-10.02.1907</p>
+<p from="1906-07-16" to="1907-02-10">Brieftypen: pp, po, ao, oa</p>
+</state>
+<trait><p>Geisteskrankheit (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Vater bittet um eine Bestätigung für die Militärbehöre, dass sein Sohn als gebessert und nicht als geheilt entlassen wurde.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2012b15.jpg" xml:id="image_032"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_032"/>
+<opener>
+<dateline><add hand="vordruck">Franz <surname>B.</surname><lb break="yes"/>Oelde i. W.<lb break="yes"/>Schmiede, Schlosserei<lb break="yes"/>und<lb break="yes"/>Eisenwaren-Handlung<lb break="yes"/><hi rendition="#r">Oelde, den</hi></add><hi rendition="#r"> 13 <hi rendition="#i">Febr</hi>. <add hand="vordruck">19</add>15.</hi></dateline>
+<salute><space/> An<lb break="yes"/><space/> die Provinzial-Heilanstalt<lb break="yes"/><space/> "<hi rendition="#i">Marienthal</hi>"<lb break="yes"/><hi rendition="#i"><hi rendition="#u"><hi rendition="#c">Münster</hi></hi></hi></salute>
+</opener>
+<p>Mein Sohn Franz geb. am 22/4 1884 ist<lb break="yes"/>gegen 1906/<hi rendition="#sub">7</hi> in der dortigen An<lb break="no"/>stalt untergebracht
+                gewesen. Er<lb break="yes"/>hat die Anstalt derzeit nicht als<lb break="yes"/>geheilt, sondern nur als gebessert<lb break="yes"/>verlassen. </p><p>Ich möchte ergebenst bitten, mir<lb break="yes"/>darüber nach Ihren Akten eine Be<lb break="no"/>scheinigung auszustellen.<lb break="yes"/>Da ich dieselbe der Militärbehörde<lb break="yes"/>vorlegen muß, so bitte ich um<lb break="yes"/><hi rendition="#u">tunlichste Beschleunigung,</hi><lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll!</seg><lb break="yes"/><seg ana="#signed">Franz <surname><hi rendition="#i">B.</hi></surname></seg><lb break="yes"/>Schmiedemeister.</hi>
+</p>
+</body>
+</text>
+</TEI>

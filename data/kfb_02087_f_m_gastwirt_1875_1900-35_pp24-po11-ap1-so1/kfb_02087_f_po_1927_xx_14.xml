@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2087f35" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2087</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>F.</surname></persName>
+<date type="sent">14.xx.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Andr <surname>H.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2087f">
+<persName>
+<forename>Ludwig</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1935"/>
+<occupation>Gastwirt, Landwirt</occupation>
+<residence><geo decls="#WGS">47.6283377 9.9102676</geo>Heimenkirch, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Gastwirt</p>
+<p from="1900" to="1935">Anstalt: 1900-1935</p>
+<p from="1900" to="1935">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Manie (1930), Ideenflucht, Größenwahn (1900-35), Halluzination (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er kündigt eine "Umwälzung" an und einen neuen König.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2087f35a.jpg" xml:id="image_100"/>
+<graphic mimeType="image/jpg" url="kfb2087f35b.jpg" xml:id="image_101"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_100"/>
+<opener>
+<dateline><hi rendition="#i">Kaufbeuern 14 1927.</hi></dateline>
+<salute><hi rendition="#i"><hi rendition="#u">Sehr geschätzter Herr<lb break="yes"/><foreign xml:lang="frz">Mon cher Amie</foreign>! </hi></hi></salute>
+</opener>
+<p><hi rendition="#r"><hi rendition="#i"><hi rendition="#u"><foreign xml:lang="lat">Ultimatum</foreign>!</hi></hi>
+</hi><lb break="yes"/>Bitte inerhalb <hi rendition="#u">24</hi> St.<lb break="yes"/>die Pfal<hi rendition="#i">z</hi> von Besatzung<lb break="yes"/>zu räumen da wir<lb break="yes"/>Großen Umwälzungen<lb break="yes"/>entgegensehen −<lb break="yes"/>In kürzester Zeit werden<lb break="yes"/>wir Gewalt andwenden.<lb break="yes"/>Den <hi rendition="#i">Vertrg</hi> v. <hi rendition="#i">Versailles</hi><lb break="yes"/>bez. <hi rendition="#i">Krieg Schuld Lüge</hi><lb break="yes"/>ebenso. Dies ist der zukünf<lb break="no"/>tige
+                König ein <hi rendition="#i">Sohn Ludwig II</hi><lb break="yes"/>Die Stimmung im Volk ist für<lb break="yes"/>diese Sache reif.
+                Übrlegegt Euch die <add place="below"><hi rendition="#u">Sache</hi>.</add></p>
+<pb facs="#image_101"/>
+<p>Wir können <hi rendition="#i"><hi rendition="#u">Freunde</hi></hi><lb break="yes"/>werden. Oder auch nicht.<lb break="yes"/><hi rendition="#i">Conseq</hi>uenzen sind<lb break="yes"/>von nicht abzusehender<lb break="yes"/>Kragenweite. <hi rendition="#i">Rußland<lb break="yes"/>Lenin &amp; Trotzki</hi>
+                werde<lb break="yes"/>ich sprechen war 2 Jahre<lb break="yes"/>dortselbst gefangen
+                &amp; ken̄e<lb break="yes"/>die Verhältniße gründlich<lb break="yes"/>spreche auch Ihre Sprache. −<lb break="yes"/>Unser wrd sein ein<lb break="yes"/><hi rendition="#i"><hi rendition="#u">Mann</hi></hi> wie wir ihn<lb break="yes"/>brauchen ein Bayer ein<lb break="yes"/>gebilded Regent
+                    <unclear>mehrevollen</unclear><lb break="yes"/>wir naht.<lb break="yes"/><hi rendition="#r"><seg ana="#signed">gez. <surname>F.</surname> v. Finkenstein</seg><lb break="yes"/><hi rendition="#i">Bayer</hi>
+<hi rendition="#i">Max III. </hi>Wittelbach</hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Andr
+                            <surname>H.</surname>.</hi></hi></p>
+</body>
+</text>
+</TEI>

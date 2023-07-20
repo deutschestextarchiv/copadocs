@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1728p09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1728</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>P.</surname></persName>
+<date type="sent">16.06.1892</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Weichering</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1728p">
+<persName>
+<forename>Andreas</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1871"/>
+<death when="1904"/>
+<occupation>Maurer und Musiker</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Weichering, Neuburg, Wohnort: München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Wegmacher, Straßenwärter</p>
+<p from="1891" to="1904">Anstalt: 1891-1904</p>
+<p from="1891" to="1904">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Alkoholismus, Halluzinationen (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="vater"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Da er schon lange keine Auskunft mehr über sie erhalten hat, bittet der Schreiber um Nachricht über das Befinden seiner Söhne.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1728p09.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline><hi rendition="#c">Weichering Den 16 t= Juni 1892</hi></dateline>
+<salute><hi rendition="#c">Geehrtesder Herr kgl: Dierekter</hi></salute>
+</opener>
+<p><space/> ich Hofe meine Barr Zeilen werden<lb break="yes"/>Ihner in Bester
+                Gesundheid antrefen,<lb break="yes"/>inden es schon ein Jahr ist, da ich meine<lb break="yes"/>zwei Söhne besucht habe und auch ihrer Bruder<lb break="yes"/>und
+                seidem fon Ihner <w>nichts</w><w>mer</w> erfahren<lb break="yes"/>hab, so Bitte
+                Ihner Sihe mecht mir sobald<lb break="yes"/>wie mäglich in erkändnis sezen wie
+                    ihner<lb break="yes"/>Benem̄en ist ob den gaar keine Beßerrung<lb break="yes"/>verhanden ist, ich Bitte Ihner nochmal sie<lb break="yes"/>mächten
+                niht vergeßen.</p>
+<p><hi rendition="#c"><seg ana="#salute">Achtungsvohl</seg>
+<seg ana="#signed"><surname>P.</surname> Joseph</seg><lb break="yes"/>kgl:
+                        Strassenwärter<lb break="yes"/>in Weichering bei <hi rendition="#i">Neuberg</hi></hi></p>
+</body>
+</text>
+</TEI>

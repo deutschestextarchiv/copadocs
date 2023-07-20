@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>K.</surname></persName>
+<date type="sent">12.06.65.</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Dr. Alois <surname>S.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1865" to="1867">Anstalt: 1865-67</p>
+<p from="1865" to="1867">Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er will eine Waffe.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k13a.jpg" xml:id="image_023"/>
+<graphic mimeType="image/jpg" url="kfb415k13b.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_023"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren</hi> d. 12 <hi rendition="#i">Juny</hi> 65.</hi></dateline>
+<salute><hi rendition="#r">Lieber Hs. <hi rendition="#i">Dr. mid. Alois
+                            <surname>S.</surname>!</hi></hi></salute>
+</opener>
+<p>Ich möchte gerne ein Zwillingsbüchse und<lb break="yes"/>zwar die vom Kagen,
+                weil ich sie kenne;<lb break="yes"/>giebt er sie nicht her um einen annehmbaren<lb break="yes"/>Preis, so möct<del>h</del>e ich fragen was die Ihrige<lb break="yes"/>kostet; auch würde ich dem Zwilling <hi rendition="#i">aquierit</hi><lb break="yes"/>von <unclear><hi rendition="#i">Emmt. Fere</hi></unclear> selig als
+                Andenken, od. der<lb break="yes"/>Genose von Pfarrer <unclear>Hewelen</unclear>;
+                Zwillig mit<lb break="yes"/><unclear/> von Kupferlauf. Schreib Sie<lb break="yes"/>mir binen 6-8 Tag. Credit unbeschrenkt.<lb break="yes"/>Vile
+                    <unclear>serst.</unclear> Grise an Sie und vom freund<lb break="yes"/>in
+                    <unclear>Steirigeden</unclear>. <w>Ich</w><w>werd</w> Euch bald besuchen.<lb break="yes"/>Ich bin
+                glaube ich gar Heurathskanditat.<lb break="yes"/><hi rendition="#r">Ihr dankbarst
+                        Erge<lb break="no"/>benster<lb break="yes"/><surname><hi rendition="#i">K.</hi></surname> k. <hi rendition="#i">Milit. Arzt<lb break="yes"/>4. Chevl Rigimint<lb break="yes"/>Koenig</hi> detechirt in<lb break="yes"/><hi rendition="#i">Kempten</hi> Adreße <hi rendition="#i">Kempten</hi><lb break="yes"/><unclear>Finaer</unclear> u. Nachnahme.</hi><lb break="yes"/><add place="margin">Grus an <hi rendition="#i">Thoma</hi><lb break="yes"/>der <unclear>Hugerbeutl</unclear><lb break="yes"/>Fall soll mir engen<lb break="yes"/>schönen Hirsch<lb break="yes"/>u. ein <hi rendition="#i">Auerhahen</hi><lb break="yes"/>aufheben. Hoeren<lb break="yes"/>gut u.
+                        Ver<unclear>schlegen</unclear><lb break="yes"/><unclear/></add></p>
+<pb facs="#image_024"/>
+<p><hi rendition="#c"><hi rendition="#i">Seiner Wohlgeboren</hi><lb break="yes"/>Herr <hi rendition="#i">D. medin. Alois<lb break="yes"/><surname>S.</surname></hi><lb break="yes"/>prak. Arzt in<lb break="yes"/><unclear/><lb break="yes"/>3 fl<lb break="yes"/><hi rendition="#i">par Serrgan</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l86" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Die Patientin beschwert sich über die Ungleichbehandlung in der Anstalt und spricht Drohungen bei erneuter Briefzensur aus.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l86a.jpg" xml:id="image_228"/>
+<graphic mimeType="image/jpg" url="kfb519l86b.jpg" xml:id="image_229"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_228"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Ich habe Husten mit Auswurf bin sehr matt −<lb break="yes"/>war am 24<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> April im <w>Kindbett
+                    zustand</w> und<lb break="yes"/>bekom̄e außer diesem keines. Mit 40 Jahr
+                kan̄ man<lb break="yes"/>sich ohnedies verhalten Aber in der Anstalt werd
+                ich.<lb break="yes"/>wegen <seg ana="#curse">Euch nichtsnutzige</seg>. Stets
+                schlecht gehalten weil<lb break="yes"/><hi rendition="#c">sich blos an Junge
+                    haltet.</hi></p>
+<p>Weil die Anstalt von Euren <seg ana="#curse">Weibsbildern</seg>
+<hi rendition="#i">re</hi>girt ist<lb break="yes"/>so müßen die Patienten Alles thun
+                was sie haben wollen<lb break="yes"/>u die Ärzte küm̄ern sich nicht um die
+                eigentlich Kranken<lb break="yes"/>sondern blos um die <seg ana="#curse">hurren</seg> mit ledig Kind unten<lb break="yes"/>ud
+                oben u sind deßhalb <hi rendition="#u">nie</hi> zu loben. </p>
+<p>Ein <w>ehren voller</w> Man̄ würde die <surname><unclear>L.</unclear></surname>. u <surname>J.</surname> aus
+                dem<lb break="yes"/>Hause jagen u die <surname>K.</surname> u <surname><unclear>M.</unclear></surname> u <surname>P.</surname>
+                in das<lb break="yes"/>Zuchthaus <hi rendition="#i">reteri</hi>ren anstatt hier <hi rendition="#i">Pla</hi>ttiren</p>
+<pb facs="#image_229"/>
+<p>
+<seg ana="#cens">Wen̄ Sie den folgenden Brief<lb break="yes"/>wieder
+                    unterschlagen<lb break="yes"/>so kom̄en Sie in's Zuchthaus</seg><lb break="yes"/>weil Sie mich nicht laßen<lb break="yes"/>ungeh... hinaus die Sie<lb break="yes"/>mih doch an keinen Man̄<lb break="yes"/>bringen. </p>
+<p>Ich will mir erst Zähne<lb break="yes"/>einsetzen laßen und<lb break="yes"/>beßer
+                    <hi rendition="#i">restaur</hi>iren −</p>
+<p> Daher woanders <hi rendition="#i">log</hi>iren<lb break="yes"/>außerhalb der Anstalt<lb break="yes"/>den̄ inderselben ist<lb break="yes"/>gibt es keinen
+                    <w>Zahn Arzt</w> u<lb break="yes"/>ich habe hinlänglich<lb break="yes"/>dieser
+                unter den Zahn<lb break="yes"/>gefühlt u weiß wo es<lb break="yes"/><hi rendition="#r">fehlt beßer als Ihr mir</hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1720w05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1720</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Barbara <surname>W.</surname></persName>
+<date type="sent">25.04.1896</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direkter: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Roßhaupten</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1720w">
+<persName>
+<forename>Georg</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1917"/>
+<occupation>Ökonomenssohn</occupation>
+<residence><geo decls="#WGS">47.5991939 10.711254276584267</geo>Roßhaupten, Füssen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonom</p>
+<p from="1886" to="1917">Anstalt: 1886-1917</p>
+<p from="1886" to="1917">Brieftypen: pp, po, ap, ao, Notizen</p>
+</state>
+<trait><p>Depression, Halluzination (1888), Manie, Größenideen (1886)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin möchte Auskunft über den Gesunheitszustand ihres Sohnes. Obwohl ihr gesagt wird, er bessere sich, verliert sie die Hoffnung.
+                    Sie möchte wissen, ob er nach seinen Eltern fragt. Sie schickt ihm Socken.
+                    Der Arzt notiert dazu: Der Patient hatte in der letzten Zeit kein Aufregungszustände, spricht aber verwirrt, arbeitet nicht und vernachlässig sein Äußeres.
+                    Körperlich geht es ihm gut, mit einer Besserung seines geistigen Zustandes rechnet der Arzt nicht.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1720w05a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb1720w05b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r">Roshaupten am 25 April 1896</hi></dateline>
+<salute><hi rendition="#c">An Herr Dierektor</hi></salute>
+</opener>
+<p> Iich hätte wohl eime eine<lb break="yes"/>Herzliche Bitte an Sie wiel es<lb break="yes"/>beim Georg <surname>W.</surname> geht ob es im̄er<lb break="yes"/>beim
+                alten ist oder noch schlim̄er<lb break="yes"/>ist ich glaube schon alle
+                    Hoffung<lb break="yes"/>ist verlohren es ist die sagen<lb break="yes"/>er
+                bessere sich glauben kan ichs nichts<lb break="yes"/>ich schük ihm gerade einige
+                    Paar<lb break="yes"/>Shoken fragt er nah Vatter u<lb break="yes"/>Mutter kar
+                nichs <seg ana="#salute">Ich beschliese<lb break="yes"/>mit Gruß Achtungs</seg>
+<seg ana="#signed">Barbara<lb break="yes"/><hi rendition="#r"><surname>W.</surname></hi></seg></p><pb facs="#image_010"/><p>
+<handShift scribe="arzt"/>W. hatte in der letzten Zeit keine<lb break="yes"/><seg ana="#med">Aufregungszustände</seg>, führt aber immer<lb break="yes"/>ganz
+                verworrene Reden, spricht nie<lb break="yes"/>von den Eltern, kümmert sich um<lb break="yes"/>nichts, mag nicht arbeiten, liegt<lb break="yes"/>träg auf den
+                Bänken herum, oft un<lb break="no"/>ordentlich im Anzug. Das körperliche<lb break="yes"/>Befinden ist vorzüglich. Eine Besser<lb break="no"/>ung seines
+                geistigen Zustandes<lb break="yes"/>ist nicht zu erwarten.<lb break="yes"/><hi rendition="#c">27.IV.96. </hi><hi rendition="#r">Dr.
+                    Krehler.</hi></p>
+</body>
+</text>
+</TEI>

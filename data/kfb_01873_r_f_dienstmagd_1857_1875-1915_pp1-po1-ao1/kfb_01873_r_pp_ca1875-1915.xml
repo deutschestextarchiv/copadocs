@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1873r03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1873</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabetha <surname>R.</surname></persName>
+<date type="sent">ca. 1875-1905</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Patenkind: Anna <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1873r">
+<persName>
+<forename>Elisabetha</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1857"/>
+<death when="1915"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">48.0734 10.3118194</geo>Frickenhausen, Memmingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Söldner</p>
+<p from="1875" to="1915">Anstalt: 1875-1915</p>
+<p from="1875" to="1915">Brieftypen: ao, po, pp</p>
+</state>
+<trait><p>Melancholie (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    an Schwester; immer das gleiche Leiden, konnte nicht in Gottesdienst, musste auch bei Fest im Bett bleiben, bittet um Besuch
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1873r03a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb1873r03b.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1873r03c.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#c">Irse den</hi></dateline>
+<salute><space/>Liebe An̄a,</salute>
+</opener>
+<p> Ich will Dir ein gleinnes Briflein Schreiben<lb break="yes"/>wie es bei mir geth ich habe halt
+                im̄er das<lb break="yes"/>gleiche leiden. Schreibe Du
+                mir auch wie es<lb break="yes"/>bei dir get mit deiner gesundheit ich hoffe<lb break="yes"/>der liebe Gott wird dich wieder gesund machen<lb break="yes"/>bei
+                uns ist gestern Gottesdinst gewesen. aberr<lb break="yes"/>ich habet nicht beiwonen
+                ken̄en ich war in dem<lb break="yes"/>Bett. Ich habe gemeint er besuche mich
+                    aber<lb break="yes"/>er ist leider nicht zu mir gekom̄en ich häte<lb break="yes"/>im viles erzält er hat mich sehr beleidigkt<lb break="yes"/>daß
+                er nicht zu mir gekomen ist. Wir haben<lb break="yes"/>noch nicht lange das Fest
+                gehabt da war ich auch<lb break="yes"/>im Bet die bessern Kranken waren beim Schek
+                    von<lb break="yes"/><pb facs="#image_005"/><lb break="yes"/>nachmittags 3 Ur bis Nachts 9 Ur gewäsen
+                    man<lb break="yes"/>hat siben Musekanten gehabt die kranken waren<lb break="yes"/>recht vergnikt. Ich hätte eine sehr große
+                    Fride<lb break="yes"/>wen du mich auch einmal besuchen köntest.<lb break="yes"/>Du hast
+                doch noch eine hofnung daß du wider<lb break="yes"/>in die
+                Heimat kom̄en kanst aber ich habe keine<lb break="yes"/>Weltliche Heimat
+                wieder aber ich verzage noh<lb break="yes"/>nicht der libe Gott wirt mir in di
+                    Ewige<lb break="yes"/>Heimat firen wo k<del>a</del><add>ei</add>n jam̄er
+                u elind u<lb break="yes"/>Kreiz wider ist. Im Him̄ell werde ich<lb break="yes"/>freide haben die fülle wen̄ ich bei meinen<lb break="yes"/>Eltern u Brüder u Schwestern bin u bei so<lb break="yes"/>vile
+                Engel u Auserwälten der gerechte<lb break="yes"/>mus vil leiden aber <add>der</add>
+                Herr hilft im aus dem<lb break="yes"/>allem. Ich habe vil bekömerniß in meinem<lb break="yes"/>Herzen aber Deine Tröstungen ergezen <pb facs="#image_006"/> meine
+                Sele Schreibe du mir auch ob deine<lb break="yes"/>geschwistern gesund sind u deine
+                    Mutter<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Ich schlise mein Schreiben</hi><lb break="yes"/><lb break="yes"/><hi rendition="#r">und verbleibe</hi>
+<seg ana="#signed">deine aufrichtige<lb break="yes"/><lb break="yes"/>Patin Elisabetha <surname>R.</surname></seg>.</seg>
+</p>
+</body>
+</text>
+</TEI>

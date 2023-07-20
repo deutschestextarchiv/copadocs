@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb775v01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>775</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>V.</surname></persName>
+<persName type="addressee">n.a.</persName>
+<date type="sent">ca. 1871-72</date>
+<date type="received">n.a.</date>
+<settlement type="sent">Irrsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb775v">
+<persName>
+<forename>Johann</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1830"/>
+<death cert="unknown"/>
+<occupation>Schneidermeister</occupation>
+<residence><geo decls="#WGS">47.8052615 10.2136981</geo>Altusried, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1871" to="1872">Anstalt: 1871-72</p>
+<p from="1871" to="1872">Brieftypen: pp, po, Schuldbekenntnis, Gebete</p>
+</state>
+<trait><p>Depression, Wahnvorstellungen, Tobsucht (1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Gebet und Schuldbekenntnis</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    dankt für Nahrung; bittet darum, bald wieder bei seiner Frau sein zu dürfen, dafür bekennt er seine Schuld
+                    bittet um Fürbitte; Auflistung seiner Sünden (u.a. Ehebruch, Ungehorsam gegenüber den Vorgesetzten, Misshandlung der Ehefrau, Lügen, Stehlen)
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb775v01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb775v01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<p>
+<hi rendition="#c">Schuldenbeken̄iß!</hi></p>
+<p>I Habe ich der Bortenschlagerrei u Meinen<lb break="yes"/>Bücher und der Vätterrische
+		        Verwantschaft<lb break="yes"/>und so auch den Bürgermeister zu fiel Geglaubt<lb break="yes"/><hi rendition="#c">2.</hi><lb break="yes"/>Habe ich <w>Verfasungs Eid</w> u. den Eid
+		        der<lb break="yes"/>Ehe gebrochen<lb break="yes"/><hi rendition="#c">3.</hi><lb break="yes"/>Habe ich Son̄ und Feirtage mit
+		        einem<lb break="yes"/>Schlächten Löben u dem Trunk zugebracht.<lb break="yes"/><hi rendition="#c">4.</hi><lb break="yes"/>Habe ich meine Vorgesetzte beschipf
+		        mit<lb break="yes"/>den Schriften u so einen Ungehorsam̄<lb break="yes"/>begangen<lb break="yes"/><hi rendition="#c">5.</hi><lb break="yes"/>Habe ich mein Weib mißhandelt<lb break="yes"/><hi rendition="#c">6.</hi><lb break="yes"/>Habe ich dieses Gesätz viele
+		        Hundertmal<lb break="yes"/>übertreden u. auch Fremder Schulden<lb break="yes"/>theilhaftig gemacht<lb break="yes"/><hi rendition="#c">7.</hi><lb break="yes"/>Habe ich Vremder Güdder theilhaftig
+		        gemacht<lb break="yes"/>und im Gewärbliche selber zugenaigt gewäsen<lb break="yes"/><hi rendition="#c">8</hi><lb break="yes"/>Habe ich auch viele Gewärbliche Lügen
+		        gemacht<lb break="yes"/><hi rendition="#c">9</hi><lb break="yes"/>Habe ich mit Geld mit den Weiber zu
+		        tun<lb break="yes"/>gehabt und dieses hat mich in das Verderben<lb break="yes"/>gestürst<lb break="yes"/><hi rendition="#c">10</hi><lb break="yes"/>Habe ich auch nach Fremdem Gute<lb break="yes"/>verlangt. Joh. Baptist <surname>V.</surname>.</p>
+<pb facs="#image_002"/>
+<p> Himlischer Vater ich Danke Dir<lb break="yes"/>für die Genossene <del>P</del> Speiß und
+		        Trank<lb break="yes"/>die ich von deiner Gütte empfang hab,<lb break="yes"/>und Hoffe mit vestem vertrauhen<lb break="yes"/>das mich der Herr erhören
+		        möchte;<lb break="yes"/>und <add>das ich</add> zu meinem Weibe nachhause<lb break="yes"/>so bald wie möglich kom̄en kan̄.<lb break="yes"/>Und aus Liebe beken̄e ich das ich<lb break="yes"/>laider Vielgesündiget habe
+		        mit<lb break="yes"/>Gedanke Worte u. Wärke. Und das<lb break="yes"/>ich nur
+		        Fräfentlich nach Irsee, und<lb break="yes"/>von meinem Weibe bin das<lb break="yes"/>muß ich Freu u offen becken̄en,<lb break="yes"/>und jetz
+		        schon mer als zwei Monat auf<lb break="yes"/>Gottesbarmherzkeit gelöbt ich bitte<lb break="yes"/>Euch alle um die <w>für bitte</w> beim Herrn<lb break="yes"/>das er mich
+		        erhören möchte und<lb break="yes"/>mihr meine Grosse Sündenschuld<lb break="yes"/>vergäben möchte.<lb break="yes"/><seg ana="#signed">Joh. Baptist <surname>V.</surname></seg>.</p>
+</body>
+</text>
+</TEI>

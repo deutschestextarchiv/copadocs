@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor1251h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>1251 (K. 80)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ferdinand <surname>H.</surname></persName>
+<date type="sent">ca1906-17</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor1251h">
+<persName>
+<forename>Ferdinand</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1873-04-21"/>
+<death when="1917-06-30"/>
+<occupation>Bremser</occupation>
+<residence><geo decls="#WGS">51.4370171 7.335124</geo>Geburtsort: St. Michaelisdonn; Wohnort: Witten</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: V: Nachtwächter, M: ohne</p>
+<p from="1906-12-31" to="1917-06-30">Anstalt: 31.12.1906-30.06.1917</p>
+<p from="1906-12-31" to="1917-06-30">Brieftypen: pp</p>
+</state>
+<trait><p>Geisteskrank (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    erzählt vom Tod seines Vaters, eines Kameraden und von seinem eigenen Tod (durch Schlangen)
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor1251h02a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="dor1251h02b.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Innigsgeliebte<lb break="yes"/>Süse Frau</hi></salute>
+</opener>
+<p><add place="top"><del>H</del></add></p><p>morgen<lb break="yes"/>getht es zicher zu Hause<lb break="yes"/>du hast ja an den Tod<lb break="yes"/><w>er liter</w> Duch Schlagen<lb break="yes"/>du muß dein Man<lb break="yes"/>helfen das ich zu Hause<lb break="yes"/>komme ohne Dich Kann<lb break="yes"/>ich nicht <w>fer tich</w>
+<w>wer den</w><lb break="yes"/>Dein Süser Man<lb break="yes"/><hi rendition="#c">Ferdinad</hi>
+<pb facs="#image_005"/><del>Me</del><lb break="yes"/>Vater war Arbeiter<lb break="yes"/>wenn Muter sate zu mir<lb break="yes"/>Vater war Reisen. Vater<lb break="yes"/>wude gesprochen <w>war</w><w>gestorben</w><lb break="yes"/>wan vor Tode <w>er lost</w><lb break="yes"/>und mein ichst geliebter <unclear>bruder</unclear><lb break="yes"/>Heimann gleich das sebe<lb break="yes"/>einen Kamedad habe ich ver<lb break="yes"/>auch gestoben der Heiß Karl<lb break="yes"/><surname>S.</surname> des glechen<lb break="yes"/>men
+                Bruder<lb break="yes"/>i ich habe den Tod<lb break="yes"/>erliten duch Schlangen<lb break="yes"/>und dahr fer ich Ferdinad </p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip6474g02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>6474 (K. 70)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Margarete <surname>G.</surname></persName>
+<date type="sent">28.12.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt</persName>
+<settlement type="sent">Essen-Bredeney</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip6474g">
+<persName>
+<forename>Margarete</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1894-03-16"/>
+<death cert="unknown"/>
+<occupation>Hausangestellte</occupation>
+<residence><geo decls="#WGS">51.9063997 8.3782078</geo>Geburtsort: Gütersloh; Wohnort: Gütersloh</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater: Lokomotivführer a.D., Mutter: n.a.</p>
+<p from="1925-07-27" to="1930-03-22">Anstalt: 27.07.1925-22.03.1930</p>
+<p from="1925-07-27" to="1930-03-22">Brieftypen: pp, po</p>
+</state>
+<trait>
+<p>Schizophrenie (1925)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin schickt Weihnachtsgrüße und bittet noch länger fortbleiben zu dürfen, da ihre Familie sie noch bei sich haben möchte.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip6474g02a.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Essen-Bredeney,
+                        28.12.28.</hi></hi><lb break="yes"/><hi rendition="#i">
+<add hand="hand2"><placeName type="street">Riesenhalde</placeName> 29
+                            (bei Fam. <surname>S.</surname>)</add>
+</hi></dateline>
+<salute><hi rendition="#i"><hi rendition="#c">Sehr geehrter Herr
+                    Oberarzt!</hi></hi></salute>
+</opener>
+<p><hi rendition="#i">Wünschen Ihnen noch nachträglich<lb break="yes"/>ein gesegnetes
+                    Weihnachtsfest, nebst<lb break="yes"/>ein glückliches Neues Jahr. Bin<lb break="yes"/>hier sehr gut aufgenommen,<lb break="yes"/>weil meine
+                    Angehörigen es<lb break="yes"/>wünschen, noch da zu bleiben;<lb break="yes"/>so bitte </hi><add place="above"><hi rendition="#i">ich</hi></add><hi rendition="#i"> noch für 8 Tage Nachurlaub.<lb break="yes"/>Ich habe mich sehr
+                    gut erholt.<lb break="yes"/>Viele Grüße an die Schwestern u. </hi><lb break="yes"/><space/><hi rendition="#i"> besonders an die Naturschrift</hi><lb break="no"/><hi rendition="#i"> </hi><hi rendition="#r"><hi rendition="#i">stellerin Frl. Berta </hi><surname><hi rendition="#i">W.</hi></surname><hi rendition="#i">.</hi></hi><hi rendition="#i"><lb break="yes"/><lb break="yes"/></hi><hi rendition="#c"><seg ana="#salute"><hi rendition="#i">Mit besten Gruß</hi></seg><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">Ihre </hi><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Margarete </hi><surname><hi rendition="#i">G.</hi></surname></seg></hi></p>
+</body>
+</text>
+</TEI>

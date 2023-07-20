@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2323b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2323</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Friedrich <surname>B.</surname></persName>
+<date type="sent">20.12.1852</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Memmingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2323b">
+<persName>
+<forename>Friedrich</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1836"/>
+<death when="1885"/>
+<occupation>Landarztsohn</occupation>
+<residence><geo decls="#WGS">47.9867696 10.181319</geo>Memmingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landarzt</p>
+<p from="1851" to="1885">Anstalt: 1851-85</p>
+<p from="1851" to="1885">Brieftypen: po,pp</p>
+</state>
+<trait><p>Schwermut, Aufregungszustände (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Mitteilung über (guten) Gesundheitszustand, Übersenden von Leckereien und Neujahrswünsche
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2323b02a.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb2323b02b.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Memmingen d. 20. Dezember 1852.</hi></hi></dateline>
+<salute><hi rendition="#c">Hochzuverehrender Herr <hi rendition="#i">Director</hi>!</hi></salute>
+</opener>
+<p>
+<space/> In der angenehmen Hoffnung, daß Sie u. Ihre werthe<lb break="yes"/>Frau
+                Gemahlin sich im besten Wohlsein befinden, nehme ich mir<lb break="yes"/>die
+                Freiheit endlich nach langer Zeit auch etwas von mir hören<lb break="yes"/>zu
+                lassen u. Ihnen mitzutheilen daß mein Gesundheitszustand sich<lb break="yes"/>schon
+                seit längerer Zeit ganz gut befindet, was zu hören Sie gewiß<lb break="yes"/>freuen
+                wird. Meine Confirmation ist nun auch vorüber u. ich werde<lb break="yes"/>nun bald
+                meine Lehrzeit wahrscheinlich in einem hiesigen Handlungs<lb break="no"/>hause
+                antreten. Oft u. mit Vergnügen denke ich noch im̄er an mei<lb break="no"/>nen Aufenthalt in der Anstalt zurück, rede u. erzähle sehr viel davon,<lb break="yes"/>besonders erin̄ere ich mich bei dem bevorstehenden
+                    Weihnachtsfeste<lb break="yes"/>an die dortige schöne Bescheerung, die mir
+                viele Freude gemacht<lb break="yes"/>hatte. Zu den gesandten Leckerlen wünsche ich
+                daß Sie Ihnen gut<lb break="yes"/>munden möchten; zu dem bevorstehenden
+                Jahreswechsel wünsche<lb break="yes"/>ich Ihnen u. Ihrer werthen Familie, daß Sie
+                der Him̄el auch<lb break="yes"/>im nächsten Jahre gesund und <del>G</del>
+                glücklich erhalten möge, damit<lb break="yes"/>Sie noch recht lange der leidenden
+                Menschheit behülflich sein<lb break="yes"/>können.</p><p><hi rendition="#r">Schließlich</hi><pb facs="#image_003"/> ersuche ich Sie höflich an die Herren
+                    <hi rendition="#i">Verwalter, Rechnungsführer,<lb break="yes"/>Dr.
+                        <surname>E.</surname> &amp; Oberwärter</hi> meine Empfehlungen zu
+    sagen,<lb break="yes"/><seg ana="#salute">Ihnen aber empfehle ich mich mit aller Hochachtung</seg></p>
+<p>
+<seg ana="#signed"><hi rendition="#r">Ihr<lb break="yes"/>ergebenster<lb break="yes"/><lb break="yes"/><hi rendition="#i">Friedrich <surname>B.</surname></hi>.</hi></seg></p>
+</body>
+</text>
+</TEI>

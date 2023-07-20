@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb451h06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>451</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Augusta von <surname>H.</surname></persName>
+<date type="sent">1855-1858</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb451h">
+<persName>
+<forename>Augusta von</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1812"/>
+<death cert="unknown"/>
+<occupation>Zollschutzwachengattin</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: kgl. Stallmeister</p>
+<p from="1855" to="1858">Anstalt: 1855-1858</p>
+<p from="1855" to="1858">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Fixe Ideen, Halluzination (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="unbekannt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Bitte darum, an die Behörde einen Antrag stellen zu dürfen
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb451h06a.jpg" xml:id="image_019"/>
+<graphic mimeType="image/jpg" url="kfb451h06b.jpg" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline/>
+<salute>Bester Herr <hi rendition="#i">Dockter</hi></salute>
+</opener>
+<p> Ich will niemand mehr vertrauen<lb break="yes"/>als Gott Ihnen mein Herr und -
+                der<lb break="yes"/>Regierung erlauben Sie daß ich an diese<lb break="yes"/>Regierungsbehörde eine Eingabe machen<lb break="yes"/>darf, meine <hi rendition="#u">Exießen offen bekennen</hi><lb break="yes"/>und sie <del>bitte</del> um Verzeihung bitten zugleich<lb break="yes"/>ersuchen doch mir ein anders Asyl<lb break="yes"/>vorläufig
+                anzuweiße - Bitte bitte<lb break="yes"/>erlauben Sie daß - Guter Herr<lb break="yes"/>Klister ein <unclear>Famile</unclear> wie sie will </p>
+<pb facs="#image_020"/>
+<p> Ich habe mein ganes Vertrauen<lb break="yes"/>zur Regierung und - Ihnen -<lb break="yes"/>nächst Gott </p>
+<p><hi rendition="#r"><add place="bottom"><handShift scribe="unbekannt"/>Frau Auguste von<lb break="yes"/><surname>H.</surname><lb break="yes"/>zu<lb break="yes"/>Irrsee<lb break="yes"/>bei
+                        Kaufbeuren</add></hi></p>
+</body>
+</text>
+</TEI>

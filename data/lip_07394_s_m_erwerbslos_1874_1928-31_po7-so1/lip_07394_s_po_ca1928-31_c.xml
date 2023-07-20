@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7394s08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7394 (K. 350)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ferdinand <surname>S.</surname></persName>
+<date type="sent">ca. 1928-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip7394s">
+<persName>
+<forename>Ferdinand</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1875-04-22"/>
+<death when="1931-03-17"/>
+<occupation>erwerbslos</occupation>
+<residence><geo decls="#WGS">51.5142273 7.4652789</geo>Geburtsort: Driburg; Wohnort: Dortmund</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater: Händler; Mutter: n.a.</p>
+<p from="1928-03-03" to="1931-03-17">Anstalt: 03.03.1928-05.11.1928; 17.03.1931</p>
+<p from="1928-03-03" to="1931-03-17">Brieftypen: po, so</p>
+</state>
+<trait><p>Progressive Paralyse (1928)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    DEr Patient verweist erneut auf seine schlechte gesundheitliche Lage hin.
+                 </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7394s08.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#i">Herr</hi> geehrter Dr.</salute>
+</opener>
+<p>stellen <hi rendition="#i">Sie</hi> sich<lb break="yes"/>in meine <hi rendition="#i">Lage</hi> u. <hi rendition="#i">Leiden</hi> be<lb break="no"/>sonders mit den
+                    <hi rendition="#i">Sprechen</hi> u.<lb break="yes"/>Unterhaltung der
+                Mittmenschen<lb break="yes"/>Bei <hi rendition="#i">ver</hi>schiedenen <hi rendition="#i">Me</hi>nschen<lb break="yes"/>fliegt einen beim <hi rendition="#i">Sprechen </hi><lb break="yes"/><hi rendition="#i">Speie</hi> (Spucke) ins <hi rendition="#i">Ohr</hi>.<lb break="yes"/><hi rendition="#i">Geehrter Herr
+                Dr</hi>. nochmals<lb break="yes"/>nur <hi rendition="#u">schnelle </hi><hi rendition="#i"><hi rendition="#u">Hülfe</hi></hi><hi rendition="#u"> kann helfen</hi></p>
+</body>
+</text>
+</TEI>

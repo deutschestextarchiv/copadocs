@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1697e04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1697</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>E.</surname></persName>
+<date type="sent">16.09.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwandte: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1697e">
+<persName>
+<forename>Maria</forename>
+<surname>E.</surname>
+</persName>
+<birth when="1858"/>
+<death when="1912"/>
+<occupation>Monteursehefrau</occupation>
+<residence><geo decls="#WGS">47.457056800000004 10.271660845701515</geo>Fischen, Sonthofen, geb. Zülen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1906" to="1912">Anstalt: 1906-12</p>
+<p from="1906" to="1912">Brieftypen: pp, ao</p>
+</state>
+<trait><p>[Epilepsie], [Halluzination], [Suizidalität] (1906)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie will sich bei ihren Verwandten in Erinnerung rufen, bittet um Geld und eine Antwort.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1697e04a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb1697e04b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r">1908<del>1999</del>. September<lb break="yes"/><del>19.</del>16</hi></dateline>
+<salute><hi rendition="#c">Liebe Verwandte</hi></salute>
+</opener>
+<p>Ich muß mein Leben noch<lb break="yes"/>einnal Anzeigen so<del>se</del>llen,
+                    hoffent<lb break="no"/>lich sind sie noch alle wohl un<del>s</del>d<lb break="yes"/>Munter mein Beirisches Leiden<lb break="yes"/>bereu ich noch
+                Im̄er aber hoffen<lb break="yes"/>thu ichs noch immer nun Liebe<lb break="yes"/>Verwandte möchte ich noch einmal<lb break="yes"/>bitten um par <hi rendition="#i">M</hi>ark nun laßen<lb break="yes"/>Sie es unsern Angehörige
+                wißen,<lb break="yes"/><del>wißrür</del> wi es mir geht<lb break="yes"/><seg ana="#salute"><space/> Nun Liebe Verwandte Herzlichen<lb break="yes"/>Für alle.
+                    Mann. den G<del><unclear reason="overwriting">rp</unclear></del>uß<lb break="yes"/>und Kinder. </seg><seg ana="#signed">Von Frau<lb break="yes"/><hi rendition="#r">Marie <surname>E.</surname></hi>
+</seg><lb break="yes"/>Nun bitte bald um eine Antwort. </p>
+<pb facs="#image_008"/>
+<p>
+<hi rendition="#i"><hi rendition="#c">Wohlgb. </hi><lb break="yes"/>Herrn Ludwig
+                        <surname>W.</surname><lb break="yes"/><hi rendition="#c">Gasthof</hi><lb break="yes"/><hi rendition="#r">Hennigsdorf</hi><lb break="yes"/><hi rendition="#r">a/d. Havel</hi></hi><lb break="yes"/><add place="top">Absender Frau Maria <surname>E.</surname>
+</add>
+</p>
+</body>
+</text>
+</TEI>

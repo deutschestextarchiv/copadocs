@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2032f03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2032</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Albert <surname>F.</surname></persName>
+<date type="sent">ca1905-14</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Johann <surname>F.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2032f">
+<persName>
+<forename>Albert</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1882"/>
+<death when="1914"/>
+<occupation>Fabrikarbeiter</occupation>
+<residence><geo decls="#WGS">47.553545 9.7064009</geo>Reutin, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Wechselwärter</p>
+<p from="1905" to="1914">Anstalt: 1905-14</p>
+<p from="1905" to="1914">Brieftypen: po, pp</p>
+</state>
+<trait><p>Tobsucht, Halluzinationen (1905-1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    sendet Grüße an seinen Bruder; möchte wissen, wie es der Familie geht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2032f03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb2032f03b.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#r"><hi rendition="#i">Lieber Bruder!</hi></hi></salute>
+</opener>
+<p><hi rendition="#i">Sende mir baldigst bessere benachrichtigung von<lb break="yes"/>der Famielie <surname>F.</surname> ich bin gesund und <w>wohl
+                        auf</w>!<lb break="yes"/>Und wünsche dir Glück und Gesundheit der
+                            <w>Papier<lb break="no"/>macher beruf</w> und wende bei der Königl
+                    Dierektzion an<lb break="yes"/>wen̄ du mich willst und mir wäre es auch
+                    recht!</hi></p>
+<p><add place="top"><hi rendition="#i"><seg ana="#salute">Viele Grüse</seg>
+<seg ana="#signed">von <surname>F.</surname>
+                    Albert.</seg></hi></add>
+<pb facs="#image_007"/>
+<hi rendition="#i">Herrn <surname>F.</surname> Johan̄<lb break="yes"/><hi rendition="#c">beschäftigt in der Papierfabrick</hi><lb break="yes"/>Mochenwa<add place="above">n</add>gen<lb break="yes"/>Würtemberg.</hi></p>
+</body>
+</text>
+</TEI>

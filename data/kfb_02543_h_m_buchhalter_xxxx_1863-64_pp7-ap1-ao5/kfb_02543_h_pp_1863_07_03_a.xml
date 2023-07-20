@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2543h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2543</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>H.</surname></persName>
+<date type="sent">03.07.1863</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager: n.a. <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2543h">
+<persName>
+<forename>Wilhelm</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1864"/>
+<occupation>Buchhalter, studierte Theologie</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: n.a.</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1863" to="1864">Anstalt: 1863-64</p>
+<p from="1863" to="1864">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"psychische und körperliche Aufregung", "Wahnvorstellungen" (1863)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient berichtet von seiner Ankunft im Krankenhaus und einer Auseinandersetzung mit 
+                    dem dortigen Arzt und den Wärtern, da er sich weigerte, von diesen in die "Irrenzelle" gebracht zu werden. 
+                    Gibt seinem Schwager die Schuld, ihn in diese Lage gebracht zu haben.
+                    Erwähnt zudem einen Traum, den er als göttliche Eingebung interpretiert. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2543h01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2543h01b.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb2543h01c.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb2543h01d.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Jrrsee</hi> den 3<hi rendition="#sup">t</hi>
+<hi rendition="#i">July</hi> 1863</hi></dateline>
+<salute><space/> Euer Wohlgebo<unclear>ren</unclear><lb break="yes"/>Lieber
+                        Herr<del><unclear>n</unclear></del> Schwager <surname><hi rendition="#i">S.</hi></surname>.</salute>
+</opener>
+<p><add place="margin">Jm hiesigen Jrrenhause wäre e<del><unclear/></del>s<lb break="yes"/>auszuhalten, den den <seg ana="#inst">die Behandlung<lb break="yes"/><w>ist</w><w>sehr</w> honorisch</seg> Herr <hi rendition="#i">Director</hi> ein <w>liebens<lb break="no"/>würdigen</w>
+                    menschenfrenndlicher Man auch<lb break="yes"/>genießt man<lb break="yes"/></add><add place="margin"><w>frei Luft</w><lb break="yes"/>in Garten</add></p><p>Sie brachten mich durch Jhre Vorsorge für<lb break="yes"/>meine Gesundheit in eine gräßliche
+                Lage,<lb break="yes"/>am Freitag Abend um 6 Uhr führte mich<lb break="yes"/>mein
+                Freund /: sehr schone Handlung eines<lb break="yes"/>Freundes :/ in
+                    <w>das</w><w>Krankenhaus</w>, dort<lb break="yes"/>angekom̄en, empfing
+                mich der Arzt<lb break="yes"/><hi rendition="#i">Dr. Anz</hi>, und sagte Jhnen fehlt
+                im Kopf oben<lb break="yes"/>ich behauptepte Jhm daß ich nicht krank bin,<lb break="yes"/>und er mich entlaßen möchte, er wollte<lb break="yes"/>mich jedoch
+                durch Packen an der Brust in<lb break="yes"/>die <seg ana="#med"><w>Jrren
+                    Zelle</w></seg> zu gehen, zwingen, jedoch<lb break="yes"/>meine Kräft mehr als
+                seine, würgte<lb break="yes"/>Jhn am Halse und warf Jhn zur Thüre<lb break="yes"/>hinaus, somit kamen zwei Wärter ich<lb break="yes"/>löste eine Stange, mit gräßlicher Wuth<lb break="yes"/>und Aufregung schlug beide
+                    Wärte<unclear>r</unclear><lb break="yes"/>damit zu Boden war somit mit<lb break="yes"/>diesen beiden auch,
+                wollte somit<lb break="yes"/>meine <w>Freiheit</w><w>erringen</w>, kammen aber<lb break="yes"/>zwei weitere, und verbrachten mich mit<lb break="yes"/>großen
+                Anstrengung zurück in die <seg ana="#med"><w>Jrren<lb break="no"/>zelle</w></seg>,
+                    ich hatte solchen Zorn und so
+                        gekäm<del><unclear>t</unclear></del>pft<lb break="yes"/>daß mir das Blut
+                    aus Mund und<lb break="yes"/>Nase herausströmte, gräßliche Lage<lb break="yes"/>fiel zurück wie betäubt auf meine<lb break="yes"/>Matraze, und
+                schlief endlich unter<lb break="yes"/>einem gräßlichen Erguße von
+                    <unclear>Triche</unclear><lb break="yes"/><unclear>U</unclear>nd Anrufung an Gott den Allernachtig<pb break="no" facs="#image_003"/>sten ein und flehte in̄iglich mich von
+                diesen<lb break="yes"/>Schmerzen wie Kerker zu befreien<lb break="yes"/>indem ich
+                nicht einmal ein Spur<lb break="yes"/>hätte von Jrrsin, die Hülfe kam, Morgen<lb break="yes"/>zwei wurde es mir so wohl, und hell<lb break="yes"/>hatte eine Erscheinung, welche mir eröffnete<lb break="yes"/>daß
+                    ich bis Morgen alle Sprachen, kann Alles<lb break="yes"/>weiß was auf der Welt
+                        <w>vor geht</w>, auch<lb break="yes"/>alle Musick kann, was sich den andern<lb break="yes"/>Morgen auch bewährte, ich soll in der<lb break="yes"/>ganzen Welt herumkomen und die neue<lb break="yes"/><unclear>wi</unclear>derderkehre Gottes verkünden, ich<lb break="yes"/>schenkte- dieser Sache noch wenigen<lb break="yes"/>Glauben vor ich nicht die
+                Uberzeugung<lb break="yes"/>habe; nächsten Tag hatte ich ähnlichen<lb break="yes"/>Spektakel weil ich meine Freiheit<lb break="yes"/>mit Gewalt erringern wollte, es<lb break="yes"/>gelang mir Samstag Abends vom<lb break="yes"/>1<hi rendition="#sup"><unclear>t</unclear></hi> Stock zu entkom̄en, leider
+                    er<lb break="no"/>wischten sie mich wieder, und<lb break="yes"/>mußten 5 Mann
+                um mich wieder<lb break="yes"/>in die Zelle zu verbringen, ist ein<lb break="yes"/>solches Gebahren mit einen gesunden<lb break="yes"/>gebildeten Menschen nicht
+                mehr als<lb break="yes"/>himmelschreiend, <seg ana="#inst">gedroßelt haben<lb break="yes"/>Sie mich</seg>, daß ich wie ein Leiche auf<lb break="yes"/>meine Matraze zurückfiel, somit<lb break="yes"/>in guten, mit angenehmen Traum<lb break="yes"/>Schlaf verfiel und doch wenigstens<lb break="yes"/>bis 5 Uhr
+                schlafen konte 3½ Nächte</p><p><add place="margin">Wie kann man einen Menschen<lb break="yes"/>ins <seg ana="#inst">Narrenhaus</seg> thun, der für das Wohl<lb break="yes"/>der ganzen Familie
+                    sorgt, sich ein Fabrik <unclear>München</unclear><lb break="yes"/>errichtet, und seinem Bruder durch Bitt<lb break="no"/>en seine Frau u Schwiegervat u Mutter </add><lb break="yes"/><add place="margin">auch er<lb break="yes"/>in<lb break="yes"/><unclear>Ängsbg</unclear><lb break="yes"/>pekst<lb break="yes"/>damit<lb break="yes"/></add><add place="top">auch derselbe<lb break="yes"/>wieder in gute<lb break="yes"/>Verhaltniß in Ehre<lb break="yes"/>kommt;</add></p>
+<pb facs="#image_004"/>
+<p>kam ich aus Aufregung und gräßlichen<lb break="yes"/>Schmerz
+                zu gar keinem Schlafe, sehr<lb break="yes"/>schön und eldel ist es, von meine<lb break="yes"/>Verwandten, daß sich nicht eines<lb break="yes"/>erkundigte wie es
+                mir ergehe oder<lb break="yes"/>wie ich mich befinde, <hi rendition="#i">Max</hi>
+                kam<lb break="yes"/>einigemal erkundigte sich fand<lb break="yes"/>es aber nicht
+                der Mühe werth seinen<lb break="yes"/>unglücken Bruder in der
+                    Jrren<lb break="no"/>zelle zu besuchen, auch von Jhnen<lb break="yes"/>herr
+                Schwager, wo sie doch ein<lb break="yes"/>Mann von Charakter sind, und<lb break="yes"/>sich vorerst, um meine Ge<lb break="no"/>sundsverhältniße annehmen<lb break="yes"/>die Sie aber gar nichts angingen<lb break="yes"/>indem ich ein
+                mündiger<lb break="yes"/>Man mit 35 Jahre bin d und<lb break="yes"/>kein Kind das
+                einen Vor<unclear>run</unclear>d<lb break="yes"/>bedarf ich bin selbständig, und<lb break="yes"/>mit Kentnißen versehen daß<lb break="yes"/>in mir in einem
+                Zeitramen von<lb break="yes"/>5 Monaten 7800, allein in <hi rendition="#i">Agentur</hi><lb break="yes"/>verdiente, aus eigenen Mittel<lb break="yes"/>eine eigene <hi rendition="#i">Equipage</hi> und<lb break="yes"/>Reitpferd
+                    anschaffen konnte,<lb break="yes"/>ich auch wußte wie liebes<lb break="yes"/>und reiches Weib durch meine </p><p><add place="margin">Herrn Schwager <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/>no<add>c</add>hmals lege ich es Jhnen ans Herz, wen<lb break="yes"/>dringenden Ansuchen zu entsprechen<lb break="yes"/>in dieser Sache,
+                    augenblicklich zu wirken<lb break="yes"/>würde es mehrere Tage
+                        <unclear>anstehen</unclear><lb break="yes"/><w>s ehe</w> ich für <w>nichts mehr</w> gut.
+                </add></p>
+<pb facs="#image_005"/>
+<p>Persönlichkeit zu verschaffen wußte<lb break="yes"/>und durch Jhr Wirken alls
+                        J<del><unclear>p</unclear></del>rren Narr<lb break="yes"/>in Krankenhaus
+                aufgenomen<lb break="yes"/>werden, könen Sie das mein<lb break="yes"/>lieber
+                Schwager bei Gott dem<lb break="yes"/>Allmächtigen verantworten, zudem<lb break="yes"/>kümmerten Sie sich nicht m<unclear>e</unclear>r um<lb break="yes"/>mi<del>s</del>ch und laßen mich in meine<lb break="yes"/>elenden Verhältniße,
+                ohne<lb break="yes"/>Rücksicht ein Schwager zu mir zu<lb break="yes"/>sein, wo Sie
+                doch eine Schwester<lb break="yes"/>von mir zur Frau haben solche<lb break="yes"/>ehren achten und lieben, was<lb break="yes"/>wird solche dazu sagen wen̄<lb break="yes"/>Sie weiß daß Jhr Bruder<lb break="yes"/>unverschuldet im
+                zweiten<lb break="yes"/>Jrrenhause zu Jrrsse mit<lb break="yes"/><seg ana="#inst">Blodsinnigen Jrren Bösen</seg>
+<hi rendition="#i">ect</hi> leben<lb break="yes"/>muß, als vernünftig kräftig<lb break="yes"/>gescheut denkendender Mensch<lb break="yes"/>Mich unglüklich zu
+                machen war<lb break="yes"/>Euer Werk, Gott der Allmachtige<lb break="yes"/>wird es
+                rächen, ich nicht mein<lb break="yes"/>Gemüth ist zu gut, um Rache<lb break="yes"/>zu üben, nur bitte ich und r<unclear>u</unclear>fe<lb break="yes"/>Gotte den
+                Allmächtigen an mich<lb break="yes"/>von diesem Schiksale zu
+                    befre<unclear>ien</unclear><lb break="yes"/><add place="margin">und mir meine
+                    Ehre als vernünftiger<lb break="yes"/>Mensch wieder zu geben, was wird meine<lb break="yes"/>Braut denken, wen es heist der Bräutigam<lb break="yes"/>Wilhelm ist im Jrrenhause die wird sich<lb break="yes"/><hi rendition="#r">jedenfalls
+                        zur<unclear>rückziehen</unclear></hi>
+</add></p>
+</body>
+</text>
+</TEI>

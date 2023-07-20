@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb936g58" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Pius <surname>G.</surname></persName>
+<date type="sent">22.07.1887</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Banditen Commandant</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb936g">
+<persName>
+<forename>Pius</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1901"/>
+<occupation>Schneider</occupation>
+<residence><geo decls="#WGS">48.570171 10.590197622123007</geo>Kicklingen, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Söldner</p>
+<p from="1883" to="1901">Anstalt: 1883-1901</p>
+<p from="1883" to="1901">Brieftypen: pp, po</p>
+</state>
+<trait><p>Halluzinationen, Größenwahn, Verfolgungswahn (1883)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er beschwert sich, dass die ganze Welt gegen ihn ist.
+                    Rückseite: lateinische Zahlen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb936g58a.jpg" xml:id="image_243"/>
+<graphic mimeType="image/jpg" url="kfb936g58b.jpg" xml:id="image_244"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_243"/>
+<opener>
+<dateline><hi rendition="#c"><seg ana="#inst">Räuberhöhle</seg>
+<hi rendition="#i">Irsee den </hi>22ten <hi rendition="#i">July</hi>
+                        1887</hi></dateline>
+<salute><hi rendition="#c">An den Banditten <hi rendition="#i">Com̄a<add place="above">n</add>tant! <add place="below">mennants</add></hi></hi></salute>
+</opener>
+<p>Zu mir sagt der Stentz wir können auch nicht thun<lb break="yes"/>wie wir
+                wollen, als ich sagte warum man mich<lb break="yes"/>nicht meine Wege gehen läßt!
+                Gut dann ersuche ich<lb break="yes"/>freundlichst diese Zeilen dem <seg ana="#curse">Rechten Schurken</seg> zu übergeben<lb break="yes"/>Erstens ist es
+                dem schlechtesten Banditten zu gemein,<lb break="yes"/>mit derartige Mittel zu
+                kämpfen. Zweitens gehört<lb break="yes"/>eine verworfenheit die unvergleichbar ist,
+                dazu,<lb break="yes"/>Einen <w>Wehr losen</w> man der alle herausgefordert<lb break="yes"/>hat vom Rusisch Deutschen Kaiser bis herunter<lb break="yes"/>zum
+                letzten <seg ana="#curse">Straßenkehrer Hunde der gemeinsten<lb break="yes"/>Art</seg> auf ihn zu hetzen u. durch Hunger zwingen<lb break="yes"/>zu
+                lassen, statt Satisfa<hi rendition="#i">ction</hi> zu verlangen.<lb break="yes"/>Alle geht es an nicht <add place="above">blos</add> den <seg ana="#curse">Ehrlosen
+                    Banditten<lb break="yes"/>Hund</seg> Luitpold. Oeffendlich verlangen ich<lb break="yes"/>Genugthuung oder Strafe über diese Ellende<lb break="yes"/>Schmach
+                und Schande welchen man mir<lb break="yes"/>sowie wie dem ganzen Volke angethan
+                hat.<lb break="yes"/><hi rendition="#r"><hi rendition="#i"><seg ana="#signed">Pius
+                            <surname>G.</surname></seg></hi> geborener<lb break="yes"/><hi rendition="#i">Wittelsbach</hi></hi></p>
+<pb facs="#image_244"/>
+<p><handShift medium="pencil" scribe="patient"/><foreign xml:lang="lat"><hi rendition="#i">uno<lb break="yes"/>tres<lb break="yes"/><del>quator</del><lb break="yes"/>quattuor<lb break="yes"/>quenque<del>l</del><lb break="yes"/>sex<lb break="yes"/>septem<lb break="yes"/>octo<lb break="yes"/>novem<lb break="yes"/>decem<lb break="yes"/>undecem<lb break="yes"/>duodecem<lb break="yes"/>tredecm<lb break="yes"/>quindecen<lb break="yes"/>sedecm<lb break="yes"/>septemdecm<lb break="yes"/>duo-de viginti<lb break="yes"/>un de viginti viginti<lb break="yes"/><add place="margin">sex<lb break="yes"/>septem<lb break="yes"/>octo<lb break="yes"/>novem<lb break="yes"/>decem<lb break="yes"/>undecem<lb break="yes"/>duodecem<lb break="yes"/>tredecem</add></hi></foreign></p>
+</body>
+</text>
+</TEI>

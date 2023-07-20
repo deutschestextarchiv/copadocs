@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7841s02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7841 (K. 310)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>S.</surname></persName>
+<date type="sent">27.09.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: Benedikt und Berta <surname>S.</surname></persName>
+<settlement type="sent">Eickelborn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip7841s">
+<persName>
+<forename>Joseph</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1912-03-25"/>
+<death cert="unknown"/>
+<occupation>Zimmerlehrling</occupation>
+<residence><geo decls="#WGS">51.71895955 8.764869778177559</geo>Geburtsort: Paderborn; Wohnort: Paderborn</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Zimmermeister; Mutter: n.a.</p>
+<p from="1929-05-10" to="1931-03-24">Anstalt: 10.05.1929-24.03.1931</p>
+<p from="1929-05-10" to="1931-03-24">Brieftypen: pp, po, Lebenslauf</p>
+</state>
+<trait><p>Schizophrenie (11.01.1929, Dr. Haberkant); Desorientiert, verkennt seine Umgebung, es handelt sich um das Erregungsstadium einer Katatonie (10.05.1929; Dr. Benthaus)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="hand2"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Er frag nach dem Befinden der Eltern </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7841s02a.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="lip7841s02b.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Liebe Eltern.</hi></salute>
+</opener>
+<p>Wie geht es Euch. Hoffent<lb break="no"/>lich seid Ihr noch alle<lb break="yes"/>Gesund und munter </p>
+<p><add hand="vordruck">Postkarte</add><lb break="yes"/><add place="margin">Familie<lb break="yes"/>B.
+                    <surname>S.</surname><lb break="yes"/><placeName>Paderborn</placeName><lb break="yes"/><placeName type="street">Rinenstr.</placeName> Nr. 49</add>
+<pb facs="#image_003"/>Piglofistisch<lb break="yes"/>Nervenleidend<lb break="yes"/>Tun Wassermachen<lb break="yes"/>hinschreiben<lb break="yes"/>wo so sehr er nach<lb break="yes"/>unruchuch und ein<lb break="yes"/>können<lb break="yes"/><lb break="yes"/><add hand="hand2"><hi rendition="#u"><surname><hi rendition="#i">S.</hi></surname></hi> 11. VI. 1. 27.9.29.</add></p>
+</body>
+</text>
+</TEI>

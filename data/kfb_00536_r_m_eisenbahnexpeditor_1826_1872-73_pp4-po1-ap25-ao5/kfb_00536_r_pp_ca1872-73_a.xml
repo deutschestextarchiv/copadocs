@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb536r06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>R.</surname></persName>
+<date type="sent">ca1872-73</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Frau: Katharina<surname>R.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb536r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1873"/>
+<occupation>Eisenbahnexpeditor, Zuchthaussträfling</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Simmerberg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1872" to="1873">Anstalt: 1872-73</p>
+<p from="1872" to="1873">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Melancholie (1872))</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Reagiert auf Briefe seiner Familie. Versucht seine Frau zu trösten, die ihre Kinder vermisst.  
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb536r06.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<salute><hi rendition="#c">Liebe gute Frau!</hi></salute>
+</opener>
+<p>Kurz nach Absendung meines Briefes vom 20<hi rendition="#sup">t</hi> bekam ich jenen vom 17<hi rendition="#sup">t</hi> von dir
+                und dem <hi rendition="#i">Peppi</hi>. Die in dem<lb break="no"/>selben mitunter
+                enthaltenen Bemerkungen, insbesondere, daß Du wieder neuerdings ganz untröstlich und<lb break="yes"/>nach deinem Dafürhalten das verwichene Jahr um 10 Iahre älter
+                geworden seiest, dann die wieder aufgetauch<lb break="no"/>te Sehnsucht nach den
+                Kindern haben mich nicht wenig beunruhigt. Ich säume daher nicht <w>so weit</w> es
+                mir möglich<lb break="yes"/>abermals zu trösten und dringendst zu bitten wieder
+                Fassung zu gewinnen, es hilft Dich alles Abküm̄ ern nichts<lb break="yes"/>das Geschehene kann nicht mehr geändert werden. Vielleicht wird Dein Verlangen
+                nach den Kindern gemildert<lb break="yes"/>wenn Du Dein Vorhaben dieselben die
+                Pfingstfeiertage zu besuchen in Vollzug setzest. Ich habe an dieselben<lb break="yes"/>wenn mein Brief noch rechtzeitig erreicht ein paar Zeilen
+                beigelegt, auch ein Brief zur persönlichen Über<lb break="no"/>gabe an Herrn
+                Jnspektor, <w>so wie</w> an Herr Professor <surname><hi rendition="#i">C.</hi></surname>, dann an Frau Oberin u: Hr. <surname>M.</surname><lb break="yes"/>liegen die von dir erbetenen Briefe an; Peppi soll dieselben soweit
+                als <del>möglich</del> <add place="above">nöthig</add>
+<del>die</del> <add place="above">mit</add> Cuverten und<lb break="yes"/>Adressen
+                versehen</p>
+</body>
+</text>
+</TEI>

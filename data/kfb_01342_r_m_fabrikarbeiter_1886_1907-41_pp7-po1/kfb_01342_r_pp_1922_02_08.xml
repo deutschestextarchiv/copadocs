@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1342r04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katrin Schreinemachers</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1342</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>R.</surname></persName>
+<date type="sent">08.03.1922</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager: Basel <surname>F.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1342r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1886"/>
+<death cert="unknown"/>
+<occupation>Fabrikarbeiter</occupation>
+<residence><geo decls="#WGS">48.3940498 10.879888</geo>Oberhausen, Augsburg, Neu-Ulm</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Tagelöhner</p>
+<p from="1907" to="1941">Anstalt: 1907-1941</p>
+<p from="1907" to="1941">Brieftypen: pp, po Lebenslauf</p>
+</state>
+<trait><p>Angeborener Schwachsinn (1907)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Abholung, Aufzählung von Kleidungsstücken, die er gespendet bekommen hat, hat beim Kartenspielen Geld verpsielt, Bitte um Geld
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1342r04a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb1342r04b.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline>Kaufbeuren, den 8. Februar 1922.<lb break="yes"/></dateline>
+<salute><hi rendition="#c">Lieber Basel!</hi><lb break="yes"/></salute>
+</opener>
+<p> Ich teile ihn mit, daß wir jetzt ich ganz<lb break="yes"/>gesund bin, u. daß ich jetzt ganz
+                laut<lb break="yes"/>gut schwätzen kan̄ . Lieber Basel du<lb break="yes"/>ken̄st mir gleich am Morgen <w>raus</w><lb break="yes"/><w> holen</w>, u. aber sofort kom̄ ich heim.<lb break="yes"/>Und der Armenpfleger von Augsburg hat<lb break="yes"/>mich ein
+                neue Anzug u. drei Hemd u. drei<lb break="yes"/>paar Socken u. 1 paar Sacktuch u.
+                drei Steh<lb break="no"/>umlegkrage mit braune Umleg-Krawatt,<lb break="yes"/>u. 1
+                paar Tuch-Schnallen-Stiefel u. drei Stück<lb break="yes"/>warme Underhosen hat
+                mich <w>herauf geschickt</w>.<lb break="yes"/>Lieber Basel
+                wen̄ du mir gleich raus holt,<lb break="yes"/>u. bring mich gleich auch um
+                15 Mark Kaiser<lb break="no"/>Mischung Tabak aber Feinste Schmackhafte Ge<lb break="no"/>rucht mit. Lieber Schwager u. sind mich so gut<lb break="yes"/>sein, u. sollst zum Frau Basel 38 <hi rendition="#i">Mark</hi> hergeben <pb facs="#image_011"/> u. daß man mich raufbringen kan̄. Beim<lb break="yes"/>Tarocken spielen hab ich auch drei Mark ver<lb break="no"/>spielt u. ist mir
+                auch so schlecht gegangen,<lb break="yes"/>u. der
+                    <surname>M.</surname> sind auch nicht so brav.<lb break="yes"/>Und der Lausbub hat mich auch im mein<lb break="yes"/>Kopf naufschlagen u. hat der
+                Herr <surname>K.</surname><lb break="yes"/>zu mir gesagt ich bin so dum gewesen<lb break="yes"/>u. da
+                kan̄ man̄ mir nicht helfen. Schreib uns<lb break="yes"/>auch bald, ob
+                du deiner Brief erhalten<lb break="yes"/>hab. Lieber Vater u. schreib auch ein ob<lb break="yes"/>mein Taschenuhr gemacht ist, u. schreibe du<lb break="yes"/>mir sofort auf. Also</p>
+<p><seg ana="#salute">An Herzlichste Grüße an alle Verwandten<lb break="yes"/>u. Bekanten. Lebe wohl auf wiedersehen.<lb break="yes"/>vergebenst ich zu </seg> <seg ana="#signed">dein<lb break="yes"/>dankbarer<lb break="yes"/>Schwager<lb break="yes"/><surname>R.</surname> Joseph</seg><lb break="yes"/></p>
+<p><add>Adresse: An Familie <surname>F.</surname> in<lb break="yes"/>Augsburg in
+                    der Flurstr.<lb break="yes"/>38a, hintere Rück-<lb break="yes"/>gebäude im I.
+                    Stock.</add>
+</p>
+</body>
+</text>
+</TEI>

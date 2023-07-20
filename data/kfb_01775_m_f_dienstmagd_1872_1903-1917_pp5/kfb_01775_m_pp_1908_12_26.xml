@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1775m03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Lena Weller</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1775</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Louisa <surname>M.</surname></persName>
+<date type="sent">26.12.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Leopold <surname>M.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1775m">
+<persName>
+<forename>Louisa</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1872"/>
+<death when="1917"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">48.3044877 10.1601492</geo>Weisenhorn, Neu-Ulm, geb. Oppenau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: geschieden</p>
+<p from="" to="">Eltern: Vater: Nagelschmied</p>
+<p from="1903" to="1917">Anstalt: 1903-17</p>
+<p from="1903" to="1917">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Schwachsinn (1903)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin wünscht, nach Hause zu dürfen, und berichtet von der schlechten Behandlung in der Anstalt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1775m03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb1775m03b.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb1775m03c.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb1775m03d.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline>Irsee den, 26 Dezenber 1908.</dateline>
+<salute>Theuerster Bruder Leopold,</salute>
+</opener>
+<p>Ich habe eure <w>Weihnachts<lb break="yes"/>geschenke</w>, erhalten mit<lb break="yes"/>Freuden, und mir gefällt<lb break="yes"/>es in der Anstalt <add place="above">nicht</add>, Hermine<lb break="yes"/>ihre Mutter ist gestorben<lb break="yes"/>Diese Mark habe ich nicht<lb break="yes"/>erhalten, siee lieber Bruder<lb break="yes"/>mir ist lieber in
+                der<lb break="yes"/>Heimat, weil ich vieles <pb facs="#image_007"/>in der Anstalt
+                erlebt habe<lb break="yes"/>Mir haben, in der Anstalt<lb break="yes"/>eine
+                schlechte Kost, und eine<lb break="yes"/>schlechte Behandlung, und<lb break="yes"/>möchte bis Frühjahr mich<lb break="yes"/>in die Heimat wünschen,<lb break="yes"/>ich habe, die liebe zu<lb break="yes"/>meinen PflegeEltern,<lb break="yes"/>ich
+                bin eben in fremde<lb break="yes"/>Hände, <pb facs="#image_008"/>und wir haben
+                einen<lb break="yes"/>groben, Bezirksarzt <add place="above"><surname>Z.</surname> hieß er</add>,<lb break="yes"/>und eine
+                grobe Oberwärterin<lb break="yes"/>sie heißt Fr. <surname>B.</surname><lb break="yes"/>von Menningen,
+                stamt sie<lb break="yes"/>Königreich Bayern,<lb break="yes"/>sie will micht
+                zugeben,<lb break="yes"/>daß ich Essen sollte,<lb break="yes"/>und kan in Oppenau
+                Esen<lb break="yes"/>nehmen, so etwas habe <pb facs="#image_009"/><del>etwas</del> <add place="above">ich</add> habe
+                ich nicht in<lb break="yes"/>meier Behaußung,<lb break="yes"/><seg ana="#salute">Es grüßt Euch
+                herzlich<lb break="yes"/>Auf Wiedersehn</seg>,<lb break="yes"/><seg ana="#signed">Luise <surname>M.</surname></seg><lb break="yes"/>Oppenau, </p>
+</body>
+</text>
+</TEI>

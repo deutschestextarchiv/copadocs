@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3349f20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3349</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>F.</surname></persName>
+<date type="sent">09.08.1924</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Hauptlehrer Otto <surname>H.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3349f">
+<persName>
+<forename>Jakob</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888"/>
+<death when="1935"/>
+<occupation>Landwirt, Dienstknecht</occupation>
+<residence><geo decls="#WGS">48.2473553 10.4500832</geo>Premach, Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landwirt</p>
+<p from="1907" to="1935">Anstalt: 1907-35</p>
+<p from="1907" to="1935">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>maniakalischer Erregungszustand (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="crayon" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Rätselhafte Buchstaben-Zahlen-Folgen, eventuell verschlüsselte Nachricht. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3349f20a.jpg" xml:id="image_059"/>
+<graphic mimeType="image/jpg" url="kfb3349f20b.jpg" xml:id="image_060"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_059"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Kaufbeuren</hi>, den 9.<hi rendition="#i">VIII</hi>.1924.</hi></dateline>
+<salute><hi rendition="#c">Wertgeschätzter Herr Hauptlehrer!</hi></salute>
+</opener>
+<p><space/> In meinem größten Bedauern will<lb break="yes"/>ich Ihnen mitteilen daß
+                sich bei mir, ärztlichen<lb break="yes"/><unclear>Prakatierens</unclear>,
+                im̄er wieder Rückfälle sich be<lb break="no"/>merkbar machen, welche meine
+                Entlassung<lb break="yes"/>im̄er wieder verzögern. </p>
+<p><hi rendition="#i">M59 VII.IX. 5 VII 816 IX. g5I.9 III 7 IX eVIII mgVII; </hi><lb break="yes"/><hi rendition="#i">d VIII mgVII vIX.III. m5gIII 5 II V1IX.5 VII.
+                    aus</hi><lb break="no"/><hi rendition="#i">75IX.VII.17535 W5 VII.10 s5gIII 5VII.
+                    I IV.II5III.4= </hi><lb break="yes"/><hi rendition="#i">uIII7 eIII.IX.7575III zu
+                    für VII. 5 III. - </hi><lb break="yes"/><hi rendition="#i">Nä85 VII. 5 AIII.7125
+                    III. uIII.IX.5 III</hi>
+<hi rendition="#i">Liffel</hi>:<lb break="yes"/><hi rendition="#i"><hi rendition="#u">M. v. W.</hi></hi><hi rendition="#u"> 19.<hi rendition="#i">II.</hi>1888. Ursberg. </hi><lb break="yes"/><seg ana="#salute">Seid bis auf ein
+                            frohes Wiedersehen<lb break="yes"/>herzlich gegrüßt </seg><lb break="yes"/><seg ana="#signed"><hi rendition="#c">von Ihrem
+                                stets </hi><lb break="yes"/><hi rendition="#r">dankbaren Schüler<lb break="yes"/><hi rendition="#i"><surname>F.</surname> Jakob</hi>.</hi></seg></p>
+<pb facs="#image_060"/>
+<p> Jakob <surname>F.</surname><lb break="yes"/>rückfalliger Patient<lb break="yes"/>der Heil u. Pflegeanstalt<lb break="yes"/><hi rendition="#i">in Kaufbeuren </hi></p>
+<p>
+<hi rendition="#i">An H. Otto </hi><surname><hi rendition="#i">H.</hi></surname><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">Hauptlehrer </hi><lb break="yes"/><hi rendition="#i">in Ursberg</hi>: a/<hi rendition="#sub">Mindel</hi><lb break="yes"/>Post daselbst (Schwaben)</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1901p03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1901</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vitus <surname>P.</surname></persName>
+<date type="sent">14.07.1887</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor:  von <surname>N.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1901p">
+<persName>
+<forename>Vitus</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1860"/>
+<death when="1899"/>
+<occupation>Kutscher</occupation>
+<residence><geo decls="#WGS">48.7175882 11.3200748</geo>Weichering, Neuburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Söldner</p>
+<p from="1887" to="1899">Anstalt: 1887-1899</p>
+<p from="1887" to="1899">Brieftypen: po, pp </p>
+</state>
+<trait><p>Halluzinatorische Verrücktheit (1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    hatte Weltkugel im Körper, etwas aus seinem Körper heraus und verbrannt, Luft wurde schwarz
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1901p03a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb1901p03b.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb1901p03c.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline>Kaufbaiern den 14 Juli 1887</dateline>
+<salute>Ser Verehrthester Herr Docktor v Nusbaum</salute>
+</opener>
+<p> Ich theile Ihnen mit daß ich<lb break="yes"/>die Weltkugel über die 5 Weltheile<lb break="yes"/>wo Ich in meinen Körper gehabt habe<lb break="yes"/>in Mir gehabt
+                habe bis Ich auf<lb break="yes"/>Zele Ze kam̄ es ist etwa 2 bis 3<lb break="yes"/>Monate her als mich ein Pfleger<lb break="yes"/>um die Mitte um
+                meinen Körper<lb break="yes"/>gepackt hatte und mir waß abtrückte<lb break="yes"/>u. aus meinen Körper hinten <pb facs="#image_010"/> hinaus ging und deß andern
+                    Tags<lb break="yes"/>an der Son̄e verbran̄te es<lb break="yes"/>wahr damals als die Luft so<lb break="yes"/>schwarz wurde.</p>
+<p><hi rendition="#c">Meine Unterschrift heißt<lb break="yes"/><lb break="yes"/>Vitus <surname>P.</surname></hi></p>
+<p>Dieser Docktor der nach dem Docktor<lb break="yes"/>Wenker in der Irrenanstalt
+                    war<lb break="yes"/>in Müchen hat den <del>Dakt</del> Vitus
+                    <surname>P.</surname><lb break="yes"/>auf den Kopf getrugt im Vorbeu<lb break="no"/>gehen mit Herrn <w>Ober. Arzt</w>. <pb facs="#image_011"/>
+<hi rendition="#c">An<lb break="yes"/>Herrn Docktor v Nusbaum<lb break="yes"/>in<lb break="yes"/>München</hi>
+</p>
+</body>
+</text>
+</TEI>

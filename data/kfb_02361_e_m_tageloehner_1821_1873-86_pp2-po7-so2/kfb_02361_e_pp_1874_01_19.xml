@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2361e11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Laurentiu Gafiuc</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2361</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Leopold <surname>E.</surname></persName>
+<date type="sent">19.01.1874</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: n.a. <surname>n.</surname> </persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2361e">
+<persName>
+<forename>Leopold</forename>
+<surname>E.</surname>
+</persName>
+<birth when="1821"/>
+<death when="1886"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">47.7532903 10.3198281</geo>Ursulasried, St. Mang, Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verhieratet</p>
+<p from="1873" to="1886">Anstalt: 1873-86</p>
+<p from="1873" to="1886">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Tobsucht, Erregungszustände (1873), Wahnideen (1874)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Der Schreiber will sich in den Willen Gottes fügen. Den Rosenkrank kann seine Mutter aber abholen. Er sei gesund und nur in der Anstalt, weil die Mutter ihm nicht mehr helfen will.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2361e11a.jpg" xml:id="image_024"/>
+<graphic mimeType="image/jpg" url="kfb2361e11b.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb2361e11c.jpg" xml:id="image_026"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline><hi rendition="#c">Jhrse den 19 ten Jäner 1874</hi></dateline>
+<salute>Liebe Mutter</salute>
+</opener>
+<p>O Heilige Jungfrau Maria bit<lb break="yes"/>für uns Adans Kinder das wir<lb break="yes"/>nicht zu grude gehen.<lb break="yes"/>dud must dir denken wens was<lb break="yes"/>gutes zu Essen und zu Thrinken<lb break="yes"/>wehr lifen die
+                großen Hern nicht aus<lb break="yes"/>du warst so gescheid gegen meiner<lb break="yes"/>das dir kein Avokat nicht anhete könen<lb break="yes"/>Jch muß
+                mich Jhn den Wüllen des Hern<lb break="yes"/>geben und du auch anders kän Jch<lb break="yes"/>wie es nicht verstehe viel bethen macht<lb break="yes"/>Kopfweh
+                ich habe noch nie mals so viel<lb break="yes"/>gebethet, den Rosenkrans kanst <pb facs="#image_025"/>du hollen wan du wielst, den Jch wiel<lb break="yes"/>kein
+                Franziskaner werden und kein<lb break="yes"/>Kapuziner den weil die Klöster nie<lb break="yes"/>mand mehr wiesen wiel.<lb break="yes"/>Jch bin Gottlob so Ehrbar
+                gesund<lb break="yes"/>und bin wieder gut aufgenohmen<lb break="yes"/>worden weil
+                du nich nicht mehr<lb break="yes"/>helfen wielst. Vir die Mühe einen<lb break="yes"/>sehr großen Dank. Die Sie eingefunden<lb break="yes"/>haben. Jch
+                wünsche dir alles ... in<lb break="yes"/>Ursulasrid es sind noch viele
+                    <unclear>Lemthe</unclear><lb break="yes"/>drust wan Eüh das Licht nicht aufgeht <pb facs="#image_026"/>köntet
+                schon herein bringen. Wan<lb break="yes"/>Dieses der Wunsch des Hern ist aber<lb break="yes"/>Jch glaube der wunsch von den Alt<lb break="yes"/>Katholiken und
+                nicht von Konig<lb break="yes"/>und Kaißer. Der noch langen leben<lb break="yes"/>Möchte und Jch und alle auf der<lb break="yes"/>Welt das nicht schwarz sondern<lb break="yes"/>weis bleiben <seg ana="#salute">was. Jch eich von Herzen<lb break="yes"/>wünsche.</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Lebold
+                            <surname>E.</surname>
+</seg>g</hi></p>
+<p><hi rendition="#r">Monika<lb break="yes"/>du kanst helfen</hi>
+</p>
+</body>
+</text>
+</TEI>

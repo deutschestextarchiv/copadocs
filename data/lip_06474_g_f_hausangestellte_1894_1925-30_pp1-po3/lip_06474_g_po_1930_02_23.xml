@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip6474g03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>6474 (K. 70)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Margarete <surname>G.</surname></persName>
+<date type="sent">23.02.1930</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">Gütersloh</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip6474g">
+<persName>
+<forename>Margarete</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1894-03-16"/>
+<death cert="unknown"/>
+<occupation>Hausangestellte</occupation>
+<residence><geo decls="#WGS">51.9063997 8.3782078</geo>Geburtsort: Gütersloh; Wohnort: Gütersloh</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater: Lokomotivführer a.D., Mutter: n.a.</p>
+<p from="1925-07-27" to="1930-03-22">Anstalt: 27.07.1925-22.03.1930</p>
+<p from="1925-07-27" to="1930-03-22">Brieftypen: pp, po</p>
+</state>
+<trait>
+<p>Schizophrenie (1925)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin teilt mit, dass sie bei ihrer Mutter bleiben wird, weil sie schon längst entlassen werden sollte und sie ihren eigenen Unterhalt verdienen kann. Sie hat sich auch schon um eine Stelle beworben.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip6474g03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="lip6474g03b.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Gütersloh,
+                    23.2.1930.</hi></hi></dateline>
+<salute><hi rendition="#i"><hi rendition="#c">Werter Herr Direktor!</hi></hi></salute>
+</opener>
+<p><hi rendition="#c"><add hand="hand2">6474 −</add></hi></p><p><hi rendition="#i">Möhte Ihnen freundlichst mit</hi><lb break="no"/><hi rendition="#i">teilen, daß
+                    ich noch bei meine </hi><lb break="yes"/><hi rendition="#i">Mutter weile, bleibe
+                    noch einige </hi><lb break="yes"/><hi rendition="#i">Wohen hier. Weil ich schon
+                    vor </hi><lb break="yes"/><hi rendition="#i">(einigen) einem Jahr entlassen
+                    </hi><lb break="yes"/><hi rendition="#i">werden sollte und ich es nicht vor<lb break="yes"/>nötig halte noh länger in der<lb break="yes"/>Anstalt zu sein.
+                    Da ich doch ge</hi><hi rendition="#i"><lb break="no"/>sund bin und mir mein Brot<lb break="yes"/>selber verdienen kann. Ich habe </hi><pb facs="#image_007"/><hi rendition="#i">mich hier schon um eine Stelle er</hi><hi rendition="#i"><lb break="no"/>worben. Ich bitte darum um den<lb break="yes"/>4 wöchentlichen
+                    Nachurlaub, der ein<lb break="yes"/>bischen <w>zu</w><w>spät</w> eintraf.<lb break="yes"/></hi><hi rendition="#c"><seg ana="#salute"><hi rendition="#i"><seg ana="#salute">Hochachtungsvoll</seg></hi></seg><hi rendition="#i"><lb break="yes"/></hi><seg ana="#signed"><hi rendition="#i">Margarete
+                                </hi><surname><hi rendition="#i">G.</hi></surname></seg><hi rendition="#i"><lb break="yes"/>per Adr. Frau Wtw. </hi><surname><hi rendition="#i">G.</hi></surname></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Gütersloh<lb break="yes"/></hi><placeName type="street"><hi rendition="#i">Acker</hi></placeName><hi rendition="#i"> Str. 10.
+                        </hi><hi rendition="#sup"><hi rendition="#i">I.</hi></hi></hi></p>
+</body>
+</text>
+</TEI>

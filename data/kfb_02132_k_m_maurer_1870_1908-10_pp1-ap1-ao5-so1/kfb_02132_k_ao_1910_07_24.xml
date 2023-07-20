@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2132k02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2132</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>K.</surname></persName>
+<date type="sent">24.07.1910</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2132k">
+<persName>
+<forename>Josef</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1870"/>
+<death when="1910"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">48.6147593 10.7211365</geo>Pfaffenhofen a. d. Zusam, Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1908" to="1910">Anstalt: 1908-10</p>
+<p from="1908" to="1910">Brieftypen: pp, ao, ap</p>
+</state>
+<trait><p>Pr[ogressive] Par[alyse]  (1909)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin bittet um eine Auskunft über das Befinden ihres Mannes.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2132k02.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg, den 24. Juli 10.</hi></dateline>
+<salute><hi rendition="#c">Hochgeehrter Herr Oberarzt!</hi></salute>
+</opener>
+<p>Indem schon wieder eine Zeit lang<lb break="yes"/>verfloßen seit ich den vorigen
+                Brief<lb break="yes"/>erhalten hab, Sie möchten doch gut<lb break="yes"/>sein und
+                bald wieder eine Antwort<lb break="yes"/>mittheilen wie es denn mit<lb break="yes"/>meinem Mann geht ob es<lb break="yes"/>im̄er noch gleich ist oder nicht.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Es grüßt euch
+                        bestens</seg><lb break="yes"/><seg ana="#signed">Maria <surname>K.</surname></seg>
+</hi></p>
+<p>Adreße <add place="inline">F.</add>M. K. Fabrikarbeiterin Augsburg<lb break="yes"/><hi rendition="#r">Hinterlech R. 606/7 II <unclear>Tal</unclear></hi>,</p>
+</body>
+</text>
+</TEI>

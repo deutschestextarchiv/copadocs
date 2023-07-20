@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k26" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>K.</surname></persName>
+<date type="sent">08.07.1856</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Taufpate: Franz Xaver <surname>R.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1865" to="1867">Anstalt: 1865-67</p>
+<p from="1865" to="1867">Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er erzählt von seiner Hochzeit und seiner Frau und bittet um Aufnahme.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k26a.jpg" xml:id="image_049"/>
+<graphic mimeType="image/jpg" url="kfb415k26b.jpg" xml:id="image_050"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_049"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Irrsee</hi> den 8. <hi rendition="#i">July</hi> 1856.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Hochwürdiger Hochzuverehrender,<lb break="yes"/>gütigster Herr Taufpathe</hi></hi></salute>
+</opener>
+<p>Auf ausdrücklichen Wunsch d. Hl. <hi rendition="#i">Dierector Dr. Kiederle</hi><lb break="yes"/>und meines behandelden Arztes d. k. Regiment. Arztes<lb break="yes"/><hi rendition="#i">Dr. <surname>S.</surname></hi> in Kempten soll
+                ich <hi rendition="#i">Ihnen</hi> lieber Hs. Taufpathe<lb break="yes"/>Nachstehendes
+                mittheilen. − Sie möchten die Güte haben<lb break="yes"/>und einige Zeit in
+                ihrem Pfarrhause <add place="above">mir</add> einen Aufenthalt<lb break="yes"/>geben. Ferner soll ich Ihnen mittheilen, daß meine<lb break="yes"/>physischen
+                Zustände vollkommen normal sind; ein<lb break="yes"/>Hauppunkt der Besprechung,
+                bittet mit <hi rendition="#i">Ihnen</hi> auch<lb break="yes"/>meine demnächst
+                erfolgende Verehlichung mit meinem<lb break="yes"/>lieben, theuren Schatz <hi rendition="#i">Babette <surname>D.</surname></hi> b. <unclear>Dettienersters
+                    Locht</unclear><lb break="yes"/>geb. zu Freysing. Da dieses Ereignis eine Lebensfrag<lb break="yes"/>für uns beide ist, so bitte ich um Rath, u. erlaube vorzuschlagen<lb break="yes"/><w>mit einander</w> Nach Freysing zu reißen, od. was sie
+                vorschlagen<lb break="yes"/>wollen. Ich ken̄e mein Liebchen bereis 14 Jahr,
+                das Ver<lb break="no"/>hältniß dauert 6 Jahre, ist ausgezeichnt gebildet in<lb break="yes"/>jeder Beziehung, nett u. wohlhabend. Meine<lb break="yes"/>Ankunf
+                werde ich Ihnen einige Tage vorher anzeigen.<lb break="yes"/><seg ana="#salute">Unter 1000 Dergleichen Grüßen</seg> zeichnet sich /.<unclear>stein</unclear>./<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Ihr </hi>dankbarster
+                        Hochachtung<add place="below">vollt −</add><lb break="yes"/>X. <hi rendition="#i"><surname>K.</surname> k. Milit.
+                        Vet.</hi> Arzt 4. <hi rendition="#i">Chv.<lb break="yes"/>leg Rgt.
+                        "Koenig"</hi> Kempten</hi></p>
+<pb facs="#image_050"/>
+<p>Seiner <hi rendition="#i">Hochwürden Hochzuverehrender</hi><lb break="yes"/>sz. Herrn Franz Xaver <hi rendition="#i"><hi rendition="#u"><surname>R.</surname></hi></hi>, k<lb break="yes"/>Kapitel-Kämmere u.
+                Pfarrer<lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Kiklingen</hi></hi>. b.<lb break="yes"/><hi rendition="#i">Dillingen</hi> / davon</hi><lb break="yes"/>francomarki<lb break="yes"/>3 fr.</p>
+</body>
+</text>
+</TEI>

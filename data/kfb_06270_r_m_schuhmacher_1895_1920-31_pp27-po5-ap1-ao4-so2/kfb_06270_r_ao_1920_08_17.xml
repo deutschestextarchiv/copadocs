@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb6270r06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Stephanie Kamm</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>6270</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: Franz Joseph <surname>R.</surname></persName>
+<date type="sent">17.08.1920</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Erisried</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb6270r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1895"/>
+<death cert="unknown"/>
+<occupation>Schuhmacher</occupation>
+<residence><geo decls="#WGS">48.0048016 10.4324403</geo>Erisried, Mindelheim</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Schuhmacher</p>
+<p from="1920" to="1931">Anstalt: 1920-31</p>
+<p from="1920" to="1931">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Schizophrenie (1934), vorl. Diagn. Dementia praecox (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink_blue" scope="major" scribe="vater"/>
+<handNote medium="ink_black" scope="minor" scribe="vater2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Entlassung des Sohnes
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb6270r06a.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Erisried</hi>, den 17. August 1920.</hi></dateline>
+<salute><hi rendition="#r"><hi rendition="#i">Sehr g</hi>ee<hi rendition="#i">hrter Herr Medizinalrat.</hi></hi></salute>
+</opener>
+<p><space/> Ich möchte Sie freundlichst bitten,<lb break="yes"/>mir mittzuteilen wie
+                das Befinden<lb break="yes"/>meines Sohnes ist, der jetzt im fünften<lb break="yes"/>Monat in der Anstalt unterbracht ist.<lb break="yes"/>Außerdem bin ich
+                geson̄en; wenn an<lb break="yes"/>Ihm <add place="above">keine</add>
+                Besserung in <add place="above">Ausicht</add> mehr steht, Ihn in Bälde<lb break="yes"/>wieder heimzunehmen da meine Vermö<lb break="no"/>gensverhältnisse
+                es nicht erlauben für<lb break="yes"/>längere Zeiten aufzukom̄en.<lb break="yes"/><seg ana="#salute">Im voraus besten Dank grüßt<lb break="yes"/><hi rendition="#c">Sie<lb break="yes"/>Achtungsvollst </hi><lb break="yes"/><seg ana="#signed">Franz Jos. <hi rendition="#i"><surname>R.</surname></hi>.</seg></seg>
+</p><p><add hand="vater2"><hi rendition="#r">Schuhmachermstr<lb break="yes"/><hi rendition="#i"><hi rendition="#u">Erisried</hi></hi><lb break="yes"/>B.A. Mindelheim</hi></add></p>
+</body>
+</text>
+</TEI>

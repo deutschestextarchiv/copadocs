@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun5988f06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>5988 (K. 90)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>F.</surname></persName>
+<date type="sent">ca. 1920-26</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geheimrat: n.a. <surname>D.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun5988f">
+<persName>
+<forename>Heinrich</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1879-07-10"/>
+<death cert="unknown"/>
+<occupation>Landwirt</occupation>
+<residence><geo decls="#WGS">51.9097831 7.958472934876058</geo>Geburtsort: Freckenhorst; Wohnort: Freckenhorst</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Landwirt; Mutter: n.a.</p>
+<p from="1920-03-29" to="1920-08">Anstalt: 29.03.1920-xx.08.1920</p>
+<p from="1920-03-29" to="1920-08">Brieftypen: 14.04.1922-14.07.1923</p>
+</state>
+<trait><p>Schizophrenie (1920)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                Er bittet um Entlassung aus der Anstalt, um seinem Vater bei der Arbeit zu helfen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun5988f06.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline/>
+<salute>Geehrter Geheimrat Dercken!</salute>
+</opener>
+<p>Möchte eine frage an Ihnen<lb break="yes"/>zu reichen um eine Schriftliche<lb break="yes"/>entlassung. Mein Vater der<lb break="yes"/>alt ist und sonst an
+                Kräften<lb break="yes"/>fehlt wo es jetzt die <w>Heu<lb break="no"/>Ernte</w> geht
+                und <w><add place="above">Rüpen</add> Pflanzen</w> und<lb break="yes"/>für die
+                erhaltung des Viehes und<lb break="yes"/><w>in Stand</w><w>halten</w> der Weiden da<lb break="yes"/>auch kein Vertreter da ist<lb break="yes"/>welcher mit
+                Mämaschienen Arbeiten<lb break="yes"/>könnte und sonstige Landwirtschaftliche<lb break="yes"/>Geräte nicht betraut sind um <w>in<lb break="no"/>Stand</w><w>halten</w>
+<del>um</del> des Kolonat<lb break="yes"/><surname>F.</surname> möchte ich
+                Sie freundlichst<lb break="yes"/>Bitten um entlaßung.<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Heinrich
+                    <surname>F.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

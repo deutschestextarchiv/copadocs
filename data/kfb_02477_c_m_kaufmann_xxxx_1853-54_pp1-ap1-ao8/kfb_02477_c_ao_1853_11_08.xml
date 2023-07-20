@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2477c08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2477</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>K.</surname></persName>
+<date type="sent">8.11.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Gunzenhausen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2477c">
+<persName>
+<forename>Moritz</forename>
+<surname>K.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">49.1147095 10.7545933</geo>Gunzenhausen</residence>
+<faith>jüdisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1853" to="1854">Anstalt: 1853-54</p>
+<p from="1853" to="1854">Brieftypen: pp,ap,ao</p>
+</state>
+<trait><p>"trübe Gemüthsstimmung &amp; einen Zustand von Schwermuth“ (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Ehefrau des Patienten fordert wiederholt Nachricht über ihren Mann oder einen Besuch ein. Außerdem spricht sie von einer Begegnung ihres jüdischen Mannes mit einem Pfarrer.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2477c08a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener><dateline/>
+<salute><hi rendition="#c">Euer Wohlgeboren</hi></salute>
+</opener>
+<p>Welche Gefühle sich meiner bemähtigen, beim durchlesen<lb break="yes"/>der
+                Briefe von meinem Man̄, kön̄en sich Euer<lb break="yes"/>Wohlgeboren
+                hineindenken, u wird der Koreßpontenz<lb break="yes"/>mit meinen Man̄ nicht
+                nachtheilig wirken.<lb break="yes"/>Jch habe auch in − Erfahrung gebracht,
+                daß ein<lb break="yes"/>gewisser Pfarer <surname>B.</surname>, mein
+                Man̄gesprochen, den<lb break="yes"/>er in <unclear>Laad</unclear>
+                ken̄en lernte, von welchen mein<lb break="yes"/>Man̄ Psalm Davids
+                hatte, welches ich nächste Woche<lb break="yes"/>schicken werde, wen̄ es
+                Euer Wohlgeboren erlauben<add place="below">?</add><lb break="yes"/>meine Sehnsucht alle Woche Nachricht über
+                den Befinden<lb break="yes"/>von meinem Man̄ zu erhalten, wird
+                Endschultigung<lb break="yes"/>finden. <hi rendition="#c"><seg ana="#salute">Hochachtungsvoll</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Joha</hi><hi rendition="#i">n̄a</hi>
+<surname><hi rendition="#i">K.</hi></surname></seg><lb break="yes"/><hi rendition="#i">Gunzenhausen</hi> d<hi rendition="#i">en</hi>
+                    8 November <hi rendition="#u">1853</hi></hi>
+</p>
+<p><hi rendition="#i">NB.</hi> wan̄ kan̄ ich Hoffnung haben, meinen
+                Man̄ besuchen<lb break="yes"/>dürfen? bitte Euer Wohlgeboren, mir dies sagen
+                zu<lb break="yes"/>wollen, wen̄ es in Ihrer Möglichkeit liegt</p>
+<p><add hand="arzt">d. 19 Novbr 53.<lb break="yes"/><space/> Nach wiederholten
+                    Mahnungen zu <unclear>schreiben</unclear> hat hr <surname>K.</surname>
+                    noch den<lb break="yes"/>beiliegenden Gruß zu Stande gebracht,<unclear> der
+                        freilich zieml</unclear>
+<unclear/> Er ist noch im̄er<lb break="yes"/>voll Unentschlossenheit. u
+                    Er hat sich jetzt die fixe Jdee in den Kopf gesetzt auf <unclear>die
+                        zur</unclear>
+<unclear/></add>
+</p>
+</body>
+</text>
+</TEI>

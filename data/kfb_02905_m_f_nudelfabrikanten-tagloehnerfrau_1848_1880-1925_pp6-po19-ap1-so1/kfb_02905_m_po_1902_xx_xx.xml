@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2905m25" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2905</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Helene <surname>M.</surname></persName>
+<date type="sent">1902</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Pfarrer: Joseph <surname>W.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2905m">
+<persName>
+<forename>Helene</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1848"/>
+<death when="1925"/>
+<occupation>Nudelfabrikanten-/Taglöhnerfrau</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern:</p>
+<p from="1880" to="1925">Anstalt: 1880-1925</p>
+<p from="1880" to="1925">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Fixe Ideen, Beeinträchtigungswahn (1881)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Aufzählung von Namen und Ämtern
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2905m25a.jpg" xml:id="image_060"/>
+<graphic mimeType="image/jpg" url="kfb2905m25b.jpg" xml:id="image_061"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_060"/>
+<opener>
+<dateline>Durch heutig Güte erlauben<lb break="yes"/>Nach dem Würtemberger<lb break="yes"/>Realttack <space/> Kalender 1902.</dateline>
+<salute>Hochwürdsch Hl. Pfarrerei<lb break="yes"/>Joseph
+                        <surname>W.</surname> Stadt<lb break="no"/>pfarrei Kaufbeuri
+                    jäh,</salute>
+</opener>
+<p>Helene <surname>G.</surname> Evangelisch<lb break="yes"/>Schulz
+                zprotestantisch Evangelisch<lb break="yes"/>Schullutherisch Heirath wan<lb break="yes"/>Rathaussatzung gemeindschulz<lb break="yes"/>Christophl. Ludwig
+                gerichtlich<lb break="yes"/>Hochwürd <surname>D.</surname> Stadt<lb break="no"/>schultheißa Amts Sackristeil<lb break="yes"/>Lutherthaus Stuttgart <unclear/><lb break="yes"/>Wango Ober/Amtsgerichtl.<lb break="yes"/>Ludwigsche Ersters Stadtpfarrer<unclear/><lb break="yes"/>Handelsman̄ Jsny<lb break="yes"/>Joh. Georg
+                    <surname>G.</surname> Weber<lb break="no"/>meistereiel
+                    L<unclear>einwandsche</unclear><lb break="yes"/>Ehgattinsch Christina <surname>G.</surname><lb break="yes"/>geborne <surname>G.</surname>b Baumwollweberei<lb break="yes"/>Volksschullehrerrath hausstaikern<lb break="yes"/>Jsnys Schultheiß Schullehre Ehg<unclear/><lb break="yes"/><add place="margin">Helne <surname>G.</surname> geboren den
+                    21. May 1848.<lb break="yes"/><unclear/> Zeit in Kleinschule eingehnt war zu
+                    der Babett <unclear/><lb break="yes"/>Gemeind Deckerrnalsstan<unclear>sttanderlehreoreih
+                        Jsny</unclear></add></p>
+<pb facs="#image_061"/>
+<p>In<unclear>s</unclear> Seinem Namen des Königen<lb break="yes"/>Mayestät
+                <space/> Erlauch Hochh<unclear/><lb break="yes"/>Hochwürdiger Rath<lb break="yes"/>HE Pfarrei Joseph <unclear/><lb break="yes"/><surname>W.</surname> von<lb break="yes"/>Friesenhofen Wirthssohn<lb break="yes"/>Neuerdingsstreck<lb break="yes"/>Kaufbeuri Joseph <surname>W.</surname><lb break="yes"/>Stadtpfarrer in Kaufbeuri,<lb break="yes"/>Jrrseer Reallandpfarr<lb break="yes"/>Joseph <surname>E.</surname> Ehri<lb break="yes"/>Jrrsees streck Kaplanei<lb break="yes"/>Julius <surname>E.</surname>
+                geb.<lb break="yes"/>von Würrttemberg Jsny<lb break="yes"/>Michel
+                    <surname>F.</surname> knecht v. Jsny<lb break="yes"/>Seckomensstreck
+                Käserm<lb break="yes"/>Jsnyers Sen̄ von der Vähntin<lb break="yes"/>kaplan
+                von Werlnag<lb break="yes"/><seg ana="#salute">Grüß Euch heurig.</seg> jäh Helene
+                    <surname>G.</surname><lb break="yes"/><add place="margin">J. N. S. M. d. Ka v. D<unclear/>. in
+                        <unclear>Beoln F Rettin</unclear></add><lb break="yes"/><add place="margin">Reformationsstock Reichormations<lb break="yes"/>Schul Lutherisch Schuzpprotestante Evangelisch Helene
+                        <surname>M.</surname></add></p>
+</body>
+</text>
+</TEI>

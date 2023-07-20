@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1587k02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1587</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Albert <surname>K.</surname></persName>
+<date type="sent">02.11.1876</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: n.a. <surname>K.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1587k">
+<persName>
+<forename>Albert</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1853"/>
+<death cert="unknown"/>
+<occupation>cand. Jur.</occupation>
+<residence><geo decls="#WGS">48.7274379 11.1781865</geo>Neuburg a. D.</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Stadt- u. Landrichter in Neuburg</p>
+<p from="1876" to="1877">Anstalt: 1876-77</p>
+<p from="1876" to="1877">Brieftypen: pp, ao</p>
+</state>
+<trait><p>[Geistesstörung]</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet seine Eltern eindringlich, ihn abzuholen, da er seine 
+                    gewohnten u. geregelten Tätigkeiten brauche, um sich seelisch besser zu fühlen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1587k02a.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb1587k02b.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuern den<lb break="yes"/>2 Nov. 1876.
+                    </hi></dateline>
+<salute><hi rendition="#c">Beste Eltern!</hi></salute>
+</opener>
+<p>Ich bitte u. beschwöre Sie um des<lb break="yes"/>heiligen Namens Christi
+                willen, mich<lb break="yes"/>nach Hause zu lassen.
+                <del><unclear>Di</unclear></del>Die Dinge, die<lb break="yes"/>mir hier passiern,
+                sind furchtbar. Ich<lb break="yes"/>stehe in <w>der</w><w>schrecklihsen</w> Gefahr,
+                        <del>f<unclear>ür</unclear></del><lb break="yes"/>mein ewiges Seelenheil zu verlieren, wen̄ ich<lb break="yes"/>mich nicht durch m<del>ei</del><add place="above">ei<unclear/></add>ne gewohnte geregelte Be<lb break="no"/>schäftigung, durch
+                mein Studium u. durch <del>das</del>
+<add place="above">die</add><lb break="yes"/>Bewußtsein der Angehörigkeit <del><unclear/></del> u. Zer<lb break="no"/>streuung bei Eltern u. Geschwisterten von meinem<lb break="yes"/>qualvollen Seelenzustand
+<w>frei machen</w> kann.</p>
+<pb facs="#image_003"/>
+<p><seg ana="#salute"><hi rendition="#c">In dieser Hoffnung bin ich Ihr allzeit<lb break="yes"/></hi><hi rendition="#r">dankbarer Sohn<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Albert</hi>.</seg></hi>
+</p><p>Kom̄en Sie schleunigst.</p>
+</body>
+</text>
+</TEI>

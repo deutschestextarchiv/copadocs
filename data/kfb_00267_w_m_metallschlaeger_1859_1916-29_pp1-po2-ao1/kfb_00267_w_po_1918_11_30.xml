@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb267w03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>267</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann Adam <surname>W.</surname></persName>
+<date type="sent">30. November 1918</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: n.a.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb267w">
+<persName>
+<forename>Johann Adam</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1859"/>
+<death cert="unknown"/>
+<occupation>Metallschläger</occupation>
+<residence><geo decls="#WGS">48.4776716 10.4831576</geo>Waldkirch, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1916" to="1929">Anstalt: 1916-1929</p>
+<p from="1916" to="1929">Brieftypen: pp,po</p>
+</state>
+<trait><p>Halluzinationen, Paranoia, Trunksucht (1915)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient bittet um die Zusendung verschiedener Dinge, die er zurücklassen musste.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb267w03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb267w03b.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb267w03c.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#c">Irsee den 30 Nov. 1918</hi></dateline>
+<salute>Wehrter Herr Bürgermeister.</salute>
+</opener>
+<p>Sorgetragend für mich, denke ich<lb break="yes"/>daß Ihr meine hinderlassenen<lb break="yes"/>Efekten in aufbewahrung<lb break="yes"/>gebracht haben würden da
+                ich in<lb break="yes"/>der Eile nicht mehr daran gedacht<lb break="yes"/>habe
+                dieselben mitzunehmen<lb break="yes"/>um welche ich auch in dringenster<lb break="yes"/>Nöthe bitte dieselben abzuschicken<lb break="yes"/>den bei dieser
+                Kriegsteuerung<lb break="yes"/>ist es mir nicht möglich von<lb break="yes"/>den
+                270 M Taschengeld wo mir<lb break="yes"/>die Armenpflegschaft <hi rendition="#i">Waldkirch</hi><lb break="yes"/>zudicktirt hat nicht kaufen &amp; ich<lb break="yes"/>habe schon
+                einige male Karten<lb break="yes"/>an verschiedene Personen um<lb break="yes"/>meine Kriegshefter <add place="above">abgesend</add> aber nichts<lb break="yes"/>beckomen bitte also nochmals<lb break="yes"/>mir alles zu senden wen nicht<lb break="yes"/>alles schon veräumt ist</p>
+<pb facs="#image_008"/>
+<p>Wehrter Herr Bürgermeister?<lb break="yes"/>Möchte gütigst Anfragen ob ich<lb break="yes"/>keinen Anschluß habe an <hi rendition="#i">Waldkirch</hi><lb break="yes"/>oder ob ich ganz u gar dem Landes<lb break="no"/>verband angehöre
+                    <w>noch</w><w>einmal</w><lb break="yes"/>möchte ich doch meine Heimath<lb break="yes"/>nochmal sehen u wan
+                es ein<lb break="yes"/>Urlaub wäre natürlich handelts<lb break="yes"/>sich um eine
+                Arbeitsaufname<lb break="yes"/>z.B. <hi rendition="#i">Mülersleute</hi> ich habe den<lb break="yes"/>Antrag schon gestel<del>l</del>t aber wegen<lb break="yes"/>der Kriegszeit ist mir welcher<lb break="yes"/>nicht gewährt worden ich habe<lb break="yes"/>an und für sich nicht mehr glaubt<lb break="yes"/>daß ich den
+                Frieden noch erlebe<lb break="yes"/>möchte schon gerne wissen<lb break="yes"/>auch
+                wie es in <hi rendition="#i">Waldkirch</hi> zugeht<lb break="yes"/>was als Gestorben
+                u nicht<lb break="yes"/>verhungert ist daß kan aber nicht<lb break="yes"/>sein
+                weil ich nicht mehr im <unclear>Inre</unclear><lb break="yes"/>bin <seg ana="#salute">Viele Grüße an alle Göner</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r">Euer dankbarer <hi rendition="#i">Hans </hi><lb break="yes"/><hi rendition="#i">J.
+                                <surname>W.</surname></hi></hi></seg></p>
+<pb facs="#image_009"/>
+<p><hi rendition="#c">Ads. An das Vehrerliche Pfarramth<lb break="yes"/><hi rendition="#i">Waldkirch</hi><lb break="yes"/><hi rendition="#i">St Burgau </hi><lb break="yes"/><hi rendition="#i">post Winterbach</hi></hi></p>
+</body>
+</text>
+</TEI>

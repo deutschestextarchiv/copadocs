@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1298s06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Susanne Klohn</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1298</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Viktoria <surname>S.</surname></persName>
+<date type="sent">01.06.1885</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tochter: Brigita <surname>n.</surname></persName>
+<settlement type="sent">Adelsried</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1298s">
+<persName>
+<forename>Viktoria</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1852"/>
+<death cert="unknown"/>
+<occupation>Farbikarbeiterin</occupation>
+<residence><geo decls="#WGS">48.0290394 10.7340993</geo>Buchloe, Kaufbeuren</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Mutter Dienstmagd, Vater: Sergent (?)</p>
+<p from="1884" to="1885">Anstalt: 1884-1885</p>
+<p from="1884" to="1885">Brieftypen: pp, po, sonst</p>
+</state>
+<trait><p>Verrücktheit mit Größen-, Verfolgungs- und Beeinträchtigungswahn (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Brief geht eigentlich an die Tochter, aber angesporchen werden mehrere Personen; schweift oft in religiöses Schreiben ab
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1298s06.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline><hi rendition="#r"> Adels ried <hi rendition="#i">Augsburg </hi>deine <hi rendition="#i">Mark 1 Jun 1885</hi></hi><lb break="yes"/></dateline>
+<salute><hi rendition="#c"> Geliebte Tochter Brigita</hi><lb break="yes"/></salute>
+</opener>
+<p> Ich fühle mich verpflichtet Dir über den Zustand meiner<lb break="yes"/>Krankheit
+                  zu benachrichten; Ich fühlte mich Glücklich wen̄<lb break="yes"/>ich nur
+                      wieder in Eurer Mitte weilen kön̄te.<lb break="yes"/>Ich fühlte mich wohl
+                glücklich da ich die Klosterkirche besuchen<lb break="yes"/>durfte während der
+                    hohen Festtage.</p>
+<p>Geliebte Brigitta Ida wen̄ ich nur die
+                Josefa <surname>S.</surname><lb break="yes"/>auch noch an meine Brust drücken
+                      dürfte und und Küßen<lb break="yes"/>Mit Frieden Freude Fröhlichkeit l Umarmen ja
+                      dieses<lb break="yes"/>Glück kön̄ten viele viele Schreiber nicht
+                beschreiben noch fassen<lb break="yes"/>Geliebte Schwestern wo Ir die Pfege meiner
+                Geliebten eiges<lb break="yes"/>Ja mein Fleisch und Blut <w>über nomen</w> habt habt sorge ich sorge<lb break="yes"/>zu viel für Euch
+                Son̄e Mond wan̄ komt mein Glücks Stern wo mich<lb break="yes"/>führt
+                in mein Gelobtes Land und <w>Vaters Stadt</w> zu meinen
+                lieben Teuren zurück.<lb break="yes"/></p>
+<p>
+<add place="margin"><seg ana="#salute">In Die viele hl Messen wo in der ganzen Welt gelesen werden<lb break="yes"/>herzliche tausend Grüßen an Euch Alle<lb break="yes"/>so wie
+                    Tante <surname>h.</surname> Onkel Alois und Tante <surname><hi rendition="#i">H.</hi></surname></seg></add><lb break="yes"/></p>
+<p>
+<add place="margin"> <seg ana="#salute">herzlich Grüße an euch <w>tausend
+                        fach</w><lb break="yes"/>Vetter Ferdinand und Deine Tauf und Firmpathin</seg><lb break="yes"/>Wen̄ Ihr mich noch lange in diesen <w>Jamer thale</w> lasst<lb break="yes"/>Dan
+                                kan̄s schon noch zur <w>schwer Muth</w>
+                                kom̄en aber<lb break="yes"/>nicht zur verzweiflung <seg ana="#salute">gruß herrn
+                        <unclear>Karn Gevetern</unclear></seg></add>
+</p>
+</body>
+</text>
+</TEI>

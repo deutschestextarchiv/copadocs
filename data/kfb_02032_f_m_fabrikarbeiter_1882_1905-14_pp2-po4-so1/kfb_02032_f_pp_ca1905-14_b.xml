@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2032f04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2032</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Albert <surname>F.</surname></persName>
+<date type="sent">ca1905-14</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Johann <surname>F.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2032f">
+<persName>
+<forename>Albert</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1882"/>
+<death when="1914"/>
+<occupation>Fabrikarbeiter</occupation>
+<residence><geo decls="#WGS">47.553545 9.7064009</geo>Reutin, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Wechselwärter</p>
+<p from="1905" to="1914">Anstalt: 1905-14</p>
+<p from="1905" to="1914">Brieftypen: po, pp</p>
+</state>
+<trait><p>Tobsucht, Halluzinationen (1905-1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte geholt werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2032f04a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb2032f04b.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#i">Grus von <surname>F.</surname>
+<del>Albert</del> das ich<lb break="yes"/>in Kaufbauren bin. So er<lb break="no"/>suche ich Sie mich baldiegst<lb break="yes"/>holen und beim
+                    Herrn Prin<lb break="no"/>zinger anfragen! Oder beim<lb break="yes"/>Herrn
+                    Oberamtsrichter in<lb break="yes"/>Kaufbeuren oder in Lindau beim
+                    Bezierksamtman̄. Vergissmeinicht!</hi>
+<pb facs="#image_009"/>
+<handShift medium="ink" scribe="patient"/>
+<hi rendition="#i"><hi rendition="#c">Wohlg. Herrn Johan̄
+                            <surname>F.</surname><lb break="yes"/>Kgl. Eisenbahnwechselwärter-Sohn.</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u">Rangierbahnhof</hi><lb break="yes"/>bei Lindau im Bodenssee!</hi></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2087f02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2087</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>F.</surname></persName>
+<date type="sent">18.02.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2087f">
+<persName>
+<forename>Ludwig</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1935"/>
+<occupation>Gastwirt, Landwirt</occupation>
+<residence><geo decls="#WGS">47.6283377 9.9102676</geo>Heimenkirch, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Gastwirt</p>
+<p from="1900" to="1935">Anstalt: 1900-1935</p>
+<p from="1900" to="1935">Brieftypen: pp, po</p>
+</state>
+<trait><p>Manie (1930), Ideenflucht, Größenwahn (1900-35), Halluzination (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber beschwert sich über seinen Nachbarn, weil dieser Holz an sich genommen hat, das eigentlich sein Eigentum gewesen wäre, und weil er den Schreiber gemaßregelt hat,
+                    obwohl er schon viel für die Familie getan hat.
+                    Er berichtet von einem Radunfall.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2087f02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb2087f02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#i"><hi rendition="#r">Kaufbeuern, den 18.Fbr.1929.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Werter Herr Bürgermeister!</hi></hi></salute>
+</opener>
+<p>
+<hi rendition="#i"><add>k.k. Gemeinde</add>
+<hi rendition="#c">Lieber Freund!<lb break="yes"/>in Heimenkirch.
+                        Allgäu</hi><lb break="yes"/>Mein Nachbar Josef <surname>J.</surname><lb break="yes"/>Gemeinderat,</hi> hat mir Holz,<lb break="yes"/>geschlagen,
+                vordem 5 Ctr Streu<lb break="yes"/>alljährlich seit 1888. genommen,<lb break="yes"/>obwohl nach rechtmäßiger Fest<lb break="no"/>stellung des kl.
+                    <unclear>Genannter</unclear>, das<lb break="yes"/>Stück <hi rendition="#i">Wiese, uns</hi> Eigtum war,<lb break="yes"/>noch mit der Wiese, zwei
+                    Tannen,<lb break="yes"/>gehauen hat, solche rigroße <hi rendition="#i">Nachbarn</hi><lb break="yes"/>sind nicht genehm. Er lieh mir<lb break="yes"/>eine <hi rendition="#i">Mark</hi>, weil mir das Geld nicht<lb break="yes"/>zulangte
+                u. als ich diese Ihm nach<lb break="yes"/>dem Abendessen brachte, sagte der<lb break="yes"/><seg ana="#curse">unverschähmte, Saukop</seg>, ich wäre wie<lb break="yes"/>der <hi rendition="#i">Ludwig <surname>M.</surname></hi>, in Wolfershofen,<lb break="yes"/><hi rendition="#i">Kaspar Ludwig</hi>, ich soll daheim<lb break="yes"/>bleiben und
+                schaffen. Solcheine<lb break="yes"/><hi rendition="#i">Maßregelung</hi>, von diesem Hern,<lb break="yes"/>Gemeinderat,
+                ist mir etwas<lb break="yes"/>zu viel gewesen. Da ist meine Sache<lb break="yes"/><add place="margin"><hi rendition="#i"><seg ana="#salute"><w>Frdl</w><w>Gruß</w></seg>
+<seg ana="#signed">Ludwig <surname>F.</surname></seg>.</hi></add><pb facs="#image_004"/> doch richtig bewirtschafte und<lb break="yes"/>es diesen
+                    <seg ana="#curse">dum̄en Kerle</seg> nichts<lb break="yes"/>angeht.
+                Seinem <hi rendition="#i">Buben</hi>, den<lb break="yes"/>Jakob, bin ich
+                    <w>Trauzeuge</w><w>gewesen</w>;<lb break="yes"/>bei seiner Hochzeit, auch habe
+                    ich<lb break="yes"/>der <hi rendition="#i">Familie
+                    <surname>J.</surname></hi> schon vieles<lb break="yes"/>Gute getan, aber
+                Undank, ist<lb break="yes"/>der Welt Lohn. Ich habe bis um<lb break="yes"/>2 Uhr
+                gewirtschaftet, dan̄ bin ich<lb break="yes"/>wegen einem kranken Rind,<lb break="yes"/>Ruhkrank, mußte es als dann<lb break="yes"/>notschlachten, nach
+                    Oberstaufen,<lb break="yes"/>gefahren mit dem Rad, wobei<lb break="yes"/>mich
+                ein paarmal der Schlaf<lb break="yes"/>übernommen, mußte ab<lb break="no"/>sitzen,
+                das ich am fahren einge<lb break="no"/>schlafen, an den Straßenrand,<lb break="yes"/>Graben anfuhr. <hi rendition="#i"><surname>H.</surname></hi>, gab mir<lb break="yes"/>etwas mit, was aber nicht half.<lb break="yes"/>In <hi rendition="#i">Röthenbach</hi>, bei Herrn <hi rendition="#i"><surname>S.</surname></hi>,<lb break="yes"/>eine <hi rendition="#i">Repratur</hi>, vornehmen, zu lassen<lb break="yes"/>am Rad. Dreiheiligen,
+                trank ich<lb break="yes"/>Cafe, hernach fuhr zum Lagerhaus,<lb break="yes"/><hi rendition="#i">Röthenbach</hi>, sprach mit <hi rendition="#i"><surname>K.</surname></hi>, wegen<lb break="yes"/>Übernahme, einer
+                Zweigstell Vrkauf<lb break="yes"/>von <hi rendition="#i">Haber, ect</hi> Dungmitteln
+                    u.s.w.<lb break="yes"/>dan war ich bei Dominikus <hi rendition="#i"><surname>K.</surname></hi> Stein<lb break="no"/>gaden <hi rendition="#i">Christian <surname>K.</surname>, Happareute.</hi><lb break="yes"/><add place="margin">Eglofstal Linpp hatt ich etwas zu besorgen <hi rendition="#i">Frei</hi> Eglofstal &amp; <surname>M.</surname><lb break="yes"/>Prinz
+                    Fridolin bei <hi rendition="#i">Grath</hi> in Grath <hi rendition="#i"><surname>S.</surname> Mathias Beuern<lb break="yes"/>Wirt auf
+                        Metzlers Wirtschaft Than Wuchlr dan
+                <unclear>Volkerein</unclear></hi>.</add></p>
+</body>
+</text>
+</TEI>

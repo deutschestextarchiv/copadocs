@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb77j31" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>77</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehemann: Josef <surname>J.</surname></persName>
+<date type="sent">02.06.1850</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb77j">
+<persName>
+<forename>Maria Clara</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1792"/>
+<death cert="unknown"/>
+<occupation>Klaviersfabrikantfrau</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1850" to="1857">Anstalt: 1850-1857</p>
+<p from="1850" to="1857">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Reizbarkeit, Agilitaet</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehemann"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Ehemann der Patientin berichtet dem Direktor von den Sorgen, die er sich um seine Frau macht.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb77j31a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München</hi> den 2<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Juni 1850.</hi></dateline>
+<salute>Wohlgeborner, hochgehertester Herr <hi rendition="#i">Director</hi></salute>
+</opener>
+<p><space/> Entshuldigen Sie gütigst die freiheit mit welcher ich<lb break="yes"/>mir erlaube an Sie <w>zu</w><w>schreiben</w>.</p>
+<p>
+<space/> Mögen mich Euer Wohlgeboren nicht etwa <w>klein müthig</w><lb break="yes"/>finden, wenn ich gestehe daß mir die Sorge um das<lb break="yes"/>Befinden meiner theuren, unglücklichen frau Tag und<lb break="yes"/>Nacht keine
+                Ruhe läßt, u. es mich unwiederstehlig drängt<lb break="yes"/>mich nach deren
+                Befinden zu erkundigen.</p>
+<p><space/> Ich richte deshalb im Vertrauen auf die Güte u. Nachsicht<lb break="yes"/>des Herr Direcktors <add place="above">die bitte</add> an Sie, mir doch ja recht
+                bald Nachricht<lb break="yes"/>zukom̄en zu laßen. Die allgemeine besorgniß
+                als möchten die<lb break="yes"/>Kräften der Armen Kranken zu den Anstrengungen der
+                traurigen<lb break="yes"/>Geistesstöhrung nicht <w>aus reichen</w>, quält auch mich
+                natürlich, so sehr ich<lb break="yes"/>auch auf ihre dermalige behandlung
+                vertraue.</p>
+<p><space/> Ich bitte höflichst <del>mir</del> meine freiheit mir ein <hi rendition="#i">S</hi>chreiben erlaubt<lb break="yes"/>zu haben, so wie die Bitte die Einlage
+                gefälligst abgeben zu wollen,<lb break="yes"/>gütigst zu entschuldigen u. mir meine
+                ergebenste bitte zu gewähren.<lb break="yes"/>Indeßen weiß ich nicht ob es mich
+                vielleicht nächsten <hi rendition="#i">S</hi>onntag schon wieder<lb break="yes"/>nach Irsee treibt.</p>
+<p><space/>
+<seg ana="#salute">Ich bitte die Versicherung vollkom̄enster Hochachtung u.
+                    Verehrung<lb break="yes"/>zu genehmigen in welcher ich bin<lb break="yes"/><hi rendition="#c">Euer Wohlgeboren</hi><lb break="yes"/><hi rendition="#r">ergebenster</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Jg. Jos.
+                                <surname>J.</surname></hi></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a45" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca. 1917-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat und Doktor Berg</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um die Verlegung in ein anderes Zimmer, da er mit zwei anderen Patienten nicht klar kommt.
+                    Er wird aufgrund seines Verhaltens beim Beten ausgelacht.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a45.jpg" xml:id="image_110"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_110"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Sehr geehrter Herr Ober-Medizinalrat!<lb break="yes"/>Sehr geehrter Herr Doktor <hi rendition="#i">Berg</hi>!</hi></salute>
+</opener>
+<p><space/> Ich bitte Sie höflichst tun Sie mich ins Obere Kran<lb break="no"/>kenzimmer hinauf, wo ich fast 4 Jahre schon war, Hier im<lb break="yes"/>Untern
+                Krankenzimmer kann ich es nicht mehr aushalten. Den̄<lb break="yes"/>mit
+                Herrn <hi rendition="#i"><surname>S.</surname></hi> &amp;. Herrn <hi rendition="#i"><surname>S.</surname></hi> kom̄ ich nicht aus.<lb break="yes"/>Herr <hi rendition="#i"><surname>S.</surname></hi> &amp;. Herr
+                    <hi rendition="#i"><surname>S.</surname></hi> können mich nicht
+                leiden, Be<lb break="no"/>sonders Herr <hi rendition="#i"><surname>S.</surname></hi> hat mich dick &amp;. kann mich nicht leiden,<lb break="yes"/>weil ich ihn immer mit meiner Gebetsunruhe stöhre. <del>S</del>
+                Leider<lb break="yes"/>kann ich nicht leis &amp;. ruhig beten. Ich muß mein Beten
+                laut ver<lb break="no"/>richten; &amp;. hab dabei die größte Unruhe, &amp;. dabei
+                lachen mich jedes<lb break="no"/>mal mehrere Herren aus, Das bringt mich ganz
+                auseinander &amp;.<lb break="yes"/>kom̄ deshalb oft in Streit leider. Im
+                Obern Krankenzimmer &amp;. auf<lb break="yes"/><hi rendition="#i">C </hi>3 wurde ich
+                nie so ausgelacht wie hier.</p>
+<p>Lassen Sie mich bitte ins Obere Krankenzimmer oder auf <hi rendition="#i">C </hi>3.<lb break="yes"/><space/>
+<hi rendition="#u"><seg ana="#salute">Es grüßt Sie höflichst </seg><seg ana="#signed"><hi rendition="#i">Hans <surname>A.</surname></hi></seg>
+                    Krz. A 2. Ich tue gut.</hi><lb break="yes"/><hi rendition="#r">Seien Sie lieben Gott befohlen. Bitte Tun Sie
+                    mich weg von hier.</hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1762p40" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1762</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Margaretha <surname>P.</surname></persName>
+<date type="sent">04.07.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion Heil- und Pflegeanstalt Kaufbeuren: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">Kaufbeuren</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1762p">
+<persName>
+<forename>Philipp</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1916"/>
+<occupation>Weinwirtschaftsbesitzer</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Kitzingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n. a. </p>
+<p from="1882" to="1916">Anstalt: 1882-1916</p>
+<p from="1882" to="1916">Brieftypen: pp, po</p>
+</state>
+<trait><p>Tobsucht (1874, 1881), Depression (1881, 1882-1895), Manie (1882), circulärer Irrsinn (1882-1895)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="amanuensis"/>
+<handNote medium="ink" scope="minor" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Ehefrau wünscht Information über Flucht ihres Mannes.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1762p40a.jpg" xml:id="image_133"/>
+<graphic mimeType="image/jpg" url="kfb1762p40b.jpg" xml:id="image_134"/>
+<graphic mimeType="image/jpg" url="kfb1762p40c.jpg" xml:id="image_135"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_133"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg</hi>, 4. <hi rendition="#i">Juli</hi> 08.<lb break="yes"/><hi rendition="#i">Bismarckst</hi>. 8/III</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Verehrt. Direktorium<lb break="yes"/>der Heil- &amp; Pflegeanstalt<lb break="yes"/><hi rendition="#u">Kaufbeuren</hi></hi></hi></salute>
+</opener>
+<p><space/> Bezugnehmend auf die eben<lb break="yes"/>geführte telefonische
+                Unterhaltung bezüglich<lb break="yes"/>des entflohenen Geisteskranken<lb break="yes"/><hi rendition="#c"><hi rendition="#u"><hi rendition="#i">Philipp
+                                </hi><surname><hi rendition="#i">P.</hi></surname></hi>
+</hi><lb break="yes"/>muß ich sehr bedauern, daß ich keine<lb break="yes"/>Mitteilung hievon seitens der Anstalt<lb break="yes"/>erhielt &amp; ich nun heute
+                durch Bekannte<lb break="yes"/>erfahren muß, daß mein Mann sich<lb break="yes"/><hi rendition="#u">hier</hi> aufhält. Ich ersuche nun höfl.<lb break="yes"/>um gefl. Nachricht, ob mein Mann<lb break="yes"/>noch nicht dort eingetroffen
+                ist, denn<lb break="yes"/>wennn es richtig ist, was mir <pb facs="#image_134"/>telefonisch gesagt wurde, nämlich:<lb break="yes"/>daß der <hi rendition="#i">Kranke</hi> von <hi rendition="#i">Nürnberg</hi> aus<lb break="yes"/><hi rendition="#u">polizeilich</hi> zurücktransportirt wird,<lb break="yes"/>so
+                verstehe ich nicht, wie er sich<lb break="yes"/>hier aufhalten konnte &amp;
+                Mittwoch oder<lb break="yes"/>Donnerstag gesehen &amp; <hi rendition="#u">gesprochen</hi> wurde. </p><p><space/> Sie werden begreifen, daß mir<lb break="yes"/>eine gefl. <hi rendition="#u">sofortige</hi> Aufklärung<lb break="yes"/>dringend notwendig ist &amp; bitte
+                ich<lb break="yes"/>Sie darum.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Hochachtungsvoll!</seg></hi><lb break="yes"/><add hand="ehefrau"><hi rendition="#c"><seg ana="#signed">Margaretha <surname>P.</surname></seg></hi></add></p><pb facs="#image_135"/>
+<p><add hand="arzt"><hi rendition="#i">I. Beantwortet </hi><lb break="yes"/><hi rendition="#i">Kaufb. 5. VII. 08 </hi><lb break="yes"/><hi rendition="#i">Dr
+                        Pr. </hi><lb break="yes"/><hi rendition="#i">II - ad acta Irsee</hi></add><hi rendition="#i"> </hi></p>
+</body>
+</text>
+</TEI>

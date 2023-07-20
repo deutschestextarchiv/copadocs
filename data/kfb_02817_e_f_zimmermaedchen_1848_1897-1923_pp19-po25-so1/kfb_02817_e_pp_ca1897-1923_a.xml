@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2817e08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2817</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>E.</surname></persName>
+<date type="sent">ca1897-1923</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Nikolaus <surname>E.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2817e">
+<persName>
+<forename>Maria</forename>
+<surname>E.</surname>
+</persName>
+<birth when="1848"/>
+<death when="1923"/>
+<occupation>Zimmermädchen</occupation>
+<residence><geo decls="#WGS">48.221764 10.1058969</geo>Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1897" to="1923">Anstalt: 1897-1923</p>
+<p from="1897" to="1923">Brieftypen: pp, po</p>
+</state>
+<trait><p>Größen- und Verfolgungsideen, Beeinträchtigungsideen, [Halluzinationen] (1911),  halluzinatorische Verrücktheit (1922)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    schreibt über ihr Gottvertrauen, dass sie nicht verloren hat
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2817e08a.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="kfb2817e08b.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_028"/>
+<opener>
+<dateline/>
+<salute>Lieber Bruder</salute>
+</opener>
+<p> das Sprichwort sagt<lb break="yes"/>wer auf den Lieben Gott vertraut<lb break="yes"/>hat
+                auf festen Grund gebaut<lb break="yes"/>Ih habe mein Gottvertrauen nicht<lb break="yes"/>lassen war das Schiksall das mir<lb break="yes"/><space/> so bestimt war es war mir<lb break="yes"/>wohl ein anderes bestim̄t
+                    meine<lb break="yes"/><space/> Schuld u der Neid der Leute<lb break="yes"/>ging mir gute Schiksal niht in<lb break="yes"/>erfüllung Him̄elreih lasse mir<lb break="yes"/>niht
+                berauben kein sperren u<lb break="yes"/>kein Todt. man ist mir ein Todt<lb break="yes"/>Him̄lih Sterben ist Haupsache<lb break="yes"/>der schöne
+                Gott das shöne Him̄elrech<lb break="yes"/>wo freut u Seligkeit auf uns
+                    hart<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Es grüßt Dih</seg>
+<seg ana="#signed">Deine Schwester<lb break="yes"/><hi rendition="#i">Maria</hi>
+<surname>E.</surname></seg>
+<seg ana="#salute">Grüße an Base</seg><lb break="yes"/>Kresenz Agatha Alous an
+                        alle<lb break="yes"/>gute bekanten Adres<lb break="yes"/>Herr Nikolaus
+                        <surname>E.</surname> in<lb break="yes"/>Illertissen.</hi><lb break="yes"/><add hand="arzt"><hi rendition="#i">Unsere Pat. ist unverändert in ihrem Wahn <pb facs="#image_029"/> befangen, oft sehr erregt u. laut.<lb break="yes"/><hi rendition="#r"><hi rendition="#u">J.V.</hi><lb break="yes"/>Dt
+                            Hock.</hi></hi></add>
+</p>
+</body>
+</text>
+</TEI>

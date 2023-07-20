@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k19" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>K.</surname></persName>
+<date type="sent">12.06.1865</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager: Georg <surname>M.</surname></persName>
+<settlement type="sent">Irsee bei Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1865" to="1867">Anstalt: 1865-67</p>
+<p from="1865" to="1867">Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um verschiedene Dinge.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k19a.jpg" xml:id="image_035"/>
+<graphic mimeType="image/jpg" url="kfb415k19b.jpg" xml:id="image_036"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_035"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irrsee</hi> b. Kaufbeuren
+                        12.6.65</hi></dateline>
+<salute><hi rendition="#c">Geerter Herr<lb break="yes"/>Schwager!</hi></salute>
+</opener>
+<p>Im Auftrag des Jakob <hi rendition="#i"><surname>F.</surname></hi> muß ich <hi rendition="#i">Ihnen</hi><lb break="yes"/>Vorstendes mittheilen. Er läßt Sie bitten uns
+                beiden<lb break="yes"/>gereuchertes Schweinflsch, Schinken auch geselchtes<lb break="yes"/>Rindflisch hieher zu schicken. Ich versoge ihn mit Taback<lb break="yes"/>Kaese hat er mir schon zweimal gestohlen,
+                    <unclear>Fereter</unclear><lb break="yes"/>gebe ich ihm so. Er will mit mir einmal Sie besuchen,<lb break="yes"/>wann werde ich Ihnen mittheilen.</p>
+<p><space/>Schicken Sie mein Antheil nach Kempten, wo ich<lb break="yes"/>als
+                Militaer-Arzt garnisoniere; innerhalb 8 Tagen<lb break="yes"/>Antwort. <seg ana="#salute">Grüße von <hi rendition="#i">Jacob</hi> an Sie und seine<lb break="yes"/>Schwester.</seg><lb break="yes"/><hi rendition="#r">Ergebenster<lb break="yes"/><hi rendition="#i"><surname>K.</surname> k. Milit. Vet.</hi><lb break="yes"/>Arzt in <hi rendition="#i">Kempten<lb break="yes"/>4<hi rendition="#sup">t</hi> Chev. Leg. Regt<lb break="yes"/>"Koenig"</hi></hi><lb break="yes"/><add>8 utem gewiß am 10. d. M.<lb break="yes"/>frei mit Frachtschein<lb break="yes"/><hi rendition="#i">Eilgut</hi> hieher
+                    und<lb break="yes"/><hi rendition="#i">Kempten</hi><lb break="yes"/>Hiher <unclear/> Adreße<lb break="yes"/><hi rendition="#i">Jacob <surname>F.</surname>.</hi></add></p>
+<pb facs="#image_036"/>
+<p><hi rendition="#c">herrn Georg <hi rendition="#i"><hi rendition="#u"><surname>M.</surname></hi></hi><lb break="yes"/>Ökonom, in</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Hainsfart</hi>.</hi><lb break="yes"/>b. Ottingen.<lb break="yes"/>im <hi rendition="#u">Ries</hi>.</hi><lb break="yes"/>frei markit<lb break="yes"/>3 <hi rendition="#i">Fr.</hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2543h13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2543</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Nanette <surname>H.</surname></persName>
+<date type="sent">03.04.1864</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2543h">
+<persName>
+<forename>Wilhelm</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1864"/>
+<occupation>Buchhalter, studierte Theologie</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: n.a.</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1863" to="1864">Anstalt: 1863-64</p>
+<p from="1863" to="1864">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"psychische und körperliche Aufregung", "Wahnvorstellungen" (1863)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="mutter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Dankesschreiben an den Direktor (nach dem Tod des Patienten).
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2543h13.jpg" xml:id="image_045"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_045"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg den 3<hi rendition="#sup">ten</hi> April <hi rendition="#u">1864</hi></hi></dateline>
+</opener>
+<p>Hochgeehrtester Herr <hi rendition="#i">Director</hi>! Hier übersende ich Jhnen
+                die Quittung nebst<lb break="yes"/>meinen verbindlichsten Dank für daß
+                überschickte, und sehr grosen Dank<lb break="yes"/>für Jhre gütige Sorgfalt, welche
+                Sie für meinen sehr unglücklichen Sohne<lb break="yes"/>hatten, dieser unerwartete
+                Todesfall, hat mir auch alle Lust zum Leben genom̄en,<lb break="yes"/>möge
+                ihm dort wöhle seyn, als es ihm hier war, er muß viel ausgestanden<lb break="yes"/>haben, der Schilderung nach, welhe meine Töchter mir von seinem Aussehen<lb break="yes"/>machten, Sie werden viele Mühe mit ihm gehabt haben, leztere Zeit ,
+                Jhre<lb break="yes"/>bekante<unclear>r</unclear> Wohlthätigkeit, anerkant, läßt sichs nicht anders
+                Vermuthen. </p><p>Auch Frau Gemahlin, meine Danksagung, für die Begleitung seiner<lb break="yes"/>Briefe. Wie es
+                mit den Briefenkösten aussieht, muß sich erst erklären<lb break="yes"/>da seine <hi rendition="#i">Efecten</hi> beim Magistrat sind. <seg ana="#salute">Mit Empfehlungen von<lb break="yes"/>meinen Töhtern und mir der Frau <hi rendition="#i">Directorin</hi>
+                        verbleibe ich mit<lb break="yes"/>gröster Hochachtung.</seg> </p><p><hi rendition="#r">Ergebenste <seg ana="#signed">Nan̄ette <surname>H.</surname></seg><lb break="yes"/><space/> Wittwe. </hi></p><p>Herr Schwiegersohn<lb break="yes"/><w>Regierungs Rath</w> ist auf<lb break="yes"/>einer
+                    <w>Comißions Reise</w><lb break="yes"/>Abwesend. </p>
+</body>
+</text>
+</TEI>

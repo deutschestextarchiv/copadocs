@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2702w14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Freundin: Margaretha <surname>B.</surname></persName>
+<date type="sent">20.02.1856</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2702w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Bierbrauerstochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Brauereibesitz</p>
+<p from="1853" to="1856">Anstalt: 1853-56</p>
+<p from="1853" to="1856">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Vesania (17.11.1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="freundin1"/>
+<handNote medium="crayon_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich, dass ihre Tochter nach Irsee kommen dürfte, um die Patientin zu besuchen.
+                    Jedoch hatte der Besuch eher negative Auswirkungen. Vom Obermedizinrath G. wird das 
+                    Verhalten der Patientin als "trotzig" beschrieben, und er empfiehlt, ihr zunächst keine Besuche mehr
+                    zu erlauben.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2702w14a.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="kfb2702w14b.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_028"/>
+<opener>
+<dateline><hi rendition="#r">München den <hi rendition="#u">20<hi rendition="#sup">t</hi></hi> Febr: <hi rendition="#u">1856</hi></hi></dateline>
+<salute><hi rendition="#c">Euer Hochwohlgeborn!<lb break="yes"/>⏐ </hi></salute>
+</opener>
+<p><space/> Spreche ich hiemit für die so freundliche und<lb break="yes"/>gefällige
+                Aufnahme meiner Ernestine in Jhrem<lb break="yes"/>Hause meinen in̄igen
+                meinen wärmsten Dank<lb break="yes"/>aus. Jch tren̄te mich ungerne von
+                meiner Tochter<lb break="yes"/>da ich theilweise selbst unwohl bin, doch Pflicht
+                und Men<lb break="no"/>schenliebe, <w>so wie</w> die in̄igste Theilnahme an
+                dem Geschicke<lb break="yes"/>der leidenden Mutter, <w>so wie</w> an der sich nach
+                Freiheit,<lb break="yes"/>sehnenden Marie, bewirkten meine Einwilligung zu dieser<lb break="yes"/>kleinen Reise. <space/> Unaussprechliche Freude würde<lb break="yes"/>mich beleben, wen̄ nun Marie mit Ernestine heim<lb break="no"/>wärts kehren
+                kön̄te, erken̄end daß nur Gehorsam und<lb break="yes"/>Bezwingung des
+                Eigenwillens, <w>so wie</w> Menschenfreund<lb break="no"/>lichkeit und verträgliches
+                Benehmen mit <hi rendition="#u">allen</hi> wo<lb break="yes"/>man
+                zusam̄enleben muß, sie in den Kreis der Jhrigen<lb break="yes"/>oder sonst
+                achtbaren Familie zurückführen kan̄. − </p><p>Da die Anwesenheit meiner Ernstine, aber nur, nach<lb break="yes"/>Jhrer eigenen Aussage nur das
+                Gegentheil bewirk<lb break="no"/>te, so soll Dieselbe auch augenblicklich Jrrse
+                verlaßen; </p>
+<pb facs="#image_029"/>
+<p><space/> Herr <w>Obermediz: Rath</w>
+<surname>G.</surname>, welchen ich gestern be<lb break="no"/>suchte laßen sich
+                Herrn Direktor empfehlen, und ent<lb break="no"/>schuldigen im Drange der Geschäfte,
+                nicht selbst geantwor<lb break="no"/>tet zu haben, läßt aber durch mich ersuchen,
+                Marien hie<lb break="no"/>von zu verständigen, und nach der Mutter dringenden Wunsch<lb break="yes"/>im Beyseyn Ernstinens, und ihr zu bemerken, daß nie<lb break="no"/>mand mehr zum Besuche kom̄en dürfe, bevor Marie<lb break="yes"/>nicht einsehen lerne, daß <hi rendition="#u" style="arzt">durch
+                        <hi rendition="#u">Tr</hi></hi><hi rendition="#u">otz</hi> nichts im Leben<lb break="yes"/>zu
+                erzwingen sei. <space/> <seg ana="#salute">Mit der Bitte mich Jhrer Frau<lb break="yes"/>Gemahlin bestens zu empfehlen verbleibe ich<lb break="yes"/><hi rendition="#c">Hochachtungsvollst Jhre</hi><lb break="yes"/><hi rendition="#r">ergebenste </hi></seg><hi rendition="#r"><seg ana="#signed">M.
+                            <surname>B.</surname></seg><lb break="yes"/>königl. <w>Sekretärs Wittwe</w></hi></p><p>Nur noch nachträglich erlaube ich mir Herrn Direk<lb break="no"/>tor mitzutheilen, daß Herr
+                Advokat <surname>S.</surname>, welcher<lb break="yes"/>jetzt unwohl ist, sehr
+                thätig in allen Anliegen <hi rendition="#i">M</hi>.<lb break="yes"/><surname>W.</surname> unterstützt und vielleicht bald, persönlich<lb break="yes"/>sich von allem überzeugen wird, was Marie betrifft<lb break="yes"/>auch ist er väterlich besorgt, eine achtbare Familie<lb break="yes"/>aufzufinden,
+                wo Marie soll geprüft werden, wie weit<lb break="yes"/>es mit ihrer Genesung
+                vorangeschritten ist, oder ob<lb break="yes"/>Marie wieder nach Jrrse zurückkehren
+                muß. − </p>
+</body>
+</text>
+</TEI>

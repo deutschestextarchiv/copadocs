@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb451h08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>451</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Augusta von <surname>H.</surname></persName>
+<date type="sent">1855-1858</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor:<surname><!--Nachname--></surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb451h">
+<persName>
+<forename>Augusta von</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1812"/>
+<death cert="unknown"/>
+<occupation>Zollschutzwachengattin</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: kgl. Stallmeister</p>
+<p from="1855" to="1858">Anstalt: 1855-1858</p>
+<p from="1855" to="1858">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Fixe Ideen, Halluzination (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Ankündigung über das Verfassen eines Prologs für das anstehende Fest
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb451h08.jpg" xml:id="image_022"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<dateline/>
+<salute>Verehrter Herr Direktor</salute>
+</opener>
+<p> Geruhen Ihro Wohlgeborn mit Zuziehung<lb break="yes"/>ihrer Angehörigen
+                    <del>mit Zuziehen</del> diesen<lb break="yes"/>kleinen Versuch gütigst zu
+                prüfen ich habe<lb break="yes"/>heute die Stunde vor dem Aufstehn fast<lb break="yes"/>unwillkührlich dazu benützt meinen Prolog<lb break="yes"/>für das
+                Fest von Ubermorgen daß unter<lb break="yes"/>den Ihrigen gefeiert werden soll zu<lb break="yes"/>verfaßen. Ich weiß nicht ob es memorirt<lb break="yes"/>und
+                vorgetragen zu werden <add place="above">verdient</add>, Auf jeden<lb break="yes"/>Fall aber <del>w</del> kann ich es als den Erguß<lb break="yes"/>meines Innersten
+                bezeichnen, und wie<lb break="yes"/>meinen Dank für so viele Wohlthaten des Königs<lb break="yes"/>Soll es auch meine Erkenntlichkeit für<lb break="yes"/>die
+                letzte Regierungsentschließung die<lb break="yes"/>mich unter ihre Obhut gestellt,
+                    <del>dad</del><lb break="yes"/>damit aussprechen<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Mit vollkomster Hochschätzung</seg></hi><lb break="yes"/>München der 26te November <seg ana="#signed">Augusta von
+                        <surname>H.</surname></seg><lb break="yes"/>1855</p>
+</body>
+</text>
+</TEI>

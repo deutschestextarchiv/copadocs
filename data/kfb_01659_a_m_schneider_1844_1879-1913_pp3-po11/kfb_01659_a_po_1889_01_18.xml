@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1659a07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1659</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kaspar <surname>A.</surname></persName>
+<date type="sent">18.01.1889</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister:  <surname>A.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1659a">
+<persName>
+<forename>Kaspar</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1913"/>
+<occupation>Schneider, Unteroffizier</occupation>
+<residence><geo decls="#WGS">48.7990056 10.7444384</geo>Mündling, Donauwörth</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1879" to="1913">Anstalt: 1879-1913</p>
+<p from="1879" to="1913">Brieftypen: pp, po</p>
+</state>
+<trait><p>Halluzinatorische Paranoia (1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Beschwerde über die unrechtsame Einweisung in die ANstalt beim Bürgermeister.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1659a07a.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb1659a07b.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><hi rendition="#r">Irrsee den 18 Januar 1889.</hi></dateline>
+<salute><hi rendition="#c">Herr Bürgermeister!</hi></salute>
+</opener>
+<p>Ich habe voriges Jahr schon in einem<lb break="yes"/>Briefe an Sie gesagt, daß
+                ich numehr in<lb break="yes"/>dieser meiner Gefangenschaft dahier<lb break="yes"/>eine Aufenthaltsgeschichte erken̄e, welche<lb break="yes"/>nach dem
+                Reichsgesetze vom Jahre 1871<lb break="yes"/>gleich einer Gefangenschaft erscheint,
+                welche<lb break="yes"/>nicht identisch ist mit den Grundsätzen<lb break="yes"/>einer Rechtshuldigung notorischer<lb break="yes"/>Natur.</p>
+<p>Wen ich zur Disziplinirung hieher aus<lb break="no"/>gewiesen werden kon̄te
+                wegen einer<lb break="yes"/>Körperverletzung, so ist damit noch nicht<lb break="yes"/>nachgewiesen, daß ich deßwegen auf<lb break="yes"/>ewig in
+                Pflegschaft hieher ausge<lb break="no"/>wiesen worden bin. </p>
+<p>Gehen Sie daher zum Bezirksamte<lb break="yes"/>mit gegenwärtigem, einen Antrag<lb break="yes"/>zu bewerkstelligen, meine nunmehrige<lb break="yes"/>ausweisung aus
+                dieser Pflegschafts<lb break="no"/>Sphäre betreffend. Reklamiren<lb break="yes"/>Sie also den freien Bezug meiner<lb break="yes"/>Pension bis auf Weiteres. -<lb break="yes"/><add place="margin">" durch Antrag.</add><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Kaspar
+                        <surname>A.</surname></seg></hi></p>
+<pb facs="#image_016"/>
+<p><hi rendition="#c">Der Unteroffizier Kaspar <surname>A.</surname><lb break="yes"/>An seinen Bürgermeister<lb break="yes"/>Herrn <surname>A.</surname><lb break="yes"/>in<lb break="yes"/>Mündling<lb break="yes"/>kgl. Bezirksamt
+                Donauwörth.</hi></p>
+</body>
+</text>
+</TEI>

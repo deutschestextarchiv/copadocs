@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1621b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1621</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karolina <surname>B.</surname></persName>
+<date type="sent">07.06.1896</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann: Martin <surname>B.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1621b">
+<persName>
+<forename>Martin</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1832"/>
+<death when="1906"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.2433959 10.3634009</geo>Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater Schneider, Mutter Hausiererin</p>
+<p from="1890" to="1906">Anstalt: 1890-1906</p>
+<p from="1890" to="1906">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Secundäre Seelenstörung (1894), [Alkoholismus], Halluzination (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau">Ehefrau</handNote>
+<handNote medium="ink" scope="minor" scribe="arzt1"/>
+<handNote medium="crayon" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Erkundigt sich nach dem Befinden des Mannes und ist selbst im Krankenhaus
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1621b02a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb1621b02b.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1621b02c.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><add hand="arzt1">Rsp. 11/6. 96</add><lb break="yes"/><hi rendition="#r"><add hand="arzt2">Akt
+                            <surname>B.</surname></add></hi><lb break="yes"/><hi rendition="#r">München den 7te
+                    Juni</hi></dateline>
+<salute>Hohwolgeloren Herrn Oberarts</salute>
+</opener>
+<p> ich ersuche euh um eine Bitte wies<lb break="yes"/>Bein meim Mann geht
+                    <unclear>U</unclear>mb er<lb break="yes"/>noh immer sagd aus mir scheind der<lb break="yes"/>Sadan erhraus es ist recht Traurig<lb break="yes"/>vier mich das über mich eein solhes<lb break="yes"/>Schicksal
+                kom̄t ich hätte genug<lb break="yes"/>das ich so Elend
+                daran Bim<lb break="yes"/>ich Bin schon 7 Wohen im<lb break="yes"/>Kranckenhaus
+                wer weist ob ich<lb break="yes"/>ihn noh einmal sehe im mein<lb break="yes"/>Leben
+                ich verzeie im alles<lb break="yes"/>was Er imer im meim Leben<lb break="yes"/>gethan hat der Liebe Gott wird<lb break="yes"/>es Wissen wan man Glaubt<lb break="yes"/>ich sei Schuld am mein Mann<lb break="yes"/>der soll es nur
+                Glauben </p>
+<pb facs="#image_005"/>
+<p> wo ich zu Hause Bin da<lb break="yes"/>glaubt es kein Mensch und was<lb break="yes"/>eine Schlime Tohter Schreibt vom<lb break="yes"/>dieser mag ich gaar nichts
+                    hören<lb break="yes"/>die Bringt mich Unter die Erde<lb break="yes"/>das Kreuz
+                vom meim Mann<lb break="yes"/>ist groß aber vom dieser ist es<lb break="yes"/>noch
+                wiel gröser das kan ich <w>nie<lb break="no"/>mand</w> sagen es ist gut das<lb break="yes"/>ihr Vatter nichts wist von ihr<lb break="yes"/>schont <w>wär</w><w>es</w> gefält mit im</p><p><hi rendition="#c">jst schliese ich mein mit<lb break="yes"/>Tausend Dank van sie
+                        es<lb break="yes"/>mir Scheiben wie es geht<lb break="yes"/>Bei mein Man̄e</hi></p>
+<pb facs="#image_006"/>
+<p> Die Adres Heist<lb break="yes"/><surname>B.</surname> Lina<lb break="yes"/>im Städischen Krankenhaus<lb break="yes"/>rechts der Jisar Haidhausen<lb break="yes"/>München Babilom 5<lb break="yes"/><space/> Saal 63 Bett 1 über<lb break="yes"/>Stike </p>
+</body>
+</text>
+</TEI>

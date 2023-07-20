@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2406a02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2406</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hugo <surname>A.</surname></persName>
+<date type="sent">05.02.1863</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Frau: Mina <surname>A.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2406a">
+<persName>
+<forename>Hugo</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1820"/>
+<death when="1864"/>
+<occupation>Professor der Mathematik, hat an Schulen unterrichtet</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Professor der Mathematik (in der Schule St. Anna)</p>
+<p from="1862" to="1864">Anstalt: 1862-64</p>
+<p from="1862" to="1864">Brieftypen: pp, po</p>
+</state>
+<trait><p>Melancholie (1862)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet seine Frau, ihm seine Mathematikbücher zu schicken;
+                    soll für ihn Stahlfedern etc. kaufen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2406a02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb2406a02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den <del>4</del>5<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+<hi rendition="#i">Febuar</hi> 1863.</hi></dateline>
+<salute><hi rendition="#c">Meine liebe, gute Mina!</hi></salute>
+</opener>
+<p>Aus welchem Grunde schickst mir die Bücher<lb break="yes"/>nicht, die ich von
+                Dir verlangte. </p><p>Nehme irgend ein Buch, so steht auf der ersten<lb break="yes"/>Seite der Name des Buches und des
+                    Ver<lb break="no"/>fassers. Demnach kannst Du jedes Buch<lb break="yes"/>finden. Schick mir also 1) Hoffmans Arithme<lb break="no"/>tik, Decimalbrüche,
+                jedes Buch finden. Schicke<lb break="yes"/>mir demnah 1) Hofmans Arithmetik,
+                Decimalbrüche,<lb break="yes"/>und Algebra 3 Bände, 2) Ohm's Mathematik drei<lb break="yes"/>Bände und die englische Gram̄atick. </p><p>Ferner schicke mir die großen weissen Knöpfe<lb break="yes"/>und Hemdknöpfe, eine Halsbinde,
+                nicht die blaue<lb break="yes"/>sondern eine andere. Professor Martin
+                    <surname>T.</surname><lb break="yes"/>wurde durch die allerhöchste Gnade Seiner Maj<lb break="no"/>estät
+                useres Königs zum Biebliothekar an der<lb break="yes"/>könglichen Hof- und
+                Staatsbiebliotek ernant.<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Dein
+                        Dich liebender Gatte.<lb break="yes"/>Hugo.</seg></hi></p>
+<p><add place="margin right">Kaufe mir bei <surname>B.</surname> neben den weißen Roß
+                    um 3 kr<add>(6)</add>Stahlfedern, 6 Steck<lb break="no"/>gerade, wo die
+                    Mintergasse angeht, ist der Laden. / nadeln: Am Berlach<lb break="no"/>berg
+                    links, ist ein Radler, bei welchem Heckel und Rheifen: Roßhaar<lb break="no"/>bänder erhälst Du nur Hauser im Fer <del>M</del> Wintergasse.</add></p>
+<pb facs="#image_004"/>
+<p><hi rendition="#c"><hi rendition="#i">Frau Profesorin </hi><lb break="yes"/><hi rendition="#i">Mina </hi><surname><hi rendition="#i">A.</hi></surname><hi rendition="#i"> </hi><lb break="yes"/>bei Mate<del>?</del>rlia Keller<lb break="yes"/>listüber 2 Stiegen </hi><lb break="yes"/>am Prediger Berg.<lb break="yes"/><hi rendition="#u"><hi rendition="#i">Augsburg</hi></hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

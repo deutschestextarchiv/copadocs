@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2128p04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2128</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>K.</surname></persName>
+<date type="sent">18.05.1902</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Josefine <surname>P.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2128p">
+<persName>
+<forename>Josefine</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1846"/>
+<death when="1910"/>
+<occupation>Landgerichtsassesortochter</occupation>
+<residence><geo decls="#WGS">47.9417348 10.2999793</geo>Ottobeuren</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landgerichtsassesor</p>
+<p from="1876" to="1900">Anstalt: 1876-1900</p>
+<p from="1876" to="1900">Brieftypen: pp,ap,ao</p>
+</state>
+<trait><p>„Geistesstörung […] in Form von Melancholie mit entsprechenden Wahnvorstellungen des Vergiftetwerden, Hingerichtetwerdens u.s.w.“ (1876)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schwester der Patientin sendet Glückwünsche zum Namenstag und kündigt einen Besuch an.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2128p04a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2128p04b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Mü<hi rendition="#u">nchen 18
+                                M</hi>ay 1902</hi></hi></dateline>
+<salute>
+<w>Inig st<hi rendition="#u">gelie bte</hi></w><hi rendition="#u">
+                    Sch</hi>wester! </salute>
+</opener>
+<p> Zu Deinem Namensfeste, sende<lb break="yes"/>ich Dir die herzinigsten
+                    Glücks<lb break="no"/>u. Segens-<hi rendition="#i">W</hi>ünsche. <hi rendition="#i">M</hi>ein lb<lb break="yes"/>Gatte, I<hi rendition="#u">rene</hi> und ich, besuchen im Aust<lb break="yes"/>heuer <add place="above">Dich</add>, wen̄ mein <hi rendition="#u"><hi rendition="#i">M</hi>an̄ Urlaub</hi> hat. 1000 Grüße von Deiner<lb break="yes"/><hi rendition="#r"><unclear>tre</unclear> An̄a</hi></p>
+<p><add place="margin"><hi rendition="#i">M</hi>ein Sohn <hi rendition="#i">M</hi>ax hat
+                    geheirathet nach<lb break="yes"/>Nord-Amerika. − .</add></p>
+<pb facs="#image_002"/>
+<p><hi rendition="#i">Wohlgebo. Frl</hi> Josephine <hi rendition="#i"><surname>P.</surname></hi><lb break="yes"/>kgl. <hi rendition="#i">Landes-Gerichts-Assesors<lb break="yes"/>Tochter</hi>
+<hi rendition="#r"> z. Zt<lb break="yes"/><hi rendition="#i">Heil Anstalt<lb break="yes"/><hi rendition="#u" style="arzt">Irrsee</hi></hi> bei Kaufbeuren</hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb629b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>629</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>B.</surname></persName>
+<date type="sent">ca. 1873-1874</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb629b">
+<persName>
+<forename>Ludwig</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1831"/>
+<death cert="unknown"/>
+<occupation>Apotheker</occupation>
+<residence><geo decls="#WGS">47.8803788 10.622246</geo>Kaufbeuren</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1873" to="1874">Anstalt: 1873-1874</p>
+<p from="1873" to="1874">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Alkoholismus], Apathie, Tobsucht (1873)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Weiterleitung einer telegraphischen Depesche
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb629b02.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#r">Herr <hi rendition="#i">Director</hi></hi><lb break="yes"/></salute>
+</opener>
+<p>Mit Ihrem <del>Direktor</del><lb break="yes"/>Wißen schreiben willig<lb break="yes"/>nur den
+                Yrren Anstalt<lb break="yes"/>befreitsein. Schicke eine<lb break="yes"/>telegraphische Depesche<lb break="yes"/><del>ei</del> an her Minister<lb break="yes"/><hi rendition="#i">Leudnenfeld</hi> u. herrn<lb break="yes"/><hi rendition="#i">Medicinalrat</hi> zur umgehenden<lb break="yes"/>Weiterbeförderung.<lb break="yes"/>schicken Sie <unclear>Speagl
+                    er</unclear><lb break="yes"/><hi rendition="#r">u. meiner Frau<lb break="yes"/><seg ana="#signed">ergebenster<lb break="yes"/><hi rendition="#i"><surname>B.</surname></hi></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

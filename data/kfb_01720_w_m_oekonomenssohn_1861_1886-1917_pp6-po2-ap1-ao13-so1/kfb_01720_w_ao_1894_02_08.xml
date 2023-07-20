@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1720w03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1720</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Barbara <surname>W.</surname></persName>
+<date type="sent">08.02.1894</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Roßhaupten</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1720w">
+<persName>
+<forename>Georg</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1917"/>
+<occupation>Ökonomenssohn</occupation>
+<residence><geo decls="#WGS">47.5991939 10.711254276584267</geo>Roßhaupten, Füssen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonom</p>
+<p from="1886" to="1917">Anstalt: 1886-1917</p>
+<p from="1886" to="1917">Brieftypen: pp, po, ap, ao, Notizen</p>
+</state>
+<trait><p>Depression, Halluzination (1888), Manie, Größenideen (1886)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin bittet um Auskunft über den Gesunheitszustand ihres Sohnes. Sie möchte wissen, ob es keine Hoffnung mehr gibt und ob er von seinen Eltern spricht.
+                    Sie weist darauf hin, dass er bereits zwei Jahre in der Anstalt ist, ohne dass eine Besserung eingetreten ist. Sie bittet um Antwort.
+                    Der Arzt notiert: Es gibt keine Verbesserung. Der Patient leidet unter Wahnvorstellungen, ist streitlustig und zieht sich zurück. Er kann keine Arbeit leisten.
+                    Aufregungszustände kamen in letzter Zeit nicht vor. Er ist körperlich gesund.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1720w03.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r">Roßhaupten am 8 Februar 1894</hi></dateline>
+<salute><hi rendition="#r">Hoch Geehter Dierktor</hi></salute>
+</opener>
+<p> Ich hätt wohl eine hertzlich Bitte<lb break="yes"/>an Sie wie es doch beim Georg<lb break="yes"/><surname>W.</surname> geht ob gar keine Hoffnug<lb break="yes"/>mehr ist ist es
+                auh im̄er beim alten<lb break="yes"/>es ist bereizt zwei Jahre aber<lb break="yes"/>noch keine beserung sagt er gar<lb break="yes"/>von Vatter u
+                Mutter gar nichts<lb break="yes"/>ich bitte wohl um eine Antwort<lb break="yes"/><seg ana="#salute">ich beschliese mein Shreiben<lb break="yes"/>Achtungsvoll</seg>
+<seg ana="#signed">Barbara <surname>W.</surname></seg></p>
+<p><handShift scribe="arzt"/> Keine wesentliche Änderung. Pat. glaubt sich<lb break="yes"/>vielfach beeinflußt,
+                macht allerlei Verkehrtheiten,<lb break="yes"/>zankt öfters, ist immer für sich u.
+                mit seinen<lb break="yes"/><seg ana="#med">Wahnideen</seg> beschäftigt, läßt sich zu keiner Arbeit<lb break="yes"/>verwenden, spricht nie von seinen Eltern. Heftigere<lb break="yes"/><seg ana="#med">Aufregungszustände</seg> kamen in den letzten Monaten<lb break="yes"/>nicht vor. Körperlich wohl.<lb break="yes"/><space/> 10.II.94. <hi rendition="#i">Dr</hi>
+<hi rendition="#r"><hi rendition="#i"><surname>K.</surname></hi>.</hi></p>
+</body>
+</text>
+</TEI>

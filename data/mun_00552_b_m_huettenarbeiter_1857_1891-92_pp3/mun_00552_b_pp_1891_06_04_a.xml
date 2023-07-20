@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun552b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>552 (K. 30)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">04.06.1891</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun552b">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1857-05-19"/>
+<death cert="unknown"/>
+<occupation>Hüttenarbeiter</occupation>
+<residence><geo decls="#WGS">51.4108972 7.2077948</geo>Geburtsort: Kreutz; Wohnort: Welper</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1891-03-24" to="1892-10-08">Anstalt: 24.03.1891-08.10.1892</p>
+<p from="1891-03-24" to="1892-10-08">Brieftypen: pp</p>
+</state>
+<trait><p>einfache Seelenstörung (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet seine Frau, ihm zu schreiben. 
+                    Andernfalls nimmt er an, dass die Ehe gelöst ist und rät seiner Frau, einen anderen Mann zu heirate.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun552b03.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Marienthal b Münster</hi> <hi rendition="#sub">4/6</hi>
+                        1891</hi></dateline>
+<salute><hi rendition="#c">liebe Frau</hi></salute>
+</opener>
+<p><add hand="unbekannt"><hi rendition="#i">ad acta </hi><surname><hi rendition="#i">B.</hi></surname><lb break="yes"/>S.</add></p>
+<p><hi rendition="#c">Es ist schon lange her </hi><lb break="yes"/>das ich von zu hause
+                weg bin und<lb break="yes"/>von der Aussenwelt abgeschlossen<lb break="yes"/>bin,
+                    ka<del>s</del>nst du mich noch gebrauchen<lb break="yes"/>so schreibe mir balt
+                    <unclear>Andererch</unclear><lb break="yes"/>und was die Kinder machen, habe<lb break="yes"/>ich bis Sontag
+                keine Antwort<lb break="yes"/>so nehme ich an das Band der<lb break="yes"/>Ehe ist
+                Gelöst, dan soll der liebe<lb break="yes"/>Gott wohl für mich sorgen, und<lb break="yes"/>du nimst dir einen Anderen<lb break="yes"/><hi rendition="#i">Mann</hi>, und laßet euch von Bürgermeister<lb break="yes"/>Trauen, liegt dir
+                was an der<lb break="yes"/><del>sch</del> Sache Gelegen, so schreibst du balt<lb break="yes"/>oder? schreibe mir mit ob der Johannes<lb break="yes"/>gut lernt.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Mit Gruß.</seg>
+<seg ana="#signed">J. <surname><hi rendition="#i">B.</hi></surname>
+</seg><lb break="yes"/>an mir soll es nicht<lb break="yes"/>liegen, </hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1887k02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1887</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Adelgunde <surname>K.</surname></persName>
+<date type="sent">ca. 1892-99</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: n.a. <surname>K.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1887k">
+<persName>
+<forename>Adelgunde</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1899"/>
+<occupation>Hausbesitzerstochter</occupation>
+<residence><geo decls="#WGS">48.7371951 11.1795268</geo>Neuburg a. d. Donau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Hausbesitzer</p>
+<p from="1892" to="1899">Anstalt: 1892-99</p>
+<p from="1892" to="1899">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Verfolgungsideen, Halluzinationen, Apathie (1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie bittet ihren Vater um Geld für die Heimfahrt. Sie fragt sich, was die Leute über sie denken und beschwert sich über ihre Mitpatienten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1887k02.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber Vater!</hi></salute>
+</opener>
+<p>Endlich muß ich dir schreiben einmal<lb break="yes"/>wieder. Schicke mir Geld
+                zum<lb break="yes"/>heimfahren. Schon lange wollt ich Dir<lb break="yes"/>schreiben. Schon 3 mal hab ich Dir<lb break="yes"/>geschrieben. Herr Oberarzt hat
+                er<lb break="yes"/>Dir geschrieben ich ahne es. Wie<lb break="yes"/>schlecht die
+                Leute wie hintergangen<lb break="yes"/>schlecht erst jetzt hab ichs gemerkt<lb break="yes"/>was in da küm̄ern würde<lb break="yes"/>wie frech und
+                unverschämt<lb break="yes"/>was werden die über uns sagen<lb break="yes"/>schrecklich überspan<del>d</del>t. Wie gottlos<lb break="yes"/>die Leute sind und unerhlich<lb break="yes"/>man möchte glauben du hast<lb break="yes"/>Steine vor dir oder Tiere.<lb break="yes"/>Schreibe gleich<lb break="yes"/><hi rendition="#c">Deine <add place="below">dichliebende</add> Tochter</hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Adelgunde</seg></hi></p>
+</body>
+</text>
+</TEI>

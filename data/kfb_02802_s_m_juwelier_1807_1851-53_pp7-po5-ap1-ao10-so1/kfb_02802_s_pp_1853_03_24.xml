@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2802s08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2802</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>S.</surname></persName>
+<date type="sent">24.03.1953</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: Em. Fried. <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2802s">
+<persName>
+<forename>Karl</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1807"/>
+<death cert="unknown"/>
+<occupation>Juwelier</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Knopfmacher</p>
+<p from="1851" to="1853">Anstalt: 1851-1853</p>
+<p from="1851" to="1853">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Pat. möchte vom Vater zu Hause aufgenommen werden, um von dort aus nach einer neuen Stelle zu suchen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2802s08a.jpg" xml:id="image_040"/>
+<graphic mimeType="image/jpg" url="kfb2802s08b.jpg" xml:id="image_041"/>
+<graphic mimeType="image/jpg" url="kfb2802s08c.jpg" xml:id="image_042"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_040"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> am 24.<hi rendition="#sup">ten</hi>
+<hi rendition="#i">März</hi><lb break="yes"/>1853.</hi></dateline>
+<salute><space/> Lieber Vater!</salute>
+</opener>
+<p>Durch Mittheilung von Schwester <hi rendition="#i">Jacobina</hi> werden Sie un<lb break="no"/>terrichtet seyn, daß es mit meinem Befinden schon lange<lb break="yes"/>wieder so gut geht, daß Herr <hi rendition="#i">Director D:<hi rendition="#sup">r</hi> Hagen</hi> er<lb break="no"/>laubt hat, mich um
+                eine Stelle zu berwerben. − </p><p>Nun schreibt mir Schwager <surname><hi rendition="#i">R.</hi></surname>, daß Er eine Solche
+                    ver<lb break="no"/>geblich für mich in <hi rendition="#i">Augsburg</hi> &amp; <hi rendition="#i">München</hi> gesucht hat,<lb break="yes"/>und giebt mir den Rath,
+                Handlungs-Reisender zu werden;<lb break="yes"/>das will ich aber durchaus nicht,
+                sondern ich möchte bey meinem<lb break="yes"/>Geschäfte bleiben. <space/> Da sich
+                nun gezeigt hat, daß es<lb break="yes"/>fast unmöglich ist, von hier aus eine
+                Stelle zu bekom̄en,<lb break="yes"/>so bitte ich Sie, lieber Vater mir dazu
+                behülflich zu<lb break="yes"/>seyn, daß ich einige Wochen, vielleicht auch nur
+                einige Tage,<lb break="yes"/>in <hi rendition="#i">Augsburg</hi> leben
+                kön̄te, ich würde zu Hause schlafen<lb break="yes"/>und Sie um die
+                Gefälligkeit ersuchen, den Tisch mit Ihnen<lb break="yes"/>zu theilen. <space/> In
+                wenigen Wochen, würde ich dann von dort<lb break="yes"/>aus leicht ein Plätzchen
+                finden, u. gebe mich der angenehmen <pb facs="#image_041"/>Hoffnung hin, daß Sie
+                dieses kleine Opfer nicht scheu<lb break="no"/>en werden, um mich aus dieser
+                drückenden Lage zu be<lb break="no"/>freien. Mein langes Stillschweigen, wollen Sie
+                lieber<lb break="yes"/>Vater, durch ein viele Monathe langes, tiefes <w>melankoli<lb break="no"/>sches</w>, schweres Leiden
+                entschuldigen, um so wonīiglicher<lb break="yes"/>waren mir die
+                Nachrichten, von Ihrem Wohlbefinden<lb break="yes"/>durch meine Frau. Einer
+                baldigen angenehmen<lb break="yes"/>Nachricht entgegensehend, verbleibe ich<lb break="yes"/><hi rendition="#r"><seg ana="#signed">Ihr<lb break="yes"/>Sie
+                        zärtlichliebender Sohn<lb break="yes"/><hi rendition="#i">Carl.</hi></seg></hi></p>
+<pb facs="#image_042"/>
+<p><hi rendition="#r">Herrn<lb break="yes"/><hi rendition="#i">Em: Fried:
+                            <surname>S.</surname><lb break="yes"/>senior<lb break="yes"/>St: An̄a Strasse<lb break="yes"/><hi rendition="#u">Augsburg.</hi>
+</hi></hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a16" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca1919-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ober-Medizinalrat</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   möchte auf Station E 3; droht ansonsten, alle Scheiben auszuschlagen
+                   hält es nicht mehr aus, möchte hypnotisiert werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a16a.jpg" xml:id="image_057"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_057"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Sehr geehrter Herr Ober-Medizinal<lb break="no"/>Rat.</hi></salute>
+</opener>
+<p>Ich bitte Sie höflichst, tun Sie<lb break="yes"/>mich Heute noch auf C 3. C 3.<lb break="yes"/>Sonst schlag ich Alle Scheiben naus<lb break="yes"/><hi rendition="#r">in Aufregen.</hi><lb break="yes"/>Meine Gottesunruhe kan̄ ich nicht<lb break="yes"/>mehr
+                aushalten. Hier lachen mich Alle<lb break="yes"/>aus. <seg ana="#salute">Höflichst</seg>
+<seg ana="#signed"><hi rendition="#i">Hans </hi><surname><hi rendition="#i">A.</hi></surname></seg><lb break="yes"/>Tun Sie mich <seg ana="#med">hypnotisieren</seg></p>
+</body>
+</text>
+</TEI>

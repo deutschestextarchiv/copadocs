@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor328v01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>328 (K. 250)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hermann <surname>V.</surname></persName>
+<date type="sent">ca1897-98</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau</persName>
+<settlement type="sent">Aplerbeck</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor328v">
+<persName>
+<forename>Hermann</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1849-03-13"/>
+<death when="1898-05-01"/>
+<occupation>Anstreicher</occupation>
+<residence><geo decls="#WGS">51.3746778 7.6999713</geo>Geburtsort: Breslau; Wohnort: Iserlohn</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="1897-09-23" to="1898-05-01">Anstalt: 23.09.1897-01.05.1898</p>
+<p from="1897-09-23" to="1898-05-01">Brieftypen: pp, po</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient1"/>
+<handNote medium="pencil" scope="minor" scribe="patient2"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Kleidung, Essen, Geld und eine Uhr vom Uhrmacher;
+                    er würde sich über Besuch freuen, sie könnten aber nicht in der Anstalt übernachten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor328v01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="dor328v01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="dor328v01c.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="dor328v01d.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Aplerbeck</hi> d 12<hi rendition="#sup">ten</hi>
+                        Oktober</hi></dateline>
+<salute><hi rendition="#c">Liebe Frau</hi></salute>
+</opener>
+<p><add hand="arzt">z. PA <surname><hi rendition="#u">V.</hi></surname></add><lb break="yes"/><add hand="unbekannt"><hi rendition="#r"><surname>V.</surname>.</hi></add></p><p>Ich <add hand="patient2" place="above">Mann</add>will dier benachrichtigen<lb break="yes"/>wo
+                ich bin im Krankenhause<lb break="yes"/>hierselbst. Spätest. morgen<lb break="yes"/>mündlich.<lb break="yes"/>Nun habe ich noch Sachen nöthig<lb break="yes"/><hi rendition="#u">Meinen best</hi> Rock<lb break="yes"/><hi rendition="#c">Huth</hi><lb break="yes"/>Unterhose <handShift medium="pencil" scribe="patient"/>+ Flasche
+                    <hi rendition="#i">Conjack</hi><lb break="yes"/>Unterjacke<lb break="yes"/>guten Slips u Vorhend<lb break="yes"/>dem Wurst gekochte Schinken<lb break="yes"/>Flaumann u Angel<lb break="yes"/>hauptsache ugefär 100 Mark<lb break="yes"/><hi rendition="#c">Geld</hi><lb break="yes"/>solltest du nicht so viel in<lb break="yes"/>Hause haben so gehe
+                nach<lb break="yes"/><hi rendition="#i"><surname>B.</surname></hi> oder nach
+                der Eva<lb break="no"/>gelischen Oberinnen <pb facs="#image_002"/>Du köm̄est
+                also heute Son̄abend<lb break="yes"/>mit den Kindern hiehin<lb break="yes"/>nach <hi rendition="#i">Aplerbeck</hi> ich <w>Paszen</w><w>dich</w><lb break="yes"/>auf. Sonntag <hi rendition="#i">Minna</hi> u <hi rendition="#i">H</hi>einz<lb break="yes"/>du kannst dem die Beiden<lb break="yes"/>Tage da
+                Schlafen aber nicht<lb break="yes"/>im Kranenhause du mußt<lb break="yes"/>im
+                Gasthof lugieren<lb break="yes"/>das ist ein Männerkrank<lb break="no"/>enhaus und
+                keine Frauleute<lb break="yes"/><hi rendition="#c">herein</hi><lb break="yes"/>Hiermit will ich schließen<lb break="yes"/>das wir uns fröhlich
+                und<lb break="yes"/>antreffen<lb break="yes"/><hi rendition="#r">Dein Mann<lb break="yes"/><hi rendition="#i">Hernn</hi></hi><lb break="yes"/>Nähnadeln nicht zu<lb break="yes"/><hi rendition="#r">wenig</hi><lb break="yes"/>Wier brauchen alle <pb facs="#image_003"/><del>du köm̄est
+                    also dem heute<lb break="yes"/>Sonnabend nach mier</del><lb break="yes"/>Dann gehe nach Uhrmacher<lb break="yes"/><hi rendition="#i"><surname>W.</surname></hi> u hole mier eine<lb break="yes"/>goldene Uhr
+                mit Kette<lb break="yes"/>und Du nim̄st dier<lb break="yes"/>eine goldene
+                Holzkett<lb break="yes"/>mit sone einen Stein<lb break="yes"/><hi rendition="#c">Lebe brieflich wohl<lb break="yes"/>bis wier und mündlich<lb break="yes"/>wiedersprechen</hi><lb break="yes"/>Sag <surname>W.</surname> ich käme<lb break="yes"/>bis Montag
+                Morge<lb break="yes"/>Nach Ihm <pb facs="#image_004"/>An Frau <hi rendition="#i">H.
+                        <surname>V.</surname><lb break="yes"/><hi rendition="#c">Iserlohn</hi></hi><lb break="yes"/><placeName type="street">Untere <hi rendition="#i">Mühle</hi></placeName>
+<hi rendition="#i">N</hi> 8 </p>
+</body>
+</text>
+</TEI>

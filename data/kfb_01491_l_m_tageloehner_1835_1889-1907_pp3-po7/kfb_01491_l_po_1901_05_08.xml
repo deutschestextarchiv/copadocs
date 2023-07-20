@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1491l09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1491</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Engelbert <surname>L.</surname></persName>
+<date type="sent">08.05.1901</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: Johann Georg
+                    <surname>V.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1491l">
+<persName>
+<forename>Engelbert</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1835"/>
+<death when="1907"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">47.5970747 9.738314</geo>Wildberg (Lindau)</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1889" to="1907">Anstalt: 1889-1907</p>
+<p from="1889" to="1907">Brieftypen: pp,po</p>
+</state>
+<trait><p>Tobsucht, Verrücktheit mit Ausgang in apathischem Blödsinn, Halluzination (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>offizieller Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose>
+                    bittet um Abholung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1491l09a.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="kfb1491l09b.jpg" xml:id="image_029"/>
+<graphic mimeType="image/jpg" url="kfb1491l09c.jpg" xml:id="image_030"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_028"/>
+<opener>
+<dateline><hi rendition="#c">Irrsee den 8 Mai 1901</hi></dateline>
+<salute>Wertester Herr Johann Georg<lb break="yes"/><surname>V.</surname> <w>Bürger Meister</w> in<lb break="yes"/>Weisensberg
+					    Gemeinde<lb break="yes"/><w>Bezürchs Amt</w> Lindau</salute>
+</opener>
+<p>Sie Herrn <w>Bürger Meister</w><lb break="yes"/>ich Bitt Gehorsamst
+                Sie gütig<lb break="yes"/>sein und Bis an der Himel<lb break="yes"/>auf 16 Mai auf
+                Beusch in<lb break="yes"/>die <w>Pfläg Anstalt</w> Jrsee
+                    auf<lb break="yes"/>besuch komen weil die Hohen<lb break="yes"/>gerichts <w>in</w><w>der</w> Anstalt <w>ge<lb break="no"/>wesen</w> sind so hab ich den<lb break="yes"/>Königlich
+                Bresedenten ge<lb break="no"/>Hofamt hoit mir wider zu<lb break="yes"/>geben ja
+                bis am 16 dises<lb break="yes"/><hi rendition="#c">Monates</hi></p><pb facs="#image_030"/><p>
+<hi rendition="#c">An</hi><lb break="yes"/><w>Wohl geboren</w> Herrn Johan<lb break="yes"/>Georg
+                    <surname>V.</surname>
+<w>Bürger<lb break="no"/>Meister</w> in der Gemende<lb break="yes"/>Weisensberg
+                    bezirhsamt<lb break="yes"/>Lindau Post Schlachtes<lb break="yes"/>Schlaahters
+                ab z B</p><pb facs="#image_029"/><p>Engelbert <surname>L.</surname> als <w>Pfläg<lb break="no"/>ling</w> ich an Herrn
+                        <w>Bürger<lb break="no"/>Meister</w> Schreiben Sie solle<lb break="yes"/>bis am 16 Mai in der Anst<lb break="no"/>alt <w>er
+                    scheinen</w> und mich <w>ab<lb break="no"/>holen</w> weil es eine<lb break="yes"/><w>Pflag Anstalt</w> ist ich Engelb<lb break="no"/>ert
+                    <surname>L.</surname> Recht Gesund<lb break="yes"/>und Wohlauf und der
+                    Arbeit<lb break="yes"/>Vorsten so Bitte ich Sie<lb break="yes"/>Herrn <w>Bürger Meister</w><lb break="yes"/>Sie so gütig sein auf
+                    die<lb break="yes"/>komen <w>in</w><w>die</w>
+<w>Pfläg Anstalt</w><lb break="yes"/>kene Jirsee bei<lb break="yes"/><w>Kauf Bayren</w> <seg ana="#salute">es Grüst<lb break="yes"/>Eich Auf das
+                    Wohl <w>er<lb break="no"/>gebenste</w></seg> <seg ana="#signed">Pflägling<lb break="yes"/><hi rendition="#r">Engelbert <surname>L.</surname></hi></seg></p>
+</body>
+</text>
+</TEI>

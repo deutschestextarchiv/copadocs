@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2337k01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2337 (K. 180)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mathias <surname>K.</surname></persName>
+<date type="sent">18.07.1910</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberstaatsanwaltschaft Hamm: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster i. W.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun2337k">
+<persName>
+<forename>Mathias</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1882-02-19"/>
+<death cert="unknown"/>
+<occupation>Händler</occupation>
+<residence><geo decls="#WGS">51.5019415 6.8857344</geo>Geburtsort: Galew; Wohnort: Osterfeld, Oberhausen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater: Landwirt; Mutter: n.a.</p>
+<p from="1908-03-26" to="1911-08-06">Anstalt: 26.03.1908-06.08.1911</p>
+<p from="1908-03-26" to="1911-08-06">Brieftypen: po, pp</p>
+</state>
+<trait><p>einfache Seelenstörung (1908); zeigt ein stumpf-trauriges Wesen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="pencil" scope="minor" scribe="hand3"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient erkundigt sich, weshalb seine Schreiben nicht zugestellt wurden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2337k01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><add hand="vordruck">Provin<hi rendition="#u">zialheil</hi>anstalt.
+                            <hi rendition="#r">Münster i. W., den</hi></add><hi rendition="#r"> 18
+                        Juli <add hand="vordruck">19</add>10</hi></dateline>
+<salute><hi rendition="#c">An die<lb break="yes"/>Oberstaatsanwaltschaft zu <hi rendition="#i">Hamm</hi></hi>
+<hi rendition="#r"><lb break="yes"/><hi rendition="#i">in
+                        W.</hi></hi></salute>
+</opener>
+<p><add hand="hand3">G 19/<hi rendition="#sub">9</hi> 10 ad acta <surname><hi rendition="#i">K.</hi></surname><lb break="yes"/><hi rendition="#c">G.</hi></add>
+</p><p><add hand="hand2">20 J,<hi rendition="#u"> 457, 1</hi>07<lb break="yes"/>139</add>
+</p><p>Der <w>Beschwerde führer</w> Mathias<lb break="yes"/><surname><hi rendition="#i">K.</hi></surname> aus <hi rendition="#i"><placeName>Osterfeld</placeName></hi> zur zeit<lb break="yes"/>in der
+                Provinzialanstalt zu<lb break="yes"/><hi rendition="#i"><placeName>Münster</placeName></hi> ersuche die königliche<lb break="yes"/>Oberstaatsanwaltschaft mir sofort<lb break="yes"/>darüber aufklärung zu geben<lb break="yes"/>aus welchen gründen auf meine<lb break="yes"/>ersuchen von 13 Juni
+                1910 an die<lb break="yes"/>kongliche Staatsanwaltschaft zu<lb break="yes"/><hi rendition="#i">Essen</hi> der Gerichtsschreiber nicht<lb break="yes"/><w>zu
+                    gestelt</w> wurde.<lb break="yes"/><hi rendition="#r"><seg ana="#signed">Mathias <surname><hi rendition="#i">K.</hi></surname></seg></hi></p>
+</body>
+</text>
+</TEI>

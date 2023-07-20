@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l28" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Notar Friedrich <surname>E.</surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bewerbung um eine Wohnung beim Notar/Anwalt 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l28a.jpg" xml:id="image_071"/>
+<graphic mimeType="image/jpg" url="kfb519l28b.jpg" xml:id="image_072"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_071"/>
+<opener>
+<dateline/>
+<salute>PP<lb break="yes"/>Verehrtester Herr!</salute>
+</opener>
+<p><foreign xml:lang="fr"><hi rendition="#i">Une demoiselle agé </hi><lb break="yes"/><hi rendition="#i">plus que trente et des </hi><del><hi rendition="#i">q</hi></del><hi rendition="#i"> bonnes qualites veut se placé </hi><lb break="yes"/><hi rendition="#i">pour maîtreß en allemand. Et encore eloigné
+                        d'une </hi><lb break="yes"/><hi rendition="#i">ville elle s'approche avec la
+                        demande pour un </hi><lb break="yes"/><hi rendition="#i">petite logement la
+                        detont et pour celà</hi></foreign> −<lb break="yes"/>Möchte <hi rendition="#i">Sie</hi> gütigst ersuchen <foreign xml:lang="fr">per <hi rendition="#i">occassion</hi></foreign><lb break="yes"/>einer ehemals leidend Bekan̄ten (:<foreign xml:lang="fr"><hi rendition="#i">mais encore </hi><lb break="yes"/><hi rendition="#i">unconnü de
+                        toutes pour se recomender en </hi><lb break="yes"/><hi rendition="#i">soi
+                        meme</hi></foreign>:) − eine Privatwohnug (<foreign xml:lang="fr"><hi rendition="#i">ou plus </hi><lb break="yes"/><hi rendition="#i">moins un
+                        chambre solide et propre pour moi </hi></foreign>-<lb break="yes"/>freundlichst zu bestellen. Ich werde mich dan̄<lb break="yes"/>selbst
+                einstellen. <w>so bald</w>
+<hi rendition="#i">Sie</hi> mir verehrtester<lb break="yes"/>Herr das Nähere
+                mündlich oder schriftlich zu<lb break="yes"/>wißen gemacht. und mit <hi rendition="#i">Ihren</hi> Bestellungen<lb break="yes"/>jedenfalls zufrieden sein<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Unter frdl. Grüßen<lb break="yes"/>achtungsvollst</seg></hi><lb break="yes"/><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Ihre
+                        ergebenste<lb break="yes"/>W v.
+                <surname>L.</surname></seg></hi></p>
+<pb facs="#image_072"/>
+<p> Fll. Herrn <hi rendition="#i"><hi rendition="#u">Friedrich <surname>E.</surname></hi></hi><lb break="yes"/>Anwalt u Protocolist bei<lb break="yes"/>dem kgl besch. <hi rendition="#i">Notar</hi> Amt<lb break="yes"/>in<lb break="yes"/>Kaufbeuren </p>
+</body>
+</text>
+</TEI>

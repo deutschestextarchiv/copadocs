@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2177h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2177</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>H.</surname></persName>
+<date type="sent">22.02.1867</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2177h">
+<persName>
+<forename>Josef</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1816"/>
+<death when="1890"/>
+<occupation>Söldner</occupation>
+<residence><geo decls="#WGS">48.8333636 10.7665374</geo>Fünfstetten/Donauwörth</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: k.a.</p>
+<p from="1857" to="1890">Anstalt: 1857-1890</p>
+<p from="1857" to="1890">Brieftypen: pp</p>
+</state>
+<trait><p>Mania cum delirio, Tobsucht, Mordlust (1857)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>persönliche Notiz</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> inhaltlich wirr, Kriegsmetaphorik </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2177h01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2177h01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb2177h01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#u" style="arzt">22. 2. 67</hi></add></dateline>
+</opener>
+<p>Ich Joseph Kan<lb break="yes"/>ned Schreiba<lb break="yes"/>wie wil an<lb break="yes"/>mir Reis<lb break="yes"/>ma Dag und<lb break="yes"/>nach S m<lb break="yes"/>Himmel<pb facs="#image_002"/>9 Jor
+                    Joseph<lb break="yes"/>Keny 2 Mol<lb break="yes"/>2 Goldi<lb break="yes"/>Sebel<lb break="yes"/>Jn Himmel<lb break="yes"/>Himmel<lb break="yes"/>Krig
+                    Je<lb break="yes"/>Vader ist wo<lb break="yes"/>Finfstetter
+                    Nmhd<lb break="yes"/>ist 2 Mol Keny Keny<pb facs="#image_002"/>Keny Kehr<lb break="yes"/>2 Goldi Sebel<lb break="yes"/>Vader Jn Himmel<lb break="yes"/>ist Hod Fannga<lb break="yes"/>no Ma 5 Mol<lb break="yes"/>Hunder
+                    Dausend<lb break="yes"/>98 Dausend von<lb break="yes"/>den Fanga no<lb break="yes"/>ander Himmel<lb break="yes"/>so ist der Krig schisa<lb break="yes"/>Flin und Kanona<pb facs="#image_003"/>E sa Reist alle<lb break="yes"/>weil zam
+                    in<lb break="yes"/>Himmel Krig<lb break="yes"/>Schon Fil Jor mir<lb break="yes"/>Joseph Keny Keny<lb break="yes"/>von Kuche Schiga und<lb break="yes"/>ver wenge ra </p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7362s08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7362 (K. 350)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>S.</surname></persName>
+<date type="sent">ca. 1928-1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Eickelborn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip7362">
+<persName>
+<forename>Karl</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1877-10-10"/>
+<death cert="unknown"/>
+<occupation>arbeitslos</occupation>
+<residence><geo decls="#WGS">51.521581 6.929204</geo>Geburtsort: Seeligenstadt; Wohnort: Bottrop</residence>
+<faith>Dissident</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater: Zimmermann; Mutter: n.a.</p>
+<p from="1928-07-02" to="1929-06-02">Anstalt: 02.07.1928-02.06.1929</p>
+<p from="1928-07-02" to="1929-06-02">Brieftypen: pp, po</p>
+</state>
+<trait><p>Psychopathie, Alkoholismus (1928)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Er beschwert sich über eine Aussage des Sanitätsrates. Er ist enttäuscht von seiner Partei und möchte diese nicht mehr unterstützen. Er erklärt wie er Dissident wurde. Er möchte auf eine andere Station überwiesen werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7362s08a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="lip7362s08b.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="lip7362s08c.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Herr Direcktor!</hi></salute>
+</opener>
+<p><space/> Bei der letzten Vissitte<lb break="yes"/>Die Herr Sanitätsrat Murmann<lb break="yes"/>als Ihr Stellvertreter abhielt,<lb break="yes"/>ließ Er Worte
+                fallen, die ich mir<lb break="yes"/>ein für alle mal verbitte. Unter<lb break="yes"/>anderm zu den Herrn gewendet<lb break="yes"/>sagte Er wir sind
+                alle Komunisten<lb break="yes"/>und wollen teilen, wenn der<lb break="yes"/>Herr
+                Rat glaubt mich damit zu<lb break="yes"/>brandmarken, oder lächerlich zu<lb break="yes"/>machen, so ist der Herr im Irtum.<lb break="yes"/>Ich war
+                jahrelang eingeschrieben<lb break="yes"/>als Sozialdemokrat, aber die<lb break="yes"/>Panzerkreuzerfrage hat mir<lb break="yes"/>da die Augen geöffnet.
+                    <pb facs="#image_018"/>Die Partei deren Vertreter in<lb break="yes"/>diesem
+                Falle so versagt haben kann<lb break="yes"/>in Zukunft meine Stimme nicht<lb break="yes"/>mehr haben. Will unser Vaterland<lb break="yes"/>den Platz auf dem
+                Weltmarkt<lb break="yes"/>erhalten und Ausbauen, dann<lb break="yes"/>müssen wir
+                Kreuzer bauen um<lb break="yes"/>das ereichte behaupten zu können<lb break="yes"/>die bessere Belebung <add place="above">des Arbeitmarktes</add> durch das<lb break="yes"/>bauen käme doch in erster Lienie<lb break="yes"/>den Arbeitern zu
+                gute. daß ich<lb break="yes"/>dissident geworden bin kam nur<lb break="yes"/>ein
+                Katholik verstehen, indem ich<lb break="yes"/>eine geschiedene zur Frau nahm.<lb break="yes"/>Innerlich bin ich Katholick und<lb break="yes"/>werde es so Gott
+                will bleiben <pb facs="#image_019"/>Auch die Frage ob ich Atheist bin<lb break="yes"/>kann <w>unter bleiben</w>, ich kann aus<lb break="yes"/>diesen
+                Fragen heraushöhren, daß<lb break="yes"/>Herr Rat Murmann gegen mich<lb break="yes"/>voreingenommen ist, und bitt<lb break="yes"/>den Herrn Direcktor
+                höflichst<lb break="yes"/>mich einer andern Station<lb break="yes"/>zu überweisen<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Hochachtungsvoll</seg><lb break="yes"/><seg ana="#signed"><surname><hi rendition="#i">S.</hi></surname></seg></hi>. </p>
+</body>
+</text>
+</TEI>

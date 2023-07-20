@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1614d05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1614</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>D.</surname></persName>
+<date type="sent">01.02.1896</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater und Bruder: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1614d">
+<persName>
+<forename>Karl</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1868"/>
+<death when="1907"/>
+<occupation>Handlungscommis</occupation>
+<residence><geo decls="#WGS">48.6263543 10.745509</geo>Buttenwiesen, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Mühlbesitzerseheleute</p>
+<p from="1892" to="1907">Anstalt: 1892-1907</p>
+<p from="1892" to="1907">Brieftypen: pp</p>
+</state>
+<trait><p>Religiöse Schwärmerei (1892), Halluzinationen (1904)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Bittet um Abholung oder Besuch, Nervenkrankheit sei nicht gefährlich.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1614d05a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb1614d05b.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><hi rendition="#i">Kaufbeuren</hi>, den 1. Februar 96.</dateline>
+<salute>Lieber Vater u.<lb break="yes"/>lieb. Wilhelm! </salute>
+</opener>
+<p> Mit diesem Briefe bitte<lb break="yes"/>ich Euch daß Ihr mich<lb break="yes"/>auch wieder einmal aus<lb break="yes"/>der Anstalt abholen oder<lb break="yes"/>vorerst besuchen wollet.<lb break="yes"/>Meine Nervenkrankheit ist<lb break="yes"/>nicht gefährlicher Art, ich<lb break="yes"/>war mal schon ein paar<lb break="yes"/>Mal etwas aufgeregt aber<lb break="yes"/><del>das</del> solches kom̄t ja<lb break="yes"/>schließlich jedem Menschen<lb break="yes"/>vor. </p>
+<pb facs="#image_011"/>
+<p>Durch mich werdet Ihr<lb break="yes"/>in letzterer Zeit mehreres<lb break="yes"/>erfahren haben, <del>was</del><lb break="yes"/><del>fer</del> wie es früher nicht<lb break="yes"/>der <hi rendition="#i">Fall</hi>
+                war.<lb break="yes"/>Aus diesem Grunde auch<lb break="yes"/>wird es besser für
+                uns<lb break="yes"/>sein, wenn wir bei<lb break="no"/>einander sind.<lb break="yes"/>Solches zu bewerkstelligen<lb break="yes"/>bitte ich und grüße
+                Euch<lb break="yes"/>vielmals.<lb break="yes"/>Euer<lb break="yes"/>Euch-liebender<lb break="yes"/><hi rendition="#i">Carl</hi>.<lb break="yes"/><lb break="yes"/>Herrn<lb break="yes"/><hi rendition="#i">Iosef </hi><surname><hi rendition="#i">D.</hi></surname><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i"> Stählesmühle </hi><lb break="yes"/><hi rendition="#i"> Post Buttenwiesen </hi></p>
+</body>
+</text>
+</TEI>

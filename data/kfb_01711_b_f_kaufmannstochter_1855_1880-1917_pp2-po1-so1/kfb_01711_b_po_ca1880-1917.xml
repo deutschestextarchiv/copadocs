@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1711b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1711</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josefine <surname>B.</surname></persName>
+<date type="sent">ca.1880-1917</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Hochgeboren: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1711b">
+<persName>
+<forename>Josefine</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1855"/>
+<death when="1917"/>
+<occupation>Kaufmannstochter</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Kaufmann</p>
+<p from="1880" to="1917">Anstalt: 1880-1917</p>
+<p from="1880" to="1917">Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>chronischer hallucinatorischer Wahnsinn von <unclear>expansions</unclear> Charakter mit entsprechenden Wahnideen (Größenwahn); Verrücktheit mit Erregungszuständen, maniak. Charakter (1880)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin wendet sich wegen eines neuen Drucksatzes an eine Druckerei.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1711b03a.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Einer wollöblichen,</hi></hi><lb break="yes"/><hi rendition="#i">Ehrgeachteten Tobias
+                            <surname>D.</surname>'schen Druckerei &amp;<lb break="yes"/><space/> Verlagsbuchhandlung Kempten <unclear>sJ.</unclear><lb break="yes"/><hi rendition="#c">Ew. Hochgeboren,</hi></hi></salute>
+</opener>
+<p><hi rendition="#r">Dürfte es erwünscht sein, </hi><lb break="yes"/>neuen Drucksatz behufs
+                Verkehrungsmaßregeln<lb break="yes"/>einlegen zu können, wobei Unterzeichnete
+                "Sich" gestattet<lb break="yes"/>auf früheres Bezug nehmend auf Nachfolgendes
+                hinzuweisen </p>
+<p><add place="margin"><seg ana="#pic">Zeichnung einer Frau</seg></add></p>
+<p><add place="margin"><seg ana="#pic">Zeichnung einer Hand, die einen Zweig hält</seg></add></p>
+<p>Ueber die Wirren Frankreichs schrieb <hi rendition="#i">Mazarin</hi> an<lb break="yes"/><hi rendition="#i"><surname>H.</surname></hi> (zu sehen Sam̄ler <hi rendition="#i">N<hi rendition="#sup">o</hi> 34. Jahrgang von (1882.)</hi><lb break="yes"/>24 f 27<hi rendition="#sup">3</hi> = (:Berufung auf <hi rendition="#i">R. <surname>v.</surname>'sche Autorität</hi> als sachb.
+                    <hi rendition="#i">Primats</hi> :)=<lb break="yes"/>Folgendes: "<hi rendition="#i">Ludwig</hi> 11<hi rendition="#sup">te</hi> läßt uns nur zu viel
+                des Guten<lb break="yes"/>sehen, wenn wir uns in lügnerische Opposition zur Fakta<lb break="yes"/>stellen wollen, um uns zu schützen gegen Spottepiken,<lb break="yes"/>(:Rosesard's Verheißungen auf <hi rendition="#i">Siebtet</hi>-<hi rendition="#i">Plass in</hi> der <hi rendition="#i">Pläader :)</hi>
+</p>
+</body>
+</text>
+</TEI>

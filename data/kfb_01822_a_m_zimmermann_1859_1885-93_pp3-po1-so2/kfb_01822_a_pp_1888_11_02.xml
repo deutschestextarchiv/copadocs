@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1822a04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1822</idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<p>
+                               Rand 
+                            </p>
+</objectDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>A.</surname></persName>
+<date type="sent">02.11.1888</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1822a">
+<persName>
+<forename>Johann</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1859"/>
+<death cert="unknown"/>
+<occupation>Zimmermann</occupation>
+<residence><geo decls="#WGS">48.5209801 10.5593511</geo>Eppisburg, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Söldner, Zimmermann</p>
+<p from="1885" to="1893">Anstalt: 1885-93</p>
+<p from="1885" to="1893">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Geistesstörung (1889), Gewalthätigkeit (1885)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Essen, neue Montur, geht ihm nicht schlecht, geht zur Kirche und Schule, möchte nach Afrika reisen wenn entlassen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1822a04a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb1822a04b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuern 2. November 1888</hi><lb break="yes"/><add hand="arzt"><hi rendition="#u">13</hi><lb break="yes"/>ad
+                        <surname>A.</surname></add><lb break="yes"/></dateline>
+<salute><hi rendition="#c">Liber Vater</hi></salute>
+</opener>
+<p>
+Mit Freuden ergreif ich die Feder und<lb break="yes"/>schreibe hin zu Euch, Ich bin noch im̄er in<lb break="yes"/>Heil und Pfleanstalt, Es geht mir gut,<lb break="yes"/>Wir haben Mittags Fleisch Morgens<lb break="yes"/>Kaffe Abes Wurst oder Käse Ich habe auch<lb break="yes"/>schon eine nue Mntur bekom̄en Hem̄der und<lb break="yes"/>Saktüer Meine Schuhe hat man Gehohlt<lb break="yes"/>Liber Vater Es ist sehr streng in Anstalt<lb break="yes"/>Man muß sich ordenlich auführen So schlecht<lb break="yes"/>geht es gar mir nicht wie die Leut geglaut<lb break="yes"/>haben <seg ana="#inst">Ich geh in die Kirche und in die Schule<lb break="yes"/><seg ana="#metaling">Ich kan gut Lesen und Schreiben Rechnen</seg></seg><lb break="yes"/>Wir bekom̄en <del>ah</del> auch Tabak Ich glaub<lb break="yes"/>daß ich bald wider intlaßen werde<lb break="yes"/>Mieie Haimaht hab ich in Eppisburg und<lb break="yes"/>kan̄ auf mine Haimaht verzichten Wen<lb break="yes"/>man mich schon nich gedulden wil Nach<lb break="yes"/>meier Nachbarschaft hab ich gar nichts zu
+
+<pb facs="#image_012"/>
+fragen Ich werde nicht mehr in<lb break="yes"/>deuschland bbeiben Ich werde nah<lb break="yes"/>Afrika Reisen man kan mich doch nicht<lb break="yes"/>gedolten zu Hause Liber Vater Es sin<unclear>?</unclear><lb break="yes"/>500 in Anstalt Ich wede mich schon Frue<unclear>?</unclear><lb break="yes"/>wen ich wider entlassen Werde<lb break="yes"/>Ich beschliße min schriben ich hoffe<lb break="yes"/>ich werde ihnen in <w>bester</w>gesund<lb break="no"/>heit andrefen.<lb break="yes"/><seg ana="#salute">Gruß</seg> <seg ana="#signed">Euer dakschuldiger Sohn<lb break="yes"/><hi rendition="#c">Johan <surname>A.</surname></hi></seg>
+</p>
+</body>
+</text>
+</TEI>

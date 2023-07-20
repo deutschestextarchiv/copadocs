@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a96" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca1917-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt und Rechnungsführer</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er fordert besseres Essen und bessere Arbeitszeiten und droht mit Streik.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a96a.jpg" xml:id="image_215"/>
+<graphic mimeType="image/jpg" url="kfb80a96b.jpg" xml:id="image_216"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_215"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#r">Lieber Herr Oberarzt besonder<lb break="yes"/><hi rendition="#u">Herr Rechnungsführer.</hi></hi></salute>
+</opener>
+<p>Ich bin jetzt <hi rendition="#u">Unabhängi<lb break="no"/>ger</hi> &amp;.
+                Spartakist-Revolutionär.<lb break="yes"/>Ich rühr mich &amp;. beschwer mich<lb break="yes"/>über daß schlechte Essen, wies<lb break="yes"/>die Herren Pfleger
+                letzte Woche<lb break="yes"/>machten. Bekom̄ im̄er schwar<lb break="no"/>zen Kaffe ohne Zucker &amp;. Wasser<lb break="no"/>suppen &amp;.
+                schlechtes Gemüse &amp;.<lb break="yes"/>zu jungen Käs &amp;.s.w. das mei<lb break="no"/>ste Essen kan̄ ich nicht vertragen<lb break="yes"/>&amp;.
+                schenk es im̄er her; &amp;. ich soll<unclear>t</unclear><lb break="yes"/>für Euch ohne Lohn fleißig<lb break="yes"/>Holz arbeiten &amp;.
+                frieren. Da<unclear reason="damage"/><lb break="yes"/>geht nicht. Entweder geb<unclear reason="damage"/>
+<pb facs="#image_216"/>Ihr uns beßres Essen; uns<lb break="yes"/>Arbeiter mehr Brot
+                &amp;. sonsti<lb break="no"/>ge Zulage; oder wir strei<lb break="no"/>ken alle, wies
+                die Spartaki<lb break="no"/>sten auch machen. Ich arbei<lb break="no"/>te solang
+                nix, bis es besser<lb break="yes"/>wird mit Essen. Laßt uns<lb break="yes"/>von 3
+                − ½4 Uhr ½ Stunde Brot<lb break="no"/>zeit machen &amp;. um ½ 5
+                Uhr<lb break="yes"/>Feierabend machen. Sie Herr<lb break="yes"/>Rechnungsführer
+                logen am<lb break="yes"/>Mittwoch auch die Pfleger an,<lb break="yes"/>sie sagten,
+                ihr bekom̄t in der<lb break="yes"/>Woche 3 mal Mus-Brei &amp;.<lb break="yes"/>schlechtes Essen. Ich frug ihren<lb break="yes"/>Sohn aus, der
+                sagte mir<lb break="yes"/>im Stadel, ihr bekom̄t nie 1<lb break="yes"/>Mus
+                lauter feines Essen<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Hans
+                            <surname>A.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb882h03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>882</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Theodor <surname>H.</surname></persName>
+<date type="sent">18.09.1884</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb882h">
+<persName>
+<forename>Theodor</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1850"/>
+<death when="1887"/>
+<occupation>Postassistent</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Waldstetten, Günzburg; Wohnort: München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonomen</p>
+<p from="1880" to="1887">Anstalt: 1880-87</p>
+<p from="1880" to="1887">Brieftypen: pp, po, ao, Lebenslauf</p>
+</state>
+<trait><p>Choreatische Manie (1883)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient bittet darum, das Geschriebene dem Gericht zu übergeben, und vebürgt sich für die Richtigkeit seiner Angaben.
+                    Er beschreibt, dass er von einer Macht gezwunge wurde, sich auf dem Boden zu wälzen.
+                    Er behauptet, Jesus und Maria wohnten in ihm und würden schlecht behandelt. Sie würden selbst darum bitten, dass er auf dem Boden liegen gelassen wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb882h03a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb882h03b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p> Theodor <surname><hi rendition="#i">H.</hi></surname> gibt folgendes auf Ehre
+                    u.<lb break="yes"/>Gewissen während er vollständig bei Sin̄en<lb break="yes"/>ist zu <w>Proto koll</w> u. bittet, das <w>Geschrie bene</w><lb break="yes"/>dem Gerichte zu übergeben, u er <w>ein sieht</w>,<lb break="yes"/>daß es dem herrn hofrath nicht möglich ist,<lb break="yes"/>ihn <w>hin
+                    reichend</w> zu schützen: Nachdem derselbe<lb break="yes"/>heute <del>d</del>
+                Mittwoch den 18. September 1884<lb break="yes"/>kein Mittagessen genom̄en,
+                wurde er<lb break="yes"/>gezwungen durch eine Macht gezwungen<lb break="yes"/>sich
+                auf dem Boden herumzuwälzen wobei<lb break="yes"/>seine Sin̄e zu unreiner
+                Vorstellungen an<lb break="no"/>geregt wurden, <w>hie rauf</w> zu einem Stuhle<lb break="yes"/>hingezwängt u. zu <w>unorden tlichen</w> Berühru<add place="below">ngen</add><lb break="yes"/>gedrängt. Er beschwört bei dem heiligen<lb break="yes"/>Evangelium, daß unser lieber Herr und<lb break="yes"/>Heiland <hi rendition="#i">Jesus Christus</hi> u. <hi rendition="#i">Maria</hi> schon<lb break="yes"/>seit vielen Wochen in ihm wohnen, um<lb break="yes"/>ihm auf alle
+                mögliche Weise zu helfen,<lb break="yes"/>daß ihre Hilfe auf gewaltsame Weise<lb break="yes"/>durch obengenan̄te Macht unterdrückt <pb facs="#image_006"/>
+                wurde u. sie selbst auf eine auch den<lb break="yes"/>menschlichen Gesetzen
+                    <del>zwe</del> zuwiderlau<lb break="no"/>fende Art behandelt wurden. Es
+                    wurden<lb break="yes"/>auf diese Weise diese <w>hochheilig sten</w> Per<lb break="no"/>sonen auf das Gröblichste mißhandelt.<lb break="yes"/>Man soll ihn
+                ja nicht zwingen ins Bett sich<lb break="yes"/>zu legen, sondern ihn auf dem Boden
+                    liegen<lb break="yes"/>lassen u <add place="above">ihm</add> doch kein Essen
+                mehr geben. Unser<lb break="yes"/>lieber Herr Jesus Christus u. <hi rendition="#i">Maria</hi> lassen<lb break="yes"/>selbst darum bitten.</p>
+</body>
+</text>
+</TEI>

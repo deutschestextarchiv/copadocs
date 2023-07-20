@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7362s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7362 (K. 350)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>S.</surname></persName>
+<date type="sent">27.03.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Eickelborn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip7362">
+<persName>
+<forename>Karl</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1877-10-10"/>
+<death cert="unknown"/>
+<occupation>arbeitslos</occupation>
+<residence><geo decls="#WGS">51.521581 6.929204</geo>Geburtsort: Seeligenstadt; Wohnort: Bottrop</residence>
+<faith>Dissident</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater: Zimmermann; Mutter: n.a.</p>
+<p from="1928-07-02" to="1929-06-02">Anstalt: 02.07.1928-02.06.1929</p>
+<p from="1928-07-02" to="1929-06-02">Brieftypen: pp, po</p>
+</state>
+<trait><p>Psychopathie, Alkoholismus (1928)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="typewriter" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er nimmt den Antrag, die Kinder in ein Waisenhaus bringen zu lassen, zurück, nachdem er erfuhr, dass der Belastungszeuge gegen seine Frau eine falsche Aussage gemacht hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7362s04a.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline>2.)<hi rendition="#r"> Eikelborn, den 27.3.28.</hi></dateline>
+<salute/>
+</opener>
+<p>Aktenzeichen:<lb break="yes"/>4 E.R. 133- 28/3.<lb break="yes"/><hi rendition="#r">Amtsgerichtschreiberei Bottrop.</hi></p><p><space/> Den von mir am 16.3.28 gestellten Antrag in der Ent<lb break="no"/>mündigungssache
+                    <surname>S.</surname> betr. unterbringung meiner Kinder<lb break="yes"/>ins St. Waisenhause nehme ich hiermit zurück, da die von den<lb break="yes"/>Zeugen <surname>S.</surname> gemachten Ausagen nach Angabe meiner Frau nicht<lb break="yes"/>den Tahtsachen entsprechen und bitte höflichst meiner Frau<lb break="yes"/>Aufklärung zu geben, daß Ed <surname>S.</surname> wegen
+                verleumderichen Aus<lb break="no"/>sagen gerichtlich belangt werden kann.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll<lb break="yes"/>gez.</seg>
+<seg ana="#signed">Karl <surname>S.</surname></seg><lb break="yes"/>z.Z. Eickelborn.</hi>
+</p>
+</body>
+</text>
+</TEI>

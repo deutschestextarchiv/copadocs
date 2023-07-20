@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l118" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notiz: Kirchliches Verkünden</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin berichtet von der anstehenden Installation eines Madonna-Bildes.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l118a.jpg" xml:id="image_295"/>
+<graphic mimeType="image/jpg" url="kfb519l118b.jpg" xml:id="image_296"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_295"/>
+<opener>
+<dateline><hi rendition="#r"><del>Allgemeins Gebet</del> u kirchliches
+                            <del>Anzeige.</del>
+<add place="above">Verkünden</add></hi></dateline>
+<salute/>
+</opener>
+<p>Zur größern Ehrenbezeugung u zum Lobgesang wird<lb break="yes"/>nächsten
+                Son̄tag das heilige lebendige Bild einer <hi rendition="#i">Madona</hi><lb break="yes"/>Manes <hi rendition="#i">Piègé</hi> auf den Altar als Kirchenlicht
+                    <del>aufgestellt</del><lb break="yes"/>u. <add place="above">bes.</add> dem H <hi rendition="#i">D. E. F Dr
+                    Gr</hi> u Fr <hi rendition="#i">Apoth</hi>. zur Anbethung auf<lb break="no"/>gestellt.− </p>
+<p>Der Herr erbarme sich über jene, die solche Götzen<lb break="yes"/>am Altare <hi rendition="#u">nicht</hi> opfert.!,− und verzeihe den<lb break="yes"/>Haß gegen jene, denen man so sehr nachgesetzt.<lb break="yes"/>u die uns mit den
+                erleuchtenden Bosheiten statt Kirchen<lb break="no"/>lichtern − zu nahe
+                treten. Man bittet bei der Andacht<lb break="yes"/>mehr den Schatten dieses sich
+                nur selbst angezündeten<lb break="yes"/>Lichtes u selbst zuhochschätzende
+                Gegenstandes zu <pb facs="#image_296"/>betrachten u in einer andern <hi rendition="#i">Athmosphär</hi> bren̄en zu<lb break="yes"/>laßen;
+                den̄ hieher paßen nur die Kranken; aber<lb break="yes"/>die Boshaften <add place="above">Kinde</add> gehören der Eltern Zucht anheim. </p><p>Bitte Ew Hochw. kein Gebrauch zu den Wärterin<lb break="yes"/>u <hi rendition="#i">Pat</hi>. zu machen u. mir eimal <add place="above">auch</add> eine Gnade<lb break="yes"/>u Ehre von Hr <hi rendition="#i">Dr E</hi> auszubitten<lb break="yes"/>Meine Seel ist betrübt bis in Tod.! −<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Amen</hi></hi></p>
+<p><unclear reason="rubbing"/></p>
+</body>
+</text>
+</TEI>

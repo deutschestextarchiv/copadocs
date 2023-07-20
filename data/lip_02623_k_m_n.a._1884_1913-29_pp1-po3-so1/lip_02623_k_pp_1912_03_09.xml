@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip2623k02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>2623 (K. 190)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Felix <surname>K.</surname></persName>
+<date type="sent">09.03.1912</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder</persName>
+<settlement type="sent">Münster i. W.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip2623k">
+<persName>
+<forename>Felix</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1884-08-27"/>
+<death cert="unknown"/>
+<occupation>n.a.</occupation>
+<residence><geo decls="#WGS">51.0806259 11.9305596</geo>Geburtsort: Ruchenka; Wohnort: Osterfeld</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1913-11-24" to="1929-12-12">Anstalt: 24.11.1913-12.12.1929</p>
+<p from="1913-11-24" to="1929-12-12">Brieftypen: pp, po, Lebenslauf</p>
+</state>
+<trait><p>Dementia praecox (1913)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="hand2"/>
+<handNote medium="crayon" scope="minor" scribe="hand3"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient möchte abgeholt werden. Er bittet darum, dass man ihm seinen grünen Anzug bringt. Er erzählt, dass er auf ein Denkmal geschossen hat und ihm eine Hacke auf den Kopf geschlagen wurde. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip2623k02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="lip2623k02b.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="lip2623k02c.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline>
+<add hand="vordruck">Provinzialheilanstalt.  <hi rendition="#r">Münster
+                        i.W., den</hi></add><hi rendition="#r"> 9. März <add hand="hand3">24</add> 1912. </hi><lb break="yes"/></dateline>
+<salute><hi rendition="#c">Lieber Bruder!</hi></salute>
+</opener>
+<p><add hand="hand2"><surname><hi rendition="#u">K.</hi></surname>.<lb break="yes"/></add><hi rendition="#c"><add hand="hand2"><hi rendition="#u">Ad acta</hi></add></hi></p><p><add place="above">Meine ersten Worte zu Dir sind.<lb break="yes"/>Gelobt sei Jesus
+                    Hristus.</add><lb break="yes"/>Ich teile Dir ergebens mit<lb break="yes"/>das
+                Ich jezt Gott sei Dank<lb break="yes"/>gesund bin. Und Bitte Dir<lb break="yes"/>und Mutter, Mich hier ab holen.<lb break="yes"/>Den so läßt die Anstalt sehr<lb break="yes"/>schwär welche heraus. Und bringe<lb break="yes"/>mir meinen grünen
+                Anzug<lb break="yes"/>auf den Weg da der sehr<lb break="yes"/>verschliffen ist.
+                Schuh und Hut.<lb break="yes"/>Du muß aber schreiben haben<lb break="yes"/>von
+                Amte aus <placeName><hi rendition="#i">Oster</hi>feld</placeName> oder<lb break="yes"/>von Staatsanwalt von <placeName>Essen</placeName>.<lb break="yes"/>Ich habe, auf den Denkmal<lb break="yes"/>geschoßen da Ich wolte mich <pb facs="#image_006"/>Mit <surname>W.</surname> in Gefängnis<lb break="yes"/>treffen. Leute nanten Mir<lb break="yes"/><surname>W.</surname> Freund, und
+                wenn<lb break="yes"/>von Rechten Fußes auf Amt<lb break="yes"/>angeklopft wird und
+                Sich<lb break="yes"/><surname>W.</surname> Freund mit <surname>W.</surname><lb break="yes"/>in Gefängnis trift. Wird<lb break="yes"/><hi rendition="#u">freiheit vür </hi><placeName><hi rendition="#u">Polen</hi></placeName><hi rendition="#u"> entstehn</hi><hi rendition="#i"><lb break="yes"/></hi>habe ich mehr mal gehört.<lb break="yes"/>Auch habe ich
+                nach dem, Mir<lb break="yes"/>ein Mann Mitag bei <w>schichten<lb break="no"/>wechslung</w> in der Grube mit<lb break="yes"/>der Hake, auf den Kopf schlug.<lb break="yes"/>Abends auf den Denkmal<lb break="yes"/>geschossen. der
+                Bergmann<lb break="yes"/>Franz <surname><hi rendition="#i">S.</hi></surname>
+                der hat es<lb break="yes"/>in das Grube gesehn.<lb break="yes"/>er ist den
+                    <surname>P.</surname> sein Ver<del>r</del>wanter. <pb facs="#image_007"/>Sende Herzlichen Gruß <add hand="hand3">25</add><lb break="yes"/>Dir Schwegerin Kindern<lb break="yes"/>Mutter anderen verwanten<lb break="yes"/>und bekannten. <hi rendition="#i"><seg ana="#signed">Felix</seg></hi><lb break="yes"/>der direktor hier der<lb break="yes"/>Anstalt heißt. Herr <hi rendition="#u">Kleffner</hi><lb break="yes"/>Adreße an mir <hi rendition="#i">F. </hi><surname><hi rendition="#i">K.</hi></surname><lb break="yes"/>Provinzial-anstalt Marienthal<lb break="yes"/><placeName type="street">Kinderhauserstr</placeName> 92.<lb break="yes"/><placeName><hi rendition="#i">M</hi>ünster i <hi rendition="#i">W</hi>.</placeName><lb break="yes"/>An Schmid<lb break="yes"/>Peter <surname><hi rendition="#i">K.</hi></surname><lb break="yes"/>in <placeName>Osterfeld</placeName><lb break="yes"/>auf Zeche Osterfeld.</p>
+</body>
+</text>
+</TEI>

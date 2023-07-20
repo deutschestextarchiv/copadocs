@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb939b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>939</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Agatha <surname>B.</surname></persName>
+<date type="sent">02.04.1900</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb939b">
+<persName>
+<forename>Agatha</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1825"/>
+<death when="1900"/>
+<occupation>Bauernwitwe, später Armenhauspfündnerin</occupation>
+<residence><geo decls="#WGS">47.7224806 10.5568957</geo>Wald, Oberdorf; geboren in Niederstaufen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Müller; Vermögen: besitzt 800 Gulden</p>
+<p from="1884" to="1900">Anstalt: 1884-1900</p>
+<p from="1884" to="1900">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Chronische Melancholie mit Schwachsinn, Wahnideen (1896)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schmerz, da Gemeinde so viel Unglück bereitet; würde das Haus nicht mehr anzünden, bereut es, will abgeholt werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb939b02a.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#c">Irrse den 2 Aprill 1900</hi></dateline>
+<salute><hi rendition="#c">Liber Burger Meisten</hi></salute>
+</opener>
+<p> Sie <add place="above">werden</add> verzeien das ich mir erlaube<lb break="yes"/>an Sie
+                schreiben. <w>Aber</w><w>wen</w> Sie
+                    mei<lb break="no"/>nen Schmerz fülen würden das ich<lb break="yes"/>der
+                Gemeide so viel Unglück <w>berei<lb break="no"/>det</w> habe so wirden
+                    <del>so</del> gewis nicht<lb break="yes"/>zirnen. Ich <add place="above">würde</add> gewies das Haus nicht<lb break="yes"/><del>nicht</del> mer anzüden ich Bitte lassen<lb break="yes"/><del>nsi</del> Sie mich doch abholen es geht<lb break="yes"/>kain Tag u. keine Naht
+                vorbei als<lb break="yes"/>das nicht bereude</p>
+<p><hi rendition="#u" style="arzt"><seg ana="#signed">Agatha
+                        <surname>B.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

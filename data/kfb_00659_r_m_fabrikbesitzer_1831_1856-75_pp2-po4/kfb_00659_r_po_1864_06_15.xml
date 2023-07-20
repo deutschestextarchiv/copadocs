@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb659r03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>659</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>R.</surname></persName>
+<date type="sent">15.06.1864</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb659r">
+<persName>
+<forename>Karl</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1831"/>
+<death when="1875"/>
+<occupation>Fabrikbesitzersohn</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Fabrikbesitzer</p>
+<p from="1856" to="1875">Anstalt: 1856-1875</p>
+<p from="1856" to="1875">Brieftypen: pp, po</p>
+</state>
+<trait><p>Epilepsie, Nervenstörungen (1856)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    hat Urlaub daheim, bittet um Verlängerung, neue Kraft und Stärkung, trifft freunde, will am Geburtstag des Vaters dabei sein, deshalb Bitte - genehmigt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb659r03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb659r03b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg 15. Juni 1864.</hi></hi></dateline>
+<salute><hi rendition="#c">Hochverehrter Herr Direktor!</hi></salute>
+</opener>
+<p><add hand="arzt">Genehmigt <unclear>[Unterschrift]</unclear></add></p>
+<p>Der von Ihnen mir gütigst bewilligte Urlaub ist<lb break="yes"/>bereits vorüber und ich muß Sie deshalb um Entschuldigung<lb break="yes"/>bitten,
+                wenn ich einige Zeit <add hand="arzt">länger</add> hier bei meinem
+                Vater und Familie<lb break="yes"/>verweile.</p>
+<p><space/>Mein Befinden ist seit meinem Hiersein soweit ganz<lb break="yes"/>gleich wie in der Anstalt und einige nächtliche Unruhen sind<lb break="yes"/>leicht und schnell vorübergegangen und ein erquickender Schlaf<lb break="yes"/>gab
+                mir wieder Kraft und Stärkung.</p>
+<p>Bei Tag habe ich hier angenehme Unterhaltung, und<lb break="yes"/>komme auch oft mit
+                alten Freunden zusammen, namentlich<lb break="yes"/>nenne ich Ihnen meinen alten
+                Freund den Schreinermeister<lb break="yes"/><hi rendition="#i"><surname>R.</surname></hi>, bereits 72 Jahre alt, aber dabei noch munter
+                und rüstig,<lb break="yes"/>daß es mich freut, Ihn hobeln zu sehen. Ich habe diesem
+                    alten<lb break="yes"/>Freund versprochen, daß wann ich wieder in die Anstalt<lb break="yes"/>zurück reise, er mich mich bis dahin begleiten dürfen, wo<lb break="yes"/>gegen auch mein lieber Vater nichts einwendet.<lb break="yes"/><space/>Da nun am 18 d. Mts. der Geburtstag
+                    meines<lb break="yes"/>lieben Vaters hier im engern Familien Kreise ge<lb break="no"/>feiert wird, so wünscht mein lieber Vater, daß auch <pb facs="#image_008"/>ich diessmal dabei sei.</p>
+<p>Sie werden, daher gütigst erlauben, daß ich meinen<lb break="yes"/>Aufenthalt dahier noch um
+                einige Zeit verlängere.</p>
+<p>Schließlich bitte alle meine Bekannten
+                besonders aber dem<lb break="yes"/>Hr. <hi rendition="#i">D<hi rendition="#sup">r.</hi></hi> und Oberarzt, dem Herrn Oberwärter und meinen Wärter<lb break="yes"/>bestens von mir zu grüßen.</p>
+<p><seg ana="#salute">Ich empfehle mich Ihnen mit<lb break="yes"/><hi rendition="#c">vollkommenster
+                        Hochachtung<lb break="yes"/>Ew. Hochwohlgeboren<lb break="yes"/>Ergebenster</hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Carl
+                            <surname>R.</surname>. jun.</hi></seg><lb break="yes"/><add hand="arzt">Gelesen und bestätigt. C. <hi rendition="#i"><hi rendition="#u"><surname>R.</surname></hi>
+                    S.</hi></add></p>
+</body>
+</text>
+</TEI>

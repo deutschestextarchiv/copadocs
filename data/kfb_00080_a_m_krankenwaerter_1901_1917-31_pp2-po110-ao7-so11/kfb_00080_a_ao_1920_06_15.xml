@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a130" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Eltern: Babette und Hans <surname>A.</surname></persName>
+<date type="sent">15.06.1920</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt</persName>
+<settlement type="sent">Lindau-Hoyren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="eltern"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Eltern möchten auf dem Laufenden gehalten werden und ihren Sohn so bald wie möglich besuchen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a130a.jpg" xml:id="image_117"/>
+<graphic mimeType="image/jpg" url="kfb80a130b.jpg" xml:id="image_118"/>
+<graphic mimeType="image/jpg" url="kfb80a130c.jpg" xml:id="image_119"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_117"/>
+<opener>
+<dateline><hi rendition="#i">Lindau-Hoyren</hi>, den 15. Juni 20.</dateline>
+<salute><hi rendition="#i">Sehr geehrter</hi> Herr <hi rendition="#i">Doktor</hi>!</salute>
+</opener>
+<p>Im Besitze Ihres Schreiben's<lb break="yes"/>vom 12. d. Mts. wofür wir Ihnen<lb break="yes"/>für Ihre Mühe herzlich danken,<lb break="yes"/>gestatten wir uns
+                Sie höfl:<lb break="yes"/>zu bitten, sobald sich der<lb break="yes"/>Zustand
+                unsres l. Sohnes<lb break="yes"/>verschlim̄ert gütigst<lb break="yes"/>Mitteilung <w>zu kömmen</w><lb break="yes"/>zu lassen. Wir sind über<lb break="yes"/>die Nachricht von der
+                Nachricht<lb break="yes"/>über die unglückliche That<lb break="yes"/>unsres Sohnes
+                sehr erschrocken<lb break="yes"/>&amp; hoffen, daß sich die Sache <pb facs="#image_118"/>doch wieder zum Besten<lb break="yes"/>ändert. Es thut uns
+                von<lb break="yes"/>ganzen Herzen leid, daß Hans<lb break="yes"/>den Herren der
+                Anstalt so viel<lb break="yes"/>Arbeit &amp; Sorge macht. </p>
+<p>Wir hofften im̄er noch daß<lb break="yes"/>es besser werde mit ihm &amp;<lb break="yes"/>wir ihn doch noch heim nehmen<lb break="yes"/>könnten, allein es
+                scheint<lb break="yes"/>daß wir diese Hoffnung<lb break="yes"/>aufgeben müssen.
+                Bitte sehr<lb break="yes"/>geehrter Herr <hi rendition="#i">D</hi>oktor ihn zu<lb break="yes"/>grüßen von uns &amp; ihm<lb break="yes"/>mitzuteilen daß sein
+                Vater<lb break="yes"/>ihn besucht sobald ich in<lb break="yes"/>Urlaub darf.
+                Sollte sich sein<lb break="yes"/>Zustand derart verschlim̄ern,<lb break="yes"/>daß es bedenklich sei, so<lb break="yes"/>würde jedoch so schnell
+                als <pb facs="#image_119"/>möglich jemand von uns<lb break="yes"/>kom̄en.</p>
+<p><seg ana="#salute">Mit dem Ausdruck der<lb break="yes"/>ergebensten Hochachtung<lb break="yes"/>und nochmals für Ihre<lb break="yes"/>Mühe herzlich dankend<lb break="yes"/><hi rendition="#c">zeichnet</hi></seg><lb break="yes"/><seg ana="#signed">Babete &amp; Hans <surname><hi rendition="#i">A.</hi></surname>.</seg></p>
+</body>
+</text>
+</TEI>

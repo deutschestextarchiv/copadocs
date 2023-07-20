@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1365s15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1365</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>S.</surname></persName>
+<date type="sent">xx.xx.1899-1919</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Karl <surname>D.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1365s">
+<persName>
+<forename>Anna</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1856"/>
+<death cert="unknown"/>
+<occupation>Armenhäuslerin</occupation>
+<residence><geo decls="#WGS">48.4327435 10.3711492</geo>Großanhausen, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Zimmermann</p>
+<p from="1899" to="1919">Anstalt: 1899-1919</p>
+<p from="1899" to="1919">Brieftypen: po, pp</p>
+</state>
+<trait><p>Schwachsinn, Paranoia (1899-1919)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Berichtet über Besuch von Karl
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1365s15.jpg" xml:id="image_047"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_047"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p> Adreß heist<lb break="yes"/>An Hern Karl <surname>D.</surname><lb break="yes"/><hi rendition="#c">in<lb break="yes"/>Grünenbaindt Post
+                    Gabelbah.</hi></p> <p>Ich teile dir mit das der Pius<lb break="yes"/>in Kaufb war vor der Kahrwohe<lb break="yes"/>Beim Adlerwirt u hat reht<lb break="yes"/>gschimpft, über mih, das wird<lb break="yes"/>Wohl Ärgerlih sein wen man<lb break="yes"/>60 M u 10 M Schnapps
+                von der<lb break="yes"/>ihren Lohn versoffen hat, u Jetzt<lb break="yes"/>ist er
+                ins Oberland u ist zu uns<lb break="yes"/>niht her, u den Winter ist Er flagt<lb break="yes"/>Dan hat Gemeind vom Karl den<lb break="yes"/>Lohn genomen u ihn
+                verhalten<lb break="yes"/>der Karl ist bis nach Unterbergen<lb break="yes"/>Bei
+                München, wegen dem Geld<lb break="yes"/>500 M hät er in Kaße braht,<lb break="yes"/>ich hab im geschrieben er Soll dir<lb break="yes"/>Schreiben du Sollst den
+                Beschlag<lb break="yes"/>Darauf mahen das Gemeind ihm<lb break="yes"/>Geld niht
+                nehmen könen ob du<lb break="yes"/><hi rendition="#r">Einen Brief bekomen<lb break="yes"/>hast<lb break="yes"/>Bitte um baldige Antwort</hi></p><p><add place="bottom">an euh alle<lb break="yes"/>einen Gruß</add></p>
+</body>
+</text>
+</TEI>

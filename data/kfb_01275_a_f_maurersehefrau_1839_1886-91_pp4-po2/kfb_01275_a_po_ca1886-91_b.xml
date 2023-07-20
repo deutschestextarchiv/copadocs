@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1275a01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1275</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Felicitas <surname>A.</surname></persName>
+<date type="sent">ca1886-91</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1275a">
+<persName>
+<forename>Felicitas</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1839"/>
+<death cert="unknown"/>
+<occupation>Maurersehefrau</occupation>
+<residence><geo decls="#WGS">47.9484351 10.3943101</geo>Markt Rettenbach, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1886" to="1891">Anstalt: 1886-91</p>
+<p from="1886" to="1891">Brieftypen: pp, po</p>
+</state>
+<trait><p>Depression im Wechsel mit Aufregung, [Suizidalität] (1888)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte Brief abschicken, kann sich selber fortbringen, will Tochter zu sich nehmen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1275a01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1275a01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb1275a01c.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb1275a01d.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb1275a01e.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Geördester Herr Ober Arzt!</hi></salute>
+</opener>
+<p> Send Sie doch so gut u<lb break="yes"/>schieken Sie den brif nach<lb break="yes"/>Kemten
+                an meinen Vetter<lb break="yes"/>daß ich doch emmal hinaus<lb break="yes"/>kome,
+                ich were so gerne im<lb break="yes"/>Greise meiner Familie<lb break="yes"/>waß
+                aber <add>leider</add> nicht stat finden 
+				    
+				    <pb facs="#image_002"/> kan̄, darum
+                bitte ich Ihnen<lb break="yes"/>Herzlich daß Sie mir behilf<lb break="yes"/>lich
+                send, solte im fall der<lb break="yes"/>Vetter nichtz wißen wohlen<lb break="yes"/>von mir so bitte <w>ich</w><w>inen</w>
+<del>daß</del><lb break="yes"/>Herzlich daß Sie, an die<lb break="yes"/>Gemeinde
+                schreiben, ich will<lb break="yes"/>der Gemeinde keine weidere<lb break="yes"/>unkösten machen, ich bin<lb break="yes"/>Gott sei Dank, doch wider so<lb break="yes"/>weit gekomen, daß ich mich 
+				    
+				    <pb facs="#image_003"/> selber
+                fortbringe mit fleisigem<lb break="yes"/>Arbeiten, ich bin fil minder<lb break="yes"/>daran als eine arme <w>Wiett</w><lb break="yes"/><w> frau</w> für disen wird doch so<lb break="yes"/>zimlich gesorgt ich habe noch<lb break="yes"/>meine kleine
+                Felizitas wo<lb break="yes"/>noch 4 Jahr in die Alldegige<lb break="yes"/>Schul
+                mus ich möchte daß<lb break="yes"/>Kind selber zu mir nehmen<lb break="yes"/>wans
+                die Herrn erlauben<lb break="yes"/>wirden ich wirde mich ganz<lb break="yes"/>Klieklich schätzen wan̄ ich zu<lb break="yes"/>meinen Kinder könnte
+                    dan̄<lb break="yes"/>werde ich noch beserr Gesund 
+				    
+				    <pb facs="#image_004"/>
+                es grist Sie Hochachungs<lb break="yes"/>folst.<lb break="yes"/><hi rendition="#c">Felizitas <surname>A.</surname></hi>
+<pb facs="#image_005"/>
+<hi rendition="#r">An</hi><lb break="yes"/><hi rendition="#c">Herrn Ludwig Kling<lb break="yes"/>Agend in</hi><lb break="yes"/><hi rendition="#r">Kempten</hi></p>
+</body>
+</text>
+</TEI>

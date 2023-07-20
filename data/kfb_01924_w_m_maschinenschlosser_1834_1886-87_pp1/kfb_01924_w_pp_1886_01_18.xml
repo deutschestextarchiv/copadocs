@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1924w01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1924</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Leopold <surname>W.</surname></persName>
+<date type="sent">18.01.1886</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Ursula <surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1924w">
+<persName>
+<forename>Leopold</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1834"/>
+<death when="1887"/>
+<occupation>Maschinenschlosser</occupation>
+<residence><geo decls="#WGS">47.48474 10.327536</geo>Hindelang, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Nagelschmied</p>
+<p from="1886" to="1887">Anstalt: 1886-87</p>
+<p from="1886" to="1887">Brieftypen: pp</p>
+</state>
+<trait><p>[Epilepsie] (1887)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Patient bittet um Kleidung, wird bald nach Hause kommen.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1924w01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1924w01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb1924w01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 18 1/2 1886</hi><lb break="yes"/></dateline>
+<salute><hi rendition="#u"><unclear>Denrest</unclear> Frau</hi><lb break="yes"/></salute>
+</opener>
+<p> Ich hätte eine Biett<lb break="yes"/>an dich Schiken<lb break="yes"/>mier daß Himed von<lb break="yes"/>fassold und einen Kragen<lb break="yes"/>und mascheden, die<lb break="yes"/>Sontag Stiefel und<lb break="yes"/>kleine Knöpfin und<lb break="yes"/>eine Haltsbinde<lb break="yes"/>ein gezigarn und<lb break="yes"/>ein inge paar<lb break="yes"/>Mark<lb break="yes"/><hi rendition="#r">dein Mann</hi><lb break="yes"/>fielle Grisse L <hi rendition="#i"><surname>W.</surname></hi>
+<pb facs="#image_002"/> ich kome dan<lb break="yes"/>nach Hause wo<lb break="yes"/>Mog ihs balt den ich<lb break="yes"/>kanes beredeis nicht<lb break="yes"/>Aushalten.<lb break="yes"/>Lassen mihr alles<lb break="yes"/>Schöne Grüsen<lb break="yes"/>und ich werden<lb break="yes"/>kommen<lb break="yes"/>flele
+                    fielle<lb break="yes"/>Grüsse<lb break="yes"/>von dem Leopold<lb break="yes"/><hi rendition="#u"><hi rendition="#i"><surname>W.</surname></hi></hi></p>
+<pb facs="#image_003"/>
+<p><hi rendition="#u">An</hi><lb break="yes"/>Ursola <hi rendition="#i"><surname>W.</surname></hi><lb break="yes"/>in<lb break="yes"/>Lindau<lb break="yes"/><hi rendition="#i">No</hi> 94.<lb break="yes"/></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2702w03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>W.</surname></persName>
+<date type="sent">01.11.ca1853-56</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: n.a. <surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2702w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Bierbrauerstochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Brauereibesitz</p>
+<p from="1853" to="1856">Anstalt: 1853-56</p>
+<p from="1853" to="1856">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Vesania (17.11.1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Berichtet ihrer Mutter, dass die Sachen, die von ihrem Bruder geschickt werden sollten, 
+                    (noch) nicht angekommen sind. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2702w03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb2702w03b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r">Irrsee <hi rendition="#sup">den</hi> 1
+                    November</hi></dateline>
+<salute><hi rendition="#r">Liebste Mutter!</hi></salute>
+</opener>
+<p><space/> Ich muß Sie schon wieder<lb break="yes"/>mit einem Brief beläst<lb break="no"/>igen, es ist uns nämlich<lb break="yes"/>allen miteinander ganz<lb break="yes"/>unerklärlich, wo den̄ die<lb break="yes"/>Sachen bleiben
+                von den<lb break="yes"/>der Joseph dem Herrn Doktor<lb break="yes"/>gesagt hat,
+                daß er sie schicken<lb break="yes"/>wolle, oder schon bereits<lb break="yes"/>aufgegeben habe, man glaubt<lb break="yes"/>etwa, sie seien auf der <w>Eisen<lb break="no"/>Bahn Expedition</w> liegen gebl<lb break="no"/>ieben. Ich bitte
+                Sie daher, doch<lb break="yes"/>darüber Auskunft zu ertheilen,<lb break="yes"/>ich
+                meines Theils würde so sehr<lb break="yes"/>nicht pressiren aber es ist mir<lb break="yes"/>angeschafft worden.</p>
+<pb facs="#image_008"/>
+<p><space/>
+Ich befinde mich. Gott sei<lb break="yes"/>Dank ganz wohl, u
+                ich wünschte<lb break="yes"/>von Herzen von Ihnen das<lb break="yes"/>gleiche zu
+                erfahren. </p><p>Neuigkeiten weiß ich Ihnen<lb break="yes"/>eben keine zu melden. es<lb break="yes"/>geht alles
+                den <del>al</del> gewohnten<lb break="yes"/>Gang.</p><p><seg ana="#salute">Von Herzen grüßt Sie, u<lb break="yes"/>Brüder<lb break="yes"/><hi rendition="#c">Ihre</hi><lb break="yes"/><hi rendition="#r">Sie in̄ig<lb break="yes"/>liebende
+                        Tochter </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Marie</seg></hi><lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+</body>
+</text>
+</TEI>

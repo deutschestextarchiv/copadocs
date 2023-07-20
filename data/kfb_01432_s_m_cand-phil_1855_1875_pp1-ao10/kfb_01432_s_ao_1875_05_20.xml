@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1432s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1432</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: C. <surname>S.</surname></persName>
+<date type="sent">20.05.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Deggingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1432s">
+<persName>
+<forename>Theodor</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1855"/>
+<death cert="unknown"/>
+<occupation>Cand. Philologie in Erlangen</occupation>
+<residence><geo decls="#WGS">48.774956 10.5767002</geo>Mönchsdeggingen, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Doktor</p>
+<p from="1875" to="1875">Anstalt: 1875</p>
+<p from="1875" to="1875">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Moralischer Irrsinn</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="pencil" scope="minor" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    sendet dem Direktor mehrere Unterlagen/Dokumente und Dinge zu. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1432s05.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><hi rendition="#r">Deggingen 20.5.75.<lb break="yes"/><add hand="arzt"><hi rendition="#i">prs</hi>. 2/VI 75 <hi rendition="#i">N<unclear><hi rendition="#sup">r</hi></unclear></hi>1692</add></hi></dateline>
+<salute><hi rendition="#c">Hochzuverehrender Herr
+                        Direktor!</hi></salute>
+</opener>
+<p><add place="top"><add hand="arzt"><hi rendition="#c"><hi rendition="#u">4</hi></hi></add></add></p>
+<p>In der Anlage übersende ich<lb break="yes"/>1. die Krankengeschichte<lb break="yes"/>2. ein Protokoll Verpflegung bet<unclear>r</unclear><lb break="yes"/>3. 2 Briefe des Herrn Beneficiat<lb break="yes"/><surname>L.</surname> v. Untergünzburg<lb break="yes"/>4. einen
+                Brief des Studienlehrers<lb break="yes"/><surname>W.</surname> zu Augsburg,
+                    dar<lb break="no"/>malen Seminarpraefect in<lb break="yes"/><hi rendition="#i">Neuburg</hi><lb break="yes"/>5. 22f 42 <add place="above"><handShift medium="pencil" scribe="mutter"/><unclear>⸀</unclear></add>
+<unclear/> Rest des Verpflegungs<lb break="no"/>geldes bis 1. Iuli<lb break="yes"/>6 etwas Wäsche Rock u. Hosen<lb break="yes"/>für meinen Sohn Theodor. </p><p><handShift medium="pencil" scribe="mutter"/><unclear/> worunter ein Zins<hi rendition="#i">coupon</hi> ad 2<unclear>f0</unclear>15<unclear>F</unclear>.<lb break="yes"/><unclear/><unclear>ebher</unclear> zu wechseln ist.</p>
+</body>
+</text>
+</TEI>

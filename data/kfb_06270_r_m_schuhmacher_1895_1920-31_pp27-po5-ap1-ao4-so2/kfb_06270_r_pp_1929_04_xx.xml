@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb6270r23" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Stephanie Kamm</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>6270</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>R.</surname></persName>
+<date type="sent">04.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Pflegerin: Hedwig <surname>U.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb6270r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1895"/>
+<death cert="unknown"/>
+<occupation>Schuhmacher</occupation>
+<residence><geo decls="#WGS">48.0048016 10.4324403</geo>Erisried, Mindelheim</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Schuhmacher</p>
+<p from="1920" to="1931">Anstalt: 1920-31</p>
+<p from="1920" to="1931">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Schizophrenie (1934), vorl. Diagn. Dementia praecox (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="unbekannt"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Eine Art Liebesbrief? Vorhaben, das Haus zu verkaufen!
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb6270r23a.jpg" xml:id="image_061"/>
+<graphic mimeType="image/jpg" url="kfb6270r23b.jpg" xml:id="image_062"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_061"/>
+<opener>
+<dateline><add hand="arzt"><surname>R.</surname> J.</add> <hi rendition="#r">Kaufbeuren, den <space/> April 1929.</hi></dateline>
+<salute><hi rendition="#c">Liebe Hedwig! <handShift medium="pencil" scribe="unbekannt"/>(<surname>U.</surname>)</hi></salute>
+</opener>
+<p><handShift medium="ink" scribe="patient"/><space/> Nun hab ich für Dich wieder einige
+                Zeilen zu schreiben. Ich hätte<lb break="yes"/>auf Antwort gewartet, Du kamst aber
+                auch diese Woche nicht in<lb break="yes"/>unsre Werkstädte. Darfst Du nicht oder
+                magst nicht. Ich hätte Dich<lb break="yes"/>dann damals aus Liebe gleich gefreßen.
+                Willsts mir nicht glauben? −<lb break="yes"/>Ein paar Wochenlöhne hab ich auch
+                beir Seite, die sind dann am Maien<lb break="no"/>markt recht; wenns nicht geht, wie
+                letzthin im Kino. Ob Sie mir die<lb break="yes"/>Erlaubnis dazu schenken. Da mußt
+                halt Du Ihnen noch vürholzen,<lb break="yes"/>wenn Dir nicht sonst von draußen eine
+                Aussicht verdorben ist.<lb break="yes"/>Ich kon̄te es Dir auch am Gesicht
+                Gedanken ablesen. Du hast mir<lb break="yes"/>Mund und Herz verschlossen liebe
+                Hedwig; darüber gibts nichts.<lb break="yes"/>Heute Samstag wollt ich auch ausgehn,
+                und zu Dir nüber schauen.<lb break="yes"/>Wärest erschrocken? Soviel Freiheit
+                kön̄ten Sie einem doch gönnen.
+            
+            <pb facs="#image_062"/>
+          Zum Schluß will ich Dich schon noch anfragen, ob Dir mein Geschäft<lb break="yes"/>allein zu gering ist? Da brauch ich den Vater nicht dazu. Und muß<lb break="yes"/>dann nicht in meiner Ortschaft sein. Ich schreib es meinen Geschwistern,<lb break="yes"/>daß ich das Anwesen verkaufen ließ, nach dem Schätzen, wenns der<lb break="yes"/>Bruder mir nicht lassen kann, wo er ein eigen Heim hätte.<lb break="yes"/>Sprichst, oder schreibst mir einmal.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Es grüßt und küßt Dich<lb break="yes"/>Dein
+                        Freund</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Joseph.</seg></hi></p>
+<p>Frl. <hi rendition="#i"><surname>U.</surname></hi>.</p>
+<p><add place="bottom"><hi rendition="#c">Hast vieleicht mein leztes Schreiben<lb break="yes"/>gar nicht
+                    erhalten.</hi></add></p>
+</body>
+</text>
+</TEI>

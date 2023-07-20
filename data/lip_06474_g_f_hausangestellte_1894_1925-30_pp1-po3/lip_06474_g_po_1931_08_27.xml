@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip6474g04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>6474 (K. 70)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Margarete <surname>G.</surname></persName>
+<date type="sent">27.08.1931</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">Gütersloh</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip6474g">
+<persName>
+<forename>Margarete</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1894-03-16"/>
+<death cert="unknown"/>
+<occupation>Hausangestellte</occupation>
+<residence><geo decls="#WGS">51.9063997 8.3782078</geo>Geburtsort: Gütersloh; Wohnort: Gütersloh</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater: Lokomotivführer a.D., Mutter: n.a.</p>
+<p from="1925-07-27" to="1930-03-22">Anstalt: 27.07.1925-22.03.1930</p>
+<p from="1925-07-27" to="1930-03-22">Brieftypen: pp, po</p>
+</state>
+<trait>
+<p>Schizophrenie (1925)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="crayon" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="pencil" scope="minor" scribe="hand3"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin bittet um den Abmeldeschein.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip6474g04a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="lip6474g04b.jpg" xml:id="image_009"/></facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Gütersloh</hi>, 27. 8. 1931</hi></dateline>
+<salute><hi rendition="#i"><hi rendition="#c">Werter Herr Direktor!</hi></hi></salute>
+</opener>
+<p><hi rendition="#r"><add hand="hand2">A6474</add></hi></p><p>Möchte Sie bitte so freundlich sein und<lb break="yes"/>mir umgehend mein Abmeldeschein<lb break="yes"/>nach hier schicken, denn diese<lb break="yes"/>Tage kommt es bei
+                der Krankekasse<lb break="yes"/>heraus, daß ich noch nicht hier<lb break="yes"/>angemeldet bin.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Mit besten
+                        Gruß</seg><lb break="yes"/>Ihre <seg ana="#signed">Margarete
+                        <surname>G.</surname></seg>.</hi>
+<add hand="hand3"><lb break="yes"/>Abmeldeschein<lb break="yes"/>aus gest. 1/9
+                    Fo</add>
+<pb facs="#image_009"/><add hand="vordruck">Absender:</add>
+<hi rendition="#i">Grete <surname>G.</surname></hi>
+<add hand="vordruck"><lb break="yes"/>Wohnort:</add>
+<hi rendition="#i">Gütersloh</hi><lb break="yes"/><add hand="vordruck">Straße, Hausnummer,<lb break="yes"/>Gebäudeteil, Stockwerk</add>
+<hi rendition="#i"><placeName type="street">Acker</placeName> Str</hi>. 10. I. </p><p><add hand="vordruck">Postkarte
+                <hi rendition="#i"><lb break="yes"/>Herrn<lb break="yes"/>Medizinalrats Dr.<lb break="yes"/><hi rendition="#c">Hermkes</hi></hi>
+<add hand="vordruck"><lb break="yes"/>in</add>
+<hi rendition="#i">Eickelborn<lb break="yes"/>Prov. <w>Heil
+                            An<unclear>stalt</unclear></w></hi>
+<add hand="vordruck"><lb break="yes"/>Straße, Hausnummer,<lb break="yes"/>Gebäudeteil, Stockwerk</add></add></p>
+</body>
+</text>
+</TEI>

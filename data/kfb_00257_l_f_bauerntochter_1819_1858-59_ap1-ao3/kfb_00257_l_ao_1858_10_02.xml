@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb257l03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>257</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Fanni <surname>Z.</surname></persName>
+<date type="sent">02.10.1858</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb257l">
+<persName>
+<forename>Therese</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1819"/>
+<death when="1859"/>
+<occupation>Köchin, Bauerntochter</occupation>
+<residence><geo decls="#WGS">47.8743013 10.5341514</geo>Friesenried, Obergünzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1858" to="1859">Anstalt: 1858-1859</p>
+<p from="1858" to="1859">Brieftypen: ap, ao</p>
+</state>
+<trait><p>Blödsinnigkeit, Schwermut (1858)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bekannte"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Eine Bekannte der Patientin wendet sich an die Anstalt, um einen Teil der Verpflegungskosten zu bezahlen. 
+                    Weiter erkundigt sie sich nach dem Befinden der Patientin.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb257l03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb257l03b.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">E N 46</hi></hi></dateline>
+<salute><hi rendition="#c">Euer Wohlgeborn!</hi></salute>
+</opener>
+<p> Hiebei übersende ich 93 Gulden, welche ich von der<lb break="yes"/>Frau Fürstin von
+                    <surname>A.</surname> aus Brüssel zur Deckung<lb break="yes"/>der
+                Verpflegungskosten für Frl Therese <surname>L.</surname>, die sich<lb break="yes"/>seit einiger Zeit in der Anstalt zu Iresee befindet, erhielt.<lb break="yes"/>Hievon sollen 82 fl: zur halbjährigen Vorausbezahlung<lb break="yes"/>der Verpflegung in dritter Klasse dienen, und die übrigen<lb break="yes"/>11fl: zu allenfallsigen Nebenausgaben; was an Letzteren<lb break="yes"/>noch fehlen sollte müsste von den Verwandten der Lel
+                    <surname>L.</surname><lb break="yes"/>bezahlt werden.− </p><p>Sie würden mich sehr verbinden, wenn Sie mir umgehend<lb break="yes"/>den Empfang des Geldes
+                anzeigen und eine Guittung darüber<lb break="yes"/>beifügen wollten. Recht gerne
+                würde ich nur in einigen<lb break="yes"/>Worten hören mögen wie es Frl.
+                    <surname>L.</surname> ergeht und ob einige </p><p><add hand="arzt"><space/> Am 4 Okt. 58<lb break="yes"/>Obige Neunzig drej Gulden quittiert u. au
+                        depo<lb break="no"/>hitum genom̄en.<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Matt</seg></hi></add></p>
+<pb facs="#image_007"/>
+<p> Besserung in ihrem Zustande eingetreten ist.<lb break="yes"/>Verzeihen Sie, daß
+                ich Sie mit dieser Bitte belästige und<lb break="yes"/>nehmen Sie die Versicherung
+                der ausgezeichnet<add place="inline">en</add> Hochachtung<lb break="yes"/>mit der
+                zeichnet<lb break="yes"/><hi rendition="#c">Euer Wohlgeboren</hi><lb break="yes"/><hi rendition="#r">ergebene Fanni <surname>Z.</surname></hi><add place="margin"><lb break="yes"/>München den 2<hi rendition="#sup">t</hi>
+                    Oktober<lb break="yes"/>1858</add></p>
+<p>Adresse. Frl. Fanni <surname>Z.</surname> pensionirte Erzieherin der<lb break="yes"/>Prinzessin̄en von <surname>A.</surname><lb break="yes"/><hi rendition="#r">München<lb break="yes"/>Sonnenstrase <hi rendition="#i">nr</hi>
+                    21/1 </hi></p>
+</body>
+</text>
+</TEI>

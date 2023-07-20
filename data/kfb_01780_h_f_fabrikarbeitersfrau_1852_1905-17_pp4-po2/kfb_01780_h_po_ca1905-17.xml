@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1780h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1780</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Therese <surname>H.</surname></persName>
+<date type="sent">1905-17</date>
+<date type="received">n.a.</date>
+<persName type="addressee">König Otto von Bayern</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1780h">
+<persName>
+<forename>Therese</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1852"/>
+<death when="1917"/>
+<occupation>Fabrikarbeitersfrau</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Tagelöhner</p>
+<p from="1905" to="1917">Anstalt: 1905-1917</p>
+<p from="1905" to="1917">Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Beobachtungs-, Beziehungs-, Verfolgungswahn, Paranoia, Halluzinationen (1905)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte mit König Otto selber sprechen, legt alles in Gottes Hände
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1780h02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1780h02b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<salute><hi rendition="#c">An<lb break="yes"/>Euer Gnaden und Maistet Seiner<lb break="yes"/>königlichen Hoheit Otto König<lb break="yes"/>von Bayern!</hi></salute>
+</opener>
+<p>
+Euer Gnaden ich halte es für das<lb break="yes"/>größte Glük und Ehre Sie Euer<lb break="yes"/>Gnaden einmal persönlich sprechen<lb break="yes"/>zu können und Ihre gute Herzens<lb break="no"/>Meinng mir zu Theil werden laßen <pb facs="#image_005"/>was mich schon oft zu heißen<lb break="yes"/>Thränen rührte. Euer Gnaden! ich befinde<lb break="yes"/>mich jetzt seit einigen Tagen im<lb break="yes"/>neuen Pavillon
+                2. Euer Gnaden!<lb break="yes"/>meine Angelegenheiten sind Euch selbst<lb break="yes"/>bekannt Der liebe Gott hat bis jetzt<lb break="yes"/>geholfen
+                wird auch wieter helfen<lb break="yes"/>ich leg Alles in seine Hände und in<lb break="yes"/>seinen Willen. Wie Gott will.<lb break="yes"/><seg ana="#metaling">Bite um Verzeihung so wie auch meiner<lb break="yes"/>schlechten Schrift.</seg><lb break="yes"/><space/> <seg ana="#salute">Die besten Grüße an Euer Gnaden<lb break="yes"/>Sr. kgl. Hoheit und Maiestet König Otto.</seg> <pb facs="#image_006"/>
+<hi rendition="#c">Hochwohlgeboren Hochgeehrte gnädige<lb break="yes"/>Frau!</hi></p>
+<p>Indem wir schon öfter näher
+                    beisamen<lb break="yes"/>waren und doch so fremd daß ist mir<lb break="yes"/>sehr leid und kränkt mich ganz das<lb break="yes"/>macht nur die Schüchternheit
+                    anfangs<lb break="yes"/>bis ich mehr verkehre und nächer bekannt<lb break="yes"/>aber nicht wie es einem oft ungerecht an<lb break="yes"/>gerechnet wird Stolz
+                eigensinn und der<lb break="yes"/>gleichen abgesehen davon es war mir im<lb break="yes"/>E 1 Garten als Ihre gnädige Frau<lb break="yes"/>spaziren ging
+                was Sie selbst an mir<lb break="yes"/>werden wahrgenomen haben ich besitze<lb break="yes"/>überhaupt den entgegengesetzten Char<lb break="no"/>akter wie man
+                mich schildert und leider so<lb break="yes"/>viel <unclear>unrehct</unclear> leiden
+                mußte.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Die besten Grüße an Sie <add place="above">gnädige
+                    Frau</add></seg><lb break="yes"/>auch an die kleinen zwei Prinzen.</hi><lb break="yes"/>Ich bite um entschuldigung und zugeleich um Verzeihung. </p>
+</body>
+</text>
+</TEI>

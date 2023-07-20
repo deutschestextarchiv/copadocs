@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1887k01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1887</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Adelgunde <surname>K.</surname></persName>
+<date type="sent">ca. 1892-99</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Sofie <surname>K.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1887k">
+<persName>
+<forename>Adelgunde</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1899"/>
+<occupation>Hausbesitzerstochter</occupation>
+<residence><geo decls="#WGS">48.7371951 11.1795268</geo>Neuburg a. d. Donau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Hausbesitzer</p>
+<p from="1892" to="1899">Anstalt: 1892-99</p>
+<p from="1892" to="1899">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Verfolgungsideen, Halluzinationen, Apathie (1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/><!--anpassen!-->
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie reiht Adjektive und Nomen zum Thema Glück aneinander und bittet immer wieder um Antwort von ihrer Schwester.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1887k01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Liebe Sofie!</hi></salute>
+</opener>
+<p> Muß dir schreiben und woniglich süß<lb break="yes"/>und sanft hold und süß.
+                friedlich glück<lb break="yes"/>süße sonnen lieb, traut. Schreibe bald<lb break="yes"/>wieder gib gleich Antwort. In Glück und<lb break="yes"/>Wonne
+                Zufriedenheit Wollwollen und Liebe<lb break="yes"/>Freundschaft und Glückseligkeit
+                Lust, ewige<lb break="yes"/>Friede. Endlich schreiben von Honig und Liebe<lb break="yes"/>gleich Antwort geben in lang. Bald hätt<lb break="yes"/>ich Dir
+                gegeben aber es war nicht, warte<lb break="yes"/>gleich Antwort schreibe gleich,
+                sonst und<lb break="yes"/>muß man vergehen wie der Zucker nah w<unclear reason="rubbing">ar</unclear>um<lb break="yes"/>Gib gleich Antwort wo die 2
+                langen Füß<lb break="yes"/>herunter hägen am Boden. </p><p><hi rendition="#r"><seg ana="#salute">Deine <add place="inline">dich</add> ewigliebende
+                        Schwester</seg></hi><lb break="yes"/><hi rendition="#r">Herrn Hans <surname>K.</surname>. </hi><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Fräulein Sofie
+                            <surname>K.</surname></seg>
+</hi><lb break="yes"/><hi rendition="#r">Wachswarenfabrick</hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">pond</hi> <foreign xml:lang="eng">Street</foreign> </hi><lb break="yes"/><hi rendition="#r">Amerika</hi></p>
+</body>
+</text>
+</TEI>

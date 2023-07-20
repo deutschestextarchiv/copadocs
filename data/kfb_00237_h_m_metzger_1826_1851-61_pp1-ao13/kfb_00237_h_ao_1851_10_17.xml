@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb237h03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>237</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Anton <surname>H.</surname></persName>
+<date type="sent">17.10.1851</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Weißenhorn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb237h">
+<persName>
+<forename>Michael</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1861"/>
+<occupation>Metzger und Bräugeselle</occupation>
+<residence><geo decls="#WGS">48.3044877 10.1601492</geo>Weißenhorn</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Wirt</p>
+<p from="1851" to="1861">Anstalt: 1851-61</p>
+<p from="1851" to="1861">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Trunkfälliger Wahnsinn (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="verwaltung1"/>
+<handNote medium="ink" scope="minor" scribe="verwaltung2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Zusendung einer noch fehlenden Zahlung (siehe kfb237h02)
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb237h03.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener><dateline><hi rendition="#r">Weißenhorn <hi rendition="#sup">den</hi> 17
+                        Otb <hi rendition="#u">1851</hi>.</hi></dateline>
+<salute><hi rendition="#c">Werthester Herrn Verwalter, </hi></salute>
+</opener>
+<p><add hand="verwaltung1"><add place="top"><hi rendition="#c"><hi rendition="#u">6</hi></hi></add></add></p><p><add hand="verwaltung1"><hi rendition="#r"><hi rendition="#i">praes</hi>. 19 Oktbr 1851<lb break="yes"/>295 </hi></add></p>
+<p>Hier übersünde jch Jhnen 8f 6<unclear>x</unclear> wovon Sie<lb break="yes"/>Das
+                fehlede nehmen kön̄en, und das andere<lb break="yes"/>nacht <unclear reason="damage">J</unclear>hnen Gutachten meinen Bruder<lb break="yes"/><unclear reason="damage"/><unclear>enden</unclear>; </p><p><seg ana="#salute"><hi rendition="#c">Mit Achtung</hi><lb break="yes"/><hi rendition="#r">Euer Diener</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Anton <surname>H.</surname></seg></hi></p><p><add hand="verwaltung1">Am 20 Oktbr 1851.<lb break="yes"/><hi rendition="#i">fiat</hi> Quittung
+                    über den nunmehr<lb break="yes"/><add place="margin"><unclear/><lb break="yes"/>296</add> vollständig erhaltenen Verpflegsbetrag<lb break="yes"/><hi rendition="#r"><hi rendition="#i">ad</hi> 36fl 30<hi rendition="#i">x</hi></hi><lb break="yes"/>mit dem Bemerken, daß der Re<unclear>c</unclear>st von den<lb break="yes"/>übermachten 8fl 6<hi rendition="#i">x</hi> über Abzug von
+                    <space/> 3<hi rendition="#i">x</hi><lb break="yes"/>Postträgergebühr dem Anstaltsvorstand<lb break="yes"/>mit<lb break="yes"/><hi rendition="#r"><unclear><hi rendition="#i">Sa
+                        </hi></unclear><space/> %/<hi rendition="#sub">44</hi> 33/<hi rendition="#sub">%</hi>
+</hi><lb break="yes"/>überantwortet wurde.<lb break="yes"/><hi rendition="#r"><unclear>MM </unclear></hi><lb break="yes"/></add></p><p><add hand="verwaltung2">fiat Extradition von 7fl
+                        33<hi rendition="#i">x</hi><hi rendition="#i"> Sieben</hi> Gulden 33xr<lb break="yes"/><hi rendition="#r">Erh. <hi rendition="#i"><w>Dr</w><w>Hagen</w></hi></hi></add></p>
+</body>
+</text>
+</TEI>

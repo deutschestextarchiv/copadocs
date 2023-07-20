@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1480g18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1480</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>G.</surname></persName>
+<date type="sent">03.11.1895</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Nördlingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1480g">
+<persName>
+<forename>Karl</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1911"/>
+<occupation>Handlungskommissar</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1891" to="1911">Anstalt: 1891-1911</p>
+<p from="1891" to="1911">Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>[Epilepsie] (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vetter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schwester des Schreibers (Heinrich Gall, Vetter des Patienten, siehe kfb1480g19) hat von Rezept gehört, das wirken könnte; 
+                    Vetter bittet den Arzt, es auszuprobieren
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1480g18a.jpg" xml:id="image_041"/>
+<graphic mimeType="image/jpg" url="kfb1480g18b.jpg" xml:id="image_042"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_041"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#i">Rsp</hi>. 11.11.95.</add><lb break="yes"/><hi rendition="#r">Nördlingen den 3<hi rendition="#sup">ten</hi> Nov. 1895</hi></dateline>
+<salute><add hand="arzt">Mittel (<hi rendition="#i">Kal.Bromat.</hi>) bereits in<lb break="yes"/>Anwendung</add><lb break="yes"/><hi rendition="#c">Geehrtester Herr
+                    Oberartzt</hi></salute>
+</opener>
+<p> Ich schreibe im Namen meinr<lb break="yes"/>Schwester. <seg ana="#med"> Nähmlich meine<lb break="yes"/>Schwester ist an der Rükfahrt<lb break="yes"/>von Kaufbeuern
+                    mit einer<lb break="yes"/>Mezgerstochter von Augsburg<lb break="yes"/>gereißt
+                    und dieße hat ihr<lb break="yes"/>gerathen sie soll an die<lb break="yes"/>Anstalt nach Bielefeld in<lb break="yes"/>Westphalen schreiben lassen,<lb break="yes"/>und soll ihr das Rezept<lb break="yes"/>schicken lassen denn
+                        <del>eh</del><add place="above">es</add> hat<lb break="yes"/>schon vielen
+                    Kranken geholfen.<lb break="yes"/>So möchte ich Ihnen höflichst<lb break="yes"/>ersuchen dießes Rezept an<lb break="yes"/>Karl <surname>G.</surname>
+                    anzuwenden <pb facs="#image_042"/> Natürlich steht es zu Ihrer<lb break="yes"/>Verfügung <add place="above">was Sie</add> thun wollen<lb break="yes"/>So
+                    bittet mein Schwester<lb break="yes"/>es anzuwenden.<lb break="yes"/></seg> Ich
+                lege eine Briefmarke<lb break="yes"/>bei seine Sie so freundlich<lb break="yes"/>und geben Sie mir Nachricht</p>
+<p><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll</seg><lb break="yes"/><seg ana="#signed">Heinrich <surname>G.</surname>.</seg><lb break="yes"/>Die Adreße ist<lb break="yes"/>An Heinrich <surname>G.</surname> im Hospital<lb break="yes"/>in Nördlingen.</hi>
+</p>
+</body>
+</text>
+</TEI>

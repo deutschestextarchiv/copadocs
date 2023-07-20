@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2214b09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2214</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Katharina <surname>B.</surname></persName>
+<date type="sent">02.06.1913</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Maria <surname>Z.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2214b">
+<persName>
+<forename>Katharina</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1841"/>
+<death when="1920"/>
+<occupation>Nagelschmiedswitwe</occupation>
+<residence><geo decls="#WGS">47.48474 10.327536</geo>Hindelang, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet, verwitwet</p>
+<p from="1911" to="1920">Anstalt: 1911-20</p>
+<p from="1911" to="1920">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Manisch-depressiv], Alkoholismus (1911)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    gesund, Abholung wurde versprochen, Wegbeschreibung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2214b09a.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="kfb2214b09b.jpg" xml:id="image_023"/>
+<graphic mimeType="image/jpg" url="kfb2214b09c.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<dateline><hi rendition="#r">Ierse den 2ten Juni.<lb break="yes"/>1913.</hi></dateline>
+<salute><hi rendition="#c">Liebste Schwester </hi></salute>
+</opener>
+<p>
+<hi rendition="#c">meine Erstes</hi> Schriben Das Ich an Euch richte Ist<lb break="yes"/>Folgendes, das Ich Euch mitheilen werde =<lb break="yes"/>Das Ich jetzt so gesund bin Das Ich nicht =<lb break="yes"/>Besser sein könte Darum wiell Ich Euch =<lb break="yes"/>Ihn Kentnieß, setzen das Ich Euch noch =<lb break="yes"/>Viel Behülfliech sein kötte Der Herr<lb break="yes"/>Direcker und Der Herr Oberartz hat =<lb break="yes"/>Mier selber gasagt Das man mich =<lb break="yes"/>Abholen werde, Darum bitte Ich diech<lb break="yes"/>Recht Du werdest Dich meiner Erbarme<lb break="yes"/>Und mir diese von Gott geschenckte =<lb break="yes"/>Lebens Tage, noch helfen. Versüßen Damitt<lb break="yes"/>Wier wider beieinaneader wohnen können =<lb break="yes"/>Und unsere leiden zu Trösten Ich habe =<lb break="yes"/>Schon Einige mahl der Filomena geschriben =
+
+<pb facs="#image_023"/>
+Den du thustt das größte gute Werck das =<lb break="yes"/>Das auf dieser welt ausüben kanst, die =<lb break="yes"/>Filomene hat mier geschriben das sie von<lb break="yes"/>Der Rosa gar nichts weis Darum möchte<lb break="yes"/>Ich mich am besten, bekünern Den Es Ist =<lb break="yes"/>Doch das Eigene Kind. Ich möchte den neuen<lb break="yes"/>Schwiegersohn Ihn der Gaicht <w>kennen lernen</w> =<lb break="yes"/>und die zwei Buberl du kanst wen du<lb break="yes"/>Nicht gern auf Hindelang gehtst Durch<lb break="yes"/>Die Gaicht und über Reutte fahren<lb break="yes"/>Es were bereitz Näher am Nechsten =<lb break="yes"/>Es Uber Pfronten nach Kemten Ich <add>Hoffe</add> mein<lb break="yes"/>schreiben werde Euch Ihn der Gesund<lb break="no"/>Heit antrefen <seg ana="#salute">jetz will Ich mein schreiben<lb break="yes"/>schlissen mit villen Grüßen an Euch beide</seg><lb break="yes"/><seg ana="#signed">Und verbleibe Eure Alte schwester Katharina<lb break="yes"/><surname>B.</surname>.</seg> An das Freulein Anna Maria<lb break="yes"/><surname>Z.</surname> in Zöble Pfarrei Than̄heim <add>Landgericht</add> Reutte =
+				    
+<pb facs="#image_024"/>
+Aber es war vergebens Darum wirde es =<lb break="yes"/>Das beste sein Du wierdest Dich meiner =<lb break="yes"/>Annehmen Den auf die Kinder Darf man<lb break="yes"/>Sich nicht verllassen, es wäre as Beste Du<lb break="yes"/>Wierdest mich selber besuchen Ihn zwei tagen =<lb break="yes"/>Ist alles vorüber Dann würd es dich =<lb break="yes"/>Gewüs nicht reuen man muß noch ville<lb break="yes"/>Schöne Tage In Kühler Erde ruhn<lb break="yes"/>Du kanst ja bei der Filomena Einkeren<lb break="yes"/>Villeicht diese Farht mit Dier und wo<lb break="no"/>Nicht dan̄ findest Du <del>E</del> Alleinig her<lb break="yes"/>Wan du biß auf Einsideln gekomen bist<lb break="yes"/>Komst du Daher auch Deine Reise will =<lb break="yes"/>Dier schon Entschädiegen, Darum bitte<lb break="yes"/>Ich dich recht Herzlich um Eine baldige =<lb break="yes"/>Antwort, damit Ich weis wie Ich mich zu =<lb break="yes"/>verhalten habe Ihn der Hoffnung du =<lb break="yes"/>Werdest mier meine Bitte nicht abschlagen =<lb break="yes"/>in Tirol Bäker Meistrin
+</p>
+</body>
+</text>
+</TEI>

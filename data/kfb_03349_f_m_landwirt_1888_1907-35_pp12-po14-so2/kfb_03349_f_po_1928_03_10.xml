@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3349f03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3349</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>F.</surname></persName>
+<date type="sent">10.03.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion: n.a.</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3349f">
+<persName>
+<forename>Jakob</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888"/>
+<death cert="unknown"/>
+<occupation>Landwirt, Dienstknecht</occupation>
+<residence><geo decls="#WGS">48.2473553 10.4500832</geo>Premach, Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landwirt</p>
+<p from="1907" to="1935">Anstalt: 1907-35</p>
+<p from="1907" to="1935">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>maniakalischer Erregungszustand (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    hat Antrag zur Entlassung gestellt, nichts geschehen; will nun Anklage gegen die Direktion erheben
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3349f03a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb3349f03b.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb3349f03c.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<salute><hi rendition="#i">An</hi> die Dierektion<lb break="yes"/>der Heil u. Pfleganstalt<lb break="yes"/><space/> <hi rendition="#i">Hier</hi></salute>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren</hi>, den 10. III. 1928.</hi></dateline>
+</opener>
+<p>Betreff:<lb break="yes"/>Zwecks Entlassung.</p>
+<p> <space/> Vor bereits 3 Wochen<lb break="yes"/>hat Unterzeichneter, durch<lb break="yes"/>Herrn Oberarzt <hi rendition="#i"><surname>F.</surname></hi><lb break="yes"/>zweks Entlassung, den<lb break="yes"/>mündlichen Antrag an<lb break="yes"/>die Direktion gestellt. Bis<lb break="yes"/>heute, ist weder solche<lb break="yes"/>erfolgt, noch welche in<lb break="yes"/>Aussicht gestellt worden.<lb break="yes"/>Sollte bis Montag den<lb break="yes"/>12.d.Mt. keine Schritte<lb break="yes"/>unternom̄en werden,
+
+<pb facs="#image_009"/>
+fordere ich von der Anstalts-Direktion, mir<lb break="yes"/>das Recht zu gewähren, am Dienstag den<lb break="yes"/>13.d.Mt. mich an das Amtsgericht <hi rendition="#i">Kaufbeuren</hi><lb break="yes"/>zu lassen, um Klage zu stellen und gegen<lb break="yes"/>die Anstalts-Direktion, ein gerichtliches Verfahren<lb break="yes"/>einzuleiten. Für die zwangsweise Verzögerung,<lb break="yes"/>mache ich die Direktion verantwortlich, u. stelle<lb break="yes"/>die Sache richtlicher Entscheidung anheim. Jegliche<lb break="yes"/>Abmachung in dieser Sache, wünsche ich auf schrift<lb break="no"/>lichem Wege bewerkstelligen zu wollen, um<lb break="yes"/>Mißverständnisse zu vermeiden u. Entäuschungen<lb break="yes"/>vorzubeugen.<lb break="yes"/>Dem Zwange der Anstalts-Direktion<lb break="yes"/>gehorchend, mich dem Schiksal fügend</p>
+<p><hi rendition="#r">zeichnet<lb break="yes"/><hi rendition="#i"><surname>F.</surname> Jakob</hi><lb break="yes"/>zur Zeit Heil- u. Pflegeanstalt<lb break="yes"/>bei <hi rendition="#i">Kaufbeuren</hi> Abteilung CII.</hi>
+<pb facs="#image_010"/>
+<add hand="arzt">Zur Krankheitsgeschichte<lb break="yes"/>dr <surname>P.</surname><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Kaufb.</hi> 12.III.28</hi></add><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><surname>F.</surname><lb break="yes"/>Jakob</hi></hi><lb break="yes"/><hi rendition="#i">An</hi><lb break="yes"/>die Direktion<lb break="yes"/><hi rendition="#c">der Heil- u. Pflegeanstalt<lb break="yes"/>bei <hi rendition="#i">Kaufbeuren<lb break="yes"/><hi rendition="#u">Hier</hi></hi></hi>
+</p>
+</body>
+</text>
+</TEI>

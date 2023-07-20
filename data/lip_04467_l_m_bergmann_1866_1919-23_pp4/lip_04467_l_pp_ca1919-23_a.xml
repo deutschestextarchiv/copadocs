@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip4467l01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>4467 (K. 210)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Christoph <surname>L.</surname></persName>
+<date type="sent">ca.1919-23</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Eickelborn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip4467l">
+<persName>
+<forename>Christoph</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1866-07-16"/>
+<death when="1923-05-09"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">52.7310186 9.6054281</geo>Geburtsort: Osterode; Wohnort: Eickel</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1919-09-16" to="1923-05-09">Anstalt: 16.09.1919-09.05.1923</p>
+<p from="1919-09-16" to="1923-05-09">Brieftypen: pp</p>
+</state>
+<trait><p>Progr. Paralyse (1919)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er will wissen, ob seine Frau schon das Geld geholt hat. Er lässt Verwandte und Bekannte grüßen und bittet um deren Vergebung. Er möchte, dass seine Frau etwas mitbringt, dass seine Schwester bekommen soll. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip4467l01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="lip4467l01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="lip4467l01c.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="lip4467l01d.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c">Eickeibaren</hi>
+</dateline>
+<salute>Liebe Frauf</salute>
+</opener>
+<p>sei<lb break="yes"/>s<del>u</del>o gut und Schribe<lb break="yes"/>mir Op du das<lb break="yes"/>Geld für <hi rendition="#i">M</hi>onat<lb break="yes"/><hi rendition="#i">Au</hi>gust schonn<lb break="yes"/>geholt hast oder<lb break="yes"/>nicht denn sei<lb break="yes"/>so gut und gesuch<lb break="yes"/>mir Dise Tagem<pb facs="#image_002"/>und grüse Adolf<lb break="yes"/>fom mir und
+                Emil<lb break="yes"/>und Otte <hi rendition="#i">A</hi>na und<lb break="yes"/>Teha
+                und <hi rendition="#i">M</hi>utter und<lb break="yes"/>Schrebe auch meine<lb break="yes"/><hi rendition="#i">M</hi>utter und meine<lb break="yes"/>geschwister alle das<lb break="yes"/>sie mir solen<lb break="yes"/>fergebem das
+                alles<lb break="yes"/>Noch ich sie im <pb facs="#image_003"/>neiner Junge <w>ferr<lb break="no"/>brochen</w> habm und<lb break="yes"/>grusen Hern,<lb break="yes"/>bestribsfürer <surname>S.</surname><lb break="yes"/>won der Zeche Julga<lb break="yes"/>Aber dan gest Du<lb break="yes"/>selber bei him und<lb break="yes"/>zeichst im den brief<lb break="yes"/>Mein nabe heist<lb break="yes"/><space/> Christov
+                    Kolobus
+                <pb facs="#image_004"/>und Liebe Frauf<lb break="yes"/>wenn du komtt<lb break="yes"/>zu mir dan Brinkst<lb break="yes"/>mir die 2 Wesse<lb break="yes"/>Konichen mit das<lb break="yes"/>gricht meine Schwester<lb break="yes"/>wo ich
+                    <unclear>inn</unclear> der<lb break="yes"/>flege bin den<lb break="yes"/>sie
+                ist für mich<lb break="yes"/>so gut da sof sie<lb break="yes"/>Sham mir zu
+                    <unclear>Anderen</unclear>
+<add place="margin"><unclear>Trigen</unclear></add>
+</p>
+</body>
+</text>
+</TEI>

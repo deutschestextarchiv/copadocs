@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2566h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2566</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Christian <surname>H.</surname></persName>
+<date type="sent">18.02.1871</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion: n.a. <surname>n.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2566h">
+<persName>
+<forename>Nikolaus</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1828"/>
+<death cert="unknown"/>
+<occupation>cand. Theologie Uni München</occupation>
+<residence><geo decls="#WGS">47.7169589 12.8629459</geo>Reichenhall</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1851" to="1854">Anstalt: 1851-54</p>
+<p from="1851" to="1854">Brieftypen: pp, ao</p>
+</state>
+<trait><p>"Schwermuth", [Verwirrtheit], [Manie] (1852)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder1"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erzählt vom Werdegang des Patienten nach seinem Klinikaufenthalt (1852-53) in Irsee:
+                    er habe demnach sein Theologiestudium abgeschlossen und war in der Seelsorge tätig. Doch knapp 
+                    20 Jahre später zeigten sich erneut Symptome einer Geistesstörung, sodass es im Jahr 1871
+                    erneut nötig wurde, den Patientin in einer Heilanstalt (München) unterzubringen. 
+                    Diesbezüglich bittet der Verfasser des Briefes um die Übersendung eines ärztliches Zeugnisses. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2566h01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2566h01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Verehrte Direktion<lb break="yes"/>der<lb break="yes"/>Kgl. Kreis-Jrren-Anstalt <del>I</del>Jrsee!</hi></salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#r"><hi rendition="#i">pr</hi>. 20. <hi rendition="#i">Febr</hi>. 1871<lb break="yes"/><hi rendition="#i">EN</hi>
+                        702</hi></add></p>
+<p><space/> Jn den Jahren 1852 und 1853 hatte der damals<lb break="yes"/>geisteskranke Nikolaus <surname><hi rendition="#i">H.</hi></surname>,
+                Studierender an der Uni<lb break="no"/>versität zu <hi rendition="#i">M</hi><hi rendition="#i">ünchen</hi>, gebürtig aus Reichenhall in der<lb break="yes"/><w>Kreis Jrren-Anstalt</w>
+<hi rendition="#i">Irsee</hi> Aufnahme, Pflege und Heilung<lb break="yes"/>gefunden.
+                Derselbe hat nach vollständiger Genesung seine theo<lb break="no"/>logischen Studien
+                fortgesetzt und vollendet und ist im Jahre<lb break="yes"/>1856 in die praktische
+                Seelsorge übergetreten. Jn seiner<lb break="yes"/>Stellung als Hilfspriester hat
+                Derselbe durch volle 1<del>4</del><add>3</add> Jahre<lb break="yes"/>unter
+                theilweise großen Anstrengungen seinen Beruf<lb break="yes"/>bei vollen Geistes-
+                und Körpers-Kräften erfüllt, bis im<lb break="yes"/>Frühjahre 1870, hauptsächlich
+                    <w>in Folge</w> großer und andauern<lb break="no"/>der Alteration wegen
+                unliebsamer lokaler Verhältnisse die<lb break="yes"/>ersten deutlichen Spuren einer
+                Geistesstörung sich zeigten,<lb break="yes"/>jedoch nach Ablauf von wenigen Wochen
+                wieder verschwanden.<lb break="yes"/>Neuerdings zeigten sich Simptome der <seg ana="#med">Geistestrübung</seg> in<lb break="yes"/>vorvergangener Woche, und
+                nur zu bald sollten diese Erscheinungen<lb break="yes"/>zur Gewißheit führen, daß
+                ein Recidi<unclear>v</unclear>-Fall ganz ernster<lb break="yes"/>Art eingetreten
+                sei. Die seit dem 17t d. M. gesteigerte <pb facs="#image_002"/>Geistesstörung
+                nöthigte d<del>ie</del>en ergebenst Unterzeichneten,<lb break="yes"/>den bereits
+                mit den unzweideutigsten Anzeichen der <seg ana="#med">Tob<lb break="no"/>sucht</seg> erscheinenden Bruder heute in die Kreisirren<lb break="no"/>Anstalt zu München zu verbringen. <space/> Da die Aufnahme<lb break="yes"/>bezw.
+                das Verbleiben des Kranken in der Heilanstalt<lb break="yes"/>von der sofortigen
+                Beibringung der durch die Statuten<lb break="yes"/>geforderten ärztlichen Zeugnisse
+                bedingt worden ist, der<lb break="yes"/>Kranke aber seit seinem Austritte aus der
+                Heilanstalt<lb break="yes"/>Jrsee keiner ärztlichen Hilfe bedurfte, erlaubt sich
+                der er<lb break="no"/>gebenst Unterzeichnete aus Auftrag des Herrn Direktors<lb break="yes"/>und kgl. Hofrathes <surname><hi rendition="#i">S.</hi></surname> an die verehrte Direktion<lb break="yes"/>der
+                Kreis-Jrren-Anstalt <hi rendition="#i">Irsee</hi> die dringende Bitte zu<lb break="yes"/>stellen, es wolle in möglicher Bälde ein ärztliches Zeug<lb break="no"/>niß, bezw. ärtzlicher Kranken-Bericht über den in<lb break="yes"/>den Jahren 1852-1853 zur Heilung in <hi rendition="#i">Irsee</hi> unterge<lb break="no"/>brachten Nikolaus <surname><hi rendition="#i">H.</hi></surname> aus
+                Reichenhall an die Direktion<lb break="yes"/>der kgl. Kreis-Jrren-Anstalt <hi rendition="#i">München</hi> (:<hi rendition="#i">Haidhausen</hi>:) ein<lb break="no"/>gesandt werden. Die hiefür etwa ausfallenden Taxen pp<lb break="yes"/>wolle verehrte kgl. Direktion durch Kost-Vorschuß von dem<lb break="yes"/>ergebenst Unterzeichneten erheben. </p><p>Einer gütigen Erfüllung vorstehender ergebensten Bi<add place="inline">t</add>te<lb break="yes"/>sieht entgegen mit der Versicherung ausgezeichneter Hoch<lb break="no"/>achtung
+                und wärmster Dankbarkeit für die früher geleiste<lb break="no"/>ten Dienste und
+                gespendeten Wohlthaten an den kranken<lb break="yes"/>Bruder und dadurch an ihn
+                selbst<lb break="yes"/><seg ana="#salute"><hi rendition="#c">der kgl. Direktion </hi><lb break="yes"/><hi rendition="#r">er<del><unclear>h</unclear></del>gebenster Diener </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Christian <surname>H.</surname></seg><lb break="yes"/>Curatbenefiziat in Unter<lb break="no"/>Wößen, <w>Bez. Amts
+                            <unclear>Traunste</unclear></w></hi></p><p>München d. 18<hi rendition="#sup">t</hi> Februar<lb break="yes"/><space/> 1871.</p>
+</body>
+</text>
+</TEI>

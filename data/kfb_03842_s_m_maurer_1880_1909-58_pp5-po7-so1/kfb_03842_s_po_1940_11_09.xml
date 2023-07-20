@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3842s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3842</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>S.</surname></persName>
+<date type="sent">09.11.1940</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">Hirschzell</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3842s">
+<persName>
+<forename>Josef</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1880"/>
+<death cert="unknown"/>
+<occupation>Maurer, Landwirt</occupation>
+<residence><geo decls="#WGS">47.8803788 10.622246</geo>Kaufbeuren, geb. Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Landwirt; "Vermögensverhältnisse: gering"</p>
+<p from="1909" to="1958">Anstalt: 1909-58</p>
+<p from="1909" to="1958">Brieftypen: Lebenslauf, pp, po</p>
+</state>
+<trait><p>Manisch-depressives Irresein (1909), Geisteskrankheit (1926)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte die Mäuse auf der Wiese fangen, dass diese nicht kaputt geht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3842s05a.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline><hi rendition="#u"><hi rendition="#i">Den</hi>, 9. 11. <space/> 1940</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#u">Geerter Herr!</hi></hi></salute>
+</opener>
+<p> Ich möcht, Euch ersuchen mir die<lb break="yes"/>Mäuse auf den Wiesen im Park<lb break="yes"/>auch so in der Colonie fangen<lb break="yes"/>zu <del>ll</del>
+                lassen. Auch im Obstgarten<lb break="yes"/>sind es sehr viele. Sie mach an den<lb break="yes"/>Obst-Bäumen sehr viel schaden.<lb break="yes"/>Sie beißen die
+                Wurzel ab und die<lb break="yes"/>Bäume gehen <w>zu
+                    grunde</w>. Auf den<lb break="yes"/>Wiesen ist das Mehen sehr peinlich.<lb break="yes"/>Auch die Zugtiere sind sehr geplagt.<lb break="yes"/>Am besten
+                würde es sein wen ich<lb break="yes"/>im Babilohn Schlafen könnt.<lb break="yes"/><hi rendition="#c">Wie sie es für besser haben.<lb break="yes"/><seg ana="#salute">Viele grüße sendet</seg><lb break="yes"/><seg ana="#signed">Euch Untergebener<lb break="yes"/>Joseph Schmid.<lb break="yes"/>Hirschzell.</seg></hi>
+</p>
+</body>
+</text>
+</TEI>

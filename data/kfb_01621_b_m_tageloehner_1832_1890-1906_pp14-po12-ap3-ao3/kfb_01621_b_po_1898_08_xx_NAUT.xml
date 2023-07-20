@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1621b31" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1621</idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<p>
+                               beschädigt 
+                            </p>
+</objectDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Martin <surname>B.</surname></persName>
+<date type="sent">xx.08.1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: J. <surname>S.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1621b">
+<persName>
+<forename>Martin</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1832"/>
+<death when="1906"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.2433959 10.3634009</geo>Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater Schneider, Mutter Hausiererin</p>
+<p from="1890" to="1906">Anstalt: 1890-1906</p>
+<p from="1890" to="1906">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Secundäre Seelenstörung (1894), [Alkoholismus], Halluzination (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schreiber"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um Entlassung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1621b31a.jpg" xml:id="image_099"/>
+<graphic mimeType="image/jpg" url="kfb1621b31b.jpg" xml:id="image_100"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_099"/>
+<opener>
+<dateline><unclear reason="damage"/> August 1898.</dateline>
+<salute><hi rendition="#r">Geehrtester Herr Bürgermeis<unclear reason="damage"/></hi></salute>
+</opener>
+<p><unclear reason="damage"/>om 16.<hi rendition="#sup">ten</hi> Juli den Brief
+                von mir nicht<lb break="yes"/><unclear reason="damage"/> weil ich keine Antwort
+                erhalten hab! Sind<lb break="yes"/><unclear reason="damage"/>g, und kommen Sie
+                selber zu mir auf<lb break="yes"/><unclear reason="damage"/>r schicken Sie sonst
+                Jemand her, damit ich per<lb break="no"/><unclear reason="damage"/>den kann. Soll
+                ich an das Gericht selber<lb break="yes"/><unclear reason="damage"/> oder an Wen?!
+                Lieber den baldigen Tod,<lb break="yes"/><unclear reason="damage"/>gere Zeit in
+                dieser Anstalt zu sein; Ich habe<lb break="yes"/>es nicht verdient, daß man mich
+                noch spöttisch macht,<lb break="yes"/>ich sei noch krank; wäre Alles so gesund als
+                ich, dan̄<lb break="yes"/>wäre es beßer für mich hier! Laßt mich doch keinen<lb break="yes"/>Winter nicht mehr hier! ich will meine Freiheit<lb break="yes"/>wieder haben; was muß ich jetzt noch thun, daß<lb break="yes"/>man mich bald
+                abholen kann!? Sind Sie so gü<lb break="no"/>tig und halten Sie diesesmal Euer
+                Versprechen, u.<lb break="yes"/>sorgen Sie für mich, daß ich recht bald entlaßen
+                werden<lb break="yes"/>kann! Ich erwarte mit großer Sehnsucht, auf eine<lb break="yes"/>bestimmte, baldige, wahre Antwort! Euer dankbarer<lb break="yes"/>Martin <surname>B.</surname>! <seg ana="#salute">Herzlichen Gruß an Euch
+                    Alle!</seg></p>
+<pb facs="#image_100"/>
+<p><hi rendition="#i">Wohlgeboren<lb break="yes"/>Herrn J.
+                    <surname>S.</surname></hi> Bürgermeister<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Hohenraunau.<lb break="yes"/>Bezirksamt
+                    Krumbach.</hi></hi></p>
+</body>
+</text>
+</TEI>

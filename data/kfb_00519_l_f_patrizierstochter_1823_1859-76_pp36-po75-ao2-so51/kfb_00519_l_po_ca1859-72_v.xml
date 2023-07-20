@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l39" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Doktor <surname>L.</surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Drohung mit Gericht für Missachtung und Anschwärzen bei Dr. Müller
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l39a.jpg" xml:id="image_092"/>
+<graphic mimeType="image/jpg" url="kfb519l39b.jpg" xml:id="image_093"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_092"/>
+<opener>
+<dateline/>
+<salute>Geehrtester Herr <hi rendition="#i">Doctor</hi></salute>
+</opener>
+<p> Hinreichend veranlaßt werde ich nächste Tage<lb break="yes"/>Sie nun bei
+                Gerichte treffen: 1) einen Ersatz<lb break="yes"/>verlangend für etwas das ich
+                nicht zurückbekam. −<lb break="yes"/>2) um mich zu <hi rendition="#i">revengiren</hi> für Ihr Anklagen bei <hi rendition="#i">D.M.</hi>,<lb break="yes"/>deßen feindliches, mißtrauisches u <hi rendition="#u">zu</hi>
+                grobes Benehmen<lb break="yes"/>hauptsächlich dadurch erfolgte. − </p>
+<p> Würde Hr <hi rendition="#i">D.M</hi>. mich wie einen Menschen behandeln<lb break="yes"/>das würde ihm das Leben nicht kosten, aber wie<lb break="yes"/>einen Hund stets vor der Thüre zurückstoßen -<lb break="yes"/>ist zu empörend. (:
+                Mit den gerinsten Mägden<lb break="yes"/>u FabrikMädchen so vertraut u gegen Leute<lb break="yes"/>von Stand so <hi rendition="#i">infam</hi> wird daher an Ort u.
+                Stelle<lb break="yes"/>angebracht :) −−</p>
+<p> Da ich stets gegen <hi rendition="#u">ihn</hi> auf die angenehmste<lb break="yes"/>oder unangenehmste Weise aufgeregt bin,<lb break="yes"/><w>kom̄t</w><w>es</w> darauf an
+                welche von diesen stets<lb break="yes"/>mehr bezweckt wird. − Möchten Sie
+                daher<lb break="yes"/>so gütig sein diese Zeilen wörtlich recht zu geben.<lb break="yes"/>Auf Wiedersehen hier oder dort.<lb break="yes"/><lb break="yes"/><hi rendition="#r">Wilh v <surname>L.</surname><lb break="yes"/>G. 338.</hi></p>
+<pb facs="#image_093"/>
+<p> Herrn Docktor Leigh<lb break="yes"/>Krankenhaus</p>
+</body>
+</text>
+</TEI>

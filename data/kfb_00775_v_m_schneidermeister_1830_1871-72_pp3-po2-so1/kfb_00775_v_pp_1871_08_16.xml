@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb775v06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>775</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>V.</surname></persName>
+<date type="sent">16.08.1871</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Barbara <surname>V.</surname></persName>
+<settlement type="sent">Irrsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb775v">
+<persName>
+<forename>Johann</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1830"/>
+<death cert="unknown"/>
+<occupation>Schneidermeister</occupation>
+<residence><geo decls="#WGS">47.8052615 10.2136981</geo>Altusried, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1871" to="1872">Anstalt: 1871-1872</p>
+<p from="1871" to="1872">Brieftypen: pp, po, Schuldbekenntnis, Gebete</p>
+</state>
+<trait><p>Depression, Wahnvorstellungen, Tobsucht (1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet seine Frau, den Pfarrar um die Möglichkeit zur Erneuerung ihres Eheversprechens zu bitten
+                    Er bereut sein Verhalten, kann es nun aber nicht mehr ändern.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb775v06.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 16. August<lb break="yes"/>1871</hi></dateline>
+<salute><hi rendition="#c"> Verlassenes Weib!</hi></salute>
+</opener>
+<p> Ich mache an dich die bitte das<lb break="yes"/>Du für mich eine bitte einlegen<lb break="yes"/>mächtest das wihr uns auf neie<lb break="yes"/>vereinigen könten
+                bei dem<lb break="yes"/><add>Hw.</add> Hern Pfarer u. so auch bei der<lb break="yes"/><w>Gemeinde Verwaltung</w>
+				    in<lb break="yes"/>Altusried. Es ist etwas trauriges<lb break="yes"/>für die
+                Kinder was ich getan<lb break="yes"/>habe, und auch eine Schande dafür<lb break="yes"/>das ich so thum gewäsen bin und<lb break="yes"/>habe des Herrn
+				    hilfe verstosen<lb break="yes"/>es ist freilich eine grosse Rei<lb break="yes"/>aber kein verschittes wasser<lb break="yes"/>kan ich halt nicht mehr aufhäben.<lb break="yes"/>Es ist etwas trauriges um einen<lb break="yes"/>versteckten
+                Sünder wen <unclear>man</unclear><lb break="yes"/>garnicht mehr erkänt was zum<lb break="yes"/>haile und zum Friden dint.<lb break="yes"/><seg ana="#salute">Es Grüst Dich<lb break="yes"/><hi rendition="#c">Dein</hi><lb break="yes"/><hi rendition="#r">unfergeslicher<lb break="yes"/>Man̄</hi><lb break="yes"/><seg ana="#signed">Joh.
+                            Baptist <surname>V.</surname></seg></seg></p>
+</body>
+</text>
+</TEI>

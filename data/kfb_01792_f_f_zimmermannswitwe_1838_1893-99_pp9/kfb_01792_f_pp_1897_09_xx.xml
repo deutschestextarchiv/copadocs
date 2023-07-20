@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1792f01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1792</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Therese <surname>F.</surname></persName>
+<date type="sent">xx.09.1897</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sohn: Mathias <surname>R.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1792f">
+<persName>
+<forename>Therese</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1838"/>
+<death when="1899"/>
+<occupation>Zimmermannswitwe, Fabrikarbeiterin</occupation>
+<residence><geo decls="#WGS">47.8458763 10.4192911</geo>Obergünzburg, Oberdorf</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Tagelöhner</p>
+<p from="1893" to="1899">Anstalt: 1893-1899</p>
+<p from="1893" to="1899">Brieftypen: pp</p>
+</state>
+<trait><p>Verfolgungswahn, Seelenstörung (1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Geld und Abholung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1792f08a.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb1792f08b.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><hi rendition="#c">123 Sedeper 1<del>7</del>879 Irsee </hi>
+</dateline>
+<salute><hi rendition="#c">Lieber Sohn Madias </hi></salute>
+</opener>
+<p><add hand="arzt" place="top"><hi rendition="#u">Ad </hi><surname><hi rendition="#i">F.</hi></surname>
+<hi rendition="#i">IX</hi>. 97.</add> Ich biete das du mir als meiigte<lb break="yes"/>6 7 Mark Geld schigen was mir<lb break="yes"/><w>Am</w><w>libsten</w> were dus nich
+                selber<lb break="yes"/>sebber abholen das 3 Mark habe<lb break="yes"/>gut bei der
+                    <surname>U.</surname> Theres<lb break="yes"/>hast du iwas mir eiziger wor<lb break="yes"/>hf were ih werd befor ich nah<lb break="yes"/>nach Persie ich
+                ich nach Obergzburg<lb break="yes"/>ich beis der Garm meine Glider<lb break="yes"/>und nein Led begomen und zu<lb break="yes"/>birgermeister dih ih Aele Monat<lb break="yes"/>20 Mark bekon werde die<lb break="yes"/>Sterbgase die 4 Jhar
+                bigdlinch<lb break="yes"/>bezald hast was mir amaler<lb break="yes"/>alelieden
+                were wenn du<lb break="yes"/>nich seln abholen wirde ich<lb break="yes"/>biete
+                dieh das du mich seber<lb break="yes"/>abhlen nirst </p>
+<pb facs="#image_016"/>
+<p>
+<hi rendition="#c">Am hern Mathias <surname>R.</surname><lb break="yes"/>Gondigder in Augsbr<lb break="yes"/><w>won haft</w> in Persee brronne<lb break="no"/>bacher weg</hi></p>
+</body>
+</text>
+</TEI>

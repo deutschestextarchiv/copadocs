@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2132k01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2132</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>K.</surname></persName>
+<date type="sent">08.04.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">Pfaffenhofen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2132k">
+<persName>
+<forename>Josef</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1870"/>
+<death when="1910"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">48.6147593 10.7211365</geo>Pfaffenhofen a. d. Zusam, Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="1908" to="1910">Anstalt: 1908-10</p>
+<p from="1908" to="1910">Brieftypen: pp, ao, ap</p>
+</state>
+<trait><p>Pr[ogressive] Par[alyse]  (1909)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Lebenslauf</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Kurzangaben zu Alter und Eltern
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2132k01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c">Paffenhofen den 6 SPmeber 18901</hi></dateline>
+<salute/>
+</opener>
+<p>
+<hi rendition="#c">Josef <surname>K.</surname> von Pafenhofen Bergabf<lb break="yes"/><unclear>Wertegre</unclear> Josef <surname>K.</surname> M. und Frau
+                    38.</hi><lb break="yes"/>Jofef 1870. <surname>K.</surname> 89 Vater
+                und Mutter lebet auch<lb break="yes"/>6 Okober 1870 von Merten ist 36. Jahr.
+                    1878<lb break="yes"/>Kost Vater ist so<add place="above">e</add>been vor hat Tag hat ah Rig<lb break="yes"/>an
+                hat ein <unclear>Huben</unclear> ned <unclear>Sahni</unclear> kein Geheba halt<lb break="yes"/>Josef <surname>K.</surname> alles sut</p>
+<p><add hand="arzt">8./ IV. 08. <hi rendition="#i">Lebenslauf, auf Veranlassung des Ref.
+                    geschrieben.</hi></add>
+</p>
+</body>
+</text>
+</TEI>

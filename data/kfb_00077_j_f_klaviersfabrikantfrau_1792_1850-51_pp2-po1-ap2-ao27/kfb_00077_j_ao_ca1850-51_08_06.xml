@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb77j04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>77</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehemann: Josef <surname>J.</surname></persName>
+<date type="sent">06.08.18xx</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb77j">
+<persName>
+<forename>Maria Clara</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1792"/>
+<death cert="unknown"/>
+<occupation>Klaviersfabrikantfrau</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1850" to="1857">Anstalt: 1850-1857</p>
+<p from="1850" to="1857">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Reizbarkeit, Agilitaet</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehemann"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Ehemann der Patientin macht in einem Schreiben an den Direktor der Anstalt deutlich, dass er sich bewusst ist, dass sich der Zustand seiner Frau verschlechtert hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb77j04a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München. 6.
+                    August.</hi></hi></dateline>
+<salute><hi rendition="#c">Wohlgeborner, hochgeehrtester Herr <hi rendition="#i">Director.</hi></hi></salute>
+</opener>
+<p>Dankend für Ihre letzte geehrte Zuschrift, erlaube ich mir ein<lb break="yes"/><hi rendition="#i">S</hi>chreiben an meine arme Frau einzulegen u. Euer
+                Wohlgeboren<lb break="yes"/>um gütige Abgabe zu bitten. Aus dem Innhalt ihres <hi rendition="#i">S</hi>chreibens<lb break="yes"/>vom 2<add place="above"><hi rendition="#u">t</hi>en</add> d. M. ersehe ich leider, daß ihr Zustand
+                noch lange nicht der<lb break="yes"/>Rechte ist; sie hat ganz andre Grundsätze
+                angenom̄en, u. die bange<lb break="yes"/>besorgniß, daß ihr Gemüth nie
+                wieder gänzlich in Ordnung kom̄en<lb break="yes"/>wird, taucht im̄er
+                beunruhigender in mir auf. Ich glaube mit unsrem<lb break="yes"/>schönen ehelichen
+                Verhältniß wird es eine Ende haben. Ihr Benehmen<lb break="yes"/>in den letzten
+                Tagen ihres Hierseins, war wirklich höchst betrübender<lb break="yes"/>Natur; von
+                Einsicht u. <hi rendition="#i">S</hi>parsamkeit keine<hi rendition="#i"> S</hi>pur
+                mehr, im höchsten Grade<lb break="yes"/>eifersüchtig, zanksüchtig, ungerecht, u.
+                was das Shlim̄ste ist, sie sucht<lb break="yes"/>Alles auf Kosten der
+                Wahrheit zum Nachtheil Anderer u. zu ihrem Vor<lb break="no"/>theil hinzustellen,
+                überhaupt: doch genug davon, ich bin eben jetzt ein<lb break="yes"/>unglücklicher
+                Mann, ich habe sonderbare Endekungen gemacht −.<lb break="yes"/>Doch, ich
+                liebe sie deshalb doch, nie werde ich meine Pflicht vergeßen!<lb break="yes"/>Entschuldigen <hi rendition="#i">S</hi>ie, verehrter Herr Direktor meine Klagen.<lb break="yes"/>Bitte mich Frau Direktorin aufs schönste zu empfehlen, u. die<lb break="yes"/>Verführung volkom̄enster Hochachtung zu genehmigen in
+                welcher <unclear reason="damage"/><lb break="yes"/><hi rendition="#c">Euer Wohlgeboren</hi><lb break="yes"/><hi rendition="#r">ergebenster<lb break="yes"/><seg ana="#signed"><hi rendition="#i"><unclear>H.</unclear> Jos.
+                            <surname>J.</surname></hi></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

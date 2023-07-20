@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a111" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">20.03.xxxx</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um Schlafmittel, da er zurzeit sehr aufgeregt ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a111a.jpg" xml:id="image_072"/>
+<graphic mimeType="image/jpg" url="kfb80a111b.jpg" xml:id="image_073"/>
+<graphic mimeType="image/jpg" url="kfb80a111c.jpg" xml:id="image_074"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_072"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#u">20. III 6 Uhr</hi></hi></dateline>
+<salute>Sehr geehrter Herr Ober=Medizinalrat!</salute>
+</opener>
+<p><add place="top"><hi rendition="#r"><hi rendition="#u">1.</hi></hi></add>
+</p><p>Ich bitte Sie höflichst, sagen Sie es<lb break="yes"/>den Herrn Ärzten Morgen bei der<lb break="yes"/>Konferenz 11 Uhr, daß ich auf Ihre<lb break="yes"/>werte Erlaubnis
+                von Morgen ab<lb break="yes"/>jeden Abend einen Schlaftrunk oder<lb break="yes"/>1
+                    <seg ana="#med">Veronal</seg> bekom̄. Geben Sie bitte<lb break="yes"/>mir doch Schlaftrunk täglich, wie<lb break="yes"/>früher, dan̄ hab ich
+                wenigstens Nachts<lb break="yes"/>meine Ruhe. Denn auf das böse<lb break="yes"/>Vorkom̄nis, &amp;. aufs Gefängnisurteil<lb break="yes"/>meines Vater, wo
+                ich jetzt genau<lb break="yes"/>weiß &amp;. von vielen genau erfuhr,<lb break="yes"/>bin ich im̄er aufgeregt &amp;. aus<pb break="no" facs="#image_073"/><add place="top">2.)<lb break="yes"/></add>einander, es bringt mich
+                erst<lb break="yes"/>recht zur Verzweiflung, &amp;. das Le<lb break="no"/>ben
+                verleidet mir jetzt ganz<lb break="yes"/>und gar. Mit mir wird es jetzt<lb break="yes"/>im̄er schlechter, denn weil mein<lb break="yes"/>Vater im
+                Gefängnis sitzt ½ Jahr,<lb break="yes"/>muß ich mich schämen, &amp;. bin jetzt<lb break="yes"/>überall verrufen &amp;. verachtet. Mei<lb break="no"/>ne Mutter dauert mich sehr. Ich<lb break="yes"/>komm
+                jetzt noch lange nicht heim,<lb break="yes"/>&amp;. das Leben ist mir verpfuscht;<lb break="yes"/>drum̄ bitt ich Sie, geben Sie mir<lb break="yes"/>Schlaftrunk daß ich meine Ruhe hab.<lb break="yes"/><seg ana="#salute">Hochachtungsvollst</seg>
+<seg ana="#signed"><hi rendition="#u"><surname>A.</surname>
+                Hans.</hi></seg></p>
+<pb facs="#image_074"/>
+<p>Bitte geben Sie mir<lb break="yes"/>jeden Aben 1 Schlaf<lb break="no"/>trunk, zur
+                Linderung<lb break="yes"/>meiner Aufregung &amp;.<lb break="yes"/>Verzweiflung.
+                    <seg ana="#salute">Es grüßt<lb break="yes"/><hi rendition="#u">Sie
+                        höflichst</hi></seg><hi rendition="#u">
+<seg ana="#signed"><surname>A.</surname> Hans.</seg><lb break="yes"/>Helfen Sie bitte mir.</hi></p>
+</body>
+</text>
+</TEI>

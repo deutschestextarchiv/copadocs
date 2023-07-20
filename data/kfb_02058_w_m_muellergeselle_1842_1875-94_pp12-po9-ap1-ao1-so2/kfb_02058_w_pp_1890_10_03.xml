@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2058w17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2058</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz Josef <surname>W.</surname></persName>
+<date type="sent">03.10.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Martin <surname>w.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2058w">
+<persName>
+<forename>Franz Josef</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1842"/>
+<death when="1899"/>
+<occupation>Müllergeselle</occupation>
+<residence><geo decls="#WGS">47.9484351 10.3943101</geo>Markt Rettenbach, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Webermeister</p>
+<p from="1875" to="1899">Anstalt: 1875-99</p>
+<p from="1875" to="1899">Brieftypen: pp, po</p>
+</state>
+<trait><p>partieller Wahnsinn (1874), Nymphomanie, Satyriasis (1880)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    sagt seinem Bruder, er solle seine Tochter verheiraten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2058w17a.jpg" xml:id="image_063"/>
+<graphic mimeType="image/jpg" url="kfb2058w17b.jpg" xml:id="image_064"/>
+<graphic mimeType="image/jpg" url="kfb2058w17c.jpg" xml:id="image_065"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_063"/>
+<opener>
+<dateline><hi rendition="#r">Irrse d. 3. d. Oktr 1890.</hi></dateline>
+<salute><hi rendition="#c">Vielgeliebterster Her Bruder Martin!</hi></salute>
+</opener>
+<p> Ich weiß das du gut bist, u. mit mihr,<lb break="yes"/>auch ihmer geweßen bist. Also
+                    Glük<lb break="no"/>licher, sind wiehr wen wiehr in Gute<lb break="yes"/>Sachen Aushaaren, kön̄en mit<lb break="yes"/>dem Beistant von Oben −.
+                Also Du,<lb break="yes"/>Schück, den Nachfolge Cristie<lb break="yes"/>mihr, wo
+                ich dein̄e Töchtern geben<lb break="yes"/>hab, i Schük ihn dir später,<lb break="yes"/>oder solst Du ihm Fahl später<lb break="yes"/>herauf
+                kom̄en kanst du ihn <pb facs="#image_064"/> wieder haben. Deine Sache kan<lb break="yes"/>ich dir auch Schüken, Stiefel<lb break="yes"/>Schuh u. sw.
+                − Darfst mir ein̄en<lb break="yes"/>Zettel, oder Brief beilegen.
+                    Schick<lb break="yes"/>ihn mir durch Nachnahme, ich<lb break="yes"/>weiß
+                schon, das, du sparsam bist.<lb break="yes"/>Und laß doch dei Tochter
+                    Lin̄a<lb break="yes"/>Amahl Heirathen, vier solche Ver<lb break="no"/>hältniße, is, der Ehestant Ein<lb break="no"/>gesetzt −.</p>
+<p><hi rendition="#r"><seg ana="#salute">Dein Bruder<lb break="yes"/>Grüst Dich</seg></hi></p>
+<p><hi rendition="#r"><seg ana="#signed">F. J. <surname>W.</surname></seg></hi></p>
+<p>An Martin <hi rendition="#u"><surname>W.</surname></hi><lb break="yes"/>in <hi rendition="#u">Rieden</hi><lb break="yes"/>bei <hi rendition="#u">Kaufbeuren</hi></p>
+<pb facs="#image_065"/>
+<p><seg ana="#cens">Ich bit noch den Her Vorstant<lb break="yes"/>dißen Brif Abzusenden</seg>
+</p>
+</body>
+</text>
+</TEI>

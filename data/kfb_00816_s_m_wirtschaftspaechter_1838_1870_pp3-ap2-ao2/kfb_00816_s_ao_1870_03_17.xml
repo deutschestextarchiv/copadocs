@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb816s07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>816</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Emma <surname>S.</surname></persName>
+<date type="sent">17.03.1870</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb816s">
+<persName>
+<forename>Ferdinand</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1838"/>
+<death cert="unknown"/>
+<occupation>Wirtschaftspächter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern:</p>
+<p from="1870" to="1870">Anstalt: 1870</p>
+<p from="1870" to="1870">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>[Alkoholismus], Dementia paralytica (1870)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="frau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie bittet darum, dass ihr Mann bald zu ihr entlassen wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb816s07a.jpg" xml:id="image_021"/>
+<graphic mimeType="image/jpg" url="kfb816s07b.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="kfb816s07c.jpg" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München den 17. März</hi><lb break="yes"/><hi rendition="#u">1870.</hi></hi></dateline>
+<salute><hi rendition="#c">Hochgeehrter Herr <hi rendition="#i">Direktor</hi>!</hi></salute>
+</opener>
+<p>Meinen in̄igsten Dank für Ihre gütige<lb break="yes"/>Mitheilung und hat
+                mich dieselbe doch<lb break="yes"/>wieder beruhigt und hoffe ich nun<lb break="yes"/>bald erfreuliche Nachrichten über<lb break="yes"/>meinen lieben
+                    <hi rendition="#i">Man̄</hi> zu hören den̄<lb break="yes"/>ich
+                zweifle nicht daß Er die <seg ana="#med"><hi rendition="#i">fixen<lb break="yes"/>Ideen</hi></seg> bald aufgeben wird und<lb break="yes"/>danke ich Ihnen
+                als unbekant<lb break="yes"/>für Alle Ihre große Güte.<lb break="yes"/>Sie würden
+                mich sehr verbinden<lb break="yes"/>mir doch bald wieder Nachrichten<lb break="yes"/><hi rendition="#r">:/:</hi>
+<pb facs="#image_022"/>zu geben so Gott will kan <hi rendition="#i">mein<lb break="yes"/>lieber Man̄</hi> bald zu mir <w>zurück<lb break="no"/>kehren</w>
+<w>nicht</w><w>wahr</w> geehrter Herr <hi rendition="#i">Direktor</hi><lb break="yes"/>Sie haben die Güte dafür besorgt<lb break="yes"/>zu sein daß wen
+                Er fort geht seinen<lb break="yes"/>Weg <hi rendition="#i">direkt</hi> zu mir macht
+                damit Er<lb break="yes"/>unter <hi rendition="#i">meiner</hi> Aufsicht ist u. keinen<lb break="yes"/>Rückfall mehr bekomt; wen̄ Er sich<lb break="yes"/>selbst überlassen wäre; so weiß man<lb break="yes"/>nicht in welche Gesellschaft
+                er wieder<lb break="yes"/>gerathen könte; auch bei seinem<lb break="yes"/>Vater
+                wäre Er nicht gut versorgt<lb break="yes"/>weil Er nicht gar <hi rendition="#i">fein</hi> gegen ihn<lb break="yes"/>ist und ich weiß meinen l. <hi rendition="#i">Man̄</hi><lb break="yes"/>am <hi rendition="#i">besten</hi> zu behandeln. Entschuldigen<lb break="yes"/>Sie nochmals <hi rendition="#i">meine</hi> Freiheit Sie wieder <pb facs="#image_023"/>mit diesen Zeilen zu belästigen und<lb break="yes"/>danke
+                ich Ihnen auf's freundlichste.<lb break="yes"/><hi rendition="#r">Mit größter
+                    Hochachtung zeichnet<lb break="yes"/>ergebenste &amp; dankschuldige<lb break="yes"/><hi rendition="#i"><seg ana="#signed">Emma <surname><hi rendition="#u">S.</hi></surname></seg></hi></hi></p>
+</body>
+</text>
+</TEI>

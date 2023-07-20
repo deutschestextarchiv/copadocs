@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun5988f01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>5988 (K. 90)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>F.</surname></persName>
+<date type="sent">23.01.1922</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor: n.a. <surname>A.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun5988f">
+<persName>
+<forename>Heinrich</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1879-07-10"/>
+<death cert="unknown"/>
+<occupation>Landwirt</occupation>
+<residence><geo decls="#WGS">51.9097831 7.958472934876058</geo>Geburtsort: Freckenhorst; Wohnort: Freckenhorst</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Landwirt; Mutter: n.a.</p>
+<p from="1920-03-29" to="1920-08">Anstalt: 29.03.1920-xx.08.1920</p>
+<p from="1920-03-29" to="1920-08">Brieftypen: 14.04.1922-14.07.1923</p>
+</state>
+<trait><p>Schizophrenie (1920)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet den Arzt, dass seine Entmündigung aufgehoben wird und er mit ihm in die Heimat fahren kann.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun5988f01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="mun5988f01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline>Haus Kannen Amelsbüren<lb break="yes"/><hi rendition="#r">23.1.1922</hi></dateline>
+<salute><hi rendition="#c">Geehrter Herr<lb break="yes"/>Docktor
+                    Althof!</hi></salute>
+</opener>
+<p>In dem ich mich mit<lb break="yes"/>meinem Vater Brieflich in<lb break="yes"/>Verbindung gesetzt<lb break="yes"/>habe. Ersuche ich Sie<lb break="yes"/>ergebenst, die erforderli<lb break="no"/>chen Schritte Ihrerseits<lb break="yes"/>recht bald zu thun, Damit<lb break="yes"/>meine Entmündigung<lb break="yes"/>nunmehr aufgehoben<lb break="yes"/>wird. Bitte Sie Herr<lb break="yes"/>Docktor
+                Althof das mir<lb break="yes"/>in so bald wie möglich <pb facs="#image_002"/>von
+                hier aus nach<lb break="yes"/>Warendorf <del>ge</del> komme<lb break="yes"/>Sie
+                könnten mich hier<lb break="yes"/>Besuchen. Und möchte<lb break="yes"/>dann mit
+                Ihnen zur<lb break="yes"/>Heimat gehen oder<lb break="yes"/>Fahren wie gerade<lb break="yes"/>Sie hier kommen. Bitte<lb break="yes"/>Sie von ganzen
+                    Herz<unclear>en</unclear><lb break="yes"/>Bestimmt Nachricht.<lb break="yes"/><seg ana="#salute">Mit
+                    vorzüglicher Hocha<unclear>ch</unclear><lb break="no"/>tung.</seg>
+<seg ana="#signed">Heinrich<lb break="yes"/><hi rendition="#r"><surname>F.</surname></hi></seg><lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Heil
+                und Pflegeanstalt<lb break="yes"/>Haus Kannen Post Amels<add place="below">büren</add></p>
+</body>
+</text>
+</TEI>

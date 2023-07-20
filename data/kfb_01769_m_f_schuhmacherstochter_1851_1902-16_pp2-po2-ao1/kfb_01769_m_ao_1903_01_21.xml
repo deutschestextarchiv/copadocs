@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1769m01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1769</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">n.a. <surname/></persName>
+<date type="sent">21.01.1903</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Frauenstetten</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1769m">
+<persName>
+<forename>Philomena</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1916"/>
+<occupation>Schuhmacherstochter</occupation>
+<residence><geo decls="#WGS">48.5881659 10.7184674</geo>Frauenstetten, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Schuhmacher</p>
+<p from="1902" to="1916">Anstalt: 1902-16</p>
+<p from="1902" to="1916">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Chron. halluzinat. Paranoia, sekundäre Verwirrtheit, Verfolgungswahn (1903)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="gemeinde"/>
+<handNote medium="pencil" scope="minor" scribe="arzt1"/>
+<handNote medium="ink" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gemeinde fragt für ebenfalls geisteskranke Schwester Anna M. an, wie es Philomena M. geht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1769m01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1769m01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Frauenstetten, 21 Januar 03</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Ew. Hochwohlgeboren!</hi></hi></salute>
+</opener>
+<p>
+<space/> Auf Ansuchen<lb break="yes"/>der geisteskranken Schwester<lb break="yes"/><hi rendition="#i">Anna <surname>M.</surname></hi> erlaubt<lb break="yes"/>sich
+                Unterzeichnete <w>Gemeinde<lb break="no"/>behörde</w> anzufragen, wie<lb break="yes"/>sich die <hi rendition="#i">Philomina
+                    <surname>M.</surname></hi><lb break="yes"/>angewöhnt: Bitte mir<lb break="yes"/>einige <hi rendition="#i">Zeilen</hi> zugehen<lb break="yes"/><w>zu</w><w>lassen</w>. Briefmarke
+                    liegt<lb break="yes"/>bei.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Hochachtungsvollst</seg><lb break="yes"/><seg ana="#signed"><unclear><surname>?.</surname></unclear></seg></hi><lb break="yes"/><add hand="arzt1"><surname>A.</surname></add><lb break="yes"/><hi rendition="#i">Gutes Neues Jahr wünscht</hi><lb break="yes"/><hi rendition="#c">d.O.</hi>
+<pb facs="#image_002"/>
+<handShift scribe="arzt2"/><hi rendition="#i">Hat eingewöhnt, heiter, </hi><del><hi rendition="#i">sehr</hi></del><hi rendition="#i"> lacht</hi><lb break="yes"/><hi rendition="#i"> </hi><w><hi rendition="#i">und</hi></w><w><hi rendition="#i">schertzt</hi></w><hi rendition="#i">, meist </hi><add place="above"><hi rendition="#i">recht</hi></add><hi rendition="#i"> verrückt, kniet</hi><lb break="yes"/><hi rendition="#i"> betet, singt, unterhält sich gerne,</hi><lb break="yes"/><hi rendition="#i"> verlangt nie fort. Ißt gut, nachts</hi><lb break="yes"/><hi rendition="#i"> oft unruhig, geht umher, singt laut,</hi><lb break="yes"/><hi rendition="#i"> </hi><hi rendition="#i">reist Bettuch</hi><hi rendition="#i"> umher. Körp. wohl.</hi><lb break="yes"/>4.1.03. <hi rendition="#r"><hi rendition="#i">Dr Zierl</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

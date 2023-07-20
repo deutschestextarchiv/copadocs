@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun186f06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>186 (K. 470)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josephine <surname>F.</surname></persName>
+<date type="sent">18.10.1884</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Wolf, Verena <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mun186f">
+<persName>
+<forename>Josephine</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1846-03-01"/>
+<death cert="unknown"/>
+<occupation>n.a.</occupation>
+<residence><geo decls="#WGS">51.9532449 7.9912335</geo>Geburtsort: Sonsbeeck; Wohnort: Warendorf</residence>
+<faith>jüdisch</faith>
+<state>
+<p from="" to="">Familienstand: verwitwet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1884-10-17" to="1885-06-01">Anstalt: 17.10.1884-01.06.1885</p>
+<p from="1884-10-17" to="1885-06-01">Brieftypen: pp, po, ao, oa</p>
+</state>
+<trait><p>einfache Seelenstörung (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin beschwert sich darüber, dass sie von ihrem Bruder in der Anstalt untergebracht wurde.
+                    Sie bittet die Adressaten sich für ihre Entlassung einzusetzen.
+                    Sie sorgt sich um ihre Kinder und ihr Geschäft.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun186f06a.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="mun186f06b.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><add hand="vordruck">Provinzial-Anstalt<lb break="yes"/>Hospiz
+                        Marienthal zu Münster, den </add><add hand="hand3">18</add><add hand="vordruck"><hi rendition="#sup">ten</hi></add>
+<add hand="hand3"><hi rendition="#i">October</hi></add>
+<add hand="vordruck">188</add><add hand="hand3">4</add>
+</dateline>
+<salute><hi rendition="#c">Lieber Wolf liebe <hi rendition="#i">Verena</hi>!,</hi><lb break="yes"/>Meine Lieben alle!</salute>
+</opener>
+<p><add hand="unbekannt"><hi rendition="#c"><hi rendition="#i">ad acta</hi> Frau
+                                <surname><hi rendition="#i">F.</hi></surname><lb break="yes"/>S <hi rendition="#sup">20</hi>/<hi rendition="#sub">10</hi> :84 E</hi></add></p>
+<p>Denket Euch wo mich mein saubrer<lb break="yes"/>Bruder hingebracht hat, mir fehlt<lb break="yes"/>nichts und spert mich hir ein und<lb break="yes"/>die Kinder
+                allein in Marendorf.<lb break="yes"/>Komme doch sofort ich bitte Dich<lb break="yes"/>das ich heraus komme. <hi rendition="#i">Max</hi><lb break="yes"/>will das Geschäft auflösen, alles<lb break="yes"/>geht drunter und
+                drüber, ich<lb break="yes"/>bitte dich komme doch, <hi rendition="#i">Max</hi> hat<lb break="yes"/>leider Vollmacht aber sorge<lb break="yes"/>nur das ich heraus
+                komme<lb break="yes"/>dann bin ich zufrieden. Ich sage<lb break="yes"/>Dir es ist
+                schrecklich, die armen<lb break="yes"/>Kinder. Schreibet es <add place="above">nach</add>
+<hi rendition="#i">Sonsbeck</hi><lb break="yes"/>was <hi rendition="#i">Max</hi> gethan hat dem wird<lb break="yes"/>es noch danach gehen. Er hat<lb break="yes"/>alles <w>mit genommen</w> was Rudy<lb break="yes"/><unclear/>
+<unclear>du</unclear> wirst es nicht dulden.<lb break="yes"/>das darfst du
+                    <unclear>nicht − :</unclear><lb break="yes"/><add place="margin">Denket Euch gesund sein und hier im Gefängnis
+                    sitzen<lb break="yes"/>ich muß weg von hier oder man kann mih bald in die<lb break="yes"/><unclear/></add>
+</p>
+<pb facs="#image_016"/>
+<p>ich sitze hir und sehe wie schreck<unclear>lich</unclear><lb break="yes"/>ich gehandelt habe. Ich werde hi<unclear>er</unclear><lb break="yes"/>noch noch ganz wild. Du weist<lb break="yes"/>ich bitte Dich um
+                des Himmel<unclear>swillen</unclear><lb break="yes"/>dein mögliches thun mich heraus z<unclear>u</unclear><lb break="yes"/>bringen. Ihr sind jetzt verz<unclear>ingt</unclear><lb break="yes"/>und ich soll hir sitzen es ist schre<unclear>cklich</unclear><lb break="yes"/>Wäre ich doch mit Bella gefahren<lb break="yes"/>das hätte meine
+                Engel sein kön<unclear>nen</unclear><lb break="yes"/>Die Kinder sind allein bei <unclear>Lena</unclear><lb break="yes"/>alles soll <w>auf gelößt</w> werden<lb break="yes"/>es ist
+                schlimm, sehr schlimm, ich<lb break="yes"/>soll auf Monate hier bleiben
+                    <unclear>was</unclear><lb break="yes"/>soll ich hir thun. Mir fehlt <unclear>...</unclear><lb break="yes"/>gar nichts und was soll ich Hier<lb break="yes"/>Es ist
+                schrecklich niemand soll wiss<unclear>en</unclear><lb break="yes"/>wo ich bin, jetzt <unclear>habe</unclear> ich allzu<lb break="yes"/>viel, was soll ich hir. Um<lb break="yes"/>des Himmelswille ich habe<lb break="yes"/>alle verlohren. <seg ana="#salute">Grüße alle<lb break="yes"/>recht herzliche Alle Eure</seg>
+<seg ana="#signed"><hi rendition="#i">Josephine</hi></seg>
+</p>
+</body>
+</text>
+</TEI>

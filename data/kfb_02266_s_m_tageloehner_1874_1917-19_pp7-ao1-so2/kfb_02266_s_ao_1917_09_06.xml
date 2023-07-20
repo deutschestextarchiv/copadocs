@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2266s07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2266</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Oberpfleger Georg <surname>S.</surname></persName>
+<date type="sent">06.09.1917</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Patiententochter: Kathi <surname>S.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2266s">
+<persName>
+<forename>Josef</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1874"/>
+<death when="1919"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Schmiedmeisterseheleute</p>
+<p from="1917" to="1919">Anstalt: 1917-1919</p>
+<p from="1917" to="1919">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Progressive Paralyse (1917)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="pfleger"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Pfleger bittet die Tochter des Patienten um Geld für den Bierkonsum ihres Vaters.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2266s07.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">K</hi>auf<hi rendition="#i">be</hi>u<hi rendition="#i">r</hi>en den 6. IX 17</hi></dateline>
+<salute>An<lb break="yes"/><hi rendition="#c">Frl. Kathi <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/><hi rendition="#i">A</hi>ugsbu<hi rendition="#i">r</hi>g</hi></salute>
+</opener>
+<p><milestone rendition="#hr" unit="section"/><lb break="yes"/>Ihr Vater hatte tägl. Limonaden<lb break="yes"/>u. ½ Bier von
+                seinem Pfleger<lb break="yes"/>erhalten. Das Genante muß<lb break="yes"/>eben
+                eigens bezahlt werden<lb break="yes"/>u. würde die Sum̄e 4<hi rendition="#i">M</hi>.78₰<lb break="yes"/>betragen. Da aber Ihr Vater<lb break="yes"/>kein Geld deponiert hat, so<lb break="yes"/>möchte ich anfragen, ob diese<lb break="yes"/>Sum̄a, etwa vom Ersparten<lb break="yes"/>Ihres Vaters
+                geschickt werden<lb break="yes"/>kan̄, sonst müßte eben der<lb break="yes"/>Pfleger dafür haftbar sein.<lb break="yes"/>Bitte um baldige Antwort!<lb break="yes"/><hi rendition="#c">Achtungsvollst</hi><lb break="yes"/><hi rendition="#u">Adreße</hi> Georg <hi rendition="#i">Steinle</hi><lb break="yes"/><hi rendition="#c">Oberpfleger</hi><lb break="yes"/>in <hi rendition="#u"><hi rendition="#i">K</hi>aufbeuren</hi><lb break="yes"/><hi rendition="#c">Heilanstalt</hi><lb break="yes"/><add place="margin">das Geld müßte an meine Adreße geschickt werden.</add></p>
+</body>
+</text>
+</TEI>

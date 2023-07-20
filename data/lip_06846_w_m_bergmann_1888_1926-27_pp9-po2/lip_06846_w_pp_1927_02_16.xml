@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip6846w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>6846 (K. 400)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Leo <surname>W.</surname></persName>
+<date type="sent">07.02.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Herr <surname>B.</surname></persName>
+<settlement type="sent">Rotthausen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip6846w">
+<persName>
+<forename>Leo</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1888-12-25"/>
+<death cert="unknown"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">51.5110321 7.0960124</geo>Geburtsort: Mellentin; Wohnort: Gelsenkirchen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater: Dachdecker; Mutter: n.a.</p>
+<p from="1926-06-28" to="1927-02-19">Anstalt: 28.06.1926-19.02.1927</p>
+<p from="1926-06-28" to="1927-02-19">Brieftypen: pp, po</p>
+</state>
+<trait><p>Progr. Paralyse (1926)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient sagt, dass er wegen seinr Rente in Essen war und dass er wegen seiner Arbeitsunfähigkeit entlassen wurde.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip6846w04a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="lip6846w04b.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><hi rendition="#r">Rotthausen d 16.2 1927</hi></dateline>
+<salute>Lieber Herr <surname>B.</surname></salute>
+</opener>
+<p>Teile dir hier mit das es<lb break="yes"/>mir noch gut geht. Und teile<lb break="yes"/>dir auch hier mit das ich vom<lb break="yes"/>28.1 bis 15.2 in
+                Essen wegen<lb break="yes"/>meine Rente war den bin<lb break="yes"/>arbeitunfegig
+                entlaßen<lb break="yes"/>worden. Den über meine<lb break="yes"/>Rente bekome ich
+                noch nacher<lb break="yes"/>bescheit von Bochum <seg ana="#salute"><w>Hier mit</w><lb break="yes"/>vorlaufig die Besten Grüse</seg><lb break="yes"/><add place="margin">Ist der alte <surname>B.</surname> noch<lb break="yes"/>dan stelle einen schönen<lb break="yes"/>Gruß von mir wen
+                    er<lb break="yes"/>noch da ist</add>
+<add place="margin"><lb break="yes"/><lb break="yes"/>von <seg ana="#signed">Leo
+                            <surname>W.</surname></seg></add>
+<pb facs="#image_009"/><add hand="vordruck">Absender</add> Leo
+                    <surname>W.</surname>
+<add hand="vordruck"><lb break="yes"/>Wohnort:</add><hi rendition="#i">
+<placeName>Rotthausen</placeName></hi>
+<add hand="vordruck"><lb break="yes"/>Straße, Hausnummer Gebäudeteil,
+                    Stockwerk</add>
+<placeName type="street">Hilgenboon<lb break="yes"/><hi rendition="#r">str
+                    64</hi></placeName><lb break="yes"/><hi rendition="#c"><add hand="hand3">ist beantwortet.<lb break="yes"/>18.II.27.</add></hi><lb break="yes"/><lb break="yes"/><add place="margin">H<hi rendition="#i">errn
+                        </hi><lb break="yes"/><surname><hi rendition="#i">B.</hi></surname><lb break="yes"/><add hand="vordruck"><hi rendition="#i">in</hi></add><hi rendition="#i"> Eickelborn </hi><lb break="yes"/><hi rendition="#i">Kr:
+                        Soest</hi></add><hi rendition="#i"> </hi></p>
+</body>
+</text>
+</TEI>

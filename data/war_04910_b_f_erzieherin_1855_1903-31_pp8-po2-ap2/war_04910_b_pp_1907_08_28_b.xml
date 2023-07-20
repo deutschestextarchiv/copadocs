@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="war4910b10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 660: Warstein</collection>
+<idno>4910 (K. xx)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>B.</surname></persName>
+<date type="sent">28.08.1907</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Nichte: Maria <surname>n.</surname></persName>
+<settlement type="sent">Warstein</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="war4910b">
+<persName>
+<forename>Anna</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1855-04-07"/>
+<death cert="unknown"/>
+<occupation>Erzieherin</occupation>
+<residence><geo decls="#WGS">52.0191005 8.531007</geo>Geburtsort: n.a.; Wohnort: Bielefeld</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Buchhändler, Mutter: ohne Beruf</p>
+<p from="1903-03-14" to="1931">Anstalt: 14.03.1903-1931</p>
+<p from="1903-03-14" to="1931">Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>einfache Seelenstörung (1903)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin erklärt, dass der Beruf der Schauspielerin leidvoll ist und dass die Adressaten sich dafür ein Kleid machen soll.
+                    Sie meint, dass sie sich beim Radfahren zur Schau stellt.
+                    In Der Anstalt kommt oft der Wundarzt.
+                    Sie freut sich auf einen Besuch und erkundigt sich nach der Schwester.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="war4910b10a.jpg" xml:id="image_024"/>
+<graphic mimeType="image/jpg" url="war4910b10b.jpg" xml:id="image_025"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Warstein K</hi><del><hi rendition="#i">eis</hi></del><add><hi rendition="#i">reis</hi></add><hi rendition="#i"> Arnsberg </hi><lb break="yes"/><hi rendition="#i"> Villa Stephany</hi><lb break="yes"/>28. VIII. 1907.</hi>
+</dateline>
+<salute><space/> Meine herzinnig geliebte<lb break="yes"/><hi rendition="#i">Maria</hi></salute>
+</opener>
+<p>sogleich will ich Dir<lb break="yes"/>mitteilen, daß <add place="above">was</add>
+<del><unclear>leteb</unclear></del> Tante <hi rendition="#i">Eli</hi><lb break="no"/><hi rendition="#i">se</hi> noch keine Zeit gefunden<lb break="yes"/>Dir klahr
+                zu legen. Der Beruf<lb break="yes"/>einer Schauspielerin ist dornen<lb break="no"/>voll und erheischt eine<lb break="yes"/>gründliche Bildung. Wenn<lb break="yes"/>Du so oft Rad fährst dann<lb break="yes"/>stellst Du Dich zur Schau<lb break="yes"/>denn überall sind keine<lb break="yes"/>Spiegel aber Gottes auge<lb break="yes"/>bewacht Dich wo, − was, −<lb break="yes"/>und wie
+                Du Dein <w>Tag<lb break="no"/>werk</w>
+<unclear/>
+<pb facs="#image_025"/>ist die Seele aller Geschäfte!<lb break="yes"/>Aber eine gut
+                sitzende <hi rendition="#i">Taille </hi><lb break="yes"/>machen zu können kann ei<lb break="no"/>ner Schauspielerin auch von<lb break="yes"/>Nutzen sein also gieb
+                Dich an<lb break="yes"/>die Arbeit und mache für Dich<lb break="yes"/>einen guten
+                Rumpf mit<lb break="yes"/>Gürtel und Ärmel daß<lb break="yes"/>Du Dich ohne
+                Hindernisse da<lb break="no"/>rin bewegen kannst. Hier<lb break="yes"/>in der <hi rendition="#i">Villa</hi> ist es sehr lebhaft<lb break="yes"/>da kommt auch ohne
+                    "Radtou<lb break="no"/>ren" oft der Wundartzt. −<lb break="yes"/>Ich
+                werde mich sehr freuen<lb break="yes"/>wenn mich Mama besucht<lb break="yes"/>Was
+                macht klein Schwester<lb break="no"/>chen? <seg ana="#salute">Mit einem herzlichen<lb break="yes"/>Kuß schließt Deine <w>Dich</w><w>liebende</w></seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Tante <hi rendition="#i">Anna</hi></seg>.</hi>
+</p>
+</body>
+</text>
+</TEI>

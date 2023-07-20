@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2091w14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2091</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Therese <surname>W.</surname></persName>
+<date type="sent">27.12.xxxx</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: vermutl. Elisabetha <surname>v.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2091w">
+<persName>
+<forename>Therese</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1895"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">48.7371951 11.1795268</geo>Neuburg a. d. Donau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Tagelöhner</p>
+<p from="1882" to="1895">Anstalt: 1882-95</p>
+<p from="1882" to="1895">Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Verrücktheit , Aufregungszustände, Sinnestäuschungen (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote scope="sole"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Neujahrsbrief, will brav sein
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2091w14a.jpg" xml:id="image_036"/>
+<graphic mimeType="image/jpg" url="kfb2091w14b.jpg" xml:id="image_037"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_036"/>
+<opener>
+<dateline><hi rendition="#c">Irsee den 27.Dezember!</hi></dateline>
+<salute><hi rendition="#c">Liebe Schwester</hi></salute>
+</opener>
+<p>
+<hi rendition="#c">Die Drei Feiertage sind verflosen die<lb break="yes"/>wir haben
+                    genosen Es wünschet Ihnen<lb break="yes"/>Prosit Neujahr<lb break="yes"/>Ihre
+                    liebe Schwester Theres.</hi></p><p>Liebe Schwester Beim beginn des<lb break="yes"/>neuhen Jahres wollen wir Gott ver<lb break="no"/>trauen und recht beten weil Herr Direk<lb break="no"/>tor sagt der Herr
+                Bürgermeister müß<lb break="yes"/>mich holen Er wird mich gewis nicht holn<lb break="yes"/>ja Shau doch daß Er mich holn last<lb break="yes"/>Durch die
+                Barmherzigen Schwestern Frau<lb break="yes"/><surname>W.</surname>
+<surname>R.</surname> oder Du.</p><p> Ich will fleißig sein und ein gutes be<lb break="no"/>tragen führen und mich gut und fleißig<lb break="yes"/>auf fürn wis mir die Mutter befolen<lb break="yes"/>und gesagt
+                hat. Ich schrib gerade der Senzi<lb break="yes"/>Baß die Adres wir genug sein An
+                    Freilein<pb facs="#image_037"/>
+<hi rendition="#i">Creszentia <surname>S.</surname> in der
+                        A<add>u</add>genan<lb break="no"/>stald in München<lb break="yes"/><hi rendition="#r">Herzogsbittahlstrase</hi><lb break="yes"/><hi rendition="#u">frei</hi></hi></p><p> Ich denk mir halt ich bin so gut daran beim<lb break="yes"/>Herrn Post Asistend
+                    <surname>W.</surname> in der Post<lb break="yes"/>drunt Gruß an Goldarbeiter
+                    <surname>W.</surname> Anna.<lb break="yes"/>Ich muß jetzt dem Lukas noch
+                    schreiben<lb break="yes"/>nach Heidelberg <seg ana="#salute">ich Sei Deine einzige<lb break="yes"/><lb break="yes"/><lb break="yes"/><hi rendition="#r">Schwester</hi><lb break="yes"/><lb break="yes"/><lb break="yes"/><seg ana="#signed">Theres</seg></seg></p>
+</body>
+</text>
+</TEI>

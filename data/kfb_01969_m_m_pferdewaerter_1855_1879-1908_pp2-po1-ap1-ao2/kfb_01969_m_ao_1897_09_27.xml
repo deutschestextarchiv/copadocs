@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1969m02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1969</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Anton <surname>M.</surname></persName>
+<date type="sent">27.09.1897</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Weiden</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1969m">
+<persName>
+<forename>Michael</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1855"/>
+<death when="1908"/>
+<occupation>Pferdewärter, Dienstknecht "kein Vermögen"</occupation>
+<residence><geo decls="#WGS">48.63467 10.3196907</geo>Bachhagel, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Söldner</p>
+<p from="1879" to="1908">Anstalt: 1879-1908</p>
+<p from="1879" to="1908">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie, Psychose, epileptiforme Krämpfe (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="pencil" scope="minor" scribe="arzt1"/>
+<handNote medium="ink" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will wissen, wie es seinem Bruder geht (anlässlich dessen Namenstag)
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1969m02a.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Weiden, 27 September 1897</hi></hi><lb break="yes"/><add hand="arzt2" place="margin">unverändert<lb break="yes"/>in Befinden u.<lb break="yes"/>Verhalten,<lb break="yes"/>wie früher<lb break="yes"/>berichtet.<lb break="yes"/>dJ</add>
+</dateline>
+<salute><hi rendition="#c">Hohe königliche Direktion!</hi></salute>
+</opener>
+<p>
+Anläßlich des bevorstehenden Namensfestes seines in jen<lb break="no"/>seitiger Anstalt (<hi rendition="#u">Irrsee</hi>) als Patient untergebrachten<lb break="yes"/>Bruder Michael <surname><hi rendition="#i">M.</hi></surname>, wagt es gehorsamt Unter<lb break="no"/>zeichneter, an die hohe königliche Direktion, die aller<lb break="no"/>unterthänigste Bitte zu stellen, selbe wolle ihm hoch<lb break="no"/>geneigtest Aufschluß über den Gesundheitszustand<lb break="yes"/>des Bruders, sowie dessen Beschäftigung und Benehmen<lb break="yes"/>gegenüber der um ihn befindlichen Personen<lb break="yes"/>gütigst zukomen lassen.<lb break="yes"/><space/> Einer Hohen königlichen Direktion, zum<lb break="yes"/>voraus zum großen Danke verpflichtet,<lb break="yes"/><seg ana="#signed">zeichnet sich in alles<lb break="yes"/><hi rendition="#c">Hochachtung ergebenst<lb break="yes"/>der Curator<lb break="yes"/>Anton <surname><hi rendition="#i">M.</hi></surname>,</hi><lb break="yes"/><hi rendition="#r">Postkondukteur.</hi></seg></p>
+<p><add hand="arzt1" place="bottom">Vorsicht bei d. Antwort - betonen, daß M. außerhlb<lb break="yes"/>d. Anstalt nicht verpflegt werden kan̄.<lb break="yes"/><hi rendition="#r"><surname>H.</surname></hi></add>
+</p>
+</body>
+</text>
+</TEI>

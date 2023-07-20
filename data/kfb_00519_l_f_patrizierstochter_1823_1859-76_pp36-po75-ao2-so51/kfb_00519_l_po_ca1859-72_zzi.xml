@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l108" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin missbilligt das angebliche Verhältnis zwischen einer Mitpatientin und dem Arzt sowie die angeblichen Bestrebungen des Arztes, sie zu einem ähnlichen Verhältnis zu überzeugen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l108a.jpg" xml:id="image_272"/>
+<graphic mimeType="image/jpg" url="kfb519l108b.jpg" xml:id="image_273"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_272"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Wen̄ Hr Kaplan in 6 Wochen<lb break="yes"/>eimal sich sehen laßt da steht<lb break="yes"/>er zur <seg ana="#curse">Hurer<surname>K.</surname></seg>
+                ½ Stund lang<lb break="yes"/>sodan̄ ist der Krankenbesuch für<lb break="yes"/>30 Personen abgethan ohne<lb break="yes"/>mit mir oder Andern zu
+                reden<lb break="yes"/>den̄ Ihr unsittliche wohlüstige<lb break="yes"/>boshafte <hi rendition="#i">Monsieur</hi> haltet Euch<lb break="yes"/>am liebsten
+                bei <foreign xml:lang="frz"><hi rendition="#i">mauvais sujet</hi></foreign> auf<lb break="yes"/>anstatt die <surname>K.</surname>
+<unclear>Maskimlle</unclear> u. Thers<lb break="yes"/>wegen schlechtem Lebenswandel
+                zu<lb break="yes"/>verachten u auszuweichen so<lb break="yes"/>thut ihr stets nach
+                in̄en trachten<lb break="yes"/>u. heimlich dazu schleichen<lb break="yes"/>Und je mehr ich mich ärgere<lb break="yes"/>u je mehr ich bitte davon
+                    entfern<unclear reason="damage"/><lb break="yes"/>desto mehr belästigen sie mich<lb break="yes"/><space/> Ihr
+                boshafte Ärzt nit Eures <unclear>gleih</unclear>
+<pb facs="#image_273"/>Euer Bestreben ist mih wahnsin̄ig<lb break="yes"/>unglücklich machen u mit zornreizug<lb break="yes"/>zum hurren
+                zu zwingen − </p>
+<p><seg ana="#cens">Deßhalb schicken Sie weder Briefe<lb break="yes"/>noch mih selbst
+                    fort.</seg> Ich soll den<lb break="yes"/><hi rendition="#u" style="arzt">Kehrbesen vom ganzen Hause machen</hi><lb break="yes"/>dan̄ wären Sie zufrieden. Aber ich<lb break="yes"/>mache
+                keinen u stehe blos im<lb break="yes"/><w>freudschafts Verkehr</w> mit <hi rendition="#i">D. J.</hi> der nicht<lb break="yes"/>fort darf <w>so lang</w> ich
+                hier bin u er<lb break="yes"/>in der Anstalt Irse <hi rendition="#i">Director</hi>
+                wird. </p>
+<p><add place="bottom">Die <surname>K.</surname> gehört in <seg ana="#inst">Spin̄sal</seg><lb break="yes"/>ich habe lang genug Ihre Bos<lb break="no"/>heit ertragen</add>
+</p>
+</body>
+</text>
+</TEI>

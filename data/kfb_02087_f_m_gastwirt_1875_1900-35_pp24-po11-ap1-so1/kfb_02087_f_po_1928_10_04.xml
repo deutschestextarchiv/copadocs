@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2087f12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2087</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>F.</surname></persName>
+<date type="sent">ca. 1900-35</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2087f">
+<persName>
+<forename>Ludwig</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1935"/>
+<occupation>Gastwirt, Landwirt</occupation>
+<residence><geo decls="#WGS">47.6283377 9.9102676</geo>Heimenkirch, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Gastwirt</p>
+<p from="1900" to="1935">Anstalt: 1900-1935</p>
+<p from="1900" to="1935">Brieftypen: pp, po</p>
+</state>
+<trait><p>Manie (1930), Ideenflucht, Größenwahn (1900-35), Halluzination (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient schreibt, dass seine Frau ihn unter einem Vorwand in die Anstalt gebracht hat und dass sie ihm gegenüber gewalttätig geworden ist.
+                    Sie hat ihm seit Pfingsten nicht mehr geschrieben und zunächst nur wenig Geld geschickt.
+                    Seit er in der Anstalt ist, geht es der Familie finanziell schlechter.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2087f12a.jpg" xml:id="image_034"/>
+<graphic mimeType="image/jpg" url="kfb2087f12b.jpg" xml:id="image_035"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_034"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><add hand="arzt"><surname>F.</surname><w>Ludwig</w> I</add><lb break="yes"/><hi rendition="#i">das löbl. Amtsgericht<lb break="yes"/>Weiler-Lindenberg<lb break="yes"/>Allgäu.<lb break="yes"/>Bayern.</hi></p><p><hi rendition="#i">Ludwig <surname>F.</surname><lb break="yes"/>Landwirt in Berg.<lb break="yes"/>Heimenkirch 4. X.28.<lb break="yes"/>z.Z. Heilanstalt Kaufbeur.</hi></p><p>Da meine <hi rendition="#i">Frau</hi><lb break="yes"/>mich vorigen <hi rendition="#i">Herbst</hi><lb break="yes"/>entmündigen wollte<lb break="yes"/>auch seit vorigen<lb break="yes"/><hi rendition="#i">August</hi> wo
+                    ich<lb break="yes"/>zu Herrn <unclear><surname>I.</surname></unclear>
+<hi rendition="#i"><unclear>Wagns</unclear></hi>
+</p><p><add place="bottom">mehr. Schon am 23 ließ Sie mich hierher bringen sagte ich<lb break="yes"/>kon̄e auf ein paar Wochen zur <hi rendition="#i">Nervenerhohlung</hi></add><lb break="yes"/><add place="margin">nach Worishofen
+                    gehen gab mir noch</add><lb break="yes"/><add place="above">einen Kuß auf die
+                    Stirne. Ich hatte 5 Millionen Geld flüßig genügt</add><lb break="yes"/><add place="margin">nicht haben, das ich etwas nach meinem Kopf</add><lb break="yes"/><add place="above"><w>von</w><w>einer</w>
+<hi rendition="#i">Mutter</hi>.<lb break="yes"/><unclear>mani</unclear>
+<unclear>ause</unclear>
+<unclear>Gratt</unclear>samkeit<lb break="yes"/>sind nette Kinder die zieht<lb break="yes"/>werden <w>wie</w><w>ich</w>. Ich sagte das<lb break="yes"/>kaput wären wen̄ Sie es<lb break="yes"/>an die Wand werfen das sie<lb break="yes"/>die 4 Wochen <unclear>a</unclear>lte Zwillinge<lb break="yes"/>betrut sagte Sie, hätte <unclear><w>gute</w><w>Lust</w></unclear><lb break="yes"/>als ich Abends das Schlafzimer<lb break="yes"/>Am 19.9.23 kom
+                    ich wieder heim</add><lb break="yes"/><add place="bottom">Am 9. I. 27. wollte Sie
+                    mit einem<lb break="yes"/>langen Küchenmesser auf mich los.<lb break="yes"/>Wurde mit Mittag ubel tracktiert.</add><lb break="yes"/><add place="above">Wurd von Ihr<lb break="yes"/>mit <hi rendition="#i">Revolver</hi><lb break="yes"/>bedroht bitte um <unclear>Lehmz</unclear>. <seg ana="#salute"><w>Ihr</w><w>ergeb</w></seg>
+<seg ana="#signed"><w>L</w><surname>F.</surname></seg></add></p><pb facs="#image_035"/> <p>dessen <hi rendition="#i">Frau eine Cousine</hi>, von mir ist<lb break="yes"/>auf ein paar <hi rendition="#i">Tage</hi>, zu Besuch, wollte, schickte<lb break="yes"/><hi rendition="#i">Sie</hi> mir meinen <hi rendition="#i">Sohn</hi>, welcher 19 Jahre
+                    alt<lb break="yes"/>ist, nachschickte, indem ich bei Herrn <w><hi rendition="#i">Bürger</hi><lb break="no"/><hi rendition="#i">meister</hi></w> <hi rendition="#i"><surname>F.</surname>,</hi>,
+                dessen <hi rendition="#i">Frau</hi> gleichfalls,<lb break="yes"/>eine <hi rendition="#i">Cousine</hi> von mir ist, u. bei deren <hi rendition="#i">Vater</hi>,<lb break="yes"/>ich 2 Som̄er, Viehhirt war, also sehr
+                    befreund<lb break="no"/>tet, seitdem u. überall bekan̄t, auch habe
+                    ich<lb break="yes"/>das mein <hi rendition="#i">Vater</hi> in <hi rendition="#i">Trogen</hi> Zu Hause war,<lb break="yes"/>gute <hi rendition="#i">Verbindung</hi> mit den Leuten, <hi rendition="#i">Frau u.<lb break="yes"/>Sohn</hi>, ließen mich unter Vorspiegelung nach <hi rendition="#i"><w>Hohen<lb break="no"/>schwangau</w></hi> zu fahren hieher verbringen. Kostenpunkt
+                104 <unclear>Mrk</unclear><lb break="yes"/>Von 9.I.27. bis 2.8. erhielt ich von der
+                    <hi rendition="#i">Frau</hi> nur 75 dl Taschengeld<lb break="yes"/>8 <hi rendition="#i">Kühe</hi> 3 Schumpen u. ein <hi rendition="#i">Roß, büßten Sie</hi>
+                inzwischen ein.<lb break="yes"/>Seit <hi rendition="#i">Pfingsten</hi> keinen <hi rendition="#i">Brief</hi> mehr bekom̄en. Ich verdiente mit Handel<lb break="yes"/><hi rendition="#r">oft Geld aber d. Weib wollte dieses</hi></p>
+</body>
+</text>
+</TEI>

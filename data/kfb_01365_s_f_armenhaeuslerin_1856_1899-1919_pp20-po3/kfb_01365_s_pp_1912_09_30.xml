@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1365s06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1365</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>S.</surname></persName>
+<date type="sent">30.09.1912</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sohn: Karl <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1365s">
+<persName>
+<forename>Anna</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1856"/>
+<death cert="unknown"/>
+<occupation>Armenhäuslerin</occupation>
+<residence><geo decls="#WGS">48.4327435 10.3711492</geo>Großanhausen, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Zimmermann</p>
+<p from="1899" to="1919">Anstalt: 1899-1919</p>
+<p from="1899" to="1919">Brieftypen: po, pp</p>
+</state>
+<trait><p>Schwachsinn, Paranoia (1899-1919)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Fragt, warum Sohn sie nicht besucht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1365s06a.jpg" xml:id="image_019"/>
+<graphic mimeType="image/jpg" url="kfb1365s06b.jpg" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline><hi rendition="#c">Irsee den 30ten September 1912;</hi></dateline>
+<salute><hi rendition="#c">Inigst Geliebter Sohn. Karl.</hi></salute>
+</opener>
+<p>Mit trauriegen verlangen ergreife ich die<lb break="yes"/>Feder an dich zu
+                Schreiben, ich habe schmerzlich<lb break="yes"/>Auf dich gewartet weil du
+                geschrieben hast<lb break="yes"/>wen du vom Millitär frei bist Suh er mih<lb break="yes"/>Auf. Nimand ist kekomen im 28ten<lb break="yes"/>Sind sie Frei von
+                ihrer Dinstzeit<lb break="yes"/>Warum als er mih <add place="above"><w>ferg ist</w></add> so verlast weis ich<lb break="yes"/>niht. Das den da gar keins hergeht<lb break="yes"/>das kan ich
+                niht begreifen Liebe Mari<lb break="yes"/>Schreib mir ob ihr von meine Sache<lb break="yes"/>Was noh da ist wo das hingekomen ist<lb break="yes"/>Holt nah
+                Günzburg zu dießer Gemeinde<lb break="yes"/>geh ich nicht mehr, wen meine zeit aus
+                ist.<lb break="yes"/>Schreib eimal wen Eins komt<lb break="yes"/>Schreib auch wo
+                der Karl hingeht in<lb break="yes"/>Dinst. </p>
+<p><hi rendition="#c"><seg ana="#salute">Es grüst dich</seg>
+<seg ana="#signed">deine Mutter<lb break="yes"/>Anna
+                        <surname>S.</surname></seg><lb break="yes"/>Gruß an euh alle<lb break="yes"/>Schreib So bald wie möglich<lb break="yes"/>Ob ihr den Brief bekomen<lb break="yes"/>habt.</hi>
+</p>
+<pb facs="#image_020"/>
+<p>Adreß dem <w>Ober Arzt</w><lb break="yes"/>An Frau Maria <surname>R.</surname><lb break="yes"/>in<lb break="yes"/>Günzburg a/D </p>
+</body>
+</text>
+</TEI>

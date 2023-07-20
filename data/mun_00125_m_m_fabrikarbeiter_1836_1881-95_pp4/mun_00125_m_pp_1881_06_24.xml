@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun125m01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>125 (K. 220)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>M.</surname></persName>
+<date type="sent">24.06.1881</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Frau, Kinder: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Marienthal</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun125m">
+<persName>
+<forename>Wilhelm</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1836-10-19"/>
+<death when="1895-05-19"/>
+<occupation>Fabrikarbeiter</occupation>
+<residence><geo decls="#WGS">51.6804093 7.815197</geo>Geburtsort: Olpe; Wohnort: Hamm</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1881-05-16" to="1895-05-19">Anstalt: 16.05.1881-19.05.1895</p>
+<p from="1881-05-16" to="1895-05-19">Brieftypen: pp</p>
+</state>
+<trait><p>Melancholie (1881)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber berichtet, dass er nicht früher schreiben konnte, weil er im Bett liegen musste.
+                    Er ist unruhig.
+                    Er bittet darum, dass seine Frau ihn besucht, dass sie, der Pastor und die Verwandten für ihn beten und dass sie ihm schreibt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun125m01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="mun125m01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><add hand="vordruck">Provinzial-Anstalt<lb break="yes"/>Marienthal bei Münster, den</add> 2<del>5</del>4 Juni. <add hand="vordruck">18</add>81</dateline>
+<salute><hi rendition="#c">Liebe Frau und Kinder!</hi></salute>
+</opener>
+<p><add hand="hand3" place="margin">d acta <surname><hi rendition="#i">M.</hi></surname><lb break="yes"/>S 30/<hi rendition="#sub">6</hi>. 81/<unclear/>.</add></p>
+<p>Voll Trauer ergreife ich die Feder um<lb break="yes"/>euch zu
+                benachrichtigen, wie es mir geht.<lb break="yes"/>ich hätte euch schon eher
+                geschrieben, aber<lb break="yes"/>ich konte es schlecht, den ich habe bereits<lb break="yes"/>an fünf Wochen stets im Bette gelegen,<lb break="yes"/>ich mus Dir
+                mitheilen liebe Frau,<lb break="yes"/>das ich es nicht mehr aushalten kann.<lb break="yes"/>Den ich weis von Unhruhe nicht wo ich<lb break="yes"/>bleiben
+                soll, ich bitte dich daher nochmals<lb break="yes"/>um verzeihung, und sei damit
+                zufrieden<lb break="yes"/>das ich hier bin. ich bitte dich wenn Du<lb break="yes"/>eben kannst dann komme doch mahl hier hinn<lb break="yes"/>ich bitte dich betet
+                doch jeden Tag für mich,<lb break="yes"/>und gehe doch zu Pastor Mittendorf<lb break="yes"/>und Peters, das sie doch für mich beten.<lb break="yes"/>in der
+                Kirche, und grüße mir <add place="above">alle</add> Verwanten<lb break="yes"/>das
+                sie auch für mich beten mögen, und bitte<lb break="yes"/>alle die ich beleidigt
+                habe um verzeihung, O, ich<lb break="yes"/>habe Tag und Nacht keine Ruhe. </p>
+<pb facs="#image_002"/>
+<p>O. liebe Frau bleibe doch nicht aus. mehr neues<lb break="yes"/>kann ich dir
+                nicht schreiben, schreibe mir doch<lb break="yes"/>gleich wieder wie es euch geht,
+                und wie es mit<lb break="yes"/>dem kleinen Kinde geht.<lb break="yes"/>Mein
+                schreiben will ich schließen.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Es grüßt euch alle Achtungsvoll.</seg><lb break="yes"/><seg ana="#signed">Dein Mann.<lb break="yes"/>Wilhelm
+                            <surname>M.</surname></seg>.<lb break="yes"/>Viele grüße an alle
+                    Verwandte.<lb break="yes"/>Die Adresse heißt wie oben zu lesen ist.</hi>
+</p>
+</body>
+</text>
+</TEI>

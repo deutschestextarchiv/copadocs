@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3897d06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3897</idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<p>
+                                Rand
+                            </p>
+</objectDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Adelinde <surname>D.</surname></persName>
+<date type="sent">07.11.1931</date>
+<date type="received">09.11.1931</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Memmingen</settlement>
+<settlement type="received">Kaufbeuren</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb3897d">
+<persName>
+<forename>Adelinde</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1882"/>
+<death when="1952"/>
+<occupation>Servierfräulein</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: geschieden</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1910" to="1952">Anstalt: 1910-1952</p>
+<p from="1910" to="1952">Brieftypen: ao, pp, po</p>
+</state>
+<trait><p>Cerebralsklerose bei manisch-depressivem Irresein, zirkuläre Psychose, agitative Depression (1952)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Urlaubsverlängerung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3897d06a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="kfb3897d06b.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Memmingen den 7. Nov.
+                        1931.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Sehr geehrter Herr
+                        Direktor!</hi></hi></salute>
+</opener>
+<p><space/> Teile Ihnen nochmals mit, daß ich in<lb break="yes"/>Dietenheim sehr gut
+                angekom̄en bin.</p><p>Bitte um Entschuldigung wegen meiner kleinen<lb break="yes"/>Ausreiße nach Kempten an
+                Allerheiligen, denn ich<lb break="yes"/>möchte schon längst das Elterngrab in
+                    Lenz<lb break="no"/>fried bei Kempten besuchen. Meine Verwandten<lb break="yes"/>freuten sich sehr mich so gesund u. wohlbehalten<lb break="yes"/>zu sehen. Die
+                mich in meinen kranken Tagen<lb break="yes"/>sahen, wunderten sich sehr, daß ich
+                    wieder wie<lb break="yes"/>früher den Menschen gleich sehe.</p><p>Habe meinen lb. Mann besucht u. sah, daß<lb break="yes"/>man mich da sehr notwendig brauchen
+                    kann.<lb break="yes"/>Habe auch das Glück gehabt eine andere Wohnung<lb break="yes"/>zu bekom̄en, welche mein Mann am 1. <hi rendition="#i">Dez</hi>.<lb break="yes"/>beziehen muß u. da sollte halt ich auch dabei sein<lb break="yes"/>um Alles wieder in Ordnung zu machen. Mein<lb break="yes"/>Mann
+                wird Ihnen diesbezüglich selbst schreiben<lb break="yes"/><space/> Es würde mich sehr
+                freuen, wenn ich nun <pb facs="#image_014"/> bis Neujahr Urlaubsverlängerung
+                    bekäme<lb break="yes"/>Bei der heutigen Geldknappheit, wäre es mir<lb break="yes"/>sehr angenehm, daß ich mein Essen dann selbst<lb break="yes"/>bezahlen kann, mir etwas Kassengeld zu senden<lb break="yes"/>u. das Cristkind
+                auch in Geld, denn ich kann von<lb break="yes"/>meiner Schwester nicht Alles umsonst
+                    verlangen,<lb break="yes"/>der Umzug kostet auch viel Geld.</p><p>Mein Mann mit Kinder freuen sich sehr, daß ich da <unclear/><lb break="yes"/>Mir geht es sehr gut u. fühle mich in der Mau
+                    st<unclear/><lb break="yes"/>Memmingen sehr wohl.</p><p><seg ana="#salute"><hi rendition="#c">zeichne</hi><lb break="yes"/><hi rendition="#r">Hochachtungsvoll<lb break="yes"/>nebst besten Grüßen<lb break="yes"/>die ganze <hi rendition="#i">Direktion</hi></hi></seg></p><p><seg ana="#signed"><hi rendition="#c">Ihre</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Adelinde </hi><surname><hi rendition="#i">D.</hi></surname></hi></seg></p>
+</body>
+</text>
+</TEI>

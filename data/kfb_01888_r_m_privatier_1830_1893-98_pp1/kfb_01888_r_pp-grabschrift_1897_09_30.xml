@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1888r01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1888</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>R.</surname></persName>
+<date type="sent">30.09.1897</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tochter: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1888r">
+<persName>
+<forename>Ludwig</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1830"/>
+<death cert="unknown"/>
+<occupation>Privatier</occupation>
+<residence><geo decls="#WGS">47.8933244 10.2671595</geo>Wolfertschwenden, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1893" to="1898">Anstalt: 1893-1898</p>
+<p from="1893" to="1898">Brieftypen: pp</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Parient informiert seine Tochter über seinen kritischen Gesundheitszustand und teilt ihr seine Grabschrift mit.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1888r01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1888r01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren den 30<unclear><hi rendition="#sup">t</hi></unclear> September 1897.</hi></dateline>
+<salute><hi rendition="#c">Liebe Tochter Kresenz!</hi></salute>
+</opener>
+<p><space/> Mit abgemagerte schwacher Hand ergreife ich<lb break="yes"/>zum aller
+                letzen mahl die <del><unclear/></del>Feder, Dir und Deiner Schwester<lb break="yes"/>Theres schrieftlich mitzutheilen, das ich schon mehr als 6 Wochen<lb break="yes"/>das Bett nicht mer verlaßen kan̄, und so schwach bin das ich<lb break="yes"/>bereitz nicht mer gehen kan̄; Doch sei Dank den
+                Volkom̄enen<lb break="yes"/>rechten Verstand wieder
+                er<del><unclear/></del>halten habe, u alles noch w<del><unclear/></del>eis<lb break="yes"/>jeden Fehltrit was ich von meiner Jugendzeit bis heute<lb break="yes"/>alles gethan habe, welches halt nicht mehr zu ändern ist<lb break="yes"/>ich bette jeden Tag für Euch und für die liebe Mutter sehlig<lb break="yes"/>und liß auch bereitz jeden Tag das heilige Meßopfer zu<lb break="yes"/>Haus und schonst noch viehle Gebothe, auch bethe ich öfters<lb break="yes"/>das Euch der liebe Gott die Gnade verleihen wird daß Ihr<lb break="yes"/>beide Töchtern mich doch gleich Besuchen werden, den ich möchte<lb break="yes"/>Euch beide Kinder <w>noch mahl</w> sehen und mit Euch persöhnlich<lb break="yes"/>reden, dan wede ich gerne sterben, Ich hoffe Ihr werdet<lb break="yes"/>beide meine allerletzte Bitte nicht abschlagen und Euren<lb break="yes"/>kranken Vat<del>t</del>er besuchen; liebe Kresenz Du kanst ja
+                gleich<lb break="yes"/>den selben Tag mit meinem Schreiben zu deiner Schwester<lb break="yes"/>hinauf fahren und bei Ihr übernacht bleiben u. den andern<lb break="yes"/>Morgen frü mit dem ersten Zug mit der Bahn zu mir<lb break="yes"/>beide herein vahren kön̄en, welches noch mein einziger<lb break="yes"/>Trost währe, <seg ana="#salute">unter viehlen herzliche Grüße schließe ich<lb break="yes"/>mein letztes Schreiben <del><unclear>mein</unclear></del> viehlen
+                herzliche Grüße an Dich<lb break="yes"/>und Deine lieben Man und Kinder noch
+                besonders viehle Grüße<lb break="yes"/>an Deine Schwester Theres und <w>Ihr en</w>
+                lieben Man u.<lb break="yes"/>Kinde<del>n</del>r, ich verbleibe bis in
+                    <unclear>Toodt</unclear> liebende Vater</seg> <seg ana="#signed">Ludwig</seg> </p>
+<pb facs="#image_002"/><p><hi rendition="#c">Grabschrift für Ludwig <surname>R.</surname>!<lb break="yes"/>Mein schwäres
+                    Leiden hat bald ein Ende<lb break="yes"/>Erlößt bin ich bald meiner Qual,<lb break="yes"/><unclear>O</unclear> Wir drüken Deine Theure Hände<lb break="yes"/>Auf dieser Welt zum letzen mahl,<lb break="yes"/>Mögest Du als
+                    Lohn in Sternenkrone,<lb break="yes"/>Empfangen d<unclear>o</unclear>rt die Du
+                        Dulderkrone.</hi></p>
+<p><hi rendition="#r">geschrieben nach seinen mehr als 3 Jahre<lb break="yes"/>langes Leiden in der Kreisanstald Kaufbeuren<lb break="yes"/>den 30<unclear><hi rendition="#sup">t</hi></unclear> September 1897. <seg ana="#signed">Ludwig <surname>R.</surname>.</seg></hi></p>
+<p><hi rendition="#r">Adreße An Herrn <unclear>Maurus</unclear>
+<surname>G.</surname><lb break="yes"/>Müllermeister in <w>Wolfer schwenden</w> Statzion
+                        <unclear>Grönenbach</unclear></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1840s01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1840</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Marie <surname>S.</surname></persName>
+<date type="sent">xx.xx.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann: Karl <surname>S.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1840s">
+<persName>
+<forename>Karl</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1840"/>
+<death when="1891"/>
+<occupation>Maler, Bildhauer</occupation>
+<residence><geo decls="#WGS">48.3954965 10.00589</geo>Neu-Ulm</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Gärtner</p>
+<p from="1889" to="1891">Anstalt: 1889-1891</p>
+<p from="1889" to="1891">Brieftypen: ap, ao, bilder</p>
+</state>
+<trait><p>Progressive Paralyse (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet den Patienten, ihr zu schreiben, da sie länger nichts von ihm gehört habe. 
+                    Da sie selbst gesundheitliche Probleme hatte, konnte sie ihren Mann nicht in der Anstalt besuchen; 
+                    sorgt sich jedoch um dessen Befinden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1840s01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1840s01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb1840s01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber Man̄. </hi></salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#r"><hi rendition="#i">prs</hi> 8 Dezb.
+                    90</hi></add></p><p><add hand="arzt">Dieser Brief wurde von d. <unclear/> gelesen<lb break="yes"/>u. auf
+                        <unclear>l</unclear><unclear>eitende</unclear> Veranlassung, mit einigen<lb break="yes"/><seg ana="#med">(paralytisch-geschriebenen) Worten</seg> er<lb break="no"/><hi rendition="#r">wiedert.</hi></add></p>
+<p>Schon so lange ist es, daß ich von<lb break="yes"/>Dir <w>gar</w><w>nichts</w> höre, vor 3
+                Monaten<lb break="yes"/>teilte mir Herr Hofrat mit, daß<lb break="yes"/>Dein
+                Aufentshaltort sich gewechselt<lb break="yes"/>was mir nicht <hi rendition="#u">wen̄ig</hi> Leid bereitete<lb break="yes"/>Wie geht es Dir liebes Herz?<lb break="yes"/>keine Zeile, auf die ich so wartete<lb break="yes"/>erhalte
+                ich, u. so denke ich, daß<lb break="yes"/>auch Du die meinigen nicht<lb break="yes"/>erhalten hast! ich bitte Dich<lb break="yes"/>wen̄ es Dir
+                möglich, mir einige<lb break="yes"/>Zeilen zu schreiben, wen̄ nicht <pb facs="#image_002"/>lasse ich Deinen Arzt bitten<lb break="yes"/>mir Nachricht
+                über Deine<lb break="yes"/>Gesundheit zu geben, ich bin<lb break="yes"/>im Geiste
+                im̄er bei Dir, u.<lb break="yes"/>sorge mich so sehr um Dich!<lb break="yes"/>bin selbst bereits 3 Monate<lb break="yes"/>beim Arzt gewesen, u.
+                konte<lb break="yes"/>Dich unmöglich besuchen! </p><p>o möchte der liebe Gott mich<lb break="yes"/><add place="margin">von</add> meinen schweren
+                Kum̄er be<lb break="no"/>freien, u. uns wieder <w>zusam̄en<lb break="no"/>führen</w>! lebe wohl geliebter<lb break="yes"/>Man̄! o
+                nur ein paar Zeilen<lb break="yes"/>sende Du mir von Deiner Hand <pb facs="#image_003"/>um dieses bittet Dich herzlich<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Deine </hi><lb break="yes"/><hi rendition="#r">dich herz liebende<lb break="yes"/>Frau </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Marie</hi>
+<surname><hi rendition="#i">S.</hi></surname></seg></hi><lb break="yes"/><add hand="arzt"><del><hi rendition="#u">A<hi rendition="#i">ugsburg</hi></hi></del>
+<add place="above">München</add></add> <hi rendition="#r">Gabelsbergerstraße<lb break="yes"/>N<hi rendition="#sup"><hi rendition="#u">o</hi></hi> 46/<hi rendition="#sub">1</hi>
+                    l. </hi>
+</p>
+</body>
+</text>
+</TEI>

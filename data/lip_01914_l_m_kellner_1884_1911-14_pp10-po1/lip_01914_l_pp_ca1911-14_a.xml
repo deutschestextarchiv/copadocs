@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip1914l0x" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>1914 (K. 210)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Gustav <surname>L.</surname></persName>
+<date type="sent">ca1911-14</date>
+<date type="received">n.a.</date>
+<persName type="addressee">xx</persName>
+<settlement type="sent">xx</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip1914l">
+<persName>
+<forename>Gustav</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1884-06-28"/>
+<death cert="unknown"/>
+<occupation>Kellner</occupation>
+<residence><geo decls="#WGS">51.5142273 7.4652789</geo>Geburtsort: Bielefeld; Wohnort: Dortmund</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1911-10-03" to="1914-01-28">Anstalt: 03.10.1911-28.01.1914</p>
+<p from="1911-10-03" to="1914-01-28">Brieftypen: pp, po</p>
+</state>
+<trait><p>Degeneriert, geistig minderwertig (1910)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                 Dringende Bitte um Besuch.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip1914l01a.jpg" xml:id="image_020"/>
+<graphic mimeType="image/jpg" url="lip1914l01b.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_020"/>
+<opener>
+<dateline/>
+<salute>Meine liebe Käthi!</salute>
+</opener>
+<p>Fräulein <hi rendition="#u">Käthi <hi rendition="#c"><hi rendition="#i"><surname>S.</surname></hi></hi></hi>
+<add hand="unbekannt"><hi rendition="#r">339</hi></add><lb break="yes"/>A. Herrn Oberlender.<lb break="yes"/>Gerichhtsrat "<hi rendition="#i">Ludewig</hi>"<lb break="yes"/><hi rendition="#c"><hi rendition="#u"><hi rendition="#i">Hamm</hi>
+<hi rendition="#sup">i</hi>/W.</hi></hi><lb break="yes"/><hi rendition="#r">Osten-Alen 42.</hi><lb break="yes"/><add place="margin"><hi rendition="#u">Eilt</hi></add></p>
+<p><unclear>B</unclear>in jetzt in <hi rendition="#i">Aplerbeck</hi><lb break="yes"/><unclear>...</unclear>. bitte Dich dringend,<lb break="yes"/>mich
+                    <hi rendition="#u">sofort</hi> zu besuchen.<lb break="yes"/><unclear>A</unclear>ußer Sonntags kannst<lb break="yes"/><unclear>D</unclear>u <hi rendition="#u">jeden</hi> Tag kommen.<lb break="yes"/><unclear>D</unclear>a diese Briefe <hi rendition="#u">offen</hi>,
+                    <del>an</del><lb break="yes"/><unclear>...ne</unclear> Laurert an d. Pfle<lb break="no"/><unclear>ger</unclear> abgeben werden, ich<lb break="yes"/><unclear>...</unclear> nicht meinen Verhält<lb break="no"/><unclear>ni</unclear>sse jedem offen leg<lb break="no"/><unclear>en</unclear>
+                will, so sage Du, Lieb</p>
+<pb facs="#image_021"/>
+<p>ling, alles dann <add hand="unbekannt"><hi rendition="#r">340</hi></add><lb break="yes"/>mündlich. Nach Hause<lb break="yes"/>habe auch geschrieben.<lb break="yes"/>Aber <hi rendition="#u">sofort</hi> kommen,<lb break="yes"/>meine liebe Käthi<lb break="yes"/>u. schreibe mir <hi rendition="#u">sofort</hi><lb break="yes"/>einen <hi rendition="#u">langen<lb break="yes"/>langen</hi>
+                Brief, bin<lb break="yes"/>zu unglücklich.<lb break="yes"/><hi rendition="#c">Gruß
+                    u. Kuß<lb break="yes"/>Dein Dich innig<lb break="yes"/>liebender<lb break="yes"/><hi rendition="#u">Hans Gustav.</hi></hi></p>
+</body>
+</text>
+</TEI>

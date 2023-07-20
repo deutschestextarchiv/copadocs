@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb88b07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>88</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Christian <surname><unclear>D.</unclear></surname></persName>
+<date type="sent">13.10.1856</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Königl. Verwaltung der Irrenanstalt</persName>
+<settlement type="sent">Burgheim</settlement>
+<settlement type="received">26.10.1856</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb88b">
+<persName>
+<forename>Joseph</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1798"/>
+<death cert="unknown"/>
+<occupation>Müller</occupation>
+<residence><geo decls="#WGS">48.7003635 11.0165677</geo>Burgheim, Neuburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1856" to="1857">Anstalt: 1856-1857</p>
+<p from="1856" to="1857">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Tobsucht (1856-57)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ChristianDivana"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schreiben zur Übermittlung einer Zahlung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb88b07a.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb88b07b.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline><hi rendition="#c"><add hand="arzt"><hi rendition="#u">10</hi></add></hi><lb break="yes"/><hi rendition="#r">Burgheim den 7<hi rendition="#sup"><hi rendition="#u">t</hi></hi> <unclear>O</unclear>cktb 1856</hi><lb break="yes"/><add hand="arzt"><hi rendition="#r"><hi rendition="#i">preas</hi>: 13 Oktbr 1856 </hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">E <del>N</del>
+                            149 <space/> 90</hi></hi></add></dateline>
+<salute>Königl. Verwaltung der Irrenanstalt! </salute>
+</opener>
+<p>beliegend folgt der Betrag von<lb break="yes"/>41 fl 6 <unclear>X</unclear> für
+                die Verpflegung<lb break="yes"/>des Joseph <surname>B.</surname>. </p><p><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Christian
+                                <surname>Di<unclear>v.</unclear></surname></seg><lb break="yes"/>C<unclear>u</unclear>rator</hi></p>
+<p><add hand="arzt">
+<hi rendition="#i"><hi rendition="#u">Eodem</hi><lb break="yes"/>fiat <w>Quittu
+                            ng</w> ueber</hi><lb break="yes"/>41 fl 3.6. <hi rendition="#i">pro</hi> i/<hi rendition="#sub">III</hi> 57 und<lb break="yes"/><hi rendition="#u">4. −
+                        −</hi> Dispositionsgelder<lb break="yes"/>fl 45. 3.6 <space/>
+<hi rendition="#i">M<unclear/></hi><lb break="yes"/>bat <hi rendition="#r">Olige fl 4 − Vier Gulden od<lb break="yes"/>Depositum̄ genom̄en<lb break="yes"/>Eodem
+                            <hi rendition="#i">MM.</hi></hi>
+</add>
+<pb facs="#image_017"/>4 Lth <space/>
+<hi rendition="#i">N<hi rendition="#sup"><hi rendition="#u"><unclear>o</unclear></hi></hi></hi> 3. An<lb break="yes"/>Die
+                    Verwaltung der<lb break="yes"/>Irrenanstald<lb break="yes"/>frei <space/> in
+                    Irsee<lb break="yes"/>g. Rhein bei Kaufbeuern<lb break="yes"/>4 fl. ba<unclear>a</unclear>r
+            </p> </body>
+</text>
+</TEI>

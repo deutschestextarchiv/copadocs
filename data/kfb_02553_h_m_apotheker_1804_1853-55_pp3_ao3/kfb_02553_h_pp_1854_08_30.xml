@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2553h04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2553</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz von <surname>H.</surname></persName>
+<date type="sent">30.08.1854</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tochter: Gretchen von <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2553h">
+<persName>
+<forename>Franz von</forename><surname>H.</surname>
+</persName>
+<birth when="1804"/>
+<death cert="unknown"/>
+<occupation>Apotheker</occupation>
+<residence><geo decls="#WGS">49.79245 9.932966</geo>Würzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1853" to="1855">Anstalt: 1853-55</p>
+<p from="1853" to="1855">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Hypochondrische Verstimmung, Fixe Ideen (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Reagiert auf ein Schreiben seiner Tochter. Gibt an, dass seine Laune schlechter werde.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2553h04a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb2553h04b.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline><hi rendition="#r">Irsee d 30 <hi rendition="#i">August</hi>
+                    1854</hi></dateline>
+<salute><space/> Liebes Gretchen</salute>
+</opener>
+<p>Deinen Brief von 3ten <hi rendition="#i">August</hi> habe ich erhalten hätte dir
+                shon<lb break="yes"/>längst geschrieben wen<unclear>n</unclear> Frau <hi rendition="#i">Oberlieutenant</hi> von der<lb break="yes"/><hi rendition="#i"><surname>V.</surname></hi> nur niht gesagt ich sey
+                    <unclear>aber</unclear> zu meiner<lb break="yes"/>Erhohlung hier im Jrrenhauß.
+                Mein Wohlbefinden<lb break="yes"/>ist wie früher meine
+                            <del><unclear>sto</unclear></del> Laune werden im̄er<lb break="yes"/>schlechter stat beßer und das best wäre
+                    wenn ich<lb break="yes"/>von d<unclear>ies</unclear>er Welt weg wäre
+                sorge nur für deine kleine<lb break="yes"/>Geschwister. Recht sehr freut es mich
+                daß Fritz<lb break="yes"/>solche Fortschritte macht, es ist ein braver junge. </p><p>Schreibe mir wie es mit Fritz aussieht. Mein Bruder<lb break="yes"/>wie mir Ferdinand schrieb
+                hat seine Frau verloren<lb break="yes"/>was ich bedaure. Das Fau <hi rendition="#i">Hauptmann</hi>
+<hi rendition="#i"><surname>G.</surname></hi> die<lb break="yes"/>Ration bezieht
+                freut mich. ebenso <del><unclear><hi rendition="#i">Haupt</hi></unclear></del><lb break="yes"/>Oberist<hi rendition="#i">lie<del><unclear>i</unclear></del>utenant</hi>
+<surname><unclear>F.</unclear></surname>. Sorg dafür daß mir Ferdinand<lb break="yes"/>die verlangten Gegenstände besorgt <seg ana="#salute">dein dich<lb break="yes"/><space/> liebender Vatter </seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed"><surname><hi rendition="#i">H.</hi></surname>.</seg></hi></p>
+<pb facs="#image_007"/>
+<p><hi rendition="#c"><hi rendition="#i">Gretchen</hi>
+<surname><hi rendition="#i">H.</hi></surname></hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

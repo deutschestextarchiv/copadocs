@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s37" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">04.06.1894</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Armenpflegschaftsrat der Stadt Augsburg</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1890" to="1897">Anstalt: 1890-1897</p>
+<p from="1890" to="1897">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er möchte entlassen werden, weil er gesund ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s37a.jpg" xml:id="image_105"/>
+<graphic mimeType="image/jpg" url="kfb908s37b.jpg" xml:id="image_106"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_105"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Irsee den 4. Juni 1894.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Einem<lb break="yes"/>Hochlöblichen Armenpflegschafts<lb break="no"/>Rath</hi> der<lb break="yes"/><hi rendition="#i">Stadt Augsburgs!</hi></hi></salute>
+</opener>
+<p><space/> Der untergebener <hi rendition="#i">Heinr. Joh. Jakob
+                        <surname>S.</surname></hi><lb break="yes"/>geb. u. heimath-berechtigt <hi rendition="#i">Augsburg</hi>. Welcher
+                seid 8.<hi rendition="#sup">ten</hi><lb break="yes"/><hi rendition="#i">März</hi> 1890 in der Irrenanstalt untergebracht
+                wurde; −<lb break="yes"/>Bittet die Herrn der Armenpflegschaft Augsburgs
+                folgende<lb break="yes"/>Zeilen zu unterbreiten.</p>
+<p><hi rendition="#i">Meine Herrn</hi>. Ich bin in einer anstalt untergebracht worden<lb break="yes"/>welche für leidente Menschen eine Wohlthat sein solte?−<lb break="yes"/><hi rendition="#i">A</hi>ber nicht für einen Man̄ der
+                körperlich gesund Geist u.<lb break="yes"/>Arbeitsfähig ist, daher zu jederzeit
+                sein tägliches Brod oder<lb break="yes"/>fortkom̄en selbst suchen
+                kan̄. Ich bin aber auch nicht der<lb break="no"/>jenige Man̄, der
+                seiner Gemeinde zur laßt aus Muthwillen<lb break="yes"/>fallen will, ich weiß es
+                sehr gut waß die Armenpflegschaft <pb facs="#image_106"/>Augsburg für mich in dießen
+                sage vier Jahren 3 drei<lb break="yes"/>Monaten unnöthig ausgegeben hat u. sich
+                selbst <w>zu zu<lb break="no"/>schreiben</w> hat indem ich schon erwiedert habe daß
+                ich<lb break="yes"/>Gesund u. Arbeitsfähig bin, daß nicht nur ich sondern
+                <w>säm̄t<lb break="no"/>liche</w> Aerzte u. Krankenwärter Eidlich bezeugen
+                kön̄en<lb break="yes"/>und <hi rendition="#u">müßen</hi>,− Was aber
+                daß übrige anbelangt möchte<lb break="yes"/>ich mit den hochlöblichen Herrn d.
+                Armenpflegschaft per<lb break="no"/>sönlich sprechen zu kön̄en. </p>
+<p><space/> Ich schließe dieße zeilen welche sehr viel sagen<lb break="yes"/>wollen mit
+                der Bitte, um sofortige Entlaßung<lb break="yes"/>Verdienst u. Arbeit, sowie doch
+                einmal Gerechtigkeit<lb break="yes"/>walten zu laßen wie es für einen Christen
+                    ge<lb break="no"/>zim̄t.−<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Irsee den 4. Juni 1894.<lb break="yes"/><seg ana="#salute">Hochachtungsvollst</seg><lb break="yes"/><seg ana="#signed">Jakob <surname>S.</surname>.</seg><lb break="yes"/>Unshuldiger Verban̄ter</hi> d. <hi rendition="#i">Irrenanstalt.</hi></hi></p>
+</body>
+</text>
+</TEI>

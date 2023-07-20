@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2922m03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katrin Schreinemachers</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2922</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Christine <surname>M.</surname></persName>
+<date type="sent">ca1923-26</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tochter und Schwiegersohn: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2922m">
+<persName>
+<forename>Christine</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1845"/>
+<death cert="unknown"/>
+<occupation>Spinnerswitwe</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: led. Taglöhnerin</p>
+<p from="1923" to="1926">Anstalt: 1923-26</p>
+<p from="1923" to="1926">Brieftypen: pp, po</p>
+</state>
+<trait><p>Senile Demenz (1922)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    wünscht alles Gute zum Namenstag; hat ihr Leben satt und möchte sterben; 
+                    befindet sich unter lauter Fremden, sie ist die einzige Evangelische
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2922m03a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb2922m03b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Liebe Tochter nebst Schwigersohn.</hi></salute>
+</opener>
+<p>
+Da mich die Frau Oberpfegerin gesagt hat das du<lb break="yes"/>am Sontag deinen Namenstag hast so will ich dir<lb break="yes"/>einige Zeilen schreiben weil ich kein Geld habe das ich<lb break="yes"/>dir ein Andenken kaufen kan weil es wohl der letzte<lb break="yes"/>sein wird wünsche ich dir viel Glück und Segen und<lb break="yes"/>Gesundheit ich war gestern wieder in der Kirche habe<lb break="yes"/>zu Gott gebetet er soll mich <w>auf nehmen</w> ich bin doch<lb break="yes"/>zu jeder Stundte bereit zum Sterben ich habe jetzt mein<lb break="yes"/>Leben sat unter Den vielen fremden Leuten wo man<lb break="yes"/>nichts versteht aber das habe ich schon oft bemerkt das<lb break="yes"/>es imer heißt ich gehöre nicht her ich soll hin gehen<lb break="yes"/>wo ich hingehöre ja ich bin halt die einzige Evangelische<lb break="yes"/>nun habe ich mir den Entschluß gefaßt<lb break="yes"/>auch nicht mehr hier zu bleiben mage dir aber des<lb break="no"/>wegen keine Sorge ich bekomme ein schönes Plätzchen<lb break="yes"/>wo ich Ruhe finde auch habe ich den Ernst geschrieben<lb break="yes"/>schon vor 3 Wochen habe aber noch keine Nachricht erhalten<lb break="yes"/>ich laure auch nicht darauf der ist eimal so den sein<lb break="yes"/>wegen sterbe ich keine Stunde eher oder <del>scha</del> später.
+				    
+<pb facs="#image_004"/>
+liebe Margereth warst den du schon in Erlangen schreibe<lb break="yes"/>mir dan wie ihr es geht ich weiß ja nicht wohnt Sie noch<lb break="yes"/>in Brantenburger Hof aber nicht mir träumt alle<lb break="yes"/>Nacht von Euch Kindern weiter weiß ich jetzt nichts<lb break="yes"/>mehr schreiben mir nur recht bald wieder und bleibet<lb break="yes"/>recht gesund miteinander.</p>
+<p><hi rendition="#c">Rosen <del>to</del> Dubben Nälken<lb break="yes"/>diese drei verwelken aber unsre<lb break="yes"/>Freundschaft nicht Lebet wohl<lb break="yes"/>Vergest mich nicht.</hi>
+</p>
+</body>
+</text>
+</TEI>

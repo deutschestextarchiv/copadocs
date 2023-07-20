@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="gut555w07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 661: Gütersloh</collection>
+<idno>555 (K. 350)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Luise <surname>W.</surname></persName>
+<date type="sent">16.05.1926</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mann und Kinder</persName>
+<settlement type="sent">Gütersloh</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="gut555w">
+<persName>
+<forename>Luise</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1884-01-27"/>
+<death cert="unknown"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">52.0776206 8.5517481</geo>Geburtsort: Vilsendorf; Wohnort: Vilsendorf</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater: Landwirt</p>
+<p from="1925-07-25" to="1926-10-26">Anstalt: 25.07.1925-26.10.1926</p>
+<p from="1925-07-25" to="1926-10-26">Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>Hypochondrische Depression (1925)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Post und vor allem um Besuche
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="gut555w07a.jpg" xml:id="image_027"/>
+<graphic mimeType="image/jpg" url="gut555w07b.jpg" xml:id="image_028"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_027"/>
+<opener>
+<dateline><hi rendition="#r">Gütersloh den<lb break="yes"/>16 5/26</hi></dateline>
+<salute>Mein lieber Mann &amp; Kinder</salute>
+</opener>
+<p><add place="top"><surname>W.</surname></add> <add hand="arzt"><hi rendition="#u">kg</hi></add></p>
+<p>da ich die Erlaubnis habe<lb break="yes"/>zu schreiben sende ich Euch<lb break="yes"/>Alle einen herzlichen <w>Sonn<lb break="yes"/>tags gruß</w>. Wie
+                komt<lb break="yes"/>es meine Lieben das<lb break="yes"/>ich keinen Brief <w>bekom<lb break="yes"/>me</w> und Ihr mich nicht<lb break="yes"/>besucht nicht
+                Ostern und<lb break="yes"/>wie Ich Euch doch eine Karte<lb break="yes"/>geschrieben habe? die Liebe<lb break="yes"/>das übergroße Heimweh<lb break="yes"/>wo Ihr doch keine Ahnung<lb break="yes"/>von habt. Warum muß<lb break="yes"/>ich
+                hier 10 Monate sitzten<lb break="yes"/>Wo ich Euch doch imer gesagt<lb break="yes"/>und geschrieben habe, das<lb break="yes"/>ich was andres brauhte<lb break="yes"/><hi rendition="#c">als Arbeit.</hi></p>
+<p><add place="margin">Lukas 19, 42.</add>
+<pb facs="#image_028"/>Nun am vergangenen<lb break="yes"/>kam mir
+                    <unclear>nard</unclear> was änden<lb break="yes"/>Ich bitte nochmals dringend<lb break="yes"/>Laßt doch jemand kommen<lb break="yes"/>Ich kann Euch Alles
+                ander<lb break="yes"/>nicht schreiben. Hoffentlich<lb break="yes"/>geht es Euch
+                Allen noh gut<lb break="yes"/><add>Liebe Mann</add><lb break="yes"/>Ich hoffe doch bestimt, daß<lb break="yes"/>du dir die paar
+                Stunden<lb break="yes"/>Zeit noch Einmal must<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Mit herzlichen<lb break="yes"/>Gruß an Alle</seg><lb break="yes"/><w>verblei be</w> ich<lb break="yes"/><seg ana="#signed">deine <hi rendition="#i">Luise</hi></seg></hi></p>
+<p>An<lb break="yes"/>herrn Landwirt <hi rendition="#i">H <surname>W.</surname><lb break="yes"/><placeName type="street">Tödtheide</placeName> bj Brake Westfalen</hi>
+</p>
+</body>
+</text>
+</TEI>

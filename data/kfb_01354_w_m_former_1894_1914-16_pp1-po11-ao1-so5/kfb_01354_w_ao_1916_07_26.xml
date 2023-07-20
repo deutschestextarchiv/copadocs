@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1354w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1354</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>W.</surname></persName>
+<date type="sent">26.07.1916</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1354w">
+<persName>
+<forename>Johann</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1894"/>
+<death cert="unknown"/>
+<occupation>Former</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landwirt</p>
+<p from="1914" to="1916">Anstalt: 1914-16</p>
+<p from="1914" to="1916">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>insoziale Imbezillität, Stimmungsanomalie, Sinnestäuschungen (1915)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um ein medizinisches Gutachten, das zur Entlassung benötigt wird und an die Stadt Augsburg geschickt werden soll.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1354w04a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb1354w04b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg den 26 Juli 1916</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Eeehrte Herren!</hi></hi></salute>
+</opener>
+<p>Ersuche Sie höflichst um Austellung<lb break="yes"/>eines Ärztlichen Zeugnis, ob
+                der<lb break="yes"/>gegenwärtig<del>e</del> in Irrsee weilende<lb break="yes"/>Johonn <surname>W.</surname> noch Gemeinde<lb break="no"/>gefährlich ist.
+                Der Herr Medizinal<lb break="no"/>rat hat gesagt das da<del>s</del>selbe zur<lb break="yes"/>Entlassung notwendig sei. Wollen<lb break="yes"/>Sie dann die Güte
+                haben und<lb break="yes"/>daselbe an den Magistrat der<lb break="yes"/>Stadt
+                Augsburg zu übersenden.<lb break="yes"/>Ich bin dann gerne bereit die<lb break="yes"/>Unkosten Ihnen zu senden.</p>
+<pb facs="#image_010"/>
+<p>Unter aller Hochachtung<lb break="yes"/><hi rendition="#r">verbleibe Ich<lb break="yes"/>Ihre Untergebene<lb break="yes"/>Frau <hi rendition="#i">Magdalena <surname>W.</surname>.</hi></hi></p>
+<p><handShift/><hi rendition="#c"><hi rendition="#i">Herr Oberarzt in Urlaub.</hi></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2702w10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Freundin: Margaretha <surname>B.</surname></persName>
+<date type="sent">15.11.1855</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Maria <surname>W.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2702w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1834"/>
+<death cert="unknown"/>
+<occupation>Bierbrauerstochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Brauereibesitz</p>
+<p from="1853" to="1856">Anstalt: 1853-56</p>
+<p from="1853" to="1856">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Vesania (17.11.1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="freundin1"/>
+<handNote medium="crayon_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erkundigt sich nach dem Befinden und Alltag der Patientin. 
+                    Erwähnt, dass die Mutter der Patientin sich wünschen würde, 
+                    öfter Briefe von ihr zu erhalten.
+                     </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2702w10a.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="kfb2702w10b.jpg" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<dateline><hi rendition="#r">München den 15<hi rendition="#sup">t
+                                </hi><lb break="yes"/>Novem. <hi rendition="#u">1855</hi></hi></dateline>
+<salute><hi rendition="#c">Meine liebe beste Marie!</hi></salute>
+</opener>
+<p>Jch übersende dir hiemit wieder gutes Obst<lb break="yes"/>da ich weiß daß es
+                dir <del>f</del>Freude bereitet!<lb break="yes"/>vorderhand weiß deine Mutter
+                nichts davon,<lb break="yes"/>welche wie es mir scheint schmerzlich empfindet<lb break="yes"/>daß ihre Marie, für deren Wohl sie alles<lb break="yes"/>aufbietet, so weniges von sich hören läßt, und<lb break="yes"/>die
+                in̄igsten Wünsche unerfüllet sieht, alle acht<lb break="yes"/>Tage, mit
+                Erlaubniß des Herrn Direktors<lb break="yes"/>ein Briefchen von dir zu erhalten,
+                sie weiß da<lb break="no"/>her die Usache nicht zu deuten, und ist sehr be<lb break="no"/>küm̄ert darüber. − Schreibe mir umgehend,<lb break="yes"/>theile mir offen deine Gesin̄ungen deine An<lb break="no"/>liegen mit, und <seg ana="#metaling">setze Worte, anstatt Gedan<lb break="no"/>kenstriche, welche oft mißverstanden werden </seg><lb break="yes"/>und daß
+                ohnedieß beküm̄erte Mutterherz nur<lb break="yes"/>noch mehr beängstigen,
+                theile mir mit, wie<lb break="yes"/>deine Tagesordnung eingetheilt, wie und mit <pb facs="#image_023"/>was, du dich beschäftigest, und welche Arbeit dir<lb break="yes"/>Vergnügen macht, hauptsächlich aber schreibe<lb break="yes"/>ob du
+                gesund bist, und deine Hollersulze genom̄en<lb break="yes"/>hast. −
+                Haben wir für deine Kopfbedeckung das<lb break="yes"/>rechte gesendet, und damit
+                deinen Geschmack<lb break="yes"/>errathen? wen̄ du so ich hoffe recht bald
+                    schrei<lb break="no"/>best, so danke auch dafür, deiner lieben Mut<lb break="no"/>ter, welche dir gewiß gerne schreiben würde<lb break="yes"/>wen̄ es ihre
+                Hand und ihr <hi rendition="#u" style="arzt">Nervenzu</hi>stand<lb break="yes"/>gestatten würden. Für heute lebe wohl em<lb break="no"/>pfehle uns
+                Herrn Direktor Frau Gemah<lb break="no"/>lin und allen jenen die unserer noch ge<lb break="no"/>denken, Frau Doktorin̄ ja nicht zu verges<lb break="no"/>sen.
+                Jch bitte dich nochmals mir gleich zu<lb break="yes"/>schreiben und schließe für
+                deine l. Mutter<lb break="yes"/>ein Briefchen ein. <seg ana="#salute">Jm̄er
+                    in Liebe<lb break="yes"/><hi rendition="#c">Deine</hi><lb break="yes"/><hi rendition="#r">Freundin </hi></seg><hi rendition="#r"><seg ana="#signed">Margaretha<lb break="yes"/><surname>B.</surname></seg>.</hi></p>
+</body>
+</text>
+</TEI>

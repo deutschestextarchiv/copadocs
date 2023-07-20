@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun1988k12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>1988 (K. 170)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>K.</surname></persName>
+<date type="sent">12.06.1904</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geheimer Oberregierungsrat: n.a. <surname>H.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun1988k">
+<persName>
+<forename>Heinrich</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1846-10-13"/>
+<death cert="unknown"/>
+<occupation>Arbeiter</occupation>
+<residence><geo decls="#WGS">51.920586 7.727183</geo>Geburtsort: Wolbeck; Wohnort: Wolbeck</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Weber, Mutter: Arbeiterin</p>
+<p from="1900-06-28" to="1905-05-05">Anstalt: 28.06.1900-05.05.1905</p>
+<p from="1900-06-28" to="1905-05-05">Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber berichtet, dass es ihm gut geht.
+                    Er möchte seine Mutter besuchen.
+                    Er ist für die Gartenarbeit bei dem Geheimrat nicht entbehrlich.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun1988k12a.jpg" xml:id="image_031"/>
+<graphic mimeType="image/jpg" url="mun1988k12bc.jpg" xml:id="image_032"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_031"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt <hi rendition="#r">Münster
+                            i. W., den</hi></add><hi rendition="#r"> 12<hi rendition="#i">ten
+                            Juni</hi>
+<add hand="vordruck">190</add>4</hi></dateline>
+<salute><hi rendition="#c">Hochgeehrter Herr Geheimer=Ober=Regierungs=Rat!</hi></salute>
+</opener>
+<p><add hand="hand3"><seg ana="#signed">G 13/<hi rendition="#sub">6</hi> 04<lb break="yes"/><hi rendition="#u" style="hand4">ad acta</hi>
+                    Heinrich <surname><hi rendition="#i">K.</hi></surname><lb break="yes"/>G </seg></add></p>
+<p><hi rendition="#i">Ich finde Mich veranlast, Ihnen zu schreiben, wie Es Mir </hi><lb break="yes"/><hi rendition="#i">geht. Ich bin gesund und munter, und seit dem
+                        </hi><w><hi rendition="#i">acht und zwanzig</hi><lb break="no"/><hi rendition="#i">sten</hi></w><hi rendition="#i"> Juni 1900 in der Heil=Anstalt
+                    zu Marienthal bei Münster. </hi><lb break="yes"/><hi rendition="#i">Der </hi><add place="above"><hi rendition="#i">Herr</hi></add><hi rendition="#i"> Geheim=Rat hat
+                    Mir versprochen, Meine Mutter besuchen </hi><lb break="yes"/><hi rendition="#i">zu dürfen, die Mutter ist schon im </hi><w><hi rendition="#i">sechs und
+                        achtzigsten</hi></w><hi rendition="#i"> Lebens=Jahre, </hi><lb break="yes"/><hi rendition="#i">und zu Wolbeck im Kranken=Hause, die sehr nach Mir verlangt,
+                    </hi><lb break="yes"/><hi rendition="#i">weil Ich Ihr einziger Sohn bin und Sie
+                    Witwe ist. Der Herr Geheim</hi><lb break="no"/><add place="above"><hi rendition="#i">Rat</hi></add><hi rendition="#i"> sagte Mir, Er könne Mich
+                    nicht gut entbehren, weil Ich die Garten</hi><lb break="no"/><hi rendition="#i">Arbeit gut besorgen könnte. Viele Grüse von Mir. Ich wünsche Ihnen, </hi><lb break="yes"/><hi rendition="#i">wie auch Ihrer ganzen Familie Gesundheit und
+                    Zufriedenheit. </hi><seg ana="#metaling"><hi rendition="#i">Ich </hi><lb break="yes"/><hi rendition="#i">übersende Ihnen hiermit eine kleine
+                        Zeichnnug, die Ich aus freier Hand </hi><lb break="yes"/><hi rendition="#i">gemacht habe.</hi></seg><hi rendition="#i"> </hi><seg ana="#salute"><hi rendition="#i">Das Ihnen dieser Brief glücklich und zufrieden antreffen
+                        </hi><lb break="yes"/><hi rendition="#i">wird hofft Ihr ergenster
+                    Diener</hi></seg><hi rendition="#i"> </hi><seg ana="#signed"><hi rendition="#i">Heinrich </hi><surname><hi rendition="#i">K.</hi></surname></seg><hi rendition="#i"> auf Marienthal. </hi><lb break="yes"/><hi rendition="#i">Adresse)
+                    An den Hochgeehrten Herrn Geheimer=Ober=Regierungs=Rat </hi><lb break="yes"/><hi rendition="#i">Landes=Hauptmann </hi><surname><hi rendition="#i">H.</hi></surname><hi rendition="#i">. auf Mauritz bei Münster in
+                    West</hi>-<add place="below"><hi rendition="#i">falen</hi></add><hi rendition="#i"> </hi></p>
+<pb facs="#image_032"/>
+<p>
+<seg ana="#pic">[Gebäude]</seg><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Saal. </hi><lb break="yes"/><hi rendition="#i">Altane. </hi><lb break="yes"/><hi rendition="#i">Blumen.=
+                        (Eingang.) Halle. </hi><lb break="yes"/><hi rendition="#i">(Treppe)</hi></hi><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">Laube </hi><hi rendition="#r"><hi rendition="#i">Baum. </hi></hi><lb break="yes"/><space/><hi rendition="#i"> (Keller) </hi><hi rendition="#r"><hi rendition="#i">(Keller)</hi></hi><hi rendition="#i"> </hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2128p07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2128</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>K.</surname></persName>
+<date type="sent">30.09.1910</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor </persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2128p">
+<persName>
+<forename>Josefine</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1846"/>
+<death when="1910"/>
+<occupation>Landgerichtsassesortochter</occupation>
+<residence><geo decls="#WGS">47.9417348 10.2999793</geo>Ottobeuren</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landgerichtsassesor</p>
+<p from="1876" to="1900">Anstalt: 1876-1900</p>
+<p from="1876" to="1900">Brieftypen: pp,ap,ao</p>
+</state>
+<trait><p>„Geistesstörung […] in Form von Melancholie mit entsprechenden Wahnvorstellungen des Vergiftetwerden, Hingerichtetwerdens u.s.w.“ (1876)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schwester der Patientin reagiert auf die Todesnachricht der Patientin und bittet, zur Beerdigung einen Kranz niederzulegen, da es ihr nicht möglich sei, selbst anwesend zu sein.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2128p07a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2128p07b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb2128p07c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München den 30 Septbr<lb break="yes"/>1910</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Hochgeehrter Herr Direktor</hi></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Euer HochwohlGeboren!</hi></hi></salute>
+</opener>
+<p><add place="above"><hi rendition="#u">In Eile</hi></add></p>
+<p><hi rendition="#i">M</hi>it tiefem <hi rendition="#u">in̄igem</hi>
+                Schmerze<lb break="yes"/>habe ich soeben Ihr Telegram erhalten<lb break="yes"/>daß
+                mir den <hi rendition="#u">Tod</hi> meiner <hi rendition="#u">einzigen</hi><lb break="yes"/>heißgeliebten unglücklichen Schwester<lb break="yes"/>Josephine
+                    <hi rendition="#u"><surname>P.</surname></hi>
+<add place="above">kgl. <hi rendition="#u">Assesorstochter</hi></add>
+                mitteilte.</p>
+<p><hi rendition="#i">M</hi>öge Gottes Güte; <hi rendition="#u">ihr</hi> nun die wohl<lb break="yes"/>verdiente <hi rendition="#u">ewge</hi> Ruhe zu Teil<lb break="yes"/>werden lassen. Euer Hochwohlgeboren<lb break="yes"/>sprehe ich
+                aber auf diesem Wege<lb break="yes"/>den höf<hi rendition="#u">lichsten</hi> Dank
+                aus für<lb break="yes"/>Ihre <hi rendition="#u">gütige</hi> Bemühung, und bitte<lb break="yes"/>in unserm Namen, und auf<lb break="yes"/><hi rendition="#u">uns're</hi>
+<hi rendition="#u">Rechnung</hi> einen <hi rendition="#u">Todtenkranz</hi><lb break="yes"/>auf deren Bahre zu legen. Von <hi rendition="#i">M</hi>ünchen<lb break="yes"/>aus kämen die Blumen <hi rendition="#u">welk</hi> an.<lb break="yes"/>Leider kön̄en wir der Beerdigung<lb break="yes"/>nicht
+                beiwohnen ich bin <hi rendition="#u">2 Jahre</hi> lang <pb facs="#image_002"/>nicht mehr aus dem Zim̄er gekom̄en<lb break="yes"/>in Folge eines
+                schmerzhaften<lb break="yes"/>Nieren u. Blasenleidens<lb break="yes"/>Seit einiger
+                Zeit ist auch Hezleiden<lb break="yes"/>dazugekom̄en, und die geringste<lb break="yes"/>Aufregung − muß ich mit bitterbösen<lb break="yes"/>schweren
+                Nächten büßen. </p>
+<p><hi rendition="#i">M</hi>ein lb Gatte steht in Folge eines<lb break="yes"/>Krampfadern Geschwüres ebenfalls<lb break="yes"/>in <w>Beh andlung</w> deß
+                Spezialisten<lb break="yes"/><hi rendition="#i">D</hi>r <hi rendition="#i">Haar <hi rendition="#u">Hier</hi></hi> u. kan̄ nicht reisen.<lb break="yes"/><hi rendition="#i">M</hi><hi rendition="#u">ein Herz</hi> und <hi rendition="#u">meine See</hi>le<lb break="yes"/>werden dem Begrabniß der<lb break="yes"/>armen Schwester beiw<hi rendition="#u">ohn</hi>en.<lb break="yes"/>Deren Curat <hi rendition="#i">Herr</hi> Ferdinand<lb break="yes"/><hi rendition="#i"><surname>P.</surname></hi> ist heuer ebenfalls<lb break="yes"/>gestorben und am hl. Charfreitag<lb break="yes"/>begraben worden.
+                    <pb facs="#image_003"/><w>Er</w><w>war</w><w>k.</w> Zollinspektor, unser Cousin<lb break="yes"/>und erst 58 Jahr alt. </p>
+<p>Nähere Details über die letzten<lb break="yes"/>Stunden <hi rendition="#u">erbittend</hi><lb break="yes"/><seg ana="#salute">Zeichnet hochachtungsvollst </seg><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Euer Hochwohgeboren</hi><lb break="yes"/><hi rendition="#i">E</hi>rgebenste<lb break="yes"/><seg ana="#salute"><hi rendition="#i">An̄a
+                        <surname>K.</surname></hi></seg><lb break="yes"/>kgl Registrators<lb break="yes"/>Gattin<lb break="yes"/>Gabelsb. 68/<lb break="yes"/><hi rendition="#u">1
+                        <unclear>Cks</unclear></hi></hi></p>
+<p><add hand="arzt">beantw. 3.10.10.<lb break="yes"/><hi rendition="#c">D<hi rendition="#sup">r</hi>
+<hi rendition="#i">Zierl</hi></hi></add></p>
+</body>
+</text>
+</TEI>

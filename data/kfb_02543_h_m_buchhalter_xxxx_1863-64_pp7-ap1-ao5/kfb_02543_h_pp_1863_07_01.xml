@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2543h03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2543</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>H.</surname></persName>
+<date type="sent">01.07.1863</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Anna <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2543h">
+<persName>
+<forename>Wilhelm</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1864"/>
+<occupation>Buchhalter, studierte Theologie</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: n.a.</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1863" to="1864">Anstalt: 1863-64</p>
+<p from="1863" to="1864">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"psychische und körperliche Aufregung", "Wahnvorstellungen" (1863)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient schildet die Ereignisse am Tage seiner Einweisung. 
+                    Wirft seiner Frau vor, ihn zu vernachlässigen, da sie ihn bisher nicht besucht habe. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2543h03a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb2543h03b.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="kfb2543h03c.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="kfb2543h03d.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><hi rendition="#r">Jrrsee 1. <hi rendition="#i">July</hi>
+                    1863</hi></dateline>
+<salute><hi rendition="#c">Theurste liebste Anna,<lb break="yes"/>Theurste meines Herzens<lb break="yes"/>Geliebteste Braut, </hi></salute>
+</opener>
+<p>Von Schmmerzgefühl Dich nicht zu<lb break="yes"/>sehen in
+                gräßlicher Lage bin ich<lb break="yes"/>ganz in Verzweiflung <del><unclear/></del><lb break="yes"/>am Freitag <w><del>Morge</del> ns</w> kam zu<lb break="yes"/>meinem Schwager <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/>bis 11 Uhr, der wie meine Schwester<lb break="yes"/>finden mich
+                    aufgeregt, ich machte<lb break="yes"/>auf Wunsch
+                derselben kalte Über<lb break="no"/>schläge, <w>obwohl</w><w>mir</w> garnichts<lb break="yes"/>fehlte blieb jedoch auf Wunsch<lb break="yes"/>und Ansuchen meines
+                Schwager<lb break="yes"/>nicht zu Hause, Abends nachdem −<lb break="yes"/>Er
+                sich wahrscheinlich mit meinen<lb break="yes"/>schönen fraund <surname><hi rendition="#i">N.</hi></surname> unter<lb break="no"/>redet gingen wir
+                ich <surname><hi rendition="#i">N.</hi></surname> u<lb break="yes"/><surname><unclear><hi rendition="#i">R.</hi></unclear><hi rendition="#i">ehl</hi></surname> von München gingen<lb break="yes"/>wir gegen das
+                Krankenhaus;<lb break="yes"/>Selber sagte er hat etwas zu<lb break="yes"/>besorgen, Angekom̄en im Krank<lb break="no"/>haus, führte man mich in<lb break="yes"/>eine <seg ana="#med">Jrrenzelle</seg>, der Docktor </p>
+<p><add place="margin">Schwager <surname><hi rendition="#i">S.</hi></surname> möchte augen<lb break="no"/>blicklich erwirken daß ich endlich<lb break="yes"/>einmal meine
+                    rechtmäßige<lb break="yes"/>mir gebührende Freiheit erhalt, er soll<lb break="yes"/>auf die Polizei Magistrat ebenso dr<lb break="yes"/><hi rendition="#i">Müller</hi><lb break="yes"/>gehen<lb break="yes"/>und s<unclear>ei</unclear>n</add><lb break="yes"/><add place="margin"><w>an</w><w>mir</w><lb break="yes"/>gräßlicher<lb break="yes"/>verübtes<lb break="yes"/>Unrecht<lb break="yes"/>gutmachen<lb break="yes"/>den ich bin gottlob<lb break="yes"/>gesund u. nicht
+                    närri<unclear>ß</unclear></add></p>
+<p><add place="bottom">Jch habe kein Kreuzer Geld gehabt<lb break="yes"/>weil die
+                    doktoren mir die K<unclear>e</unclear>leidr<lb break="yes"/>genomen hat, mich
+                    habe ich<lb break="yes"/>keine <hi rendition="#i">Cigaren</hi> gehabt u schlecht
+                    Kost</add></p>
+<p><add place="margin"><hi rendition="#r">Alle<lb break="yes"/>Tage<lb break="yes"/><unclear>2 Un
+                            art</unclear><lb break="yes"/>bier<lb break="yes"/>in solchen<lb break="yes"/>Elend<lb break="yes"/>muß<lb break="yes"/>Dein<lb break="yes"/>Bräutigam<lb break="yes"/>leben<lb break="yes"/>un<lb break="no"/>v<unclear>er</unclear><lb break="no"/><hi rendition="#u">sch</hi><unclear><hi rendition="#u">ul</hi></unclear><hi rendition="#u">d </hi><lb break="yes"/></hi></add><add place="inline">=schuldet</add></p>
+<pb facs="#image_013"/><p>sagte zu mir i<add place="inline">h</add>nen fehlts im<lb break="yes"/>Kopf Hierauf erwartete
+                ich<lb break="yes"/>daß man mich wieder heraus<lb break="no"/>ließ, so nicht ich
+                würgte<lb break="yes"/>den Doktor, warf Selbe hinter<lb break="yes"/>den Ofen,
+                weil er mich voraus<lb break="yes"/>pakte, und mich zwingen<lb break="yes"/>wollte, in die <seg ana="#med"><w>Jrrengefäng<lb break="no"/>niß Zelle</w></seg>
+                zu bring, somit<lb break="yes"/>kamen zwei Wärter, auch<lb break="yes"/>mit diesen
+                wurde ich fertig<lb break="yes"/><unclear>und</unclear> schlug selbe beide mit<lb break="yes"/>einer Stange welche ich vom<lb break="yes"/>Fenstergitter
+                weggerißen<lb break="yes"/>derart daß Sie beide zu<lb break="yes"/>Boden fielen
+                    <add place="above"><hi rendition="#u">und</hi> in Jhr<hi rendition="#u">em
+                        Blute lagen</hi></add>, somit kann<lb break="yes"/>f.5 <add place="above">Mann</add> überwindeten mich nach<lb break="no"/>dem mir das B)lut zu Ohren,<lb break="yes"/>Nase u Mund herauslief<lb break="yes"/>vor Kraftanstreng u
+                    Zorn<lb break="yes"/>u Wuth, und legten mir eine<lb break="yes"/><seg ana="#med">Zwangsjacke mit Stricken</seg><lb break="yes"/>an, <w>so daß</w> ich mich nicht mehr </p>
+<p><add place="margin">Vielleicht hast Du triftige Entschuldigungen<lb break="yes"/>die
+                    Dein Benehmen rechtfertigen und<lb break="yes"/>werde die Sache vergeßen, und
+                    Dich lieben<lb break="yes"/>vom Herzen <w>noch</w><w>mehr</w> wie eher, leider,<lb break="yes"/>kann ich Dir nicht böse sein was du verdienst<lb break="yes"/>So liebt mit getreuem Herzen u Gemüth<lb break="yes"/>dein
+                dich <w>innig</w><w>liebender</w>, und hofft<unclear>s ich</unclear></add><lb break="yes"/><add place="bottom">was<lb break="yes"/>ich hoffe es<lb break="yes"/>ist gut daß<lb break="yes"/>der Mensch<lb break="yes"/>doch Hoffnung<lb break="yes"/>hat.</add></p>
+<p><add place="bottom">Morgen um 10 Uhr, wo du unge<unclear/><lb break="yes"/>hieherfahren kannst auch mich<lb break="yes"/>besuchen darfst,
+                    es ist hir sogar<lb break="yes"/>sehr schein freundlich Zim̄er</add></p>
+<p><add place="top">wunderschöner Garten, ich erwarte<lb break="yes"/>Dich teurste in̄igste,
+                    geliebteste Braut<lb break="yes"/>gewiß um 9½ Uhr in Jrsee, um dich<lb break="yes"/>um den Hals zu fallen, u tausendma−<lb break="yes"/><hi rendition="#r"><w>tausend mal</w> zu küßen</hi></add></p>
+<p><add place="margin"><hi rendition="#i">Gott</hi> der höchste
+                        gerechte<lb break="yes"/>Allmähtige wird mein<lb break="yes"/>Leiden
+                        lindern u helfen, </add></p>
+<p><add place="margin">bringe mir einige Kistchen<lb break="yes"/><hi rendition="#i">Cigaren</hi> mit von ordinärer Sorte um 1<unclear/> o. 1 <unclear/> den ich habe<lb break="yes"/>diesen <seg ana="#inst">Narren</seg> in Jrrsee mit welchen ich
+                    mich jetzt- </add>
+<pb facs="#image_014"/><add place="margin">muß weil ich keine Andern habe <hi rendition="#i">Cigaren</hi> zum<lb break="yes"/>Praesend versprochen.
+                </add></p>
+<p><add place="margin">Es ist hart für einen Menschen<lb break="yes"/>gebildet und
+                    zartfühlt und rasend liebt<lb break="yes"/>sich mit <seg ana="#inst">dummen,
+                        Groben, Blödsin̄igen Jrren u Bösen<lb break="yes"/><hi rendition="#r">und Tobenden</hi></seg><hi rendition="#r"> unterhalten</hi><lb break="yes"/><add place="inlnir">zu<lb break="yes"/>müßen</add></add></p>
+<p><add place="top"><seg ana="#metaling">Jch habe auf alle Seiten herum<lb break="no"/>schreiben müßen,
+                <seg ana="#inst">weil ich kein<lb break="yes"/>Papir mehr erhielt</seg></seg></add></p>
+<p>rühren konnte, jedoch nach Anrufen<lb break="yes"/>meines Allterhöchsten, und
+                    gräß<lb break="no"/>lichen Schmerzen, <del><unclear/></del>kam ich auf den<lb break="yes"/>Gedanken diese Jacke mit Zähnen<lb break="yes"/><w>wo</w><w>selbst</w> ich mir 2 Zahn abgebißen<lb break="yes"/>und
+                ausgerißen, legte mich<lb break="yes"/>erschöpft vor Mattigkeit auf<lb break="yes"/>mein Matraze, nach 2 Uhr<lb break="yes"/>Hate ich einen Traum
+                    und<lb break="yes"/>ein Bilderscheinung, welche mir<lb break="yes"/>eroffnete
+                    daß ich bis nächsten<lb break="yes"/>Tag, säm̄tliche Sprache sprechen<lb break="yes"/>kan̄ und überhaupts Allwißen soll<lb break="yes"/>die Sprachen kann ich allerdings<lb break="yes"/>sprechen aber
+                wegen der Ge<lb break="no"/>sandschaft von ganz Europa<lb break="yes"/>bin ich
+                nicht im <unclear>R</unclear>einen und<lb break="yes"/>glaube es nicht vor ich es nicht<lb break="yes"/>schwarz auf weiß, habe, allerdings<lb break="yes"/>kann ich alle
+                Jnstrument der<lb break="yes"/>Musick spielen, auch alle Märsche<lb break="yes"/>welche in <unclear>pfe<del>l</del>ife</unclear> viel tausend<lb break="yes"/>ins
+                Werk setzen läßt sich damit<lb break="yes"/>ungeheur viel Geld verdienen. </p>
+<p><add place="bottom"><seg ana="#salute">Es grüßt Deine Eltern herzlich<lb break="yes"/>auch gehe
+                        zu <surname><hi rendition="#i">R.</hi></surname> zu <hi rendition="#i"><surname>S.</surname><lb break="yes"/></hi>es küßt Dich nochmals und erwartet Dich<lb break="yes"/>mit großer innigeste Sehnsucht</seg><lb break="yes"/><hi rendition="#r">Dein Bräutigam
+                    <seg ana="#signed"><hi rendition="#u">Wilhelm</hi></seg></hi></add></p>
+<p><add place="margin">lieben tausendmal lieben, ich will dich küßen<lb break="yes"/>tausendmall küßen, den ich bin kein<lb break="yes"/>gewöhnlicher Geck sondern
+                    ein Mann<lb break="yes"/>den viel Liebe u u Gemuth und sein<lb break="yes"/>Weib lieben, will aber auch verlangt<lb break="yes"/>daß <hi rendition="#u">Sie</hi> für Jhn <hi rendition="#u">Opfer</hi> Jhn geradeso<lb break="yes"/><hi rendition="#u">liebt</hi> wie er sie, den <hi rendition="#u">Mann</hi> u <hi rendition="#u">Weib</hi><lb break="yes"/><hi rendition="#c">ist ein <hi rendition="#u">Leib</hi></hi></add></p>
+<p><add place="margin"><hi rendition="#r">Jch erwarte<lb break="yes"/>Dich bestimt<lb break="yes"/>in <unclear>9</unclear> Uhr<lb break="yes"/><hi rendition="#u">in <hi rendition="#i">Jrrsee</hi></hi></hi></add></p>
+<p><add place="margin">Wen dieses<lb break="yes"/>mal wieder<lb break="yes"/>nicht
+                    kom̄st<lb break="yes"/>und kein Bedau<unclear>ern</unclear><lb break="yes"/>mit mir hast<lb break="yes"/><unclear>ein<hi rendition="#u">ige</hi></unclear><hi rendition="#u"> </hi><unclear><hi rendition="#u">S</hi></unclear>ache</add></p>
+<pb facs="#image_015"/>
+<p>Liebste theurste Anna sehr geschmerzt<lb break="yes"/>hat es
+                    mich von Dir, daß du mich da<lb break="yes"/>Du doch schon 5 Tage in <hi rendition="#i">Augsburg </hi><lb break="yes"/>bist nicht einmal besucht noch
+                    ge<lb break="no"/>schrieben, noch gegrüßt, ich lag in<lb break="yes"/>meiner
+                Zelle manche Nacht, schlaf<lb break="no"/>los denkte im̄er an Dich weinte<lb break="yes"/>weil Du gar nichts von Dir hören<lb break="yes"/>ließest, für das
+                unglücklich Schicksal<lb break="yes"/>in welches in jetzt gerathen bin<lb break="yes"/>ist nicht meine Schuld, den ich bin<lb break="yes"/>gottlob nicht irsin̄nig, sondern<lb break="yes"/>wieder etwas mehr wohl daß<lb break="yes"/>das Eingesperrt ein mißliche<lb break="yes"/>Laune macht läßt Sich denken,<lb break="yes"/>zudem ich Dich gerne empfangen<lb break="yes"/>und begrüßt,
+                tausendmal <w>ge<lb break="no"/>küßt</w><w>hätte</w>, aber Alles umsonst<lb break="yes"/>ich liege verlaßen allein wie<lb break="yes"/>ein Verbrecher im
+                Kerker, und<lb break="yes"/>kann mich nur mit den Gedanken<lb break="yes"/>es wird
+                beßer gehen unterhalten<lb break="yes"/>Anna den Vorwurf muß ich Dir<lb break="yes"/>machen wenn auch nicht gerne<lb break="yes"/>ich will kein Weib
+                daß mich<lb break="yes"/>vernachlißiget, und sich in 5 Tagen<lb break="yes"/>sich
+                nicht nach umschaut, sondern<lb break="yes"/><add place="margin">ich will ein
+                    Weibe, daß mich <hi rendition="#u">liebt</hi> und<lb break="yes"/>sich mir
+                        <hi rendition="#u">opfert</hi>, und nicht bloß eine Frau<lb break="yes"/>werden, will den ich habe auch nicht<lb break="yes"/>um dich angehalten um
+                    eine Frau die<lb break="yes"/>mir die Wasche besorgt, aber ich habe ich um<lb break="yes"/>dich angehalten, aus <hi rendition="#u">purer Liebe</hi>,
+                    den̄ </add><lb break="yes"/><add place="margin">Jch hätte in<lb break="yes"/>München ein<lb break="yes"/>Weib mit s 80.000<lb break="yes"/>haben können<lb break="yes"/>habe<unclear>r</unclear> aber nur zu-<lb break="yes"/>Dir Liebe
+                    empfunden.</add></p>
+<p><add place="bottom">Du fühlst es gar nicht wie gerne<lb break="yes"/>ich Dich habe und wie ich
+                    dich<lb break="yes"/><hi rendition="#r">liebe.</hi></add></p>
+<p><add place="margin">Du dürftest keinen Kreuzer ge<lb break="no"/>habt haben, ich
+                    hätte Dich doch geliebt<lb break="yes"/>und zum Weibe genom̄en, den<lb break="yes"/></add><add place="margin"><hi rendition="#r">nicht Geld,
+                            sond<unclear>er</unclear><lb break="yes"/>aufrichtige <unclear>ware
+                            </unclear><lb break="yes"/>Lieb<unclear>e</unclear> bringt<lb break="yes"/>Glück ins<lb break="yes"/>Hause</hi></add></p>
+<p><add place="top">bringe mir Kleider Wäsch, <hi rendition="#i">Cigaren</hi><lb break="yes"/><hi rendition="#i">Geld</hi>, etwas zu essen, Geld und<lb break="yes"/>ein paar Flaschen Wein mit </add></p>
+<p><add place="margin"><hi rendition="#r">um das bittet<lb break="yes"/><hi rendition="#u">Dich
+                            herzlich</hi> d<unclear>ein</unclear><lb break="yes"/>Wilhelm welcher<lb break="yes"/>Dich nochmals tau<hi rendition="#u">sendmal küßt</hi>
+</hi></add></p>
+</body>
+</text>
+</TEI>

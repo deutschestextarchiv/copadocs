@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1703h05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Susanne Klohn</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1703</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franziska <surname>H.</surname></persName>
+<date type="sent">ca1896-1917</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: Karl <surname>S.</surname>, n.a.: Babett <surname>K.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1703h">
+<persName>
+<forename>Franziska</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1917"/>
+<occupation>Bäckermeisterstochter</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Bäckermeister</p>
+<p from="1896" to="1917">Anstalt: 1896-1917</p>
+<p from="1896" to="1917">Brieftypen: pp, po</p>
+</state>
+<trait><p>Imbezillität (1897)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte Brief abschreiben - bittet um Reisegeld, darf alleine nicht fahren, Bruder soll sie abholen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1703h05a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb1703h05b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>
+Die Adresse von Herrn Karl<lb break="yes"/><surname>S.</surname> heißt An Herrn Karl<lb break="yes"/><surname>S.</surname> Wechselwärter in Augsburg<lb break="yes"/>Annastraße 245</p>
+<milestone rendition="#hr" unit="section"/>
+<p>Liebe Frau Babett <surname>K.</surname><lb break="yes"/>ich bitte Ihnen schreiben Sie<lb break="yes"/>mir dieses Brieflein mit<lb break="yes"/>Tinte und Feder ab in<lb break="yes"/>das andere Briefböglein<lb break="yes"/>wie ich Ihnen so
+                    aufgesetzt<lb break="yes"/>habe wie Sie schreiben<lb break="yes"/>dan sage ich
+                Ihnen Vergelts<lb break="yes"/>Vergeltsgott dafür für<lb break="yes"/>Brieflein
+                schreiben <seg ana="#cens">mit<lb break="yes"/>Herr Oberarzt kan ich nicht so<lb break="yes"/>viel machen mit Briefe schreiben<lb break="yes"/>um die
+                    Erlaubnis weil Herr<lb break="yes"/>Oberarzt so sparsam ist </seg>
+<pb facs="#image_012"/> Und von Irsee bis nach Augsburg<lb break="yes"/>bittet die
+                Franziska <surname>H.</surname> um<lb break="yes"/>paar Mark zum Reisegeld
+                    dan<lb break="yes"/>thut die Franziska <surname>H.</surname> ihrem<lb break="yes"/>Vater Vergelts<del>s</del> Vergeltsgott sagen<lb break="yes"/>so
+                viel kan ihr Bruder schon einmal<lb break="yes"/>mich abholen von Irsee nach
+                    Augsburg<lb break="yes"/>wen Sie in Anstalt ist <seg ana="#inst">thäte Herr<lb break="yes"/>Oberarzt doch nicht erlauben wen<lb break="yes"/>die
+                    Franziska <surname>H.</surname> zum Herrn<lb break="yes"/>Oberarzt sagen
+                    thäte Sie möcht<lb break="yes"/>so gerne mit ihrem Herrn Vetter<lb break="yes"/><surname>K.</surname> von Irsee nach Dillingen<lb break="yes"/>fahren und
+                    an ihre Mutter um<lb break="yes"/>zehn Mark zum Reisegeld von Irsee<lb break="yes"/>nach Dillingen wie weiß ob Herr<lb break="yes"/>Oberarzt das
+                    erlauben thäte </seg>eben drum<lb break="yes"/>soll ihr Bruder die Franziska
+                    <surname>H.</surname><lb break="yes"/>selbst abholen so viel kan er schon
+                    thun<lb break="yes"/><seg ana="#salute">viele Grüße an Sie Herr Karl <surname>S.</surname></seg><lb break="yes"/><seg ana="#signed">von ihrer Tochter Franziska <surname>H.</surname></seg>
+</p>
+</body>
+</text>
+</TEI>

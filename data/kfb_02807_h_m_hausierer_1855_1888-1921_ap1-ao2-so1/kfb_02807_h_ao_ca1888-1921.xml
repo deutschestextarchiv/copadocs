@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2807h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2807</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Therese <surname>H.</surname></persName>
+<date type="sent">ca. 1888-1921</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2807h">
+<persName>
+<forename>Gebhard</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1855"/>
+<death when="1921"/>
+<occupation>Hausierer, früher Bäcker</occupation>
+<residence><geo decls="#WGS">47.728436099999996 10.311632859707668</geo>St. Lorenz, Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Maurer und Ökonom</p>
+<p from="1888" to="1921">Anstalt: 1888-1921</p>
+<p from="1888" to="1921">Brieftypen: ap, ao, Schuldschein</p>
+</state>
+<trait><p>"Geistesstörung [...], welche sich Anfangs als Melancholie äußerte, bald aber in Manie überging" (15.03.1888)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="tochter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Tochter bittet um Nachricht bezüglich des Befindens ihres Vaters.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2807h02.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Hochgeehrter Herr Oberarzt.</hi></salute>
+</opener>
+<p><add hand="arzt" place="top"><hi rendition="#i">Rsp</hi>. 31.8.01 mit Brief des
+                    Kranken.<lb break="yes"/><hi rendition="#r">dJ. </hi></add>
+</p>
+<p><space/> Im Vertrauen auf Ihre<lb break="yes"/>Güte, erlaube ich mir eine<lb break="yes"/>Bitte an Sie zu richten<lb break="yes"/>Meine Mutter und ich<lb break="yes"/>möchten so gerne wissen<lb break="yes"/>wie es <add>mit</add> dem
+                Vater geht,<lb break="yes"/>ob sein Befinden sich gebessert<lb break="yes"/>oder
+                verschlechtert hat, und würde<lb break="yes"/>ich Sie deshalb herzlich um<lb break="yes"/>ein par Zeilen bitten um<lb break="yes"/>Nachricht<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Hochachtungsvollst </hi><lb break="yes"/><hi rendition="#r">Ihre ergebene </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Therese <surname>H.</surname> </seg></hi></p>
+</body>
+</text>
+</TEI>

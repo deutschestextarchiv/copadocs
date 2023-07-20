@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2452b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2452</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Carl Graf von <surname>B.</surname></persName>
+<date type="sent">22.10.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: n.a. <surname>n.</surname></persName>
+<settlement type="sent">bei Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2452b">
+<persName>
+<forename>Carl Graf von</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1814"/>
+<death when="1855"/>
+<occupation>pens. Hauptmann</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p from="" to="">Familienstand: n.a.</p>
+<p from="1853" to="1855">Anstalt: 1853-55</p>
+<p from="1853" to="1855">Brieftypen: pp, po</p>
+</state>
+<trait><p>Manie (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    vermisst seine Frau und seine Kinder, ist sehr unglücklich; ihm wurde alles genommen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2452b03a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb2452b03b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r">1/2 Stunde von <hi rendition="#i">Kaufbeuren</hi> d. 22 X 53<lb break="yes"/>in der Heilanstallt für Gemüthkran<lb break="no"/>ke</hi></dateline>
+<salute>Liebste beste</salute>
+</opener>
+<p> sehne unbeschreiblich auf<lb break="yes"/>unser Wiedersehen, und das der Kinder;<lb break="yes"/>und kann nicht begreifen, daß du nicht<lb break="yes"/>dasselbe
+                hast: "Ich Dir nicht zumuthen.<lb break="yes"/>die Kinder zu verlassen; aber Du
+                    könntest<lb break="yes"/><hi rendition="#i">Max</hi> sogleich durch um <add place="above">2 Uhr</add> hier
+                denn Er war<lb break="yes"/><unclear>soundel</unclear> mich zu bringen unter dem Vorwande,<lb break="yes"/>Wir
+                wären Beyde zu Tische gelahden, und<lb break="yes"/>sollten hier übernachten
+                − Er hat hier gegessen,<lb break="yes"/>und dann noch <hi rendition="#i">Men̄ungen</hi> abgereißt. Und<lb break="yes"/>heute vonhier muß in <hi rendition="#i">Kaufbeuern</hi> einen, u<lb break="yes"/>längstens um 2 Uhr hier
+                    <unclear>entressen</unclear>, u. seinen<lb break="yes"/>Freund Director <hi rendition="#i">Haller</hi> und Herr Docktor<lb break="yes"/>vermögen mich in
+				    Freyheit zu setzen; denn<lb break="yes"/>ich hier denn ich bin hier der
+                    unglückliste<lb break="yes"/>Mensche, der je gebohren wurde − Manchen<lb break="yes"/><hi rendition="#r">vert</hi>, 
+				    
+				    <pb facs="#image_006"/> hat mir Alles genommen meine
+                Uhr, mein bischen<lb break="yes"/>Geld, <w>von</w><w>meiner</w> Rassiermesser, meine goldne Nadel,<lb break="yes"/>schmutzig wie ich muß jetz zu Tische gehen und<lb break="yes"/>vorher ein lauwarmes Bad nehmen. Ich hoffe,<lb break="yes"/>daß <hi rendition="#i">Max</hi> nicht zögert mir längst 2 Uhr hier<lb break="yes"/>abhohlen, dann
+                will meines Lebens<lb break="yes"/>viel Bewegung machen<lb break="yes"/><hi rendition="#r"><seg ana="#signed">Dein treuliebender jetz unglücklicher<lb break="yes"/><hi rendition="#i">Carl</hi>.</seg></hi>
+</p>
+</body>
+</text>
+</TEI>

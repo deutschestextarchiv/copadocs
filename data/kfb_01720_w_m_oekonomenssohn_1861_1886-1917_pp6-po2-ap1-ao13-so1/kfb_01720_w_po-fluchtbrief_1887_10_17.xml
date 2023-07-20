@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1720w09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1720</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>W.</surname></persName>
+<date type="sent">17.10.1887</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Roßhaupten</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1720w">
+<persName>
+<forename>Georg</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1917"/>
+<occupation>Ökonomenssohn</occupation>
+<residence><geo decls="#WGS">47.5991939 10.711254276584267</geo>Roßhaupten, Füssen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonom</p>
+<p from="1886" to="1917">Anstalt: 1886-1917</p>
+<p from="1886" to="1917">Brieftypen: pp, po, ap, ao, Notizen</p>
+</state>
+<trait><p>Depression, Halluzination (1888), Manie, Größenideen (1886)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient schreibt aus seinem Heimatort an den Arzt, dass er sich nach einem Gespräch mit ihm sehnt, dass aber wegen der Entfernung ein Brief genügen muss.
+                    Er beschreibt seinen Befinden als schwankend und klagt über unregelmäßigen Schlaf und Kopfschmerzen. Er berichtet, dass er von einem Gerichtsarzt als 'geistesgestört (jedoch im leichten Grad)' eingestuft worden ist.
+                    Er lädt den Arzt ein, ihn zu besuchen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1720w09.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_018"/>
+<opener>
+<dateline><hi rendition="#r">Roßhaupten den 17. Oktober 1887</hi></dateline>
+<salute><hi rendition="#c">Werther Hr. D<hi rendition="#sup">r</hi></hi></salute>
+</opener>
+<p> Nach langer Abwesenheit sehne<lb break="yes"/>ich mich wider, mit Euch mün<lb break="no"/>dlich zu reden, Da aber dies<lb break="yes"/>wegen zu weiter Enfernung<lb break="yes"/>nicht sein kan̄, so genügt auch<lb break="yes"/>ein Brief.
+                Das Befinden ist seit<lb break="no"/>her sehr schwankend gewesen.<lb break="yes"/>Ich wurde vom Gerichtsarzt in<lb break="yes"/>Füssen wegen Reserveübung<lb break="yes"/>als <seg ana="#med">geistesgestört (jedoch im leichten<lb break="yes"/>Grad)</seg>
+                erklärt Ich hatte manch<lb break="no"/>mal sehr unrägelmäßigen<lb break="yes"/>Schlaf und <seg ana="#med">Kopfweh</seg> <seg ana="#salute">Gruß<lb break="yes"/>von</seg> <seg ana="#signed">Georg <surname>W.</surname></seg>.</p>
+<p> Wen Sie Lust und Lieb haben<lb break="yes"/>kön̄te sie ja einmal nach
+                    Roß<lb break="no"/>haupten kom̄en.</p>
+</body>
+</text>
+</TEI>

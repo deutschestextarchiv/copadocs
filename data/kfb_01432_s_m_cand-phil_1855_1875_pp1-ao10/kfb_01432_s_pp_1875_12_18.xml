@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1432s01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1432</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Theodor <surname>S.</surname></persName>
+<date type="sent">18.12.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: J. u. C. <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1432s">
+<persName>
+<forename>Theodor</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1855"/>
+<death cert="unknown"/>
+<occupation>Cand. Philologie in Erlangen</occupation>
+<residence><geo decls="#WGS">48.774956 10.5767002</geo>Mönchsdeggingen, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Doktor</p>
+<p from="1875" to="1875">Anstalt: 1875</p>
+<p from="1875" to="1875">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Moralischer Irrsinn</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient deutet an, dass ein weiterer Aufenthalt nach 7 Monaten in der Anstalt unnötig sei. 
+                    Zudem möchte er aufgrund sich kürzlich ereigneter Vorfälle die Anstalt verlassen. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1432s01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1432s01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb1432s01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Irsee d. 18/<hi rendition="#sub">XII</hi> 75.</hi></dateline>
+<salute><hi rendition="#c">Liebe Eltern!</hi></salute>
+</opener>
+<p>Eine schlaflos durchwachte Nacht<lb break="yes"/>liegt hinter mir, da ich die<lb break="yes"/>Feder ergreife, Euch eine Bitte<lb break="yes"/>vorzutragen.
+                Ich bin nun<lb break="yes"/>schon 7 Monate in der Anstalt<lb break="yes"/>und
+                glaube, daß, wenn ich jetzt<lb break="yes"/>nicht geheilt bin, Ihr mich lieber<lb break="yes"/>für mein ganzes Leben ein<lb break="no"/>pfründen könnt. Aber
+                abgesehen,<lb break="yes"/>davon, sind mir in der letzten<lb break="yes"/>Zeit
+                        Unan<del><unclear>h</unclear></del>nehmlichkeiten<lb break="yes"/>und
+                Kränkungen − ich will <pb facs="#image_002"/>ununtersucht lassen, ob ich
+                    <del>se</del><lb break="yes"/>selbst die Schuld trage oder<lb break="yes"/>nicht −
+                widerfahren, daß sich<lb break="yes"/>in <del><unclear>i</unclear></del>mir lebhaft
+                der Wunsch regt,<lb break="yes"/>meinen jetzigen Aufenthalt<lb break="yes"/>gegen
+                einen andern zu ver<lb break="no"/>tauschen. Ihr dürft glauben,<lb break="yes"/>daß
+                es nicht der Impuls eine<unclear>r</unclear><lb break="yes"/>augenblicklichen Laune<del>,</del> ist,<lb break="yes"/>der mir
+                diesen Brief schreiben<lb break="yes"/>läßt, sondern mein wohl<lb break="no"/>erwogener Wille. Die Be<lb break="no"/>merkung dürfte überflüßig<lb break="yes"/>sein daß ich mich zu Hause<lb break="yes"/>in Allem Eurem Willen<lb break="yes"/>und Eueren Anordnungen <pb facs="#image_003"/>fügen werde. </p><p><seg ana="#salute">In der Hoffnung, keine Fehl<lb break="no"/>bitte gethan zu haben, verbleibe<lb break="yes"/>ich<lb break="yes"/><hi rendition="#c">Euer </hi><lb break="yes"/><hi rendition="#r">gehorsamer Sohn </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Theodor</hi>
+<surname><hi rendition="#i">S.</hi></surname></seg>
+</hi>
+</p><p>Fräulein <hi rendition="#i">W</hi>. <surname><hi rendition="#i">L.</hi></surname>
+                kom̄t<lb break="yes"/>auch dieser Tage von hier fort. </p>
+</body>
+</text>
+</TEI>

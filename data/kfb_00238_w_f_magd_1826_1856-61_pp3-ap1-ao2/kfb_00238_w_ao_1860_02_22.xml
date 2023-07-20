@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb238w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>238</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Rosina <surname>W.</surname></persName>
+<date type="sent">22.02.1860</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor:  <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb238w">
+<persName>
+<forename>Johanna</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1861"/>
+<occupation>Magd</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Hebamme, vermögenslos</p>
+<p from="1856" to="1861">Anstalt: 1856-1861</p>
+<p from="1856" to="1861">Brieftypen: pp,ap,ao</p>
+</state>
+<trait><p>Seelenstörung mit [?]vorwiegender Melancholy (Bericht 1856)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwester"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schwester der Patientin bittet den Direktor der Anstalt um Auskunft über den Verbleib ihres letzten Pakets 
+                    sowie den Krankheitszustand ihrer Schwester und fordert ihn auf, ihr mitzuteilen, falls ihre Schwester etwas braucht.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb238w04a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb238w04b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb238w04c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg den 22<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Fb 60.</hi></dateline>
+<salute>Verehrtester Herr Direcktor!</salute>
+</opener>
+<p>Verzeihen Sie daß ich so frei bin u Sie mit eineim<lb break="yes"/>Briefe
+                belästige; aber ich kan̄ die Ungewißheit<lb break="yes"/>wie es meiner guten
+                Schwester geht, schier nicht<lb break="yes"/>mehr ertragen, nähmlich der
+                Johan̄a <surname>W.</surname><lb break="yes"/>es ist bereits ein ½ Jahr, daß ich keinen Brief<lb break="yes"/>mehr erhalten habe, in den letzten Brief den ich<lb break="yes"/>abschickte waren 5 fl ein<del>e</del> Schürzchen u ein Rosa<lb break="no"/>band
+                beigelegt, ich weiß nicht haben Sie es erhalten<lb break="yes"/>oder nicht, ich
+                schrieb auch in dem Brief wen̄ ich<lb break="yes"/>für meine Schwester
+                irgend etwas beitragen<lb break="yes"/>kan̄, nähmlich täglich etwas Ost oder
+                Bier oder<lb break="yes"/>wen̄ sie spazieren gehen, daß sie auch wie<lb break="yes"/>die Andern sich etwas kaufen kan, oder wen̄<lb break="yes"/>sie sonst einen Wunsch hat, ich spare es mir<lb break="yes"/>herzlich gerne ab,
+                wenn ich nur ihr in etwas<lb break="yes"/>Freude machen kan̄; Sie es mir nur
+                    <pb facs="#image_002"/>schreiben dürften, u ich wen es nur irgend<lb break="yes"/>möglich ist, es Jhnen so bald es nur sein kan̄<lb break="yes"/>zuschicke. Werthester H. Direktor ich bitte<lb break="yes"/>Sie
+                daher herzlich mir doch in Bälde über den<lb break="yes"/>Krankheitszustand meiner
+                armen Schwester<lb break="yes"/>etwas zu berichten u. im Falle sie was braucht<lb break="yes"/>mir zu schreiben.</p>
+<p>
+<seg ana="#salute">Jn der guten Hoffnung keine Fehlbitte<lb break="yes"/>gethan zu
+                    haben grüßt Sie mit Achtung. </seg>
+</p>
+<p><seg ana="#salute">Bitte grüßen Sie meine Schwester.<lb break="yes"/>herzlich
+                </seg>und wen̄ es ihr möglich<lb break="yes"/>möchte sie mich doch mit ein<lb break="yes"/>paar Zeilen erfreuen.</p>
+<p><hi rendition="#r">R. <surname>W.</surname><lb break="yes"/>Ladnerin bei<lb break="yes"/>H. Jakob Glasermeister<lb break="yes"/>in Augsburg.</hi></p>
+<pb facs="#image_003"/>
+<p><hi rendition="#c">Seiner hochwohlgeborn<lb break="yes"/><hi rendition="#i">Herrn Director</hi><lb break="yes"/>der <hi rendition="#i"><w>Kreis Irren Anstalt</w>
+</hi><lb break="yes"/>in</hi><lb break="yes"/><hi rendition="#u">franco</hi>
+<hi rendition="#r"><hi rendition="#i">Irsee</hi>.<lb break="yes"/>bei <hi rendition="#i">Kaufbeuern</hi>.</hi>
+</p>
+</body>
+</text>
+</TEI>

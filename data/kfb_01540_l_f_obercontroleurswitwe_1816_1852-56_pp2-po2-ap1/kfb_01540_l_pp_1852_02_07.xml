@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1540l05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1540</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Therese <surname>L.</surname></persName>
+<date type="sent">07.02.1852</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Neuhaus</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1540l">
+<persName>
+<forename>Therese</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1816"/>
+<death when="1856"/>
+<occupation>Obercontroleurswitwe</occupation>
+<residence><geo decls="#WGS">48.5536542 13.43816040895666</geo>Schärding, Passau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1852" to="1856">Anstalt: 1852-56</p>
+<p from="1852" to="1856">Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>Geisteszerrüttung, Manie (1852)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will zu Vater zurückkehren, wünscht sich, dass sich ihr Mann ihrer annimmt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1540l05a.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb1540l05b.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb1540l05c.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><hi rendition="#r">Neuhaus den 7<hi rendition="#sup">ten</hi> Feb 1852.</hi></dateline>
+<salute><hi rendition="#c">Theuerster <add>Herr</add> Vater!</hi></salute>
+</opener>
+<p>
+Die Irrungen die uns früher<lb break="yes"/>enzweyten dauern fort und<lb break="yes"/>ich wünsche von Grund mein<lb break="no"/>es Herzens daß ich von hier<lb break="yes"/>erlößt werde so oder so − − −<lb break="yes"/>wären Sie hier, so wären Sie<lb break="yes"/>gewiß derselben Ansicht,<lb break="yes"/>kurz mein Man̄ erlaubt<lb break="yes"/>mir zu Ihnen zurück kehren
+
+<pb facs="#image_016"/>
+zu dürfen und ich bin der<lb break="no"/>selben Meinung wie er<lb break="yes"/>auf Ehr. − − − − − </p>
+<p>In der Hoffnung daß sich<lb break="yes"/>Der meiner an nim̄t<lb break="yes"/>von Dem ich mich gesegnet<lb break="yes"/>fühle und man auch Ihm<lb break="yes"/>daß Recht läßt über mich<lb break="yes"/>arme Maus gebiethen zu<lb break="yes"/>dürfen verharre.<lb break="yes"/><hi rendition="#c">Ich
+    
+<pb facs="#image_017"/>
+in tiefster Ehrfurcht<lb break="yes"/>Ihre</hi></p>
+<p><seg ana="#signed"><hi rendition="#r">Sie herzlich liebende<lb break="yes"/>Tochter Theres.</hi></seg></p>
+<p><hi rendition="#r">Ich bleib stets stum̄<lb break="yes"/>auf Ehr man fragt</hi><lb break="yes"/>ist es wahr auf <hi rendition="#u">Ehr</hi> man<lb break="yes"/>braucht nicht mehr. −
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2902j03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2902</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>J.</surname></persName>
+<date type="sent">ca1905-25</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Wachtmeister: n.a.<surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2902j">
+<persName>
+<forename>Maria</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1863"/>
+<death when="1925"/>
+<occupation>Privatiere</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Zimmermann</p>
+<p from="1905" to="1925">Anstalt: 1905-25</p>
+<p from="1905" to="1925">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>"Hallucinatorische Verrücktheit, Wahnideen" (1905)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Besuchte den Adressaten, um eine Frau und einen Herrn W. wegen Mordes verhaften zu lassen. Stattdessen kam die Patientin 
+                    jedoch nach Kaufbeuren. Nun bittet Sie den Wachtmeister, sie von dort abzuholen und zurück nach Kempten zu bringen. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2902j03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb2902j03b.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline/>
+<salute>Hochgeehrtester Herr Wachtmeister!</salute>
+</opener>
+<p><space/> Entschuldigen sehr Herr<lb break="yes"/>Wachtmeister, daß ich Sie
+                    geehr<lb break="no"/>tester Herr Wachtmeister mit<lb break="yes"/>diesem
+                    Schreiben belästige.</p><p>Ich war bei Ihnen auf Ihrem<lb break="yes"/>(Beureau) Zim̄er) im Rathhause<lb break="yes"/>u. ersuchte Sie geehrtester<lb break="yes"/>Herr Wachtmeister Frau
+                        <surname>W.</surname> u. Herrn
+                    <surname>W.</surname> zu verhaften,<lb break="yes"/>wegen Mord. Man wird
+                noch <hi rendition="#u">ge</hi><lb break="no"/><hi rendition="#u">wartet</hi>
+                haben u. <hi rendition="#u">deshalb</hi> bin<lb break="yes"/>ich in Kaufbeuren.
+                Wen̄ ich<lb break="yes"/>nur wieder in Kempten wäre <pb facs="#image_007"/>dan̄ wäre mir <hi rendition="#u">geholfen</hi>, dan̄ hätte<lb break="yes"/><hi rendition="#u">ich es gut</hi>. Sie sind geehrtester Herr<lb break="yes"/>Wachtmeister zu mir in das Haus<lb break="yes"/>gekom̄en u.
+                haben mir die 5<hi rendition="#i">M</hi>.<lb break="yes"/>gebracht. Wen̄ Sie
+                mich nur<lb break="yes"/>wieder nach Kempten thun wür<lb break="no"/>den,
+                dan̄ würde ich nichts <hi rendition="#u">mehr ver</hi><lb break="no"/><hi rendition="#u">langen</hi>. Ich ersuche Sie <hi rendition="#u">inständig</hi>,<lb break="yes"/>gleich, wen̄ Sie Herr Wachtmeister<lb break="yes"/>diesen Brief erhalten haben, mich<lb break="yes"/>zu holen,
+                    <del><unclear/>a</del>daß ich wieder in<lb break="yes"/>Kempten bin;
+                wen̄ Sie Herr Wacht<lb break="no"/>meister nicht gerne allein kom̄en<lb break="yes"/>wollen, dan̄ noch einen Schutzman̄<lb break="yes"/>(Polizeidiener) mitnehmen.</p><p><seg ana="#salute">Nun will ich schließen, ich verblei<lb break="no"/>be unter größter Dankbarkeit<lb break="yes"/></seg><hi rendition="#r"><seg ana="#signed">Marie <surname>I.</surname>.<lb break="yes"/></seg>Privatiere.</hi></p><p>z.Z. Heil u. Pflegeanstalt<lb break="yes"/><space/> Kaufbeuren.</p>
+</body>
+</text>
+</TEI>

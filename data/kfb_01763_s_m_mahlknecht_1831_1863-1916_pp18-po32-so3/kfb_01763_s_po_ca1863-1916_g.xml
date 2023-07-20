@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1763s25" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1763</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>S.</surname></persName>
+<date type="sent">ca.1863-1916</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1763s">
+<persName>
+<forename>Georg</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1831"/>
+<death when="1916"/>
+<occupation>Mahlknecht</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonomen</p>
+<p from="1863" to="1916">Anstalt: 1863-1916</p>
+<p from="1863" to="1916">Brieftypen: pp, po </p>
+</state>
+<trait><p>Hypochondrie, (folie raisonnante)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Traubenkauf
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1763s25a.jpg" xml:id="image_180"/>
+<graphic mimeType="image/jpg" url="kfb1763s25b.jpg" xml:id="image_181"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_180"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p> Wen̄ Sie von der Heiligeistkirche über den<lb break="yes"/>Obstmarkt gehen, u. an der
+                linken Seite in<lb break="yes"/>die Schran̄enhalle, da war eine
+                    Obsthandle<lb break="no"/>rin mit Namen, <surname>S.</surname>, da fragen Sie
+                    daß<lb break="yes"/>ich einen Korb Weintrauben gekauft hab,<lb break="yes"/>u.
+                ich möchte wieder einen, aber die<lb break="yes"/>schönsten blauen Trauben. Ein
+                    Korb<lb break="yes"/>wiegt 10 bis 12 Pfund, u. sind viel<lb break="yes"/>billiger als auf dem Mark, da <pb facs="#image_181"/> Pfundweiß verkauft wird, für
+                    den<lb break="yes"/>Korb muß man̄ 30 Pfenig einlegen bis<lb break="yes"/>man̄ den Korb wieder bringt, wozu<lb break="yes"/>man̄ einen
+                Zettel bekom̄t. Das Gewicht<lb break="yes"/>vom Korb wird nicht bezahlt,
+                blos die<lb break="yes"/>T<add>r</add>auben. Zuviel sind sie nicht, in der An<lb break="no"/>stalt gibt es noch Mitkäufer, da in Kauf<lb break="no"/>beuren die
+                Trauben viel teurer sind.<lb break="yes"/>Erkundigen Sie Sich was die Trauben in<lb break="yes"/>Augsburg kosten. Georg <surname>S.</surname>. </p>
+</body>
+</text>
+</TEI>

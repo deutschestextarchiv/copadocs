@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2038w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2038 (K. 720)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>W.</surname></persName>
+<date type="sent">21.11.1907</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster i. W.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mun2038w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1882-02-27"/>
+<death cert="unknown"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">51.71895955 8.764869778177559</geo>Geburtsort: Paderborn; Wohnort: Paderborn</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: n.a.; Mutter: Hausfrau</p>
+<p from="1907-04-04" to="1912-08-06">Anstalt: 04.04.1907-06.08.1912</p>
+<p from="1907-04-04" to="1912-08-06">Brieftypen: po, pp</p>
+</state>
+<trait><p>einfache Seelenstörung (1907)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie bittet, wieder aus der Anstalt fort zu dürfen. Es ging ihr in letzter Zeit nicht gut und sie leidet dort. Lieber möchte sie in eine andere Anstalt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2038w04a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="mun2038w04b.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="mun2038w04c.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt. <hi rendition="#r">Münster i. W., den</hi></add> <hi rendition="#c">21.11. <add hand="vordruck">190</add>7.</hi></dateline><salute><hi rendition="#c">Lieber Vater u. liebe Mutter!</hi></salute>
+</opener>
+<p><add hand="hand2">G 22/<hi rendition="#sub">11</hi>
+<hi rendition="#sup">0</hi>7<lb break="yes"/>ad acta Frl. <surname><hi rendition="#i">W.</hi></surname><lb break="yes"/>G</add></p><p> Da ich nun schon über sieben Monate hier<lb break="yes"/>bin und in der langen Zeit sehr viel
+                habe<lb break="yes"/>ertragen müssen so möchte ich Euch bitten<lb break="yes"/>mich gleich nach Empfang dieses Briefes abzuholen.<lb break="yes"/>Hoffentlich
+                geht es Euch recht gut. Mir hat es in<lb break="yes"/>letzter Zeit besonders
+                schlecht gegangen. Oft bin<lb break="yes"/>ich ganz unglücklich über solch einen
+                Zustand.<lb break="yes"/>Wie es mir hier geht kann ich Euch so nicht gut<lb break="yes"/>mitteilen. Das Leben für mich ist hier so schwer<lb break="yes"/>Ihr macht Euch keinen Begriff davon. Lange <pb facs="#image_013"/>Zeit habe ich es
+                nun schon ziemlich geduldig getragen<lb break="yes"/>aber ich kann es jetzt
+                wirklich nicht mehr. Einmal<lb break="yes"/>habe ich jetzt gebeichtet hier in der
+                langen Zeit. Ich<lb break="yes"/>war da auch nicht wieder danach verlangen so lange<lb break="yes"/>ich hier bin. Wenn ich zu Hause bin kann ich Euch<lb break="yes"/>liebe Eltern ja manches von mir erzählen schreiben<lb break="yes"/>kann ich es so nicht gut. Das ich gut wieder fertig<lb break="yes"/>werde wißt
+                Ihr ja wohl sonst konnt Ihr mich ja<lb break="yes"/>lieber im nächsten Jahr nach
+                    <hi rendition="#i">Driburg</hi> schicken<lb break="yes"/>das thut mir jedenfalls
+                besser gut als hier.<lb break="yes"/>Ich habe hier so viel zu ertragen deshalb
+                bitte<lb break="yes"/>ich auch mich doch gleich zu holen. Bitte laßt<lb break="yes"/>mich doch nicht mehr die 5 Wochen hier. Die Blusen<lb break="yes"/>sind bei der Näherin Besten Dank für das Paket <seg ana="#salute">Ich schließe in
+                    der Hoffnung daß Ihr liebe Eltern <pb facs="#image_014"/>mich gleich holt. Mit
+                    vielen herzlichen Grüßen<lb break="yes"/>an meine Geschwister und besonders
+                    grüßt Euch in<lb break="yes"/>Liebe</seg> Eure<lb break="yes"/><hi rendition="#c">dankbare Tochter<lb break="yes"/><seg ana="#signed">Maria</seg>.</hi></p>
+</body>
+</text>
+</TEI>

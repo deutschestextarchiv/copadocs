@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb560b06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>560</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>B.</surname></persName>
+<date type="sent">03.07.1854</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Prinz: Karl zu Bayern</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb560b">
+<persName>
+<forename>Georg</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1820"/>
+<death when="1873"/>
+<occupation>Bierbrauerssohn</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>n.a.</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Bierbrauer</p>
+<p from="1854" to="1873">Anstalt: 1854-1873</p>
+<p from="1854" to="1873">Brieftypen: pp, po, ao </p>
+</state>
+<trait>
+<p>Wahnvorstellungen (1854)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient bittet den Prinzen von Bayern, ihn an dessen Geburtstagsfeier zum Kaiser von Brasilien zu erheben. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb560b06a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="kfb560b06b.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline>Irrsee bey Kaufbeuren den 3<hi rendition="#sup">ten</hi> July
+                    1854.</dateline>
+<salute>Seine Königl. Hoheit Prinz Karl v. Baiern!</salute>
+</opener>
+<p>Seine königl. Hoheit! Entschuldigen Sie mir gütigst<lb break="yes"/>nun wieder
+                in schriftlichen Worten an Ihnen zu<lb break="yes"/>wenden.<lb break="yes"/>Groß
+                ist die Wichtigkeit der Feier des Geburts<lb break="no"/>festes, diese Wichtigkeit
+                ermahnt mich an Ihnen am<lb break="yes"/>siebenden d. M. July meine Wünsche nieder
+                zuschreiben<lb break="yes"/><del>G</del> Seine Königl. Hoheit! Gott gebe, das Sie in guter<lb break="yes"/>Gesundheit, und in der Erfüllung, aller Ihrer Selbst<lb break="no"/>verwünschungen,
+                noch vieler Jahre erleben.<lb break="yes"/>Seine königl. Hoheit! Schließlich bitte
+                ich Sie mir<lb break="yes"/>meine Erkenug Erhebung als "Seine Kaiser
+                    <unclear>Hoheit</unclear><lb break="yes"/>mir zu geben, in dem Sie auch Beweißen könen<lb break="yes"/>das
+                ich auserehlicher Sohn bin "Kaißerl: Majestäten"<lb break="yes"/>(China)(Braßielien Türkey") ich bitte mir dieses, an Ihrer<lb break="yes"/>Feier,
+                des diesjährigen Geburtsfestes, dan ist mir<lb break="yes"/>dieser Tag ein
+                unvergeßliches Fest und<lb break="yes"/>Andenkungstag. Groß Sultan
+                    <surname>B.</surname> Georg (Reglo)<lb break="yes"/><hi rendition="#r">(Seine Kaiserliche Hoheit<lb break="yes"/>Prinz Georg)</hi><lb break="yes"/><space/> <hi rendition="#i"><surname>B.</surname> Georg</hi> zu Braßilien gebürtig
+                aus Türkey.<lb break="yes"/><hi rendition="#r">in der Irren u <unclear>Nerf</unclear>anstalt<lb break="yes"/>In
+                        Irr<hi rendition="#u">see bey </hi>Kaufbeuren</hi></p>
+<pb facs="#image_014"/>
+<p><add place="margin">Wasche für</add></p>
+</body>
+</text>
+</TEI>

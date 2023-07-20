@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2266s02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2266</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>S.</surname></persName>
+<date type="sent">wahrscheinlich 26.10.1917 (s. Eintrag Krankengeschichte)</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2266s">
+<persName>
+<forename>Josef</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1874"/>
+<death when="1919"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Schmiedmeisterseheleute</p>
+<p from="1917" to="1919">Anstalt: 1917-1919</p>
+<p from="1917" to="1919">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Progressive Paralyse (1917)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Lebenslauf</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber berichtet von seinen verschiedenen beruflichen Stationen undseiner Scheidung und erneutetn Heirat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2266s02.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p> Ich bin am 1. Januar 1874 geboren, habe 10 Jarhre die Schulle besucht<lb break="yes"/>mit Note I. Ich lernte daß Schmidhandwerk bei meinen Vater<lb break="yes"/>wärhend der zeit. Ich ging dan in den Steinbruch Blauberg<lb break="yes"/>bis ich zum Militär muste. Ein Jahr wahr ich ausgerükt<lb break="yes"/>dan andern Jahr war ich Büchsenmachergehilfe. dan bin ich auf
+                    die<lb break="yes"/>Eisenbahn gegangen und hab einen <hi rendition="#u" style="arzt">Lokotivheizer</hi> 17 Jahre.<lb break="yes"/>daß ist mir
+                    <w>zu</w><w>thum</w> weil man wen̄ig verdient hat. dan bin<lb break="yes"/>ich nach Augsburg in Maschinenfabrik, wo ich meine Frau und<lb break="yes"/>und
+                meine älteste Tochter schön verdienen. Meine anderen<lb break="yes"/>5 Kinder sind
+                bei den Bauer <surname>S.</surname> Atiesried 2<lb break="yes"/><unclear>Erjus</unclear>hausen 2. <hi rendition="#u" style="arzt">Ich bin
+                    von mei</hi>ner <hi rendition="#u" style="arzt">Frau geschieden</hi> weil<lb break="yes"/>von einem andern ein Kind hat. ich ha<hi rendition="#u" style="arzt">be aber jetzt wieder<lb break="yes"/>geheiratet. Ich bin</hi> jezt
+                im Krankenhaus Kaufbeuern<lb break="yes"/><hi rendition="#c"><surname>S.</surname> Josef<lb break="yes"/>Kirchberg<add>s</add>traße 2 II<lb break="yes"/>Augsburg 8</hi></p>
+</body>
+</text>
+</TEI>

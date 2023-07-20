@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2409a09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2409</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sebastian <surname>A.</surname></persName>
+<date type="sent">ca1855-57</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Redacteur</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2409a">
+<persName>
+<forename>Sebastian</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1806"/>
+<death when="1857"/>
+<occupation>Apotheker</occupation>
+<residence><geo decls="#WGS">49.6365854 8.165345</geo>Wachenheim bei Durkheim in der Pfalz</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Kaufmann</p>
+<p from="1855" to="1857">Anstalt: 1855-57</p>
+<p from="1855" to="1857">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Säuferwahnsinn, Delirium [tremens] (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er beschreibt, wie er in die Anstalt gekommen ist und bittet um Hilfe
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2409a09a.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="kfb2409a09b.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_028"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#r">Geehrter Herr <hi rendition="#i">Redacteur.</hi></hi></salute>
+</opener>
+<p>3 Ursachen bestim̄en mich<lb break="yes"/>Ihre Hülfe in Anspruch zu
+                    neh<unclear>men</unclear><lb break="yes"/>Ich war in Gleisweiler 6 Wochen<lb break="yes"/>warum weiß ich
+                nicht, auf<lb break="yes"/>Anrathen <hi rendition="#i">Dr. Scheider</hi> sollte <seg ana="#curse">mein<lb break="yes"/>elende Kreatur</seg>, gegen die der<lb break="yes"/>Seidungs-Prozess
+                unwiederruflich<lb break="yes"/>eingeleitet ist, eine Reise mit<lb break="yes"/>mir u. dem <seg ana="#curse">lumpigen hirn<lb break="no"/>losen Schulmeister</seg> machen.<lb break="yes"/>Man sagte man wolle erst noch<lb break="yes"/>2 Hengste Schim̄el u. die
+                    <unclear>Apothe</unclear><lb break="yes"/>in der <hi rendition="#i">franc.</hi> Schweiz kaufen.<lb break="yes"/>Alles erlogen man führte<lb break="yes"/>mich ins Narrenhaus.<lb break="yes"/>Dort muß ich Arbeiten<lb break="yes"/>unter meinem Stande<lb break="yes"/>verrichten, u. bemit<lb break="no"/>leide die armen<lb break="yes"/><unclear reason="rubbing"/>gten welche irrend<lb break="yes"/>herumgehen. Sie
+                sind <pb facs="#image_029"/>so willig wie das liebe Vieh<lb break="yes"/>welches
+                angeschirrt wird.<lb break="yes"/>Meine Apotheke ist zu ver<lb break="no"/>kaufen.
+                Ich rufe <unclear>Schanid</unclear><lb break="yes"/>Schreit diesen Dreyheitman̄.<lb break="yes"/>Ich liebe <hi rendition="#i"><foreign xml:lang="fr">Liberte <unclear>etc</unclear>.<lb break="yes"/>Independet.</foreign></hi> Ich will mein<lb break="yes"/>Blut im Freyheitskampfe<lb break="yes"/>verspritzen als am <unclear>Säg.<lb break="yes"/>Bock.</unclear> Gott helfe mir<lb break="yes"/>ich appelier an
+                die<lb break="yes"/>Gerechtigkeit, habe ich<lb break="yes"/>was verbrochen so
+                stelle<lb break="yes"/>man mich an die Schwur<lb break="no"/>Gerichte ich bin &amp;
+                bleibe<lb break="yes"/>ein treuer tapfrer<lb break="yes"/><hi rendition="#c">Pfalze. </hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><seg ana="#signed"><surname>A.</surname></seg></hi></hi><lb break="yes"/>Ich bitte hr <hi rendition="#i">Redacteur</hi><lb break="yes"/>um Antwort.−<lb break="yes"/>Mein lieber Onkel <surname><hi rendition="#i">A.</hi></surname><lb break="yes"/>Landrichter in Heidingsfeld<lb break="yes"/>bey Würzburg soll
+                meine<lb break="yes"/>Lage ändern.</p>
+</body>
+</text>
+</TEI>

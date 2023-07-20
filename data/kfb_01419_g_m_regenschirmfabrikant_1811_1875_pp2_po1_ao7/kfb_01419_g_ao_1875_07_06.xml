@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1419g05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1419</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Fanny <surname>G.</surname></persName>
+<date type="sent">06.07.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1419g">
+<persName>
+<forename>Sigmund</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1811"/>
+<death cert="unknown"/>
+<occupation>Regenschirmfabrikant, Privatier</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet </p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1875" to="1875">Anstalt: 1875</p>
+<p from="1875" to="1875">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Fixe Ideen (1875)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwester"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet darum, ihren Brief an den Patienten weiterzuleiten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1419g05a.JPG" xml:id="image_005"/>
+<graphic mimeType="image/jpeg" url="kfb1419g05b.JPG" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg</hi> den 6 <hi rendition="#i">Juli </hi>1875.</hi></dateline>
+<salute>Euer Hochwohlgeborn!</salute>
+</opener>
+<p><hi rendition="#r">Wollen mir gütigst die Bitte er<lb break="no"/></hi>lauben,
+                meinem lieben Bruder, <hi rendition="#i">Sigis</hi><lb break="no"/><hi rendition="#i">mund Eduard </hi><surname><hi rendition="#i">G.</hi></surname>, welcher seit<lb break="yes"/>edlichen Wochen als Gemüthskrank<lb break="yes"/>zur Heilung,
+                in der Kreis-Jrren-An<lb break="no"/>stalt zu Jrrsee sich befindet, das bei<lb break="no"/>geschloßene Briefchen, durch Jhre freund<lb break="no"/>liche
+                Gefälligkeit, demselben übermit<lb break="no"/>telen zu dürfen.</p><p>Jndem ich vor Abreise meines Bru <pb break="no" facs="#image_006"/><hi rendition="#r">ders von der
+                    Heimath, nicht mehr Ge<lb break="no"/></hi>legenheit hatte, denselben noch
+                einmal<lb break="yes"/>zu sehen, und sehr beküm̄ert um ihn<lb break="yes"/>bin, wünschte ich gerne ihm nur einen<lb break="yes"/>kleinen Beweis, herzlicher
+                Theilnahme,<lb break="yes"/>und schwesterlicher Liebe geben zu<lb break="yes"/>können. − </p><p>Für diese freundliche Güte, Euer Hoch<lb break="no"/>wohlgeborn meinen in̄igsten Dank, aus<lb break="yes"/>tiefstem Herzen ausdrückend, empfehle<lb break="yes"/>ich
+                meinen lieben Bruder, deren<lb break="yes"/>gütigen Sorgfalt und Wohlgewogenheit<lb break="yes"/>und <seg ana="#salute">geharre mit ausgezeichneter Hoch<lb break="no"/>schätzung<lb break="yes"/><hi rendition="#c">Euer
+                        Hochwohlgeborn<lb break="yes"/></hi><hi rendition="#r">ergebenste<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Fanny </hi><surname><hi rendition="#i">G.</hi></surname></seg>.</hi></p>
+</body>
+</text>
+</TEI>

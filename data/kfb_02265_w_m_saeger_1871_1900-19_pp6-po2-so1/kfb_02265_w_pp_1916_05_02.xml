@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2265w09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2265</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>W.</surname></persName>
+<date type="sent">02.05.1916</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vetter: Josef Anton<surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2265w">
+<persName>
+<forename>Josef</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1871"/>
+<death when="1919"/>
+<occupation>Säger</occupation>
+<residence><geo decls="#WGS">47.5538309 10.0206483</geo>Oberstaufen, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Bruder: Bauschlosser</p>
+<p from="1900" to="1919">Anstalt: 1900-1919</p>
+<p from="1900" to="1919">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Halluzinationen, geistig zurückgeblieben (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Glückwünsche zum Namenstag
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2265w09a.jpg" xml:id="image_023"/>
+<graphic mimeType="image/jpg" url="kfb2265w09b.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_023"/>
+<opener>
+<dateline><hi rendition="#r"><add hand="arzt"><hi rendition="#i">prs.</hi> 2. Mai 16</add></hi><lb break="yes"/><hi rendition="#c">Irse, der 17 März 1916.</hi></dateline>
+<salute><hi rendition="#c">Lieber Vetter!</hi></salute>
+</opener>
+<p>
+Geehrder Herr Fiermbadde. Ich Habe<lb break="yes"/>Soeben Einen Brief Schreiben Begonen,<lb break="yes"/>Indem in der Nechstden Zeid, daß<lb break="yes"/>Namensfest Fon Josefs<del>d</del> Tag Herangeriegkd<lb break="yes"/>habe Begonnen. Zu dem Namens Fesdde<lb break="yes"/>In dem 19 März 1916.<lb break="yes"/>Ich Schreibe Zu Sie deswegen Maienen<lb break="yes"/>Freindliechsden Glingkwunsch Begrüsungen<lb break="yes"/>Zu Saiener Gesundhaied. In. Saiener<lb break="yes"/>Lebensdauer Ermundderndes Wohlbefienden<lb break="yes"/>Ergehen, Des Gliegktgrusses Forkommen<lb break="yes"/>Bekommen Erhaldenner Wohlbefienden<lb break="yes"/>Gesunddes Wielkommen Erlebd Erziehld<lb break="yes"/>Haben.
+
+<pb facs="#image_024"/>
+Maien Befienden Habe. In der Ledzden<lb break="yes"/>Fergangennen Zeid. In der Underkunfd<lb break="no"/>Anstald zu Irse Erlebd Haben Gehen.<lb break="yes"/>Zu der Befragung Neben GeschäfdArbeid<lb break="yes"/>konde Ich Beandword Haben, Ich könne<lb break="yes"/>Sobald als Mögliech Eien Fortkommen<lb break="yes"/>Zu Geschäfdzordnung Arbeid Haben.<lb break="yes"/>Fon der Nauflasung ist mier noch<lb break="yes"/>niecht zu Wiesen Bekommen Auf<lb break="yes"/>Welche ard Ich Mainene Forgeben<lb break="yes"/>zu Neier Arbeid Nausgehen<lb break="yes"/>Konde Forkommen Bekomen Haben.<lb break="yes"/><seg ana="#salute">Nebsd Freindliechem Gruse Habe Ich<lb break="yes"/>daß Schreiben Beschlosen.</seg><lb break="yes"/><seg ana="#signed">der Freind Herr Josef <surname>W.</surname>.</seg><lb break="yes"/>Adresse An Herrn Josef Anton <surname>W.</surname><lb break="yes"/><hi rendition="#r">Briefad Man In Oberstaufen</hi><lb break="yes"/><hi rendition="#c">In dem Alg<del>ä</del>aü<lb break="yes"/>Posd, Oberstaufen:</hi><lb break="yes"/><add><hi rendition="#u">frei</hi></add>
+</p>
+</body>
+</text>
+</TEI>

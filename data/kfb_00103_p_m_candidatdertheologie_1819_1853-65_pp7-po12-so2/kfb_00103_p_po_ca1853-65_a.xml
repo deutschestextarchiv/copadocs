@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb103p01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>103</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kaspar <surname>P.</surname></persName>
+<date type="sent">ca.1853-65</date>
+<date type="received">n.a.</date>
+<persName type="addressee">: <unclear/></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb103p">
+<persName>
+<forename>Kaspar</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1819"/>
+<death cert="unknown"/>
+<occupation>Candidat der Theologie</occupation>
+<residence><geo decls="#WGS">47.91185173928039 11.592666592515377</geo>Berg, Wolfratshausen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Bauern</p>
+<p from="1853" to="1865">Anstalt: 1853-65</p>
+<p from="1853" to="1865">Brieftypen: po, pp, so, ao</p>
+</state>
+<trait><p>Geistesstörung, Ruhelosigkeit (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient spricht von verschiedenen Erscheinungen am Vorabend, die er immer wieder mittels seiner Willenskraft vertreiben konnte.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb103p01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><unclear>rl. G. G.
+                    West</unclear><unclear/>!</hi></salute>
+</opener>
+<p>1.) Gestern Abends blieb ich ziemlich frei.<lb break="yes"/>2.) Nach dem
+                Schlafenlegen fiel auf mich eine <add place="above">dunkle</add> Association<lb break="yes"/>− wen̄ man lieber will − von Gesichtstäuschung
+                        <del><unclear>reten</unclear></del><lb break="yes"/>mit einem leichten
+                Schlag; das Architritonische und <del>heftige</del><lb break="yes"/>Gestern blitzte durch, − auch die Frau d. H. Oberwärter<lb break="yes"/>viel ein. − der Druck war leicht, die Dauer kurz,<lb break="yes"/>hatte nichts Abscheuliches, und das Ganze kon̄te ich mit
+                    leich<lb break="no"/>ter Mühe meines Willens abwehren; − sie verschwandt.<lb break="yes"/>3.) Kurz darauf <del>fli</del> fiel etwas Schwarzes u.
+                    Un<unclear>rettentes</unclear><lb break="yes"/>auf die Nabelgegend ganz leicht, fuhr auf die Geschlechts<lb break="no"/>organe, ließ sich aber mit leichter Mühe des Willens<lb break="yes"/>entfernen.<lb break="yes"/>4.) Gemüthsaufregungen weckten mich hierauf vom<lb break="yes"/>Schlafe auf; dse ließen sich wieder leicht zur Ruhe<lb break="yes"/>bringen.<lb break="yes"/>5.) Eingenom̄enheit des Kopfes, und drückendes
+                und zehren<lb break="no"/>des Kopfleiden ereilten mich abermals, und das ließ<lb break="yes"/>sich wieder durch leichte <w>Willens thätigkeit</w> heben. −<lb break="yes"/>hierauf bekam ich Ruhe und leichten Schlaf, Schlum̄er,<lb break="yes"/>der sehr wohl that!<lb break="yes"/>6.) In der Frühe auf den
+                Saal kert allmählich<lb break="yes"/>wieder Eingegan<add place="above">gen</add>heit − Eingenom̄enheit ein,<lb break="yes"/>es kam̄
+                mir vor, als läge quasi Jeder wieder<lb break="yes"/>sein Pfund auf mich. −
+                Es ging also gut!<lb break="yes"/>NB., Ich thue nichts weg, und nichts dazu! </p>
+</body>
+</text>
+</TEI>

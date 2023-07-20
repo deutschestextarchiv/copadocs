@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">29.05.1925</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    kann auf seiner Station nicht betten; bittet darum, verlegt zu werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a18a.jpg" xml:id="image_059"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_059"/>
+<opener>
+<dateline><add hand="arzt">vom 23.en 29. V. 25.</add></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr Direktor!</hi></salute>
+</opener>
+<p><space/> Tun Sie bitte mich wieder hinter<lb break="yes"/>auf C 3. Hier kann ich gar
+                nicht mehr<lb break="yes"/>beten, denn hier bin ich immer gestört,<lb break="yes"/>&amp;. werde mit meiner Gebetsunruhe<lb break="yes"/>nur ausgelacht. Das kommt
+                auf C 3<lb break="yes"/>nicht so vor. Hier werde ich viel<lb break="yes"/><hi rendition="#r">aufgeregt,</hi><lb break="yes"/>Tun Sie bitte mich auf C 3 heute noch.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Es grüßt Sie höflichst</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Hans </hi><surname><hi rendition="#i">A.</hi></surname></seg> Krz. 1.</hi><lb break="yes"/>Hier trau ich mir selbst nicht mehr.</p>
+<p><add hand="arzt" place="top">ist tem Arzt vorlegen</add></p>
+</body>
+</text>
+</TEI>

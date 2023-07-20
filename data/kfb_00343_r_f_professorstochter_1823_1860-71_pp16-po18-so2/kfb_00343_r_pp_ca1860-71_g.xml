@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb343r30" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>343</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>R.</surname></persName>
+<date type="sent">ca1860-71</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Cousine: Marie von <surname>E.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb343r">
+<persName>
+<forename>Johanna</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1871"/>
+<occupation>Professorstochter</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Professor</p>
+<p from="1860" to="1871">Anstalt: 1860-71</p>
+<p from="1860" to="1871">Brieftypen: pp, po</p>
+</state>
+<trait><p>Fixer Wahnsinn (1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Kleidungsstücke, die ihre Cousine entbehren kann
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb343r30a.jpg" xml:id="image_102"/>
+<graphic mimeType="image/jpg" url="kfb343r30b.jpg" xml:id="image_103"/>
+<graphic mimeType="image/jpg" url="kfb343r30c.jpg" xml:id="image_104"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_102"/>
+<opener>
+<dateline/>
+<salute>Liebe <hi rendition="#i">Cousine</hi>!</salute>
+</opener>
+<p>Sollte es Dir möglich seyn<lb break="yes"/>so schenke mir ein Paar färbige Ärmel<lb break="yes"/>die ich <hi rendition="#u">nothwendig</hi> brauche, wollene
+                    Über<lb break="no"/>zieher oder Stutzen über die Strümpfe,<lb break="yes"/>welche Du statt Gamaschen trägst; es<lb break="yes"/>wäre sehr gut; wen̄
+                meine häßlichen,<lb break="yes"/>alten Strümpfe bedeckt wären, auch<lb break="yes"/>muß ich die Füße im̄er sehr warm<lb break="yes"/>halten; ein
+                Som̄ercravatchen würde<lb break="yes"/>mich auch sehr freuen, da ich auch im<lb break="yes"/>Som̄er gerne etwas um den Hals<lb break="yes"/>habe.
+                Solltest Du einen abgelegten<lb break="yes"/>Kopfputz, einen entbehrlichen Gürtel<lb break="yes"/>und ein Paar Manschetten für mich<lb break="yes"/>finden, so
+                lege sie gütigst bei.<lb break="yes"/>Zürne mir nicht, daß ich mich mit<lb break="yes"/>diesen Bitten an Dich wende;! empfehle<lb break="yes"/>mich Deinem
+                verehrten Gemahl und<lb break="yes"/>der lieben, guten Menti. Grüße auch <pb facs="#image_103"/>Deine Schwester Bätge von mir freund<lb break="no"/>lichst.
+                Die <surname>O.</surname> Julie soll recht<lb break="yes"/>beten für mich.
+                    <seg ana="#salute">Hochachtungsvollst</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#c">Deine </hi><lb break="yes"/><hi rendition="#r">ergebenste<lb break="yes"/><hi rendition="#i">Cousine
+                            Jeannette</hi><lb break="yes"/><surname>R.</surname>.</hi></seg>
+<pb facs="#image_104"/>Ihrer Hochwohlgeboren Frau Marie<lb break="yes"/>v.
+                    <surname>E.</surname>, Oberapothekers- und<lb break="yes"/>Revisorsgattin<lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#r">München.</hi></p>
+<p>Karlsplatz<lb break="yes"/>Rondel <hi rendition="#i">N</hi> 8/2. </p>
+</body>
+</text>
+</TEI>

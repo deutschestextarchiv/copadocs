@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a42" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">13.08.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt <surname>F.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er berichtet von den schlimmen Gedanken, die ihn quälen.
+                    Er bittet den Arzt um Hilfe bei der Behandlung dieser Gedanken.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a42a.jpg" xml:id="image_104"/>
+<graphic mimeType="image/jpg" url="kfb80a42b.jpg" xml:id="image_105"/>
+<graphic mimeType="image/jpg" url="kfb80a42c.jpg" xml:id="image_106"/>
+<graphic mimeType="image/jpg" url="kfb80a42d.jpg" xml:id="image_107"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_104"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#r">13.VIII. 27</hi></add></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr Oberarzt <hi rendition="#i">Fuchs.</hi></hi></salute>
+</opener>
+<p><add place="top"><hi rendition="#c"><hi rendition="#u">-1.-</hi></hi>
+<hi rendition="#r">1.)</hi></add><lb break="yes"/>Nun will ich Ihnen werter Herr Oberarzt <hi rendition="#i">Fuchs</hi>
+<seg ana="#curse">mein<lb break="yes"/>verfluchtes eckelhaftes Leben</seg>, welches
+                rätselhaft ist, heute<lb break="yes"/>genau erklären. Ich kann mich selbst nicht
+                mehr verstehen,<lb break="yes"/>ich bin die reinste <seg ana="#curse">Wetterfahne</seg>. Einmal bild ich mir mein<lb break="yes"/>Leben so ein, &amp; dann wieder anders. In der letzten Zeit, ge<lb break="no"/>fiel mir mein Leben gar nicht mehr, denn oft hab ich Stun<lb break="no"/>den wo mir alle Menschengesichter &amp; Menschenkörperteile, ganz<lb break="yes"/>eckelhaft, gräßlich &amp; fremd vorkommen, da <del>he</del>
+                werd ich oft ganz<lb break="yes"/>aufgeregt, denn / dabei kommen dumme Gedanken oft, welche<lb break="yes"/>mir sagen,
+                    daß ich nicht in diesen meinen Körper gehöre,<lb break="yes"/>&amp; daß ich mit
+                    meiner Seele auch nicht in diese Welt gehö<lb break="no"/>re, sondern in die
+                    Andere Welt ins ewige <hi rendition="#i">Jenseits</hi> soll.<lb break="yes"/>Das will mich oft in Versuchung führen, aber ich
+                    will vom<lb break="yes"/>Selbstmord gar nichts mehr wissen, &amp; will
+                nichts böses<lb break="yes"/>mehr anstellen, w<add place="above">ei</add><add place="below">eil</add>ill ich weiß, daß ich in die Hölle käme, <pb facs="#image_105"/><add place="top"><hi rendition="#c"><hi rendition="#u">-2.-</hi></hi></add><lb break="yes"/>und die Versuche hätten gar keinen Wert, das hab ich<lb break="yes"/>bis Jetzt schon gemerkt. Ich kann mich gut beherrschen.<lb break="yes"/>Meine <seg ana="#curse">verfluchte arge nicht mehr auszuhaltende
+                        Gottes<lb break="no"/>lästerungsqual</seg> wird jeden
+                Tag immer leider ärger &amp;.<lb break="yes"/>schreklicher. Daß der liebe <hi rendition="#i">Herrgott</hi> mir dazu nicht hilft,<lb break="yes"/>daß endlich
+                die arge Gotteslästerungsqualen &amp; Gebets<lb break="no"/>unruhen aufhörten,
+                sondern ärger und schlimmer werden<lb break="yes"/>kann ich nicht verstehen, das
+                ist mir ein Rätsel &amp; <del>/</del>
+                da<lb break="yes"/>kann ich mir denken, daß es mehrere höhere
+                    Götter<lb break="yes"/>gibt, welche nicht gerade die höchste Macht haben,<lb break="yes"/>wie unser Allmächtiger Herrgott, aber gleich nach<lb break="yes"/><hi rendition="#i">Herrgott</hi> kommen, &amp; mit mir tun was
+                    sie wollen<lb break="yes"/>die bösen Geister, &amp;. daß die bösen Geister
+                    unsern<lb break="yes"/>lieben <hi rendition="#i">Herrgott</hi> können necken und
+                    ihm recht kön<lb break="no"/>nen spotten, tun sie heimlich mir armen Sünder an<lb break="yes"/>jedem Tage unzählige Gotteslästerungen, Gebetsunru<lb break="no"/>hen &amp; böse Gedanken geben. Die bösen Geister sind <pb facs="#image_106"/><add place="top"><hi rendition="#c"><hi rendition="#u">-3-</hi></hi></add><lb break="yes"/>froh, daß ich nicht sterbe vorläufig; es gefällt<lb break="yes"/>Ihnen aber am allermeisten, daß ich so <seg ana="#curse">ver<lb break="no"/>fluchte</seg> Gotteslästerungsqualen &amp;. böse Gedanken<lb break="yes"/>habe, jeden Tag milliarden-Billionen-Unzäh<lb break="no"/>lige Mal habe, daß unser
+                    <hi rendition="#i">allmächtiger Herrgott</hi><lb break="yes"/>mir dazu nicht hilft, und es immer ärger wird an<lb break="no"/>statt besser, das kann ich nicht verstehen. Mein Le<lb break="no"/>benslauf wird
+                zu schlecht und ist nicht mehr auszuhalten.<lb break="yes"/>Aber der Lebenslauf ist
+                in mir verschieden, eine<lb break="yes"/>kleine Zeit hab ich meine innere gute
+                Ruhe, aber<lb break="yes"/>leider kommt die meiste Zeit die <seg ana="#curse">verfluchte eckel<lb break="no"/>hafteste</seg> unruhige Unruhe. Auch meine
+                Anfälle kom<lb break="no"/>men immer ärger &amp; öfter. Hab manchmal aber<lb break="yes"/>nicht oft die Gefühle, wo ich spüre und merke, daß<lb break="yes"/>meine Seele aus meinem Körper heraus ist,<lb break="yes"/>und unsichtbar ist, das
+                kommt mir schrecklich vor,<lb break="yes"/>dabei hab ich sogar die größte Angst vor
+                dem Sterben.</p>
+<pb facs="#image_107"/>
+<p><hi rendition="#c">Sehr geehrter Herr Oberarzt <hi rendition="#i">Fuchs</hi>!</hi><lb break="yes"/><space/> Ich bitte Sie höflichst, <del>se</del> helfen Sie mir
+                doch,<lb break="yes"/>&amp; tun Sie mich in dieser Woche <hi rendition="#i"><hi rendition="#u">hypnotisieren</hi></hi>,<lb break="yes"/>oder <hi rendition="#i"><hi rendition="#u">impfen</hi></hi>, daß doch endlich die arge
+                    Gottes<lb break="no"/>lästerungsqual &amp; arge Gebetsunruhe &amp; die argen<lb break="yes"/>Täuschungen aufhören, &amp; besonders deshalb tun<lb break="yes"/>Sie lieber Herr Oberarzt mich <hi rendition="#i">impfen</hi> od. <hi rendition="#i">hypnotisieren</hi>,<lb break="yes"/>daß die dummen <del>Se</del>
+<hi rendition="#i">Lebensüberdrüssigkeitsgedan<lb break="no"/>ken</hi> aufhören, und
+                alle meine Herrn Pfleger mit<lb break="yes"/>mir keine große Verantwortung haben;
+                wie früher.<lb break="yes"/>Tun Sie bitte mir helfen. Mehr weiß ich nicht mehr.<lb break="yes"/>Ich will allen meinen Herrn Vorgesetzten, besonders<lb break="yes"/>Ihnen &amp; allen Herrn Ärzten gut folgen, gut tun &amp;.<lb break="yes"/>mich
+                immer beherrschen.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Es grüßt
+                        Sie höflichst</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Hans <surname>A.</surname></hi>.</seg></hi></p>
+</body>
+</text>
+</TEI>

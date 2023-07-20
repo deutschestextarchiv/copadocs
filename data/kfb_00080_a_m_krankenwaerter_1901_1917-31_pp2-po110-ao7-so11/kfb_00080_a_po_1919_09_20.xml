@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a49" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">20.09.1919</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er berichtet, dass er einen Löffel und Blechstücke verschluckt hat.
+                    Er bittet darum, ins Tobhaus und in die Zwangsjacke zu kommen, weil er sich alleine nicht beherrschen kann.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a49a.jpg" xml:id="image_118"/>
+<graphic mimeType="image/jpg" url="kfb80a49b.jpg" xml:id="image_119"/>
+<graphic mimeType="image/jpg" url="kfb80a49c.jpg" xml:id="image_120"/>
+<graphic mimeType="image/jpg" url="kfb80a49d.jpg" xml:id="image_121"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_118"/>
+<opener>
+<dateline><add hand="arzt" place="top"><hi rendition="#c">20.9.19.</hi></add></dateline>
+<salute><hi rendition="#c">Sehr Geehrter Herr Oberarzt!</hi></salute>
+</opener>
+<p><add hand="arzt" place="top">23)</add>
+<add place="top"><hi rendition="#r"><hi rendition="#u">1</hi></hi></add><lb break="yes"/>Heute hat mich leider, der Teu<lb break="no"/>fel
+                    beherrscht, war &amp;. bin̄ im̄er<lb break="yes"/>Sterbenslustig. Ich habe einen eig<lb break="no"/>nen echt
+                silbernen Löffel gehabt;<lb break="yes"/>Heute Nacht h<del>ea</del><add place="above">a</add>tte ich schwere Träu<lb break="no"/>me &amp;. heute Früh
+                Gesichtstäuschungen<lb break="yes"/>hatte im Hirn die
+                    Stim̄e, du<lb break="yes"/>mußt sterben. Heute Früh war<lb break="yes"/>ich leider so dum̄, behielt meinen<lb break="yes"/>eignen
+                Löffel heimlich bei<lb break="yes"/>mir; ich log Sie noch an, daß ich<lb break="yes"/>keine Gesichtstäuschungen<lb break="yes"/><del>bei</del> hatte.
+                Als Sie fort waren,<lb break="yes"/>machte ich die Dumheit &amp;. <pb facs="#image_119"/>
+<add place="top">2.)</add><lb break="yes"/>verriß meinen Löffel in<lb break="yes"/>fünf größre scharfe
+                spitzige Teile<lb break="yes"/>&amp;. verschluckte sie um<lb break="yes"/>10 Uhr
+                rum &amp;. noch 2 längere.<lb break="yes"/><space/> Blechstückchen. Bis jetzt<lb break="yes"/>spüre ich noch nichts.<lb break="yes"/>Auf Seite 4 sind sie<lb break="yes"/><space/> aufgezeichnet nach<lb break="yes"/><space/> ungefahrer
+                Größe</p>
+<p><seg ana="#salute">Es grüßt Sie hochachtungs<lb break="no"/><hi rendition="#r">vollst</hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i"><hi rendition="#u">Hans
+                                <surname>A.</surname></hi></hi></seg><lb break="yes"/><hi rendition="#c">Selbstmörder &amp; <seg ana="#curse">Viech</seg>.</hi></p>
+<pb facs="#image_120"/>
+<p><add hand="arzt" place="top">24)</add><lb break="yes"/><space/> Ich bitte Sie, tun Sie mich<lb break="yes"/>sofort ins
+                Tobhaus in eine<lb break="yes"/>Zelle &amp;. ziehen Sie mir darin<lb break="yes"/>1 <seg ana="#inst">Zwangsjakke</seg> an; Tu<hi rendition="#u" style="arzt2">n
+                    S</hi>ie<lb break="yes"/><hi rendition="#u" style="arzt2">mich fest bestrafen
+                    &amp;. durchhau<lb break="no"/>en lassen, auf mich kön̄en<lb break="yes"/>Sie sich nicht verlassen, ich</hi><lb break="yes"/>mache alle Augenblike dum̄e<lb break="yes"/>böse Sachen.
+                Ich bin ein <seg ana="#curse">ver<lb break="no"/>fluchter Teufel &amp;.
+                        scheinheili<lb break="no"/>ger Hundskrüppel</seg>, tuns mich<lb break="yes"/>sofort ins Tobhaus. Meine lieben<lb break="yes"/>Eltern sind mit mir zu schlecht<lb break="yes"/>daran &amp;. zu bedauern.<lb break="yes"/>Wen̄ nur die
+                Stim̄en vergingen</p>
+<pb facs="#image_121"/>
+<p><seg ana="#pic">Zeichnungen der Gegenstände, die er verschluckt hat</seg></p>
+</body>
+</text>
+</TEI>

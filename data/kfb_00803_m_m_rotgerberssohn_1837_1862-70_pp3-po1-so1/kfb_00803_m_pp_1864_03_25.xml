@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb803m02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>803</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Friedrich <surname>M.</surname></persName>
+<date type="sent">25.03.1864</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freund: C. f. <surname>C.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb803m">
+<persName>
+<forename>Friedrich</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1837"/>
+<death cert="unknown"/>
+<occupation>Rotgerberssohn</occupation>
+<residence><geo decls="#WGS">48.618268 10.4155609</geo>Wittislingen, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Rotgerber, Privatier (zahlt)</p>
+<p from="1862" to="1870">Anstalt: 1862-70</p>
+<p from="1862" to="1870">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Aufregung abwechselnd mit Schwermut, Melancholie, Erotomanie (1862)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet seinen Freund, Briefe an den Direktor und die Ämter seiner Heimat zu schreiben, um entlassen zu werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb803m02a.jpg" xml:id="image_029"/>
+<graphic mimeType="image/jpg" url="kfb803m02b.jpg" xml:id="image_030"/>
+<graphic mimeType="image/jpg" url="kfb803m02c.jpg" xml:id="image_031"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_029"/>
+<opener>
+<salute>Werthester Herr <hi rendition="#i">C. f. <surname>C.</surname> in Stuttgart</hi></salute>
+<dateline><hi rendition="#r">Irrse 25.<add place="above">ten</add>
+<hi rendition="#i">Märtz</hi> 1864.</hi></dateline>
+</opener>
+<p>Da seid 1½ Jachren, in der <hi rendition="#i">A</hi>nstalt Irrse<lb break="yes"/>befinde, da ich damal von der Reiße, Zw<lb break="no"/>eibrücke,
+                nach Hause kam, nämlich nach<lb break="yes"/><hi rendition="#i">Wittislingen</hi>,
+                wurde ich ganz verachtet<lb break="yes"/>u verfolgt: so wurde ich nun hieher ge<lb break="no"/>fürt, da mein Schwager die Gerberei führt<lb break="yes"/>werden
+                sie auch nimer lange Geschäfte<lb break="yes"/>machen kön̄en! −</p>
+<p>Da ich in Zurichtzim̄er, wie auch in der<lb break="yes"/>Werckstadt gut
+                arbeiten kan̄, u wen̄<lb break="yes"/>Sie mich hier abhollen, oder
+                durch einen<lb break="yes"/>Brief, daß Sie mich als einen Geschäft<lb break="no"/>führer, brauchen könten, daß Sie so viel<lb break="yes"/>Reißkosten. nöthiges
+                Geld schicken</p>
+<pb facs="#image_030"/>
+<p>Möchtens Sie forest die Güte haben, an den<lb break="yes"/>h<hi rendition="#i">r.
+                    Michael Kiterl</hi>e königlh. <hi rendition="#i">A</hi>nstalts <hi rendition="#i">Dire<lb break="no"/>tor</hi> in Irrse, einen <w>Bitt
+                    Brief</w> abgehen<lb break="yes"/>lassen, das ich bei Ihnen Aufnahm habe<lb break="yes"/>daß Er mich entlassen wolle, wo ich Ihnen<lb break="yes"/>gewiß
+                Später sechr dan̄ckbaar sein<lb break="yes"/>werde:<lb break="yes"/><seg ana="#salute">entzwischen grüße ich Ihnen, eben</seg><lb break="yes"/><hi rendition="#r"><seg ana="#salute">so freundlich als
+                        Aufrichtig</seg><lb break="yes"/><hi rendition="#i"><seg ana="#signed">Friedrich
+                                <surname>M.</surname></seg></hi><lb break="yes"/>Gerber<hi rendition="#i">sohn</hi> aus <hi rendition="#i">Wittislin̄gen</hi></hi></p>
+<p><w>Da</w><w>m̄an̄</w> mich, noch län̄ger in Ir<hi rendition="#i">see</hi> als einen Stubensitzer<lb break="yes"/>aufhalten möchte, so haben Sie
+                die Güte u schreiben an̄, das Vorstecher<lb break="no"/>Am̄t in <hi rendition="#i">Wittislin̄gen</hi>, daß ich bald meine En̄tlassung
+                aus Ir<hi rendition="#i">see</hi> bekom̄e<lb break="yes"/>in dem ich Erstens
+                seid 1½ Jahren keinen Ausgang hatte, u bis<lb break="yes"/>heute noch keinen.
+                weder Allei<del>g</del><add place="above">n</add>ig, oder mit andern, = Und werde<lb break="yes"/>hier weniger als ein Viech betrachtet, in dem daß Viech alle
+                Jarhe<lb break="yes"/>ausgetrieben wird: Und nun folglich hat man̄ mich, mit
+                einem<lb break="yes"/>Leiterwagen, von Haus bis nach Offingen führen lassen: 78.<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Michael</hi>
+<surname>R.</surname>:</hi>
+<hi rendition="#r">der <hi rendition="#i">Namen</hi> des Ort Vorsteher.</hi></p>
+<pb facs="#image_031"/>
+<p>78. In̄ dem ich schon ein ¾ Jahr gesund,<lb break="yes"/>u gescheut. bin
+                −, u hätte schon̄ vor dieser<lb break="yes"/>Zeit, nach Hauße gehört:
+                Allein werden<lb break="yes"/>Sie zu Hauße, höchst feindselige Pflän̄e<lb break="yes"/>haben gegen mich. sonst wirde ich schon<lb break="yes"/>längst
+                abgeholt sein.<lb break="yes"/>So möchtens einen Brief an den h<hi rendition="#i">errn<lb break="yes"/>Rechtsanwalt D K.</hi>
+<surname>V.</surname> in Frieberg<lb break="yes"/>wenden, das ich vom
+                kön̄g. Landg. <hi rendition="#i">Dilling</hi>en<lb break="yes"/>in <hi rendition="#i">Irsee</hi> abgeholt werde:<lb break="yes"/>In der Hoffnug,
+                baldige Wiedersehung.<lb break="yes"/><hi rendition="#r">Ihr ergebenster Freund<lb break="yes"/><hi rendition="#i">Friedrich <surname>M.</surname></hi><lb break="yes"/>In dem ich meine Schull u<lb break="yes"/><w>Christen lehr</w> scheine Wünsche<lb break="yes"/>oder <unclear/> Leimmund.</hi><lb break="yes"/><add place="margin">Indem ich mih, hier<lb break="yes"/>als ein
+                    reiner<lb break="yes"/><w>Tag dieb</w> betrachte=</add><lb break="yes"/><add place="margin"><hi rendition="#i">für nicht frankirt,</hi>
+                    wollen<lb break="yes"/>Sie es gefalligst aufschreiben<lb break="yes"/>in dem
+                    ich schon̄ bezahlen werde:</add><lb break="yes"/><add place="margin">Wie auch meinen freischein<lb break="yes"/>in
+                    dem sie selbst wißen<lb break="yes"/>daß ich meinen Man̄ um<lb break="yes"/>785 <unclear/> gekauft habe.<lb break="yes"/>Und hoffe daß Sie
+                    mich<lb break="yes"/>als einen ordentlichen<lb break="yes"/><w>Gerberß Gesellen</w><lb break="yes"/>wieder auf meine<lb break="yes"/>frei Stroßen stellen<lb break="yes"/>werden: −</add></p>
+</body>
+</text>
+</TEI>

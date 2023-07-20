@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2950r17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2950</idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<p>
+                                evtl. Seite fehlt
+                            </p>
+</objectDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>R.</surname></persName>
+<date type="sent">4.10.1926</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2950r">
+<persName>
+<forename>Magdalena</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1887"/>
+<death cert="unknown"/>
+<occupation>Dienstmädchen</occupation>
+<residence><geo decls="#WGS">47.6988348 10.321779800598831</geo>Kottern/Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Schuhmacher</p>
+<p from="1923" to="1936">Anstalt: 1923-36</p>
+<p from="1923" to="1936">Brieftypen: pp,po,ap</p>
+</state>
+<trait><p>[Suizidalität], Verfolgungswahn (1923), Versündigungsideen, Sinnestäuschungen, Willensstörungen (1828-36)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Glückwunsch zum Namensfest
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2950r17a.jpg" xml:id="image_047"/>
+<graphic mimeType="image/jpg" url="kfb2950r17b.jpg" xml:id="image_048"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_047"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#u"><hi rendition="#i">Sehr Geehrter Herr Oberarzt!</hi></hi></salute>
+</opener>
+<p>
+<add hand="arzt" place="top"><surname>R.</surname> Magdal.</add><lb break="yes"/><hi rendition="#c">I.</hi><lb break="yes"/>Zu Eurem werten Namensfeste,<lb break="yes"/>das Beste ich nur wünschen kan̄;<lb break="yes"/>Gesundheit einmal erst vor Allem<lb break="yes"/>Und langes Leben nebendran.<lb break="yes"/><hi rendition="#c">II.</hi><lb break="yes"/>Dazu Geduld in dem Berufe<lb break="yes"/>Er fordert Ken̄tnis und ist schwer.<lb break="yes"/>Und
+                sonders wir; wir arme Kranke<lb break="yes"/>Wir würden mangeln Euch recht sehr.<lb break="yes"/>[RÜCKSEITE FEHLT??] <pb facs="#image_048"/> [SEITE 1 FEHLT??] <hi rendition="#i"><lb break="yes"/>Empfangen Sie zu dieses Festes Feier<lb break="yes"/>die stillen Wünsche meiner Dankbarkeit;<lb break="yes"/>Sie
+                    sind mir unaussprechlich imer teuer,<lb break="yes"/>Ein jeder Tag sei Ihnen
+                    nur geweiht!<lb break="yes"/>Gott möge Ihnen seinen reichsten Segen geben,<lb break="yes"/>den̄ Ihnen Dank ich ja mein frohes Leben!<lb break="yes"/><hi rendition="#c">2. Strophe.</hi><lb break="yes"/>So wie die holde Rose nie
+                        veraltet<lb break="yes"/>Und auf der schön verjüngten Lenzesflur<lb break="yes"/>Im hohem Him̄elsglenze sich entfaltet<lb break="yes"/>Als Blumenkönigin in der Natur;<lb break="yes"/>So fliehs Ihr Leben hin, voll
+                    hoher Won̄e<lb break="yes"/>Und Freude bringe jede
+                        Morgenson̄e!<lb break="yes"/><hi rendition="#c">3. Str.</hi><lb break="yes"/>Und keiner meiner Tage soll
+                        vergehn<lb break="yes"/>ehe ich mit Inbrunst nicht zu Gott gefleht<lb break="yes"/>Und Ihn gebeten für Ihr Wohlergehen;<lb break="yes"/>Er höret
+                    ja der Kranken from̄ Gebet!<lb break="yes"/>Nein, diese Hoffnung hat
+                    noch nie betrogen,<lb break="yes"/>O bleiben Sie auch ferner mir
+                    gewogen!</hi><lb break="yes"/><add hand="arzt"><surname>R.</surname> 4. X. 26</add></p>
+</body>
+</text>
+</TEI>

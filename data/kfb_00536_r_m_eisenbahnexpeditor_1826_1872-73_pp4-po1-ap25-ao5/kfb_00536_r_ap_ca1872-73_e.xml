@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb536r18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Katharina <surname>R.</surname></persName>
+<date type="sent">ca1872-73</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann: Josef<surname>R.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb536r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1873"/>
+<occupation>Eisenbahnexpeditor, Zuchthaussträfling</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Simmerberg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1872" to="1873">Anstalt: 1872-73</p>
+<p from="1872" to="1873">Brieftypen: pp,ap,ao</p>
+</state>
+<trait><p>Melancholie (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Lässt ihrem Ehemann für die Feiertage etwas zu Essen zukommen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb536r18.jpg" xml:id="image_031"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_031"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg am Charfreitg</hi></dateline>
+<salute><hi rendition="#c">Lieber <surname>R.</surname></hi></salute>
+</opener>
+<p>Hier schicke ich Dir, was mir in meinen Kräften<lb break="yes"/>stand, auf die
+                Feiertage einen Jmbiß, daß Du<lb break="yes"/>Dich satt essen kanst, den Kindern
+                nach Ottobeue<unclear>rn</unclear><lb break="yes"/>schicke ich auch eine Kleinigkeit. Der Schinken<lb break="yes"/>den ich Dir schicke ist van Ekert muß also<lb break="yes"/>gut sein 2 Stück
+                Paksteinkäs, ein Leibessen<lb break="yes"/>von Dir dan 2 Kipf Brod
+                        <del><unclear>d</unclear></del>von Sternkloster Beck<lb break="yes"/>einen
+                Osterfladen dan gesottene Eier Salz<lb break="yes"/>und Pfeffer <add place="above">&amp; Butter</add> lasse es Dir gut schmeken.<lb break="yes"/><unclear>E</unclear>
+<seg ana="#salute">Wir grüßen Dich Alle</seg> und wünschen<lb break="yes"/>Dir gute
+                Feiertage </p><p><hi rendition="#r">Deine Frau<lb break="yes"/><seg ana="#signed">Katharina
+                        <surname>R.</surname></seg><lb break="yes"/><hi rendition="#i">verte;</hi><lb break="yes"/></hi></p>
+</body>
+</text>
+</TEI>

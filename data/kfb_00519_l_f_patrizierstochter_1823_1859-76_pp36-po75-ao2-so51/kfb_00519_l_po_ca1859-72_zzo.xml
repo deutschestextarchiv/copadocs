@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l116" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil_black" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                 Die Patientin spricht von Heirat und Entlassung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l116a.jpg" xml:id="image_289"/>
+<graphic mimeType="image/jpg" url="kfb519l116b.jpg" xml:id="image_290"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_289"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Die <surname>B.</surname> schlagt die Thür oft<lb break="yes"/>zu
+                daß wir nicht einal zum Waß<lb break="yes"/>kön̄en u thut alle Bosheit mit
+                dem<lb break="yes"/>druker. Es gehören mir alle<lb break="yes"/>Schlüßel von der
+                Verwaltug<lb break="yes"/>den̄ wen̄ man mich heirathen will<lb break="yes"/>kan̄ mih ohnedies Niemand haben<lb break="yes"/>Und
+                wen̄ Hr <hi rendition="#i">Diretor Kdl</hi> nicht so<lb break="yes"/>boshaft
+                u schlecht an mir geh<del>an</del><lb break="no"/>handelt so <hi rendition="#u" style="arzt"> wäre ich mit <hi rendition="#i">DJ</hi> auch</hi><lb break="yes"/>glücklich <add place="above">u reich</add> anstatt so arm da<lb break="yes"/>mih nur Mißhandlng u Schimpf<lb break="yes"/>von mein Ziel
+                zurükhalte<lb break="yes"/>Zum heirathen braucht es blos <hi rendition="#u">2</hi><lb break="yes"/>u wen̄ ein drittes kom̄t sey es<lb break="yes"/>schon damit vorbei Und da<lb break="yes"/>Ihr in u außer der Anstalt mit<lb break="yes"/>Euern <hi rendition="#u" style="arzt"><hi rendition="#i">Sujet</hi>
+<hi rendition="#i">ungenirt</hi> se</hi>id soll<lb break="yes"/>man mih auch
+                nicht überall<lb break="yes"/><hi rendition="#r"><hi rendition="#i">geni</hi>ren</hi>
+<pb facs="#image_290"/>Zuerst muß mir <hi rendition="#i">DJ</hi> 100 fl zahlen<lb break="yes"/>für sein nachläßiges boshaftes Be<lb break="no"/>nehmen da Er nur
+                kom̄t sich zu<lb break="yes"/>seinen Weibsbildern ud zur
+                    <surname>W.</surname><lb break="yes"/>einzusperren als so vornehmer<lb break="yes"/>reicher Herr soll er
+                sich schämen<lb break="yes"/>mit so gemeinen Menscher<lb break="yes"/>sich zu
+                benehmen u die Kranke<lb break="yes"/>zu todt zu grämen. − </p>
+<p>zweitens soll er mich mitnehme<lb break="yes"/>auf daß die Quälerei ein Ende<lb break="yes"/>da Hr <hi rendition="#i">Director</hi> mich doch nicht<lb break="yes"/>ledig u lebendig heimführt<lb break="yes"/>ohne daß ich sein
+                    Ehe<unclear>sin̄</unclear>
+<unclear>m</unclear>ach<lb break="yes"/>u nachdem diese schlechte Absicht<lb break="yes"/>in 10 Jahr niht erreicht soll<lb break="yes"/>man mich meine
+                Freiheit <w>er<del><unclear/></del><lb break="no"/>reichen</w> laßen. die Entlaßung. − </p>
+</body>
+</text>
+</TEI>

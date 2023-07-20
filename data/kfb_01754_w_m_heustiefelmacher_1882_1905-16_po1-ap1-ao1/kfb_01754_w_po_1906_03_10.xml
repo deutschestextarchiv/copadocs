@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1754w03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1754</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>W.</surname></persName>
+<date type="sent">10.03.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1754w">
+<persName>
+<forename>Georg</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1882"/>
+<death when="1916"/>
+<occupation>Heustiefelmacher</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Osterzell, Kaufbeuren, Wohnort: München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1905" to="1916">Anstalt: 1905-1916</p>
+<p from="1905" to="1916">Brieftypen: po, ap, ao</p>
+</state>
+<trait><p>Dementia praecox</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient drückt Unverständnis darüber aus, warum er in die Anstalt eingewiesen wurde, und bittet den Adressaten um Auskunft. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1754w03a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1754w03b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren, am 10.03.06.</hi></dateline>
+<salute><hi rendition="#c">Euer Hochwohlgeboren!</hi></salute>
+</opener>
+<p><space/> Mache Ihnen heute aus dem hier ersicht<lb break="no"/>lichen Schreiben zu
+                wissen, daß man mich<lb break="yes"/>seit <w>end e</w> August v. Jhr. in die
+                Phychiatische<lb break="yes"/>Klinik gesperrt hat. Als dan̄ wurde ich<lb break="yes"/>hierher, in die hiesige Irrenanstalt gefahren,<lb break="yes"/>Nun
+                bin ich seit mitte September v.<lb break="yes"/>Jahres hier interniert. Da mir
+                    <w>jed och</w> meine<lb break="yes"/>Papiere <w>abhand en</w> gekom̄en
+                sind, kan̄ ich sie<lb break="yes"/>Ihnen nicht beilegen. Bin Ersatz-Reserve<lb break="yes"/>24 J. alt. Warum ich hier in die Anstalt<lb break="yes"/>eingesperrt wurde, kan̄ ich überhaupt nicht<lb break="yes"/>verstehen. Es
+                kom̄t mir ganz vert<del>ä</del>euflisch<lb break="yes"/>vor. So sollen nach
+                Angaben meine<lb break="yes"/>Eltern schon von Jugend auf Geisteskrank<lb break="yes"/>gewesen sein, nach wieder anderen erst<lb break="yes"/>später. Da
+                mir die Sache zu bunt war.<lb break="yes"/>hab ich mein Mutter in Oberbayern in<lb break="yes"/>einen Weiher neigworfen. Gleih wie ich<lb break="yes"/>hier
+                eingesperrt <w>word en</w> bin, hat mir einer <pb facs="#image_002"/>alle Tage zwei
+                mal einen Schlauch durch<lb break="yes"/>Nase zogen. In der Sparkasse habe ich<lb break="yes"/>830 <hi rendition="#i">M</hi> bar, auserdem habe ich noch für <hi rendition="#i">M</hi> 200<lb break="yes"/>Wertpapiere. Meine größe ist 1.62 <hi rendition="#i">m</hi>. Wen̄<lb break="yes"/>ich Sie hier nun bitten darf,
+                mir ein<lb break="yes"/>wenig Auskunft darüber zu geben.<lb break="yes"/><seg ana="#salute">Für Ihre Mühe bestens<lb break="yes"/><hi rendition="#r">dankend<lb break="yes"/>hochahtend</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i"><surname>W.</surname></hi> Georg</seg>.<lb break="yes"/>i.d.
+                    Irrenanstalt / <hi rendition="#i">Kaufbeuren</hi>.</hi></p>
+<p>War vorher <unclear>Heugenmacher </unclear>in Stultach Oberbay<unclear>ern</unclear>.<lb break="yes"/>Bin wahrscheinlich noch in München b. II. <unclear>Bezirks<lb break="no"/></unclear>komando eingetragen, weil ich eine zeitlang<lb break="yes"/>dort als <w>Feuerw erker</w> od. Tapezierer war.</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2091w11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2091</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Therese <surname>W.</surname></persName>
+<date type="sent">27.12.1892</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vetter: Lukas <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2091w">
+<persName>
+<forename>Therese</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1895"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">48.7371951 11.1795268</geo>Neuburg a. d. Donau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Tagelöhner</p>
+<p from="1882" to="1895">Anstalt: 1882-95</p>
+<p from="1882" to="1895">Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Verrücktheit , Aufregungszustände, Sinnestäuschungen (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Grüßt den Vetter</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2091w11.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_029"/>
+<opener>
+<dateline>
+<hi rendition="#c">Irsee dem 27 Dezember
+                    1892.</hi></dateline>
+<salute>Sehr vehrehrender Herr Vetter Lukas.!</salute>
+</opener>
+<p>Zu hl. Zeit muß man auch Verwanten<lb break="yes"/>schreiben damit der liebe Gott eine
+				    Freude<lb break="yes"/>an einem hat Ich schrib der Mutter und der <hi rendition="#i">Sen<lb break="no"/>zi Bas</hi> Lieber Herr Vetter die Schwester
+                    hat<lb break="yes"/>mir zu meinem Namenstag geschriben und<lb break="yes"/>mitgetheilt daß Sie in <del>Heilbronn sind</del> Heidel<lb break="no"/>berg sind.
+                Sie sollen in die Welt hinaus sein<lb break="yes"/>um etwas erlernen weil es beim
+                Herr <surname>G.</surname><lb break="yes"/>so langsam ging. Schöne
+                    Grüß<del>s</del>e an alle Deine<lb break="yes"/>Colegen und Coleginen.</p>
+<p> Ich schik Dir auch ein von Frau <surname>Z.</surname> Sie erlaubt<lb break="yes"/>mirs schon
+                den Sie hatte mich gerne, Sie schickte<lb break="yes"/>mir ja auch einen indem Du
+                        noch daheim warst.</p>
+<p><hi rendition="#c"><seg ana="#salute"> Ich bin<lb break="yes"/>Deine<lb break="yes"/>gute Base</seg><lb break="yes"/><seg ana="#signed">Theres.</seg></hi></p>
+</body>
+</text>
+</TEI>

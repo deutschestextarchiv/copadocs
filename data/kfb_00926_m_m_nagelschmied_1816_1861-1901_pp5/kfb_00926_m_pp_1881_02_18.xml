@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb926m04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>926</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>M.</surname></persName>
+<date type="sent">18.02.1881</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geschwister</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb926m">
+<persName>
+<forename>Georg</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1816"/>
+<death when="1901"/>
+<occupation>Nagelschmied</occupation>
+<residence><geo decls="#WGS">48.5169777 10.811195</geo>Biberbach, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Krämer</p>
+<p from="1861" to="1901">Anstalt: 1861-1901</p>
+<p from="1861" to="1901">Brieftypen: pp</p>
+</state>
+<trait><p>Alienation, Tobsucht, Onanie, Sinnestäuschungen (1861)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    seine Schwester Mariana soll ihn besuchen kommen, dass er sie sprechen kann
+                    und ihm Kleidung und Gulden mitbringen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb926m04a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb926m04b.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb926m04c.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><hi rendition="#c">Ihreseh den 18 februar</hi> <hi rendition="#r">1861</hi></dateline>
+<salute><hi rendition="#c">Liebe</hi><lb break="yes"/>Heschwistret</salute>
+</opener>
+<p>ich hofe mein Schreiben werde<lb break="yes"/>eich in Bester Gesundheit Andrefen<lb break="yes"/>Liebe Geschwistret Gott sei dank ich wider Gesund Bin<lb break="yes"/>Aber Meine Alte Krankeit Habe Auf der Prust mir<lb break="yes"/>wider feld Aber Meine Tallend Habe ich wider Gud<lb break="yes"/>Gott sei dank.
+                Meinen Rock und Hosen und<lb break="yes"/>mein Schilleh und mein Haltzduch habe ich<lb break="yes"/>Erhalten und die drei Himeth<lb break="yes"/>Lieber Bruder
+                Xaver Las die Mariana nach<lb break="yes"/>Kafbeiren farren das Irsee ist nur eine
+                Stund<lb break="yes"/>von Kafbeiren. das ich selber ihr Sprechen<lb break="yes"/>Kan mit ihr die Ana Anna soll aber meine<lb break="yes"/>hauben mit nemen und
+                meinen Stifel und<lb break="yes"/>sogen und fir Gulden Am Geld mitnemen<lb break="yes"/><hi rendition="#r">und meinen filtzschu<lb break="yes"/>Auch meine
+                    sogen</hi>
+<pb facs="#image_011"/>Da kan die Anna Die Wallfart auch<lb break="yes"/>mitnmen in
+                Kafbeiren Bei der fromme<lb break="yes"/>Krettenzia Kresentzia<lb break="yes"/>Die
+                Mariana soll So Bald kommen<lb break="yes"/>Alls möglich ist
+                das<add>ich</add>sellber Sprechen<lb break="yes"/>kan mit ihr </p>
+<pb facs="#image_012"/><p><hi rendition="#c">An<lb break="yes"/>Herren Xaver <surname><hi rendition="#i">M.</hi></surname><lb break="yes"/>in<lb break="yes"/>Biberbach Kramer<lb break="yes"/>und
+                Nagelschmit</hi><lb break="yes"/>frei</p>
+</body>
+</text>
+</TEI>

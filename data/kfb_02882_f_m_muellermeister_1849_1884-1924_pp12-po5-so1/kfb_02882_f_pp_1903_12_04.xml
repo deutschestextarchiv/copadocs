@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2882f10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2882</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>F.</surname></persName>
+<date type="sent">04.12.1903</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Maria <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2882f">
+<persName>
+<forename>Karl</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1849"/>
+<death when="1924"/>
+<occupation>Soldat Infantrie (ausgebildeter Gemeiner), Müllermeister</occupation>
+<residence><geo decls="#WGS">48.5733342 10.8365563</geo>Westendorf, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonom</p>
+<p from="1884" to="1924">Anstalt: 1884-1924</p>
+<p from="1884" to="1924">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistige Verrücktheit, Halluzinatorische Verwirrtheit, religiöser und Beschenkungswahn, fixe Ideen (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    wünscht seiner Schwester Frohes Neujahr; verschreibt ihr Arznei 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2882f10a.jpg" xml:id="image_024"/>
+<graphic mimeType="image/jpg" url="kfb2882f10b.jpg" xml:id="image_025"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline>Irsee 4 den Dezember Jahr 1903</dateline>
+<salute/>
+</opener>
+<p>
+<hi rendition="#r">Gutes <w>Neueß</w><w>yahr</w> sollen</hi><lb break="yes"/>sie
+                haben fon mir Von ihrem Bruder;<lb break="yes"/>Besten Schwester Maria ehm<lb break="yes"/>Pesuch auf wirter sehn Ingolstat<lb break="yes"/>Weuß nicht Waß ih kent haben<lb break="yes"/>Von dissen Geuster
+                    ich Seu Geustes<lb break="no"/>krang Freulein Anna <surname>R.</surname>
+                        irh<lb break="yes"/>Wilsie Geuster, Geustersprechen<lb break="yes"/><w>Kanz</w><w>schönner</w> Frau en Geust als<lb break="yes"/>Abschiet <add place="above">;</add> Ir Prutter ist es Nicht<lb break="yes"/>mer seu Frau
+                Geust Gesen En<lb break="yes"/>Engolstat beum Regimenzferschlag<lb break="yes"/>Herr <w>Millider Arzt</w> meint<lb break="yes"/>Es seu ein <w>Geuster
+                    herzschlak</w><lb break="yes"/>von derich es haben sol <seg ana="#inst">Verhör<lb break="yes"/>Zuchthaus</seg>; Geust auh <surname>R.</surname>
+                    Josepf<lb break="yes"/>Ich mein sie dreuben Geuster aus<lb break="yes"/>Vohr
+                ihr als schön heut auß Liben<lb break="yes"/>Zu ihr fon emmer; da seun<lb break="yes"/>Zu Irsee kum Geust Zuchthaus <pb facs="#image_025"/> Ich
+                ferschreube euch Arzneu<lb break="yes"/>dissem Geust aus Lauderbach<lb break="yes"/>dem Frau ehe Geust aus Wortelsteden<lb break="yes"/>Wirt Besuch seun zu mir öhn
+                    Anstalt<lb break="yes"/>Erre seu <surname>R.</surname> heim ihr
+                    Schwester<lb break="yes"/><w>Auf</w><w>tem</w> Petstul mich biten fir<lb break="yes"/>Almmanzhofen
+                    Walfartgeust<lb break="yes"/><w>In Kolstat</w> deresia Von Heuterit<lb break="yes"/>em Lazarät Inkolstat
+                    Greuz<lb break="yes"/><seg ana="#med">Geust meinen Augen sent<lb break="yes"/>Geisteskrang</seg> har
+                sent Braun<lb break="yes"/>Angeschriben als Zeugenschaft<lb break="yes"/>An Herr
+                Leonhart <surname> .</surname><lb break="yes"/>Nach Wortelsteden Mutterg
+                    <del>ggs</del><hi rendition="#sub">4</hi><lb break="yes"/>es ihr besuch
+                Inkolstat Maria<lb break="yes"/>ist auch Gesehn zu Engolstat<lb break="yes"/>mit
+                Deresia <surname>H.</surname> Verhantl<lb break="no"/>long
+                    <surname>R.</surname> Zwülleng Liebert<lb break="yes"/>Prief Karl ihr libe
+                    Maria;<lb break="yes"/>2 Besuch pp Sontheimer Knecht;?<lb break="yes"/></p>
+</body>
+</text>
+</TEI>

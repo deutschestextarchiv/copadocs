@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7442t06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7442 (K. 250)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine <surname>T.</surname></persName>
+<date type="sent">ca. 1928-29</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip7442t">
+<persName>
+<forename>Wilhelmine</forename>
+<surname>T.</surname>
+</persName>
+<birth when="1892-06-26"/>
+<death cert="unknown"/>
+<occupation>Ehefrau</occupation>
+<residence><geo decls="#WGS">51.4020053 7.4899059</geo>Geburtsort: Westerkappeln; Wohnort: Hagen-Kabel</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Ehemann: Bahnmeister; Vater: Landwirt; Mutter: n.a.</p>
+<p from="1928-04-23" to="1929-09-24">Anstalt: 23.04.1928-24.09.1929</p>
+<p from="1928-04-23" to="1929-09-24">Brieftypen: pp, po, Lebenslauf, Gebet</p>
+</state>
+<trait><p>paranoide Erkrankung (1928 Dr. Korbsch)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Gebet</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gebet. Zwischen den Strophen erklärt sie, dass sie nicht für krank erklärt wurde, sondern nur zu Erholung dort ist. 
+                   </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7442t06a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="lip7442t06b.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>"Laß Dich nur nicht überwinden, von des Satans finstrer Macht.<lb break="yes"/><lb break="yes"/><hi rendition="#c">Sicher in Jesu Armen − <add hand="hand2">34.</add><lb break="yes"/>Sicher an Seiner Brust<lb break="yes"/>Ruhend in Seiner Liebe<lb break="yes"/>Da find ich Himmelslust."<lb break="yes"/><lb break="yes"/>Jesu der Herzens Zuflucht<lb break="yes"/>Jesu Du starbst für mich<lb break="yes"/>Sicher auf diesem Felsen<lb break="yes"/>Stütz' ich mich
+                    ewiglich.<lb break="yes"/>Hier will ich stille halten<lb break="yes"/>Bis das
+                    vergeht die Nacht<lb break="yes"/>Bis an dem gold'nen Ufer<lb break="yes"/>Leuchtend der Tag erwacht!</hi><lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>"Über den Sternen, da wird es nicht sagen<lb break="yes"/>Da wird
+                dein Hoffen Dein Sehnen gestillt<lb break="yes"/>Was Du gelitten, u. was Du
+                getragen<lb break="yes"/>Dort ein allmächtiges Wesen vergillt." <pb facs="#image_018"/> (Der Herr Oberarzt hier hat<lb break="yes"/>mich noch nicht
+                krank erklärt;<lb break="yes"/>sondern nur zu Erholung bin ich hier.)</p> <p><space/>
+                "Behalte Welt Dir Deine Freunde<lb break="yes"/>Sie sind mir viel zu wandelbar<lb break="yes"/>Und hätt ich huntertausend Feinde<lb break="yes"/>So krümmen sie
+                mir nicht ein Haar<lb break="yes"/>Hier immer Freund u. nimmer Feind<lb break="yes"/>Mein Jesus ist der beste Freund."<lb break="yes"/><hi rendition="#c">auch hier</hi></p>
+</body>
+</text>
+</TEI>

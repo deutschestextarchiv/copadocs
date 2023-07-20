@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1269b31" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1269</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">09.06.1873</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Herr <surname>B.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1269b">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1844"/>
+<death cert="unknown"/>
+<occupation>Buchhalter</occupation>
+<residence><geo decls="#WGS">48.4113545 10.2991562</geo>Klein-Kötz, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonom "sehr guten Vermögensverhältniß" 200 Tagwerk</p>
+<p from="1871" to="1890">Anstalt: 1871-1890</p>
+<p from="1871" to="1890">Brieftypen: pp, po</p>
+</state>
+<trait><p>Depression, Selbstüberschätzung (1871), Wahnideen, Verfolgungswahn (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um seine Entlassung;
+                    zweite Seite: zunächste jede zweite Zeile 8x "Ama", dann 11-12 Zeilen nur noch "Ama"
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1269b31a.jpg" xml:id="image_116"/>
+<graphic mimeType="image/jpg" url="kfb1269b31b.jpg" xml:id="image_117"/>
+<graphic mimeType="image/jpg" url="kfb1269b31b2.jpg" xml:id="image_118"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_116"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><del>Lie<unclear>be E</unclear></del></hi><lb break="yes"/>Herrn <surname>B.</surname> Irrenarzt in <hi rendition="#i">Karthaus<lb break="no"/>Brüll</hi> bei <hi rendition="#i">Regensburg</hi>.</salute>
+</opener>
+<p><space/> Die Irrenanstalt <hi rendition="#i">Irsee</hi>, an welcher Sie <hi rendition="#i">Function</hi><lb break="yes"/>als Assistenz des Direktors ausübten als ich das<lb break="yes"/>Unglück hatte in dieses Haus, welches mehr den<lb break="yes"/>Charakter eines
+                politischen Gefängnisses hat, als<lb break="yes"/>den einer Heilanstalt, diese
+                Irrenwirthschaft bei<lb break="yes"/>welcher Sie angestellt waren, als ich
+                    hereinge<lb break="no"/>bracht wurde, leidet an dem Mangel einer Direktion,<lb break="yes"/>welche im Stande wäre durch Einfluß des
+                        <del><unclear>gerhend</unclear></del> ei<lb break="no"/>genen Charakters auf
+                die Patienten einen geordne<lb break="no"/>ten u. vernünftigen <add place="above">Verkehr</add> sowohl der Unglücklichen unter<lb break="yes"/>sich selbst als
+                mit der Vorstandschaft <del>h</del> zu schaffen.<lb break="yes"/><space/> Die
+                Patienten <surname><hi rendition="#i">S.</hi></surname> u. <surname><hi rendition="#i">M.</hi></surname> kennen Sie<lb break="yes"/>nur aus
+                mangelhaften Akten, u. die Irren selbst als Wahn<lb break="no"/>sinnige. Ich aber
+                habe diese beiden Irren von ganz anderer,<lb break="yes"/>der Wahrheit viel näher
+                kom̄ender Seite <w>kennen gelernt</w>.<lb break="yes"/>Nur da diese beiden Herren
+                das Recht haben über<lb break="yes"/>Alles zu raisonieren was der baaren Vernunft
+                zuwider<lb break="yes"/>ist u. den rechtlichen Bestand der k. Anstalt als
+                unzulässig<lb break="yes"/>u. s. w. betrifft die Direktion. −<lb break="yes"/><space/> Ich erhoffe in Bälde u. der Wahrheit,<lb break="yes"/>gemäß meine
+                Entlassung.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Achtungsvollst!</seg><lb break="yes"/><seg ana="#signed">Joseph <surname>B.</surname>.</seg></hi></p>
+<p>Irsee, den 9. Juni<lb break="yes"/>1873<pb facs="#image_117"/>den <hi rendition="#i">Käs</hi> kann ich entbehren.<lb break="yes"/>Ama Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/>die Butter aber nicht<lb break="yes"/>Ama Ama Ama Ama Ama Ama
+                Ama Ama<lb break="yes"/>Es wäre schändlich wenn das Bier... ver<lb break="yes"/>Ama Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/>vergiftet wäre, <del>umsomehr da
+                    es in meiner</del> Ab-<lb break="yes"/>Ama Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/>sicht liegt bei Brod u. Bier zu leben −<lb break="yes"/>Ama
+                Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/><space/> Ich bin manchmal wenn ich mit
+                einem Patienten<lb break="yes"/>Ama Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/>verkehrt habe etwas irre − das macht aber<lb break="yes"/>Ama Ama Ama Ama
+                Ama Ama Ama Ama<lb break="yes"/>der Liebe noch lange kein Kind denn wer zu<lb break="yes"/>Ama Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/>seinem Bruder "du
+                Narr" sagt, der ist des höll.<lb break="yes"/>Ama Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/>Feuers schuldig. Den 9. Juni 1873. −<lb break="yes"/>Ama Ama
+                Ama Lassen Sie die Zigarren aus<lb break="no"/>gehen? Bmb Ama Ama Ama Ama Ich glaube<lb break="yes"/>Ama <del>A</del>ma Am<del>a</del> Ama <del>A</del>ma Ama
+                    <del>A</del>ma <del>A</del>ma<lb break="yes"/>Ama <del>A</del>ma Ama Ama
+                    <del>Am</del>a Ama <del>Am</del>a <del>A</del>ma<lb break="yes"/>Ama
+                    <del>A</del>ma Ama <del>A</del>ma A<del>m</del>a <del>A</del>ma A<del>m</del>a
+                    <del>A</del>ma<lb break="yes"/><del>Ama Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/>Ama Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/>Ama Ama Ama
+                    Ama Ama Ama Ama Ama<lb break="yes"/>Ama Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/>Ama Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/>Ama Ama Ama
+                    Ama Ama Ama Ama Ama<lb break="yes"/>Ama Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/>Ama Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/>Ama Ama Ama
+                    Ama Ama Ama Ama Ama<lb break="yes"/>Ama Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/>Ama Ama Ama Ama Ama Ama Ama Ama<lb break="yes"/>Gott wie
+                    gefall ich dir − Ama Ama Ama</del>
+</p>
+</body>
+</text>
+</TEI>

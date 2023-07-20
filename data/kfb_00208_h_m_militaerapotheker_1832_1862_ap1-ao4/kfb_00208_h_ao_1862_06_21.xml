@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb208h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>208</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">n.a. <surname>H.</surname></persName>
+<date type="sent">21.06.1862</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Anstaltsdirektion: n.a.</persName>
+<settlement type="sent">Burgbernheim</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb208h">
+<persName>
+<forename>Emil</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1832"/>
+<death when="1862"/>
+<occupation>Militärapotheker</occupation>
+<residence><geo decls="#WGS">49.4513351 10.3229575</geo>Burgbernheim, Windsheim, Mittelfranken</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Kgl. I. Herr Pfarrer</p>
+<p from="1862" to="1862">Anstalt: 1862 (???)</p>
+<p from="1862" to="1862">Brieftypen:ap, ao</p>
+</state>
+<trait><p>Epilepsie (1862)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Vater des Patienten bittet die Anstaltsdirektion die Dokumente zur Übersiedlung des Patienten in die Irrenanstalt Irsee direkt der Königlichen Kreis-Irrenanstalt Erlangen zukommen zu lassen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb208h01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Burgbernheim d 21 Jun. 1862</hi></dateline>
+<salute>Der Königl. Pfarrer <hi rendition="#i"><surname>H.</surname></hi> <del><unclear/></del>zu Burgbernheim<lb break="yes"/><hi rendition="#c">an</hi><lb break="yes"/>Die verehrliche Direction der Königl. Kreis Irren<lb break="no"/><hi rendition="#c">Anstalt zu Irrsee.</hi></salute>
+</opener>
+<p><add hand="arzt" place="top">31759</add></p>
+<p><add place="top"><hi rendition="#c">2</hi></add></p>
+<p><add hand="arzt"><hi rendition="#r">pracs. 23.6.62<lb break="yes"/>N: 2223.</hi></add></p>
+<p>Bey Übersendung beiliegender protocollarischer Erklärung hinsichtlich der<lb break="yes"/>beantragten Übersiedlung seines zur Zeit provisorisch in der Kgl.
+                Kreis<lb break="yes"/>Irrenanstalt zu Erlangen als Pflegling
+                    <unclear>vierter</unclear>. Klasse befindlichen<lb break="yes"/>in diesem
+                Protokolle näher bezeichneten Sohnes_ in die Königl. Kreis<lb break="no"/>Irrenanstalt Irrsee_ bittet Unterzeichneter ergebenst, die<lb break="yes"/>jenseitige Rückantwort mit diese Aufnahmsanmeldung schleunigst_ nicht<lb break="yes"/>hieher, sondern directe an die Direction der Kgl. Kreis
+                Irrenanstalt<lb break="yes"/>zu Erlangen gelangen zu lassen; indem Herr Director,
+                    D<hi rendition="#sup">r</hi>
+<hi rendition="#i">Hagen</hi> allda<lb break="yes"/>dem Unterzeichneten die
+                mündliche Versicherung freundlichst ertheilte,<lb break="yes"/>Alles zur
+                Übersiedlung dieses Patienten weiter Erforderliche unver<lb break="no"/>züglich
+                selber besorgen zu wollen.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvollst!</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><surname><hi rendition="#i">H.</hi></surname></seg> Pf. I.</hi></p>
+<p><add hand="arzt"><hi rendition="#i">E. N.</hi> 2223</add></p>
+<p><add hand="arzt">A</add></p>
+<p><hi rendition="#r"><add hand="arzt">Irsee am 24<hi rendition="#sup">te</hi> Juni
+                        1862<lb break="yes"/>Die, <unclear/> an die k. Verwaltung d K.I.A.
+                        Erlangen.<lb break="yes"/><unclear>Inha</unclear>ltlich einer Zuschrift ds.
+                        k. H. Pfarrers <hi rendition="#i"><surname>H.</surname></hi><lb break="yes"/>zu <hi rendition="#i">Burgbernheim</hi> vom 21/23 d. M. soll
+                        dessen in jenseitiger<lb break="yes"/>Anstalt befindlicher Sohn als
+                        Angehöriger des Kreises<lb break="yes"/><unclear>Obsgalen</unclear> in
+                        Neuburg diesseits aufgenom̄en werden.<lb break="yes"/>Demnach wird
+                        ergebenst notifizirt, daß der Auf<lb break="no"/>nahme ds<del>selben</del>
+                        Kranken dahier ein Hinderniß nicht<lb break="yes"/>im Wege stehe u. das
+                        Ansuchen gestellt, den <unclear>Tag</unclear> </add></hi></p>
+</body>
+</text>
+</TEI>

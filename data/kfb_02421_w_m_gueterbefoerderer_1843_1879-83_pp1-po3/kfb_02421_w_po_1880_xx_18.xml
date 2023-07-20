@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2421w03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2421</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Andreas <surname>W.</surname></persName>
+<date type="sent">18.xx.1880</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Dr. Reichert</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2421w">
+<persName>
+<forename>Andreas</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1843"/>
+<death when="1883"/>
+<occupation>Güterbeförderer</occupation>
+<residence><geo decls="#WGS">48.3954965 10.00589</geo>Neu-Ulm</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Packmeister</p>
+<p from="1879" to="1883">Anstalt: 1879-83</p>
+<p from="1879" to="1883">Brieftypen: pp, po</p>
+</state>
+<trait><p>"Delirium tremens mit Halluzinationen" (1879)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Der Patient berichtet von mehreren Personen, die u.a. Geld entwendet, und Pferde u. Hunde vergiftet hätten. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2421w03a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb2421w03b1.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb2421w03b2.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb2421w03c1.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb2421w03c2.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="kfb2421w03d.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r"><w><hi rendition="#i">Neu Ulm</hi></w>
+                    18/80.</hi></dateline>
+<salute><del>Herrn <hi rendition="#i">Reichhert</hi></del>
+<add place="above"><hi rendition="#i">Sr. K..K. Kaiser</hi> von <hi rendition="#i">Oesterreich</hi></add></salute>
+</opener>
+<p><add place="top"><space/> &amp; dan̄ Wien<del><unclear>t</unclear></del>e <hi rendition="#i">Roma</hi> auch nicht. Papst.<lb break="yes"/><space/>
+                        der<unclear> stt</unclear><hi rendition="#i"> D</hi>u nicht mehr sagte die
+                        <hi rendition="#i">Julie</hi></add>
+</p><p>Jch erlaube mir Jhnen Heute noch<lb break="yes"/>Etwas daß die schöne <surname>R.</surname>
+                und<lb break="yes"/>und der schöne <surname>A.</surname> der schöne<lb break="yes"/><surname>A.</surname> und die schöne
+                    <surname>W.</surname>,<lb break="yes"/>Heute Früh sind die schöne
+                    <surname>R.</surname><lb break="yes"/>und die schöne <surname><hi rendition="#i">S.</hi></surname>, die
+                schöne <surname>A.</surname><lb break="yes"/>und d<del>i</del>er <surname>A.</surname> auch dann wieder<lb break="yes"/>die schöne <surname>W.</surname>
+<add hand="arzt"><add place="above">1.)</add></add>
+<hi rendition="#u" style="arzt">haben heute </hi><lb break="yes"/>Früh <hi rendition="#u" style="arzt">Alles </hi><hi rendition="#i"><hi rendition="#u" style="arzt">A</hi></hi><hi rendition="#u" style="arzt">
+                wegengo</hi>m̄en, und<lb break="yes"/>zwar nicht wenig, sondern <add hand="arzt"><add place="above">2.)</add></add>
+<hi rendition="#u" style="arzt">sehr viel </hi><lb break="yes"/><hi rendition="#u" style="arzt">Geld mitge</hi>nom̄en. der
+                    <surname>A.</surname> &amp;<lb break="yes"/>die
+                    <surname>A.</surname> haben <add hand="arzt"><add place="above">3)</add></add>
+<hi rendition="#u" style="arzt">meine Pferde</hi> wieder<lb break="yes"/>mitgenom̄en, und die schöne <hi rendition="#i">Julie</hi>,<lb break="yes"/><hi rendition="#i">Hedwig, Son̄tag, Lina</hi> haben auch<lb break="yes"/>die <add hand="arzt"><add place="above">4.)</add></add>
+<hi rendition="#u" style="arzt">Pferde wieder vergiftet</hi> und<lb break="yes"/>schöne <surname>W.</surname> der <surname>A.</surname> Auch wieder<lb break="yes"/>und d<del>i</del><unclear>e</unclear>r schöne hat nach mal <add hand="arzt"><add place="above">5.)</add></add>
+<hi rendition="#u" style="arzt">diese</hi><lb break="yes"/><hi rendition="#u" style="arzt">schöne Hunde</hi>
+<del>nicht</del> 3 mal langt es<lb break="yes"/>nicht, daß sie die schöne
+                    <surname>W.</surname><lb break="yes"/>6 <hi rendition="#i">M</hi>al ebenfalls vergiftet, <add place="above">&amp;</add> hat geste<unclear>r</unclear>n<lb break="yes"/>die
+                schöne <surname>A.</surname> und die <surname>A.</surname><lb break="yes"/>und schöne <surname>W.</surname>, und hat die<lb break="yes"/><surname>W.</surname> die <add hand="arzt"><add place="above">6.)</add></add> Her<hi rendition="#u" style="arzt">ren <hi rendition="#i">Wilhelm Kaißer</hi></hi><lb break="yes"/><hi rendition="#u" style="arzt"><hi rendition="#i">Preuß</hi></hi><hi rendition="#i">en</hi>, <hi rendition="#i">Wilhelm</hi>
+<del><hi rendition="#i">Andreas </hi><surname><hi rendition="#i">W.</hi></surname></del>
+<add place="above"><hi rendition="#u">schreibe ich nicht</hi></add>
+<add place="margin"><hi rendition="#i">S</hi><hi rendition="#sup"><hi rendition="#u"><hi rendition="#i">r</hi></hi></hi>
+<hi rendition="#u">gilt</hi><lb break="yes"/><hi rendition="#u">nicht &amp;
+                        </hi><hi rendition="#i"><hi rendition="#u">As </hi></hi><surname><hi rendition="#i">W.</hi></surname><lb break="yes"/>nicht nicht mehr</add><lb break="yes"/>ich schreibe mich im̄er k.k. Kaiser<lb break="yes"/><hi rendition="#u" style="arzt">von <hi rendition="#i">Oesterre</hi></hi><hi rendition="#i">ich</hi> vom deutschen Reich<lb break="yes"/>&amp; v<hi rendition="#u" style="arzt">on <hi rendition="#i">Preußen</hi></hi> ebenfalls,
+                und <hi rendition="#u" style="arzt">bin</hi><lb break="yes"/>auch <hi rendition="#u" style="arzt">wieder der Kais</hi>er wie
+                mein lieber<lb break="yes"/>Kaiser von <hi rendition="#i">Preußen</hi>, und jetzt
+                wieder<lb break="yes"/>ein mehr vor <w>mein en</w> lieben Kaisern<lb break="yes"/>vorgerückt, in dann mit lieber Kaiser<lb break="yes"/>Preußen <hi rendition="#i">Moltke</hi><hi rendition="#i"> </hi>ebenfalls Kaiser nicht mehr<lb break="yes"/>und das Ri<hi rendition="#u">ndvieh </hi><surname><hi rendition="#i">W.</hi></surname> schreit<lb break="yes"/>alle es gibt ja keine Kaiser mehr<lb break="yes"/>Die muß<add place="below">en</add> mit einer <w>Jndianer Peitsche</w><lb break="yes"/>und der <surname>A.</surname>, J<hi rendition="#i">u</hi>lie,
+                der <surname><hi rendition="#i">A.</hi></surname><lb break="yes"/>&amp; die <surname>R.</surname> ebenfalls müssen diese <pb facs="#image_010"/><pb facs="#image_011"/>tüchtig gezogen werden, damit ich
+                    <w>ein mal</w><lb break="yes"/>meine Ruhe erhalten will, bleibe ich auch<lb break="yes"/>nicht
+                mehr beim einem <hi rendition="#i">S</hi>au<hi rendition="#i">c</hi>orps den<lb break="yes"/>die führen Sich wie wenn ich von ei<unclear>n</unclear>er<lb break="yes"/>Sau vom fidele <w>heraus geschlupft</w><w>wäre</w>,<lb break="yes"/>diese ganze Gesellschaft ist keine Bohne<lb break="yes"/>werth, den fressen den
+                Herren Kaiser<lb break="yes"/>Alle Tage daß Essen &amp; sagen dan̄<lb break="yes"/>ist d<del><unclear reason="overwriting">ie</unclear></del>en
+                    <surname>W.</surname> 1 Rech<add place="above">t</add>es Rindvieh
+                    <del><unclear/></del><lb break="yes"/><add place="above">und</add> und <add place="above"><unclear/></add>
+<del>Herren <unclear>sind</unclear></del>
+<add place="above">Detter ist das</add> kein Rindviehe <del>nicht mehr.</del>
+<add place="above">&amp; <hi rendition="#u">die größe Hure</hi></add><lb break="yes"/>auch <hi rendition="#u" style="arzt">schon lange Zeit</hi>
+<hi rendition="#u" style="arzt">figt</hi>
+<hi rendition="#u" style="arzt">Sie mit dem</hi><lb break="yes"/><surname><hi rendition="#u" style="arzt">A.</hi></surname>
+                freilich in <hi rendition="#i">Goeppingen</hi> drüben<lb break="yes"/>auch oft
+                vorgekom̄en daß die <surname>W.</surname><lb break="yes"/>au<hi rendition="#u" style="arzt">f einem </hi><w><hi rendition="#u" style="arzt">Jndianer Anzug</hi></w><hi rendition="#u" style="arzt"> oft gefickt</hi><lb break="yes"/><hi rendition="#u" style="arzt">hat</hi> dann hat Sie auch meinen
+                    <w>Schützen<lb break="no"/>Anzug</w> angezogen und hat zuerst meine<lb break="yes"/>Ho<unclear>s</unclear>en getragen, und einen Hund<lb break="yes"/><w>hin gesteckt</w> daß er schlecken damit<lb break="yes"/>Sie nicht putzen
+                darf, der Hund wurde<lb break="yes"/>ganz naß, dann Sie auch meine Uniform<lb break="yes"/>&amp; dann die Mütze auch, <unclear>f</unclear>erner<lb break="yes"/>machte die <hi rendition="#u" style="arzt">Mütze</hi> sie hin,
+                und <hi rendition="#u" style="arzt">scheißte </hi><lb break="yes"/><hi rendition="#u" style="arzt">darein</hi>, &amp; kehrte diese Mütze nachdem<lb break="yes"/>Diese bischen, <hi rendition="#u" style="arzt">bißelte über die
+                    Mütze</hi><lb break="yes"/><hi rendition="#u" style="arzt">hinunter</hi>, und die <hi rendition="#i">Julie </hi>ist auch in<lb break="yes"/>der Pers<hi rendition="#i">i'cifbahn</hi> auch gewesen dann<lb break="yes"/>Sie <del>se</del> viele
+                Bekannten, und <add place="above"><unclear/></add><surname><hi rendition="#u" style="arzt">R.</hi></surname><lb break="yes"/><hi rendition="#u" style="arzt">haben überall Kinder gemacht</hi>
+                in <hi rendition="#i">Salzburg</hi>.<lb break="yes"/>Vorder u. Hinderindien, bei den
+                Araber<lb break="yes"/>in<hi rendition="#i"> Oesterreich</hi> und <hi rendition="#i">fischbach</hi>, ebenfalls<lb break="yes"/>und die <surname>W.</surname>
+<add place="above">figte damals <surname>W.</surname> &amp;
+                        <surname>R.</surname><lb break="yes"/>Walter </add> alt und jung<lb break="yes"/>dan̄ hatte
+                die <surname>W.</surname><w>beim</w> Tröglen war<lb break="yes"/>Sie im
+                Laden, der schöne <surname>A.</surname> &amp; <surname>A.</surname><lb break="yes"/>kamen viel in den Laden, und <w>kam<lb break="no"/><add place="margin"><unclear>men̄</unclear></add></w> ohne Geld bei der
+                    <surname>W.</surname> welche bei<lb break="yes"/>Trögten (u A<hi rendition="#i">ndr. </hi><surname><hi rendition="#i">W.</hi></surname> führte
+                das Geschäft)<lb break="yes"/>und schöne Sachen in <add place="above">den</add>
+<w>Aus lagen</w> im̄er<lb break="yes"/>gehabt der <surname>A.</surname>
+                die schöne <surname>R.</surname><lb break="yes"/>und nahmen <hi rendition="#i">Cigarren</hi> (<hi rendition="#i">Hanna</hi>) <hi rendition="#i">Cuba</hi><lb break="yes"/>und die Rattenschwänze auch, und<lb break="yes"/>und dann nahm der
+                schöne u schöne<lb break="yes"/><surname>W.</surname>
+<hi rendition="#u" style="arzt">nahmen</hi> die <hi rendition="#u" style="arzt">die schöne</hi><lb break="yes"/><hi rendition="#u" style="arzt">Schlitten</hi> &amp; dan̄
+                auch <hi rendition="#i"><hi rendition="#u" style="arzt">Chaisen </hi></hi>auch<lb break="yes"/>dann, in den <hi rendition="#i">Chaisen</hi> war ja<lb break="yes"/>im̄er die Herren <hi rendition="#i">Kaiser</hi> von
+                    <unclear>Preusen</unclear><pb facs="#image_012"/><pb facs="#image_013"/><hi rendition="#i">etc</hi>, dann war noch der Zopfabschneider<lb break="yes"/>auch
+                im Ladenfenster, derselbe Zopfabschder<lb break="yes"/>da war im̄er ein Geld
+                darin, und die<lb break="yes"/>schöne <surname>W.</surname>, &amp;
+                    <surname>A.</surname> leerten oft<lb break="yes"/>alle Schubladen weil
+                ich es im̄er hin <unclear>zosch.</unclear><lb break="yes"/>in Indianerschrift und haben diese<lb break="yes"/>welche alles
+                    <w>mit genom̄en</w> &amp; die <surname>R.</surname><lb break="yes"/>waren auch nicht so dum̄ gewesen die<lb break="yes"/>nicht
+                nur <hi rendition="#i">Cafe</hi>' <hi rendition="#i">Candis</hi>, <hi rendition="#i">Zucker</hi> 4/<hi rendition="#sub">4</hi> eckig<lb break="yes"/><w>mit
+                    genom̄en</w>, dann hatte der <surname>A.</surname><lb break="yes"/>und die <surname>A.</surname> die schöne Platten auch<lb break="yes"/>noch mitgenom̄en und die <surname>W.</surname><lb break="yes"/>hatte diesen Zopfabschneider und hatte<lb break="yes"/>Sie auch
+                einmal vorgekom̄en, daß die<lb break="yes"/><surname>W.</surname> daß
+                Sie <hi rendition="#u" style="arzt">das Haus </hi><w><hi rendition="#u" style="arzt">anzü ndete</hi></w><lb break="yes"/>und der <surname>A.</surname> und die
+                    <surname>W.</surname> nah<unclear>ene</unclear><lb break="yes"/>und die <surname>R.</surname> nahmen Heute auch<lb break="yes"/>nicht viel Geld mit vom Hl <surname>W.</surname><lb break="yes"/>nicht n<hi rendition="#u" style="arzt">ur 120,000 Millionen
+                    </hi><hi rendition="#i"><hi rendition="#u" style="arzt">Dollar</hi><lb break="yes"/></hi>nur <surname>A.</surname>: } 100.000 <space/>
+                〃 100,000 <hi rendition="#i">Millionen</hi><lb break="yes"/><space/> 〃 <surname>A.</surname>: } <space/> 100,<hi rendition="#i"> Bill Bill Millionen </hi><lb break="yes"/><space/> 〃
+                    <surname>R.</surname>
+<space/><foreign xml:lang="frz"><hi rendition="#i"> Cin</hi><hi rendition="#i">q</hi>.
+                        <hi rendition="#i">Sept</hi>. <hi rendition="#i">hûite neuf dixe
+                    onze</hi></foreign><lb break="yes"/>〃 die <hi rendition="#i">Urgroßmutter</hi>
+<foreign xml:lang="frz"><hi rendition="#i">douce</hi></foreign><lb break="yes"/>〃 die <surname>W.</surname> nicht <foreign xml:lang="frz"><hi rendition="#i">douce trése sinquert</hi><lb break="yes"/><hi rendition="#i">soiçante huite neuf 'dise</hi>
+<hi rendition="#i">onze douc<unclear>ionce</unclear></hi><lb break="yes"/><hi rendition="#i">sincante soicante huite neuf dis</hi><hi rendition="#i">e</hi><hi rendition="#i"> onçe douce</hi></foreign><lb break="yes"/><hi rendition="#i">Riedelrês </hi><foreign xml:lang="frz"><hi rendition="#i">onze douce três quator</hi><unclear><hi rendition="#i">ce</hi></unclear><hi rendition="#i">. quatre</hi><lb break="yes"/><space/> Cincant soih<del>s</del>cant vide neuf dise<hi rendition="#i"> </hi></foreign><lb break="yes"/>und von den Herren da drunten
+                hat der <surname>A.</surname><lb break="yes"/>nicht 20<unclear>ig</unclear> mal <w>hu<hi rendition="#u">ndert
+                        tausend</hi></w><hi rendition="#u"> Thaler</hi>
+<hi rendition="#u">nicht </hi><lb break="yes"/><add place="margin">mitgefangen
+                        <add place="above">nur</add>
+<add place="below"><unclear/></add></add>
+<w>mit genom̄en</w> und die <surname>R.</surname> haben<lb break="yes"/><space/> so viel Geld <hi rendition="#i">D</hi>ir entwendet. und<lb break="yes"/><add place="margin">haben Sie<lb break="yes"/><surname>R.</surname></add>
+                auch nicht mitgenōmen 120 mal haben <unclear>die<lb break="yes"/></unclear>auch nicht nur Dottr mitgenom̄en 120 mal<lb break="yes"/>auch
+                nicht mitgenom̄en, und der Hern <surname>A.</surname>
+<hi rendition="#i"><lb break="yes"/>D</hi>eine 4 Pferde nicht nur auf 12 Pferde<lb break="yes"/>gelassen, und die schöne <surname>W.</surname> die<lb break="yes"/>Pf<hi rendition="#u" style="arzt">erde auch nicht so viel
+                    Gift</hi> gegeben,<lb break="yes"/>nur die schöne J<hi rendition="#i">u</hi>lie,
+                hat daß <hi rendition="#u" style="arzt">Essen </hi><lb break="yes"/>schon wieder
+                    <del>Et</del> Ietz schon wieder nicht<lb break="yes"/>nur, sondern auch derart
+                    <hi rendition="#u" style="arzt">vergiftet </hi><lb break="yes"/>da <hi rendition="#i">D</hi>u <del>s</del> es nicht so viel uns aufscheiben<lb break="yes"/>soll, und <hi rendition="#i">D</hi>u bist dann nicht
+                    <w>mehr</w><w>ein</w><lb break="yes"/>guter Kaiser auch nicht<hi rendition="#i"> Oestereich</hi> mehr<lb break="yes"/>w<unclear>e</unclear>n̄<hi rendition="#i"> D</hi>u dieses
+                Geld uns nicht mehr<lb break="yes"/>viel auf <w>ein mal</w> nußt <hi rendition="#i">D</hi>u uns<lb break="yes"/>nicht so viel aufschreiben sonst<lb break="yes"/>werden wir <hi rendition="#i">D</hi>ich auch nicht mit<lb break="yes"/><hi rendition="#i">D</hi>ir das Essen von <unclear reason="damage">1</unclear><hi rendition="#sup">ter</hi>
+<hi rendition="#i">Claße</hi><lb break="yes"/>auch nicht ver<del>f</del>giften wie <hi rendition="#i">D</hi>u <pb facs="#image_014"/>uns nicht mir daß Essen vor den Herrn<lb break="yes"/>Kaisern Essen laßt so bist <hi rendition="#i">D</hi>u der die<lb break="yes"/>Pferde nicht nur vergiftet hast, sondern<lb break="yes"/>die Hunde auch nicht
+                mehr so vergiften<lb break="yes"/>kön̄en, und die Kaiser dürfen
+                    <unclear>dieshe</unclear><lb break="yes"/>auch nicht so viel Essen als wie <hi rendition="#i">D</hi>u<lb break="yes"/><w>Rind vieh</w> bist <hi rendition="#i">D</hi>u <hi rendition="#u">nicht</hi> mehr der<lb break="yes"/>von Men<unclear/> auch
+                nicht mehr das<lb break="yes"/>Rindvieh nicht nur sein sagte die<lb break="yes"/>nicht Kaiser von <hi rendition="#i">China</hi> &amp; dan̄ nicht<lb break="yes"/>Allen <hi rendition="#i">St</hi><unclear><hi rendition="#i">ae</hi></unclear><hi rendition="#i">ten</hi> <unclear>von</unclear> <hi rendition="#i">Oesterreich</hi><lb break="yes"/>auch nicht mehr werden, </p>
+</body>
+</text>
+</TEI>

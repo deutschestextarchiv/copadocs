@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1269b30" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1269</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">ca. 1877 (spricht von 6jähriger Haft)</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bezirksfeldwebel</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1269b">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1844"/>
+<death cert="unknown"/>
+<occupation>Buchhalter</occupation>
+<residence><geo decls="#WGS">48.4113545 10.2991562</geo>Klein-Kötz, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonom "sehr guten Vermögensverhältniß" 200 Tagwerk</p>
+<p from="1871" to="1890">Anstalt: 1871-1890</p>
+<p from="1871" to="1890">Brieftypen: pp, po</p>
+</state>
+<trait><p>Depression, Selbstüberschätzung (1871), Wahnideen, Verfolgungswahn (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   hatte sich zum Freiwilligendienst gemeldet, möchte hierfür entlassen werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1269b30a.jpg" xml:id="image_115"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_115"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>An Seiner Wohlgeboren<lb break="yes"/>den Bezirksfeldwebel<lb break="yes"/>in
+                Günzburg zur gefl.<lb break="yes"/>Weiterbeförderung an<lb break="yes"/>das
+                Bezirkskomando<lb break="yes"/>Dillingen in folgendem<lb break="yes"/>Betreff: <hi rendition="#i">Jos. <surname>B.</surname>
+</hi>gebürtig zu Klein<lb break="no"/>kötz Bez. A. Günzburg a D.<lb break="yes"/>erschien in der Zeit vor<lb break="yes"/>Augsburg des Krieges<lb break="yes"/>gegen die Franzosen<lb break="yes"/><hi rendition="#i">anno</hi> 1871 im Monat<lb break="yes"/>April in der Türkenka<lb break="no"/>serne in München um<lb break="yes"/>seinen Bruder <hi rendition="#i">Alois</hi><lb break="yes"/>welcher als <del><unclear>Landerch</unclear></del>Leut<lb break="no"/>nant bei der Infanterie<lb break="yes"/>sich um dieselbe Zeit in<lb break="yes"/>München aufhielt aufzu<lb break="no"/>suchen, welcher bei einem<lb break="yes"/>der in der Türkenkaserne<lb break="yes"/>untegebrachten
+                    Regimen<lb break="no"/>ter diente u. fand sich der<lb break="yes"/>ergebenst
+                Unterzeichnete<lb break="yes"/>veranlaßt sich zum Corps<lb break="yes"/>der
+                Freiwilligen zu mel<lb break="no"/>den an deren Spitze<lb break="yes"/>der <hi rendition="#i">jour</hi>-habende Hr.<lb break="yes"/>Oberst
+                stand u. mich<lb break="yes"/>in das Einstandsbuch<lb break="yes"/>einschrieben
+                ließ. Ich<lb break="yes"/>wurde durch den k. Hr.<lb break="yes"/>Bezirksamtmann
+                    je<lb break="no"/>doch verhindert meinem<lb break="yes"/>Vorhaben
+                nachzukom̄en<lb break="yes"/>u. stelle deßhalb an das<lb break="yes"/>k.
+                Bezirkskom̄ando die<lb break="yes"/>gehorsame Bitte eine<lb break="yes"/>Entscheidung über meine<lb break="yes"/>dadurch herbeigeführte<lb break="yes"/>Kerkerhaft zu bezwecken.<lb break="yes"/>Hierots bereits zum<lb break="yes"/>8<hi rendition="#sup">ten</hi> mal auf eine<lb break="yes"/>Art
+                strafrechtliche Weise<lb break="yes"/>eingezogen bin ich in<lb break="yes"/>die
+                Lage versetzt auf<lb break="yes"/>einen Mehrverbrauch<lb break="yes"/>meiner
+                    Vermögensver<lb break="no"/>hältnisse zu reflektiren,<lb break="yes"/>in diesem
+                Sinne ersuche<lb break="yes"/>um Befreiung von der<lb break="yes"/>unter
+                Anrechnung von 6jäh<lb break="no"/>riger Haft überflüssig<lb break="yes"/>gewordenen Irrenhaus nun<lb break="yes"/>825. − <hi rendition="#r">Ganz gehorsamst Zt.<lb break="yes"/><seg ana="#signed"><surname>B.</surname></seg>.</hi></p>
+</body>
+</text>
+</TEI>

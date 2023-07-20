@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb500n02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Angela Hofmann</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>500</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Katharina <surname>N.</surname></persName>
+<date type="sent">19.06.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Hecken</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb500n">
+<persName>
+<forename>Franz</forename>
+<surname>N.</surname>
+</persName>
+<birth when="1821"/>
+<death cert="unknown"/>
+<occupation>Bauern- und Müllerssohn</occupation>
+<residence><geo decls="#WGS">48.3277485 11.9905263</geo>Hecken, Erding</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: wohlhabend</p>
+<p from="1857" to="1860">Anstalt: 1857-60</p>
+<p from="1857" to="1860">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Schwermut, [Suizidalität] (1857-1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Mutter sendet Quartalsbeitrag und möchte wissen, wie es ihrem Sohn geht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb500n02a.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb500n02b.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r">Hecken den<lb break="yes"/>19 Juni 1859</hi></dateline>
+<salute>Hochzuverehrenste Gnädige<lb break="yes"/><space/> Herren!</salute>
+</opener>
+<p>
+<add hand="arzt" place="above">26 <hi rendition="#i">Juni</hi> 59</add>
+
+Hier überschicke ich den Quartalbetrag<lb break="yes"/>für meinen Sohn Franz mit 50 f mit der<lb break="yes"/>Bitte mir Nachricht zu geben, ob es mit Jhm<lb break="yes"/>besser geht, seit seinem Aufenhalt in Irsee,<lb break="yes"/>ich weiß zwar, daß ich Jhm versprochen habe<lb break="yes"/>in die 2 Klasse einschreiben zu lassen, aber<lb break="yes"/>ich hoffte imer auf eine Antwort ob es wirklich<lb break="yes"/>bey 400 f kostet, daher ich an Sie noch mal<lb break="yes"/>die Bitte stelle mir Rath und Auskmft zu geben<lb break="yes"/>wie es für seine Umstände besser seyn wird,<lb break="yes"/>obwohl ich <add>noch</add> 4 mit Franz 5 unversorgte Kinder hab<lb break="yes"/>so liese ich es doch, wen es zu seinem besten wäre<lb break="yes"/>mir nicht zu beschwerlich seyn.
+
+<pb facs="#image_003"/>
+<seg ana="#salute">Jn aller Achtung verbleibe ich</seg></p>
+<p><hi rendition="#c"><seg ana="#signed">Ihr</seg></hi></p>
+<p><hi rendition="#r"><seg ana="#signed">ergebenste Katharina<lb break="yes"/><surname>N.</surname> <surname>K.</surname><lb break="yes"/>Wittwe.</seg></hi></p>
+<p>
+<hi rendition="#r">Wen er gesund ist wird<lb break="yes"/>er doch schon einmal<lb break="yes"/><space/> schreiben.</hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1269b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1269</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">27.09.1871</date>
+<date type="received">n.a.</date>
+<persName type="addressee">König</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1269b">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1844"/>
+<death cert="unknown"/>
+<occupation>Buchhalter</occupation>
+<residence><geo decls="#WGS">48.4113545 10.2991562</geo>Klein-Kötz, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonom "sehr guten Vermögensverhältniß" 200 Tagwerk</p>
+<p from="1871" to="1890">Anstalt: 1871-1890</p>
+<p from="1871" to="1890">Brieftypen: pp, po</p>
+</state>
+<trait><p>Depression, Selbstüberschätzung (1871), Wahnideen, Verfolgungswahn (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Klage über eine ungerechte Einweisung in die Anstalt beim König.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1269b03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb1269b03b.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb1269b03c.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Allerdurchlauchtigster,<lb break="yes"/>Großmächtigster König!<lb break="yes"/>Allergnädigster König u. Herr!</hi>
+</salute>
+</opener>
+<p><space/> Es ist eine bekannte Thatsache,<lb break="yes"/>daß ich mich seit geraumer
+                Zeit in der<lb break="yes"/>k. Irrenanstalt Irsee befinde. Da ich<lb break="yes"/>dieses aber für eine große Ungerechtigkeit<lb break="yes"/>halte, so erlaube ich
+                mir hiermit ew. k.<lb break="yes"/>Majestät darüber Vorstellung zu machen,<lb break="yes"/>indem ich zu Ihnen hoffe, daß Sie diesem<lb break="yes"/>ein Ende
+                machen werden. </p>
+<p><space/> Wollen ew. k. Majestät Sich aller<lb break="no"/>gnädigst bewogen finden von
+                meiner<lb break="yes"/>mit dem Vorstand der Anstalt unterhaltenen<lb break="yes"/>u. sich bis jetzt auf ungefähr 45 Briefe und<lb break="yes"/>kleinere Notizen
+                belaufende Korrespondenz<lb break="yes"/>Einsicht zu nehmen u. ich bin nicht im<lb break="yes"/>Zweifel, daß ew. k. Majestät die Ueber<lb break="no"/>zeugung
+                gewinnen können, daß ich mich <pb facs="#image_008"/>mit Recht hierüber beklage.</p>
+<p><space/> Könnte ich versichert sein, daß Sich ew.<lb break="yes"/>Majestät dieser
+                Mühe unterziehen<lb break="yes"/>wollten, so bin ich überzeugt, daß ich<lb break="yes"/>mich einer baldigen Entlassung aus der<lb break="yes"/>Anstalt zu
+                erfreuen haben werde.</p>
+<p><space/> Meine Lage ist wie aus den Briefen er<lb break="no"/>sichtlich gewiß dazu
+                angethan mich noch<lb break="yes"/>Ihrem besonderen Schutze zu empfehlen.<lb break="yes"/>Indem ich der gefälligen Entschließung<lb break="yes"/>Ew.
+                Majestät entgegensehe, verbleibe<lb break="yes"/><hi rendition="#c">Euer
+                    Majestät</hi><lb break="yes"/><hi rendition="#r">dankschuldiger!<lb break="yes"/>Joseph
+                        <surname>B.</surname>.</hi><lb break="yes"/>Kleinkötz resp. Irsee,<lb break="yes"/>den 27. Septbr.<lb break="yes"/><space/> 1871. <pb facs="#image_009"/><hi rendition="#r">An<lb break="yes"/>S<hi rendition="#sup">r</hi> Majestät<lb break="yes"/>den
+                    König Ludwig II<lb break="yes"/>von<lb break="yes"/>Baiern.</hi></p>
+<p><hi rendition="#r">Absender:<lb break="yes"/>Joseph
+                    <surname>B.</surname>.</hi>
+</p>
+</body>
+</text>
+</TEI>

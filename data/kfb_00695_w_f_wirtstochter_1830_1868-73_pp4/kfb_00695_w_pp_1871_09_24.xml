@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb695w02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>695</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Barbara <surname>W.</surname></persName>
+<date type="sent">24.09.1871</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder und Verwandter: Johannes </persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb695w">
+<persName>
+<forename>Barbara</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1830"/>
+<death when="1873"/>
+<occupation>Wirtstochter</occupation>
+<residence><geo decls="#WGS">47.5678958 9.9205365</geo>Weiler, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Wirt</p>
+<p from="1868" to="1873">Anstalt: 1868-1873</p>
+<p from="1868" to="1873">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Melancholie, Schwermutswahn, Tobsucht (1867)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patientin bittet um Abholung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb695w02a.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 24. September<lb break="yes"/><hi rendition="#u">1871</hi></hi></dateline>
+<salute><hi rendition="#r">Lieber Bruder u. <unclear>Verwander</unclear> Johan̄es!</hi></salute>
+</opener>
+<p>Du weißt wohin mich deine Frau u dein<lb break="yes"/>Sohn hingeführt haben,
+                leider Gott wieder<lb break="yes"/>ins Irenhaus, ich habe schon lang ein rechtes<lb break="yes"/>Verlangen nach Haus sei doch so gut u. kom̄e<lb break="yes"/>doch bald u. hole mich von Hier wieder ab.<lb break="yes"/><seg ana="#salute">In der freudigen Erwartung Grüßt dich</seg><lb break="yes"/><hi rendition="#c">Deine</hi><lb break="yes"/><hi rendition="#r">Schwester<lb break="yes"/><seg ana="#signed">Barbara <surname>W.</surname></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

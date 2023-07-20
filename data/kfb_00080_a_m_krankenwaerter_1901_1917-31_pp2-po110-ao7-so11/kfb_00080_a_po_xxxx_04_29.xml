@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a110" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">29.04.xxxx</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er behauptet, einsichtig zu sein und will sich bessern.
+                    Er bittet um eine Arbeit und verspricht, diese gewissenhaft auszuführen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a110a.jpg" xml:id="image_070"/>
+<graphic mimeType="image/jpg" url="kfb80a110b.jpg" xml:id="image_071"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_070"/>
+<opener>
+<dateline><hi rendition="#c">Kaufbeuren, 29. April; </hi></dateline>
+<salute>Hochwohlgeboren, sehr geehrter<lb break="yes"/>Herr <hi rendition="#u">Medizinalrat!</hi></salute>
+</opener>
+<p><space/> Ich will Ihnen schriftlich mei<lb break="no"/>ne Wahrheit mitteilen! Mir<lb break="yes"/>geht es jetzt sehr gut &amp;. bin nicht<lb break="yes"/>mehr
+                aufgeregt &amp;. verstimmt.<lb break="yes"/>Ich dachte in letzter Zeit, daß aus<lb break="yes"/>mir nichts mehr wird &amp;. daß ich<lb break="yes"/>nichts wert
+                bin, drum̄ machte<lb break="yes"/>ich die dum̄en Sachen &amp;. meinte
+                ich<lb break="yes"/>sterbe daran. Jetzt bin ich selber über<lb break="no"/>zeugt,
+                daß ich da nur die Herr Pfle<lb break="no"/>ger in Verlegenheit bringe &amp;. daß<lb break="yes"/>das eine große Dum̄heit ist; &amp;.<lb break="yes"/>ich
+                dan̄ nur länger dableiben<lb break="yes"/>muß; Ich weiß jetzt schon, wenn<lb break="yes"/>ich mich bessere; daß ich bald hinau<unclear reason="damage">s</unclear><lb break="yes"/><hi rendition="#r">kom̄<unclear reason="damage">e</unclear></hi>
+</p>
+<pb facs="#image_071"/>
+<p><add place="top">Teilen Sie es mir bitte mit, was<lb break="yes"/>Sie meinen
+                    &amp;. mit mir vorhaben.</add><lb break="yes"/>Ich verspreche Ihnen diesmal auf<lb break="yes"/>Ehre &amp;.
+                Sēligkeit, daß ich keine einzi<lb break="no"/>ge Dumheit mehr mache; ich
+                nehme<lb break="yes"/>mich sehr zusam̄en &amp;. folge Ihnen &amp;.<lb break="yes"/>allen meinen Vorgesetzten aufs<lb break="yes"/>Wort. Mir ist es
+                sehr recht, wenn Sie<lb break="yes"/>mit mir zufrieden sind. Ich werde<lb break="yes"/>schon noch gesund; anders &amp;. nehme<lb break="yes"/>mich
+                zusam̄en, Wen̄ ich heimkom̄e<lb break="yes"/>dan̄ gehe
+                ich auf dauernde Arbeit.<lb break="yes"/>Ich habe an Sie 1 Bitte! Könnte ich nicht<lb break="yes"/>bis in nächster Woche von Ihnen 1 Arbeit<lb break="yes"/>oder
+                Beschäftigung bekom̄en. Ich will<lb break="yes"/>sehr gerne jetzt arbeiten.
+                Arbeit macht<lb break="yes"/>das Leben süß; Versuchen Sie es bitte<lb break="yes"/>mit mir nur noch einmal. Dieses mal<lb break="yes"/>halte ich es aus &amp;. mache
+                nichts Dum̄es mehr.<lb break="yes"/>Ich tue jede Arbeit sehr gerne jetzt.<lb break="yes"/><space/>
+<seg ana="#salute">Es grüßt Sie höflicht</seg>
+<seg ana="#signed">Hans <surname>A.</surname></seg><lb break="yes"/>Bitte erfüllen Sie mir diese Bitte.</p>
+</body>
+</text>
+</TEI>

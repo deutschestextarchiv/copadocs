@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="gut96b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 661: Gütersloh</collection>
+<idno>96 (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ida <surname>B.</surname></persName>
+<date type="sent">02.08.1921</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion</persName>
+<settlement type="sent">Gütersloh</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="gut96b">
+<persName>
+<forename>Ida</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1902-04-26"/>
+<death cert="unknown"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">51.5142273 7.4652789</geo>Geburtsort: Dortmund; Wohnort: Dortmund</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1921-02-09" to="1926-02-26">Anstalt: 09.02.1921-26.02.1926</p>
+<p from="1921-02-09" to="1926-02-26">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geisteskrank (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um ihre Kleidungsstücke
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="gut96b03a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="gut96b03b.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="gut96b03c.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline/>
+<salute>An die<lb break="yes"/><hi rendition="#r">Direktion der<lb break="yes"/>Provinzialheilan<lb break="no"/>stalt<lb break="yes"/><hi rendition="#u">Gütersloh</hi>.</hi></salute>
+</opener>
+<p><add><hi rendition="#c">R.</hi></add>
+</p><p><add hand="anstaltsstempel">Provinzialheilanstalt<lb break="yes"/>Gütersloh<lb break="yes"/>Eing. 2. AUG. 1921<lb break="yes"/>T.B. No ___ Anl.</add></p>
+<p><hi rendition="#c">P. P.</hi><lb break="yes"/>Ihre werten Zeilen<lb break="yes"/>gelangten in mei<lb break="no"/>nen <hi rendition="#i">B</hi>e<hi rendition="#i">sitz</hi>.<lb break="yes"/>Muß
+                Ihnen mit<lb break="no"/>teilen daß ich mei<lb break="no"/>ne Schürze am<lb break="yes"/>Abend vor meinem<lb break="yes"/>Fortgang abgab, und<lb break="yes"/>mir die Stations<lb break="no"/>schwester sagte am <pb facs="#image_009"/>Abend brauchte ich<lb break="yes"/>Keine Schürze ich<lb break="yes"/>würde den nächsten<lb break="yes"/>Morgen eine be<lb break="no"/>kommen. Eine<lb break="yes"/><w>Unter taille</w> habe<lb break="yes"/>ich nie getragen.<lb break="yes"/>Sollten Sie mei<lb break="no"/>nen Worten <w>kei<lb break="yes"/>nen</w> Glauben<lb break="yes"/>schenken, dann<lb break="yes"/>bitte ich Sie, mir<lb break="yes"/>meine Kleidung<lb break="yes"/><hi rendition="#i">per</hi> Sachnahme<lb break="yes"/>zu senden.
+                Den<lb break="yes"/>Betrag für die <pb facs="#image_010"/>fehlende Kleidungs<lb break="no"/>stück. die ich haben<lb break="yes"/>soll <w>ein zu behalten</w>. </p><p><hi rendition="#r"><seg ana="#salute">Hochachtungsvo<unclear>ll</unclear></seg><lb break="yes"/><seg ana="#signed">Frau Ida<lb break="yes"/><hi rendition="#i"><surname>B.</surname></hi><lb break="yes"/>Dortmund<lb break="yes"/><placeName type="street">Börsigstr</placeName><lb break="yes"/>No
+                    90.</seg></hi>
+</p>
+</body>
+</text>
+</TEI>

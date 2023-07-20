@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1491l07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1491</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Engelbert <surname>L.</surname></persName>
+<date type="sent">30.05.1900</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: Johann Georg
+                    <surname>V.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1491l">
+<persName>
+<forename>Engelbert</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1835"/>
+<death when="1907"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">47.5970747 9.738314</geo>Wildberg (Lindau)</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1889" to="1907">Anstalt: 1889-1907</p>
+<p from="1889" to="1907">Brieftypen: pp,po</p>
+</state>
+<trait><p>Tobsucht, Verrücktheit mit Ausgang in apathischem Blödsinn, Halluzination (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet um Besuch
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1491l07a.jpg" xml:id="image_021"/>
+<graphic mimeType="image/jpg" url="kfb1491l07b.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="kfb1491l07c.jpg" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline>Irrsee <w>Pfläg Anstalt</w> ten 30 Mai 1900</dateline>
+<salute>GeErter Herrn Johan georg <surname>V.</surname>:</salute>
+</opener>
+<p> Bierger Meister in der Gemeinde<lb break="yes"/>Weisensberg wohe Schwatzer
+                        <w>Bezierchs<lb break="no"/>Amt</w> Lindau in dem ich Engelbert<lb break="yes"/>Locher seit 1887 in Kemten ten 3 Tage<unclear>d</unclear><lb break="yes"/>am <w>Schäffen gricht</w> wegen <w>uter<lb break="no"/>Schlagug</w>
+<w>ver Handelt</w> worden Bin<lb break="yes"/>und habe 2
+                Jahr Zuchthus <w>Straf<lb break="no"/>Zeit</w>
+<w>ab gesesen</w> so sind es 13 Jahr<lb break="yes"/>in der
+                Gefangen Ab gebist so Bitte<lb break="yes"/>ich Engelbert <surname>L.</surname>
+                den Geerten<lb break="yes"/>Herrn <w>Bierger Meister</w> Sie
+                    werden<lb break="yes"/>So gütig Sein un auf Besuch<lb break="yes"/>in die
+                Pfläg und <w>Heil Anstalt</w><lb break="yes"/>Irrsee komen
+                Bis am <w>Pfingst<lb break="no"/>Montag</w> ten 4 Juli dan werden<lb break="yes"/>mir <w>Rük Sprache</w>
+<w>mit einander</w><lb break="yes"/><hi rendition="#c">Nemen</hi><pb facs="#image_022"/> Zugleich an recht schönen Gruß
+                an die<lb break="yes"/>Schwägerin Witwe Frau <surname>S.</surname><lb break="yes"/>Holz und <w>Bren Matirialhändlerin</w>
+<del>d</del><lb break="yes"/>ich Engelbert Locher <w>Be
+                    finde</w> mich<lb break="yes"/>ganz Gesund und Wohlauf als<lb break="yes"/>Holzmacher <w>in</w><w>der</w> Arbeit
+                    Be<lb break="no"/>schäftigt Libe Witwe <surname>S.</surname><lb break="yes"/>komen Sie mit dem Herrn Birger<lb break="no"/>Meister in die <w>Pfläge Anstalt</w><lb break="yes"/>Irrsee <seg ana="#salute">Es Grüst eich auf das<lb break="yes"/>Freindlichste
+                    Pflägling</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Engelbert<lb break="yes"/>Locher
+                    1900</seg></hi></p>
+<p>
+<add hand="arzt">Ad Acta 7/VI 1900 Dr <unclear>Ul</unclear></add></p>
+<pb facs="#image_023"/>
+<p><hi rendition="#c">An <w>Wohl Geboren</w></hi><lb break="yes"/>Herrn Johan georg <surname>V.</surname><lb break="yes"/><w>Beiger Meister</w> in Weisensberg<lb break="yes"/>Post
+                    Schlachtes</p>
+<p><hi rendition="#r">Bei Lindau<lb break="yes"/>am<lb break="yes"/><w>Boden See</w></hi></p>
+</body>
+</text>
+</TEI>

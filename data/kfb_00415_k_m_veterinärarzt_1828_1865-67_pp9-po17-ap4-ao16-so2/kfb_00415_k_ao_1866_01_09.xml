@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k42" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johannes <surname>R.</surname></persName>
+<date type="sent">09.01.1866</date>
+<date type="received">10.01.1866</date>
+<persName type="addressee">Direktor Kiederle</persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1865" to="1867">Anstalt: 1865-67</p>
+<p from="1865" to="1867">Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="freund"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er berichtet von den finanziellen Verhältnissen des Patienten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k42a.jpg" xml:id="image_091"/>
+<graphic mimeType="image/jpg" url="kfb415k42b.jpg" xml:id="image_092"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_091"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg den 9 <hi rendition="#i">Janr.</hi> 1866.<lb break="yes"/><add hand="arzt"><hi rendition="#i">pr</hi>. 19. Jan. 66<lb break="yes"/>ad acta.</add><lb break="yes"/><add hand="hand2"><hi rendition="#i">EN
+                    884</hi></add></hi></dateline>
+<salute><hi rendition="#c">Verehrtester Herr Direktor!</hi></salute>
+</opener>
+<p><add hand="hand2" place="top"><hi rendition="#u">28</hi></add><lb break="yes"/><space/> Meinen verbindlichsten Dank für Ihre<lb break="yes"/>freundliche Erwiederung vom 8 ds. Mts, aus<lb break="yes"/>der ich leider nicht
+                viel Tröstliches über<lb break="yes"/>meinen armen <surname>K.</surname>
+                erfahre. Ich<lb break="yes"/>habe mir übrigens im Voraus keine Hoffnung<lb break="yes"/>auf bessere Nachricht gemacht, weil derar<lb break="no"/>tige
+                Zustände in der Regel länger andau<lb break="no"/>ern sollen. Gott gebe das beßte!
+                −</p>
+<p><space/> Über die pekunieren Verhältnisse <surname>K.</surname><lb break="yes"/>kan̄ ich Jhnen mittheilen daß derselben vom<lb break="yes"/>1 <hi rendition="#i">Janr</hi> 1866 angefangen auf ein Jahr pensionirt<lb break="yes"/>ist, u. für dieses Jahr f 420,- bezieht. Hinzu<lb break="yes"/>kom̄en f 60,- Zinsen aus den beim Depositen<lb break="no"/>amt hinterlegten
+                Staatspapieren von f 1,500,-<lb break="yes"/>An baar Geld wird im Depositenamt vom
+                    vergan<lb break="no"/>genen Jahre auch noch <hi rendition="#i">circa</hi> f 100,-
+                u. die noch nicht<lb break="yes"/>einkassirten Zins-<hi rendition="#i">Coupon</hi>
+                von f 60,- liegen.<lb break="yes"/>Ich werde dieses Geld bei der städtischen
+                Sparkasse<lb break="yes"/>hinterlegen, damit wir im̄er etwas in Re<lb break="no"/>serve haben. Jedenfalls kann <surname>K.</surname>
+<pb facs="#image_092"/>über die Geldfrage vollkom̄en beruhiget sein.<lb break="yes"/>Er hat was er braucht um in Ihrer Anstalt<lb break="yes"/>anständig zu leben, u. sein erspartes Vermö<lb break="no"/>gen ist auch ein ganz
+                respektabler Hinterhalt<lb break="yes"/>Herr General u. Stadtkom̄andant
+                    <surname>L.</surname> hat mir<lb break="yes"/>gerathen bis Ostern beim
+                    Unterstützung<lb break="no"/>fond für <surname>K.</surname> eine Eingabe zu
+                machen<lb break="yes"/>u. er zweifle nicht daß eine angemessene
+                    Sum̄<unclear>e</unclear><lb break="yes"/>als Zuschuß zu der Pension bewilliget werde<lb break="yes"/>Wen̄ <surname>K.</surname> damit einverstanden ist<lb break="yes"/>so
+                werde ich diese Eingabe s. Z. besorgen.</p>
+<p><space/> Wegen einer Unterstützung für die Mut<unclear>ter</unclear><lb break="yes"/>wollen wir vorerst nicht weiter in <surname>K.</surname><lb break="yes"/>dringen. Vielleicht kom̄e ich im Frühjahr
+                    <unclear>selbst</unclear><lb break="yes"/>nach Irsee, wen̄ mein Besuch von Ihnen gut<lb break="no"/>geheißen werden soll.<lb break="yes"/><space/> Mit aller Verehrung Ihr<lb break="yes"/><hi rendition="#r">ergebenster<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Johannes <hi rendition="#u"><surname>R.</surname></hi></hi></seg></hi></p>
+</body>
+</text>
+</TEI>

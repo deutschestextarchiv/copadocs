@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1703h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Susanne Klohn</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1703</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franziska <surname>H.</surname></persName>
+<date type="sent">xx.12.1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1703h">
+<persName>
+<forename>Franziska</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1917"/>
+<occupation>Bäckermeisterstochter</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Bäckermeister</p>
+<p from="1896" to="1917">Anstalt: 1896-1917</p>
+<p from="1896" to="1917">Brieftypen: pp, po</p>
+</state>
+<trait><p>Imbezillität (1897)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Wenn Mutter Geld schickt, soll Arzt Nötiges nehmen; 
+                    Pflegerin darf nicht davon erfahren, würde von gekauften Torten wegnaschen, ihr gesagt, deshalb Ärger
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1703h01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1703h01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#r">Geehrter Herr Oberarzt!</hi></salute>
+</opener>
+<p>
+Wen̄ meine Mutter auf Weihnachten Geld<lb break="yes"/>schickt, dan̄ dürfen Sie von meinem Geld<lb break="yes"/>behalten, wie viel es im Ganzen kostet<lb break="yes"/><seg ana="#med">für fünf Gläser Zahntropfen, für einen<lb break="yes"/>Zahn herausziehen, für den Stuhl welcher<lb break="yes"/>ich verdorben habe für den Schnupftabak<lb break="yes"/>wegen Katarrh</seg>. Vor der Pflegerin will<lb break="yes"/>ich Ihnen nicht sagen, wen̄ Sie zu mir sagen<lb break="yes"/>meine Mutter hat Geld geschickt und was mit<lb break="yes"/>dem Geld thun soll weil ich einmal zu der<lb break="yes"/>Pflegerin gesagt habe, Wen̄ meine Mutter Geld<lb break="yes"/>schickt da liese ich keine Dorten kaufen und<lb break="yes"/>daß Sie von meinen Dorten nicht weg naschen
+
+<pb facs="#image_002"/>
+kan̄, das hat Sie gesagt ich sei eine boshafte<lb break="yes"/>Person, weil ich so gesagt habe das ärgere<lb break="yes"/>Ihr so arg, drum ist Sie mit mir auch so<lb break="yes"/>boshaft. Von den Torten bekome ich nichts als<lb break="yes"/>Zahnschmerzen, es wäre besser wen̄ es von<lb break="yes"/>meinem Geld nachgezahlt wird. Vor der<lb break="yes"/>Pflegerin sagen Sie nicht daß meine Mutter<lb break="yes"/>Geld geschickt hat, nur heimlich zu mir sonst<lb break="yes"/>kan̄ Sie meinen was mit dem Geld geschieht<lb break="yes"/>dan̄ ärgert Ihr so arg weil ich Sie ausgespotte</p>
+<p><add hand="arzt">/: Geschrieben von <hi rendition="#i"><surname>H.</surname></hi> Franziska<lb break="yes"/><hi rendition="#c">XII. 1898: /</hi></add>
+</p>
+</body>
+</text>
+</TEI>

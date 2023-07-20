@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1491l10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1491</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Engelbert <surname>L.</surname></persName>
+<date type="sent">19.06.1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: Johann Georg
+                    <surname>V.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1491l">
+<persName>
+<forename>Engelbert</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1835"/>
+<death when="1907"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">47.5970747 9.738314</geo>Wildberg (Lindau)</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1889" to="1907">Anstalt: 1889-1907</p>
+<p from="1889" to="1907">Brieftypen: pp,po</p>
+</state>
+<trait><p>Tobsucht, Verrücktheit mit Ausgang in apathischem Blödsinn, Halluzination (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Der Patient soll bald entlassen werden und teilt dem Bürgermeister einen Termin zur Abholung mit. 
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1491l10a.jpg" xml:id="image_031"/>
+<graphic mimeType="image/jpg" url="kfb1491l10b.jpg" xml:id="image_032"/>
+<graphic mimeType="image/jpg" url="kfb1491l10c.jpg" xml:id="image_033"/>
+<graphic mimeType="image/jpg" url="kfb1491l10d.jpg" xml:id="image_034"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_031"/>
+<opener>
+<dateline><hi rendition="#r">Jrse <w>Pläge Anstalt</w><w>ten</w></hi><lb break="yes"/>19 Juni 1898 <space/> An</dateline>
+<salute> Herrn Johan Georg<lb break="no"/><surname>V.</surname> in Schwatzen<lb break="yes"/><w>Bürger Meister</w> in der<lb break="yes"/>Gemeide Weisensberg:<lb break="yes"/><w>Bezierch Amt</w>
+                    Lindau</salute>
+</opener>
+<p><w>in dem</w> ich <w>Engelbert</w><lb break="no"/><surname>L.</surname> als Pflägling<lb break="yes"/>der Herrn Thierretor<lb break="yes"/>am 18 Juni Sagt Daß<lb break="yes"/>Er
+                mir Die Entlassung<lb break="yes"/>biß am 23 Juni geben<lb break="yes"/>wol und
+                Der Herr <w>Ober<lb break="no"/>Arzt</w> Die Gutachtung<pb facs="#image_032"/> Dazu
+                geben ich Engelbert<lb break="yes"/><surname>L.</surname> Bitt den <w>Herrn</w><lb break="no"/><w>Bürgermeister</w> Sie<lb break="yes"/>werden Biß
+                    Donstag<lb break="yes"/>ten 23 Juni <w>mich</w><w>in</w><lb break="yes"/>Der Anstalt Abholen<lb break="yes"/>es wäre dem Herrn<lb break="yes"/><w>Ober Arzt</w><w>niht</w> und<lb break="yes"/>ich Engelbert <surname>L.</surname><lb break="yes"/>Hoffe es
+                auch ich bin<lb break="yes"/>Gesund kan Der Arbeit<lb break="yes"/>Vostehen so
+                Bitte ich <pb facs="#image_033"/> Den Herrn Biergermeister<lb break="yes"/>Sie
+                Werden <w>selbst</w><lb break="no"/><w>komen</w> biß Donstag<lb break="yes"/>ten 23 Juni mittags
+                12<lb break="yes"/>Uhr ist es miglich<lb break="yes"/>ich habe ein groses<lb break="yes"/>Velangen in Die<lb break="yes"/>Freiheit <seg ana="#salute">Es Grüst<lb break="yes"/>eich auf Das <w>freundlich<lb break="no"/>ser</w></seg> <seg ana="#signed">Pflägling<lb break="yes"/><hi rendition="#c">Engelbert</hi><lb break="yes"/><hi rendition="#r"><surname>L.</surname> 1889</hi></seg></p><pb facs="#image_034"/><p>
+<hi rendition="#c">An</hi><lb break="yes"/><w>Wohl Gebornen</w> Herren<lb break="yes"/>Johan Georrg
+                    <surname>V.</surname><lb break="yes"/><w>Won ort</w> Schwatzen<lb break="yes"/>Bürgermeister in<lb break="yes"/>der Gemeide<lb break="yes"/><hi rendition="#c">Weisensberg<lb break="yes"/><w>Bezierch Amt</w><lb break="yes"/>Lindau<lb break="yes"/>Schlachters</hi>
+</p>
+</body>
+</text>
+</TEI>

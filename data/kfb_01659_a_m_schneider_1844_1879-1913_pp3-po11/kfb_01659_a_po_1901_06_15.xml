@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1659a05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1659</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kaspar <surname>A.</surname></persName>
+<date type="sent">ca. q879-1913</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Dekan: Johann <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1659a">
+<persName>
+<forename>Kaspar</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1913"/>
+<occupation>Schneider, Unteroffizier</occupation>
+<residence><geo decls="#WGS">48.7990056 10.7444384</geo>Mündling, Donauwörth</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1879" to="1913">Anstalt: 1879-1913</p>
+<p from="1879" to="1913">Brieftypen: pp, po</p>
+</state>
+<trait><p>Halluzinatorische Paranoia (1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Gratulation zu Jubiläum
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1659a05a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb1659a05b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline>Irrenhaus-Filiale Irrsee den 15. Juni 1901.</dateline>
+<salute><hi rendition="#c">Euer Hochwürden!</hi></salute>
+</opener>
+<p><add hand="arzt" place="margin">ad acta</add></p>
+<p>Ich bin nun schon seit dem<lb break="yes"/>Jahre 1879 verurtheilt unter<lb break="yes"/>den Patienten dahier mit<lb break="yes"/>der <hi rendition="#i">Menage</hi> Verban̄ung<lb break="yes"/>zu administriren.<lb break="yes"/>Die Welt ist nun aller<lb break="no"/>dings die Welt; allein<lb break="yes"/>ich fühle mich dessen<lb break="yes"/>ungeachtet dennoch wie<lb break="yes"/>in einem Theater<lb break="yes"/>und es umlillt mich<lb break="yes"/>oft des Zaubers Gang<lb break="yes"/>in Sehnsucht. *<lb break="yes"/>Daher diese Blumen<lb break="yes"/>"<foreign xml:lang="frz"><hi rendition="#i">a Honeur</hi></foreign>" zu Ihrem<lb break="yes"/>dahier
+                bekan̄t gewor<lb break="no"/>denen Jubiläums<lb break="no"/>Feste für
+                Weiteres,<lb break="yes"/>nachträglich<lb break="yes"/><hi rendition="#r"><seg ana="#signed">Kaspar <surname>A.</surname></seg></hi></p>
+<pb facs="#image_012"/>
+<p> An<lb break="yes"/>Wohlgeboren Herrn<lb break="yes"/>Johan̄ <hi rendition="#i"><surname>H.</surname></hi><lb break="yes"/>kgl. <hi rendition="#i">Dekan</hi><lb break="yes"/>in <hi rendition="#i">Mündling</hi><lb break="yes"/>k. Bez. <hi rendition="#i">Donauwörth</hi>. </p>
+</body>
+</text>
+</TEI>

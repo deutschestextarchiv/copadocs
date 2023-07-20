@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l138" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-1872</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notiz</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Wegen verschiedener Punkte stellt die Patientin das Handeln des Arztes sowie bestimmte Gegebenheiten in der Anstalt in Frage. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l138a.jpg" xml:id="image_365"/>
+<graphic mimeType="image/jpg" url="kfb519l138b.jpg" xml:id="image_366"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_365"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#i">DJ</hi> vereist so oft u <hi rendition="#i">confsirt</hi><lb break="yes"/>viele Mädchen u thut gegen<lb break="yes"/>mih 4 Jhr lang als ob
+                er keine<lb break="yes"/>berühren ud. <hi rendition="#i">curiren</hi> kön̄e<lb break="yes"/>Deßhalb heiß ich ihn <hi rendition="#u">dum̄</hi><lb break="yes"/>Man sucht mih nur zu ärger<lb break="yes"/>mit Bosheit u
+                Nachläßigkeit<lb break="yes"/>verschreibt mir nicht eimal<lb break="yes"/>eine
+                        <w>S<unclear>a</unclear>go Sup</w> u thut als<lb break="yes"/>ob man weder
+                schreiben noch<lb break="yes"/>lesen kön̄e deßhalb seid ihr <seg ana="#curse">du<unclear>m</unclear><lb break="yes"/>Esel. u Mörder </seg>die mich<lb break="yes"/>wegen jeder
+                Kleinigkeit empören<lb break="yes"/>allein doch nie befriedig <unclear><hi rendition="#i">wln</hi></unclear><lb break="yes"/>Ich habe kein Erlu<unclear>bß</unclear> u kein Füße<lb break="yes"/>zu Euch zu gehen u kein Lust<lb break="yes"/>u L<unclear>eut</unclear> bei
+                        W<del><unclear>s</unclear></del>eibsbild mit<lb break="yes"/><unclear>David</unclear> zu sprechen aber ihr habt Pfl<unclear reason="damage">icht</unclear>
+<pb facs="#image_366"/>Wohin reist <hi rendition="#i">D. J</hi> u warum?<lb break="yes"/>nim̄t er mich nicht mit. −<lb break="yes"/>da ich
+                doch nichts thun kan̄<lb break="yes"/>u mit Nie<unclear>ma</unclear>d
+                sprechen<lb break="yes"/>vor <del>diesen</del> Weibsbilder die<lb break="yes"/>mich ohnedies nicht laßen<lb break="yes"/>Und als ich gestern dem Hr
+                    Pf<unclear>mm</unclear><lb break="yes"/>nicht auf diese Art <hi rendition="#i">gratulirte</hi>
+                    ha<unclear>b</unclear><lb break="yes"/><space/> war es niht recht. − </p>
+<p>Warum müßen wir Holz u Licht<lb break="yes"/>Zahlen für die Wärterinen die<lb break="yes"/>unöthig heizen im Gittezim̄er<lb break="yes"/>wen̄
+                sie z B etwas kochen oder<lb break="yes"/>beigeben wollen. u warum<lb break="yes"/>wird der Schlafsaal nie geheizt<lb break="yes"/>wo man sich weder waschen<lb break="yes"/>mit gefroren Waßer −<lb break="yes"/>noch kalt u dunkel
+                kön̄en </p>
+</body>
+</text>
+</TEI>

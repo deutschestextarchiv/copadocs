@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1775m05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Lena Weller</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1775</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Louisa <surname>M.</surname></persName>
+<date type="sent">2.9.1916</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Leopold <surname>M.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1775m">
+<persName>
+<forename>Louisa</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1872"/>
+<death when="1917"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">48.3044877 10.1601492</geo>Weisenhorn, Neu-Ulm, geb. Oppenau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: geschieden</p>
+<p from="" to="">Eltern: Vater: Nagelschmied</p>
+<p from="1903" to="1917">Anstalt: 1903-17</p>
+<p from="1903" to="1917">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Schwachsinn (1903)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin bedankt sich für ein Paket, dass sie von ihrem Bruder erhalten hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1775m05a.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="kfb1775m05b.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb1775m05c.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb1775m05d.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline>Dorf Irsee Anstalt den 2 September 1916.</dateline>
+<salute>Mein lieber Bruder Leopold,</salute>
+</opener>
+<p>Dein Packetchen habe ich mit<lb break="yes"/>Freuden erhalten, auch deinen<lb break="yes"/>schönen Brief, Gott sei Dank<lb break="yes"/>daß ich von dir
+                wieder eine<lb break="yes"/>Nachricht habe, den Zucker thue<lb break="yes"/>ich in
+                Kaffee, ich sag dir lieber<lb break="yes"/>Bruder Leopold ein herzlich<lb break="yes"/>Vergelds Gott dafür, Ich bete<lb break="yes"/>allen Samstag in der
+                Kappelle<lb break="yes"/>für dich daß du gesund bleibst <pb facs="#image_015"/>ich
+                will brav bleiben, bin auch<lb break="yes"/>schon lange in der Anstalt,<lb break="yes"/>und habe dich schon lange<lb break="yes"/>nicht mehr gesehn,
+                möchte auch<lb break="yes"/>einmal wieder einmal von<lb break="yes"/>euch jemand
+                sehn, habe unseren<lb break="yes"/>Mutter auch geschrieben aber<lb break="yes"/>noch keine Antwort erhaltn,<lb break="yes"/><w>Noch mals</w> Danck für alles
+                gute,<lb break="yes"/>der Krieg wird auch wieder einmal<lb break="yes"/>zu Ende
+                gehn, was es hoffendlich<lb break="yes"/>uns schon lange, darauf wartet, <pb facs="#image_016"/>lieber Bruder bleibe recht<lb break="yes"/>gesund, und wohl,<lb break="yes"/><seg ana="#signed">Herzlichen Gruß von deiner<lb break="yes"/>Schwester Luise</seg>,<lb break="yes"/>Auf ein Wiedersehn. <pb facs="#image_017"/>Feldpost<lb break="yes"/>zurück zur <unclear>gerf
+                    Konig</unclear><lb break="yes"/><hi rendition="#u" style="arzt">Ein Leopold <surname>W.</surname> befindet sich</hi><hi rendition="#i"><lb break="yes"/>Lan<unclear>zal</unclear>st Leopold <surname>M.</surname></hi><lb break="yes"/><hi rendition="#u" style="arzt">nicht <del><unclear/></del></hi><lb break="yes"/><del><unclear>Guv Liso n Konigegeir</unclear><lb break="yes"/>Ers.
+                        Batt. Rrs <unclear>Inft</unclear> Reg N. 63</del><lb break="yes"/><del hand="arzt"><add place="margin"><unclear>Cöln</unclear></add></del><hi rendition="#c">Betr. Regt. 65</hi><lb break="yes"/><hi rendition="#r"><unclear><hi rendition="#i">Häen Rienl</hi></unclear></hi><lb break="yes"/><del hand="arzt"><hi rendition="#c"><add hand="arzt"><hi rendition="#i">Alt B</hi></add><del>Köln<lb break="yes"/>Brükenstraße
+                        15</del><lb break="yes"/><unclear><hi rendition="#u">Waffenpunkei.</hi> C
+                            <del>Koning</del></unclear></hi><lb break="yes"/>Cöln-Nippes
+                    <unclear>Lohseste</unclear> 6</del></p>
+</body>
+</text>
+</TEI>

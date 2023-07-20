@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l122" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notiz</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Die Patientin fordert Geldzahlungen, ein Winterquartier und die Besorgung verschiedener Gerichte. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l122a.jpg" xml:id="image_326"/>
+<graphic mimeType="image/jpg" url="kfb519l122b.jpg" xml:id="image_327"/>
+<graphic mimeType="image/jpg" url="kfb519l122c.jpg" xml:id="image_328"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_326"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#c">Schuldverschreibung</hi><lb break="yes"/>für Beeinträchtigung u Beleidung<lb break="yes"/><space/> 1000 fl mit
+                Worten tausend Gulden </p>
+<p><hi rendition="#i"><unclear>Bemk.</unclear></hi>. Von K <hi rendition="#i"><surname>L.</surname></hi> den ich auch ken̄te<lb break="yes"/>habe ich nichts verlangt weil er mir<lb break="yes"/>keine Schand u. Schaden
+                zugefügt </p>
+<pb facs="#image_327"/>
+<p><hi rendition="#c"><hi rendition="#u">Bitte um ein Winterquatir</hi><lb break="yes"/><hi rendition="#u">bei</hi> − <hi rendition="#u">mit</hi> − Dir</hi><lb break="yes"/><hi rendition="#u">Slips</hi><lb break="yes"/><hi rendition="#u">Cloroformium</hi><lb break="yes"/><hi rendition="#u"><hi rendition="#i">Cerat</hi></hi>. </p>
+<pb facs="#image_328"/>
+<p><hi rendition="#u">Kostverschreibung</hi><lb break="yes"/><space/>
+<hi rendition="#u">Küchen-Zettel</hi> gütigist zu besorgen<lb break="yes"/><hi rendition="#u">Tägli</hi>ch 1 <hi rendition="#i">X</hi>r Rum samt Semel<lb break="yes"/><space/> da die Wärterinen Jede für 6 <hi rendition="#i">X</hi>r.
+                Frühstück hat<lb break="yes"/>V<hi rendition="#u">ormittag</hi> ½ <hi rendition="#i">Quart</hi> Fleischsup indem die Wärterinen ganze <add place="margin">Schüßel voll eßen</add><lb break="yes"/><hi rendition="#u">Mittag</hi>s 2 Loth weiches mageres
+                Kalbfleisch &amp;<lb break="yes"/><space/> oder <hi rendition="#u" style="arzt">Leberklözl</hi> oder Spatzen.<lb break="yes"/><hi rendition="#u">Aben</hi>d.
+                    <hi rendition="#u" style="arzt">Fledlsup</hi> oder geriebene Gerste<lb break="yes"/><space/> oder Würst oder Kartoffel.<lb break="yes"/>Abends <hi rendition="#u">Freitag</hi> Eierhaber oder Brodsup. </p>
+</body>
+</text>
+</TEI>

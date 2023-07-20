@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l88" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Die Patientin beschwert sich sowohl über die mangelnde ärztliche Behandlung als auch über die Kost in der Anstalt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l88a.jpg" xml:id="image_232"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_232"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#u">Eure Unordnug Bosheit</hi> u. <hi rendition="#u">Schlechtigkeit ist</hi><lb break="yes"/>schuld, daß ich so viel Zeit u all mein<lb break="yes"/>Gedult
+                verliere u deßhalb stets so empört.<lb break="yes"/>Ein geistl od Leiblicher Azt,
+                der sich nicht <w>ge<lb break="no"/>traut</w> zu einem Kranken, setzt in sich
+                selbst<lb break="yes"/>kein gutes Zutrauen u. wer so scheinheilg<lb break="yes"/>thut kein Frauenzim̄r zu berühren −<lb break="yes"/>der hat schon
+                hunderte vorn u hinten −<lb break="yes"/>u. veranlaßt mich deßhalb nur zu
+                Beschimpfe<lb break="yes"/>u. Verachtung <unclear>&amp;c</unclear>. Ich habe von
+                Euch nichts<lb break="yes"/>anders verlangt als die Pflicht zu erfüllen<lb break="yes"/>Hr <hi rendition="#i">Doctor</hi> ging gestern wieder mit seinen<lb break="yes"/>Hr. <hi rendition="#i">Colega</hi> zur Erholung statt zu <w>Kranke
+                        <hi rendition="#i">Visit</hi></w>.<lb break="yes"/>u wen̄ man bei der
+                der Einen Thür her<lb break="no"/>ein, soll man <unclear>wenigst</unclear> zur
+                andern <w>hin<lb break="no"/>aus</w> − Auf deßen <hi rendition="#i">Teraße</hi> erwarte ich<lb break="yes"/>ihn jetz nicht mehr zum <hi rendition="#i">Fraße</hi> u<lb break="yes"/>da ich kei<unclear>n</unclear>en
+                Ochsen freßen u tägl<lb break="yes"/>ein Kalbfl zu Mittag auch ein genieß<lb break="no"/>bares Frühstück u <w>Abend Eßen</w> brauche<lb break="yes"/>so will
+                ich den Schlüßel zur Küch u<lb break="yes"/>Kirch da ihr mich weder mit noch ohne<lb break="yes"/>Schlüßel an ein Man̄sbild bringen
+                    kön̄t<unclear>e</unclear><lb break="yes"/>Den̄ ich will ohne Weibsbild u ohne<lb break="yes"/>Zorn
+                zur Kirch </p>
+</body>
+</text>
+</TEI>

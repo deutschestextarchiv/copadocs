@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l145" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notiz</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin beklagt sich darüber, wie in der Anstalt mit ihr umgegangen wird. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l145a.jpg" xml:id="image_379"/>
+<graphic mimeType="image/jpg" url="kfb519l145b.jpg" xml:id="image_380"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_379"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Warum gön̄t man mir nicht eimal<lb break="yes"/>ein junges Kätzlein
+                vielweniger mein<lb break="yes"/>kleines Kind. Ich will kein <hi rendition="#u" style="arzt">Handwerk</hi><lb break="yes"/>oder <hi rendition="#u" style="arzt">gemeines Mans</hi>bild
+                heirathen<lb break="yes"/>u alle Bemühung mih mit Hunger ud<lb break="yes"/>Kum̄er an sie zu bringen ist <w>zwek<lb break="no"/>los.</w> Ich habe
+                keinen Sin̄ blos für<lb break="yes"/>die <w>nieder trächtigen</w> gemeinen
+                Sachen<lb break="yes"/>u möchte mih nur zu Etwas höherm<lb break="yes"/>machen u
+                aus der Anstalt sein. </p>
+<p>Warum kom̄en Sie nie zum Bier<lb break="yes"/>od. II K Eßen um zu sehen<lb break="yes"/><hi rendition="#u">wie</hi> es den Wärterin profitir <pb facs="#image_380"/>Für was u für <hi rendition="#u">wen</hi> werden Lichter<lb break="yes"/>gefaßt da wir nicht 3 Minuten zum<lb break="yes"/>Ausziehen
+                welches haben sondern<lb break="yes"/>die Wärterin sogleich samt dem<lb break="yes"/>Licht hinausgeht u oft bis 10 Uhr<lb break="yes"/>wenigst mit der
+                Juli oder Karolin<lb break="yes"/>noch über Patienten schimpfen u <unclear/><lb break="yes"/>zusam̄enratschen u Licht verbren̄en<lb break="yes"/>da die Wärterinen <hi rendition="#u" style="arzt">am hellen Tag</hi><lb break="yes"/>nicht <hi rendition="#u" style="arzt">eimal einsehen wie</hi> krankem<lb break="yes"/>wie theilnahmslos wie eigenützig u grob<lb break="yes"/>sie gegen
+                die Kranken sind. </p>
+</body>
+</text>
+</TEI>

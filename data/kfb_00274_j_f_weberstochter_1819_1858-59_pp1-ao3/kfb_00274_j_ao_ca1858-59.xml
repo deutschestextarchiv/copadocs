@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb274j04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>274</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: Michael <surname>J.</surname></persName>
+<date type="sent">ca.1858-59</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion: n.a.<surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb274j">
+<persName>
+<forename>Josepha</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1819"/>
+<death cert="unknown"/>
+<occupation>Weberstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Webermeister</p>
+<p from="1858" to="1859">Anstalt: 1858-59</p>
+<p from="1858" to="1859">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Seelenstörung (1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Da seine Tochter voraussichtlich aus der Anstalt entlassen werden soll, bittet 
+                    er darum, diese zum Bahnhof Kaufbeuren zu bringen, wo er diese abholen werde.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb274j04.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">An die königl. Direktion der Kreis-Jrrenanstalt <hi rendition="#i">Jrsee</hi>.</hi></salute>
+</opener>
+<p><space/> Der Unterzeichnete, im Begriffe Samstags d. i. den 11 d. M.<lb break="yes"/>mit der Eisenbahn sich nach Kaufbeuern zu begeben, um dort<lb break="yes"/>seine bisher in Behandlung der k. <w>Kreis Jrrenanstalt</w> Jrrsee<lb break="yes"/>befindliche, und wie er sicherlich erwartet, durch die erprobte<lb break="yes"/>Kunst der Aerzte, sowie eine liebevolle Pflege u. Warte
+                    wieder<lb break="no"/>hergestellte Tochter, Josepha <surname>J.</surname>, in
+                Empfang zu nehmen:<lb break="yes"/>stellt deßhalb an die Hohe Direktion die
+                ehrerbietigste<lb break="yes"/>Bitte, ihm seine Tochter bis Samstag d. 11 d. M.
+                nach dem Kauf<lb break="no"/>beurer Bahnhof verbringen zu lassen, wo er sie erwarte.<lb break="yes"/>Sollte ihre Entlassung noch nicht für gut befunden werden,<lb break="yes"/>so bittet er um umgehende Antwort.</p><p><hi rendition="#c"><seg ana="#salute">Jn aller Ergebenheit u. Ehrerbietigkeit<lb break="yes"/>einer Hohen königl. Direktion<lb break="yes"/></seg></hi><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Michael </hi><surname><hi rendition="#i">J.</hi></surname>
+</seg>ehemaliger<lb break="yes"/>Webermeister u.
+                        Hospitalpf<unclear>ründner</unclear>.</hi></p>
+</body>
+</text>
+</TEI>

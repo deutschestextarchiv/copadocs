@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2235g21" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2235</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Regina <surname>G.</surname></persName>
+<date type="sent">17.11.1892</date>
+<date type="received">n.a.</date>
+<persName type="addressee">  Bruder Georg <surname>O.</surname> </persName>
+<settlement type="sent"/>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2235g">
+<persName>
+<forename>Regina</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1918"/>
+<occupation>Ökonomenswitwe</occupation>
+<residence><geo decls="#WGS">47.582117800000006 9.728007926245988</geo>Weißenberg, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Bauersleute, "ziemlich gut situiert"</p>
+<p from="1879" to="1918">Anstalt: 1879-1918</p>
+<p from="1879" to="1918">Brieftypen: pp</p>
+</state>
+<trait><p>Gehörs- und Gesichtshallucinationen (1886), wahnhafte Ideen (1904)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Besuch und Abholung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2235g21a.jpg" xml:id="image_037"/>
+<graphic mimeType="image/jpg" url="kfb2235g21b.jpg" xml:id="image_038"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_037"/>
+<opener>
+<dateline>Kaufbeuern den 17ten November<lb break="yes"/><hi rendition="#r">1892</hi></dateline>
+<salute>Liebe Kinder und Geschwister!</salute>
+</opener>
+<p>Wan̄ komt die Erlösungsstunde<lb break="yes"/>das wier zum Heiligthum der<lb break="yes"/>Erhörung und von da aus in<lb break="yes"/>das Heiligthum der
+                Versönung<lb break="yes"/>kom̄en. Ihr könt kom̄en und<lb break="yes"/>mich Besuchen das fürte mahl<lb break="yes"/>habt ihr zu lange gewartet das<lb break="yes"/>ihr selber nache schauen wie es<lb break="yes"/>ist um mich zu
+                holen die<lb break="yes"/>Zeit wär jetzt da wie der<lb break="yes"/>Bruder am
+                30ten Dezember<lb break="yes"/>geschrieben hat der <surname>M.</surname><lb break="yes"/>Korat wurde mich abholen<lb break="yes"/>und seit dem kein
+                einziger<lb break="yes"/>Brief bekom̄e wie es euch<lb break="yes"/>geht wo
+                ich selber bei <pb facs="#image_038"/>den Kindern sein will unter<lb break="yes"/>der lange Zeit wär es auch<lb break="yes"/>möglich das wier beisamen<lb break="yes"/>sind. Ich hoffe das es euch besser<lb break="yes"/><add place="above">geht</add> als mir wier kön̄ten Fröhlich<lb break="yes"/>sein wen̄ ich mitten unter<lb break="yes"/>ihnen wär und die Freude<lb break="yes"/>recht bald an uns in Erfül<lb break="no"/>lung gehen. Die Bitte an<lb break="yes"/>euch mir nicht abschlagen<lb break="yes"/>durch ein baldiges
+                    <w>Wieder<lb break="no"/>sehen</w>. <seg ana="#salute">Es grüßt euch allen das<lb break="yes"/>ihr mich Besuchet und mitnehme<lb break="yes"/>kön̄t</seg>. <seg ana="#signed">Regina <surname>G.</surname></seg>
+                in<lb break="yes"/>Weißensberg<lb break="yes"/>Station Schlachter </p><p>An Herrn Georg<lb break="yes"/><surname>O.</surname><lb break="yes"/>in Thumen</p>
+</body>
+</text>
+</TEI>

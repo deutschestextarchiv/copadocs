@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2226v18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2226</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>V.</surname></persName>
+<date type="sent">27.04.1891</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann, Kinder: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2226v">
+<persName>
+<forename>Maria</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1838"/>
+<death when="1918"/>
+<occupation>Schuhmachersehefrau</occupation>
+<residence><geo decls="#WGS">48.1479335 10.7571408</geo>Langerringen, Augsburg, wohnhaft: Kolonie Hurlach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1885" to="1918">Anstalt: 1885-1918</p>
+<p from="1885" to="1918">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Manie (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="schwester"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin bittet darum, nach Hause geholt zu werden, weil es ihr besser geht.
+                    Die Schwester fügt an, dass sie und die Ärzte sich sehr darüber freuen, dass es der Schwester besser geht. 
+                    Sie nimmt die Einladung des Schwagers an und bittet darum, verschiedene Dinge mitzubringen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2226v18a.jpg" xml:id="image_056"/>
+<graphic mimeType="image/jpg" url="kfb2226v18b.jpg" xml:id="image_057"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_056"/>
+<opener>
+<dateline>Irsee den 27 <hi rendition="#sup">ten</hi> Apriel 1891.</dateline>
+<salute>Lieeber Man und Kimder!</salute>
+</opener>
+<p>Da ich besser bin als weil Du hier<lb break="yes"/>warst wen Du mich heim kanst<lb break="yes"/>nehmen lieber Vater ich bitte Dich<lb break="yes"/>weil Du mir
+                es versprochen hast<lb break="yes"/>es ist ganz gut bei Uns viele<lb break="yes"/>liebe grüße <w>an</w><w>die</w> Verwan<unclear>d</unclear>te<lb break="yes"/>und bekante u. <seg ana="#salute">von mir bist Du<lb break="yes"/>lieber Man Herzlich gegrißt<lb break="yes"/>griße mir mir auch
+                meine liebe<lb break="yes"/>Kinder alle</seg>. <space/> Herzlich ich will<lb break="yes"/>dir wo
+                möglich behilflich sein in<lb break="yes"/>eirer Arbeit ich kan dir alles<lb break="yes"/>wider helfen wen es der wille Gottes<lb break="yes"/>ist ich bin
+                Gesund u kan jetzt Eßen<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Dein Dich liebendes<lb break="yes"/>Weib</seg>
+<seg ana="#signed">Maria <surname>V.</surname></seg>. </hi></p><p><add hand="schwester">Lieber Herr Schwager wie <add place="above">Sie</add> aus diesen<lb break="yes"/>paar Zeilen s<unclear>eä</unclear>hen daß es sehr gut<lb break="yes"/>geht, ist sehr folgsam, geth in die <pb facs="#image_057"/>Küche spielt <add place="above">daß</add> Geschier was wir<lb break="yes"/>benützen, hat auch die Beicht u.<lb break="yes"/>h. Kumnion letzten Sontag<lb break="yes"/>em<del>fp</del>pfangen, die Freude l.
+                        Schwager<lb break="yes"/>kan̄ ich nicht mit Worte <w>auf s</w>
+                        Pappir<lb break="yes"/>bringen, u meine freude so wie<lb break="yes"/>Die der Herren Artzte, auch dieße<lb break="yes"/>Damen Frl. <w>Ober Pfl.</w>
+                    u. alle Die<lb break="yes"/>uns bedienen haben sich alle<lb break="yes"/>Mühe
+                    gegeben u. Ihnen daß mündlich<lb break="yes"/>mitheilen werde Ihre Einladung<lb break="yes"/>mit Freuden <w>an nehnemen</w>
+<seg ana="#salute">Herzliche<lb break="yes"/>Grüße an Euch alle auch an den<lb break="yes"/>Alois u. seine Braut u. l. kleine<lb break="yes"/>Annale
+                        wo Sie mir so viel schönes<lb break="yes"/><w>er zehlten</w>.</seg>
+<seg ana="#metaling">in Eile</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Charitas
+                                <surname>S.</surname></seg></hi><lb break="yes"/>bitte Herr Shwager<lb break="yes"/>den
+                        Ehek<unclear>lren/ten</unclear> S<unclear>c</unclear>hein <w>mit zu
+                        bringen</w><lb break="yes"/>besonders ordentliche Shuh einmen<lb break="yes"/>warmen
+                    Schwal ein Tuch auf den<lb break="yes"/>Kopf ob sich die <add place="above">Sachen</add> noch zum thein ind<lb break="yes"/>Anstalt Kaufbeuren
+                    befinden wird sich de<unclear>r</unclear><lb break="yes"/><add place="margin">Zeugen Obige. </add></add></p>
+</body>
+</text>
+</TEI>

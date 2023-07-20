@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb259k06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>259</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">n.a. <surname>K.</surname></persName>
+<date type="sent">03.01.1856</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Anstaltsdirektor: N. <surname>H.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb259k">
+<persName>
+<forename>Joseph</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1801"/>
+<death cert="unknown"/>
+<occupation>Seifen- und Lichterfabrikant</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1854" to="1859">Anstalt: 1854-59</p>
+<p from="1854" to="1859">Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Confusio Idearum, Wahnvorstellungen (1854)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Frau des Patienten berichtet, dem Wunsch ihres Mannes nach seinem Wasch-Etui nicht nachkommen zu können. Weiter bittet sie um eine Besuchsmöglichkeit.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb259k06a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="kfb259k06b.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München</hi> den 3t. Jen̄er
+                        1856.</hi></dateline>
+<salute><hi rendition="#c">Euer Hochwohlgeboren!</hi></salute>
+</opener>
+<p><space/>Wollen vor Allem unsern wärmsten Dank<lb break="yes"/>für die so gütig
+                veranlaßte Zuschrift meines Gatten<lb break="yes"/>empfangen. Er spricht darin den
+                Wunsch, nach ehe<lb break="no"/>sten Empfang seines alten Wasch-<hi rendition="#i">Etui</hi> aus, welches<lb break="yes"/>ich jedoch leider nach langen
+                Nachsuchen nicht auf<lb break="no"/>finden konte, man versichert, er hätte demselben
+                an<lb break="yes"/>dem letzten hier verlebten Tagen, an welchem er<lb break="yes"/>nicht zu Hause geschlafen, bei sich getragen, &amp; wahr<lb break="no"/>scheinlich
+                irgendwo liegen gelassen. </p><p><space/> Ich befürchte, wen̄ er statt dessen, ein<del>en</del> neues<lb break="yes"/>angekauftes empfängt, seine unglückliche Heftigkeit<lb break="yes"/>wieder mehr
+                zu reitzen, was mich die Bitten um<lb break="yes"/>Euer Hochwohlgeboren Geehrten
+                Wunsch hierüber, wegen<lb break="yes"/>hei<unclear>ß to</unclear>, womit ich mit
+                Bangen die ergebene An<lb break="no"/>frage verbinde <w>Ob
+                    wohl</w> nicht mein ältester Sohn, oder<lb break="yes"/>ich mit meinem
+                Jüngsten, dem Vater persönlich nur<lb break="yes"/>für eine halbe Stunde sehen
+                &amp; sprechen dürften?<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtend zeichnend</seg></hi><lb break="yes"/><hi rendition="#r">Frz: <surname>K.</surname></hi>
+</p>
+<pb facs="#image_014"/>
+<p><hi rendition="#r">Seiner</hi><lb break="yes"/>Hochwohlgeboren Herrn<lb break="yes"/><hi rendition="#i"><unclear>N:</unclear> Hage Director</hi><lb break="yes"/>der <unclear>Laupl</unclear>
+<w>Kreis Irren Anstalt</w><lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u"><hi rendition="#i">Irrsee.</hi></hi></hi>
+</p>
+</body>
+</text>
+</TEI>

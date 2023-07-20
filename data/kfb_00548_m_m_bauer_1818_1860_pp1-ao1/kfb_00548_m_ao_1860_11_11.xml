@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb548m02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>548</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>M.</surname></persName>
+<date type="sent">11.11.1860</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwalter: n.a.</persName>
+<settlement type="sent">Oberorschendorf</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb548m">
+<persName>
+<forename>August</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1818"/>
+<death cert="unknown"/>
+<occupation>Bauer</occupation>
+<residence><geo decls="#WGS">47.9417196 10.7433825</geo>Oberostendorf, Buchlohe</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1860" to="1860">Anstalt: 1860-1860</p>
+<p from="1860" to="1860">Brieftypen: pp,ao</p>
+</state>
+<trait>
+<p>religiöse Schwärmerei, Verrücktheit (1860) </p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="frau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Ehefrau des Patienten tätigt eine Zahlung bei der Verwaltung und bittet darum, in Zukunft keine derartig hohen Summen mehr zusammenkommen zu lassen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb548m02a.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#c">24</hi></add><lb break="yes"/><hi rendition="#c">Ober<unclear>o</unclear>rschendorf d. 11.11.60. <add hand="arzt"><hi rendition="#u">493.</hi></add></hi><lb break="yes"/><add hand="arzt"><hi rendition="#r">M. 12 Nov.<lb break="yes"/><unclear>fialquittg<lb break="yes"/>Qe.</unclear></hi></add></dateline>
+<salute><space/> Hr. Verwalter!</salute>
+</opener>
+<p> Hier übersende ich Ihnen die 50 <unclear/><lb break="yes"/>für meinen Man̄. Haben Sie die Güte<lb break="yes"/>u.
+                lassen Sie es mir zu wissen machen<lb break="yes"/>wenn er was brauchen soll an
+                    Kleidungs<lb break="no"/>stüken den das ist mir zu thuen 52 <unclear/><lb break="yes"/>nebezu zu bezahlen. Lassen Sie nun keinen<lb break="yes"/>so
+                großen Kunden mehr zusam̄en kom̄en,<lb break="yes"/>er soll nun
+                Sparsam̄er Leben, den es gibt so<lb break="yes"/>viele Zahlungen es ist ein
+                unmögliches zu<lb break="yes"/>leisten. <seg ana="#salute">Es grüßt<lb break="yes"/><hi rendition="#c">Ihnen</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">M. An̄a <surname><hi rendition="#u">M.</hi></surname></seg></hi></p>
+</body>
+</text>
+</TEI>

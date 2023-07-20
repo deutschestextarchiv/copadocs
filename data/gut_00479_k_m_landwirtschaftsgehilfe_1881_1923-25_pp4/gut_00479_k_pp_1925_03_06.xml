@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="gut479k04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 661: Gütersloh</collection>
+<idno>479 (K. 570)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>K.</surname></persName>
+<date type="sent">06.03.1925</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Magdalene <surname>P.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="gut479k">
+<persName>
+<forename>Heinrich</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1881"/>
+<death cert="unknown"/>
+<occupation>Landwirtschaftsgehilfe</occupation>
+<residence><geo decls="#WGS">51.571465 8.107888</geo>Geburtsort: Gabrechten; Wohnort: Rerserve Lazarett Soest</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: n.a.</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1923" to="1925">Anstalt: 1923-25</p>
+<p from="1923" to="1925">Brieftypen: pp</p>
+</state>
+<trait><p>einfache Seelenstörung (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt1"/>
+<handNote medium="pencil" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   möchte ein schriftliches Lebenszeichen erhalten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="gut479k04a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="gut479k04b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r">6.3.1925</hi></dateline>
+<salute><hi rendition="#c">Liebe Helene!</hi></salute>
+</opener>
+<p>Einen herzlichen Gruß<lb break="yes"/>von hier. Deinen Gruß<lb break="yes"/>habe ich erhalten und hoffe<lb break="yes"/>nun ein schriftliches<lb break="yes"/>Lebenszeichen von Dir<lb break="yes"/>zu erhalten. Nach deiner<lb break="yes"/>Adresse wollte ich immer<lb break="yes"/>fragen bin aber nicht
+                dazu<lb break="yes"/><add place="margin">gekommen <seg ana="#signed">Dein Heinrich <surname><hi rendition="#i">K.</hi></surname></seg></add></p>
+<p>
+<hi rendition="#c"><add hand="arzt1"><hi rendition="#u">Zu den Akten!</hi></add><lb break="yes"/><add hand="arzt2"><hi rendition="#i">Heinrich </hi><surname><hi rendition="#i">K.</hi></surname></add></hi><lb break="yes"/>Frl. <hi rendition="#i">Magdalene </hi><surname><hi rendition="#i">P.</hi></surname><lb break="yes"/>p. A. Herrn <surname><hi rendition="#i">S.</hi></surname><lb break="yes"/><surname><hi rendition="#i">G.</hi></surname><lb break="yes"/>b. <hi rendition="#i">Bad-Sassendorf </hi><pb facs="#image_008"/><!--Bildrückseite der Postkarte-->
+</p>
+</body>
+</text>
+</TEI>

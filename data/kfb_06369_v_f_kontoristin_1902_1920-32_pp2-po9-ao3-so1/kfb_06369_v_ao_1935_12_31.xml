@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb6369v04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>6369</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sophie <surname>V.</surname></persName>
+<date type="sent">31.12.1935</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb6369v">
+<persName>
+<forename>Katharina</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1902"/>
+<death cert="unknown"/>
+<occupation>Kontoristin</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Straßenbahnwagenführer</p>
+<p from="1920" to="1932">Anstalt: 1920-32</p>
+<p from="1920" to="1932">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Schizophrenie (1921), Dementia simplex resp. praecox (1920)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="typewriter" scope="major" scribe="schwester"/>
+<handNote medium="ink" scope="minor" scribe="schwester2"/>
+<handNote medium="pencil" scope="minor" scribe="schwester3"/>
+<handNote medium="pencil_grey" scope="minor" scribe="arzt"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie berichtet dem Arzt vom Zustand ihrer Schwester und bittet ihn, sich gegen eine Sterilisierung auszusprechen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb6369v04a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb6369v04b.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg,den 31.Dezember 35.</hi></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr Doktor !</hi></salute>
+</opener>
+<p><space/> Meine Schwester, Käthe <surname>V.</surname>, wurde von Ihnen auf
+                Donnerstag,<lb break="yes"/>den 2.1.36 vorgeladen. Erlaube<add hand="schwester3">n</add>
+                Sie mir,dass ich Ihnen diese Zeilen<lb break="yes"/>sende und bitte herzlich, meine
+                Schwester hiervon nicht in Kenntnis<lb break="yes"/>zu setzen. </p>
+<p><space/> Mutter und ich haben meine liebe Schwester seit der Entlass<lb break="no"/>ung vor 3 Jahren aus Der Heilanstalt mit viel Liebe wieder zurechtge<lb break="no"/>bracht. Sie war auch ausser einer Blinddarmreizung nie wieder krank.<lb break="yes"/>Was ihr fehlt ist nur Arbeit,damit sie wieder einen Lebenszweck vor<lb break="yes"/>sich hat.</p>
+<p><space/> Sollte die Untersuchung zwecks Unfruchtbarmachung in Betracht<lb break="yes"/>kommen, so bitte ich Herrn Doktor, einmal eine Stunde mehr Mensch
+                als<lb break="yes"/>Arzt zu sein. Bei meiner Schwester gilt nach wie vor der
+                    Gesch<del>e</del>lechts<lb break="no"/>verkehr <hi rendition="#sup">ledig</hi>
+                immer n<del>i</del>och nicht als Selbstverst<del>ää</del>ändlichkeit,sondern als
+                    <del>G</del>Fehl<lb break="no"/>tritt und Schande .<hi rendition="#u" style="arzt">Sollte sie sich dennoch einmal verheiraten wollen−</hi><lb break="yes"/><add hand="arzt" place="margin">?</add>
+<hi rendition="#u" style="arzt">was ich mit 90% verneine −so wäre ja immer
+                    noch Zeit dazu,das Gesetz<lb break="yes"/>in Anwendung zu bringen.</hi>
+                Ausserdem besagt das Gesetz,dass ein Antrag<lb break="yes"/>gestellt werden kann,
+                aber nicht muss. Auch bin ich fest überzeugt,<lb break="yes"/>dass meine Schwester
+                nicht unter Absatz 2 der aufgeführten Erbkrank<lb break="no"/>heiten fällt, es kann
+                jeder Mensch einmal einen <hi rendition="#u" style="arzt"><seg ana="#med">Nervenzusammenbruch</seg></hi><lb break="yes"/>durch Überarbeitung oder durch gewissenlose Menschen erhalten. <add hand="arzt" place="margin"><unclear><hi rendition="#i"><lb break="yes"/>vor<lb break="yes"/>Erzo!</hi></unclear></add></p>
+<p><space/> Da man meine Schwester nur zwingen könnte, so verrate ich Ih<lb break="no"/>nen,dass sie lieber in den Tod ginge, dass meine Mutter ih<del>t</del>r nachfolgen<lb break="yes"/>wird und ich wohl auch nicht mehr die Kraft
+                    aufbrächte,al<del>s</del>l dies zu<lb break="yes"/>überwinden,so lege ich die
+                Verantwortung <hi rendition="#u">allei</hi>n<del><unclear/></del> auf Sie,da <add hand="schwester3">S</add>ie ja<lb break="yes"/>den Antrag stellen; <hi rendition="#u" style="arzt2">wenn Sie nicht hier auf Erden dann gerichtet
+                        wer<lb break="no"/>den, dem himmlischen Richter können Sie nicht
+                    entrinnen.</hi></p>
+<p><space/>
+<hi rendition="#u" style="arzt2">Wenn mehr Liebe und Verantwortungsbewusstsein in
+                    der Welt wäre,<lb break="yes"/>wären die Heilanstalten bei weitem nicht
+                    überfüllt. Denn die Mehr<lb break="no"/>zahl der Insassen sind durch fremde
+                    Schuld und Lieblosigkeit der Mit<lb break="no"/>menschen mit dem Leben nicht
+                    fertig gworden.</hi></p>
+<pb facs="#image_013"/>
+<p><space/> Nun bitte ich Herrn Doktor nochmals recht herzlich,meine<lb break="yes"/>Schwester von meinem Brief nichts zu erwähnen und soweit es in Ihrer<lb break="yes"/>Hand liegt, uns nicht in's Leid zu stürzen. </p>
+<p><hi rendition="#r">Mit deutschem Gruss !<lb break="yes"/><handShift scribe="schwester2"/><seg ana="#signed"><hi rendition="#i">Sophie
+                                <surname>V.</surname>.</hi></seg><lb break="yes"/><handShift scribe="schwester"/>Röntgen-Assistentin<lb break="yes"/>Augsburg,Schiessgrabenstr .24/II</hi>
+</p>
+</body>
+</text>
+</TEI>

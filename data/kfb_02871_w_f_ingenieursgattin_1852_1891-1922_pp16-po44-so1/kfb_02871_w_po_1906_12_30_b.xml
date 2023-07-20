@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2871w21" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Angela Hofmann</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2871</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mathilda Franziska <surname>W.</surname></persName>
+<date type="sent">30.12.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Abteilungs-Pflegerinnen:  <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2871w">
+<persName>
+<forename>Mathilda Franziska</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1852"/>
+<death when="1922"/>
+<occupation>Ingenieursgattin</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, Wohnort Darmstadt</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Bortenmacher</p>
+<p from="1891" to="1922">Anstalt: 1891-1922</p>
+<p from="1891" to="1922">Brieftypen: pp, po</p>
+</state>
+<trait><p>schwachsinnige Verfolgungs- und Beziehungswahnideen (1914)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Weihnachtsgrüße
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2871w21.jpg" xml:id="image_077"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_077"/>
+<opener>
+<dateline>Kaufbeuren den 30 <hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    Dezember 1906.<lb break="yes"/></dateline>
+<salute>An die geehrte Königliche Anstalts<lb break="no"/>Verwaltung und höchst deren<lb break="yes"/>Verehrte Mittglieder und Ehren<lb break="no"/>mittglieder!<lb break="yes"/></salute>
+</opener>
+<p> Sendet die besten Wünsche<lb break="yes"/>zum Jahreswechsel!</p><p><lb break="yes"/><seg ana="#signed"><hi rendition="#c">Frau Fanni
+                    <surname>W.</surname>.</hi></seg><lb break="yes"/><hi rendition="#r">Ingenieur-Direcktorsfrau.</hi>
+</p>
+</body>
+</text>
+</TEI>

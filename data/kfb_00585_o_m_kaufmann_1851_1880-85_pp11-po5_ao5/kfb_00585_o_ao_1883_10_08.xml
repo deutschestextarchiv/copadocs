@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb585o11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>585</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: n.a. <surname>O.</surname></persName>
+<date type="sent">08.10.1883</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Hofrath: n.a. <surname/></persName>
+<settlement type="sent">Bremen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb585o">
+<persName>
+<forename>Hermann</forename>
+<surname>O.</surname>
+</persName>
+<birth when="1851"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Geburtsort: Frankenthal (Rheinpfalz); Wohnort: Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Studienlehrer</p>
+<p from="1880" to="1885">Anstalt: 1880-85</p>
+<p from="1880" to="1885">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>"Primäre Verrücktheit" (1879)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="bruder"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Teilt dem Hofrath (erneut) mit, dass der Patient nicht bei seinem Onkel in Augsburg aufgenommen werden kann. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb585o11a.jpg" xml:id="image_038"/>
+<graphic mimeType="image/jpeg" url="kfb585o11b.jpg" xml:id="image_039"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_038"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Bremen</hi>, den 8. <hi rendition="#i">Oktober</hi></hi><lb break="yes"/><hi rendition="#c">1883.</hi></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr Hofrath!</hi></salute>
+</opener>
+<p><space/> Für Ihre beiden gütige Briefe vom 19. und<lb break="yes"/>25. September
+                habe ich Ihnen noch meinen<lb break="yes"/>besten Dank zu sagen. </p><p><space/> Nach Erhalt des ersteren schrieb ich sofort<lb break="yes"/>an meinen Onkel in <hi rendition="#i">Augsburg</hi>, ihn um<lb break="yes"/>Aufnahme <hi rendition="#i">Hermans</hi> ersuchend. Bevor<lb break="yes"/>er diesen meinen Brief erhalten,
+                hatte er<lb break="yes"/>schon nach <hi rendition="#i">Kaufbeuren</hi> geantwortet.
+                Ich<lb break="yes"/>selbst erhielt erst vor wenigen Tagen Ant<lb break="no"/>wort
+                von ihm, worin er mir ausführlich<lb break="yes"/>seine Unmöglichkeit <hi rendition="#i">Herman</hi> aufzunehmen<lb break="yes"/>auseinandersetzte. </p><p><space/> Für <hi rendition="#i">Herman</hi> thut es uns leid, daß er so <pb facs="#image_039"/>vergeblich gehofft hatt<del>e</del>. Andrerseits<lb break="yes"/>sehen wir auch ein, daß
+                sein nächster<lb break="yes"/>Aufenthalt gewisse Garantien bieten<lb break="yes"/>muß, daß es nöthig ist, daß er gerne<lb break="yes"/>dorthin geht und gerne dort
+                bleibt<lb break="yes"/>und doch auch unter einer gewissen Beo<lb break="no"/>bachtung steht. </p><p><space/> Meinen Vater und meinem Bruder<lb break="yes"/><hi rendition="#i">Rudolf</hi> habe ich Ihren
+                    letzten Brief <w>mit<lb break="no"/>getheilt</w>. </p><p><space/> <seg ana="#salute">Indem ich Ihnen, sehr geehrter<lb break="yes"/>Herr Hofrath, für alle Ihre Bemühungen<lb break="yes"/>herzlich danke<lb break="yes"/><hi rendition="#c">hochachtungsvollst<lb break="yes"/></hi><hi rendition="#r">Ihr ergebner </hi></seg><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Dr </hi><surname><hi rendition="#i">O.</hi></surname></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2266s09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2266</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>S.</surname></persName>
+<date type="sent">22.10.1917</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tochter: Kathi <surname>S.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2266s">
+<persName>
+<forename>Josef</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1874"/>
+<death when="1919"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Schmiedmeisterseheleute</p>
+<p from="1917" to="1919">Anstalt: 1917-1919</p>
+<p from="1917" to="1919">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Progressive Paralyse (1917)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er fragt bei seiner Tochter nach Bekannten und bittet sie, ihn abzuholen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2266s09a.jpg" xml:id="image_019"/>
+<graphic mimeType="image/jpg" url="kfb2266s09b.jpg" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuern d. 22. Oktober 1917</hi></dateline>
+<salute><hi rendition="#c">L. Kathi</hi></salute>
+</opener>
+<p><add hand="arzt" place="top"><surname><hi rendition="#i">S.</hi></surname></add><lb break="yes"/>Habe das Paket erhalten und hatt mich<lb break="yes"/>sehr gefreud
+                blos Zigaren hättest du hinein<lb break="yes"/>thun sollen und etliche <hi rendition="#i">M</hi> Geld den ich<lb break="yes"/>habe keinen Pfenig ich möchte
+                mir doch<lb break="yes"/>auch eine zigaren kaufen was ist den<lb break="yes"/>daß
+                für ein Fräulein Amalie<lb break="yes"/><surname>A.</surname> Kempten theile es
+                mir mit<lb break="yes"/>aber sogleich und weil <surname>S.</surname> auch<lb break="yes"/>daraufsteht auf den Brief und die<lb break="yes"/>Adrese auf den
+                Paket an mich lautet<lb break="yes"/>ist daß ein <w>Zim̄er Fräulein</w> oder
+                was ist<lb break="yes"/>es sonst ich möchte es wissen gib mir sofort<lb break="yes"/>antwort ich möchte es wissen. Ich werde<lb break="yes"/>wahrscheinlich diese Woche noch heim kom̄en<lb break="yes"/>wenn ich dir
+                schreib du sollst kom̄en so<lb break="yes"/>kom̄e sofort. Warum ist
+                den kein fleisch<lb break="yes"/>oder eine Wurst oder ein Brot nicht<lb break="yes"/>darin gewessen oder ist das Paket<lb break="yes"/>von jemand
+                andern theile es mir<lb break="yes"/>sofort mit das ich weiß wie ich daran <pb facs="#image_020"/>bin ich habe es aufgemacht und habe<lb break="yes"/>einen
+                Kuchen und ein paar Birnen<lb break="yes"/>und Äpfel gegessen. Ist die An̄a<lb break="yes"/>daheim weil du lezten geschrieben<lb break="yes"/>hast von der
+                Anna. Was hast du da<lb break="yes"/>lezten gemeint wie das Schreiben von<lb break="yes"/>Amtsgericht gekom̄en ist ich habe sofort<lb break="yes"/>einspruch erhoben und habe es an<lb break="yes"/>das Amtsgericht Augsburg
+                geschickt<lb break="yes"/>am besten bist du daran den mir<lb break="yes"/>fehlt
+                gar nichts mehr verlogen war<lb break="yes"/>ja doch alles was du angeben hast wer<lb break="yes"/>hat den dich aufgeklärt dazu theile es<lb break="yes"/>mir mit
+                aber sofort antwort. Wenn ich dir<lb break="yes"/><add place="above"><hi rendition="#u">wieder</hi></add> Schreibe so kom̄e sofort weil ich
+                heim tarf<lb break="yes"/>thu mir von meinen Geld nicht zuviel<lb break="yes"/>verbrauchen, das ich eines hab wenn ich hin<lb break="no"/>aus kom̄e. Am
+                besten bist du daran du nimst es<lb break="yes"/>zurück. <space/>
+<seg ana="#salute">Gruß dein Vater</seg></p>
+</body>
+</text>
+</TEI>

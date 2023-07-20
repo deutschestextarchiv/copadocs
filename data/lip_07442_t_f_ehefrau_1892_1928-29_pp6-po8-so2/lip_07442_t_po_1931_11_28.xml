@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip7442t12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>7442 (K. 250)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine <surname>T.</surname></persName>
+<date type="sent">28.11.1931</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor: n.a. <surname>H.</surname></persName>
+<settlement type="sent">Kabel bei Hagen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip7442t">
+<persName>
+<forename>Wilhelmine</forename>
+<surname>T.</surname>
+</persName>
+<birth when="1892-06-26"/>
+<death cert="unknown"/>
+<occupation>Ehefrau</occupation>
+<residence><geo decls="#WGS">51.4020053 7.4899059</geo>Geburtsort: Westerkappeln; Wohnort: Hagen-Kabel</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Ehemann: Bahnmeister; Vater: Landwirt; Mutter: n.a.</p>
+<p from="1928-04-23" to="1929-09-24">Anstalt: 23.04.1928-24.09.1929</p>
+<p from="1928-04-23" to="1929-09-24">Brieftypen: pp, po, Lebenslauf, Gebet</p>
+</state>
+<trait><p>paranoide Erkrankung (1928 Dr. Korbsch)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand2"/>
+<handNote medium="crayon_blue" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie schreibt, dass sie wieder aus der Heimat zurückgekehrt ist und sich nun ruhig halten muss. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip7442t12.jpg" xml:id="image_026"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_026"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Hagen-<hi rendition="#u">Kabel</hi></hi>, d. 28.11.</hi></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr <hi rendition="#i">Doktor</hi>!</hi></salute>
+</opener>
+<p>Jetzt erst, diese Woche bin ich<lb break="yes"/>von meiner Heim<add place="above">at</add>reise wieder<lb break="yes"/><w>zurück gekehrt</w> und muß nun<lb break="yes"/>mal allen Rat befolgen, stille<lb break="yes"/>sein und hoffen.
+                Arbeit habe ich<lb break="yes"/>nicht viel....(wenn das M. bleibt.) <unclear><lb break="yes"/>E</unclear>ltern u. Verwandte habe ich in bester<lb break="yes"/>Gesundheit angetroffen.. <seg ana="#salute"><hi rendition="#u" style="hand2">Freundl. Gruß</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Frau <surname><hi rendition="#i">T.</hi></surname>.</seg></hi></p>
+<p><add hand="hand2"><hi rendition="#i"><hi rendition="#u">ad acta</hi></hi></add></p><p><add place="margin">Herrn<lb break="yes"/>Oberarzt <hi rendition="#i">Dr.Hürten</hi><lb break="yes"/><lb break="yes"/>in <hi rendition="#i">Eickelborn</hi><lb break="yes"/>b. <hi rendition="#i">Soest</hi>.</add></p><p><add hand="hand3">54.</add>
+</p>
+</body>
+</text>
+</TEI>

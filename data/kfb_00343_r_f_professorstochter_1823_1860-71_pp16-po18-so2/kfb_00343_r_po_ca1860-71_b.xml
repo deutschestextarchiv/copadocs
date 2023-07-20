@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb343r23" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>343</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>R.</surname></persName>
+<date type="sent">ca1860-71</date>
+<date type="received">n.a.</date>
+<persName type="addressee">königlicher Rath: Friedrich <surname>H.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb343r">
+<persName>
+<forename>Johanna</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1871"/>
+<occupation>Professorstochter</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Professor</p>
+<p from="1860" to="1871">Anstalt: 1860-71</p>
+<p from="1860" to="1871">Brieftypen: pp, po</p>
+</state>
+<trait><p>Fixer Wahnsinn (1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Besuch bzw. durch den Rath aus der Anstalt befreit zu werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb343r23a.jpg" xml:id="image_078"/>
+<graphic mimeType="image/jpg" url="kfb343r23b.jpg" xml:id="image_079"/>
+<graphic mimeType="image/jpg" url="kfb343r23c.jpg" xml:id="image_080"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_078"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Verehrtester Herr Rath!</hi></salute>
+</opener>
+<p>Bereits das dritte Jahr im Irrenhaus<lb break="yes"/>flehe ich, daß Sie Sich
+                großmüthig<lb break="yes"/>meiner annehmen mögen, und bei<lb break="yes"/>Seiner
+                Königlichen Hohheit dem<lb break="yes"/>Prinzen Carl Sich huldvoll für<lb break="yes"/>mich verwenden. Wie glücklich<lb break="yes"/>wäre ich wen̄
+                Euer Hochwohlgeboren<lb break="yes"/>Seine Königliche Hohheit dazu<lb break="yes"/>vermöchten die Kreisirrenan<lb break="no"/>stalt Irsee mit Seinem aller<lb break="no"/>höchsten Besuch zu beglücken;<lb break="yes"/>aber wen̄ auch
+                ein solcher Wunsch<lb break="yes"/>allzu vermessen von mir ist,<lb break="yes"/>so
+                vergeben Sie ihn mir, und<lb break="yes"/>suchen Sie den̄och ihn zu
+                    verwirk<lb break="no"/>lichen.</p><pb facs="#image_079"/><p>Ich bin von Ihrer <hi rendition="#u">Herzensgüte</hi><lb break="yes"/>überzeugt, daß Sie eine Unglück<lb break="no"/>liche, Gemüthskranke
+                mild beur<lb break="no"/>theilen, und Alles thun werden<lb break="yes"/>mich mit
+                meinem herben Geschick<lb break="yes"/>zu versöhnen. Der Him̄el wird<lb break="yes"/>es Euer Hochwohlgeboren an Ihren<lb break="yes"/>Kindern
+                vergelten. Empfehlen<lb break="yes"/>Sie mich vielmals der lieben,<lb break="yes"/>guten Fräulein Elise, und ver<lb break="no"/>sichern Sie <del>deßha</del> dieselbe<lb break="yes"/>meiner ewigen Dankbarkeit.<lb break="yes"/>Indem ich Sie
+                flehentlich bitte eine<lb break="yes"/>günstige Veränderung meines<lb break="yes"/>Lebens durch Ihre gütige Ver<lb break="no"/>wendung hervorzurufen, geharre<lb break="yes"/>ich mit ausgezeichneter Hochachtung<lb break="yes"/><hi rendition="#c">Euer Hochwohlgeboren</hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">ergebenste Johanna<lb break="yes"/><surname>R.</surname>, Professorstochter.</seg></hi>
+<pb facs="#image_080"/>Sr. Hochwohlgeboren, dem<lb break="yes"/>königlichen <w>Rath Herrn</w><lb break="yes"/>Friedrich <surname>H.</surname><lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u">München.</hi></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb280f03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>280</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anton <surname>F.</surname></persName>
+<date type="sent">28.05.1858</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: Thekla <surname>F.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb280f">
+<persName>
+<forename>Anton</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1829"/>
+<death cert="unknown"/>
+<occupation>Sölnerssohn</occupation>
+<residence><geo decls="#WGS">48.4414134 10.558144</geo>Neumünster, Zusmarshausen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Söldner</p>
+<p from="1856" to="1858">Anstalt: 1856-58</p>
+<p from="1856" to="1858">Brieftypen: pp</p>
+</state>
+<trait><p>Geistesstörung, [Halluzination] (1856)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gesundheit besser, will wissen, wie zu Hause, will mit Familie reden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb280f03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb280f03b.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb280f03c.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r">Irse den 28 Mei 1858</hi></dateline>
+<salute><hi rendition="#c">Liebe Mutter!</hi></salute>
+</opener>
+<p> Mein Schreiben werde Dich in bester<lb break="yes"/>Gesundheit anhndrefen, und Schreibe<lb break="yes"/>euch auch daß jezt mit der Gesundheit<lb break="yes"/>bei mir
+                Besser get. Jr wertet mir<lb break="yes"/>eine <w>aus kumft</w> Schreiben oder<lb break="yes"/>besuchen. Daß ich erfare wie es<lb break="yes"/><w>Zu hause</w> gehe daß mit Heimat<lb break="yes"/>Wan ich
+                euch könte eine Haubt.<lb break="yes"/>X Die ich möcht mit Euh Reden das<lb break="yes"/>wen ich nach Näulau Kirche.<lb break="yes"/>daß mein verlangen
+                Be. G.<lb break="yes"/>Jch G. Ansselmus Maier <pb facs="#image_008"/>
+<seg ana="#salute">Ich grise Euch Geschwister<lb break="yes"/>und Mutter Bekante<lb break="yes"/>und vewante Benehbanten<lb break="yes"/>Bekante und
+                        verbleibe<lb break="yes"/>Dreier Son.</seg>
+<seg ana="#signed">Anton <surname>F.</surname></seg><lb break="yes"/>Jch W. Euch
+                Nochmal Jch<lb break="yes"/>Werdet meinen<lb break="yes"/><hi rendition="#r">Besuche. Neumenster<lb break="yes"/>ten 25 Mai 1858</hi>
+<pb facs="#image_009"/>
+<hi rendition="#c">An</hi><lb break="yes"/>Thekla <surname>F.</surname>
+                    Wittwe<lb break="yes"/>in Neumünster H. N. 33.<lb break="yes"/>Landgericht<lb break="yes"/><hi rendition="#r">Zusmarshausen.</hi></p>
+</body>
+</text>
+</TEI>

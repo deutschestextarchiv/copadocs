@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1869j03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1869</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>J.</surname></persName>
+<date type="sent">10.05.1882</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Hilfsarzt: n.a. <surname>M.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1869j">
+<persName>
+<forename>Wilhelm</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1849"/>
+<death when="1915"/>
+<occupation>Handlungs-Commis</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Kaufmann</p>
+<p from="1877" to="1915">Anstalt: 1877-1915</p>
+<p from="1877" to="1915">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hyperaesthesie des Gemeingefühls, Hypochondrie" (1876)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink_blue" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Berichtet dem Arzt von aufgetretenden Beschwerden ("Schlingbeschwerden", Mundgeruch etc.) die auf 
+                    ein Halsgeschwür hinweisen könnten. Der Patient macht zudem darauf aufmerksam, schon vor einigen Jahren 
+                    aufgrund dieser Problematik in ärztlicher Behandlung gewesen zu sein.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1869j03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb1869j03b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Vhs d</hi>. 10/<hi rendition="#sub">V.</hi> 1882.</hi></dateline>
+<salute><space/> Herrn Hilfsarzt <surname><hi rendition="#i">M.</hi></surname>!</salute>
+</opener>
+<p><space/> Da m/ Halsleiden mich zwingt, mich mit<lb break="yes"/>Ihnen
+                schriftlich zu verständigen, so melde ich gehor<lb break="no"/>samst zum <hi rendition="#i">Rapport</hi>: </p><p>1./ daß ich seit gestern abds.
+                schwer eine Semmel<lb break="yes"/>essen kan̄, indem <seg ana="#med">Schlingbeschwerden</seg>
+                eingetreten<lb break="yes"/>zu sein scheinen; </p><p>2./ empfinde ich, <hi rendition="#i">recte</hi> rieche ich aus dem Halse<lb break="yes"/>einen
+                    Geruch, welcher auf ein <seg ana="#med">Halsgeschwür</seg><lb break="yes"/>hindeuten dürfte; </p><p>3./ daß ich deßwegen auch nur leeres <hi rendition="#i">Cacao</hi><lb break="yes"/>trank; (: als Frühstück seit <hi rendition="#i">anno</hi> 1871 mir
+                vom <add><lb break="yes"/><hi rendition="#r">Herrn <hi rendition="#i">k. Hofrat</hi>h &amp;<hi rendition="#i"> k Director </hi><surname><hi rendition="#i">S.</hi></surname> ver</hi><lb break="no"/><hi rendition="#c">ordnet:). </hi></add>
+</p><p>4./ morgens 6,10 Uhr ein Bad v. 24<hi rendition="#sup"><hi rendition="#u">0</hi></hi>
+<hi rendition="#i">R</hi>. − 15<hi rendition="#i">dlt</hi>.<lb break="yes"/>lg.
+                − nahm u. bei der 2<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+<seg ana="#med">kalten <hi rendition="#i">Compresse</hi></seg><lb break="yes"/><add place="margin">es mich</add> fröstelte! − Kopf, wie beim
+                    <seg ana="#med">Catarrh</seg> einge<lb break="no"/>nommen &amp; sehr angegriffen
+                Nerven. </p><p><hi rendition="#r"><hi rendition="#u">Wie</hi></hi></p><p><add place="margin"><hi rendition="#i">P.P.</hi><lb break="yes"/>Ersuche beifolgende <hi rendition="#i">Notizen</hi> hl <hi rendition="#i">k. Hofrathe</hi> &amp; <hi rendition="#i">k. Direktor</hi><lb break="yes"/><hi rendition="#i">D</hi><hi rendition="#sup"><hi rendition="#i">r</hi></hi><hi rendition="#i"> </hi><surname><hi rendition="#i">H.</hi></surname> gütigst behändigen zu lassen!</add>
+</p>
+<pb facs="#image_008"/>
+<p>Wie ich mir <w>gestern</w><w>nachmittags</w> ½ 2 Uhr bereits zu<lb break="yes"/>erwähnen erlaubte, hatte ich <hi rendition="#i">anno</hi> 1865 einen<lb break="yes"/>Schwim̄kurs von der <hi rendition="#i">k</hi>. <hi rendition="#i">Militär</hi>schule zu A<hi rendition="#i">ugsburg</hi><lb break="yes"/>mitgemacht u. trat, nachdem sich Athembeschwer<lb break="no"/>den
+                einstellten &amp; das Schwim̄enlernen auf<lb break="no"/>geben mußte, ein
+                Halsgeschwür ein und<lb break="yes"/>mußte gleichzeitig bei Oeffnung desselben<lb break="yes"/>auch ein <seg ana="#med">fistelöser Zahn</seg> durch den Chirurgen<lb break="yes"/>u. Zahnarzt <surname><hi rendition="#i">V.</hi></surname>
+                gezogen werden.<lb break="yes"/>Die Oeffnung des Halsgeschwüres, welches<lb break="yes"/>Eiter enthielt u. darauf eine Ohnmacht beinahe<lb break="yes"/>folgte, <del>öf</del> machte Herr <hi rendition="#i">D</hi><hi rendition="#sup"><hi rendition="#i"><hi rendition="#u">r</hi></hi></hi>
+<surname><hi rendition="#i">M.</hi></surname>, Oberarzt<lb break="yes"/>am
+                städt. Krankenhause, als u/ damaliger<lb break="yes"/>Hausarzt u. <hi rendition="#u">betrieb hierauf</hi> <hi rendition="#u">eine sofortige </hi><lb break="yes"/><hi rendition="#u">Luftveränderg</hi>., <hi rendition="#u">wie</hi> <hi rendition="#u">auch</hi> <hi rendition="#u"><hi rendition="#i">anno</hi></hi> <hi rendition="#u">1866</hi>, <hi rendition="#u">wo </hi><lb break="yes"/><hi rendition="#u">wieder</hi> <hi rendition="#u">ein Halsgeschwür eintrat</hi>! In der<lb break="yes"/><seg ana="#med">Kaltwasserkur</seg> zu <hi rendition="#i">Herrenalb</hi> &amp; vorher schon <unclear><hi rendition="#i">⸀</hi></unclear></p><p><add place="top"><unclear><hi rendition="#i">⸀</hi></unclear> in <hi rendition="#i">Stuttgart</hi>
+<hi rendition="#i">anno</hi> 1870 hatte ich ja eine<lb break="yes"/><seg ana="#med">Karfunkel am Halse</seg>, welche hl <hi rendition="#i">D</hi><hi rendition="#sup"><hi rendition="#i"><hi rendition="#u">r</hi></hi></hi>
+<surname><unclear>O.</unclear>ttv<unclear>oi</unclear>n</surname><lb break="yes"/><add place="inline">Kathar<lb break="no"/>spital z.</add>
+                    Stuttgart u. der ärztl. Dirigent <hi rendition="#i">H</hi>. in <hi rendition="#i">Herrenalb</hi></add></p><p><add place="margin">aufschnitten. − Zu jeder weiteren Auskft. gerne bereit!<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Hochachtungsvoll &amp; ergebenst zeichnet</seg> <seg ana="#signed"><hi rendition="#i">W</hi>. <surname><hi rendition="#i">J.</hi></surname></seg></hi></add></p>
+</body>
+</text>
+</TEI>

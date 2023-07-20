@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1480g02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1480</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>G.</surname></persName>
+<date type="sent">14.05.1897</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1480g">
+<persName>
+<forename>Karl</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1911"/>
+<occupation>Handlungskommissar</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1891" to="1911">Anstalt: 1891-1911</p>
+<p from="1891" to="1911">Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>[Epilepsie] (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Anfrage Stelle in Nördlingen als Postbote; gesund; Bürgermeister soll sich bei Direktor erkundigen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1480g02a.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb1480g02b.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee, 14.Mai 1897.</hi></hi></dateline>
+<salute><hi rendition="#r"><hi rendition="#i">S<hi rendition="#sup">r</hi>Hochwohlgeboren!</hi></hi></salute>
+</opener>
+<p>
+<space/>Mit Gegenwärtigem er<lb break="no"/>laube ich mir
+                bei Ihnen ergebenst anzu<lb break="no"/>fragen, ob ich nicht wieder in Nördlingen<lb break="yes"/>in meiner Heimath eine Stelle als<lb break="yes"/><hi rendition="#u">Schreiber</hi> auf einem Bureau, oder auf<lb break="yes"/>einer
+                Kanzlei finden könnte, ich möchte<lb break="yes"/>wieder irgend eine Beschäftigung
+                    als<lb break="yes"/>Auslaufer, oder als Postboten erhalten,<lb break="yes"/>es
+                wäre mir sehr lieb wieder in Nörd<lb break="no"/>lingen meinen Verdienst zu
+                    erhalten.<lb break="yes"/>Ich erlaube mir daher zu bemerken,<lb break="yes"/>daß
+                ich bereits schon vier Jahre in dieser<lb break="yes"/>Anstalt untergebracht, bin,
+                ich fühle mich<lb break="yes"/>soweit wieder gesund, kann alle Tage auf<lb break="no"/>stehen, meine Krankheit kommt bei Tage<lb break="yes"/>gar nicht
+				    mehr vor, es ist das höchstens eine<lb break="yes"/><seg ana="#med">kleine Aufregung alle 6 Wochen
+                im Schlafe</seg>,<pb facs="#image_003"/>es wäre mir daher lieb, wenn sich der<lb break="yes"/>Herr Bürgermeister bei den Herrn Vorgesetz<lb break="no"/>ten
+                eventuell bei dem Herrn Direktor <hi rendition="#i">"Ul<lb break="no"/>rich"</hi> der
+                Heil und Pflegeanstalt in <hi rendition="#i">Kaufbeuern</hi>,<lb break="yes"/>oder
+                bei dem Herrn Oberarzt <hi rendition="#i">D<hi rendition="#sup">r</hi>Iulius</hi><lb break="yes"/>in <hi rendition="#i">Irsee</hi> über mich
+				    erkundigen würde.<lb break="yes"/><seg ana="#salute">Für Ihre Freundlichkeit im Voraus<lb break="yes"/>bestens dankend <seg ana="#salute">zeichne<lb break="yes"/><hi rendition="#r">Mit aller Hochachtung<lb break="yes"/>ergebenst!</hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Karl
+                            <surname>G.</surname></hi></seg><lb break="yes"/>zur Zeit Patient in
+                der Heil- und<lb break="yes"/>Pflegeanstalt in<lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Irsee</hi></hi><lb break="yes"/>bei <hi rendition="#i">Kaufbeuern</hi>.</hi></seg><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

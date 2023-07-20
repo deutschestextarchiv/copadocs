@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3471t02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3471</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josefine <surname>T.</surname></persName>
+<date type="sent">20.09.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verlobter: Max <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb3471t">
+<persName>
+<forename>Josefine</forename>
+<surname>T.</surname>
+</persName>
+<birth when="1872"/>
+<death when="1939"/>
+<occupation>Arztwitwe</occupation>
+<residence><geo decls="#WGS">47.9867696 10.181319</geo>Memmingen</residence>
+<faith>jüdisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet, verwitwet</p>
+<p from="" to="">Eltern: Bankier, Bruder: Bankdirektor</p>
+<p from="1897" to="1939">Anstalt: 1897-1939</p>
+<p from="1897" to="1939">Brieftypen: pp</p>
+</state>
+<trait><p>Manie (1935)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Verlobungstag; hat Käse geschickt bekommen, freut sich darüber;
+                    betet zu Gott, wieder gesund zu werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3471t02a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb3471t02b.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#i">J.T.</hi> <hi rendition="#r"><hi rendition="#u">20.</hi> Sept 1908.</hi></dateline>
+<salute><hi rendition="#c">Lieber <hi rendition="#i">Max</hi>!</hi></salute>
+</opener>
+<p>
+Ich habe mich gestern Abend <hi rendition="#u">sehr</hi> gefreut,<lb break="yes"/>daß du mir noch den gewünschten Käse<lb break="yes"/>geschickt hast. − Heute habe ich Gott sei<lb break="yes"/>Dank sehr gut geschlafen u. fühle mich<lb break="yes"/>dann infolge dessen bedeutend kräftiger.<lb break="yes"/>Entschuldige, daß ich gestern so <hi rendition="#u">erregt</hi><lb break="yes"/>war; es tat mir nachher furchtbar leid;<lb break="yes"/>du weißt ja, daß seit November ein<lb break="yes"/><hi rendition="#u">harter</hi> Schicksalsschlag um den anderen<lb break="yes"/>kam, u da wird der gläubigste<lb break="yes"/>Mensch bitter! Es ist ferner eine <hi rendition="#u">wahre<lb break="yes"/>Schiksals</hi>tragödie über uns, Papa u<lb break="yes"/>Karl u unsere guten, vernünftigen<lb break="yes"/>Kinder herein gebrochen! Wenn man<lb break="yes"/>dann als Jüdin gar <hi rendition="#u">keinen</hi>
+<pb facs="#image_005"/>
+<hi rendition="#u">geistlichen</hi> Zuspruch hat, so ist es nicht<lb break="yes"/>zu verwundern, wenn man fast<lb break="yes"/>an Gottes Güte u Gerechtigkeit ver<lb break="no"/>zweifelt! − Gestern war meine<lb break="yes"/>Stim̄ung gallenbitter u ich bedaure<lb break="yes"/>wenn ich dir Vorwürfe gemacht habe;<lb break="yes"/>ich will aufs Neue versuchen mich mit<lb break="yes"/>dem schweren Geschick abzufinden; also<lb break="yes"/>verzeihe! −<lb break="yes"/>Heute ist unser <hi rendition="#u">Verlobungstag!</hi> <hi rendition="#u">So</hi><lb break="yes"/>haben wir ihn auch noch nie gefeiert!<lb break="yes"/>Hoffentlich gibt uns der l. Gott jetzt<lb break="yes"/>in absehbarer Zeit völlige Genesung,<lb break="yes"/>wie es in unserem tägl. Hauptgebet<lb break="yes"/>heißt: "Er heilet die <hi rendition="#u">Kranken</hi>, er schützet die<lb break="yes"/><hi rendition="#u">Fallenden</hi>, er <hi rendition="#u">befreit</hi> die <hi rendition="#u">Gefesselten</hi>,<lb break="yes"/>und ist den <hi rendition="#u">Wankenden</hi> eine Stütze!−<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Also, b'hüat di Gott!</hi><lb break="yes"/><hi rendition="#r">Auf Wiedersehen morgen</hi><lb break="yes"/>wenn Karl kom̄t!</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r">d. treue <hi rendition="#i">Josefine</hi></hi></seg>
+</p>
+</body>
+</text>
+</TEI>

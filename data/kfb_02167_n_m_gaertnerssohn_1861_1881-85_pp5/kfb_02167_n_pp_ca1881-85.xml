@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2167n04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2167</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ignatz <surname>N.</surname></persName>
+<date type="sent">ca1881-85</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: n.a. <surname>N.</surname></persName>
+<settlement type="sent">Regensburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2167n">
+<persName>
+<forename>Ignatz</forename>
+<surname>N.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1885"/>
+<occupation>Gärtnerssohn</occupation>
+<residence><geo decls="#WGS">48.7274379 11.1781865</geo>Neuburg a.D.</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Gärtner</p>
+<p from="1881" to="1885">Anstalt: 1881-85</p>
+<p from="1881" to="1885">Brieftypen: pp</p>
+</state>
+<trait><p>halluzinatorische Verrücktheit (1881-1885)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Angefangener Brief über Verhandlungen gegen ihn.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2167n05a.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline>Regensburg dheist Italien<lb break="yes"/>heist Kempfen </dateline>
+<salute>Liebe Mutter!</salute>
+</opener>
+<p>In dem das sie allerweil kleine freude machen. − Und<lb break="yes"/>forn mir
+                haben sie Verhantlungen zu tage <del>g</del>e<del>f</del>ortert<lb break="yes"/>Ich aber war <del>von</del>sch fort
+                bis <del>l</del> aber mir gleich <del><unclear>daster</unclear></del><lb break="yes"/>gegaben sind, </p>
+<p> </p>
+</body>
+</text>
+</TEI>

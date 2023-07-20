@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="gut4882h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 661: Gütersloh</collection>
+<idno>4882 (K. 500)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>H.</surname></persName>
+<date type="sent">17.04.1934</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Erbgesundheitsgericht</persName>
+<settlement type="sent">Gütersloh</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="gut4882h">
+<persName>
+<forename>Heinrich</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1893-11-08"/>
+<death when="1943-07-28"/>
+<occupation>Schlosser</occupation>
+<residence><geo decls="#WGS">52.0191005 8.531007</geo>Geburtsort: Bielefeld; Wohnort: Bielefeld</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Heizer</p>
+<p from="1911-06-07" to="1943-07-28">Anstalt: 07.06.1911-28.07.1943</p>
+<p from="1911-06-07" to="1943-07-28">Brieftypen: pp, po</p>
+</state>
+<trait><p>Schizophrenie (1911, 1922)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    stellt einen Antrag auf "Unfruchtbarmachung", um dadurch aus der Antalt entlassen zu werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="gut4882h01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="gut4882h01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Gütersloh den 17.4.1934.</hi></dateline>
+<salute>An das Erbgesundheitsgericht<lb break="yes"/>In <hi rendition="#i">Biel</hi>efeld. </salute>
+</opener>
+<p><add hand="unbekannt">G. d. 19.4.34<lb break="yes"/>die
+                        Entlassung<lb break="yes"/>des Kranken ist<lb break="yes"/><hi rendition="#u">nicht</hi> in Aussicht genommen. Zum Krkbl. hd.</add></p>
+<p>Hierdurch möchte ich den<lb break="yes"/>Antrag auf Unfruchtbar<lb break="no"/>machung stellen. Ich stehe<lb break="yes"/>im 40. Lebensjahr und<lb break="yes"/>befinde mich seit 12
+                Jahre<lb break="yes"/>in der Heilanstalt Gütersloh.<lb break="yes"/>Der mich
+                behandelnde Arzt<lb break="yes"/>Herr Dr. Herzfeld hat mir<lb break="yes"/>in
+                Ausicht gestelt, das ich<lb break="yes"/>Entlassen werden könnte,<lb break="yes"/>wenn Ich mich vorher des<lb break="yes"/>Eingriffs auf Unfruchtbar<lb break="no"/>machung unterzogen hätte.  <pb facs="#image_002"/>Ich bitte Höflichst, darum<lb break="yes"/>meinem Antrag <w>statt zu<lb break="yes"/>geben</w>, damit ich in meine<lb break="yes"/>Heimat Quelle bf Brackwede<lb break="yes"/>kreis Bielefeld
+                zurückkehren<lb break="yes"/>kann.<lb break="yes"/><hi rendition="#c">Hochachtungsvoll<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Heinrich
+                            <surname>H.</surname></hi></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

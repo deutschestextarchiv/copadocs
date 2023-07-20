@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2211m04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Susanne Klohn</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2211</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josefa <surname>M.</surname></persName>
+<date type="sent">08.12.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Hans</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2211m">
+<persName>
+<forename>Josefa</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1863"/>
+<death when="1920"/>
+<occupation>Näherin</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Schwester: Hausmeisterin, Bruder: Schuhmachermeister</p>
+<p from="1907" to="1920">Anstalt: 1907-20</p>
+<p from="1907" to="1920">Brieftypen: po, pp</p>
+</state>
+<trait><p>Verfolgungswahn mit Zerstörungstrieb, religiöser Wahn (1907)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Wutausbrüche mit Reue; Krankheit an den Ohren
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2211m04a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb2211m04b.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren den. 8.12.Dzbr 1908.</hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder Hans!</hi></salute>
+</opener>
+<p>
+Ich theile Dir mit daß ich so weit gesund<lb break="yes"/>bin, biß auf meine Ohren. Waß nun<lb break="yes"/>die Audoritäten <add>Ärzte</add> im Sin̄e haben weiß ich<lb break="yes"/>nicht recht. Die Ohren meine ich, kön̄te<lb break="yes"/>ich selbst heilen wen̄ man̄ mich lassen<lb break="yes"/>würde ich habe Sie zu Hause auch<lb break="yes"/>selbst geheilt. u. Herr Doktor <surname>H.</surname><lb break="yes"/>wollte es mir schon wegschneiden<lb break="yes"/>freilich habe ich schon zu Hause damit<lb break="yes"/>zu thun gehabt u. sind die Schuppen im̄er<lb break="yes"/>hinterm Ohr gewesen, die habe ich auch<lb break="yes"/>schon ins Münchner Krankenhaus ge<lb break="no"/>bracht da haben Sie so gemeint ich hätte<lb break="yes"/>Läuse weil ich so lange zum Käm̄en<lb break="yes"/>gebraucht habe. Schreckliches wollen<lb break="yes"/>Sie mit mir thun. <del>Man̄ ist</del> <seg ana="#inst">Ich bin nicht allein<lb break="yes"/>im Zim̄er hatt mir erst vor einigen Tagen
+
+<pb facs="#image_013"/>
+eine kranke Scheisdreck ins Bett gewor<lb break="no"/>fen u. zuvor hatt Sie mir gedroht<lb break="yes"/>als wen̄ Sie mich mit der Hand ver<lb break="no"/>kratzen wollte. Ich habe Sie dan̄<lb break="yes"/>geschüttelt <add>bei den Haaren</add> weil ich zornig war, u.<lb break="yes"/>nachdem habe ich Sie geküßt, weil Sie<lb break="yes"/>mir dan̄ doch wieder leid gethan hat.<lb break="yes"/>weil ich Sie doch nicht für bös gehalten<lb break="yes"/>habe, u. dachte mir dan̄ weiß wirklich<lb break="yes"/>nicht warum Sie das that. Mir ist<lb break="yes"/>nicht wohl in dieser Anstalt weil<lb break="yes"/>ichs bis heute noch nicht gut gehabt<lb break="yes"/>habe.</seg> Ich habe Einbildungen die<lb break="yes"/>vieleicht nicht richtig sind, aber auch<lb break="yes"/>nicht ganz unrichtig. Warum besucht<lb break="yes"/>mich in dieser Anstalt Niemand von<lb break="yes"/>Dillingen. <seg ana="#salute">Grüße mir den geistlichen<lb break="yes"/>Herrn Rath <surname>N.</surname> sowie den<lb break="yes"/>Herrn Doktor <surname>K.</surname> u. dessen Frl. Schwe<lb break="no"/>ster Marie die Frl. <surname>M.</surname>. Viele<lb break="yes"/>Grüße an deine Frau u. Kinder. An<lb break="yes"/>Schwester Babet u. Bruder Martin u<lb break="yes"/>dessen Familien an Bruder Schorsch seine<lb break="yes"/>Frau.</seg> ich möchte persönlich mit Dir sprechen.
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3349f21" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3349</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>F.</surname></persName>
+<date type="sent">24.06.1924</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Gläubiger: Georg <surname/>Kriener</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3349f">
+<persName>
+<forename>Jakob</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888"/>
+<death when="1935"/>
+<occupation>Landwirt, Dienstknecht</occupation>
+<residence><geo decls="#WGS">48.2473553 10.4500832</geo>Premach, Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landwirt</p>
+<p from="1907" to="1935">Anstalt: 1907-35</p>
+<p from="1907" to="1935">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>maniakalischer Erregungszustand (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erkundigung, ob Schulden getilgt wurden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3349f21a.jpg" xml:id="image_061"/>
+<graphic mimeType="image/jpg" url="kfb3349f21b.jpg" xml:id="image_062"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_061"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Kaufbeuren</hi> d.
+                        24.VI.1924.</hi></dateline>
+<salute><hi rendition="#c">Werter Herr <surname>K.</surname>!</hi></salute>
+</opener>
+<p>
+<add place="top"><hi rendition="#i">Jakob </hi><surname><hi rendition="#i">F.</hi></surname><lb break="yes"/>z. Z. Erholungsheim H. u. Pfleganstalt<lb break="yes"/>in
+                        Kaufbeuren<lb break="yes"/></add>Fühle mich verpflichtet, mich<lb break="yes"/>zu erkundigen, ob die Schuld<lb break="yes"/>welche ich bei Ihnen
+                stehen habe<lb break="yes"/>noch nicht getilgt ist? Hab bereits<lb break="yes"/>vor 3 Wochen an meinen Vater<lb break="yes"/>geschrieben alles auszugleichen.<lb break="yes"/>Sollten Sie, also noch nichts<lb break="yes"/>bekom̄en
+                haben, wendet Euch<lb break="yes"/>ohne weiteres an <hi rendition="#i">Johann
+                        <surname>F.</surname></hi><lb break="yes"/>in <hi rendition="#i">Premach</hi>, welcher verpflichtet<lb break="yes"/>ist die Schuld zu bereinigen. </p>
+<p><add hand="arzt"><surname><hi rendition="#i">F.</hi></surname> M.</add><hi rendition="#i"><lb break="yes"/>An</hi><lb break="yes"/>Herrn <hi rendition="#i">Georg <surname>K.</surname></hi><lb break="yes"/>Gasthof zum <hi rendition="#i">grünen Baum</hi><lb break="yes"/><hi rendition="#i">in Thannhausen</hi> a/<hi rendition="#i">Mindel</hi><lb break="yes"/>/Schwaben/ <hi rendition="#i">Bayern</hi></p>
+<pb facs="#image_062"/>
+<p>Ferner habe ich Euch noch mitzuteilen, daß ich jetzt<lb break="yes"/>eine Stelle
+                gefunden habe, den̄ das Bezirksamt<lb break="yes"/>Mindelheim war so gütig,
+                sich eines Arbeitslosen<lb break="yes"/>anzunehmen, somit polizeilich mich hier
+                    einzu<lb break="no"/>weisen daß ich freilich dem Bezirksamt Mindelheim<lb break="yes"/>zu großem Dank verpflichtet bin werdet Ihr<lb break="yes"/>begreifen die <unclear>Akt?</unclear> verschieben<lb break="yes"/>ich aufs <hi rendition="#i">Jenseits</hi>. Sobald werden wir uns nicht<lb break="yes"/>Wiedersehen den̄ ich bin hier all zu sehr beliebt<lb break="yes"/>als daß
+                man mich entbehren kön̄te! -<lb break="yes"/>Sollten wir also einander
+                nim̄er Wiedersehen<lb break="yes"/>so hoffen wir auf jenes bessere Land.<lb break="yes"/>Mit Gruß an alle Bekan̄te u Familien<lb break="no"/>angehörige verbleibe ich <surname><hi rendition="#i">F.</hi></surname>
+<hi rendition="#i">Jakob</hi>.<lb break="yes"/>Gruß <unclear/> Frau <surname><hi rendition="#i">K.</hi></surname>
+</p>
+<milestone rendition="#hr" unit="section"/>
+<p>Geschätztes Fräulein Noch sind die Tage der Rosen<lb break="yes"/><space/>Noch ist
+                die son̄ig goldige Zeit!<lb break="yes"/>Ist meine Überschrift an Ihnen noch
+                Wahrheit? Ich<lb break="yes"/>kan̄ u will es Ihnen von ganzem Herzen
+                wünschen. Mir<lb break="yes"/>geht es hier sehr gut, bin glücklich u gesund sowie
+                jeglicher<lb break="yes"/>weltlicher Pflicht enthoben, also fpr mich wirklich
+                    das<unclear> </unclear><lb break="yes"/>bereits angedeutete <hi rendition="#u">Erholungsheim.</hi><lb break="yes"/><unclear reason="shorthand"/><lb break="yes"/><seg ana="#salute">Unter vielen Grüssen verbleibe ich </seg><lb break="yes"/><seg ana="#signed">Ihr
+                    ergebenster<hi rendition="#i"> </hi><surname><hi rendition="#i">F.</hi></surname><hi rendition="#i"> Jakob</hi>.</seg></p>
+</body>
+</text>
+</TEI>

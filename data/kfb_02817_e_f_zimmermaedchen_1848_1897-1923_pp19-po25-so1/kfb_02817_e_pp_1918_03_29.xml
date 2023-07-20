@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2817e19" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2817</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>E.</surname></persName>
+<date type="sent">29.03.1918</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Nikolaus <surname>E.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2817e">
+<persName>
+<forename>Maria</forename>
+<surname>E.</surname>
+</persName>
+<birth when="1848"/>
+<death when="1923"/>
+<occupation>Zimmermädchen</occupation>
+<residence><geo decls="#WGS">48.221764 10.1058969</geo>Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1897" to="1923">Anstalt: 1897-1923</p>
+<p from="1897" to="1923">Brieftypen: pp, po</p>
+</state>
+<trait>
+<p>Größen- und Verfolgungsideen, Beeinträchtigungsideen, [Halluzinationen]
+                            (1911), halluzinatorische Verrücktheit (1922)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin kritisiert das Verhalten ihres Bruders ihr gegenüber, fordert ihn aber dennoch auf, sie aus der Anstalt zu holen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2817e19a.jpg" xml:id="image_069"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_069"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 29 <hi rendition="#i">März</hi> 1918.
+                    </hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder</hi></salute>
+</opener>
+<p> Wirst so gut sein dich entshlißen<lb break="yes"/>mich zu holen wolte allein nach
+                Haus<lb break="yes"/>bin in <hi rendition="#i">April</hi> geshickt worden beselle<lb break="yes"/>einen Wagen biß an die Bahnstation<lb break="yes"/>mit dem <w>Anstalt Wagen</w> gehe niht<lb break="yes"/>mehr wir
+                finden den <del>w</del>Weg shon<lb break="yes"/>komt oft genug hiehr <del>w</del>
+                führst die<lb break="yes"/>Leute fort an Weihnachten gedacht<lb break="yes"/>Shikst mir was an Oster aber da<lb break="yes"/>Denkt das Brüderlein niht dran<lb break="yes"/>weist das ih hier nihts hab meine<lb break="yes"/>Sachen
+                müssen Irdish ausgemacht sein<lb break="yes"/>muß auh dabei sein nicht im̄er
+                hinterm<lb break="yes"/>Rüken. hole mih diese Tage hab.<lb break="yes"/>erholung
+                nöthig<lb break="yes"/><space/> <seg ana="#salute">Es grüßt Dich Deine
+                    Schwester</seg><lb break="yes"/><hi rendition="#i"><seg ana="#signed">Maria
+                        <surname>E.</surname></seg></hi><lb break="yes"/>Herrn Nikolaus <surname>E.</surname> in Untereichen<lb break="yes"/>Post Alterstad.</p>
+</body>
+</text>
+</TEI>

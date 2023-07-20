@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2406a01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2406</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hugo <surname>A.</surname></persName>
+<date type="sent">19.09.1862</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Emma</persName>
+<persName type="addressee">Vorgesetzter: <surname>N.</surname></persName>
+<persName type="addressee">Sohn: Gustav</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2406a">
+<persName>
+<forename>Hugo</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1820"/>
+<death when="1864"/>
+<occupation>Professor der Mathematik, hat an Schulen unterrichtet</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Professor der Mathematik (in der Schule St. Anna)</p>
+<p from="1862" to="1864">Anstalt: 1862-64</p>
+<p from="1862" to="1864">Brieftypen: pp, po</p>
+</state>
+<trait><p>Melancholie (1862)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privatere und offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    fragt seine Schwester nach der Adresse seiner Frau;
+                    Bitte bei Hr. Nußer, sich zu entschuldigen;
+                    fragt seinen Sohn, ob die Briefe an seine Frau angekommen sind
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2406a01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2406a01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Freitag den 19<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> September<lb break="yes"/>1862.</hi></dateline>
+<salute><hi rendition="#c">Meine gute Emma!</hi></salute>
+</opener>
+<p>Ich habe schon z<add place="above">w</add>ei B<del>i</del>riefe, an Mina nach
+                    Aug<add place="above">s</add>burg geschrieben,<lb break="yes"/><del>so do</del>
+                ohne Antwort zu erhalten; da kam ich auf den<lb break="yes"/>Gedanken, ob Mina
+                nicht in München sei. Wenn<lb break="yes"/>dieß der <hi rendition="#i">F</hi>all
+                ist, so wird sie Dich wohl besucht<lb break="yes"/>haben. Wahrscheinlich wohnt sie
+                bei ihrer<lb break="yes"/>Mutter, deren Addresse ich auch nicht weiß.<lb break="yes"/>Habe daher die Güte mich zu benachrichtigen,<lb break="yes"/>wo
+                Emma sich befindet. <add>Mina soll mir schreiben,<lb break="yes"/>sobald sie in
+                    Augsburg<lb break="yes"/>ankom̄t. Kaufbeuern-Augs<lb break="no"/>burg,
+                    fl 6 kr, was der Bote kostet, weiß<lb break="yes"/>ich nicht.</add></p>
+<p><hi rendition="#r"><seg ana="#signed">Dein Dich liebender Bruder<lb break="yes"/>Hugo.</seg></hi></p>
+<p><hi rendition="#c">Geehrtester Herr <surname>N.</surname>!</hi><lb break="yes"/>Daß mein Sohn Gustav <del>den</del> das Essen bei ( ich weiß,<lb break="yes"/>bei Gott, den Namen nicht). Eben, unserer Wohnung<lb break="yes"/>gegenüber, hat, glaube ich kaum; wen̄ aber dieses nicht<lb break="yes"/>der <hi rendition="#i">F</hi>all ist, so kan̄ man sich entschuldigen.<lb break="yes"/><hi rendition="#r"><seg ana="#signed">Ihr ergebenster Diener<lb break="yes"/>Professor <surname>A.</surname>.</seg></hi>
+</p>
+<pb facs="#image_002"/>
+<p><hi rendition="#c">Lieber Gustav!</hi><lb break="yes"/>Du kaufst bei <surname>H.</surname> um 1 kr Oblatten. Schreibe<lb break="yes"/>mir doch, ob Du <del>zei</del> zwei Briefe an die
+                    Mut<del>h</del>ter<lb break="yes"/>erhalten hast <del>?</del>?. Wen̄ Du
+                aber keine erhal<del>s</del>ten<lb break="yes"/>hast, dann sage zu Herrn
+                    <surname>N.</surname>, oder der<lb break="yes"/>Frau
+                    <surname>N.</surname>, die Briefe müßten an die Ta<del>t</del>nte<lb break="yes"/>Emma, Vorsteherin im Maxmilian=Waisenstieft<lb break="yes"/>in
+                    Mü<add place="above">n</add>chen übergeben werden.<lb break="yes"/><hi rendition="#r"><seg ana="#signed">Dein Dich liebender Vater<lb break="yes"/><surname>A.</surname>.</seg></hi></p>
+</body>
+</text>
+</TEI>

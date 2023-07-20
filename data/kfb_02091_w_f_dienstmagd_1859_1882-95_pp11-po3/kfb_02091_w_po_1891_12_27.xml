@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2091w01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2091</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Therese <surname>W.</surname></persName>
+<date type="sent">27.12.1891</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Dienstherr und Frau: n.a. <surname>B.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2091w">
+<persName>
+<forename>Therese</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1895"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">48.7371951 11.1795268</geo>Neuburg a. d. Donau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Tagelöhner</p>
+<p from="1882" to="1895">Anstalt: 1882-95</p>
+<p from="1882" to="1895">Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Verrücktheit , Aufregungszustände, Sinnestäuschungen (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Neujahrswünsche, wünscht, wieder in Stellung zu kommen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2091w01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2091w01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb2091w01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 27 Dezember
+                    1891.</hi></dateline>
+<salute>
+<hi rendition="#c">Geherter Herr
+                            <surname>B.</surname>!<lb break="yes"/>Geherte Frau
+                            <surname>B.</surname>!</hi></salute>
+</opener>
+<p><space/> Beim begine des neuhen Jahres<lb break="yes"/>möchte ich Ihnen meine Glückwünsche<lb break="yes"/>darbringen.</p><p>Ich wünsche Ihnen ein Recht gutes <w>neu<lb break="no"/>es</w><w>jahr</w> daß Sie <w>Gesund</w><w>bleiben</w> und
+                    wün<lb break="no"/>sche Ihnen alles Gute was Ihnen selbst<lb break="yes"/>wünschen Unter grüßen an<del>m</del> Albertine<lb break="yes"/>Justus lest die
+                Theres sich auch<lb break="yes"/>Theres <w>ein laden</w> daß
+                Sie daß neue<lb break="yes"/>Jahr gut anwünscht <seg ana="#salute">es empfilt sich<lb break="yes"/>Theres</seg> Einen schönen Grus an Herr <surname>A.</surname><lb break="yes"/>und
+                Frau <surname>A.</surname> Herr Provesor <surname>E.</surname><lb break="yes"/>ist auch am 23 Ocktober Gestorben Schrib<pb facs="#image_002"/>meine Schwester Elis. Liebe Frau<lb break="yes"/><surname>B.</surname> Wenn Sie mich doch einmahl<lb break="yes"/>in Dienst
+                verlangen würden.</p><p>
+<seg ana="#salute">In dem ich nochmals Herrn Josepf<lb break="yes"/>Anton
+                        <surname>B.</surname> grüse</seg>
+<seg ana="#signed">nene ich mich<lb break="yes"/><hi rendition="#c">Ihre</hi><lb break="yes"/><lb break="yes"/><hi rendition="#r">Floge Theres.</hi></seg><lb break="yes"/><lb break="yes"/></p><p>Zwar möchte ich noch eine Skrove vom<lb break="yes"/>dem Lid Ihnen schreiben: i mein i habs
+                    bei<lb break="yes"/><hi rendition="#r">Ihnen au glesen</hi></p><p>
+<hi rendition="#c">Die Trähnen.</hi><lb break="yes"/>Macht man ins Leben kaum den
+                    ersten<lb break="yes"/>Schrit<lb break="yes"/>Bringt man als Kind schon eine
+                    Trähne<lb break="yes"/>mit<lb break="yes"/>Und <w>Freuden Tränen</w> gibts als erster Grus<lb break="yes"/>Dem Kind die Mutter
+                mit dem ersten Kuß<pb facs="#image_003"/>Man wächst empor dan zwischen Freud und<lb break="yes"/><del>M</del> Schmerz<lb break="yes"/>Da zieht die Liebe in<del>m</del> das junge Herz<lb break="yes"/>Und offenbart das Herz der Jungfrau sich<lb break="yes"/>Spricht
+                    eine Trähne ja ich liebe Dich.</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2905m26" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2905</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Helene <surname>M.</surname></persName>
+<date type="sent">02.07.1898</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2905m">
+<persName>
+<forename>Helene</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1848"/>
+<death when="1925"/>
+<occupation>Nudelfabrikanten-/Taglöhnerfrau</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern:</p>
+<p from="1880" to="1925">Anstalt: 1880-1925</p>
+<p from="1880" to="1925">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Fixe Ideen, Beeinträchtigungswahn (1881)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Aufzählung von Kleidungsstücken, Namen und Ämtern
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2905m26a.jpg" xml:id="image_062"/>
+<graphic mimeType="image/jpg" url="kfb2905m26b.jpg" xml:id="image_063"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_062"/>
+<opener>
+<dateline/>
+<salute>Jns Namens Seiner Majestät<lb break="yes"/>d. Königs von Bayern </salute>
+</opener>
+<p>Er <unclear/> Jnstanz 24 Hemd<lb break="yes"/><hi rendition="#r">24 Bettjack<lb break="yes"/>24 Beinkleid<lb break="yes"/>24 Taschetühl<lb break="yes"/>24
+                    Handtücher<lb break="yes"/>48 Kopftücher<lb break="yes"/>24 Schlafrockkleid<lb break="yes"/>24 Unterrockkleider<lb break="yes"/>24 paar Strümpfflickta<lb break="yes"/>24 Schürzzflickttreff.<lb break="yes"/>24 Betttückers u
+                    Serviett<lb break="yes"/>24 Kopfpolsteranzüg<lb break="yes"/><del>2</del>24
+                        Kiss<unclear>en</unclear> Anzüg<lb break="yes"/>124 Bettdecka Anzügs
+                    sofort</hi></p>
+<p>Wäsche Efeckten <unclear/><lb break="yes"/>Wehnhritzzum<lb break="yes"/>Mitwirk<lb break="yes"/>Kreditor<lb break="yes"/>Julius<lb break="yes"/>Jrrsee elend der 2. Juli 1898.<lb break="yes"/><add place="margin">J. N. M. d. Kaisers u.
+                        <unclear>Fadenzshweb</unclear></add><lb break="yes"/><add place="margin">Helene <surname>M.</surname>
+                    Nudelfabrikatio</add><lb break="yes"/><add place="top">Oberpflegerin <surname>M.</surname>
+<unclear>zenith</unclear>
+</add></p>
+<pb facs="#image_063"/>
+<p>Jm Meinen Namen<lb break="yes"/><hi rendition="#i">St Helen</hi> 1908 <unclear/>
+                Evangelisch<lb break="yes"/>Evangelisch Hofrath<lb break="yes"/>Herrns Siri Jrrsee<lb break="yes"/>Ebenern Erd Deckan<lb break="yes"/>Nachttrefffrequenti<lb break="yes"/>Johan̄es <surname>R.</surname>
+<unclear/><lb break="yes"/>Zuchthaus schmutz <unclear/><lb break="yes"/>Zwilch horsschoob<lb break="yes"/>Bürgermeisterei<lb break="yes"/>Osamts Stadtpfarr<lb break="yes"/>Rechts-Rath Herrn<lb break="yes"/><surname>S.</surname> Rechts Rath<lb break="yes"/>Hoirs <hi rendition="#i">S</hi>at <surname><hi rendition="#i">B.</hi></surname> v Hoir<lb break="yes"/>Reeb Bürgermeistern Amt<lb break="yes"/><add place="margin">Verwalter Rechter Rath Helene <surname>M.</surname> v. Jsny</add><lb break="yes"/><add place="bottom">Hausmeistereia Ans</add><lb break="no"/><add place="margin">pach Hofire Eberspachs Stunti Jrsee</add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3m02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>M.</surname></persName>
+<date type="sent">ca1850</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Familie</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb3m">
+<persName>
+<forename>Johanna</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1815"/>
+<death cert="unknown"/>
+<occupation>Optikertochter</occupation>
+<residence><geo decls="#WGS">49.5928616 11.0056</geo>Erlangen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Optiker</p>
+<p from="1850" to="1850">Anstalt: 1850</p>
+<p from="1850" to="1850">Brieftypen: pp</p>
+</state>
+<trait><p>Melancholie, Seelenstörung (1850)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    niedergeschlagen, denkt an Selbstmord, Abschiedsbrief, Familie soll an glückliche Vergangenheit denken; Schluss: Bitte an Dr. Hagen, Brief an Familie zu senden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3m02a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb3m02b.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<salute><hi rendition="#r">Theur<unclear reason="damage">e</unclear> Vater u.
+                        Geschwiste</hi></salute>
+</opener>
+<p> Es sind dies die letzten Zeilen, die ich an Euch<lb break="yes"/>richte, das
+                Leben in diesem Hause ist mir uner<lb break="no"/>träglich,
+                was ich in Erlangen äußerte muß leider<lb break="yes"/>hier zur Wirklichkeit werden
+                    es graußt mir<lb break="yes"/>selbst davor, doch ein Dasein wie
+                    meinietztiges<lb break="yes"/>kan ich nicht länger ertragen, ich mache
+                Dir<lb break="yes"/>keine Vorwürfe mein lieber Bruder, das<lb break="yes"/>Du mir
+                die Anstalt riethest ich nim̄ es an das<lb break="yes"/>mein
+                    Dasein auf diese Art enden sollte,<lb break="yes"/>in Erlangen hätte ich es nie
+                    gethan hier bin ich<lb break="yes"/>gezwungen. Meinen Dank für
+                    Eu<del>h</del>rer<lb break="yes"/>Liebe, ich kan sie euch nim̄er
+                vergelten, der<lb break="yes"/>liebe Gott wird sie Euch vergelten, Dir liebe<lb break="yes"/>Augusta vor allen tausend Dank. Du warst<lb break="yes"/>nie für
+                die Anstalt Du hattest recht, dafür <pb facs="#image_009"/>wünsche ich euch das was
+                was ich mir erspart<lb break="yes"/>habe und was von Vater auf mich kam Dir<lb break="yes"/>gehören soll Du guter Vater verzeihe mir das<lb break="yes"/>ich
+                Dir dieses nah zuziehe, ich habe oft gebeten<lb break="yes"/>man möchte mich wieder
+                zurücklassen um mein<lb break="yes"/>Unrecht wieder gut zu machen, man sagte<lb break="yes"/>mir ich kön̄te unter einen halben Jahre nicht<lb break="yes"/>zurück, das kann ich nicht ertragen, darum<lb break="yes"/>muß ich
+                euch so frei machen, noch eine Bitte<lb break="yes"/>gedenket <unclear> ? </unclear>in der Zeit wo wir<lb break="yes"/>gkücklich
+<unclear>waren ?n</unclear> in der Zeit wo <unclear>?</unclear> ich<lb break="yes"/>und Euch <unclear> ? </unclear> machte, und Ihr kön̄t<lb break="yes"/><unclear>euch ?sten</unclear> nun lebet wohl Gott<lb break="yes"/>sei meiner
+                Seele gnädig H. D. Hagen wird<lb break="yes"/>gebeten dieses Papier <hi rendition="#u"><unclear>gewiß</unclear></hi> den Meinigen zu <add place="margin">über<unclear>geben</unclear></add></p>
+</body>
+</text>
+</TEI>

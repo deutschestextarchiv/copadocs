@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a91" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">27.08.1919</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ärzte</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er kündigt an, sich umzubringen, und beschreibt verschiedene Möglichkeiten, wie er es machen wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a91a.jpg" xml:id="image_203"/>
+<graphic mimeType="image/jpg" url="kfb80a91b.jpg" xml:id="image_204"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_203"/>
+<opener>
+<dateline>Den 27. August 1919!</dateline>
+<salute>Meine lieben Herren Ärzte!</salute>
+</opener>
+<p><space/> Mir ist die Geduld vergangen. Ich<lb break="yes"/>besuche heute den
+                    <surname>R.</surname> &amp;. <surname>F.</surname> &amp;.<lb break="yes"/>Herrn Doktor <hi rendition="#i">Schwarz</hi> seine Mutter,<lb break="yes"/>&amp;. Herrn Dr. <hi rendition="#i">Fuchs</hi> seine Schwiegermut<lb break="no"/>ter. Ich bring mich absolut um. Will<lb break="yes"/>nix mehr wissen von Euch &amp;. der Welt.<lb break="yes"/>Ich
+                verschluckte um ½ 12 Uhr die 12<lb break="yes"/>Zwölf Kugeln vom Kugelspiel
+                &amp;.<lb break="yes"/>24 Vierundzwanzig größre Knöpfe<lb break="yes"/>vom
+                Mühlspiel. Machte mir aber lei<lb break="no"/>der nix &amp;. ich starb wegs dem
+                nicht.<lb break="yes"/>Heute Nachmittag bring ich mich sicher<lb break="yes"/>um. Schneide mit einem Nagel <pb facs="#image_204"/> mir
+                den Seckel-Beutel ganz auf &amp;.<lb break="yes"/>tue mir die 2 Kugeln raus &amp;.
+                tue<lb break="yes"/>mich schwer beschädigen bis ich va<lb break="no"/>recke. Ihr
+                seid schuld. Auch spring ich<lb break="yes"/>mit meim Kopf durch die Fen<lb break="no"/>sterscheiben &amp;. schlag alles zam̄ bis<lb break="yes"/>ich hin bin oder auf <unclear><hi rendition="#i">d</hi>e</unclear> bin.<lb break="yes"/>Also jetzt wißt Ihr was ich tue.<lb break="yes"/>Hättet Ihr mir
+                Arbeit gegeben, dan̄<lb break="yes"/>tät ichs nicht, aber ihr gabt mir keine<lb break="yes"/>jetzt tue ichs für im̄er.</p>
+<p><space/>
+<seg ana="#salute">Also Pfi gott; Auf nim̄er wieder<lb break="no"/>sehen;
+                    Lebt wohl ich gehe zu Eurem<lb break="yes"/>Urgroßeltern.</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Hans
+                        <surname>A.</surname></seg>.</hi><lb break="yes"/>gepriesner Selbstmordkanditat<lb break="yes"/><hi rendition="#c">&amp;. <seg ana="#curse">Teufelsschüler</seg>.</hi>
+<add><hi rendition="#r">Ich <w>tu</w><w>es</w><lb break="yes"/>gleich.</hi></add>
+</p>
+</body>
+</text>
+</TEI>

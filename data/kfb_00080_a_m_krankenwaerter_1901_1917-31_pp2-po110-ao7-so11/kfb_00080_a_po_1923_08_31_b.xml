@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a77" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">31.08.1923</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil_grey" scope="minor" scribe="arzt1"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er hat lange in die Sonne geschaut, deswegen sieht er jetzt schlecht.
+                    Er leidet unter seinen Wahnvorstellungen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a77.jpg" xml:id="image_178"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_178"/>
+<opener>
+<dateline><add hand="arzt2"><hi rendition="#c">31.8.23.</hi></add></dateline>
+<salute><hi rendition="#r">Sehr geehrter Herr Direktor.</hi></salute>
+</opener>
+<p><add hand="arzt1" place="top">56</add><lb break="yes"/>Mit der <hi rendition="#u" style="arzt2"><w>Gebets un ruhe</w>
+                    wird</hi><lb break="yes"/>es mit <hi rendition="#u" style="arzt2">mir im̄er
+                    schlimmer.</hi><lb break="yes"/><del>A</del> Ich schaute 3 Tage lang am<lb break="yes"/>28. 29.
+                &amp;. 30. August je 2 Stun<lb break="no"/>den lang in die Sonne um<lb break="yes"/><hi rendition="#u" style="arzt2">blind zu</hi> werden. Jetzt kan̄<lb break="yes"/>ich nicht mehr gut lesen &amp;.<lb break="yes"/>seh von weitem
+                nichts mehr.<lb break="yes"/>Mir steht im̄er im Kopf ich<lb break="yes"/><hi rendition="#u" style="arzt2">soll ster</hi>ben, od<hi rendition="#u" style="arzt2">er blind</hi><lb break="yes"/>werden. Traue m<hi rendition="#u" style="arzt2">ir selbst<lb break="yes"/>nicht mehr</hi>. Kom̄t mir oft<lb break="yes"/>in Kopf, ich soll meine Augen<lb break="yes"/>beschädigen.
+                <hi rendition="#u" style="arzt2">Die Gebetsunruhe<lb break="yes"/>ist
+                    schuld.</hi>
+<seg ana="#salute">Hochachtungsvollst</seg><lb break="yes"/><hi rendition="#i"><seg ana="#signed">Hans <surname>A.</surname></seg></hi>.</p>
+</body>
+</text>
+</TEI>

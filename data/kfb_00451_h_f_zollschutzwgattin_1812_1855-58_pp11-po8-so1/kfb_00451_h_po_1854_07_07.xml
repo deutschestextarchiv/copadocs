@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb451h07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>451</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Augusta von <surname>H.</surname></persName>
+<date type="sent">1855-1858</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb451h">
+<persName>
+<forename>Augusta von</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1812"/>
+<death cert="unknown"/>
+<occupation>Zollschutzwachengattin</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: kgl. Stallmeister</p>
+<p from="1855" to="1858">Anstalt: 1855-1858</p>
+<p from="1855" to="1858">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Fixe Ideen, Halluzination (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Ihre Gemütsverfassung ist nicht gefährlich.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb451h07.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline>der 7te <hi rendition="#i">July</hi> 1854</dateline>
+<salute>Guter Herr Direkter</salute>
+</opener>
+<p> Aus Furcht im̄er verkannt <add place="above">zu werden</add> habe ich deßen
+                Nie <w>er<lb break="no"/>wähnt</w> wovon Ihr Wohlgeborn gestern gesprochen -<lb break="yes"/>Nämlich daß diese Ideen Hoffnugen, Träume dunt um<lb break="yes"/>Wort der ganze träumerische Cultus dem ich gedient Nichts<lb break="yes"/>war als
+                der Drang einer liebevolle Seele <add place="above">sich</add> immer weiter<lb break="yes"/><w>mit</w><w>heilsamer</w> unendlicher auszubreiten durch eine<lb break="yes"/>Wohlthätigkeit, so reich verflochten und so mächtig <w>aus<lb break="no"/>gedehnt</w>, daß sie Alles durchdrungen hatte, ohne daß Geringste<lb break="yes"/>zu vergeßen und ohne die geringste Rükwirkung der Ehre<lb break="yes"/>auf sich selbst. Nichts nichts hätte <add place="above">ich</add>
+                sein wollen als ein <w>zurük<lb break="no"/>gezogens</w> gutes Geschöpf mit einen
+                    <hi rendition="#u">unendlichen Bewußtsein</hi><lb break="yes"/>und selbst was meinen Sohn würde <w>zu
+                    gedacht</w> worden sein<lb break="yes"/>ich Nie niemahls gefodert hätte sondern
+                    <add place="below">ihm</add> höchstens mir zu<lb break="yes"/>nehmen <add place="above">hätte</add>daß heißt mich <hi rendition="#u">nicht</hi>
+                thatsächlich wiedersezt. Sollte<lb break="yes"/>nur solche Gemüthsverfaßung
+                gefährlich sein? - ih glaube nicht. -<lb break="yes"/><del>Digl</del> Ich hätte ja
+                selbst nichts zaln wolln Andre doch mich dunklen Auguste vn
+                    <surname>H.</surname></p>
+</body>
+</text>
+</TEI>

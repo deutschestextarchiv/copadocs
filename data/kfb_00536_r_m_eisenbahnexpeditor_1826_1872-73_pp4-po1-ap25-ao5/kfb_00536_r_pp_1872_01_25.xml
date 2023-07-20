@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb536r07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>R.</surname></persName>
+<date type="sent">25.01.1872</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Frau: Katharina<surname>R.</surname></persName>
+<settlement type="sent">Rosenberg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb536r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1873"/>
+<occupation>Eisenbahnexpeditor, Zuchthaussträfling</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Simmerberg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1872" to="1873">Anstalt: 1872-73</p>
+<p from="1872" to="1873">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Melancholie (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Äußert sich zu einer Verordnung, auf die ihn seine Frau aufmerksam gemacht hat. Um demnach eine Beurlaubung/Entlassung genehmigt zu bekommen, bräuchte Herr R. jedoch einen Arbeitsplatz. Herr R. bezweifelt, in der jetzigen Situation eine Stelle zu finden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb536r07a.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="kfb536r07b.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline><hi rendition="#r">Rosenberg den 25 Jänner 1872</hi></dateline>
+<salute><hi rendition="#c">Liebe gute Frau!</hi></salute>
+</opener>
+<p>Die mir überschickte Bekanntmachung habe der Abend<lb break="no"/>zeitung vom 16<hi rendition="#sup">t</hi> dies auch entnom̄en und danke Dir für<lb break="yes"/>die Aufmerksamkeit, zu der ich Dich gar nicht veranlaßte.<lb break="yes"/>Um eine Entlassung beziehungsweise Beurlaubung wie<lb break="yes"/>durch diese Verordnung die Bedingungen gegeben sind,<lb break="yes"/>durchsetzen
+                zu können, gehört vor allem die Aus<lb break="no"/>mittlung eines Platzes für mich,
+                um nachweisen zu<lb break="yes"/>können daß mir ehrlicher Erwerb am Unterkunfts<lb break="no"/>Orte in Aussicht steht. Allein §10. fraglicher Bekan̄t<lb break="no"/>machung lautet: Der vorläufig entlassene Gefangene<lb break="yes"/>tritt mit dem Tage der Entlassung und bis zum Ablaufe<lb break="yes"/>der in dem
+                Straferken̄tnisse festgesetzten Strafzeit unter<lb break="yes"/>spezielle
+                    <del>Kont</del> polizeiliche Kontrole, welche den Zweck<lb break="yes"/>hat,
+                ihn fortdauernd und in wirksamer Weise von<lb break="yes"/>dem Mißbrauche der ihm
+                durch die Entlassung <w>zu Theil<lb break="no"/>gewordenen</w> Vergünstigung
+                abzuhalten, welche aber nicht<lb break="yes"/>in der Weise ausgeübt werden soll,
+                daß der Entlassene<lb break="yes"/>dadurch in seinem Fortkom̄en behindert
+                oder der öffent<lb break="no"/>lichen Verachtung ausgesetzt wird. Diese Controle<lb break="yes"/>wird durch die Ortspolizeibehörde sohin wen̄ ich in Augs<lb break="no"/>burg unterkom̄e vom Stadtmagistrate über mich gehand<lb break="no"/>habt und es wird schwer werden, wen̄ dies bei Werb<lb break="no"/>ung um einen Platz <hi rendition="#u">vora</hi>us bekan̄t
+                werden muß<lb break="yes"/>nemlich, wer sich meiner erbarmen und mir eine Auf<lb break="no"/>nahme zusicherte, Jemand zu finden den dieser Umstand<lb break="yes"/>nicht genirt. Auch erübrigt mir kein anderes Unter<lb break="no"/>komen als in allenfalls in einer Notariats- oder <pb facs="#image_015"/>Advocaten-Kanzlei, und entsteht die Frage an<lb break="yes"/>wen ich Dir rathen
+                soll Dich zu wende. Du<lb break="yes"/>weißt mich die H. Notare
+                    <surname>P.</surname> und <surname>E.</surname> gut<lb break="yes"/>ken̄en</p>
+</body>
+</text>
+</TEI>

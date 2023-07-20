@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1766w01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1766</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Martin <surname>W.</surname></persName>
+<date type="sent">02.06.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1766w">
+<persName>
+<forename>Martin</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1853"/>
+<death when="1916"/>
+<occupation>Taglöhner</occupation>
+<residence><geo decls="#WGS">48.6303725 11.0995944</geo>Schönesberg, Neuburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Wirt</p>
+<p from="1905" to="1916">Anstalt: 1905-16</p>
+<p from="1905" to="1916">Brieftypen: pp, po</p>
+</state>
+<trait><p>Epileptisches Irresein, sekundärer Schwachsinn (1905)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    soll nach Friedberg schreiben Bezirksassessor wegen Testemant vom Vater, Gelddinge
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1766w01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1766w01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline>Ihrse am 2<hi rendition="#sup">t</hi> Juni 1906.</dateline>
+<salute>Lieber Herr Thierrektor!</salute>
+</opener>
+<p>
+Ich habe Ihnen vor aht Tagen<lb break="yes"/>gebeten nach meinen Anligen<lb break="yes"/>zu schreiben Ich häte aber noch<lb break="yes"/>Eine Bitte wen Sie so gut <w>wä<lb break="yes"/>hren</w> und würten nach <w>Fried<lb break="yes"/>berg</w> schreiben zum Herrn <w>Be<lb break="yes"/>zirksassesor</w> um mir das<lb break="yes"/><del>Tast</del> Testamend vom Vat<add>er</add>,<lb break="yes"/>zu Erkenen zu geben wie<lb break="yes"/>lange Es noch dauert das<lb break="yes"/>man die Schtathschulden<lb break="yes"/>und Gemeintekeschten<lb break="yes"/>die Ih derer zeit seid das<lb break="yes"/>das ih das Deschtetnent vom<lb break="yes"/>Vatter unterschriben habe.
+
+<pb facs="#image_002"/>
+hab machen müssen <w>Beza<lb break="yes"/>len</w> kaufen Suma von 67000<lb break="yes"/>Mark ohne den Zins von<lb break="yes"/>12 Jhahr zur Tilgung<lb break="yes"/>der Gemeinte und Schtat<lb break="yes"/>schulden, das ich weis wie<lb break="yes"/>Es geth Lieber Herr Thirecktor,<lb break="yes"/>den wen ih die Schtatschulten<lb break="yes"/>vor 12 Jahren Bezalt hätte dan<lb break="yes"/>wären Sie von der Suma<lb break="yes"/>wegezogen worten so hab<lb break="yes"/>ich Es aber durch den Zins<lb break="yes"/>Erschbart. <seg ana="#signed">Ich bin Euher <w>Aufri<lb break="yes"/>tiger</w> Freund.<lb break="yes"/><hi rendition="#c">Martin <surname>W.</surname>,</hi><lb break="yes"/>von Schönesberg<lb break="yes"/>Bezirksgericht Neuburg a/d<lb break="yes"/>+</seg>
+</p>
+</body>
+</text>
+</TEI>

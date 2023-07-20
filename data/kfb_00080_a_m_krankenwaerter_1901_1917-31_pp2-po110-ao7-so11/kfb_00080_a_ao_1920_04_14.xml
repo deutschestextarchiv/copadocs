@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a129" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Eltern: Babette und Hans <surname>A.</surname></persName>
+<date type="sent">14.04.1920</date>
+<date type="received">19.04.1920</date>
+<persName type="addressee">Oberarzt</persName>
+<settlement type="sent">Hoyren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="eltern"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Eltern erkundigen sich nach der Gesundheit ihres Sohnes.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a129a.jpg" xml:id="image_114"/>
+<graphic mimeType="image/jpg" url="kfb80a129b.jpg" xml:id="image_115"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_114"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Hoyren</hi>, den 14.<hi rendition="#i">A</hi>.1920</hi></dateline>
+<salute><hi rendition="#i">Sehr geehrter Herr Oberarzt!</hi></salute>
+</opener>
+<p><space/> Erlauben uns die ergebene<lb break="yes"/>Anfrage, wie es mit der
+                Gesundheit<lb break="yes"/>unseres Sohnes steht. Derselbe möch<lb break="no"/>te
+                im̄er heim. Wir glauben aber,<lb break="yes"/>daß er doch wieder nicht
+                bleibt.</p>
+<pb facs="#image_115"/>
+<p>Wir bitten daher, Herr Oberarzt möchte<lb break="yes"/>uns seine Ansicht,
+                gütigst mitteilen.<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Im Voraus für die Mühe </hi><lb break="yes"/><space/> herzlichst dankend<lb break="yes"/><hi rendition="#r">grüßen
+                        hochachtungsvollst</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Hans u. Babette
+                        <surname>A.</surname></seg><lb break="yes"/>Krankenhaus Hoyren-Lindau</hi></p>
+<p><add hand="arzt"><unclear/><lb break="yes"/>19.4.20. <space/>
+<hi rendition="#i">D<hi rendition="#sup">r</hi>Z.</hi></add></p>
+</body>
+</text>
+</TEI>

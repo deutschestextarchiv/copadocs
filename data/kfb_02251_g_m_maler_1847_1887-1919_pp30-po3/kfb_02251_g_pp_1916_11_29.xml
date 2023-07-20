@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Carima Jekel</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">29.11.1916</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Babette <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Maler</p>
+<p from="1887" to="1919">Anstalt: 1887-1919</p>
+<p from="1887" to="1919">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/><!--anpassen!-->
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Der Schreiber beschwert sich, dass seine Schwester ihm kein Geld zahlen will.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g05a.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="kfb2251g05b.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb2251g05c.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb2251g05d.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline><hi rendition="#c">Irsee den 29. Nov. 1916.</hi></dateline>
+<salute><hi rendition="#c">Werthe Schwester!</hi></salute>
+</opener>
+<p>Wie Ich gehört habe<lb break="yes"/>kein Geld mir nicht<lb break="yes"/>einstehn willst, Erlaubt<lb break="yes"/>zu haben 300 Mark<lb break="yes"/>an
+                nicht berechtigte<lb break="yes"/>Personen bezahlung<lb break="yes"/>oder
+                Vollmacht nicht<lb break="yes"/>erhalten hattest oder<lb break="yes"/>weniger noch
+                von mir<lb break="yes"/>nicht, welch Mißer<lb break="no"/>rabler Charackter
+                    Schuf<lb break="no"/>tiger. Eine Meineidige<lb break="yes"/>Hechinger Wüst mit<lb break="yes"/>einer Oberin Wilhelm<lb break="no"/>ine verleitet, Ich Ihr<lb break="yes"/>Ehren Wort schon be<lb break="no"/>komen. verleitet wurde </p>
+<pb facs="#image_015"/>
+<p>eine Meineidige Wil<lb break="no"/>helmine. Wüst von<lb break="yes"/>Hechingen keine Kreu<lb break="no"/>zer 40 auf 50 Jahren<lb break="yes"/>ein geweßen. Wie<lb break="yes"/>kanst du nir meine<lb break="yes"/>Geschenke schämlern<lb break="yes"/>abkürzen abbrechen<lb break="yes"/>nir weniger gar ein<lb break="yes"/>sein durfte du nur<lb break="yes"/>alles selber der <w>Unter<lb break="no"/>nehmungs Geist</w> nir<lb break="yes"/>eine freche Person<lb break="yes"/>selber warst. Du hast<lb break="yes"/>nir schon einige mal<lb break="yes"/>dießer Jahre um einen<lb break="yes"/>Werth von baar Mar<lb break="no"/>ken Betrogen, daß<lb break="yes"/>du nir dieses mal<lb break="yes"/>nehr Schickst u Vergü </p>
+<pb facs="#image_016"/>
+<p>test dießes Mal.<lb break="yes"/><surname>S.</surname> u Frau<lb break="yes"/>laße ich nir nichts<lb break="yes"/>darein reden, jetzt<lb break="yes"/>nehme Dich zusamen<lb break="yes"/>Ich warne dich.<lb break="yes"/>Wir haben in unser<lb break="yes"/>Abtheilung einen leben<lb break="yes"/>gefährlichen Man<lb break="yes"/><surname>P.</surname> der durch einen<lb break="yes"/>Ersetzt werden muß<lb break="yes"/>wegen Mißhand<lb break="no"/>lung. Nächstes Mal<lb break="yes"/>Brief mehr noch mit<lb break="no"/>getheilt
+                werden dir.<lb break="yes"/><seg ana="#salute">Es grüst</seg>
+<seg ana="#signed">dein Bruder<lb break="yes"/><lb break="yes"/><hi rendition="#c">Jakob <surname>G.</surname><lb break="yes"/><hi rendition="#i">Maler</hi></hi></seg><lb break="yes"/>Eine Nonn eine nicht brechtig<lb break="yes"/>Person ein Meineid. </p>
+<pb facs="#image_017"/>
+<p>Babette Greiff<lb break="yes"/>Malerstochter<lb break="yes"/>in der Heil u
+                    Pflege<lb break="no"/>Anstalt Kaufbeuern<lb break="yes"/>frei. </p>
+</body>
+</text>
+</TEI>

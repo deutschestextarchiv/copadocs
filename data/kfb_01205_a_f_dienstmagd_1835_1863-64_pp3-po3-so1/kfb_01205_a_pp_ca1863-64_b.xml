@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1205a04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1205</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hanna <surname>A.</surname></persName>
+<date type="sent">ca1863-64</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geschwister: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1205a">
+<persName>
+<forename>Hanna</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1835"/>
+<death cert="unknown"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">48.8046449 10.4941991</geo>Ederheim, Nördlingen</residence>
+<faith>jüdisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Metzger</p>
+<p from="1863" to="1864">Anstalt: 1863-64</p>
+<p from="1863" to="1864">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Tobsucht (1863), Hysterie, Depression/Exaltation (1863-64)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    erkundigt sich nach dem Befinden ihrer Familie, wünscht sich Antwort mit Auskunft
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1205a04a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb1205a04b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Meine <hi rendition="#i">Theuerte Geschwistern</hi> <unclear>HEBR?</unclear></hi></salute>
+</opener>
+<p> Nach langem Sehnen, fühle ich mich ge<lb break="no"/>drungen wieder einmahl nach Eurem<lb break="yes"/>mir so werthen Wohle zu erkundigen.<lb break="yes"/>Wie geht es
+                Euch, was machst Du liebe<lb break="yes"/><hi rendition="#u"><hi rendition="#i">Bertha</hi></hi>;? mit deine gute
+                    Kinderchen;<lb break="yes"/>wie befindet sich der kleine <hi rendition="#i">Carl, <del>u</del> Idda,<lb break="yes"/>Mina, Berta, Leopold</hi> u. <hi rendition="#i">Max</hi>. seit Ihr doch<lb break="yes"/>gesund?_: Du mein <hi rendition="#i">geehrter Schwager</hi>, wie<lb break="yes"/>steht bei Dir dieses
+                    <hi rendition="#i">Jahr</hi>, die Gesundheit,?<lb break="yes"/>bist du auch mit
+                Deinem Geschäfte zufried<lb break="no"/>en? _ . würde mir sehr angenehm sein<lb break="yes"/>im Bälde von Eurem Wohlergehen<lb break="yes"/>Nachricht
+                    erhalten.</p><p> 1. Bekom̄t Ihr von den Geliebte <hi rendition="#i">de <surname>E.</surname></hi> auch
+                manchmal <hi rendition="#i">Brief</hi>? was macht Schwester<lb break="yes"/><hi rendition="#i">Jetta</hi>, u. mein guter <hi rendition="#i">Ahron</hi>, ist doch
+                Alles wohl,<lb break="yes"/>überhaupt was machen die dortige Bekan̄te?
+                    mein<lb break="yes"/>Persönlichkeit ist soweit mit meiner Gesundheit<lb break="yes"/>so zu sagen zimlich Gott Lob zufrieden.</p>
+<p><hi rendition="#r">w. g. nm.</hi>
+<pb facs="#image_012"/>
+Sonstige Neuigkeiten wüßte nichts zu erwähn<lb break="no"/>nen es erwartet nun in Bälde auch von<lb break="yes"/>Euch was zu hören <seg ana="#salute">womit beschlüßt<lb break="yes"/>unter viele Grüße mit dem in̄ige<lb break="yes"/>Wunsche <hi rendition="#i">proß neues Jahr</hi><lb break="yes"/></seg><seg ana="#signed"><hi rendition="#r">Eure <hi rendition="#i">Treue<lb break="yes"/>Haniech <surname>A.</surname></hi></hi></seg></p>
+<p><hi rendition="#i">Adreße Herrn<lb break="yes"/>J. L. <surname>M.</surname><lb break="yes"/>in Fürth</hi> bei <hi rendition="#i">Nürnberg<lb break="yes"/>Kngreich Bayern</hi><lb break="yes"/>bitte gütigst <hi rendition="#i">Gnaden von H. H. kngl.<lb break="yes"/>H. F. J. E. D. L. B K. M. M. N. L.</hi><lb break="yes"/>einige Zeilen darunter zu <hi rendition="#i">correspind<lb break="no"/>iren</hi>. Verbleibe ich unterthänigst er<lb break="yes"/><hi rendition="#r">gebene gehorsame dankverpflichtete<lb break="yes"/><hi rendition="#i">N. B. Euro Dienerin Hanne.</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

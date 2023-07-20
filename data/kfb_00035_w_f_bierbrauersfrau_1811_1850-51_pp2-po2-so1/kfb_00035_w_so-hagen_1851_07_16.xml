@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb35w05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>35</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Arzt: Dr. Hagen</persName>
+<date type="sent">16.07.1851</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwägerin von Patientin: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb35w">
+<persName>
+<forename>Katharina</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1811"/>
+<death cert="unknown"/>
+<occupation>Bierbrauersfrau</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="1850" to="1851">Anstalt: 1850-51</p>
+<p from="1850" to="1851">Brieftypen: po, pp</p>
+</state>
+<trait><p>Melancholie, Mania puerperalis, fixer Wahn (1850)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief, verfasst von Dr. Hagen</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patientin noch daheim, aber wieder krank, d.h. Urlaub soll beendet werden; Trick: Besuch Tänzelfest
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb35w05a.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><hi rendition="#c">d. 16 Juli</hi></dateline>
+<salute/>
+</opener>
+<p> Aus Ihrem <unclear>neithe</unclear> letzten hab ich erfahren wie<lb break="yes"/>sich bei
+                Ihrer Frau Schwägerin der alte Zustand<lb break="yes"/>und somit die Nothwendigkeit
+                eingestellt hat,<lb break="yes"/>den Urlaub zu beendigen u. sie wieder in die<lb break="yes"/>Anstalt zurückzubringen. <del>Hirbei</del> Hat sie bei<lb break="yes"/>Ihnen nicht gut gethan, so wird dies ohne Zweifel<lb break="yes"/>in Augsburg noch bei weitem weniger der fall sein.<lb break="yes"/>die
+                Schwierigkeit wird nur sein, <hi rendition="#u">wie</hi> sie wieder<lb break="yes"/>hirherzubringen ist. Sie wünscht zwar das Tänzel<lb break="no"/>fest in Kaufb. u.
+                bei dieser Gelegenheit auch Irsee<lb break="yes"/>zu besuchen, und wird
+                wahrscheinlich auf eine<lb break="yes"/>Einladung meinerseits warten. Ich
+                kan̄ diese<lb break="yes"/>aber deshalb nicht an sie ergehen lassen, weil
+                    es<lb break="yes"/>dan̄ später im̄er den Anschein hätte, als
+                hätte ich sie<lb break="yes"/>mit Absicht hiehergelockt, um sie dan̄ zu
+                behalten, was<lb break="yes"/>sie mir später im̄erwährend als betrug
+                    vorwerfen<lb break="yes"/>würde. Sollten Sie daher die Gelegenheit des
+                    tänzelfestes<lb break="yes"/>benutzen wollen, so ginge dies wohl nicht
+                    anders,<lb break="yes"/>als dadurch, daß Sie sie bereden, es sei eine
+                    Einladung<lb break="yes"/>von mir nicht nothwendig, u. sie sei, wenn sie uns<lb break="yes"/>besuchen wolle, auch <add>ohne</add> eine solche
+                willkom̄en. Auch<lb break="yes"/>dürfte sie mich, ehe sie
+                hirherkom̄t, , keinesfalls schon<lb break="yes"/>in kaufb. getroffen haben,
+                weil ich dan̄ eben auch<lb break="yes"/>den̄och genöthigt wäre, sie
+                einzuladen, sondern<lb break="yes"/>es wäre vielleicht das beste, gleich <del>zu
+                    erst</del><lb break="yes"/>hirher zu fahren, von es sie den̄ freilich<lb break="yes"/>nicht mehr nach kaufb. zurück dürfte, indes<lb break="yes"/>sonst
+                leicht der ganze Plan vereitelt werden<lb break="yes"/>würde.<lb break="yes"/><seg ana="#signed"><unclear>Hagen</unclear></seg>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1795k03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1795</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Viktoria <surname>K.</surname></persName>
+<date type="sent">10.06.1884</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Herr Hofrat: n.a.</persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1795k">
+<persName>
+<forename>Karl</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1838"/>
+<death when="1889"/>
+<occupation>Briefträger</occupation>
+<residence><geo decls="#WGS">48.7371951 11.1795268</geo>Neuburg a.d. Donau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Postpackerseheleute</p>
+<p from="1884" to="1889">Anstalt: 1884-1889</p>
+<p from="1884" to="1889">Brieftypen: po, pp, ao</p>
+</state>
+<trait>
+<p>hallucinatorische Verworrenheit (1884)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Frau des Patienten wendet sich an den Hofrat, da ihr Mann gerne aus der Anstalt entlassen werden würde. Sie erklärt sich bereit, eine Art Entlassung zur Probe zu ermöglichen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1795k03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb1795k03b.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg den 1<del>6</del>0 Juni 1884.</hi><lb break="yes"/><add hand="arzt"><hi rendition="#c"><hi rendition="#i"><surname>K.</surname></hi></hi></add></dateline>
+<salute><space/> Hochgeehrter Herr Hofrath!</salute>
+</opener>
+<p>Vor allem meinen besten Dank für Ihr wehrtes<lb break="yes"/>Schreiben aber
+                leider noch keine Beßerung so<lb break="yes"/>kan̄ ich nicht anders als den
+                Wunsch meines<lb break="yes"/>Man̄es <w>zu</w><w>erfüllen</w> u. Ihn auf
+                Seinem<lb break="yes"/>Geburtstage zu holen damit Sein Wunsch<lb break="yes"/>erfüllt wird indem er mir sagte ich wäre<lb break="yes"/>die Frau mir müßte man
+                Ihn geben wen̄<lb break="yes"/>Er herausverlange kom̄e er nie heraus<lb break="yes"/>bis am 15 Juni bleibe Er noch gern in der<lb break="yes"/>Anstalt wen̄ Er aber da nicht heim kom̄e<lb break="yes"/>dan̄ verfalle Er in die Tobsucht dan wäre <pb facs="#image_007"/>es gefählt
+                um Ihn ich fragte dan Herrn<lb break="yes"/><unclear>Rechtsath</unclear>
+<surname>P.</surname> was ich thun solle dieser<lb break="yes"/>gab mir den
+                Rath wen̄ mein Man̄ so eine<lb break="yes"/>Sehnsucht nach Hauße habe
+                Herr Hofrath möchte<lb break="yes"/>mir Ihn auf Probe heraus geben, ich thue<lb break="yes"/>dan eine eigene Person für Ihn her damit<lb break="yes"/>er nicht
+                allein ist auch der Hausherr gab<lb break="yes"/>seine Einwilligung her dieser geht
+                dan<lb break="yes"/>öfter mit Ihm spazieren vieleicht macht<lb break="yes"/>es
+                sich doch mit Gotteshilfe Herr Hofrath<lb break="yes"/>werde mir dieses nicht Übel
+                nehmen dan<lb break="yes"/>weis ich daß ich alles gethan habe was nur<lb break="yes"/>eine Frau thun kan̄</p>
+<p><hi rendition="#c"><seg ana="#salute">Hochachtungsvollst</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Viktoria
+                            <surname>K.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2741t01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2741</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Corona <surname>T.</surname></persName>
+<date type="sent">ca1878-95</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2741t">
+<persName>
+<forename>Corona</forename>
+<surname>T.</surname>
+</persName>
+<birth when="1819"/>
+<death when="1895"/>
+<occupation>Blumenmacherin, Näherin</occupation>
+<residence><geo decls="#WGS">48.7678768 10.7981234</geo>Kaisheim</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1878" to="1895">Anstalt: 1878-95</p>
+<p from="1878" to="1895">Brieftypen: po, so</p>
+</state>
+<trait><p>Halluzinatorische Verrücktheit, Wahnvorstellungen (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Geldaufzählung</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Aufzählung von Geldbeträgen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2741t01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>
+904 4 4 Hundert Mülleomen<lb break="yes"/>56 Tausemdt Mülleonnen Drülleonm<lb break="yes"/>99 Tausendt Milleon Drüllnom<lb break="yes"/>9 Hundert Tausen kuwatrelle Loion<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>10 Tausedt Müllnonen Deßtemendt<lb break="yes"/><unclear>Nonkmruth</unclear> 8 Acht und Zwanzich 28 Mülleonem<lb break="yes"/>39 Tausendt Melleom 34 Meleomen<lb break="yes"/>77 Teusendt Legin̄onen Legnone<lb break="yes"/>Lebzelter im Mmgen 79 Tauusend<lb break="yes"/>Müllüom Drüllnonen legeonene<lb break="yes"/>Laun 16 Melleonem fon Müngen
+</p>
+</body>
+</text>
+</TEI>

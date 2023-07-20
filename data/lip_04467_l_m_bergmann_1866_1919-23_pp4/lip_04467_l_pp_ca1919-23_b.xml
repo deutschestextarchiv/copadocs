@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip4467l03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>4467 (K. 210)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Christoph <surname>L.</surname></persName>
+<date type="sent">ca. 1919-1923</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip4467l">
+<persName>
+<forename>Christoph</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1866-07-16"/>
+<death when="1923-05-09"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">52.7310186 9.6054281</geo>Geburtsort: Osterode; Wohnort: Eickel</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1919-09-16" to="1923-05-09">Anstalt: 16.09.1919-09.05.1923</p>
+<p from="1919-09-16" to="1923-05-09">Brieftypen: pp</p>
+</state>
+<trait><p>Progr. Paralyse (1919)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="hand2"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um Besuch von seiner Mutter.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip4467l03a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="lip4467l03b.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><unclear>Heimtok</unclear> 8.1 08 <unclear>Lukort</unclear>
+<unclear><lb break="yes"/>Aernt L <hi rendition="#i">A</hi> 1818 Her
+                        Kelborne</unclear><lb break="yes"/><unclear>Prinzhemz 8. 19 1.819</unclear></dateline>
+<salute>Liebe Frau und Schwieger</salute>
+</opener>
+<p><unclear>Seffm Ariattes</unclear> und <unclear>Lobude</unclear><lb break="yes"/>Mutter seit so gut ud<lb break="yes"/><unclear>nun</unclear> ich
+                komme de Gelüth<unclear>omv</unclear><lb break="yes"/>besuch mich Sontag <hi rendition="#r">und Tage <unclear/></hi><lb break="yes"/><unclear/> komst wen <unclear>Stumm</unclear>
+<unclear>er</unclear><lb break="yes"/><space/> Andere <unclear>wern en</unclear> Ich<lb break="yes"/><w>wo fon</w>
+<pb facs="#image_009"/><add place="margin"> und gleiche <unclear><lb break="yes"/>wirs
+                    fon</unclear><lb break="yes"/>Alleman<lb break="yes"/><unclear>geienn</unclear><lb break="yes"/><unclear>cheshers</unclear>
+<hi rendition="#r"><hi rendition="#i"><lb break="yes"/>Christus </hi></hi><lb break="yes"/>dud <unclear>Ssted</unclear><lb break="yes"/>es geit uns<lb break="yes"/>gut Ich wede<lb break="yes"/>doch
+                nibste <add place="margin"><lb break="yes"/>zw btte braist nich zu Breit</add></add><lb break="yes"/><lb break="yes"/><hi rendition="#c"><add hand="vordruck">Postkarte. </add></hi>
+<add hand="hand2"><hi rendition="#c"><hi rendition="#i"><hi rendition="#u" style="hand2"><lb break="yes"/><surname>L.</surname></hi></hi></hi></add>
+<hi rendition="#c"><add hand="vordruck"><lb break="yes"/>An</add></hi>
+<hi rendition="#i"><lb break="yes"/>Angust</hi>e <hi rendition="#r"><lb break="yes"/><surname>Lubow<hi rendition="#i">k.</hi></surname></hi><lb break="yes"/>Eitel II be <unclear>Nhonnen</unclear><lb break="yes"/>Tabak und zihare<lb break="yes"/>Friedrich S. <unclear/> 8 <add place="margin"><unclear>schticksen</unclear></add>
+</p>
+</body>
+</text>
+</TEI>

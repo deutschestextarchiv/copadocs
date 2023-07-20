@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1495s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1495</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Carl <surname>S.</surname></persName>
+<date type="sent">ca. 1896-99</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Eduard Summa</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1495s">
+<persName>
+<forename>Carl</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1907"/>
+<occupation>Strumpfwirker, Schauspieler</occupation>
+<residence><geo decls="#WGS">47.8803788 10.622246</geo>Kaufbeuren</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Drechslermeister</p>
+<p from="1876" to="1907">Anstalt: 1876-1907</p>
+<p from="1876" to="1907">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Manisch-depressives Irresein (1905)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/><!--anpassen!-->
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Ersuch einer Unterredung mit einem Arzt.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1495s05a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb1495s05b.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">An Herrn</hi><lb break="yes"/>Eduard Sum̄a, Arzt d h. Wunden u.<lb break="yes"/>Geburtshelfr geb 18<del>6</del>73 in Schwabach. </salute>
+</opener>
+<p>wo einstens edles Geisterbe<lb break="yes"/>thronte u Wissenschaft wahre<lb break="yes"/>Gerechte ihren Sitz hatte<lb break="yes"/>seit 14 Mai 98 da hier
+                gelernt<lb break="yes"/>1 Handwerk in d schönsten<lb break="yes"/>stadt Quadratbau
+                    genan̄<add place="above">t</add><lb break="yes"/>Erlangen im Kreis Mittelfranken<lb break="yes"/>Ich ersuche Sie im
+                Namen<lb break="yes"/>Gottes auch u <surname>G.</surname> u wen<lb break="yes"/>Heinrich <surname>L.</surname> will einen<lb break="yes"/>Spaziergang <add place="above">machen</add> zu lassen ent<lb break="no"/>weder
+                über <unclear>Lainb</unclear>, ham̄r<lb break="no"/>schmide=Kelern-Groß<lb break="yes"/>Kemnath (mit delikater<lb break="yes"/>Einkehr u Punkt 1 Uhr<lb break="yes"/>Abmarsch= d kan <surname>N.</surname><lb break="yes"/>auch getrost <w>mit gehen</w><lb break="yes"/>den̄ d <surname>M.</surname><lb break="yes"/>leidet ja so an<lb break="yes"/>fettleibigkeit<lb break="yes"/><add place="margin">soll energisch schwitzen</add>
+</p>
+<pb facs="#image_013"/>
+<p>andernfalls nun kön̄te ja<lb break="yes"/>auch ein Pfleger u Ver<lb break="no"/>stand zum <unclear>Nugedek</unclear> Zeit<lb break="yes"/>hat. u.
+                jedenfalls dan̄<lb break="yes"/>heute Nachmittag ins<lb break="yes"/>Dorf.<lb break="yes"/>Karlo <surname>S.</surname> / d bew<lb break="no"/>egungs s
+                Gesundheit<lb break="yes"/>bestrebende<lb break="yes"/>auch Arzt sehr<lb break="yes"/>praktische praktisch<lb break="yes"/>u Meister d Gottes<lb break="no"/>g . . . . . h . . t.<lb break="yes"/><hi rendition="#i">Wahrsager</hi> u.<lb break="yes"/>treus kind u<lb break="yes"/>Gotts d
+                eizigen Schöpfers u<lb break="yes"/>Erhalters Welt<lb break="yes"/>7, 388, 247 409
+                498<lb break="yes"/>506, 533 564 <unclear>rier<lb break="yes"/>sole</unclear></p>
+</body>
+</text>
+</TEI>

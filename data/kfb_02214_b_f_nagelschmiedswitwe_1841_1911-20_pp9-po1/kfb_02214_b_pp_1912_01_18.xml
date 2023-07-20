@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2214b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2214</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Katharina <surname>B.</surname></persName>
+<date type="sent">18.01.1912</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Rosa und Sohn: Josef <surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2214b">
+<persName>
+<forename>Katharina</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1841"/>
+<death when="1920"/>
+<occupation>Nagelschmiedswitwe</occupation>
+<residence><geo decls="#WGS">47.48474 10.327536</geo>Hindelang, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet, verwitwet</p>
+<p from="1911" to="1920">Anstalt: 1911-20</p>
+<p from="1911" to="1920">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Manisch-depressiv], Alkoholismus (1911)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   wünscht alles Gute zum neuen Jahr; wartet darauf, abgeholt zu werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2214b03a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb2214b03b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r">Irse den 18 Jäner 1912.</hi></dateline>
+<salute>Liebster Josef und Rosa,</salute>
+</opener>
+<p>
+ es sind schon<lb break="yes"/>wieder mehre wochen verflossen, das Ihr<lb break="yes"/>mich besucht habet, und die nächste woche<lb break="yes"/>darauf kam der <surname>H.</surname> selber und besuchte<lb break="yes"/>mich und die Aluse <surname>W.</surname>. der versprach<lb break="yes"/>mier dier zu schreiben, und in einige Tag<lb break="yes"/>werde alles in der ordung sein. Weil Jch<lb break="yes"/>jetz so gut bin und die Witterung so<lb break="yes"/><del>sö</del> schön der Her Oberartz wird dier<lb break="yes"/>auch geschriben haben, Ein Neues<lb break="yes"/>Jahr ist wieder angerickt und wollen<lb break="yes"/>das bessere hoffen darum Wünsche<lb break="yes"/>ich Euch beiden Gesundheit und langes<lb break="yes"/>Leben und Wohlergehen. Jch bin in der<lb break="yes"/>meinung du werdest alles in die Ordnung<lb break="yes"/>gestelt haben. Der versprach mier<lb break="yes"/>dier zu schreiben und du werdest<lb break="yes"/>mich abhohlen. Am 6ten Jäner hat<lb break="yes"/>die <del>S</del> Resie abgehohlt
+				    
+<pb facs="#image_010"/>
+aber zu mimir kam er nicht, der Herr=<lb break="yes"/>Oberartz hat gesagt er hat keine zeit<lb break="yes"/>gehabt darum Bitte Ich dich nicht mehr<lb break="yes"/>zu Zögern um mich abzuholen ich<lb break="yes"/>hoffe alletag auf dich. Jch hätte die<lb break="yes"/>die bitte mier doch zuschreiben<lb break="yes"/>damit Jch mich dazu erhalten kann<lb break="yes"/>Jn der Hoffnung das Ihr beide gesund<lb break="yes"/>und auch das Kind wier wollen<lb break="yes"/>das andere mündlich miteiader<lb break="yes"/>sprechen und <seg ana="#salute">werde meir schreiben<lb break="yes"/>schlüssen mit vilen Grüßen an<lb break="yes"/>Euch beide und Altern.</seg><lb break="yes"/><seg ana="#signed">Und verbleibe Eure Alte.<lb break="yes"/>Mutter Katharina <surname>B.</surname></seg><lb break="yes"/>Josef <surname>W.</surname> Stohut Fabbrik<lb break="no"/>Arbeiter in Heimm-Kurch
+</p>
+</body>
+</text>
+</TEI>

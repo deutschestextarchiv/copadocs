@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb48l05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>48</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">J. von <surname>S.</surname></persName>
+<date type="sent">24.02.1852</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb48l">
+<persName>
+<forename>Maxim von</forename><surname>L.</surname>
+</persName>
+<birth when="1817"/>
+<death cert="unknown"/>
+<occupation>Graf von München</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1852" to="1852">Anstalt: 1852</p>
+<p from="1852" to="1852">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="freund"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Übersendet dem Arzt ein angefordertes Zeugnis; hat jedoch Bedenken, 
+                    dass der Patient ihm dessen Inhalt übel nehmen könne. 
+                    Bestätigt eine Tour mit dem Patienten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb48l05a.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="kfb48l05b.jpg" xml:id="image_019"/>
+<graphic mimeType="image/jpg" url="kfb48l05c.jpg" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_018"/>
+<opener>
+<dateline/>
+<salute>Verehrter Herr Docktor!</salute>
+</opener>
+<p><space/> Inliegend ünbersende ich das von mir<lb break="yes"/>verlangte Zeugniß,
+                welches ich zu nöthigem<lb break="yes"/>Gebrauche Jhren Händen übergebe, ersuche<lb break="yes"/><hi rendition="#i">S</hi>ie aber zugleich, solches mit
+                derartiger<lb break="yes"/>Vorsicht zu benutzen, daß ich dabey<lb break="yes"/>in
+                den Augen meines armen Freundes<lb break="yes"/>wenigst möglich compromitiert
+                werde,<lb break="yes"/>damit er nicht, was ich stets befürchte,<lb break="yes"/>für spätere Zukunft und den glücklichsten<lb break="yes"/>Fall seiner Genesung,
+                vielleicht<lb break="yes"/>unauslöschlichem Groll gegen<lb break="yes"/>mich faße,
+                was uns später in <w>um<lb break="no"/>so</w> feindlichere <hi rendition="#i">S</hi>tellung bringen<lb break="yes"/>möchte, als er mich jetzt vielleicht <pb facs="#image_019"/>zu seinen besten Freunden zählt. − </p><p><space/> Schließlich bemerke ich nur noch, daß<lb break="yes"/>ich, wozu er mich in einem Briefe<lb break="yes"/>an seinen Herrn Vater auffordert,<lb break="yes"/>zu bezeugen
+                vergeßen habe, daß<lb break="yes"/>es ganz seine Richtigkeit hat, daß<lb break="yes"/>wir mit 2 seine<del><unclear>n</unclear></del>r <del>Postzug</del>
+<add place="above">Pferden</add> und<lb break="yes"/>kutschiert durch <hi rendition="#i">S</hi>tallmeister<lb break="yes"/><surname><hi rendition="#i">H.</hi></surname>, wirklich die <hi rendition="#i">tour</hi><lb break="yes"/>nach <hi rendition="#i">Nimphenbu</hi><del><unclear><hi rendition="#i">e</hi></unclear></del><hi rendition="#i">rg</hi> und zurück<lb break="yes"/><del>nach</del>
+<add place="above">durch</add> dem Hirschgarten, dann<lb break="yes"/>die halbe <hi rendition="#i">tour </hi>im englischen<lb break="yes"/>Garten bis zum A<hi rendition="#i">umei</hi>s<hi rendition="#i">ter</hi><lb break="yes"/><add place="above">also im ganzen 6 Poststunden</add> in 1.<hi rendition="#sup"><unclear>n</unclear></hi>
+<hi rendition="#i">S</hi>tunde 25 Minuten zurük<lb break="no"/>gelegt, wie er
+                angegeben,<lb break="yes"/>dieß also nicht in einer <w>Ver <pb break="no" facs="#image_020"/>wirrung</w> seiner <hi rendition="#i">Ideen</hi> besteht. </p><p><hi rendition="#r"><seg ana="#salute">Mit ausgezeichneter Hochachtung<lb break="yes"/>Ew
+                        Wohlgeboren<lb break="yes"/>ergebenster <hi rendition="#i">Dr</hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i"><hi rendition="#u">J<w>Freyherr</w><w>von</w><surname>S.</surname></hi></hi></seg><lb break="yes"/><unclear>h.</unclear></hi>
+</p><p><hi rendition="#i">Munchen</hi> 24.<hi rendition="#sup">t</hi>
+<hi rendition="#i">Feb</hi>: 18<del><unclear/></del>52</p>
+</body>
+</text>
+</TEI>

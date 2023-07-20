@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2012h03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2012</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sigmund <surname>H.</surname></persName>
+<date type="sent">28.10.1877</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Jacob <surname>R.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2012h">
+<persName>
+<forename>Sigmund</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1839"/>
+<death when="1879"/>
+<occupation>Müllergeselle, Mühlknecht</occupation>
+<residence><geo decls="#WGS">47.8052615 10.2136981</geo>Altusried, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1877" to="1879">Anstalt: 1877-79</p>
+<p from="1877" to="1879">Brieftypen: pp, po</p>
+</state>
+<trait><p>Melancholie, Wahnvorstellungen, Blödsinn, epileptoforme Anfälle (1877-1879)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber berichtet, dass er gesund ist und regelmäßig arbeitet.
+                    Er bittet darum, dass der Adressat ihn besucht und ihm Zigarren mitbringt.
+                    Er berichtet davon, wie er zusammengeschlagen wurde, weil man vermutete, er habe eine Affäre mit einer verheirateten Frau. Er macht diesen Vorfall für seine Krankheit verantwortlich.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2012h03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb2012h03b.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb2012h03c.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb2012h03d.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren ten 28 Oktober 1877</hi></dateline>
+<salute><hi rendition="#c">Jakob <surname>R.</surname></hi></salute>
+</opener>
+<p> Ich wiel euch eine Bar zeiehlen<lb break="yes"/>schreuben Das jetzt Gesund ich bin<lb break="yes"/>und alle Tage auf die Arbeit<lb break="yes"/>gehe bald im Karten
+                im Küller<lb break="yes"/>Arbeite ich hate mein Eeßen und<lb break="yes"/>Trüken
+                Sie möchten so gut sein<lb break="yes"/>und mich besuchen den <add>ich</add>
+                    möchte<lb break="yes"/>auch wie mit der Gemeinde Ach<lb break="yes"/>aussiet
+                <seg ana="#med">die mich so geschlagen haben<lb break="yes"/>das ich in meinen vestand verlohrn<lb break="yes"/>habe</seg> den ich hate mir 12 Tage gearbeite<lb break="yes"/>als ich 8
+                Tage S Beum <surname>S.</surname> da<lb break="yes"/>war es Son̄tag
+                Morgen ging ich<lb break="yes"/>in die Kirche Nachmitag ging<lb break="yes"/>ich
+                Ach zu Würth Martin <surname>S.</surname><lb break="yes"/>die Tochter Das
+                    <surname>S.</surname>verheurhatet<lb break="yes"/>war sie gab und Zigar
+                und u. Mas<lb break="yes"/>Bier und die Mutter der <unclear>V</unclear>rau<lb break="yes"/>war auch dabei die zezahlte mir<lb break="yes"/>auch nacher sitze
+                ich ledigen<pb facs="#image_007"/> kam der Wiert herein und Sie<lb break="yes"/>haben in meinem Haufe nichts<lb break="yes"/>zu Schaffen sie gehen aus meinem<lb break="yes"/>Hause da ging ich vort in die Mühle<lb break="yes"/>zuhauhen Das
+                sagte Meuster Sigmund<lb break="yes"/>warum kome sie heut frei den<lb break="yes"/>es will mich nicht war bei den Ach<lb break="yes"/>den Martin
+                    <surname>S.</surname> Löhnerwiert<lb break="yes"/>meinte ich häte es mit
+                seiner Frau<lb break="yes"/>Da Arbeite ich wieder 2 Tage da<lb break="yes"/>war
+                der Frauhentag da ging wieder<lb break="yes"/>in die Kirche aber nicht in die<lb break="yes"/>Wiertschaft den andre Tag hate gede<unclear>?</unclear><lb break="yes"/>ich <del>Ab</del> Arbeite nicht mehr Abens<lb break="yes"/>am
+                Donestag ging zum Kronen<lb break="no"/>Wiert er war ganz freundlich<lb break="yes"/>bis es Nacht war da Rieß er<lb break="yes"/>mich vom Stuhl zu Boden und
+                    schlug<lb break="yes"/>mich den Feusten den Kopf und mit<lb break="yes"/>Freßen in das Kreiz Da kam̄<lb break="yes"/>im aus und Kries den Ofen<lb break="yes"/>hinein hebte mich mit den<lb break="yes"/>Händen
+                        <add><unclear>Gebelte</unclear></add> da kam ledige<lb break="yes"/>Burschen Dahaer und und zog<pb facs="#image_008"/> zu der Tühre hinaus da
+                    schlugen<lb break="yes"/>sie wiede mit stecken da sprang<lb break="yes"/>den
+                zweu Heüßer da Sprangen<lb break="yes"/>mich weider zu Boden der<lb break="yes"/>Rößer in der Gescherendmühle<lb break="yes"/><space/>Schluge mich auch zu Boden<lb break="yes"/><space/> wo ich
+                nicht eimal hab keinen<lb break="yes"/><space/> geleh<unclear>a</unclear>rt<lb break="yes"/><space/> Nun guter Jackob <surname>R.</surname><lb break="yes"/><space/> seud so gut und besuchet<lb break="yes"/><space/> mich Den vieleicht ich bald<lb break="yes"/><space/> ün meine Heimat<lb break="yes"/><space/> wein sie nith kom̄en<lb break="yes"/><space/> Dan̄ schreuben
+                sie eines<lb break="yes"/><space/> Brief an den Dierecktor<lb break="yes"/><space/> in der Heihl und
+                    Pfleganstalt<lb break="yes"/><space/> in Kaufbeiren<lb break="yes"/><hi rendition="#r">Sie wieder<lb break="yes"/>so gut sein<lb break="yes"/>und
+                        Enige<lb break="yes"/>Zigaren<lb break="yes"/>Schicken ich derf</hi><lb break="yes"/><add>Rauche</add><lb break="yes"/>Tabak Zigare</p><pb facs="#image_009"/> <p>Herrn Jackob
+                    <surname>R.</surname><lb break="yes"/>Müllermeister<lb break="yes"/>in<lb break="yes"/><hi rendition="#i">Iimenstadt</hi><lb break="yes"/><hi rendition="#r">abzugeben</hi></p>
+</body>
+</text>
+</TEI>

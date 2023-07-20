@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb450s02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>450</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>S.</surname></persName>
+<date type="sent">25.12.1857</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freunde: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irrsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb450s">
+<persName>
+<forename>Magdalena</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1824"/>
+<death cert="unknown"/>
+<occupation>Ökonomenstochter</occupation>
+<residence><geo decls="#WGS">48.6911413 11.2165327</geo>Obermaxfeld, Neuburg</residence>
+<faith>n.a.</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1857" to="1858">Anstalt: 1857-58</p>
+<p from="1857" to="1858">Brieftypen: pp</p>
+</state>
+<trait><p>Geistesstörung (1857-58), religiöser Wahnsinn, Wahnvorstellungen (1857)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bibelvers; liebt die Mutter nicht mehr (4. Gebot gilt nicht, da die Mutter vom Teufel regiert wird); Gott hat ihr aufgetragen nach Neuendettelsau zu wander (wie Abraham)
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb450s02.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r">Irrsee. Am h. Weihnachtsfest 1857.</hi><lb break="yes"/></dateline>
+<salute> <hi rendition="#c">Meine liebsten Freunde!</hi><lb break="yes"/></salute>
+</opener>
+<p>Die auf den HERRN harren, kriegen neue Kraft, daß sie<lb break="yes"/>auffahren mit Flügeln wie Adler, daß laufen und nicht matt
+                    werden,<lb break="yes"/>daß wandeln und nicht müde werden. Jesa. 40, 31.</p>
+<p>Es wird Euch wohl schon bekant sein, meinen Aufenthalt in Irrsee,<lb break="yes"/>deswegen nicht nothwendig ist, Euch weitres zu schreiben; nun seid<lb break="yes"/>Ihr doch einmal in der vollkom̄nen Überzeugung, über die Auf<lb break="no"/>richtigkeit unsrer Mutter, und der herzlichen Liebe die sie gegen ihre<lb break="yes"/>Kinder hat; könt Ihrs mir noch verdenken? wenn meine Liebe<lb break="yes"/>zu ihr ausgelöscht ist? gewiß nicht, sondern vielmehr mit mir<lb break="yes"/>einstimmen; da gillt das vierte Gebot nichtmer, wenn ein Vater<lb break="yes"/>oder eine Mutter sich vom Teufel regieren lassen; kann da ein<lb break="yes"/>Kind noch folgsam oder untertänig sein? bei mir gillt das Wort<lb break="yes"/>auch, wie bei Abraham, als der allmächtige Gott sagte; Gehe aus<lb break="yes"/>deinem Vaterlande, und aus deiner Freundschaft, und aus deines<lb break="yes"/>Vaters-Haus, in ein Land das ich dir zeuge; denn daselbst<lb break="yes"/>will ich dich zum großen Volk machen. Gerade diese Worte<lb break="yes"/>hat Gott zu mir gesagt, ehe ich nach Neuendettesaus wanderte,<lb break="yes"/>da will Ich eure Unschuld Offenbar machen; da will Ich alle<lb break="yes"/>eure Streitigkeiten an den Tag bringen; du sollst es erfahren<lb break="yes"/>das Ich wahrhaftig der Waisen Vater bin und Wittwen<lb break="yes"/>Richter, mit solchen, und noch mehreren heiligen Gedanken<lb break="yes"/>war
+                ich getrieben von dem heiligen Geist, daß ich keine Stunde<lb break="yes"/>mehr
+                verweilen konnte, und mit fröhlichem Gemüth konte ich ford
+                wandern.</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">15.09.1893</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Stadtgemeinde Augsburg: <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1890" to="1897">Anstalt: 1890-1897</p>
+<p from="1890" to="1897">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    seit 3,5 Jahren hier, nicht krank, kann arbeiten; nur Kosten, will Freiheit zurück, Arbeit im Bauamt oder Tapezierhandwerk
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s08a.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb908s08b.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee den</hi> 15<hi rendition="#sup">ten</hi> <hi rendition="#i">September</hi><lb break="yes"/>1893.</hi><lb break="yes"/></dateline>
+<salute><hi rendition="#c">An die Wohllöbliche<lb break="yes"/>Stadt-Gemeinde<lb break="yes"/>Augsburgs!</hi><lb break="yes"/></salute>
+</opener>
+<p>
+<space/> Da der unterzeichneter seid 3. -<lb break="yes"/>sage drei Jahren sechs
+                Monat dahier<lb break="yes"/>internirt ist, aber während dieser langer<lb break="yes"/>Zeit, keine Krankheit noch Unwohlsein<lb break="yes"/>nachgewiesen werden kan̄, also mich<lb break="yes"/>sehr Wohlfühle und jede
+                Arbeit vor<lb break="no"/>stehen kan̄. <hi rendition="#i">Bitte</hi> daher
+                die Herrn<lb break="yes"/>der Stadtgemeinde Augs<hi rendition="#i">burgs</hi> um<lb break="yes"/>die langanhaltende Kösten welche schon<lb break="yes"/>1800 <hi rendition="#i">Mark</hi> ausmachen beschließen und<lb break="yes"/>mich aus
+                dieser? _- Wo ich keine<lb break="yes"/>Beschäftigung mit Verdienst erhalte<lb break="yes"/>meine lang ersehnte Freiheit zu<lb break="no"/><pb facs="#image_017"/> rükzugeben, da ich sehr gut weis das<lb break="yes"/>man
+                auf dem Bauamt Arbeit<lb break="yes"/>sogleich erhalten kan̄, wiewohl ich<lb break="yes"/>noch ganz gut auf dem <w>Tapezierhand<lb break="no"/>werk</w>
+                fortkom̄en kön̄te. Die Herrn<lb break="yes"/>kön̄ten mich
+                unter Geistesfähige<lb break="yes"/>Menschen besser Beobachten als hier<lb break="yes"/>in dieser? -<lb break="yes"/><seg ana="#salute"> <hi rendition="#c"><hi rendition="#i">Es bittet</hi></hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i"><hi rendition="#r">Hochachtungsvollst.<lb break="yes"/>Jakob
+                    <surname>S.</surname></hi></hi></seg>
+</p>
+</body>
+</text>
+</TEI>

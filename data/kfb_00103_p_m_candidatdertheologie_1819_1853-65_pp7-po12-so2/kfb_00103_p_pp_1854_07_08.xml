@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb103p05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>103</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kaspar <surname>P.</surname></persName>
+<date type="sent">08.07.1854</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: Anna <surname>P.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb103p">
+<persName>
+<forename>Kaspar</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1819"/>
+<death cert="unknown"/>
+<occupation>Candidat der Theologie</occupation>
+<residence><geo decls="#WGS">47.91185173928039 11.592666592515377</geo>Berg, Wolfratshausen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Bauern</p>
+<p from="1853" to="1865">Anstalt: 1853-65</p>
+<p from="1853" to="1865">Brieftypen: po, pp, so, ao</p>
+</state>
+<trait><p>Geistesstörung, Ruhelosigkeit (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient bittet seine Mutter um Hilfe bei seiner Entlassung aus der Anstalt, da ihm nach eigener Aussage statt medizinischer Mittel nur religiöse Maßnahmen helfen können.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb103p05a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb103p05b.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb103p05c.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 8 <hi rendition="#u">ten</hi> Juli 1854.</hi><lb break="yes"/>G.s.J.G.u.M.!</dateline>
+<salute><hi rendition="#c">Liebe Mutter!</hi></salute>
+</opener>
+<p><space/> In dem Briefchen, welches du den erbetenen Büchern beileg<lb break="no"/>test, war die Frage gestellt, ob ich die im Juni 1853 gesendeten Kleider<lb break="yes"/>erhalten habe? Darauf steht zu erwiedern; ich habe zur
+                genan̄ten Zeit<lb break="yes"/>Kleider erhalten, aber ohne ein Verzeichniß;
+                ich habe unlängst<lb break="yes"/>auch die erbetenen Bücher erhalten und hörte von
+                der Sendung<lb break="yes"/>eines Gulden Geldes, der aber nicht in meine Hände kam,
+                sondern<lb break="yes"/>mir vorenthalten wurde. Was ich darüber bemerken will, ist,<lb break="yes"/>daß ich eher von dir erwartete, du würdest mich abholen lassen,<lb break="yes"/>als zu der Behandlungsweise, die man mir <del>an</del>
+                wiederfahren ließ u.<lb break="yes"/>läßt, Kleider u. s.w. zu senden. </p><p><space/> Das Haus, in dem ich über ein Jahr bereits lebe, war eine Benedik<lb break="no"/>tiner-Abtei in einer Großartigkeit und Bedeutung, wie etwa die<lb break="yes"/>in
+                deiner Nähe zu Benediktbairen, und theilte im Anfange dieses<lb break="yes"/>Jahrhunderts mit derselben die nämlichen widrigen Schicksale. Im<lb break="yes"/>Jahre 1839 wurden diese profanirten Gebäulichkeiten dem Kreis<lb break="yes"/>Schaben überlassen, und <add place="above">läßt</add> sich nun seither
+                "Kreis-Irrenheil-und<lb break="yes"/>Pflegeanstalt nen̄en." du weißt, daß
+                mich nicht meine Wahl in die<lb break="no"/>ses Narrenhaus führte. Einer Heilanstalt
+                bedurfte ich zur Zeit, als<lb break="yes"/>dieses ausgeführt wurde, überhaupt
+                nicht, da die Heilung, wie es<lb break="yes"/>dir bewußt ist, durch kirchliche,
+                nicht aber durch ärztliche, Mittel <add place="inline">schon</add><lb break="yes"/>erzielt <add place="above"><del>schon</del></add>worden <add place="above">war</add>
+<del>kon̄te</del>, wen̄ ich auch dagegen mancherlei Wi<lb break="no"/>dersprüche erfahren muß, und bittere, die Nachricht bleibt doch<lb break="yes"/>dieselbe. In eine Pfrüner- od. Pflegeanstalt wird man mich<lb break="yes"/>in
+                meinen schönsten Jahren und in gesunden Zustand dan̄ doch<lb break="yes"/>nicht stecken wollen, und dadurch meinen Brauche vorenthal<lb break="no"/>ten.
+                Darum mach'! daß du mich befreist, mach'! den̄ dieses<lb break="yes"/>Leben
+                hier ist mir nicht zum Heile, da ich weder die Gnadenmittel<lb break="yes"/>meiner
+                Heil-Religion unbeschränkt gebrauchen kan̄, − Ostern </p>
+<pb break="no" facs="#image_011"/>
+<p>sogar sind vorübergeeilt, ohne daß ich dem Kirchengebote<lb break="yes"/>genügen
+                kon̄te −, noch auch mein Gewissen bezüglich der<lb break="yes"/>Verpflichtung, welche ich in Sorge für leibliche und geistige Ge<lb break="no"/>sundheit auf mir habe, ruhig sein kan̄, − nicht einen solch'<lb break="yes"/>ruhigen Tag, nicht eine solch ungestörte Nacht habe ich
+                    <del>noch</del>
+<add place="above">hier</add><lb break="yes"/>bis heutigen Datum überlebt, wie ich diese meiner geistigen<lb break="yes"/>und körperlichen Gesundheit gemäß hätte durchleben kön̄en<lb break="yes"/>und sollen −, darum noch einmal, mach'! daß du mich<lb break="yes"/>befreiest; mach'! daß du mich aus dem Zustande gänzlicher<lb break="yes"/>Unterdrückung in den Stand der Freiheit bringst, die mir<lb break="yes"/>vor Gott und der Welt gebührt. </p> <p><space/> Schließlich merke auf meinen bittlichen Ruf und thue,<lb break="yes"/>was Du in deinem
+                hohen, schwachen Alter thun kan̄st, damit<lb break="yes"/>ich und du thun,
+                was wir thun kön̄en, das Übrige wollen<lb break="yes"/>wir Gottes
+                allergerechtestem Gerichte überlassen, dieser<lb break="yes"/>wird die
+                    <unclear>Thaten</unclear> seiner boshaften Geschöpfe mit den un<lb break="no"/>trüglichsten Maaßen <unclear>ermessen</unclear>.<lb break="yes"/><hi rendition="#c">Dein</hi><lb break="yes"/><hi rendition="#r">dankbarer Sohn<lb break="yes"/><seg ana="#signed">Kaspar <surname>P.</surname></seg>,<lb break="yes"/><hi rendition="#i">Candidat.</hi></hi>
+</p>
+<pb facs="#image_012"/>
+<p><hi rendition="#r">An</hi><lb break="yes"/>Wittwe Anna <surname>P.</surname>,<lb break="yes"/>Anwesensbesitzerin am Berg<lb break="yes"/><hi rendition="#c">bei </hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u"><hi rendition="#i">Koenigsdorf</hi></hi><lb break="yes"/>:Landg. Wolfratshausen:<lb break="yes"/>Kr. Oberbaiern. </hi>
+</p>
+</body>
+</text>
+</TEI>

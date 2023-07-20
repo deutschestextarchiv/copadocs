@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3990m01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3990</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>M.</surname></persName>
+<date type="sent">ca1911-40</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3990m">
+<persName>
+<forename>Johann</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1882"/>
+<death when="1940"/>
+<occupation>Taglöhner</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Söldner</p>
+<p from="1911" to="1940">Anstalt: 1911-40</p>
+<p from="1911" to="1940">Brieftypen: pp, po</p>
+</state>
+<trait><p>Manisch-depressives Irresein (1911)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet darum, in der Anstalt bleiben zu dürfen; ansonsten würde er ins Gefängnis kommen
+                    und seine ganze Familie wäre ruiniert
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3990m01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Hochwohlgeborn<lb break="yes"/>Hern Obermedizinalrat!</hi></salute>
+</opener>
+<p>
+Ich möchte Ihnen freundlich ersuchen und bitten meiner<lb break="yes"/>zu erbarmen und mich hier zu lassen. Da ich doch schon<lb break="yes"/>bereits ein Jahr hier bin und meine Familie in<lb break="yes"/>dieser schlechten Zeit schon viel gelitten hatt. Wenn<lb break="yes"/>ich heutte entlassen werde und ins Gefängnis<lb break="yes"/>kom̄e ist meine Familie vollständig ruiniert.<lb break="yes"/>Meine Frau wollte diesen Som̄er schon mit Gas ihr<lb break="yes"/>das Leben nehmen. Meine 15 jährige Tochter sagt,<lb break="yes"/>wen̄ der Vater ins Gefängnis komt spring ich ins<lb break="yes"/>Wasser. Das kön̄ten Sie Herr Obermedizinalrat alles<lb break="yes"/>ändern durch Ihre Herzensgüte. Ich würde Ihnen<lb break="yes"/>jederzeit dankbar und erkendlich sein und der<lb break="yes"/>Anstald durch Arbeit nützlich sein. Da Sie meinen<lb break="yes"/>Zustand ken̄en und ich doch kein Lump bin hoffe<lb break="yes"/>ich auf Ihre Gütte. Anderenfals ist meiner Familie<lb break="yes"/>ihr ganzes Leben und Existenz verloren.<lb break="yes"/>Ich habe eine grose Sehnsucht Ihnen Herr Obermedizinalrat<lb break="yes"/>zu sprechen.<lb break="yes"/>Bitte lassen Sie mich doch an die Arbeit gehen.</p>
+<p><hi rendition="#c"><seg ana="#salute">Es grüßt Sie</seg></hi><lb break="yes"/><hi rendition="#r">Hochachtungsvollst.<lb break="yes"/><hi rendition="#i"><seg ana="#signed"><surname>M.</surname> Johann.</seg></hi></hi>
+</p>
+</body>
+</text>
+</TEI>

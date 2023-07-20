@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2235g26" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2235</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Regina <surname>G.</surname></persName>
+<date type="sent">05.09.1918</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> <surname/> </persName>
+<settlement type="sent"/>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2235g">
+<persName>
+<forename>Regina</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1918"/>
+<occupation>Ökonomenswitwe</occupation>
+<residence><geo decls="#WGS">47.582117800000006 9.728007926245988</geo>Weißenberg, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Bauersleute, "ziemlich gut situiert"</p>
+<p from="1879" to="1918">Anstalt: 1879-1918</p>
+<p from="1879" to="1918">Brieftypen: pp</p>
+</state>
+<trait><p>Gehörs- und Gesichtshallucinationen (1886), wahnhafte Ideen (1904)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Abholung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2235g26a.jpg" xml:id="image_046"/>
+<graphic mimeType="image/jpg" url="kfb2235g26b.jpg" xml:id="image_047"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_046"/>
+<opener>
+<dateline>Irse den 24 Juni 1914</dateline>
+<salute>Liben Kinder und Bruder!</salute>
+</opener>
+<p> Wen̄ ihr mich holen kön̄t die zwei<lb break="yes"/>Feiertage so geht
+                es für ganz gewiß<lb break="yes"/>mih <w>mit nehmen</w>
+                kön̄t zu Hauße kan̄<lb break="yes"/>so fiel Arbeit so nothwendig
+                brauchen.<lb break="yes"/>Josefsheim kan̄ ich ins Feld und in<lb break="yes"/>Stall gehen die Kosten fallen fort<lb break="yes"/>der verdinten
+                Tag und Arbeitslohn<lb break="yes"/>muß bezahlt werden die Freiheit muß<lb break="yes"/>her ich kan̄ Arbeiten mein Brod<lb break="yes"/>selber
+                verdinen vor Jakobe gibt<lb break="yes"/>Arbeit genug um Martine gibt<lb break="yes"/>kein Arbeit mehr von dem Him̄el<lb break="yes"/>schreienten
+                Sünden abstehen. <surname>G.</surname>s<lb break="yes"/>Famile beisam̄en sein Bitte<lb break="yes"/><hi rendition="#c">baldig Antwort</hi></p>
+<pb facs="#image_047"/>
+<p><unclear>Die</unclear> Eignen Leute stehen fest auf einen<lb break="yes"/>Man̄ der Bruder Georg Martin<lb break="yes"/>kom̄en die Heurath mit
+                nehmen bei<lb break="yes"/>Gottvater ist alles möglich kein<lb break="yes"/>Ding
+                unmöglich Er macht alles<lb break="yes"/>neu Menschen neues Vieh auf den<lb break="yes"/>Kopf eine Ruh zeitliche Ewige<lb break="yes"/>Güter sorget Er
+                Glaube und Libe<lb break="yes"/>ist nie getrent. Him̄el und Erde<lb break="yes"/>Voll ist Huldigen ihm Kron und<lb break="yes"/>Lohn der Heiligen
+                ist alles wieder<lb break="yes"/>gut gemacht Er wirkt ihn Libe mit<lb break="yes"/>Milder als die Son̄e Ewiger<lb break="yes"/>Tag sei jedes Menschen Herz<lb break="yes"/>Erleuchtet in diser Welt<lb break="yes"/>Liben. Herrn Pfarrer<lb break="yes"/>Weissensberg.<lb break="yes"/>Regina
+                <surname>G.</surname></p>
+</body>
+</text>
+</TEI>

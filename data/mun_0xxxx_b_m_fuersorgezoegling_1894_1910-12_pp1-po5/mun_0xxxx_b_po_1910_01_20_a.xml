@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="munxxxb03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>xxxx (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>B.</surname></persName>
+<date type="sent">20.01.1910</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geheimrat/Direktor: Heinrich <surname>G.</surname></persName>
+<settlement type="sent">Münster i. W.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="munxxxb">
+<persName>
+<forename>Wilhelm</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1894-10-06"/>
+<death cert="unknown"/>
+<occupation>Fürsorgezögling</occupation>
+<residence><geo decls="#WGS">51.956874 7.0038803</geo>Geburtsort: Dortmund; Wohnort: Gescher</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1910-01-21" to="1912-01-03">Anstalt: 21.01.1910-03.01.1912</p>
+<p from="1910-01-21" to="1912-01-03">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geisteskrankheit (1910)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="pencil" scope="minor" scribe="hand3"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Er möchte wissen, ob er bald entlassen werden kann, entweder nach Hause oder in die Erziehungsanstalt.  
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun0xxxxb03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="mun0xxxxb03b.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="mun0xxxxb03c.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt <hi rendition="#r">Münster
+                            i. W., den</hi></add><hi rendition="#r"> 20. Januar <add hand="vordruck">191</add>0</hi></dateline>
+<salute><hi rendition="#c">Geehrter Herr Geheimrat!<lb break="yes"/>Eur.
+                        Hochwohlgeborn</hi></salute>
+</opener>
+<p><add hand="hand2"><surname><hi rendition="#i">B.</hi></surname></add></p><p><add hand="unbekannt">G 23./i ii<lb break="yes"/>ad acta <surname><hi rendition="#i">B.</hi></surname></add></p><p>Da ich glaube, daß ich jetzt lange<lb break="yes"/>genug auf dieser Anstalt gewesen<lb break="yes"/>bin, und Sie mir schon öfter gesagt<lb break="yes"/>haben, daß ich
+                bald entlassen<lb break="yes"/>werden sollte, und dieses ist<lb break="yes"/>bis
+                jetzt noch nicht in Erfüllung<lb break="yes"/>gegangen.<lb break="yes"/>Deshalb
+                möchte ich <del>Ihnen</del><add place="above">Sie</add> noch<lb break="yes"/>einmal
+                bitten, für mich zum<lb break="yes"/>Herrn Kgl. Landeshaubt<lb break="no"/>mann zu
+                schreiben, ob ich<lb break="yes"/>jetzt bald Entlassen werden<lb break="yes"/>kann, Entweder zurück zur<lb break="yes"/>Erziehungsanstalt oder<lb break="yes"/>nach Hause.</p> <pb facs="#image_008"/><p><seg ana="#salute">Jetzt will ich schließen in
+                    der Hoffnung<lb break="yes"/>daß ich bald freikomme.<lb break="yes"/><hi rendition="#c">Hochachtungsvoll</hi>
+<seg ana="#signed">Wilhelm <surname>B.</surname></seg>.<lb break="yes"/>Z. Zt Provinzialpensionär.</seg></p><pb facs="#image_009"/><p>An<lb break="yes"/><hi rendition="#c">den Herrn Dierecktor<lb break="yes"/>Heinrich Gerlach<lb break="yes"/>Müster.<lb break="yes"/>Provinzial Heil und Pflegeanstalt<lb break="yes"/>Mariental</hi></p>
+</body>
+</text>
+</TEI>

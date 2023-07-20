@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1432s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1432</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: Josef <surname>S.</surname></persName>
+<date type="sent">xx.11.1878</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Mönchsdeggingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1432s">
+<persName>
+<forename>Theodor</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1855"/>
+<death cert="unknown"/>
+<occupation>Cand. Philologie in Erlangen</occupation>
+<residence><geo decls="#WGS">48.774956 10.5767002</geo>Mönchsdeggingen, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Doktor</p>
+<p from="1875" to="1875">Anstalt: 1875</p>
+<p from="1875" to="1875">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Moralischer Irrsinn</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="vater"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Informiert den Direktor darüber, dass seine Frau oder er selbst in nächster Zeit 
+                   für ein persönliches Gespräch nach Irsee kommen werden. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1432s04.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<salute><hi rendition="#c">Hochverehrtester Herr Direktor!</hi></salute>
+</opener>
+<p>Auf Jhr gütiges Schreiben vom 31<hi rendition="#sup">t<unclear>en</unclear></hi><lb break="yes"/>v. M. benachrichtige ich Sie, daß<lb break="yes"/>ich oder meine
+                Frau im Laufe die<lb break="no"/>ses oder Anfangs nächsten Monates<lb break="yes"/>selbst nach Jrsee kom̄en werde,<lb break="yes"/>um mit Jhnen persönlich
+                    Rück<lb break="no"/>sprache über meinen Sohn zu<lb break="yes"/>nehmen.</p>
+<p><seg ana="#salute">Mit vorzüglichster Hochachtung<lb break="yes"/><hi rendition="#c">Jhr </hi><lb break="yes"/><hi rendition="#r">dankbar
+                            ergebe<unclear>ner</unclear></hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i"><unclear>Dr</unclear></hi> <surname><hi rendition="#i">S.</hi></surname></seg></hi></p>
+<p>M. Deggingen 11 75</p>
+</body>
+</text>
+</TEI>

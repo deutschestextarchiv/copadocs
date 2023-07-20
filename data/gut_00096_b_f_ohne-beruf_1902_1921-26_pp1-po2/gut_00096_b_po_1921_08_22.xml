@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="gut96b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 661: Gütersloh</collection>
+<idno>96 (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ida <surname>B.</surname></persName>
+<date type="sent">22.08.1921</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">Gütersloh</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="gut96b">
+<persName>
+<forename>Ida</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1902-04-26"/>
+<death cert="unknown"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">51.5142273 7.4652789</geo>Geburtsort: Dortmund; Wohnort: Dortmund</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1921-02-09" to="1926-02-26">Anstalt: 09.02.1921-26.02.1926</p>
+<p from="1921-02-09" to="1926-02-26">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geisteskrank (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Auflistung ihrer Besitztümer; bittet um ihre Sachen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="gut96b02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="gut96b02b.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="gut96b02c.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><add hand="anstaltsstempel"><hi rendition="#r">Provinzialheilanstalt<lb break="yes"/>Gütersloh<lb break="yes"/>Eing. 22 AUG. 1921<lb break="yes"/>T.B. No ___ Anl.</hi></add></dateline>
+<salute><hi rendition="#c">Wehrter Herr<lb break="yes"/>direktor!</hi></salute>
+</opener>
+<p>dies ist das Zeug was ich<lb break="yes"/>von der Anstalt besitze<lb break="yes"/>Kleid Schrümpfe Unterrok, <hi rendition="#u">Hose</hi><lb break="yes"/>habe<del>n</del> ich nie getragen daß<lb break="yes"/><hi rendition="#u">Hemd</hi> besitze ich nicht mehr<lb break="yes"/>dafür halten
+                Sie eins von<lb break="yes"/>meinen beiden Hemden da<lb break="yes"/>vieleicht das
+                neue. Schuhe<lb break="yes"/>habe ich auch nicht gehabt.<lb break="yes"/><hi rendition="#r">Volgendes Zeug ist von mir <add place="below"><hi rendition="#u">da</hi></add></hi><lb break="yes"/>grü<hi rendition="#u" style="arzt">nes wo</hi>ll Kleid, gu<hi rendition="#u" style="arzt">te Schu</hi>he <pb break="no" facs="#image_006"/>salbe <hi rendition="#u">fast neue</hi>. gr<hi rendition="#u"><hi rendition="#u" style="arzt">auer
+                        klein</hi></hi>er<lb break="yes"/><hi rendition="#u"><hi rendition="#u" style="arzt">Samthut</hi></hi>. Str<hi rendition="#u"><hi rendition="#u" style="arzt">ümpf</hi></hi>e. 2 Hemden <add hand="arzt">1</add><lb break="yes"/>1 neues. golden<hi rendition="#u">en Ring</hi> von<lb break="yes"/>meiner toten Schwester. blauen<lb break="yes"/><hi rendition="#u"><hi rendition="#u" style="arzt">Rok</hi></hi>, den ich als Unterrok getragen<lb break="yes"/>hab.
+                    </p><p><space/> Ich bitte um die sofortige<lb break="yes"/><w>zurük sendung</w>
+                meiner<lb break="yes"/>Sachen da ich mein Zeug<lb break="yes"/>nötig gebrauche.
+                    </p><p><hi rendition="#r">Anbei <del>5</del>
+<del><unclear>5</unclear></del>M. 5<lb break="yes"/>für porto.<lb break="yes"/>Frau <surname>B.</surname>. früher Ida <surname>B.</surname>.</hi>
+<pb facs="#image_007"/><hi rendition="#c">Adresse.<lb break="yes"/>Frau
+                        <surname>B.</surname></hi><lb break="yes"/><hi rendition="#r">Dortmund.<lb break="yes"/><placeName type="street">Borsigstr.</placeName> <hi rendition="#i">No</hi> 90.<lb break="yes"/>b. <surname>B.</surname></hi>
+</p>
+</body>
+</text>
+</TEI>

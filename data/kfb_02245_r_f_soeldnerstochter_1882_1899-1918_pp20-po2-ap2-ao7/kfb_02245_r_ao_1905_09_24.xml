@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2245r25" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2245</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>R.</surname></persName>
+<date type="sent">24.09.1905</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Frickenhausen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2245r">
+<persName>
+<forename>Anna</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1882"/>
+<death when="1918"/>
+<occupation>Söldnerstochter</occupation>
+<residence><geo decls="#WGS">48.0734 10.3118194</geo>Frickenhausen, Memmingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Söldner</p>
+<p from="1899" to="1918">Anstalt: 1899-1918</p>
+<p from="1899" to="1918">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie (1904), Depression, [Suizidalität] (1914)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet um Nachricht über das Befinden seiner Schwester.
+                    Er bittet um Entschuldigung, was das Geld nicht rechtzeitig eintrifft.
+                    Der Arzt notiert, dass eine Besserung noch nicht eingetreten und eine Entlassung somit nicht möglich ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2245r25a.jpg" xml:id="image_074"/>
+<graphic mimeType="image/jpg" url="kfb2245r25b.jpg" xml:id="image_075"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_074"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Frickenhausen den</hi> 24. <unclear><del>s</del></unclear>Septbr 05. </hi></dateline>
+<salute><hi rendition="#r">Kgl. Direktion! </hi></salute>
+</opener>
+<p><add place="above">Von</add> Familie <surname>R.</surname>.</p>
+<p><hi rendition="#r">Wir möchten hiemit </hi><lb break="yes"/>bitten, daß wir bald
+                wieder Nachricht<lb break="yes"/>bekämen von dem Befinden unsrer<lb break="yes"/>Tochter u. Schwester Anna <surname>R.</surname>, wenigstens<lb break="yes"/>dann wenn es einmal so gut ist daß an<lb break="yes"/>eine Entlassung zu denken
+                ist. Vielleicht<lb break="yes"/>kann der Quittung, welche wieder folgt<lb break="yes"/>nach Empfang der Verpflegskosten für das<lb break="yes"/>4.
+                Quartal etwas beigelegt werden. Ich<lb break="yes"/>möchte hiemit nun bitten daß
+                die Kgl.<lb break="yes"/>Direktion ein wenig zusehen wolle,<lb break="yes"/>wenn
+                genanntes Geld nicht pünktlich<lb break="yes"/>eintrifft, also nicht am 1.
+                    <del>S</del>schon in der<lb break="yes"/>Anstalt ist. Wir sprechen uns
+                anerken̄end<lb break="yes"/>aus, daß <del>s</del>Sie uns das letztemal so
+                getreu<lb break="yes"/>das Befinden der Kranken schilderten nach<lb break="yes"/>der innersten Beschaffenheit, u. hoffen auch<lb break="yes"/>das folgende so.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Hochachtungsvollst</seg><lb break="yes"/><seg ana="#signed">Familie <surname>R.</surname>.</seg></hi>
+</p>
+<pb facs="#image_075"/>
+<p><add hand="arzt"><hi rendition="#i"><unclear>9.</unclear> Okt.<lb break="yes"/>Brief der P. f. KG. liegt bei.<lb break="yes"/>Im befinden leider noch
+                        keine<lb break="yes"/>Beßerung, sodaß von Entlaßung <add place="above">in
+                                <del>absehbarer</del><add place="above">nächster</add> Zeit</add>
+                        die<lb break="yes"/>Rede sein kön̄te. Hat Sin̄estäuschg.<lb break="yes"/>beständiger <add place="above">plotzliche</add>
+                        Stim̄ungswechsel. <add place="above">+</add> Nachts<lb break="yes"/>unruhig. <add>Geht</add> Son̄tags in den Gottesdienst.<lb break="yes"/>W. </hi></add><add hand="arzt"><hi rendition="#i"><lb break="yes"/>+ bald <unclear>ansplaßm</unclear>lustig</hi><lb break="yes"/><hi rendition="#i">bald schwermütig u verzweifelt.
+                    </hi></add><hi rendition="#i"> </hi></p>
+</body>
+</text>
+</TEI>

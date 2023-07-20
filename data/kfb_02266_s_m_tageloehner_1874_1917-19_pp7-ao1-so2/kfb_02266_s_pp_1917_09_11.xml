@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2266s03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2266</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>S.</surname></persName>
+<date type="sent">11.09.1917</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tochter: Kathrin </persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2266s">
+<persName>
+<forename>Josef</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1874"/>
+<death when="1919"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Schmiedmeisterseheleute</p>
+<p from="1917" to="1919">Anstalt: 1917-1919</p>
+<p from="1917" to="1919">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Progressive Paralyse (1917)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um Essen, Geld und Besuch und hofft, bald nach hause zu können, da er gesund sei.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2266s03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb2266s03b.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb2266s03c.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline>Kaufbeuern d. 11. Sept. 1917</dateline>
+<salute><hi rendition="#c">Liebe Kathrin</hi></salute>
+</opener>
+<p>Theile dir mit das du mir so schnell wie<lb break="yes"/>möglich etwas schicken
+                    <del>mustt</del> must<lb break="yes"/>ich habe hunger bereits nicht mehr zum<lb break="yes"/>aushalten. Schicke mir Brot Wurst<lb break="yes"/>oder fleisch
+                Obst ist gleich was es<lb break="yes"/>für eins ist zigaren - Geld 10 Packet<lb break="yes"/>Schnupftabak da bekom̄ ich das<lb break="yes"/>Geld
+                dafür.</p>
+<p><del>o</del>Oder fahre thu selbst herauf oder<lb break="yes"/>die Babet es hat zwar
+                der<lb break="yes"/><hi rendition="#i">H. </hi>Bez<hi rendition="#i">. Dr.</hi>
+                gesagt ich darf ihn kurzer<lb break="yes"/>zeit heim, fehlen thut mir ja so nichts<lb break="yes"/>mehr, daß sagt mir jeder <del>D</del><hi rendition="#i">Dr.</hi>
+                aber<lb break="yes"/>einer schiebt es auf den ander.<lb break="yes"/>Wenn eine
+                kom̄t so nehmt ein<lb break="yes"/>Geld mit dan̄ kaufen wir uns<lb break="yes"/>ein Rauchfleisch.</p>
+<p>Nim ein Steinernes fläschchen <w>we lches</w><lb break="yes"/>auf den Kom̄oden steht mit. Hast<lb break="yes"/>du den
+                Brief welchen ich vor 18 Tagen<lb break="yes"/>geschrieben habe nicht
+                bekom̄en.</p>
+<pb facs="#image_007"/>
+<p>Es ist besser wenn eine kom̄t vielleicht<lb break="yes"/>darf ich heim
+                dan̄ kann ich mein Geld<lb break="yes"/>hohlen welches noch in der Fabrik
+                steht<lb break="yes"/>nämlich mein zahltag von 144 <hi rendition="#i">M</hi>.<lb break="yes"/>weil du es doch nicht bekom̄st wenn<lb break="yes"/>du
+                keine bescheinigung von mir hast.<lb break="yes"/><seg ana="#cens">Und ich schicke
+                    nicht gerne eine bescheinig<lb break="no"/>ung weil nicht jeder Brief heim<lb break="no"/>kom̄t.</seg> Schicke mir etliche Mark Geld.<lb break="yes"/>Also thu so viel als thu kannst, daß<lb break="yes"/>ich
+                heimkom̄e krank bin ich nicht mehr<lb break="yes"/>daß sagt ein jeder <hi rendition="#i">Dr.</hi>
+</p>
+<p>Ich erwarte <del>D ein</del> alle Tage eine.<lb break="yes"/>Geth der Regulator noch
+                und die andr<hi rendition="#i">e</hi><lb break="yes"/>Uhren noch laß es von <surname>M.</surname> aufziehen.<lb break="yes"/>Der Frau <surname>M.</surname> ihr Schwester war <del>er</del><lb break="yes"/>am 9. Sept auch bei mir hat mich<lb break="yes"/>gefragt wie es
+                mir geht ich hätte es<lb break="yes"/>nicht gekan̄t aber Sie hat es gesagt
+                das<lb break="yes"/>Sie D<hi rendition="#i">r Ba</hi>
+<surname>M.</surname> ihr Schwester ist. </p>
+<p><space/> <seg ana="#salute">also
+                    <del>v</del>Viele Grüße von deinem <hi rendition="#i">V</hi>ater</seg><lb break="yes"/>liege auf <hi rendition="#i">D III</hi> sagst zu Portier</p>
+<pb facs="#image_008"/>
+<p>fahrst früher dan kom̄st du um<lb break="yes"/>10 Uhr shon hinauf.<lb break="yes"/>Schiebe ein Taschenmesserl ein.<lb break="yes"/><add hand="arzt"><hi rendition="#i">Das Führen von Taschenmessern ist den Kranken <hi rendition="#u">nicht</hi><lb break="yes"/>erlaubt! <seg ana="#signed">Dr.A.<unclear>Finke</unclear></seg></hi></add></p>
+<p><space/>
+<seg ana="#salute">Viele Grüß a<del>m</del>n Dich und Babet<lb break="yes"/>Fr.
+                        <surname>M.</surname>. Famiele <surname>H.</surname>.
+                        <surname>B.</surname> ehe<add place="above">leut</add><lb break="yes"/>und alle bekannten.</seg><lb break="yes"/>Schreibe der Fany-Marie ob sie<lb break="yes"/>Eier bestelt haben
+                und wan man<lb break="yes"/>es hohlen kan̄ und auch der Rosi<lb break="yes"/>wegen den Butter.</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1763s31" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1763</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>S.</surname></persName>
+<date type="sent">04.07.1899</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager: <surname>K.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1763s">
+<persName>
+<forename>Georg</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1831"/>
+<death when="1916"/>
+<occupation>Mahlknecht</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonomen</p>
+<p from="1863" to="1916">Anstalt: 1863-1916</p>
+<p from="1863" to="1916">Brieftypen: pp, po </p>
+</state>
+<trait><p>Hypochondrie, (folie raisonnante)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Wartet sehnsüchtig auf eine Antwort, möchte sein Geld vom Bruder
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1763s31.jpg" xml:id="image_195"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_195"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#i">Ad acta</hi></add><lb break="yes"/>Irrsee den 4 <hi rendition="#sup">ten</hi> Juli 1899.</dateline>
+<salute>
+<hi rendition="#c">Lieber Schwager!</hi></salute>
+</opener>
+<p> Als der Andreas bei mir war hab ich geglaubt, daß ich<lb break="yes"/>höchstens in 14 Tag
+                eine hoffnungsvolle Antwort bekom̄e,<lb break="yes"/>aber jetzt ist es
+                bereitz 8 Wochen, und ich erfahre noch gar<lb break="yes"/>nichts. So habe ich gar
+                keine Hoffnung, daß ich befreit werde.<lb break="yes"/>Daher bitte ich Ihnen, daß
+                Sie mich doch wenigstens besuchen,<lb break="yes"/>daß ich auch mit Ihnen wieder
+                einmal sprechen kan̄. Der<lb break="yes"/>Andreas hat gesagt, daß Sie nicht
+                im̄er recht wohl seien, daher<lb break="yes"/>denke ich, es ist für Euch
+                beßer, wen̄ Sie eine kleine Reiße<lb break="yes"/>machen, als zu Haus
+                arbeiten. Sie werden auch wißen was<lb break="yes"/>ich dem Andreas mitgetheilt
+                habe, aber die Zeit war zu<lb break="yes"/>kurz da hab ich nicht an alles denken
+                kön̄en. Eier brauchen<lb break="yes"/>Sie nicht mitbringen, lieber gutes
+                reifes Obst, was mir im<lb break="yes"/>Magen beßer taugt. In Augsburg
+                kön̄en Sie mir ein paar<lb break="yes"/>Pfund frische Kirschen mitnehmen, da
+                in Kaufbeuren alles<lb break="yes"/>viel theurer ist. Fragen Sie auch was in
+                unserer Gegend der<lb break="yes"/>Honig kost. Jakobiäpfel und Weichseln
+                kön̄en Sie mir nacher<lb break="yes"/>schicken. <seg ana="#metaling">Ich
+                    bitte, daß Sie mir sogleich eine Antwort schreiben,<lb break="yes"/>dazu laße
+                    ich ein Blat leer, da kön̄en Sie genug darauf<lb break="yes"/>schreiben.
+                    Helfen Sie auch andiktieren, wen̄ die Schwägerin<lb break="yes"/>oder
+                    der Andreas schreibt.</seg>
+<seg ana="#salute">Einen freundlichen Gruß an<lb break="yes"/>Euch alle, Schwager!
+                    Schwägerin! u. Veter Andreas!</seg> von<lb break="yes"/><seg ana="#signed">Euerm dankschudigen Schwager u. Veter Georg
+                        <surname>S.</surname></seg><lb break="yes"/>An Herrn Andreas
+                    <surname>C.</surname> Ökonom in Binswangen. Post.<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>An meinen Bruder Leonhart hab ich geschrieben er soll mir<lb break="yes"/>von meinem Geld etwas schiken, aber ich bekam nicht einmal<lb break="yes"/>eine Antwort. Wen̄ Sie vieleicht Gelegenheit hätten, daß
+                    Sie<lb break="yes"/>Jemand beauftragen kön̄ten, meinem Bruder zu
+                    sagen<lb break="yes"/>er soll mir Geld schiken, und hören was er sagt,
+                den̄ wen̄<lb break="yes"/>Sie an ihn schreiben werden Sie auch keine
+                    Antwort<lb break="yes"/>bekom̄en. Auser Sie schreiben an Bürgermeister,
+                    Wirth<lb break="yes"/><surname>M.</surname>, da kön̄en Sie eine Antwort bekom̄en,<lb break="yes"/>weil der Bruder nicht schreibt. </p>
+</body>
+</text>
+</TEI>

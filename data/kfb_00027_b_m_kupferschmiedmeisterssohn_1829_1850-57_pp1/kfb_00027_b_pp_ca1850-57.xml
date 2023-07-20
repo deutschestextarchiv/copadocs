@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb27b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>27</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>B.</surname></persName>
+<date type="sent">ca 1850-57</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: n.a.<surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb27b">
+<persName>
+<forename>Franz</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1829"/>
+<death cert="unknown"/>
+<occupation>Kupferschmiedmeisterssohn</occupation>
+<residence><geo decls="#WGS">47.8134583 10.8967857</geo>Schongau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Kupferschmiedmeister</p>
+<p from="1850" to="1857">Anstalt: 1850-57</p>
+<p from="1850" to="1857">Brieftypen: pp</p>
+</state>
+<trait><p>Blödsinn, Geistesstörung, Geisteszerrüttung (1850)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>pp</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will, dass Vater kommt und ihn abholt, verspricht zu folgen und alles zu tun
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb27b01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<salute><hi rendition="#c">Allerliebste Ältern!?</hi></salute>
+</opener>
+<p>Lieber Vater, Jch Bitte ihnen Herzlich,<lb break="yes"/>kom̄en Sie bies
+                Triethaben, tagen<lb break="yes"/>nach Irrse u. holen sie ihren<lb break="yes"/>lieben Sohn ab. Jch Werde Inen<lb break="yes"/>Gewieß Recht Folken. Und alles
+                    Thun<lb break="yes"/>Was Jch Jnen Jhmer Nuhr Thun Kahm̄<lb break="yes"/>Jn der Hofnung das Sie Gewies Kohm̄n</p>
+<p><seg ana="#salute">Grüße Jch Jnen Herzlich<lb break="yes"/><hi rendition="#r">Und Verbleibe Sohn</hi></seg>
+<seg ana="#signed"><hi rendition="#r">Franz <surname>B.</surname></hi></seg></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1763s06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katrin Schreinemachers</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1763</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>S.</surname></persName>
+<date type="sent">xx.09.1895</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Pfarrer:  <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1763s">
+<persName>
+<forename>Georg</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1831"/>
+<death when="1916"/>
+<occupation>Mahlknecht</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonomen</p>
+<p from="1863" to="1916">Anstalt: 1863-1916</p>
+<p from="1863" to="1916">Brieftypen: pp, po </p>
+</state>
+<trait><p>Hypochondrie, (folie raisonnante)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet Pfarrer um Befreiung und Erlösung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1763s06a.jpg" xml:id="image_107"/>
+<graphic mimeType="image/jpg" url="kfb1763s06b.jpg" xml:id="image_108"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_107"/>
+<opener>
+<dateline><add hand="arzt">IX.95</add></dateline>
+<salute>Hochwürdiger Herr Pfarrer!</salute>
+</opener>
+<p> Ich bitte Ihnen, Sie möchten<lb break="yes"/>mich, da man̄ mich in unge<lb break="no"/>rechter Weiße gefangen hält,<lb break="yes"/>erlösen. Den̄
+                da kan̄ ich an Son̄<lb break="yes"/>u. Feiertag nie in eine Kirche
+                    kom̄en<lb break="yes"/>u das ganze Jahr nicht die heiligen<lb break="yes"/>Sakramente empfangen, was<lb break="yes"/>mir sonst nirgens
+                verwaigert<lb break="yes"/>wurde, da ichs bereits jeden<lb break="yes"/>Son̄- u Feiertag empfangen habe.<lb break="yes"/>Ich hoffe Sie werden
+                    Barmherzig<lb break="no"/>keit an mir üben, u. Gerechtigkeit<lb break="yes"/>anderseits. Den̄ wen̄ ich auch feh<lb break="no"/>lerhaft wäre, so
+                kön̄te man̄ mich<lb break="yes"/>ins Gefängniß thun, da ich
+                    zurechnungs<lb break="no"/>fehig bin, wie man̄ mich sonst un<lb break="no"/>gerechter Weiße eingesperrt hat.<lb break="yes"/>Ich darf auch
+                nirgens wohin schreiben<lb break="yes"/>nicht einmal an einen Verwanden<lb break="yes"/>u. so kan̄ ich mir selbst nicht helfen. <pb facs="#image_108"/> Wen̄ Sie mich erlösen wollen, das<lb break="yes"/>kön̄en Sie leicht. Sie dürfen blos den<lb break="yes"/>Lügner nichts
+                glauben, sondern Sich<lb break="yes"/>selbst überzeugen, u. aufdränglich<lb break="yes"/>eine gerichtliche Untersuchung ver<lb break="no"/>langen, u.
+                einen Beweiß ob bei<lb break="yes"/>mir in meinem ganzen Leben<lb break="yes"/>einmal etwas vorgekom̄en ist, wo<lb break="yes"/>man̄ Verdacht haben
+                kön̄te. Ich kan̄<lb break="yes"/>auch weiter in allem Auskunft
+                    geben.<lb break="yes"/>Wen̄ der Kurat ein Rechtschaffner<lb break="yes"/>wäre, u. die Ungerechtigkeit nicht<lb break="yes"/>helfen verheimlichen würde
+                dan̄<lb break="yes"/>kön̄te man̄ mich auch nicht da be<lb break="no"/>halten, durch das falsche vom Direktr.<lb break="yes"/>Am Kurat
+                hilft kein gutes u. kein<lb break="yes"/>hartes Wort. Ich bitte daß Sie mit<lb break="yes"/>ihm einmal zu mir kom̄en, u.<lb break="yes"/>wen̄
+                er sich nicht beßert, sorgen Sie<lb break="yes"/>daß er exkomiziert wird.<lb break="yes"/><seg ana="#salute">Es grüßt Sie freundlichst</seg>
+<seg ana="#signed"> der<lb break="yes"/>Rechtschaffene Georg
+                        <surname>S.</surname></seg><lb break="yes"/><hi rendition="#r">von Höchstädt a/D.</hi>
+</p>
+</body>
+</text>
+</TEI>

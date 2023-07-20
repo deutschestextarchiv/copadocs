@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb749n03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Luzia Pätzel</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>749</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franziska <surname>N.</surname></persName>
+<date type="sent">13.04.1861</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann, Mutter und Kinder: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb749n">
+<persName>
+<forename>Franziska</forename>
+<surname>N.</surname>
+</persName>
+<birth when="1821"/>
+<death cert="unknown"/>
+<occupation>Doktorsgattin</occupation>
+<residence><geo decls="#WGS">48.3492317 10.5893034</geo>Dinkelscherben</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1861" to="1873">Anstalt: 1861-73</p>
+<p from="1861" to="1873">Brieftypen: pp, ao</p>
+</state>
+<trait><p>"melancholische Verstim̄ung", "Tobsucht" (Gerichtsärztliches Zeugnis, 14.04.1865)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin berichtet ihrer Familie von den ersten sechs Tagen, die sie in der Anstalt verbracht hat und schildet ihren Gesundheitszustand.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb749n03a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb749n03b.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb749n03c.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb749n03d.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber guter Mann<lb break="yes"/>liebe gute alte Mutter und liebe Kindern! </hi></salute>
+</opener>
+<p>Nun sind bereits sechs Tage vorüber daß ich von<lb break="yes"/>Euch getrent
+                bin. Diese <hi rendition="#u">schmerzliche Losreisung</hi><lb break="yes"/>von meinen heiligsten Familienbund, hat mich<lb break="yes"/>aufs <hi rendition="#u">Tiefste betrübt</hi>,
+                    <w>wie</w><w>auch</w> körperlich sehr <w>zurük<lb break="no"/>geworfen</w>,
+                doch ich unterwarf mich der Anordnung<lb break="yes"/>des hochgeehrten Herrn
+                Kreisirren Direktor<lb break="yes"/>welcher mi<del>t</del>ch nebst den zwei
+                    <w>Assistenz Ärzten</w><lb break="yes"/>sehr liebevoll und theilnahmsvoll behandelt.<lb break="yes"/>Meine
+                Sehnsucht wieder einmal auch nach langer<lb break="yes"/>Zeit in Euren
+                Familienkreis wiederkehren zu<lb break="yes"/>können, ist sehr groß und ich bitte
+                täglich den<lb break="yes"/>Herrn Direktor mich doch nach Hause mit<lb break="yes"/>der Frau Oberwärterin fahren zu lassen. </p>
+<pb facs="#image_006"/>
+<p>Ich finde nirgend Ruhe wie bei Euch, <w>um so</w><w>mehr</w><lb break="yes"/>mein Leiden nun ein mehr körperliches geworden<lb break="yes"/>ist, und bitte nun auch den lieben Gott täglich<lb break="yes"/>um die Erhaltung
+                meiner durch die <seg ana="#med">Tobanfälle</seg><lb break="yes"/>sehr geschwächten <hi rendition="#u">fünf Sinne</hi> und
+                    ge<unclear>ra</unclear>den Glie<lb break="no"/>der, die verschiedenartigen
+                Leidensgefährtin<lb break="yes"/>aller Art machen oft den <hi rendition="#u">peinlichsten</hi>
+<seg ana="#med"><hi rendition="#u">melanko</hi><lb break="no"/>lischen</seg>
+                Eindruck auf mich, und ich mache es mir<lb break="yes"/>zur heiligsten Pflicht so
+                sehr ich auf die Ge<lb break="no"/>schicklichkeit des Herrn Direktor baue, als eine<lb break="yes"/><hi rendition="#u">Mutter</hi>
+<add place="above">von so vielen Kindern</add> mich je bälder je lieber nach Hause
+                    <w>füh<lb break="no"/>ren</w> zu lassen. Meine Periode hatte ich zwei<lb break="yes"/>Tage ziemlich stark die Stuhlentleerung schlechte<lb break="yes"/>verdauung; bei Nacht wenig Schlaf öfters<lb break="yes"/>Frost und starke
+                Zuckungen im Kopf Lippen<lb break="yes"/>und ganzen Körper; die Arzneien kan ich<lb break="yes"/>von jeher schwer nehmen, und somit glaube ich<lb break="yes"/>daß ich bei Euch meine Heilung und Kräftigung <pb facs="#image_007"/>in der freien
+                Natur erhalten werden. Wir <w>unterzieh<lb break="no"/>en</w> uns dann
+                gemeinschäftlich der weisen Anordung<lb break="yes"/>des Herrn Kreisdirektor und
+                mit Gottes hilfe wird<lb break="yes"/>es dan besser werden jeder Tag wirkt
+                nachtheilig<lb break="yes"/>auf meine Gesundheit, <w>um so</w><w>mehr</w> ich die
+                großen<lb break="yes"/>Gebäude und Einkerkungen durchaus nicht mehr<lb break="yes"/>ertragen kann und ich seit 4 Monaten das<lb break="yes"/>größte Leidenskind bin;
+                Bäder können wir<lb break="yes"/>später bei uns auch gebrauchen, mein Herz<lb break="yes"/>will zu meiner alten blinden Mutter und<lb break="yes"/>Euch,
+                beschäftigt ist hier auch jeder Narr<lb break="yes"/>kleine Verrichtungen
+                kan̄ ich auch machen,<lb break="yes"/>und ein Spaziergang mit Euch oder
+                Fahrt<lb break="yes"/>ist mir lieber; die Unruhe der Narren<lb break="yes"/>ist
+                mir lästig; erwerbsunthätig will ich nicht<lb break="yes"/>sein und kom̄e
+                ich nicht recht bald fort so<lb break="yes"/>gräme ich mich zu
+                    Tod. Meine Kindern und<lb break="yes"/>Mutter gehen mir nicht aus den
+                Kopf falle<lb break="yes"/>ich als Opfer der <seg ana="#med">Gehirnerweichung</seg>
+                so <pb facs="#image_008"/>will ich auch noch meine Sachen zu Hause lebend<lb break="yes"/>in Ordnung bringen; und in das Grab meines lieben<lb break="yes"/>Kindes kom̄en, welches ich nicht einmal noch besuchen<lb break="yes"/>konte. Die barmherzige Schwester wie Du in<lb break="yes"/>meiner Krankheit
+                im̄er sagtest, und den Jäger<lb break="yes"/>mache ich an meinen Karl so ihn
+                der liebe Gott<lb break="yes"/>erhält. <add place="above">und meiner Mutter</add>
+                Schreibe nun recht bald die Kirche ver<lb break="no"/>misse ich schwer. Im̄er
+                bin ich der Meinung<lb break="yes"/>Du seist krank, oder die Mutter, in <seg ana="#med">Tobsucht</seg><lb break="yes"/>falle ich nim̄er und fremde Rathgeber können<lb break="yes"/>mich nicht ausstossen, und verpfänden da waltet<lb break="yes"/>eine höhere <hi rendition="#u">Macht und Gerechtigkeit</hi>. Ich habe<lb break="yes"/>seit 20
+                Jahren meiner Verheyrathung wenig<lb break="yes"/>Vergnügen genosen, da nur meine
+                Töchter zu<lb break="yes"/>brauchen sind, <del>ich</del> will ich auch so gescheidt
+                sein<lb break="yes"/>wie die Frau Pflegerin und mache mir es bequem.<lb break="yes"/>und gehe mit Euch zur Geselligkeit. Ich hoffe<lb break="yes"/>auf
+                recht baldige Erlösung der Gefangenschaft<lb break="yes"/><seg ana="#salute">und
+                    küße Euch und meine gute Mutter die ich jetzt<lb break="yes"/>nicht eine Stunde
+                    aus dem Sinn bringe, auch<lb break="yes"/>gar nie in meinen Leben. </seg><lb break="yes"/>Irrsee 13<hi rendition="#sub">/4</hi> 1861 </p>
+</body>
+</text>
+</TEI>

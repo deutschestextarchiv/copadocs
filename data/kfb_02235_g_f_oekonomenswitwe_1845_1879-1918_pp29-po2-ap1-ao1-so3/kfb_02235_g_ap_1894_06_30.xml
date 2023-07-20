@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2235g39" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2235</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Georg <surname>O.</surname></persName>
+<date type="sent">30.06.1894</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> <surname/> </persName>
+<settlement type="sent"/>
+<settlement type="received">Thumen bei Schlachters</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2235g">
+<persName>
+<forename>Regina</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1918"/>
+<occupation>Ökonomenswitwe</occupation>
+<residence><geo decls="#WGS">47.582117800000006 9.728007926245988</geo>Weißenberg, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Bauersleute, "ziemlich gut situiert"</p>
+<p from="1879" to="1918">Anstalt: 1879-1918</p>
+<p from="1879" to="1918">Brieftypen: pp</p>
+</state>
+<trait><p>Gehörs- und Gesichtshallucinationen (1886), wahnhafte Ideen (1904)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Erklärung, wieso Bruder sie nicht holen kann und will. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2235g39.jpg" xml:id="image_077"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_077"/>
+<opener>
+<dateline>Thumen bei Schlachters den 30 Juni 1894</dateline>
+<salute>Liebe Schwester Regina <surname>G.</surname> von
+                    Weisensberg!</salute>
+</opener>
+<p>Deinen Brief hab ich erhalten, und hab vernommen<lb break="yes"/>wie Du meinst
+                das man dich holen solt, aber es kan<lb break="yes"/>jetz so schnel nicht sein, den
+                deine Kinder wollen,<lb break="yes"/>nicht anfangen, sie meinen es sei so besser,
+                bis sie<lb break="yes"/>etwas größer sind, Den man hat dich schon mehrmall<lb break="yes"/>geholt, und immer wahr es nichts, Du versprischst alles<lb break="yes"/>gut und halten kanst es nicht, sei doch gehorsam und<lb break="yes"/>geduldig gegen deine Vorgesetzten, den Sie sind nicht<lb break="yes"/>schuld, das man dich nicht holt, weil man Dich zu Hause<lb break="yes"/>nicht haben kan, Ich kan dich nicht holen, den du weist es<lb break="yes"/>ja, es will dich niemand. Bitte Gott um eine Glücksellige<lb break="yes"/>Sterbstunde, Den es dauert auf Dieser Wert nicht Ewig.<lb break="yes"/>Deine Kinder sind gesund, u geht ihnen gut u. lassen dich <add place="below">grüßen</add><lb break="yes"/><seg ana="#salute">Es grüß dich</seg> <seg ana="#signed">Georg <surname>O.</surname></seg></p>
+</body>
+</text>
+</TEI>

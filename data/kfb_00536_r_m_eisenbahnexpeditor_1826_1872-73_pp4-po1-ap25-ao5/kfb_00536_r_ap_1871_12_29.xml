@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb536r29" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Frieda <surname/></persName>
+<date type="sent">29.12.1871</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: Josef <surname>R.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb536r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1873"/>
+<occupation>Eisenbahnexpeditor, Zuchthaussträfling</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Simmerberg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1872" to="1873">Anstalt: 1872-73</p>
+<p from="1872" to="1873">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Melancholie (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="tochter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Berichtet von ihren Lernfortschritten im Kloster. 
+                   Erzählt auch von den vergangenen Weihnachtsfeiertagen und wünscht ihrem Vater ein glückliches Neujahr.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb536r29a.jpg" xml:id="image_057"/>
+<graphic mimeType="image/jpg" url="kfb536r29b.jpg" xml:id="image_058"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_057"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg den</hi> 29ten <hi rendition="#i">December</hi> 18<hi rendition="#sub">/71</hi></hi></dateline>
+<salute><hi rendition="#i">Lieber guter Vater</hi>!</salute>
+</opener>
+<p><space/> Schon lange hätte ich Dir geschrie<lb break="no"/>ben, allein ich hatte
+                weder Zeit, noch Ge<lb break="no"/>legenheit. Doch gerade heute, da wir<lb break="yes"/>unsere Neujahrsbriefe schreiben dür<lb break="no"/>fen, finde ich
+                diese beiden Stücke.<lb break="yes"/>Zeit u. Gelegenheit bieten sich mir<lb break="yes"/>gerade jetzt, u. ich will nicht mehr<lb break="yes"/>säumen, Dir
+                    einiges über mein Befin<lb break="no"/>den mitzutheilen. </p><p>Jch bin noch im̄er im Kloster. Jch lerne<lb break="yes"/>Klavier, Franzößisch Singen, u.
+                Englisch.<lb break="yes"/>Jm Klavier hab ich schon große Fort<lb break="no"/>schritte gemacht, ebenso im Franzößisch<lb break="yes"/>Englisch lerne ich seit
+                Oktober, u. habe<lb break="yes"/>auch schon große Fortschritte gemacht. </p>
+<pb facs="#image_058"/>
+<p><space/> Die Weihnachtsfeiertage brachte ich<lb break="yes"/>zu Hause zu. Jch
+                war daheim vom Sams<lb break="no"/>tag vor Weihnachten, bis an Freitag<lb break="yes"/>vor Neujahr. Bebbi erhielt ein paar<lb break="yes"/>Herrn zu
+                Besuch, da spielten wir vier<lb break="no"/>händig, u. ich u. Alphons u. Oskar
+                    s<del>i</del>angen.<lb break="yes"/>Wir erhielten einen kleinen Christbaum;<lb break="yes"/>u. waren alle sehr vergnügt. </p><p>Jetzt wünsche ich Dir ein glückseliges<lb break="yes"/>neues Jahr, u. Erfüllung alles dessen,<lb break="yes"/>was Du Dir selbst wünschest. Vorriges<lb break="yes"/>Jahr war
+                ich noch so glücklich Dich zu sehen<lb break="yes"/>doch heuer ist es mir nicht
+                        gegön̄t.</p><p><seg ana="#salute">Jndem ich hoffe, daß Dich diese wenigen<lb break="yes"/>Zeilen gesund u. wohl treffen,<lb break="yes"/>verbleibe ich Deine<lb break="yes"/><hi rendition="#c">dankbare Tochter</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Frieda.</seg></hi></p>
+</body>
+</text>
+</TEI>

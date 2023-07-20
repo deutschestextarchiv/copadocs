@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1621b11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1621</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Martin <surname>B.</surname></persName>
+<date type="sent">14.05.1904</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: Johann <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1621b">
+<persName>
+<forename>Martin</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1832"/>
+<death when="1906"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.2433959 10.3634009</geo>Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater Schneider, Mutter Hausiererin</p>
+<p from="1890" to="1906">Anstalt: 1890-1906</p>
+<p from="1890" to="1906">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Secundäre Seelenstörung (1894), [Alkoholismus], Halluzination (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schreiber"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Nochmals Bitte um Abholung, Verzicht auf Essen und Lohn, gelobt gutes Benehmen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1621b11a.jpg" xml:id="image_033"/>
+<graphic mimeType="image/jpg" url="kfb1621b11b.jpg" xml:id="image_034"/>
+<graphic mimeType="image/jpg" url="kfb1621b11c.jpg" xml:id="image_035"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_033"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> den 14. V. 04.</hi><lb break="yes"/></dateline>
+<salute><hi rendition="#c">Geehrter Herr Bürgermeister!</hi><lb break="yes"/></salute>
+</opener>
+<p>
+<hi rendition="#r">Nachdem ich Ihnen schon öfters</hi><lb break="yes"/>geschrieben
+                hab und in dieser langen Zeit<lb break="yes"/>noch niemals eine Antwort erhalten<lb break="yes"/>habe. Ich habe Herrn Oberarzt ersucht, um<lb break="yes"/>Ihnen
+                nochmals zu schreiben. Er hat<lb break="yes"/>mir auch zu wissen gethan, daß er
+                auch ein<lb break="yes"/>paar Zeilen hinzu schreiben würde. Der<lb break="yes"/>Herr Medizinalrat hat zu mir gesagt, daß<lb break="yes"/>Sie für mich keinen Platz
+                haben, um<lb break="yes"/>mich in der Gemeinde aufzunehmen.<lb break="yes"/>Wenn
+                ich mitarbei<del>t</del>te nimt mich jeder<lb break="yes"/>Söldner und Taglöhner zu
+                sich, um das<lb break="yes"/>Essen und keinen Lohn verlange<lb break="yes"/>ich
+                nicht, dann brauch ich nicht bei Ihnen <pb facs="#image_034"/> sein. Es
+                    <add>kom̄t</add> nur darauf an wer herauf<lb break="yes"/>kom̄t
+                und mich abholt. Ich habe es wohl<lb break="yes"/>nicht verdient, einen armen
+                    Man̄<lb break="yes"/>wie ich bin, so schlecht zu machen<lb break="yes"/>und mich in eine Irrenanstalt<lb break="yes"/>hereinzusperren ohne gewisse
+                    Gründe.<lb break="yes"/>Sind Sie jetzt so gütig und sorgen Sie<lb break="yes"/>für mich armen, verlassenen Man̄,<lb break="yes"/>daß sich jemand um mich
+                    annim̄t.<lb break="yes"/>Ich werde mich gewiß ordentlich verhalten<lb break="yes"/>daß mir kein Mensch etwas nachsagen<lb break="yes"/>kann. Ich
+                hoffe Sie werden mir meine<lb break="yes"/>Bitte nicht abschlagen und an herrn<lb break="yes"/>Oberarzt ein paar Zeilen zuschicken,<lb break="yes"/>daß ich
+				    einmal weiß wie ich daran<lb break="yes"/>bin. <seg ana="#salute">Einen baldigen Freiheit sieht<lb break="yes"/>entgegen achtungsvollst</seg></p>
+<p><hi rendition="#r">Martin <hi rendition="#i"><surname>B.</surname>.</hi></hi>
+<pb facs="#image_035"/> An <hi rendition="#i">Herrn</hi> Johann Sauter<lb break="yes"/><hi rendition="#r">Bürgermeister<lb break="yes"/>in
+                        Hohenrannau<lb break="yes"/>Bezirksamt <hi rendition="#i">Krumbach.</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

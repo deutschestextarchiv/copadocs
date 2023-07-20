@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb473s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>473</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sophia <surname>S.</surname></persName>
+<date type="sent">04.01.1872</date>
+<date type="received"/>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb473s">
+<persName>
+<forename>Josef</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1841"/>
+<death when="1871"/>
+<occupation>Maschinenschlosser</occupation>
+<residence><geo decls="#WGS">47.5352544 10.3050352</geo>Stein, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: "gänzlich vermögenslos"</p>
+<p from="1871" to="1871">Anstalt: 1871</p>
+<p from="1871" to="1871">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Melancholie, Angst (1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   bedankt sich für Erhaltenes
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb473s05.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><add hand="arzt" place="top"><hi rendition="#i">pr</hi>. 4. <hi rendition="#i">Jan</hi>. 72<lb break="yes"/><hi rendition="#i">EN
+                        bf</hi></add></dateline>
+<salute/>
+</opener>
+<p>Heute d. 3<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Januar habe<lb break="yes"/>ich Alles richtig erhalten<lb break="yes"/>mit Dank bleibe ich<lb break="yes"/><seg ana="#salute">hochachtungsvoll</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Sophie <surname>S.</surname><lb break="yes"/>Wittwe. </seg></hi></p>
+</body>
+</text>
+</TEI>

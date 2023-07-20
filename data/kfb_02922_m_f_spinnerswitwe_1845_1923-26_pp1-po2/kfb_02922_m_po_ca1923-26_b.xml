@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2922m01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2922</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Christine <surname>M.</surname></persName>
+<date type="sent">ca1923-26</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Herr und Frau Oberarzt: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2922m">
+<persName>
+<forename>Christine</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1845"/>
+<death cert="unknown"/>
+<occupation>Spinnerswitwe</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: led. Taglöhnerin</p>
+<p from="1923" to="1926">Anstalt: 1923-26</p>
+<p from="1923" to="1926">Brieftypen: pp, po</p>
+</state>
+<trait><p>Senile Demenz (1922)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    berichtet von ihrer Rückkehr nach Augsburg
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2922m01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute>Werthester Herr Oberartzt und Frau Oberarzt.</salute>
+</opener>
+<p> Betrüben Sie sich nicht <w>über</w><w>eine</w>
+                Freiheit das<lb break="yes"/>ich genöthigt bin an Ihnen einige Zeilen zu
+                    schreiben<lb break="yes"/>Jch bin gesund nach Augsburg komen wir sind mit<lb break="yes"/>Auto nach der Wohnung gefahren wo es mir sehr gut<lb break="yes"/><w>gefällt</w><w>ich</w> habe es ja recht schön aber blos die närischen<lb break="yes"/>Frauen thun mir ahnt auch Früh und Abens sehe ich keine<lb break="yes"/><w>Oberarzt</w><w>mehr</w> ich muß
+                halt denken es kan <w>nicht</w><w>anders</w> sein.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Viele Grüsse von mir<lb break="yes"/>An die
+                        Fraulein Oberpflegerin</seg><lb break="yes"/>an alle Pflegerinen zumal an
+                    die Babetel <surname>M.</surname></hi>
+</p>
+</body>
+</text>
+</TEI>

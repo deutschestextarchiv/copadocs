@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1480g16" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1480</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>S.</surname></persName>
+<date type="sent">31.12.1891</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Nördlingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1480g">
+<persName>
+<forename>Karl</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1911"/>
+<occupation>Handlungskommissar</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1891" to="1911">Anstalt: 1891-1911</p>
+<p from="1891" to="1911">Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>[Epilepsie] (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    schickt ihrem Sohn etwas; möchte wissen, wie es ihm geht; Neujahresgrüße
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1480g16a.jpg" xml:id="image_037"/>
+<graphic mimeType="image/jpg" url="kfb1480g16b.jpg" xml:id="image_038"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_037"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#i">H.<surname>G.</surname> Karl</hi></add><lb break="yes"/><hi rendition="#r">Nördlingen den 31
+                            <hi rendition="#i">Dezember</hi> 1891.</hi></dateline>
+<salute><hi rendition="#c">Euer Wohlgeboren!</hi></salute>
+</opener>
+<p> Ersuch Sie freundlichst meinem<lb break="yes"/>Unglüklichen <hi rendition="#i">Sohne</hi>
+                dieses von <add place="above">mir</add> bestimte<lb break="yes"/>zu überliefern.
+                Danke <hi rendition="#i">Ihnen</hi> freundlichst<lb break="yes"/>für <hi rendition="#i">Ihr</hi> Wohlwollen und Aufmerksam<lb break="no"/>keit und bitte
+                    <hi rendition="#i">Sie</hi> auch fernerhin Dasselbe<lb break="yes"/>meinem
+                leidenten <hi rendition="#i">Sohne</hi> zukomen <add place="above">zu</add> laßen<lb break="yes"/>Schliese mit der Bitte, mir von dem Zustande<lb break="yes"/>Desselben <add place="above">seiner Zeit</add> mich zu benachritigen zu wollen</p>
+<p><hi rendition="#r"><seg ana="#salute">Hochachtungvollst. u. Ergebenst.</seg></hi><lb break="yes"/><seg ana="#signed">Magdalena <surname>S.</surname></seg><lb break="yes"/>〃 〃 〃 〃 〃 <pb facs="#image_038"/> Zu dem
+                bevorstehenden <hi rendition="#i">J</hi><hi rendition="#i">ahres<lb break="no"/>Wechsel</hi> sende ich <hi rendition="#i">Ihnen</hi> sowie<lb break="yes"/>meinem lieben Sohne die herzlichsten<lb break="yes"/><hi rendition="#c">Glükwünsche<lb break="yes"/><seg ana="#signed">M. <surname>S.</surname>.</seg></hi>
+</p>
+</body>
+</text>
+</TEI>

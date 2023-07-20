@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1659a12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1659</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kaspar <surname>A.</surname></persName>
+<date type="sent">27.01.1903</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion:  <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1659a">
+<persName>
+<forename>Kaspar</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1913"/>
+<occupation>Schneider, Unteroffizier</occupation>
+<residence><geo decls="#WGS">48.7990056 10.7444384</geo>Mündling, Donauwörth</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1879" to="1913">Anstalt: 1879-1913</p>
+<p from="1879" to="1913">Brieftypen: pp, po</p>
+</state>
+<trait><p>Halluzinatorische Paranoia (1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gesuch um Zuweisung einer anderen Herberge.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1659a12a.jpg" xml:id="image_027"/>
+<graphic mimeType="image/jpg" url="kfb1659a12b.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="kfb1659a12c.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_027"/>
+<opener>
+<dateline><hi rendition="#r">Irrsee im 27 Januar<lb break="yes"/>1903.</hi></dateline>
+<salute>Königliche Irrenhaus-Filial<lb break="no"/>verwaltung Irrsee!</salute>
+</opener>
+<p><add place="margin">Kaspar <surname>A.</surname><lb break="yes"/>dessen Gesuch<lb break="yes"/>um Zuweisung<lb break="yes"/>seines Unterschluffes<lb break="yes"/>behufs des Pen<lb break="no"/>sionsbezuges in<lb break="yes"/>der Heimath.</add></p>
+<p>Der Unterzeichnete ist<lb break="yes"/>im Jahre 1879 vom Gemein<lb break="no"/>dehause seiner Pfarrei aus<lb break="yes"/>wo er seinen Unterschluff<lb break="yes"/>hatte hieher in Pflegschaft<lb break="yes"/>gekom̄en, da er
+                dort<lb break="yes"/>gelegentlich einer Haus<lb break="no"/>friedensstörung von
+                    sei<lb break="no"/>nem Messer Gebrauch ge<lb break="no"/>macht hatte.  </p>
+<p> Dieß ist aber nicht aus<lb break="yes"/>Hang zu Exzeß geschehen;<lb break="yes"/>so daß das Reat mit<lb break="yes"/>jenem Begnadigungs-Breve<lb break="yes"/>zusamenhängt welches im<lb break="yes"/>Jahre 1899 anläßlich der<lb break="yes"/>Wittelsbacherfeier aus der<lb break="yes"/>Expedition des Königs<lb break="yes"/>hervorgegangen ist.<lb break="yes"/>Ein <hi rendition="#i">Mandat</hi> wonach
+                    Staats<lb break="no"/>angehörige, welche deßhalb<lb break="yes"/>in die Hände
+                der Landes<lb break="no"/>Polizei gekom̄en sind<lb break="yes"/>daß sie etwa
+                aus Nothwehr<lb break="yes"/>Übles gethan, für Weiteres <pb facs="#image_028"/>
+                nicht mehr verfolgt werden<lb break="yes"/>sollen. </p>
+<p> Bei Uberfüllung der<lb break="yes"/>Pflegschaftsräume durch<lb break="yes"/>Zugang
+                sollte da nicht<lb break="yes"/>umstehendes Gesuch um Zu<lb break="no"/>weisung des
+                natürlichen<lb break="yes"/>Unterschluffes behufs des<lb break="yes"/>Wiederbezuges der Heimath<lb break="yes"/>hier nicht an der rechten<lb break="yes"/>Stelle sein? </p>
+<p><seg ana="#signed">Kaspar <surname>A.</surname><lb break="yes"/>pens. Unteroffizier.</seg></p>
+<p><add hand="arzt" place="bottom">ad <hi rendition="#i">Acta</hi> 28/I.03. Dr.
+                        <unclear>Asters</unclear></add></p>
+<pb facs="#image_029"/>
+<p><hi rendition="#c">Der Patient <hi rendition="#i">No</hi> 160<lb break="yes"/>Kaspar
+                    Alt<lb break="yes"/>an die <hi rendition="#i">Direktion</hi><lb break="yes"/>der k. Irrenhausfiliale<lb break="yes"/><hi rendition="#i">Irrsee</hi></hi></p>
+</body>
+</text>
+</TEI>

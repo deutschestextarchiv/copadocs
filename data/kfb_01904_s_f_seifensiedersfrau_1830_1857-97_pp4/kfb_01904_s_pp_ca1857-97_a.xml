@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1904s01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1904</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine <surname>S.</surname></persName>
+<date type="sent">ca1857-97</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Pauline</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1904s">
+<persName>
+<forename>Wilhelmine</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1830"/>
+<death when="1897"/>
+<occupation>Seifensiedersfrau</occupation>
+<residence><geo decls="#WGS">47.5134055 10.2721524</geo>Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Braumeister</p>
+<p from="1857" to="1897">Anstalt: 1857-97</p>
+<p from="1857" to="1897">Brieftypen: pp, ao</p>
+</state>
+<trait><p>fixe Ideen, Tobsucht, [Verfolgungswahn] (1857, 1865)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie bittet um Geld für ihre Heimreise.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1904s01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1904s01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Liebe Pauline!</hi></salute>
+</opener>
+<p>Es ist schon bereits führ Jahre, daß ich Dich<lb break="yes"/>liebe Pauline sah,
+                auch aus dießer Absicht hieher<lb break="yes"/>kom̄, um Dich wieder einmal
+                    <w>zu</w><w>treffen</w>,<lb break="yes"/>Ich sehne mich von Herzen Dich liebe
+                Pauline<lb break="yes"/>wie Deine liebe Kinder wieder einmal <w>zu</w><lb break="no"/><w><del>treffen</del></w> sehen, ich kam̄ mit deinem Geld
+                auch<lb break="yes"/>hieher möchte Dich auch bitten mir Geld <w>zu</w><lb break="no"/><w>schiken</w>, meine Reise zu Dir weitermachen<lb break="yes"/><w>zu</w><w>kön̄en</w> um, Dich wie Dein l. Man̄
+                    <w>zu</w><w>treffen</w><lb break="yes"/>auch meine l. Kinder hab ich schon länger Zeit<lb break="yes"/>nicht mehr gesehen, <del>es</del><add place="above">man</add> sagt mir auch nicht,
+                wo<lb break="yes"/>Sie sind, ob, Sie ihn Sonthofen oder bei der lieben<lb break="yes"/>Felizitas sind, ich möchte Dich doch bitten mir Geld <pb facs="#image_002"/>Zu zuschiken um meine Reise zu Dir machen<lb break="yes"/><w>zu</w><w>könen</w>. Jch habe Dich von Jugend an <w>so</w><w>gern̄e</w>
+<del>ge</del><lb break="yes"/>in̄igeliebt, hab Dir auch meine Erziehung
+                    <w>zu</w><w>verdanken</w><lb break="yes"/>ich bitte Dich mich doch <w>Hier</w><w>zu</w><w>besuchen</w>, um
+                mein Hez<lb break="yes"/>bei Dir ausgiesen zu kön̄en, mein Schiksal <w>zu</w><w>schildern</w>.<lb break="yes"/><seg ana="#salute">Es grüßt u küßt Dich</seg> Deine<lb break="yes"/><hi rendition="#r"><w>Dich</w><w>liebende</w> u. Unvergeßliche<lb break="yes"/>Schwester <unclear><del>Pau</del>Wiheline</unclear>
+<del><surname>S.</surname></del><lb break="yes"/><hi rendition="#i"><surname>S.</surname> gebohren<lb break="yes"/><surname>K.</surname>.</hi></hi></p>
+</body>
+</text>
+</TEI>

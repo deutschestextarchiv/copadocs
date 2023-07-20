@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2905m17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2905</idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<p>
+                                unvollständig
+                            </p>
+</objectDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Matthäus <surname>M.</surname></persName>
+<date type="sent">19.12.1895</date>
+<date type="received">04.10.1896</date>
+<persName type="addressee">Ehefrau: Helene <surname>M.</surname></persName>
+<settlement type="sent">Bodoly</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2905m">
+<persName>
+<forename>Helene</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1848"/>
+<death when="1925"/>
+<occupation>Nudelfabrikanten-/Taglöhnerfrau</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern:</p>
+<p from="1880" to="1925">Anstalt: 1880-1925</p>
+<p from="1880" to="1925">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Fixe Ideen, Beeinträchtigungswahn (1881)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="hand2"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+<handNote medium="ink" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er wünscht frohe Feiertage, erzählt von einem Fass, das er ihr geschickt hat 
+                    und bittet um Auskunft über ihren Zustand.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2905m17.jpg" xml:id="image_040"/>
+<graphic mimeType="image/jpg" url="kfb2905m17a.jpg" xml:id="image_041"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_040"/><pb facs="#image_041"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Bodoly den 19 Ten Dezember
+                            1895.</hi></hi></dateline>
+<salute><hi rendition="#c">Liebe Gattin u. Mutter!</hi></salute>
+</opener>
+<p><add hand="arzt" place="top"><hi rendition="#u">Abschrift</hi> eines briefes
+                    vom Man̄e, abgegeben d. 4. 10. 96.</add><lb break="yes"/>Wir übersandten Dir heute durch die Bahn ein<lb break="yes"/>Fäßchen Wein 10 Liter enthalten; und wünschen,<lb break="yes"/>daß er Dir wohl
+                schmecken möge! Wünschen Dir<lb break="yes"/>gute Feiertage u. gutes neues Jahr.
+                Hoffen, daß Du,<lb break="yes"/>wie Jackob sagte daß Du im Frühjahr; zu uns zurück<lb break="yes"/>kommen kan̄st. Schlage Dir nur die alten Geschichten<lb break="yes"/>ganz aus K<unclear>opf sin</unclear>d seitdem schon mehrere um<lb break="yes"/>Ihre Sachen <unclear/>sser stunden als wir.<lb break="yes"/>Es
+                wird so Gott hilft weiter <unclear/> Ich will jetzt hier<lb break="yes"/>nicht
+                viele Worte machen, nur noch sagen. Das alte<lb break="yes"/>soll Alles vergessen
+                sein. Es wird eine Briefmarke<lb break="yes"/>in dem Briefe sein. Schreibe uns oder
+                ersuche die<lb break="yes"/>Wärterin uns zu berichten ob das Faßchen richtig<lb break="yes"/>angekom̄en ist. <seg ana="#salute">Den Herrn <hi rendition="#i">Derktor</hi> sowie<lb break="yes"/>Deine Wärterin
+                    freundlichst grüßend</seg> möchten<lb break="yes"/>wir ersuchen, im Falle, daß
+                man in der Anstalt<lb break="yes"/>vorige Flaschen hätte Dir den Wein in Flaschen<lb break="yes"/>umzufüllen und uns das Fäßchen gelegentlich <foreign xml:lang="frz">retour</foreign><lb break="yes"/>zu senden. <seg ana="#salute">herzlich grüßt Dein Gatte</seg><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Matthäus
+                            <surname>M.</surname></hi><lb break="yes"/>So<hi rendition="#i">wie</hi> Den Sohn Jakob
+                        <surname>M.</surname><lb break="yes"/><seg ana="#salute">Auch viele Grüße vom dem <hi rendition="#i">Christian</hi>.</seg></hi><lb break="yes"/><add hand="arzt" place="margin">Nachstehendes vom<lb break="yes"/>4. X. 1896.</add></p> <p><add hand="patient">Bitte eigenhändig gegen Nachnahme ab Bezirks Schielins<lb break="yes"/>S<hi rendition="#i">eniors Sto</hi>bäus Schulzzpreciös Sixt Bürgermeisters<lb break="yes"/>Schach Bads <hi rendition="#i">Sekiclin</hi> Novemberns
+                    Ttolppreciös<lb break="yes"/>Vorsteherins Schönau Unterreitnau Urkund<lb break="yes"/>Diakonissin <hi rendition="#i">Seck</hi>und Doppelt strafen
+                    werden Neuulm<lb break="yes"/>Münch honsistoriums Stobäui Jackob
+                        <surname>T.</surname><lb break="yes"/>Neutral Landtag gesetzzwilchholzüng genau Un<lb break="no"/>tertrutzzund Diakkapplana Advokats Saikrann<unclear/><lb break="yes"/>trapppflegernd Dienstmägd derrrenkknecht tausiggekraft
+                    word</add></p>
+</body>
+</text>
+</TEI>

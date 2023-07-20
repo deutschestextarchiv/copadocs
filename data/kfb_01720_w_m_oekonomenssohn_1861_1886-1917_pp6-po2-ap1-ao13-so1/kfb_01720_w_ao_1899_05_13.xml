@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1720w06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1720</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Barbara <surname>W.</surname></persName>
+<date type="sent">13.05.1899</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>K.</surname></persName>
+<settlement type="sent">Roßhaupten</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1720w">
+<persName>
+<forename>Georg</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1917"/>
+<occupation>Ökonomenssohn</occupation>
+<residence><geo decls="#WGS">47.5991939 10.711254276584267</geo>Roßhaupten, Füssen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonom</p>
+<p from="1886" to="1917">Anstalt: 1886-1917</p>
+<p from="1886" to="1917">Brieftypen: pp, po, ap, ao, Notizen</p>
+</state>
+<trait><p>Depression, Halluzination (1888), Manie, Größenideen (1886)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+<handNote medium="crayon_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin erkundigt sich nach dem Gesundheitszustand ihres Sohnes. Sie hat wenig Hoffnung auf Besserung. Sie möchte wissen, ob er noch aufgeregt ist, ob er ihr
+                    schreiben will, ob er nach Hause will, ob er Socken braucht, ob er in die Kirche geht und ob er arbeitet.
+                    Der Arzt schreibt dazu: Der Patient ist teilnahmslos, will nicht an die Angehörigen schreiben und will nur manchmal nach Hause. 
+                    Er ist zufrieden, besucht den Gottesdienst, arbeitet und ist körperlich gesund.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1720w06a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb1720w06b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#c">Roshaupten am 13 Mai 1899</hi></dateline>
+<salute><hi rendition="#c">Geehrter Herr Dierektor</hi></salute>
+</opener>
+<p> Ich muß doch wieder ein Paar<lb break="yes"/>zeilen Schreiben wie es doch bein<lb break="yes"/><hi rendition="#u" style="arzt">Georg <surname>W.</surname></hi> geht ob es
+                    im̄er<lb break="yes"/>bem alten ist es scheint mir<lb break="yes"/>da
+                ist weing Hofung mehr zu<lb break="yes"/>erwarten ist er noch aufgerek<lb break="yes"/>begert er in der Mutter zu<lb break="yes"/>Shreiben will er in
+                nah Haus<lb break="yes"/>wen er Sok brauht ich hab<lb break="yes"/>ihm 5 Parr
+                    Gestrük<lb break="yes"/>geht er auch in die Kürhe<pb facs="#image_012"/>Arbeitet es auch <seg ana="#salute">ich beschliese<lb break="yes"/>ein Schreiben
+                    Achtungs voll mit Gr</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#c">Barbara
+                <surname>W.</surname></hi></seg></p>
+<p>
+<handShift scribe="arzt"/> Hallucinirt noch, ist geistig recht<lb break="yes"/>schwach, lebt
+                teilnahmslos dahin, mag<lb break="yes"/>nicht an seine Angehörigen schreiben<lb break="yes"/>äußerte nur einigemal den Wunsch<lb break="yes"/>nach Rückkehr in
+                die Heimat. Er ist aber<lb break="yes"/>ruhig u. zufrieden, arbeitet, besucht<lb break="yes"/>regelmäßig den Gottesdienst.<lb break="yes"/>Das körperl.
+                Befinden ist ausgezeichnet.<lb break="yes"/>Socken braucht er vorerst nicht.<lb break="yes"/><hi rendition="#c">17.V.99</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">C.<surname>K.</surname></hi>.</hi></p>
+</body>
+</text>
+</TEI>

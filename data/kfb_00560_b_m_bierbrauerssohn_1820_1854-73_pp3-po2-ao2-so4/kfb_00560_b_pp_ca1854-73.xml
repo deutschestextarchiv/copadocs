@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb560b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>560</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>B.</surname></persName>
+<date type="sent">ca. 1858-1873</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: n.a.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb560b">
+<persName>
+<forename>Georg</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1820"/>
+<death when="1873"/>
+<occupation>Bierbrauerssohn</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>n.a.</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Bierbrauer</p>
+<p from="1854" to="1873">Anstalt: 1854-1873</p>
+<p from="1854" to="1873">Brieftypen: pp, po, ao </p>
+</state>
+<trait>
+<p>Wahnvorstellungen (1854)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient erkundigt sich nach seinen Angehörigen und schlägt eine wirre Reiseroute vor.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb560b03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb560b03b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r">nach Augburg den 3 Nomember<lb break="yes"/>nach
+                        von Irsse Anstalt</hi></dateline>
+<salute><hi rendition="#c">Lieber Vater deine Liebe Frau Gemahlein<del>n</del><lb break="yes"/>Liebe Muter </hi></salute>
+</opener>
+<p>Wester Lieber Vater iIch hoffe es werde Sie bei Gesundheit<lb break="yes"/>antrefen, sind sol<handShift medium="pencil" scribe="patient"/>len<handShift medium="ink" scribe="patient"/> komen Sie mit Ihnen ganz<handShift medium="ink" scribe="patient"/>en<handShift medium="ink" scribe="patient"/>
+                    Famil<handShift medium="pencil" scribe="patient"/>e <handShift medium="ink" scribe="patient"/>auf<lb break="yes"/>die König Kaißliche <w>Irren Anstalt</w>
+                komen Sie solbad es<lb break="yes"/>Ihnen möglich ist, wen Sie soh draf<handShift medium="pencil" scribe="patient"/>en <handShift medium="ink" scribe="patient"/>mit Ihnen gehen<lb break="yes"/>nach <hi rendition="#i">Münhen</hi> Vater Breyern
+                und Augburg in<lb break="yes"/>mein <del>geburts</del>
+<add place="above"><handShift medium="pencil" scribe="patient"/>Nametag</add><handShift medium="ink" scribe="patient"/>. Sie auf Kaißer von
+                Moskau und<lb break="yes"/>Preterbrug Königereich Kaißereicher von Rusland<lb break="yes"/>Ich hoffe Sie bei guter Gesundheit antrefen schreibe<lb break="yes"/>Schreibe mir wie vil geschwischter ich jetzt habe!<lb break="yes"/>und mein Vermögen über 100000 Millionen nun<lb break="yes"/>komt bad das Neue
+                Jahl und wünsch Ihen und der<lb break="yes"/>ganzen Famile, jetzt reißen wir nach
+                Kaubbeuren,<lb break="yes"/>Schweiz Titrol, Lindau, nach Ostereich von aus Enlant,<lb break="yes"/>dan Amerika, Idalien Spanien Portgall Korsika<lb break="yes"/>Zizilia in Stadt <del>K</del> Brag nach Schwerin und Meklingen<lb break="yes"/>Hessen Darmstat Berlin Hof Meind Würzburg Bayy<lb break="yes"/>reit Nürnberg
+                Gunzenhausen Ansbach <unclear>Nadrichglengen</unclear>
+</p>
+<pb facs="#image_008"/>
+<p> Die Frau die Gräfen von England <unclear>Iwerden</unclear><lb break="yes"/>auch euer Sohn mein Bahl Medchen<add place="above"><handShift medium="pencil" scribe="patient"/><unclear/></add>
+<handShift medium="ink" scribe="patient"/>JungFrau<lb break="yes"/>schreibe Sie mir
+                wie All Alle sind..<lb break="yes"/><seg ana="#pic"/>
+<hi rendition="#r">Ich Schließe mein Schreiben<lb break="yes"/>Lieber Vater und
+                    Mutter<lb break="yes"/>Ich daß den brieß Sie bei<lb break="yes"/>All<lb break="yes"/>Gesund und Wolauf<lb break="yes"/><unclear><hi rendition="#u"><handShift medium="pencil" scribe="patient"/>Erhalden</hi></unclear></hi><lb break="yes"/><seg ana="#pic"/></p>
+</body>
+</text>
+</TEI>

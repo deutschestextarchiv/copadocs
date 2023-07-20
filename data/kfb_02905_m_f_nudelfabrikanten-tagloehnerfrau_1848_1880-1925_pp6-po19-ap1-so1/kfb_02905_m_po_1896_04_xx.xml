@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2905m14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2905</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Helene <surname>M.</surname></persName>
+<date type="sent">xx.04.1896</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2905m">
+<persName>
+<forename>Helene</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1848"/>
+<death when="1925"/>
+<occupation>Nudelfabrikanten-/Taglöhnerfrau</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern:</p>
+<p from="1880" to="1925">Anstalt: 1880-1925</p>
+<p from="1880" to="1925">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Fixe Ideen, Beeinträchtigungswahn (1881)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie nennt viele Leute und Einrichtungen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2905m14.jpg" xml:id="image_036"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_036"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Holzünggemeind <w>Dekanats</w><w>Strauch</w>
+                    Holzhauserrenta<unclear>ceschennauer</unclear> Königl
+                Ludwigsburggerichtvollzieher Rist.<lb break="yes"/>Adolph Hoirs Sixt
+                    <surname>B.</surname>gerichtvollzieher Regemens Sackrament titel Losso wird.<lb break="yes"/>Gebrüdere Eheleute Eheweiber Ruhtera Äschachs Sackramenttitel
+                Bermetz.<lb break="yes"/>Zuchthaus Sixt <surname>B.</surname> gerichtvollzieh
+                Hoir Richtern Neutrallandtag gesetzlicher,<lb break="yes"/>Requisitt
+                thorssum̄ <surname>M.</surname> zuchthausschulzzuchthaus Subjeckttitel
+                Lindau<lb break="yes"/>Unteroffizier Restauration
+                Nudelmaschinnudlfabribrickationsschulzzuchthaus<lb break="yes"/>Sofort thronnoto
+                Otto Ristersschulmeisters Seniorn Nudelfabrikationnotir Richter<lb break="yes"/>Restaurations <surname>S.</surname> Christa Äschach Heimesreuti Insel
+                Lindau<lb break="yes"/>Unteroffieziers Synagoggogelhopfs Soldats <hi rendition="#i">St. Heleni</hi> Irrsee b. Kaufbeur<lb break="yes"/>Rottmeisterei Insel Lindau
+                Urkund Diakonissspital Landwebers Sixt <surname>B.</surname><lb break="yes"/>Gerichtvollzieher Richters schwelggebrüdern Nudelfabrickats
+                Standesbeamts<lb break="yes"/>Senior Rists Söhns Schulmeisterei Isnys Schwieger
+                Radivikation Nudelfabrik<lb break="yes"/>Kempter Rists Stozlppolizeie Evangelisch
+                Christa Äschachs Standesbeamter Richter.<lb break="yes"/>Regements Sam̄ler
+                Richter radivikation Nudelfabrikationnotir Regement<lb break="yes"/>trepppreciös
+                Söhnli Johan̄o Oberpflegerei Insel Lindau Urtheil Leihaus Söhn.<lb break="yes"/>Nudelfabritionsschulmeister Rists Schwiegerl Leihaus
+                Schulzzuchthäuser Rists<lb break="yes"/>Soldattrepppreciössum̄ Münch chirurg
+                gerichtvollzieher Radivikationsschulzzuchthausli<lb break="yes"/>Johan̄es
+                Seilers Schönau Urkund Dikonissinsspital Landtag gerichtvollzieherei Jrrsee<lb break="yes"/>Ehelich Christoph Hochbuchs Schul Lieser
+                Richtersschwiestersschwelggebrüder<lb break="yes"/>Reformations schulluther
+                Requisittiel Lindau Unzeichneterr Rists Sezereien<lb break="yes"/>Nudelfabrikatstam̄maschinirrenk kaufmänsches Spezereiensschwelggeschweb<lb break="yes"/>Bäckergassens Synaggottlos schulmeisterei Johan̄es
+                    <surname>M.</surname> geb. d. G. Sixt. 1872.<lb break="yes"/><add hand="arzt">(<hi rendition="#i">ad</hi>
+<surname>M.</surname> Helene IV. 96.)</add></p>
+</body>
+</text>
+</TEI>

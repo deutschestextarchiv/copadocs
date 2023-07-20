@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip1914l02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>1914 (K. 210)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Gustav <surname>L.</surname></persName>
+<date type="sent">ca. 1911-14</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip1914l">
+<persName>
+<forename>Gustav</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1884-06-28"/>
+<death cert="unknown"/>
+<occupation>Kellner</occupation>
+<residence><geo decls="#WGS">51.5142273 7.4652789</geo>Geburtsort: Bielefeld; Wohnort: Dortmund</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1911-10-03" to="1914-01-28">Anstalt: 03.10.1911-28.01.1914</p>
+<p from="1911-10-03" to="1914-01-28">Brieftypen: pp, po</p>
+</state>
+<trait><p>Degeneriert, geistig minderwertig (1910)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Droht mit Suizid, wenn nicht Entlassung erfolgt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip1914l02a.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="lip1914l02b.jpg" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Liebe Eltern!</hi></salute>
+</opener>
+<p>Herrn A. <surname>L.</surname>
+<hi rendition="#r"><lb break="yes"/>Dortmund <add hand="unbekannt">341</add>
+<hi rendition="#i"><placeName type="street">Mühlenstr.</placeName></hi>
+<add place="below">4<hi rendition="#sup">II</hi></add></hi><lb break="yes"/><add place="margin"><hi rendition="#u">Eilt</hi></add></p>
+<p>Nur <hi rendition="#u">Gottes Barmherzig<lb break="no"/>keit</hi>
+<unclear>eillen</unclear> bitte<lb break="yes"/>ich Euch, kommet mich,<lb break="yes"/>lieber Papa u. Ma<lb/>ma, <hi rendition="#u">Morgen
+                    bestīmt</hi><lb break="yes"/>besuchen, nicht Aug.<lb break="yes"/>oder Kon. Liege Tag u.<lb break="yes"/>Nacht <hi rendition="#u">unausgesetzt</hi> zu Bett,<lb break="yes"/>wiege noch 116 <unclear/> u. die<lb break="yes"/>Langeweile tötet
+                mich<lb break="yes"/>Bitte, bitte, kom̄t <hi rendition="#u">sofort</hi> u.<lb break="yes"/>sprecht m. d. Herrn Oberarzt,<lb break="yes"/>vielleicht
+                erhalte ich denn<lb break="yes"/>etwas Erleichterung. <hi rendition="#u"><unclear><lb break="yes"/>Tanz</unclear> bestim̄t</hi> auf
+                Eu<lb/>ern morgigen be</p>
+<pb facs="#image_023"/>
+<p>such rechnend<lb break="yes"/>grüßt u. küßt<lb break="yes"/>Euch Gustav. <add hand="unbekannt">342</add>
+</p> <p>Kommt <hi rendition="#u">sofort</hi><lb break="yes"/>ich vergehe vor Sehn<lb break="no"/>sucht nach Euch<lb break="yes"/>u. quäle mich Tag<lb break="yes"/>u. Nacht mit den<lb break="yes"/>schlimmsten
+                    Ge<lb break="no"/>danken, also kom̄t<lb break="yes"/>bitte <hi rendition="#u">sofort</hi>, oder ich<lb break="yes"/><hi rendition="#u">verzweifle</hi>, ohne Euch<lb break="yes"/>halte ich es nicht mehr<lb break="yes"/>länger aus, bleibt Ihr<lb break="yes"/>jetzt fort u. kommt<lb break="yes"/>nicht <hi rendition="#u">sofort</hi>, dann lie<lb break="no"/>be
+                Mama, lieber Papa,<lb break="yes"/>tötet Ihr mich.</p>
+</body>
+</text>
+</TEI>

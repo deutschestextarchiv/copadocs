@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun1988k26" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>1988 (K. 170)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>K.</surname></persName>
+<date type="sent">23.01.1907</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geheimrat: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun1988k">
+<persName>
+<forename>Heinrich</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1846-10-13"/>
+<death cert="unknown"/>
+<occupation>Arbeiter</occupation>
+<residence><geo decls="#WGS">51.920586 7.727183</geo>Geburtsort: Wolbeck; Wohnort: Wolbeck</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Weber, Mutter: Arbeiterin</p>
+<p from="1900-06-28" to="1905-05-05">Anstalt: 28.06.1900-05.05.1905</p>
+<p from="1900-06-28" to="1905-05-05">Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber möchte zu Privatleuten umziehen und bittet den Adressaten, ihm seinen Wunsch zu erfüllen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun1988k26a.jpg" xml:id="image_065"/>
+<graphic mimeType="image/jpg" url="mun1988k26b.jpg" xml:id="image_066"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_065"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Marienthal den</hi>
+<hi rendition="#u">23<hi rendition="#i">ten</hi></hi><hi rendition="#i">
+                            Januar</hi> 1907.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Hochgeehrter Herr </hi><w><hi rendition="#i">Geheim= Rat</hi></w>!</hi></salute>
+</opener>
+<p><add hand="hand2">G <hi rendition="#sup">24</hi>/<hi rendition="#sub">1</hi> 07<lb break="yes"/><hi rendition="#u" style="hand3">ad acta Heinrich</hi> <surname><hi rendition="#i">K.</hi></surname><lb break="yes"/><hi rendition="#c">G. </hi></add></p>
+<p><hi rendition="#i">Ich möchte Ihnen davon in Kentnis setzen, das </hi><lb break="yes"/><hi rendition="#i">Ich den Wunsch habe, anderwo in Kost und </hi><lb break="yes"/><hi rendition="#i">Logis zu gehen</hi><unclear><del><hi rendition="#i">,</hi></del></unclear><hi rendition="#i"> bei Privatleuten,
+                    bei denen Ich </hi><lb break="yes"/><hi rendition="#i">gut bekannt bin und Die
+                    auch gut und brav </hi><lb break="yes"/><hi rendition="#i">sind, wenn Ich auch
+                    etwas beilegen muß, denn </hi><lb break="yes"/><hi rendition="#i">Ich habe noch
+                    zwei gut erhaltene Federbetten </hi><lb break="yes"/><hi rendition="#i">zu
+                        </hi><placeName><hi rendition="#i">Wolbeck</hi></placeName><hi rendition="#i">
+                    im Krankenhause. Sie brauchen </hi><lb break="yes"/><hi rendition="#i">darum vor
+                    Mir ein ausschweifendes Leben nicht </hi><lb break="yes"/><hi rendition="#i">bange zu </hi><del><hi rendition="#i">alt</hi></del><hi rendition="#i"> sein,
+                    dafür </hi><add place="above"><hi rendition="#i">bin</hi></add><hi rendition="#i">
+                    ich </hi><add place="above"><hi rendition="#i">zu</hi></add><hi rendition="#i">
+                    verständig. Das Sie </hi><lb break="yes"/><hi rendition="#i">Mir Dieses nicht vor
+                    übel nehmen und es auch </hi><lb break="yes"/><hi rendition="#i">eingestehen, mit
+                    der Bitte es zuzuben ich Mich</hi>
+<pb facs="#image_066"/><hi rendition="#i">an Ihnen wende, denn Sie haben Mir einmal
+                    </hi><lb break="yes"/><hi rendition="#i">versprochen, alle meine Wünsche zu
+                    erfüllen. </hi><lb break="yes"/><seg ana="#salute"><hi rendition="#i">Dies hofft
+                    Ihr ergenster Diener</hi></seg><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#c"><seg ana="#signed"><hi rendition="#i">Heinrich. </hi><surname><hi rendition="#i">K.</hi></surname><hi rendition="#i">.
+                            </hi></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

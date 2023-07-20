@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2744s08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2744</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sohn: Hermann <surname>S.</surname></persName>
+<date type="sent">09.07.1854</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Erlangen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2744s">
+<persName>
+<forename>Johann Christoph</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1802"/>
+<death cert="unknown"/>
+<occupation>Tabakfabrikant</occupation>
+<residence><geo decls="#WGS">49.5928616 11.0056</geo>Erlangen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1852" to="1854">Anstalt: 1852-54</p>
+<p from="1852" to="1854">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>"psychische Störung"(1852)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="sohn"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Von einem Besuch des Patienten wurde von Seiten des Arztes/Direktors abgeraten. Der Sohn wünscht jedoch 
+                    seinem Vater einen Brief schreiben zu dürfen. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2744s08.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Euer <hi rendition="#i">W</hi>ohlgeborn!</hi></salute>
+</opener>
+<p>hatten vor einiger <hi rendition="#i">Z</hi>eit die Güte, mir betreffs einer<lb break="yes"/>projektirten Reise zu meinem unglücklichen Vater Ihre<lb break="yes"/>Ansicht mitzutheilen. Ich glaube Ihren <hi rendition="#i">W</hi>ünschen<lb break="yes"/>nachgekom̄en zu sein, wenn ich es bisher unterließ,<lb break="yes"/>meinen Vater zu besuchen. </p><p><space/>
+<hi rendition="#i">B</hi>eifolgend sende ich Jhnen die Unterhaltungs<lb break="no"/>kosten für das nächste Vierteljahr im Betrage von:<lb break="yes"/><space/> f 41.
+                        3¾ <unclear>₰</unclear><lb break="yes"/>worüber Sie die übliche Quittung geneigt an mich<lb break="yes"/>einzuschicken belieben. </p><p><space/>
+<hi rendition="#i">W</hi>enn es Ihnen nicht zu große <hi rendition="#i">M</hi>ühe
+                verursacht,<lb break="yes"/>so würde ich Sie recht sehr darum bitten, mir in<lb break="yes"/>wenigen <hi rendition="#i">Z</hi>eilen mitzutheilen, was Sie
+                gegenwärtig von<lb break="yes"/>dem <hi rendition="#i">Z</hi>ustand meines armen
+                Vaters halten, ob eine<lb break="yes"/>Heilung in Aussicht steht, oder ob wir
+                darauf<lb break="yes"/>Verzicht leisten müßen, unsern guten Vater je<lb break="yes"/>wieder in unserer <hi rendition="#i">M</hi>itte zu haben. − </p><p><space/> Darf ich an ihn schreiben, und in welchem Sinne<lb break="yes"/>würden Sie mir
+                erlauben, meinen Brief abzufaßen? </p><p><space/><seg ana="#salute">
+<hi rendition="#i">M</hi>it der Versicherung innigster Verehrung beharrt<lb break="yes"/><hi rendition="#c">Ihr ergebener<lb break="yes"/></hi></seg><hi rendition="#c"><seg ana="#signed"><hi rendition="#i">Hermann</hi>
+<surname><hi rendition="#i">S.</hi></surname></seg></hi></p><p><hi rendition="#i">Erlangen</hi> den 9 <hi rendition="#i">Iuli</hi> 1854.</p>
+</body>
+</text>
+</TEI>

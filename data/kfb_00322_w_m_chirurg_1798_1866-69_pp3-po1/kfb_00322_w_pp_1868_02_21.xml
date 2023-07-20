@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb322w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>322</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Lorenz <surname>W.</surname></persName>
+<date type="sent">21.02.1868</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: <surname>K.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb322w">
+<persName>
+<forename>Lorenz</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1798"/>
+<death when="1869"/>
+<occupation>Chirurg</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1866" to="1869">Anstalt: 1866-69</p>
+<p from="1866" to="1869">Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient wirft Familie vor, ihn in der Anstalt sterben zu lassen. Er möchte im Familiengrab beerdigt werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb322w04a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb322w04b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r">Irrse de 21 <hi rendition="#i">Feb</hi>
+<hi rendition="#u">1868</hi></hi></dateline>
+<salute>Liebe Mutter!</salute>
+</opener>
+<p><unclear>Schik</unclear>en mir umgehend mein <unclear/><lb break="yes"/>von <unclear>neuem</unclear> arbeitszim̄er mit<lb break="yes"/>meine <hi rendition="#i">Couvert</hi>
+<unclear/>, und ihn doch<lb break="yes"/>mich hier in Zuchthaus daran<lb break="yes"/>Sterben lassen wolt u wen es dan̄<lb break="yes"/>nach
+                Eurem Wunsch geht last mich<lb break="yes"/>dan̄ in das Grab mein lieber<lb break="yes"/>Vater <unclear/> nach <unclear>Kaisheim</unclear> bringen.<lb break="yes"/>die ungl<unclear>üklich Gesse Lang</unclear>
+</p>
+<p>NB Was was ich sage<lb break="yes"/>beweise ich − Grüsse und <unclear/>
+                Verwandte die<lb break="yes"/>u. gesagt habe − <unclear/> u Schriten<lb break="yes"/><unclear>V</unclear>atter ist u<unclear/>de und ein
+                    <unclear>Sünde</unclear><lb break="yes"/>Mensch im <unclear>sein falsch</unclear>,<lb break="yes"/>Und mich
+                <unclear/> nicht ich nach<lb break="yes"/><unclear>man den</unclear>
+<unclear/><lb break="yes"/>u. voller Bosheit mit <unclear>sehen</unclear><lb break="yes"/>ein <unclear>fernsam̄ Geist</unclear>
+<unclear>sein soll nur sei so </unclear><lb break="yes"/><hi rendition="#r">nicht <unclear>nichts
+                <unclear/></unclear></hi></p>
+<p><add place="margin">daß Recht zum Straffen hat er nur mit <unclear/><lb break="yes"/><unclear>famillegung u Staal <unclear/></unclear></add></p>
+<pb facs="#image_010"/>
+<p><hi rendition="#c"><unclear>W</unclear>as<lb break="yes"/><surname>K<hi rendition="#i">o.</hi></surname> gebr. <hi rendition="#i"><surname>W.</surname></hi> Wittwe </hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Kauf<hi rendition="#u">beurn</hi></hi></hi><lb break="yes"/><hi rendition="#c">durch Gütte</hi>
+</p>
+</body>
+</text>
+</TEI>

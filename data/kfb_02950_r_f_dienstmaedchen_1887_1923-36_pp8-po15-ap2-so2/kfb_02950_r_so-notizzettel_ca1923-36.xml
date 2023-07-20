@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2950r25" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2950</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>R.</surname></persName>
+<date type="sent">ca1923-36</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2950r">
+<persName>
+<forename>Magdalena</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1887"/>
+<death cert="unknown"/>
+<occupation>Dienstmädchen</occupation>
+<residence><geo decls="#WGS">47.6988348 10.321779800598831</geo>Kottern/Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Schuhmacher</p>
+<p from="1923" to="1936">Anstalt: 1923-36</p>
+<p from="1923" to="1936">Brieftypen: pp,po,ap</p>
+</state>
+<trait><p>[Suizidalität], Verfolgungswahn (1923), Versündigungsideen, Sinnestäuschungen, Willensstörungen (1828-36)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notizzettel</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Notizzettel, Rückseite von Werbung Feuchtikus zum Briefverschluß
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2950r25a.jpg" xml:id="image_071"/>
+<graphic mimeType="image/jpg" url="kfb2950r25b.jpg" xml:id="image_072"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_071"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>
+<hi rendition="#u">Das Lied</hi>? Waldeslust? Waldeslust? O wie einsam schlägt<lb break="yes"/>die Brust? Der <hi rendition="#u">Bruder</hi> u. <hi rendition="#u">Bräutigam</hi> fiel im Feld? die<lb break="yes"/>Leni hat kein
+                    <hi rendition="#u">Geld</hi>; muß dan̄ zum <hi rendition="#u">Stempfeln</hi> gehn; auf die<lb break="no"/>ser Welt.?? Ja die Welt ist schön;
+                man muß sie nur<lb break="yes"/>verstehn; wie wird es mir auf meiner Heimfahrt <hi rendition="#u">gehn</hi>?<lb break="yes"/>"<hi rendition="#u">Heimat</hi> o
+                Heimat; Himmel wie bist du so schön; kön̄t<lb break="yes"/>ich; ach
+                kön̄t ich; kön̄t ich dich nochmals sehn; aber nein es<lb break="yes"/>kan̄ nicht sein; es muß geschieden sein;. Schifflein ach<lb break="yes"/>Schifflein;. Schifflein auf dunkler Flur; schaukle; schaukle<lb break="yes"/>der
+                Heimat zu?? Ein <hi rendition="#u">Spielman̄</hi> streicht die Geige So<lb break="yes"/>fein, du hörst es kaum; da weht ein Blatt vom<lb break="yes"/>Zweige Im letzten Son̄entraum... Und wilder scheint<lb break="yes"/>die
+                Saite, Zereißt mit wehem Ton: da sinkt im<lb break="yes"/>blutigen Streite So
+                mancher Mutter Sohn.?????<lb break="yes"/><hi rendition="#u">Matrose Max</hi>?? Geschwister Dan? Fuß Max?</p>
+</body>
+</text>
+</TEI>

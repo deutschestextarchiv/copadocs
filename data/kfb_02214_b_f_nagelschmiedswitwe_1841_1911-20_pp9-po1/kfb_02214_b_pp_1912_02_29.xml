@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2214b04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2214</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Katharina <surname>B.</surname></persName>
+<date type="sent">29.03.1912</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Rosa und Sohn: Josef <surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2214b">
+<persName>
+<forename>Katharina</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1841"/>
+<death when="1920"/>
+<occupation>Nagelschmiedswitwe</occupation>
+<residence><geo decls="#WGS">47.48474 10.327536</geo>Hindelang, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet, verwitwet</p>
+<p from="1911" to="1920">Anstalt: 1911-20</p>
+<p from="1911" to="1920">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Manisch-depressiv], Alkoholismus (1911)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    hat Brief erhalten, dass die beiden und das Kind gesund sind; wartet darauf, abgeholt zu werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2214b04a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb2214b04b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r">Irrsee den 29.Februar=<lb break="yes"/>1912.<del>.</del></hi></dateline>
+<salute>Liebster Josef und und Rosa.</salute>
+</opener>
+<p>
+Euren Brief habe ich erhalten, und daraus<lb break="yes"/>vernom̄en das Ihr gesund seid und das Kind<lb break="yes"/>es hat mich auch recht gefreut, es kam<lb break="yes"/>gerade der Herr Diereckor und Ich las den<lb break="yes"/>den Brief und der Dierecktor auch er sagte<lb break="yes"/>zu mier Ich soll in gleich beantworten.<lb break="yes"/>Darum habe Ich die Feder Ergriffen Euch<lb break="yes"/>zu schreiben das der Libenswirdige Her=<lb break="yes"/>Oberartzt auch nicht mehr zögertt mich hinaus=<lb break="yes"/>zu lassen das Oberfräulein hatte selber<lb break="yes"/>zu mier gesagt der <surname>W.</surname> Werde mich<lb break="yes"/>abholen darum bitte ich dich Liebster<lb break="yes"/>Josef und Rosa nich mehr lange zu<lb break="yes"/>zögern weil ich so gut bin und die<lb break="yes"/>Wittrung so mild darum hoffen ich bald<lb break="yes"/>das mier selber miteiander sprechen.<lb break="yes"/>In die Oberreute habe Jch geschriben<lb break="yes"/>aber Jch habe noch keine antwort
+
+<pb facs="#image_012"/>
+darum will ich hoffen das dies der Letzte<lb break="yes"/>Brief sei den ich an Dich sende und Ich bette<lb break="yes"/>alletag das Jch von dem Lieben Gott noch<lb break="yes"/>mere Lebenstage bekom̄e. Darum bitte<lb break="yes"/>Jch diech meinen Wunsch zu Erffüllen. Darum<lb break="yes"/>wollen wier alles mindlich mitainander<lb break="yes"/>sprechen <seg ana="#salute">Darum weil Ich mier schreiben<lb break="yes"/>schließen mitt vielen Grüßen an Euch<lb break="yes"/>beide und Kind</seg> <del>v</del> <seg ana="#signed">und verbleibe Eure<lb break="yes"/>Alte Mutter Katharina <surname>B.</surname>.</seg><lb break="yes"/>An Josef <surname>W.</surname> in Feinenkürch Strohut. Arbeiter<lb break="yes"/>Ich habe auf Euch soviel gewent,<lb break="yes"/>Und jetzt bin Jch in Fremde Händ.<lb break="yes"/>Krank und Alt und fremd=<lb break="yes"/>das ist gewis Ellend. Aber Gott<lb break="yes"/>verläßt kein Deuschen nicht Er handelt<lb break="yes"/>nur nach seiner Pglicht darum wiel<lb break="yes"/>Jich nach Gottes Willen tuhn in<lb break="yes"/>der andern Welt bekom̄ Ich den Lohn
+</p>
+</body>
+</text>
+</TEI>

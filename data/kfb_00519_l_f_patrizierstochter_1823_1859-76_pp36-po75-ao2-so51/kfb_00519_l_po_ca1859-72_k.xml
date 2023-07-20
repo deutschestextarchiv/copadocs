@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l21" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Doktor <surname>M.</surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Besuch, Wohlbefinden, Krankenhaus und Müllers Sohn im Testament
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l21a.jpg" xml:id="image_054"/>
+<graphic mimeType="image/jpg" url="kfb519l21b.jpg" xml:id="image_055"/>
+<graphic mimeType="image/jpg" url="kfb519l21c.jpg" xml:id="image_056"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_054"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#i">Hochverehrtester</hi> Herr <hi rendition="#i">Doctor!</hi></salute>
+</opener>
+<p> Voraussetzend Sie dadurch nicht zu belästigen<lb break="yes"/>und hoffend, daß
+                Sie meinen leichten u. <del>frohen</del>
+<add place="above">heitern</add> Sin̄<lb break="yes"/>/: veranlaßt
+                durch angenehmere Lebens- u. Gesund<lb break="no"/>heits-Verhältniße:/ entschuldigen
+                werden, −<lb break="yes"/>bittet in̄ständig mein Zutrauen nicht mehr<lb break="yes"/>zu beschähmen und bei gegenwärtigen Unwohl<lb break="no"/>sein
+                /: <add place="above">Blut</add> =Husten:/ bald <del>eimal</del> Ihres gütigen<lb break="yes"/>Besuches zu würdigen, jene die Ihr Dasein<lb break="yes"/>stets
+                erfreut u. sich dankbar erin̄ert. −<lb break="yes"/><lb break="yes"/><hi rendition="#r">ergebenste <hi rendition="#i">W v Langenm</hi></hi></p>
+<pb facs="#image_055"/>
+<p> (: Dem Krankenhause sind in meinem Testa<lb break="no"/>mente 1000 fl
+                bestim̄t, da ich selbiges so<lb break="yes"/>oft in Anspruch
+                genom̄en. −<lb break="yes"/>Und Ihrem kl. Kind 1000 fl,<lb break="yes"/>weil ich daßelbe so <del>gern</del> sehr liebe :)-</p>
+<pb facs="#image_056"/>
+<p>
+<hi rendition="#i"><hi rendition="#r">Hochwohlgeboren</hi></hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Herrn Doctor Dr.
+                    Müller</hi></hi><lb break="yes"/><hi rendition="#c">sa<hi rendition="#i">at. Arzt</hi></hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Da</hi>hier</hi><lb break="yes"/><hi rendition="#r">Oberer Graben</hi><lb break="yes"/>II E l.</p>
+</body>
+</text>
+</TEI>

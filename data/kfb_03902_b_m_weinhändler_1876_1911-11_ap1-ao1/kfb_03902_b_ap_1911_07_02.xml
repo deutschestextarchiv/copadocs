@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3902b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3902</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Natalie <surname>B.</surname></persName>
+<date type="sent">02.07.1911</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann: Karl <surname>B.</surname></persName>
+<settlement type="sent">Endingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3902b">
+<persName>
+<forename>Karl</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1876"/>
+<death cert="unknown"/>
+<occupation>Weinhändler</occupation>
+<residence><geo decls="#WGS">48.1412922 7.6999031</geo>Endingen, Emmendingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Landwirt</p>
+<p from="1911" to="1911">Anstalt: 1911 (1 Woche)</p>
+<p from="1911" to="1911">Brieftypen: ap, ao</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="print" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Frau des Patienten fragt ihn, ob sie ihn nach Illenau bringen und noch diese Woche abholen soll.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3902b02a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb3902b02b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#i"><add hand="vordruck">ENDINGEN A. K., DEN</add> 2. Juli</hi>
+<add hand="vordruck">191</add>1</dateline>
+<salute><hi rendition="#r"><hi rendition="#i"><add hand="vordruck">Herrn</add><lb break="yes"/>Mein geliebter, guter<lb break="yes"/><hi rendition="#u">Karl!</hi></hi></hi></salute>
+<milestone rendition="#hr" unit="section"/>
+</opener>
+<p><space/> Ich habe Deinen lb. Brief erhalten &amp; gesehen,<lb break="yes"/>daß Du in
+                guten Händen bist, doch möchte ich dich<lb break="yes"/>fragen, ob Du nicht wieder
+                einige Wochen nach<lb break="yes"/><hi rendition="#i">Illenau</hi> willst, oder wie
+                ich glaube, wenn Du<lb break="yes"/>vielleicht schon in 14 Tagen ganz gesund bist,<lb break="yes"/>könntest Du in <hi rendition="#i">Kaufbeuren</hi> bleiben.</p>
+<p><space/> Wenn du nach <hi rendition="#i">Illenau</hi> willst, sagst Du<lb break="yes"/>es dem Herrn <hi rendition="#i">Direktor</hi>, dann hole ich dich noch<lb break="yes"/>diese Woche ab. Im anderen Falle schicke ich<lb break="yes"/>Dir
+                die gewünschten Sachen.</p>
+<p>Sei mir mutig m/ guter Karl, das <w>g eht</w> rasch <pb facs="#image_002"/>wieder
+                vorüber &amp; hier weiß kein Mensch etwas<lb break="yes"/>davon. Nur Deiner guten
+                Mutter habe ich es<lb break="yes"/>gesagt, sie läßt dich <w>herz lich</w>
+                grüßen.</p>
+<p>Weißt Schatzi, Du wärest nicht krank geworden,<lb break="yes"/>aber die <hi rendition="#i">Pracht</hi> von <hi rendition="#i">Neuschwanstein</hi> war noch<lb break="yes"/><w>zu</w><w>viel</w> für Dich. Ich hätte Dir das nicht erlauben<lb break="yes"/>sollen. Aber es wird <hi rendition="#i">A</hi>lles <w>wied er</w>
+                gut &amp; wir<lb break="yes"/>werden bald wieder beisam̄en sein.</p>
+<p><hi rendition="#i">B</hi>ubi schaut im̄er auf Dein leeres Bett, &amp;<lb break="yes"/>fühlt sich in seimem schönen, neuen Bettchen<lb break="yes"/>äußerst behaglich. <hi rendition="#i">Ernst</hi> hat jetzt <hi rendition="#i"><surname>K.</surname>s<lb break="yes"/>Haus</hi> gepachtet. Schicke,
+                wenn Du kannst,<lb break="yes"/>deine <hi rendition="#i">A</hi>ufträge an <hi rendition="#u">mich</hi>, denn Deine<lb break="yes"/>Krankheit ist bald
+                wieder vorbei, &amp; es weiß<lb break="yes"/>kein Mensch davon. <seg ana="#salute">Sei herzlichst gegrüßt &amp; ge<lb break="no"/><hi rendition="#r">küßt von d.
+                        tr. <hi rendition="#i">Talcher</hi> + <hi rendition="#i">B</hi>ubi</hi></seg></p>
+</body>
+</text>
+</TEI>

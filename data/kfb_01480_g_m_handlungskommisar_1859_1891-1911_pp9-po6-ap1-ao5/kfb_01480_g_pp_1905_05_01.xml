@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1480g14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1480</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>G.</surname></persName>
+<date type="sent">01.05.1905</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Christiane <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1480g">
+<persName>
+<forename>Karl</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1911"/>
+<occupation>Handlungskommissar</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1891" to="1911">Anstalt: 1891-1911</p>
+<p from="1891" to="1911">Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>[Epilepsie] (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote scope="sole"/>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Krankheit nimmt ab, Doktor brav, Essen schmeckt, bittet um Besuch und Abholung, möchte sie noch einmal mit Beischlaf erfreuen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1480g14a.jpg" xml:id="image_033"/>
+<graphic mimeType="image/jpg" url="kfb1480g14b.jpg" xml:id="image_034"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_033"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee 1. Mai 1905.</hi></hi></dateline>
+<salute><hi rendition="#c">Liebe Ehegattin!</hi></salute>
+</opener>
+<p>
+<space/>Es freut mich heute sehr Dich<lb break="yes"/>mit
+				    einigen Zeilen wieder zu erfreuen<lb break="yes"/><seg ana="#inst">meine Krankheit
+                    nim̄t jetzt ab, der<lb break="yes"/>Herr Assistenzarzt gibt mir doch nach
+                        und<lb break="yes"/>nach wieder Auskunft der Doktor ist ein<lb break="yes"/>braver Mann ich machh demselben meine<lb break="yes"/>höfliche Danksagung
+                    dafür; es schmeckt mir<lb break="yes"/>wieder mein Essen</seg>, <seg ana="#pol">liebe Christianee wied<lb break="yes"/>haben immer noch mit den Russen,
+                        sowie<lb break="yes"/>mit dem Ingener vieles zu erwarten,<lb break="yes"/>es
+                        muß noch etwas kommen</seg>, es würde<lb break="yes"/>mich einmal freuen, wenn
+                Du mich besuchen<lb break="yes"/>thätest die Reise ist ein ganz kleines<lb break="yes"/>Unternehmen, liebe Frau sei daher so gut<lb break="yes"/>und mache
+                mit dem Herrn Stadtmagistrat<lb break="yes"/>ein Besprechen, er kann mich dann
+                    wieder<lb break="yes"/>nach Hause abholen, es soll anders werden,<lb break="yes"/>ich bin dann wieder zufrieden, sonst weiß <pb facs="#image_034"/>ich nichts Neues
+                zu beurtheilen, ich erlaube<lb break="yes"/>mir noch deiner lieben Mutter viele<lb break="yes"/>Grüße zu berichten, der Herr Doktor<lb break="yes"/>sowie der Herr
+                Oberzarzt, sowie der herr<lb break="yes"/>der Herr Direktor und der herr
+                    Oberpfleger<lb break="yes"/>und die ganze Gesellschaft lassen dich<lb break="yes"/>alle besten grüßen; sowie auch die herrn<lb break="yes"/><add>Christen</add>; <seg ana="#salute">Ich schließe jetzt mein Schreiben
+                        und<lb break="yes"/>erwarte von dir noch baldigst Nachricht</seg><lb break="yes"/>liebe Ehegattin ich möchte dich noch mit<lb break="yes"/>einem
+				    Beischlaf erfreuen, einmal muß<lb break="yes"/>der <unclear>Rad</unclear> noch
+                anders werden; liebe Christine<lb break="yes"/>die Witterung ist
+                    <unclear>imer</unclear> noch eine harte<lb break="yes"/>Temperatur; es kommt
+                wieder noch der<lb break="yes"/>der Sommer wo man auch wieder einige<lb break="yes"/>Kuschen erwarten darf; <seg ana="#salute">indem ich dir hiermit<lb break="yes"/>meine Danksagung dafür sage, verbleibe<lb break="yes"/>ich unter aufrichtigen
+                    Grüßen</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">dein treuer
+                            Ehegattin<lb break="yes"/><hi rendition="#i">Karl
+                                <surname>G.</surname></hi></seg>!</hi><lb break="yes"/><hi rendition="#r">Deine Mutter, sowie der Herrn Bürger<lb break="no"/>meister und wie
+                    dich lassen <add>dich</add> grüßen!</hi></p>
+</body>
+</text>
+</TEI>

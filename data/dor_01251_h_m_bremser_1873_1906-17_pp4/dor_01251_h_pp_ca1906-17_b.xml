@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor1251h03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>1251 (K. 80)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ferdinand <surname>H.</surname></persName>
+<date type="sent">ca1906-17</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor1251h">
+<persName>
+<forename>Ferdinand</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1873-04-21"/>
+<death when="1917-06-30"/>
+<occupation>Bremser</occupation>
+<residence><geo decls="#WGS">51.4370171 7.335124</geo>Geburtsort: St. Michaelisdonn; Wohnort: Witten</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: V: Nachtwächter, M: ohne</p>
+<p from="1906-12-31" to="1917-06-30">Anstalt: 31.12.1906-30.06.1917</p>
+<p from="1906-12-31" to="1917-06-30">Brieftypen: pp</p>
+</state>
+<trait><p>Geisteskrank (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet darum, abgeholt zu werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor1251h03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="dor1251h03b.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="dor1251h03c.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="dor1251h03d.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline/>
+<salute>Gute süse Frau</salute>
+</opener>
+<p><add hand="arzt" place="top"><hi rendition="#u"><hi rendition="#i"><surname>H.</surname></hi></hi></add></p>
+<p>hohle<lb break="yes"/>mich doch nach Hause<lb break="yes"/>ich kann es nicht mer<lb break="yes"/><w>aus halten</w> hier es komt<lb break="yes"/><w>so</w><w>fiel</w>
+                vor hier du <unclear>durft</unclear><lb break="yes"/>Sterker werden wie ich<lb break="yes"/>du darf kein Angst gemaht<lb break="yes"/>kriegen du must stets und<lb break="yes"/>stendig Hergot weden<lb break="yes"/><unclear>Du</unclear> kanst jar den Tot<lb break="yes"/>noch
+                mahl <del>erh</del> leiden<lb break="yes"/>dich Schlangen wen du Schleht<lb break="yes"/>diese leute wo das <pb facs="#image_007"/>God was glenst heist<lb break="yes"/>kann dich den Tod<lb break="yes"/>die große Schlange<lb break="yes"/>der Weld so gar<lb break="yes"/>zu. Asche und men<lb break="yes"/>Kinder solen den Tod<lb break="yes"/>gle Vier Kinder er eden<lb break="yes"/>im
+                meiner zu Asche<lb break="yes"/>Da <w>Wer den</w> sie<lb break="yes"/>Ferdinad <pb facs="#image_008"/><unclear>du darf</unclear> dich nich<lb break="yes"/>fürhten
+                du mich so<lb break="yes"/>Seit logelassen<lb break="yes"/>Wer den das du<lb break="yes"/>dich <w>auf recht</w><lb break="yes"/>und die Kinder<lb break="yes"/>leisten wie ich
+                    <unclear>hins</unclear><lb break="yes"/>und huren <w>da</w><w>die</w> ver<lb break="yes"/><unclear>d</unclear>ie Stank <pb facs="#image_009"/>Richte dich nicht<lb break="yes"/>11 Zehn Tage muß<lb break="yes"/>es Zu Hause
+                Geh<lb break="yes"/>oder noch heute<lb break="yes"/>ich v. Leide den<lb break="yes"/>Tod da<lb break="yes"/>du kanst mich sen<lb break="yes"/>sobald i
+                gut bist<lb break="yes"/><seg ana="#signed">dein Innigst geliebter man<lb break="yes"/><unclear>sicher</unclear> Ferdinand</seg>
+</p>
+</body>
+</text>
+</TEI>

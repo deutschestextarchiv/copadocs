@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1365s21" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Lydia Aldridge</name>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1365</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>S.</surname></persName>
+<date type="sent">31.10.1899-1919</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1365s">
+<persName>
+<forename>Anna</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1856"/>
+<death cert="unknown"/>
+<occupation>Armenhäuslerin</occupation>
+<residence><geo decls="#WGS">48.4327435 10.3711492</geo>Großanhausen, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Zimmermann</p>
+<p from="1899" to="1919">Anstalt: 1899-1919</p>
+<p from="1899" to="1919">Brieftypen: po,pp</p>
+</state>
+<trait><p>Schwachsinn, Paranoia (1899-1919)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beschwert sich darüber, von ihrer Gemeinde zu Unrecht in die Anstalt verbracht worden zu sein
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1365s21a.jpg" xml:id="image_044"/>
+<graphic mimeType="image/jpg" url="kfb1365s21b.jpg" xml:id="image_045"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_044"/>
+<opener>
+<dateline><hi rendition="#r">Faufbeuren d 31 Okt</hi></dateline>
+<salute/>
+</opener>
+<p>Ich bin genöhtig meine<lb break="yes"/>Beschwertedarzubrüngen das<lb break="yes"/>Noh nimals eine So ungereht<lb break="no"/>ikeit gehört wurde <hi rendition="#u">das die </hi><lb break="yes"/><hi rendition="#u">kantze
+                    Gemeinde Schimpft </hi><lb break="yes"/><hi rendition="#u"><seg ana="#curse">Gemeind fressel</seg>
+</hi><seg ana="#curse"><hi rendition="#u">gemeind Hur</hi></seg><hi rendition="#u"> </hi><lb break="yes"/><seg ana="#curse"><hi rendition="#u" style="arzt">Meineidige Hur</hi></seg><hi rendition="#u"> Steine u
+                    Stanngen</hi><lb break="yes"/>Naht vorigs Jahr in Armenhaus<lb break="yes"/>hingeschlagen haben
+                u ihn schon<lb break="yes"/>Löher in Kopf Schlagen haben u<lb break="yes"/>Nimals
+                komt niht raus weil<lb break="yes"/>Die kantze Gemeinde zusamen<lb break="yes"/>Hülft die Gendarmeri sagt Selbst<lb break="yes"/>Alles hülft zusamen u ich wär<lb break="yes"/>kein Wunder man thät was<lb break="yes"/>Sagen. Da haben mih
+                in<lb break="yes"/>Irenanstalt thun auf 3 virtel<lb break="yes"/>jahr aber bei
+                keinen kranken<lb break="yes"/>kan man Zeit bestimen <pb facs="#image_045"/>Bloß
+                bin ich zur Gefängniß<lb break="yes"/>Straf da, u wie lang als<lb break="yes"/>Das
+                ist das uns alles anthun<lb break="yes"/>Darfen ob jetzt das Gesetzt ist<lb break="yes"/>Das in der Gemeinde Schimpfen<lb break="yes"/>u zuschlagen wie
+                wollen<lb break="yes"/>u der BezürksAmtman hülft<lb break="yes"/>Der Gemeinde u
+                sogt weil ich<lb break="yes"/>mih beschwert hab in d Regirung<lb break="yes"/>u
+                Mimistörium deßhalb haben<lb break="yes"/>Mich daher gethan, bloß hab ich<lb break="yes"/><del>Eine</del> Nerfenleiden u Körpperliches<lb break="yes"/>leiden aber den vollen verstand<lb break="yes"/>Unterstützung must fort zahlt<lb break="yes"/>Werden der Bürgermeister Sagt<lb break="yes"/>fortzahlen Sie nihts
+                da bin ich u<lb break="yes"/>Die kantze Famiele leben niht<lb break="yes"/>Sicher.
+                jedes SchulKind Schreit im<lb break="yes"/>Anhausen bist in Narenhaus<lb break="yes"/>Gewessen <seg ana="#curse">Naretete Hur</seg> u machen<lb break="yes"/>imer fort. Eltern lernnen Kinder<lb break="yes"/>An ich bitte das
+                Abstelt wird </p>
+</body>
+</text>
+</TEI>

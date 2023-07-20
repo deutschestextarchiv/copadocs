@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb529h25" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>529</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Gustav <surname>H.</surname></persName>
+<date type="sent">ca1851-61</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb529h">
+<persName>
+<forename>Gustav</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1809"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="1851" to="1861">Anstalt: 1851-61</p>
+<p from="1851" to="1861">Brieftypen: pp, po</p>
+</state>
+<trait><p>Fixe Ideen (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Gruß an die ganze Familie; Frau soll selbst entscheiden, wie sie handeln will
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb529h25a.jpg" xml:id="image_080"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_080"/>
+<opener>
+<dateline><add style="arzt"><hi rendition="#u"><unclear>N.</unclear> 4. <hi rendition="#r">am Tage seiner Abreise im Gebirg geschrieben</hi></hi></add></dateline>
+<salute/>
+</opener><p><space/> Einen schönen Gruß an Alle, und es sollen<lb break="yes"/><del>s</del>Sämtliche auf dem
+                betretenen Wege fortwandeln.<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Gustav</hi>.</seg></hi></p>
+<p><hi rendition="#i">August</hi> soll nie vergessen was ich ihm dieser Tage<lb break="yes"/>öfter wiederholt &amp; was er mir versprochen. Ihm<lb break="yes"/>&amp; der l. <hi rendition="#i">Anna</hi> &amp;. einen herzl. Kuß. Ich erwarte<lb break="yes"/>also dß <hi rendition="#i">Auguste</hi> bey Ihrem Vater bleibt! wie
+                er<lb break="yes"/>den Willen selbst <w>aus gesprochen</w>, ich zwinge sie
+                    weder<lb break="yes"/><w>da zu</w> bleiben, noch zu hr <hi rendition="#i"><surname>H.</surname></hi> zu gehe noch<lb break="yes"/>in die
+                Mühle, sie kann ganz Handeln nach ihrem<lb break="yes"/>Ermessen. <space/> Sie weiß am
+                Besten was sich ihr geziemt. </p>
+</body>
+</text>
+</TEI>

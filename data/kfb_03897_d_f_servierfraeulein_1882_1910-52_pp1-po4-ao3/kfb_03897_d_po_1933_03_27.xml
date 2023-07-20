@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3897d08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3897</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Adelinde <surname>D.</surname></persName>
+<date type="sent">27.03.1933</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: <!--Vorname--> <surname>F.</surname></persName>
+<settlement type="sent">Memmingen</settlement>
+<settlement type="received">Kaufbeuren</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb3897d">
+<persName>
+<forename>Adelinde</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1882"/>
+<death when="1952"/>
+<occupation>Servierfräulein</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: geschieden</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1910" to="1952">Anstalt: 1910-1952</p>
+<p from="1910" to="1952">Brieftypen: ao, pp, po</p>
+</state>
+<trait><p>Cerebralsklerose bei manisch-depressivem Irresein, zirkuläre Psychose, agitative Depression (1952)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um finanzielle Unterstützung, da ihr Mann in Schutzhaft ist
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3897d08.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#i"><unclear>Personal</unclear></hi></add>
+<hi rendition="#r"><hi rendition="#i">Memmingen den </hi>27. <hi rendition="#i">März</hi> 1933.</hi><lb break="yes"/><add hand="arzt"><hi rendition="#i">Stadtrat Mem̄ingen</hi><lb break="yes"/><unclear><hi rendition="#i">reits </hi></unclear><hi rendition="#i">wurde bessere Unterstützung zugesagt!</hi></add>
+</dateline>
+<salute><hi rendition="#r"><hi rendition="#i">Sehr geehrter Herr Direktor
+                            Faltlhauser</hi>!</hi></salute>
+</opener>
+<p><space/> Mein Mann schrieb Ihnen vor bereits<lb break="yes"/>14 Tg., daß Er in
+                Schutzhaft gekom̄en sei, u. bat Sie,<lb break="yes"/>Sie möchten die Güte
+                haben u. an den hiesigen<lb break="yes"/>Stadtrat einen diesbezüglichen Bericht
+                senden, daß<lb break="yes"/>ich wenigstens so unterstützt werde, daß ich in<lb break="yes"/>keine Schulden hinein kom̄e. Ich kann <del>S</del>sparen,
+                    aber<lb break="yes"/>mit 7 <hi rendition="#i">M</hi>. die mir bewilligt wurden,
+                wöchentlich zu<lb break="yes"/>dritt leben u. davon Nahrungsmittel, Heizung,<lb break="yes"/>Licht u. Kleidung anschaffen, dieses Kunststück bringe<lb break="yes"/>ich nicht fertig. Ich habe dem Stadtrat schon geschrieben,<lb break="yes"/>daß es doch billiger kom̄e mich vor so großer Not zu
+                    schützen,<lb break="yes"/>denn wen̄ ich wieder krank würde, käme es
+                    der<lb break="yes"/>Armentstützung bedeutend teurer.</p><p>Bitte Sie, sehr geehrter Herr Obermedizinalrat!<lb break="yes"/>mich in dieser Sache zu
+                unterstützen.</p><p><hi rendition="#r"><seg ana="#salute">Hochachtungsvollst</seg><lb break="yes"/><seg ana="#signed">Ihre erg.<lb break="yes"/><hi rendition="#i">Adelinde </hi><surname><hi rendition="#i">D.</hi></surname>.</seg></hi></p>
+</body>
+</text>
+</TEI>

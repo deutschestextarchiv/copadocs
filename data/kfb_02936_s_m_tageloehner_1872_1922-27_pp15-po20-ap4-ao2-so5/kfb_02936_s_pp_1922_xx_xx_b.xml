@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2936s37" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Urban <surname>S.</surname></persName>
+<date type="sent">xx.xx.1922</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freund: Johann <surname>M.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2936s">
+<persName>
+<forename>Urban</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1872"/>
+<death when="1927"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Lentin, Ingolstadt</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Schneider</p>
+<p from="1922" to="1927">Anstalt: 1922-27</p>
+<p from="1922" to="1927">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>erregb. Psychopathie, Hypomanie, Beeinträchtigungs- und Verfolgungswahn (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erinnert den Freund, dass er diesen niemals bestohlen habe.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2936s37a.jpg" xml:id="image_153"/>
+<graphic mimeType="image/jpg" url="kfb2936s37b.jpg" xml:id="image_154"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_153"/>
+<opener>
+<dateline><hi rendition="#r">H und Pflegeanstalt Kaufbeuern<lb break="yes"/>Datum Poststempel 1922.</hi></dateline>
+<salute><hi rendition="#c">Bester Freund!</hi></salute>
+</opener>
+<p>An Wohlgeb. H. Johan̄ <surname>M.</surname><lb break="yes"/>Bahnstationsvorstand<lb break="yes"/>in Althegnenberg<lb break="yes"/>Bahnlinie Augsburg =<lb break="yes"/>München. − −</p><p><add place="margin">Adresse. Urban <surname>S.</surname> Heil und Pflegeanstalt<lb break="yes"/>Kaufbeuern ....</add></p><p><add place="margin">Rückantwort unfrankier<lb break="yes"/><hi rendition="#u">schicken</hi></add></p><p>Ich Unterzeichneter glaube, das<lb break="yes"/>du nach vielen Jahren nicht<lb break="yes"/>viel an denken kan̄st <del>d</del>aber das<lb break="yes"/>deine
+                Vergessenheit nicht so<del>fort</del>
+<add place="above"><unclear>weck</unclear></add><lb break="yes"/>vorgessen ist. Das Du nicht<lb break="yes"/>mehr weißt wie, ich
+                mich<lb break="yes"/>während der Zeit. Wo du, beim <pb facs="#image_154"/> 13. R.
+                11. Komppagnie Kam̄er<lb break="yes"/>unteroffezier, warst. Und bei<lb break="yes"/>als oftmaliger Civilschneider<lb break="yes"/>als <hi rendition="#u" style="crayon">Dieb</hi> bei Dir, <hi rendition="#u">benom̄en </hi><lb break="yes"/><hi rendition="#u" style="crayon">habe</hi>. Mein <add place="above">lb</add> Hans würdest<lb break="yes"/>Du
+                wissen, was seit der<lb break="yes"/>Zeit wo ich Ingolstadt <hi rendition="#u">wo</hi><del><unclear>bei</unclear></del><lb break="yes"/>Alt u. Jung, reich und <add place="above">arm</add>
+<hi rendition="#u">beliebt </hi><lb break="yes"/><hi rendition="#u">war</hi>,
+                alles ausgestanden<lb break="yes"/>und noch hinter Schloß und<lb break="yes"/>Riegel auszustehen habe.<lb break="yes"/>Würdest doch sagen, das hat er<lb break="yes"/>doch nicht verdient. O kon̄te ich<lb break="yes"/>ein
+                Stündchen <add place="above">bei dir</add> sein. Was <del>g</del>begegnet<lb break="yes"/>mir blos, seit dem Tode meiner<lb break="yes"/>Frau. Ich bitte
+                Dich, gebe Antwort<lb break="yes"/>War ich bei dir ein <hi rendition="#u" style="crayon">Dieb</hi>?<lb break="yes"/>Oder hast jemals, von unsere<lb break="yes"/>guten Freund Hans <surname>T.</surname><lb break="yes"/>13./17. <hi rendition="#u" style="crayon">Solch</hi> was <hi rendition="#u" style="crayon">gehört</hi> das ich ihm<lb break="yes"/>veruntreut habe.? <seg ana="#salute">Achtungsvollst</seg><lb break="yes"/><seg ana="#signed">mit dein Freund Urban
+                    <surname>S.</surname>.</seg></p>
+</body>
+</text>
+</TEI>

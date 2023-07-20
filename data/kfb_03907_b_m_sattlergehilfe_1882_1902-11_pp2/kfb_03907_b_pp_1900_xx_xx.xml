@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3907b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3907</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Benedikt <surname>B.</surname></persName>
+<date type="sent">xx.xx.1900</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Familie: <surname>H.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3907b">
+<persName>
+<forename>Benedikt</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1882"/>
+<death cert="unknown"/>
+<occupation>Sattlergehilfe</occupation>
+<residence><geo decls="#WGS">47.9455572 10.2388429</geo>Lachen, Memmingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Sattler</p>
+<p from="1902" to="1911">Anstalt: 1902-11</p>
+<p from="1902" to="1911">Brieftypen: pp</p>
+</state>
+<trait><p>Dementia praecox (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    wenn sie wissen wollen, wie es ihm geht, müssen sie zu Besuch kommen;
+                    alle Briefe wandern in den Papierkorb des Direktors; will gerettet werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3907b01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Datum des Poststempels 1900</hi></dateline>
+<salute>Familie <surname>H.</surname>!</salute>
+</opener>
+<p>Ihr fragt per Briefe nach um von mir etwas zu hören. Ja wen̄<lb break="yes"/>Ihr dies wollt dan müst Ihr halt zu mir kom̄en. Wie es mir<lb break="yes"/>geht hab ich Euch schon vorher gesagt wie ich von <hi rendition="#i">Kaufbeuren</hi>
+                    ........<lb break="yes"/>Ich leide kopfweh Solange ich noch bin <hi rendition="#i">in Kaufbeuren</hi><lb break="yes"/>Das ist ein das ist ein daß ist ein <seg ana="#inst">das ist eine<lb break="yes"/>Menschenquälerei-Maschine</seg>. <seg ana="#inst">Das ist
+                    ein Zuchthaus</seg><lb break="yes"/>Daß ich von Menschen als Narr erklärt bin weiß ich wohl<lb break="yes"/>Glaube es aber auch selber. ........... .... . . . . .<lb break="yes"/>So stehn die Atien habn thu ich nichts und wer für mich<lb break="yes"/>Zahlt habe ich keine Ahnung ich denke halt Laachen. ... −<lb break="yes"/>Überhaupt Pfeife ich auf die ganze schreiberei nauf<lb break="yes"/>Ihr wie ich auch selber hat ja doch nichts davon - -<lb break="yes"/>Den Verkehr mit meinen Verwandten unterdrückt meine<lb break="yes"/>Armut. <seg ana="#cens">So wandert also jeder Brief in des
+                    Hundsgemeinen<lb break="yes"/>Direktors Papirkorb.</seg> Wen̄ man mich
+                mein Lebtag ins<lb break="yes"/>Narrenhaus sperrt <del>kan̄ ich </del> habe
+                ich doch kein Wert mehr.<lb break="yes"/>Also werde ich auch demgemäß behandellt.
+                Wen̄ Ihr<lb break="yes"/>noch liebe zu mir habt dan̄ rettet ihr mich
+                halt.</p>
+<p>Mit Gruß und Dank im Voraus<lb break="yes"/><hi rendition="#r">Benedikt <surname>B.</surname>.</hi></p>
+<p><add>Adrss.<lb break="yes"/><del>Famli</del><lb break="yes"/>Familie <surname>H.</surname><lb break="yes"/>beim Kempter Thor 27 1/6<lb break="yes"/><hi rendition="#i">in Memmingen</hi>.</add>
+</p><p><add place="top">gratis u franko.</add></p>
+</body>
+</text>
+</TEI>

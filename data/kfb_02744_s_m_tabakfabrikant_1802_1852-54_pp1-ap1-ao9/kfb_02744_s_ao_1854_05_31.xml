@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2744s09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2744</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sohn: Hermann <surname>S.</surname></persName>
+<date type="sent">31.05.1854</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Erlangen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2744s">
+<persName>
+<forename>Johann Christoph</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1802"/>
+<death cert="unknown"/>
+<occupation>Tabakfabrikant</occupation>
+<residence><geo decls="#WGS">49.5928616 11.0056</geo>Erlangen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1852" to="1854">Anstalt: 1852-54</p>
+<p from="1852" to="1854">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>"psychische Störung"(1852)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="sohn"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Möchte seinen Vater besuchen und fragt den Direktor um dessen Einschätzung. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2744s09.jpg" xml:id="image_022"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">hochverehrter Herr <hi rendition="#i">Director</hi>.</hi></salute>
+</opener>
+<p>Da ich dieser Tage eine Geschäftsreise<lb break="yes"/>nach <hi rendition="#i">München</hi> unternehmen muß,<lb break="yes"/>so möchte ich bei dieser
+                    Gelegenheit<lb break="yes"/>meinen <hi rendition="#i">Papa</hi> besuchen. −</p><p>Haben Sie die Güte, mir mit <hi rendition="#i">W</hi>en<lb break="no"/>dung der Post mitzutheilen,
+                ob<lb break="yes"/>Sie dieß für rathsam halten,<lb break="yes"/>oder ob der
+                Zustand meines<lb break="yes"/><hi rendition="#i">Papas</hi> derartig ist, daß ihn<lb break="yes"/>sein Sohn nicht sehen darf. </p><p>Es bedarf nur weniger <hi rendition="#i">W</hi>orte,<lb break="yes"/>und ich gebe mich der
+                angenehmen<lb break="yes"/>Hoffnung hin, daß Sie mich mit<lb break="yes"/>einer
+                raschen Antwort beehren<lb break="yes"/>werden. </p><p><seg ana="#salute"><space/> Hochachtungsvoll<lb break="yes"/><hi rendition="#r">Jhr ergebener </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#u"><hi rendition="#i">Hermann</hi>
+<surname><hi rendition="#i">S.</hi></surname></hi></seg></hi></p><p><hi rendition="#i">Erlgen</hi> den 31 <hi rendition="#i">Mai</hi><lb break="yes"/><space/> 1854.</p>
+</body>
+</text>
+</TEI>

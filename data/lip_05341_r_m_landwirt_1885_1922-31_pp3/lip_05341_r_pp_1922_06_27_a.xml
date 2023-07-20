@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip5341r01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>5341 (K. n.a.)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Martin <surname>R.</surname></persName>
+<date type="sent">27.06.1922</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Westenholz</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip5341r">
+<persName>
+<forename>Martin</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1885-05-05"/>
+<death cert="unknown"/>
+<occupation>Landwirt</occupation>
+<residence><geo decls="#WGS">51.8159611 8.4895218</geo>Geburtsort: Westenholz; Wohnort: Westerwiehe</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1922-06-06" to="1922-08-22">Anstalt: 06.06.1922-08.06.1922; 28.06.1922-22.08.1922</p>
+<p from="1922-06-06" to="1922-08-22">Brieftypen: pp</p>
+</state>
+<trait><p>manische Depression (1922)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er schreibt, dass er seine Familie bedauert und heute in die Nervenheilanstalt kommt, wegen einer Krankheit, die er bisher unterdrückte.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip5341r01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Westenhol</hi>z den 27. Juni 22</hi></dateline>
+<salute><hi rendition="#c">Lieber Schwager!</hi></salute>
+</opener>
+<p>Kurze Hand! teile mit daß unser<lb break="yes"/>Haus jetzt am Boden liegt. es ist
+                nicht<lb break="yes"/><w>aus gefallen</w> wie es sollte man weis<lb break="yes"/>sich nicht zu helfen unsere Möbeln sind<lb break="yes"/>in der Werkstatt <w>unter
+                    gebracht</w>. Mutter<lb break="yes"/>ist besser. Gib unsern rat. ich bin
+                    Nerven<lb break="no"/>krank und fahre heute in Die heilan<lb break="no"/>stallt
+                Eickeborn am besten kömmst<lb break="yes"/>Du herüber. <hi rendition="#i"><seg ana="#signed">Martin</seg></hi><lb break="yes"/><hi rendition="#r">unsere kl Kinder<lb break="yes"/>liegen jetzt im
+                    Dreck herum daß<lb break="yes"/>mich sehr leidt tuht.</hi><lb break="yes"/>Greta und die lb. armen Eltern thuen<lb break="yes"/><space/> mir
+                sehr leid. <hi rendition="#i"><seg ana="#signed">Martin</seg></hi>.<lb break="yes"/><lb break="yes"/><add place="margin">Diese Krankheit hatte ich schon im Herbst
+                    wo ich bei<lb break="yes"/>Euch war. nur hatte ich die bis vor kurzem unter
+                        <hi rendition="#r"><lb break="yes"/>drückt.</hi></add>
+</p>
+</body>
+</text>
+</TEI>

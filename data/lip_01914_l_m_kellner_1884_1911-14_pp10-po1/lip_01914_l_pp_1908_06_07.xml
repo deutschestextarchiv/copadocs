@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip1914l06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>1914 (K. 210)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Gustav <surname>L.</surname></persName>
+<date type="sent">07.06.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern und Geschwister</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip1914l">
+<persName>
+<forename>Gustav</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1884-06-28"/>
+<death cert="unknown"/>
+<occupation>Kellner</occupation>
+<residence><geo decls="#WGS">51.5142273 7.4652789</geo>Geburtsort: Bielefeld; Wohnort: Dortmund</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1911-10-03" to="1914-01-28">Anstalt: 03.10.1911-28.01.1914</p>
+<p from="1911-10-03" to="1914-01-28">Brieftypen: pp, po</p>
+</state>
+<trait><p>Degeneriert, geistig minderwertig (1910)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Dank für Paket, Zweifel an eigener Weltanschauung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip1914l06a.jpg" xml:id="image_030"/>
+<graphic mimeType="image/jpg" url="lip1914l06b.jpg" xml:id="image_031"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_030"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#i"><hi rendition="#c">Liebe Eltern u. Geschw!</hi></hi></salute>
+</opener>
+<p><add hand="unbekannt"><hi rendition="#i"><surname>L.</surname></hi><lb break="yes"/>7.6.08.</add></p>
+<p><hi rendition="#r"><hi rendition="#i">Lengerich</hi>.</hi></p>
+<p><hi rendition="#i">Für das Paket herzl. Dank.<lb break="yes"/>Momentan unterliege ich<lb break="yes"/>einer heftigen Gemüts-De<lb break="no"/>pression u. da
+                    dringt es mich.<lb break="yes"/>Euch, um Erleichterung<lb break="yes"/>zu
+                    erhalten, zu schreiben.<lb break="yes"/>Wie mir zu mute ist,<lb break="yes"/>spottet jeder Beschreibung,<lb break="yes"/>in mir ist alles Gift u. Galle<lb break="yes"/>u. wenn. Was will man<lb break="yes"/>von mir? Bin ich an
+                        mei<lb break="no"/>nem Elend <del>schil</del> schuld? Alles<lb break="yes"/>von mir ist Meine sämtlichen<lb break="yes"/>Ausichten, meine Weltanschau<lb break="no"/>ung, mein ist falsch, ver<lb break="no"/>wirrt. Wozu wird Was
+                    habe<lb break="yes"/>ich der Welt getan? Ist es mei<lb break="no"/>ne Schuld,
+                    das ich hier bin?<lb break="yes"/>Weshalb ließ man mich in<lb break="yes"/>Herford u. Münster nicht in<lb break="yes"/>Ruhe? Öfter hat man
+                versucht</hi></p>
+<pb facs="#image_031"/>
+<p><hi rendition="#i">Öfter hat man versucht, mich<lb break="yes"/>zu vergiften, alle
+                    Menschen<lb break="yes"/>gegen mich aufgewigelt,<lb break="yes"/>Und meine
+                    Überzeugung,<lb break="yes"/>Warum bestraft man<lb break="yes"/>solche
+                    Menschen nicht?<lb break="yes"/>Mein Geld, etwa 2 Mk<lb break="yes"/>will man
+                    auch nicht<lb break="yes"/>schicken. All anderen<lb break="yes"/>haben es
+                    erhalten,<lb break="yes"/>warum ich nicht???<lb break="yes"/>Das hat nur der
+                        Direck<lb break="no"/>tor der Anstalt in<lb break="yes"/><space/>Münster
+                        veran<lb break="no"/>laßt um mich<lb break="yes"/><unclear>rächsten</unclear>, mehr.<lb break="yes"/><hi rendition="#c">Gruß u. Kuß</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u">Gustav</hi></hi></hi></p>
+</body>
+</text>
+</TEI>

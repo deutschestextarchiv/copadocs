@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1354w18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1354</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>W.</surname></persName>
+<date type="sent">ca1914-16</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern, Bruder: Martin, Matthäus <surname>W.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1354w">
+<persName>
+<forename>Johann</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1894"/>
+<death cert="unknown"/>
+<occupation>Former</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landwirt</p>
+<p from="1914" to="1916">Anstalt: 1914-16</p>
+<p from="1914" to="1916">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>insoziale Imbezillität, Stimmungsanomalie, Sinnestäuschungen (1915)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Adressen</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Postadressen seiner Eltern und seines Bruders
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1354w18.jpg" xml:id="image_056"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_056"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Adressen für meine Eltern: <hi rendition="#r">Herrn Martin
+                        <surname>W.</surname><lb break="yes"/>Ökonom Augsburg<lb break="yes"/><hi rendition="#i">X</hi>
+                    Yorkstraße 26.</hi><lb break="yes"/>〃 〃 n Bruder: <hi rendition="#r">Herrn Matthäus<lb break="yes"/><surname>K.</surname> zur Zeit<lb break="yes"/>Vereinslazeret<lb break="yes"/>Augsburg-Lechhausen<lb break="yes"/>(Schillerschule).</hi>
+</p>
+</body>
+</text>
+</TEI>

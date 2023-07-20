@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb844h20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>844</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Creszenz <surname>H.</surname></persName>
+<date type="sent">10.04.1893</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Sülwöst <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb844h">
+<persName>
+<forename>Creszenz</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1897"/>
+<occupation>Zieglerstochter</occupation>
+<residence><geo decls="#WGS">48.5945268 10.4875365</geo>Donaualtheim, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Zieglereibesitzer</p>
+<p from="1886" to="1897">Anstalt: 1886-1897</p>
+<p from="1886" to="1897">Brieftypen: pp, po</p>
+</state>
+<trait><p>Sekundäre Seelenstörung (hysterische Verrücktheit), Verfolgungs- und Beeinträchtigungsgedanken (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie erzählt, dass ihr nur schlechtes von ihrem Bruder erzählt wird und dass sie nach hause will.
+                    Sie wartet auf einen Besuch von ihm.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb844h20a.jpg" xml:id="image_069"/>
+<graphic mimeType="image/jpg" url="kfb844h20b.jpg" xml:id="image_070"/>
+<graphic mimeType="image/jpg" url="kfb844h20c.jpg" xml:id="image_071"/>
+<graphic mimeType="image/jpg" url="kfb844h20d.jpg" xml:id="image_072"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_069"/>
+<opener>
+<dateline><hi rendition="#r">Irsse d 10 April<lb break="yes"/>1893</hi></dateline>
+<salute><hi rendition="#c">Lieber Bruter</hi></salute>
+</opener>
+<p><add place="top">G. s. J. G.</add>
+</p>
+<p>Ich hab deinen Brief schon erhalten<lb break="yes"/>das du komst u mich besuchst<lb break="yes"/>u das es mir abgeholfen wird<lb break="yes"/>da kanst dir denken
+                dieses sehnen<lb break="yes"/>u warten u bist nicht kekomen<lb break="yes"/>ich
+                gib dir keine schult als die<lb break="yes"/>mich behalten u <w>mit einander</w><lb break="yes"/>noch nicht genuk gefoltert<lb break="yes"/>u gemartert haben u das<lb break="yes"/>Gelt abgenohmen u höre <pb facs="#image_070"/>nichts anderes
+                als du wilst mich<lb break="yes"/>nicht u holst mich nicht es ist eine<lb break="yes"/>schrekliche Pakadelmäßige<lb break="yes"/>ungerechtes benehmen in
+                dein<lb break="yes"/>hauß zu dir will ich freichlich<lb break="yes"/>nicht da hat
+                man dich u mich u<lb break="yes"/>deine Kinder genuk ungerecht<lb break="yes"/>parparisch gefoltert ich will<lb break="yes"/>mich nicht mehr ausdrüken u<lb break="yes"/>so fort wen ich in meine eigene<lb break="yes"/>heimath <add place="above">nicht</add> hinein darf den thust<lb break="yes"/>mich in eine
+                kleine Boschi<lb break="yes"/>weil man dich so parparisch<lb break="yes"/>schlecht
+                macht <pb facs="#image_071"/>das drukt mich nicht das dir das<lb break="yes"/>Gelt
+                zu fül ist man hol mich<lb break="yes"/>blos in meinem Stübchen lasen<lb break="yes"/>solen kome u holle mich das<lb break="yes"/>übriege wird sich dan
+                schon herr<lb break="no"/>ausstelen wehr recht hat das<lb break="yes"/>warten auf
+                dich hat keine<lb break="yes"/>gränzen häte <seg ana="#salute">grüße an dich<lb break="yes"/>u deine
+                Kinder u wehr einen<lb break="yes"/>wünscht u Empfil Euch in<lb break="yes"/>Gottes Gnade u Schutz </seg><lb break="yes"/>Deine Unklükliche
+                Schwester<lb break="yes"/><seg ana="#signed">Kreszentia
+                    <surname>H.</surname></seg><lb break="yes"/><hi rendition="#r">Feld Zieglerstochter</hi>
+</p>
+<pb facs="#image_072"/>
+<p>An<lb break="yes"/><hi rendition="#r">Sülwöst <surname>H.</surname> Folt</hi><lb break="yes"/><w>Ziegler Meister</w><lb break="yes"/><space/> in<lb break="yes"/><hi rendition="#c">Donaualtheim<lb break="yes"/>Post Dillingen</hi></p>
+</body>
+</text>
+</TEI>

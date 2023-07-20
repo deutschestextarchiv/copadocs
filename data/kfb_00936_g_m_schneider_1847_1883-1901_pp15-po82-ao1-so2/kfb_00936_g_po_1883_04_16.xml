@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb936g03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Pius <surname>G.</surname></persName>
+<date type="sent">16.04.1883</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Hofrat <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb936g">
+<persName>
+<forename>Pius</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1901"/>
+<occupation>Schneider</occupation>
+<residence><geo decls="#WGS">48.570171 10.590197622123007</geo>Kicklingen, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Söldner</p>
+<p from="1883" to="1901">Anstalt: 1883-1901</p>
+<p from="1883" to="1901">Brieftypen: pp, po</p>
+</state>
+<trait><p>Halluzinationen, Größenwahn, Verfolgungswahn (1883)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Bitte um Gnade und um rechtmäßiges Handeln anstelle von Gewalt, er und seine Familie wurden mit Gewalt getrennt, er leidet darunter.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb936g03a.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="kfb936g03b.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_026"/>
+<opener>
+<dateline><hi rendition="#r">Heihl u Pflege Anstalt 16ter 4/83</hi><lb break="yes"/></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Wohlgeboren</hi> herrn Hofrath hier!</hi><lb break="yes"/></salute>
+</opener>
+<p> Wie Sie aus meinem Schreiben ersehen haben,<lb break="yes"/>u. auch selbst sagten! die
+                einnen sprechen so die andern<lb break="yes"/>wieder nicht. So bitte ich Sie herr
+                    <w>Hof rath</w> sprechen<lb break="yes"/>Sie darüber
+                selbst. Wie Sie sehen handelt es Sich<lb break="yes"/>um eine mit Gewalt
+                zersprengte Fam̄ilie, entscheiden<lb break="yes"/>Sie zwischen Gewalt u.
+                Recht! Sie könen es am<lb break="yes"/>besten, geben Sie mir einen platz ob es in
+                    meinem<lb break="yes"/>Geschäft oder etwas anderes ist, ich thue alles was
+                    nur<lb break="yes"/>einem Man̄e möglich ist. Sie könen mich dan am
+                    besten<lb break="yes"/>beobachten, u. werden keine Schande erleben nein daß<lb break="yes"/>Gegentheil. durch <del>s</del> dieses kan ich <hi rendition="#u">meinen Feinden<lb break="yes"/>am besten <w>aus
+                        weichen</w>,</hi> dan̄ erst kan ich Sie voll u.<lb break="yes"/>ganz überzeugen von meiner vollständigen Unschuld,<lb break="yes"/>meine Frau u
+                Kinder werden es Ihnen; Ihrerer<lb break="yes"/><w>Lebens zeit</w> zu danken wissen. herr <w>Hof rath</w> retten<lb break="yes"/>Sie eine
+                Schiffbrüchige Familie vor Ihrem nahen<lb break="yes"/>Untergang! beherzigen Sie
+                mein schreiben lassen<lb break="yes"/>Sie Ihre Ehrwürdige weise Haare von
+                unschuldig<lb break="yes"/>verlassene Kinder segnen, Es wäre sodan noch nichts<lb break="yes"/>verloren ich bin noch jung u kräftig selbst meine Frau<lb break="yes"/>würde sich bald wieder <del>erhof</del> erhollen u. thun, <pb facs="#image_027"/> was in Ihren Kräften steht,  <seg ana="#salute">halten Sie mein<lb break="yes"/>schreiben nicht für kek oder frech es komt aus einem<lb break="yes"/>Ehrlich
+                    niedergetrükten <w>Vater
+                herzen</w></seg>.<lb break="yes"/><seg ana="#signed"> <hi rendition="#r">Ihr<lb break="yes"/>ergebenster <hi rendition="#i">P.<lb break="yes"/><surname>G.</surname></hi></hi></seg>
+</p>
+</body>
+</text>
+</TEI>

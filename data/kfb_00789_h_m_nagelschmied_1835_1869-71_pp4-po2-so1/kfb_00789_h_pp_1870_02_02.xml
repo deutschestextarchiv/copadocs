@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb789h05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>789</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>H.</surname></persName>
+<date type="sent">02.02.1870</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Brunder: n.a. <surname>Z.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb789h">
+<persName>
+<forename>Johann</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1835"/>
+<death cert="unknown"/>
+<occupation>Nagelschmied</occupation>
+<residence><geo decls="#WGS">47.486197 10.2845713</geo>Altstätten, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Siebmacher</p>
+<p from="1869" to="1871">Anstalt: 1869-71</p>
+<p from="1869" to="1871">Brieftypen: pp, po, Prophezeiung</p>
+</state>
+<trait><p>Religiöse Skrupel, Größenwahn, Verfolgungswahn (1869)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Bitte um Abholung aus der Anstalt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb789h05a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="kfb789h05b.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="kfb789h05c.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeiren ten 22 1870</hi></dateline>
+<salute><hi rendition="#c">Libster Bruder!</hi></salute>
+</opener>
+<p> Ich ersuche Sie das ich schon lange<lb break="yes"/>in Irsee bin und gaz gesund bin<lb break="yes"/>Du wirst schon einen Brif erhalten<lb break="yes"/>haben von
+                einem Guten Freind von<lb break="yes"/>mir wie es um mich steht ich<lb break="yes"/>bite dich darum daß Sie mich holen<lb break="yes"/>mechten wo ich gewiss unter
+                    die<lb break="yes"/>Menschliche Geschelschaft tauge<lb break="yes"/>Liber
+                Bruder ich bite dich noch<lb break="yes"/>Herzlich das Sie mich holen möchten<lb break="yes"/>so balt als möglich<lb break="yes"/></p>
+<p><hi rendition="#c"><seg ana="#cens">Disen Brif habe ich heimlich an<lb break="yes"/>eich Geschriben</seg></hi><pb facs="#image_018"/> kome <del>du</del>
+<del>s</del> Sie so balt als möglich das<lb break="yes"/>Sie mich gewiß holen den
+                Sie werden<lb break="yes"/>schon einen Brif von einem einem guten<lb break="yes"/>Freind haben das ich ganz Gesund bin<lb break="yes"/><space/>Sein Name ist Johann <surname>H.</surname><lb break="yes"/><hi rendition="#r"><seg ana="#salute">Deine dich Libente Schwester</seg></hi><lb break="yes"/><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Josepha <surname>Z.</surname></seg></hi><lb break="yes"/><lb break="yes"/><hi rendition="#r"><del>Jh</del> <seg ana="#signed">Johann <surname>H.</surname></seg></hi><pb facs="#image_019"/><hi rendition="#c">An<lb break="yes"/>Herrn
+                        <surname>Z.</surname><lb break="yes"/>Hamerschmit Maister<lb break="yes"/>in Holzginz<lb break="yes"/>bei Memingen</hi></p>
+</body>
+</text>
+</TEI>

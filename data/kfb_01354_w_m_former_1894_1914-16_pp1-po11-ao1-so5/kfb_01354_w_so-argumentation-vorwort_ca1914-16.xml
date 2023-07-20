@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1354w01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1354</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>W.</surname></persName>
+<date type="sent">ca1914-16</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1354w">
+<persName>
+<forename>Johann</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1894"/>
+<death cert="unknown"/>
+<occupation>Former</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landwirt</p>
+<p from="1914" to="1916">Anstalt: 1914-16</p>
+<p from="1914" to="1916">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>insoziale Imbezillität, Stimmungsanomalie, Sinnestäuschungen (1915)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Geschichte, Vorwort</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beginn eines Gedichts oder einer Geschichte.
+                    Wäre zuhause besser aufgehoben, da dort alles bekannt ist, es eine neue Chance auf Arbeit gibt und er Zither spielen kann, sofern es die Eltern erlauben.
+                    Abschrift/Niederschrift eines Vorworts aus einer Zither-Schule als Beweis für Erinnerungsvermögen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1354w01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1354w01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Ees war ein Kind das wollte nie zur Kirche<lb break="yes"/>sich bequenen ... den
+                Weg ins Feld zu nehmen ..<lb break="yes"/>die Glock dor<del>d</del>t am Stichle
+                hängt . .. .</p>
+<p>Der Grund, weshalt ich nach der Heimat seh, ist<lb break="yes"/>folgende<del>e</del>s: Es wäre mir mehr Gelegenheit ge<lb break="no"/>boten bei
+                    <add place="above">meinen</add> eigenen Eltern um <del>das</del> mein In<lb break="no"/>tresse <add place="above">allmählich</add> be<del>v</del>folgen zu
+                kön̄en. Betreff. 1. <del>s</del>Schüchternheit; da<lb break="yes"/>ich bei
+                meinen Eltern mich <add place="above">in</add> besser Verfassung fühle.<lb break="yes"/>II. <del>S</del>später mich in der Formerei überzeugen kann.<lb break="yes"/>III. schließlich durch die Zihter ein besseres Gemüt<del>.</del><lb break="yes"/>fassen kam̄. Sollte letzeres mein Eltern nicht leiten<lb break="yes"/>so müßt ich zu Hause Rücksicht nehmen, bis die<lb break="yes"/>bewilligung da ist. </p><p><hi rendition="#r">Volgegedes kan̄ ich
+                    noch merken:<lb break="yes"/>(Bitte siehe Wenden!)</hi></p>
+<pb facs="#image_002"/>
+<p><hi rendition="#r"><hi rendition="#u">Vorwort</hi> aus der Grünwald. </hi><lb break="yes"/><hi rendition="#c">schule "<hi rendition="#i">Meine
+                    Methode</hi>".</hi>
+</p><p>Die moderne Zitherspiekunst hat die Zither <add place="above">aus
+                    ihrer unscheinbaren E</add> im̄er mehr in<lb break="yes"/>die Reihe
+                derjenigen Musikinstrumente emporgehoben,<lb break="yes"/>die von der Musikwelt zu
+                einer hohen Kunst<lb break="no"/>ausübung auserwählt und erkan̄t sind. </p><p>Längst schon haten Tüchtige Männer mit gedienen<lb break="yes"/>können, die sich durch den Klangreitz der Zither<lb break="yes"/>angezogen
+                fühlten ihren musikalischen wehr an<lb break="no"/>erkant und sich um die wehrtvolle
+                ausgestaltung<lb break="yes"/>ihrer Literatu<del>g</del>r in kompositorischen und
+                    päta<lb break="no"/>gogischer Hinsicht verdient gemacht. </p><p>Hand
+                in Hand dami<del>g</del>t ging die vervollkom̄ung<lb break="yes"/>der Zitherbaues und
+                diese Vaktoren u. s. w.</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1269b25" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1269</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">23.03.1871</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Herr</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1269b">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1844"/>
+<death cert="unknown"/>
+<occupation>Buchhalter</occupation>
+<residence><geo decls="#WGS">48.4113545 10.2991562</geo>Klein-Kötz, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonom "sehr guten Vermögensverhältniß" 200 Tagwerk</p>
+<p from="1871" to="1890">Anstalt: 1871-1890</p>
+<p from="1871" to="1890">Brieftypen: pp, po</p>
+</state>
+<trait><p>Depression, Selbstüberschätzung (1871), Wahnideen, Verfolgungswahn (1889)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte als Freiwilliger in die preußische Armee eintreten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1269b25a1.jpg" xml:id="image_099"/>
+<graphic mimeType="image/jpg" url="kfb1269b25a2.jpg" xml:id="image_100"/>
+<graphic mimeType="image/jpg" url="kfb1269b25b.jpg" xml:id="image_101"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_099"/>
+<pb facs="#image_100"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Sehr geehrter Herr</hi></salute>
+</opener>
+<p><add hand="arzt">M. 23.3.71: &amp; br. m. <unclear>auftrittlich</unclear> zurück<lb break="yes"/>Anheimstellen sich bei der K. Militärbeh<unclear reason="damage">örde zu</unclear><lb break="yes"/>melden, da dieses Anliegen nicht, <unclear>Sonst</unclear><lb break="yes"/>Gesandtschaft ist. München.<lb break="yes"/><hi rendition="#r"><hi rendition="#u">H. Mes.</hi></hi></add></p>
+<p>
+<space/> Nachdem ich mir vergeblich Mühe<lb break="yes"/>gegeben habe eine Audienz
+                bei Ihnen zu<lb break="yes"/>erhalten, so erlauben Sie mir mich schriftlich<lb break="yes"/>an Sie zu wenden. Ich wünsche als <hi rendition="#u" style="arzt">Freiwillige<unclear>r</unclear></hi><lb break="yes"/>in die <hi rendition="#u" style="arzt">preuß. Armee
+                    einzutreten</hi>, allein von Seite<lb break="yes"/>meiner Familie <hi rendition="#i">resp</hi>. meiner Geschwisterten <unclear>werden</unclear><lb break="yes"/>meinem Vorhaben unübersteigliche Hinder<unclear reason="damage">nisse</unclear><lb break="yes"/>entgegengesetzt, dasselbe sagen als <hi rendition="#u" style="arzt">wahnsinnig<unclear reason="damage">e</unclear></hi><lb break="yes"/><hi rendition="#u" style="arzt">Idee</hi> aufgenom̄en u.
+                mir deßhalb nicht nur m<unclear reason="damage">ein</unclear><lb break="yes"/>Vermögen nicht ausgefolgt, ja mir nicht einmal<lb break="yes"/>so
+                viel daran zur Verfügung gegeben, um meinen<lb break="yes"/>Eintritt wirklich
+                bethätigen zu können. Meinen<lb break="yes"/>Aufenthalt dahier bestreite ich von
+                einem kleinen<lb break="yes"/>Vorschuß, den ich von einem Verwandten er<lb break="no"/>hielt, nur zu dem Zwecke, um mich bezüglich meiner <pb facs="#image_101"/>Aufnahme als Freiwilliger bei Ihnen<lb break="yes"/>erkundigen zu können. Wollten Sie<lb break="yes"/>deßhalb die Güte haben, mir
+                gütigst eine<lb break="yes"/>Zeit zu bestim̄en, zu welcher ich die Ehre
+                haben<lb break="yes"/>könnte, Sie in meinem Anliegen zu sprechen,<lb break="yes"/>so würden Sie mich dadurch sehr verbinden.<lb break="yes"/><hi rendition="#c">Mit
+                    gebührender Hochachtung!<lb break="yes"/><hi rendition="#i">Joseph
+                            <surname>B.</surname>.</hi><lb break="yes"/>(Baierischer Hof, Zim̄er 41)</hi>
+</p>
+</body>
+</text>
+</TEI>

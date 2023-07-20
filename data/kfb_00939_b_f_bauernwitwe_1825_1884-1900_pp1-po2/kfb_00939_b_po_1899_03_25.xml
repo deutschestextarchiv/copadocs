@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb939b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>939</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Agatha <surname>B.</surname></persName>
+<date type="sent">25.03.1899</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Hochwürden: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb939b">
+<persName>
+<forename>Agatha</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1825"/>
+<death when="1900"/>
+<occupation>Bauernwitwe, später Armenhauspfündnerin</occupation>
+<residence><geo decls="#WGS">47.7224806 10.5568957</geo>Wald, Oberdorf; geboren in Niederstaufen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Müller; Vermögen: besitzt 800 Gulden</p>
+<p from="1884" to="1900">Anstalt: 1884-1900</p>
+<p from="1884" to="1900">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait>
+<p>Chronische Melancholie mit Schwachsinn, Wahnideen (1896)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>offizieller Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> bittet Gemeinde um Verzeihung, will abgeholt werden und Gemeinde von
+                    grausamen Last bereien, Armenhaus oder Gefängnis wäre ihr lieber </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb939b01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb939b01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c">Irsee den 25 März 1899</hi></dateline>
+<salute><hi rendition="#c">Euer Hochürden</hi></salute>
+</opener>
+<p> Sie <add place="above">werden</add> verzeien an Sie zu scheiben<lb break="yes"/>wen
+                Sie m meine Rede u.<lb break="yes"/>meinen Schmerz fülen
+                    würden<lb break="yes"/>das ich der Gemeinde so viel <del>Un</del><lb break="yes"/>Unglück bereitet habe so gewis<lb break="yes"/>keinen
+                    <del>Te</del> Tag verseimen mich<lb break="yes"/>abholen zu lassen es <add place="above">wüde</add> gewieß<lb break="yes"/>nichts solches mehr geschen
+                    Ich<lb break="yes"/>bitte <del>s</del> Sie u. die d ga<add place="above">n</add>ze Gemeinde<lb break="yes"/>viel dausend mal um Verzeiung<lb break="yes"/>wen̄ man mir das <w>Armen Haus</w>
+                    auch<lb break="yes"/>nicht vergön̄en würde <del>ma</del> känte<lb break="yes"/>man mich in das Gefängniss tun wa<lb break="yes"/><del>Ver</del> Verbrechen ein<del>kegäo</del> lägert werden <pb facs="#image_002"/>
+<seg ana="#signed">Mit viel tausent biten um<lb break="yes"/>verzeiung unterzeuhnet
+                    sich</seg></p>
+<p><seg ana="#signed"><hi rendition="#c">Maria Agatha <surname>B.</surname></hi></seg></p>
+<p>Lassen <del>s</del> Sie mich <del>dod</del> doch abholen<lb break="yes"/>das die
+                Gemeinde von <add place="above">der</add> grausa<lb break="no"/>men Last
+                    <del>d</del> befreiet werde</p>
+<p><space/> vegessen <del>sie</del> Sie doch nicht<lb break="yes"/>mich abholen zu
+                    <del>s zu</del> lassen<lb break="yes"/>um dus bitte nah auch viel<lb break="yes"/>tausend <del>M</del> mal </p>
+</body>
+</text>
+</TEI>

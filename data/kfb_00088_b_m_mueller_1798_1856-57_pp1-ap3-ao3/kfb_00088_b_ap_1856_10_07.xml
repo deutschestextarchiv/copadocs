@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb88b05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>88</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>B.</surname></persName>
+<date type="sent">07.10.1856</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: Joseph <surname>B.</surname></persName>
+<settlement type="sent">Burgheim</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb88b">
+<persName>
+<forename>Joseph</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1798"/>
+<death cert="unknown"/>
+<occupation>Müller</occupation>
+<residence><geo decls="#WGS">48.7003635 11.0165677</geo>Burgheim, Neuburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1856" to="1857">Anstalt: 1856-1857</p>
+<p from="1856" to="1857">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Tobsucht (1856-57)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="sohn"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Sohn schickt dem Vater ein Taschengeld und kündigt an, beim nächsten Mal mehr zu schicken, wenn es nicht ausreicht.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb88b05.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#r"><add hand="hand"><hi rendition="#u">ii</hi></add>
+                        Burgheim den 7<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Oktb
+                        1856<lb break="yes"/><add hand="hand2">pros: 13 Okt. 1856.
+                    </add></hi></dateline>
+<salute><space/> Lieber Vater! </salute>
+</opener>
+<p> Hier schicke ich euch 4 fl damit Ihr<lb break="yes"/>auch ein Taschengeld habt
+                solltet Ihr<lb break="yes"/>dies Monat nicht ausreichen so<lb break="yes"/>schicke
+                ich euch das nächste mal<lb break="yes"/>mehr. <seg ana="#salute">Recht viele Grüße
+                    von<lb break="yes"/>uns alle<lb break="yes"/><hi rendition="#c">Euer</hi><lb break="yes"/><hi rendition="#r">euch liebender Sohn</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Jos.
+                            <surname>B.</surname></seg></hi>
+</p>
+<p><add hand="hand">Am 23 Oktob. 1856<lb break="yes"/>Der Curator
+                            <unclear><surname>D.</surname></unclear> um 7 fl 31 Kr<lb break="yes"/>bes. <unclear>Beehe. </unclear>liquidirt<lb break="yes"/>EN.
+                    297</add>
+</p>
+</body>
+</text>
+</TEI>

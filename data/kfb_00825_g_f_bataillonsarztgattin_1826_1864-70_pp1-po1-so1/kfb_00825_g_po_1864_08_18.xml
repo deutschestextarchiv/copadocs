@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb825g01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>825</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ida <surname>G.</surname></persName>
+<date type="sent">18.08.1864</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Ottobeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb825g">
+<persName>
+<forename>Ida</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1826"/>
+<death cert="unknown"/>
+<occupation>Bataillonsarztgattin</occupation>
+<residence><geo decls="#WGS">49.7087639 10.2177792</geo>Mainbernheim, Unterfranken; z. Z. in Ottobeuren</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: aufgewachsen "in guten Verhältnissen lebend"</p>
+<p from="1864" to="1870">Anstalt: 1864-70</p>
+<p from="1864" to="1870">Brieftypen: pp, po</p>
+</state>
+<trait><p>Seelenstörung, partielle Verrücktheit, Gemütsschwankungen, fixe Ideen (1864)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Sie berichtet von dem Plan der Ärzte, sie nach Irsee zu verlegen;
+                   Sie weiß, dass ihren Worten kein Glauben geschenkt wird, geht aber davon aus, dass sie sich als richtig erweisen werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb825g01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb825g01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c">Ottobeuren den 18 <hi rendition="#sup">tn</hi> August 1864.</hi></dateline>
+<salute><hi rendition="#c">Hochgeehrter Herr Bezirksgerichtsarzt!</hi></salute>
+</opener>
+<p> Entschuldigen Sie gütigst, daß ich mich noch brieflich<lb break="yes"/>an Sie wende.<lb break="yes"/>Nach Allem zu schließen, was ich dieser Tage ge<lb break="no"/>hört, scheint es in dem Willen zweier Herrn Ärzte<lb break="yes"/>fest gestellt zu
+                sein, mich nach Jrsee, als künftiges<lb break="yes"/>Asyl zu verbringen. Als ich
+                letzthin die Ehre, hatte<lb break="yes"/>mich einige Zeit mit Jhnen zu unterhalten,
+                sagte<lb break="yes"/>ich Dinge, die man wohl nicht recht möglich halten<lb break="yes"/>kann, und die ich auch nicht zu beweisen im Stande<lb break="yes"/>bin, ehe man ein Lebenszeichen davon sieht. Da nun<lb break="yes"/>die Herrn
+                Ärzte wahrscheinlich den schönen <w>Aus<lb break="yes"/>weg</w>, der Jhnen offen
+                stünde, (nämlich nicht im<lb break="yes"/>Klaren mit mir zu sein), wie es scheint
+                verschmähen,<lb break="yes"/>so ziehen Sie eben, (wie es mir scheint) vor, sich<lb break="yes"/>vor ganz Ottobeuren mit Jrrenansicht wohl<lb break="yes"/>vielleicht zu plamiren und ich nehme mir die Freiheit<pb facs="#image_002"/>wenn
+                geschieht, was ich gesagt, mich gehörig darüber<lb break="yes"/>zu freuen, daß ich recht hatte, und daß meine irrgeglaubten<lb break="yes"/>Glaubensansichten sich zur schönen Wirklichkeit gestalten.<lb break="yes"/>Es
+                steht nun noch in der Ansicht der H. Arzte zu thun, was<lb break="yes"/><unclear>Sie
+                    / sie </unclear> wollen und es fügt sich in Alles, als mir von <hi rendition="#u">Oben</hi> bestim̄t<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Jhre</seg><lb break="yes"/><hi rendition="#r">ergebene</hi><lb break="yes"/><seg ana="#signed">Jda
+                            <surname>G.</surname></seg>.</hi></p><p>Für Jhre gütige
+                    letzte<lb break="yes"/>Unterredung mit mir,<lb break="yes"/>meinen
+                höflichsten Dank.</p>
+</body>
+</text>
+</TEI>

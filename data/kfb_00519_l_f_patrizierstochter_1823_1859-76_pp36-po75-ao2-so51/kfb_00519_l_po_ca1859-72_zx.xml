@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l98" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Die Patientin tätigt eine Bestellung, bittet um Arbeit, bessere Behandlung und angepasste Kost sowie einen Besuch. Anderenfalls droht sie mit Selbstmord.  
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l98a.jpg" xml:id="image_250"/>
+<graphic mimeType="image/jpg" url="kfb519l98b.jpg" xml:id="image_251"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_250"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Bitte 1
+                <del><unclear/></del><lb break="yes"/>Diesen Zeug wenigst zu bestellen, laßen morgen, da er<lb break="yes"/>schnell weggeht. Wen̄ meine 4 fl dazu ausgegeben<lb break="yes"/>werden, so hab ich noch 8 fl bei einer Frau in Augsbug,<lb break="yes"/>die mir's schon geschickt wen̄ ich schreiben dürfte darum.<lb break="yes"/>Ich hab all meine Kleider hergeben bis auf die zwei
+                Som̄erkleid −.<lb break="yes"/>die man auch nicht schicken
+                kan̄.. − </p>
+<p>Bitte <hi rendition="#u">2<hi rendition="#sup"><hi rendition="#u">tes</hi></hi></hi> um Arbeit u. Hr <hi rendition="#i">Dr</hi> zu wißen, daß ich<lb break="yes"/>schon etwas verdient. u nicht alle diese Titel von<lb break="yes"/>ihm verdiene. u nicht dieses Zurück<del>floßen</del>
+<add place="above">weisen</add> u. Thräne<lb break="no"/>auspreßen u
+                fas<del>s</del>ten u von Seite der Wärterin<lb break="yes"/>nicht diese Grobheiten.
+                Ich habe genug zu leiden<lb break="yes"/>u thue Alles, was ich kan̄ u
+                entbehre genug,<lb break="yes"/><space/> da ich mit Niemand ein aufrichtiges Wort
+                    <pb facs="#image_251"/>reden u nicht schreiben darf. u all mein<lb break="yes"/>Sach <del><hi rendition="#i">rese<unclear>ri</unclear>ren</hi></del>
+<add place="above">einbüßen muß. −</add>, das mein Gedult gaz erschöpft<lb break="yes"/>Bitte 3<hi rendition="#sup"><hi rendition="#u">ter</hi></hi>
+                mich von den scharfen Speisen<lb break="yes"/>gütigst zu d<hi rendition="#i">ispeniren</hi> als Käs Salat, Kraut<lb break="yes"/>u wß Rüben u Wurst
+                        <unclear>&amp;<hi rendition="#i">c.</hi></unclear> u ein
+                    we<unclear>n</unclear>ig zu berüksicht<lb break="yes"/>u weigst doch eimal eine
+                Mehlspeise zu schreib<unclear>en</unclear><lb break="yes"/>Und während dieser Tage 1 Fleischsuppe<lb break="yes"/>u 1
+                Sem̄el gütigst zu verschreiben.<lb break="yes"/>Bitte 4<hi rendition="#sup"><hi rendition="#u">tes</hi></hi>
+<del>bei</del> Frau <hi rendition="#i">Dr</hi>
+<surname>B.</surname> ein we<unclear>n</unclear>ig besuchen<lb break="yes"/>zu
+                dürfen. − Wen̄ ich weder ein <add place="above"><unclear>gutes</unclear></add> Wort von Hr<lb break="yes"/><hi rendition="#i">Dr.</hi> noch meine Bitte werth bin so thu ich mir<lb break="yes"/><hi rendition="#r">selbst d. Tod −</hi>
+</p>
+</body>
+</text>
+</TEI>

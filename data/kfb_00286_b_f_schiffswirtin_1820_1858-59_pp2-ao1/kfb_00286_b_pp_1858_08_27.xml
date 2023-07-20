@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb286b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>286</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ursula <surname>B.</surname></persName>
+<date type="sent">27.08.1858</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vetter: n.a.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb286b">
+<persName>
+<forename>Ursula</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1820"/>
+<death cert="unknown"/>
+<occupation>ehemalige Schiffswirtin</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1858" to="1859">Anstalt: 1858-1859</p>
+<p from="1858" to="1859">Brieftypen: pp,ao</p>
+</state>
+<trait>
+<p>Geistesstörung, Suizidalität (1858-1859)
+                        </p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privaterBrief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin berichtet über ihren Aufenthalt in der Anstalt und bittet ihren Vetter danach, sie wegen eines bevorstehenden Besuchs aus der Anstalt zu holen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb286b01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb286b01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Irrsee d 27<hi rendition="#sup">ten</hi> Augst 1858</hi></dateline>
+<salute><hi rendition="#c">Werthester Vetter!</hi></salute>
+</opener>
+<p> Ich hoffe ihr werdet gut haim ge<lb break="no"/>kom̄en sein <seg ana="#med">mein Fuß ist im̄er<lb break="yes"/>gleich wie viel ich Bäder
+                    genom̄en habe</seg><lb break="yes"/>er wird auch nicht mehr anderst, <seg ana="#med">früher habe<lb break="yes"/>ich Pulver und jetzt bekom̄ ich Tropfen</seg><lb break="yes"/>mir fehlt aber gar nihts, der Herr<lb break="yes"/>Direcktor ist
+                recht brav, der Herr Docktor<lb break="yes"/>ist jetzt verreußt die Frau Docktorin
+                ist<lb break="yes"/>eine recht brave Frau so wie die zwey<lb break="yes"/>Wärterin̄en, ich laß Deine Frau so<lb break="yes"/>wie Deine Kinder recht
+                schön grüßen<lb break="yes"/>auch laß ich meine Kinder so wie den<lb break="yes"/>Vatter grüßen und bitte Dich mich <pb facs="#image_002"/>gleich zu hollen den es
+                ist wegen meine<lb break="yes"/>Kinder und nächsten Mon̄at kom̄t der<lb break="yes"/>Julius haim wo man̄ wichtiges<lb break="yes"/>zu reden
+                hat und mir fehlt gar nichts<lb break="yes"/>in der Hoffnung daß Du mich gleich<lb break="yes"/>holst grüßt Dich vielmals<lb break="yes"/><hi rendition="#r">Deine</hi><lb break="yes"/><hi rendition="#r">Danckbare Baße</hi><lb break="yes"/><hi rendition="#r">Ursula <surname>B.</surname></hi></p>
+</body>
+</text>
+</TEI>

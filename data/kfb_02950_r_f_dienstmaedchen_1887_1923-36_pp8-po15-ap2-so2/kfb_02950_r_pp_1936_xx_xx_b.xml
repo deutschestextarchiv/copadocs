@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2950r05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2950</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>R.</surname></persName>
+<date type="sent">1936</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester u.a.: Sophie <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2950r">
+<persName>
+<forename>Magdalena</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1887"/>
+<death cert="unknown"/>
+<occupation>Dienstmädchen</occupation>
+<residence><geo decls="#WGS">47.6988348 10.321779800598831</geo>Kottern/Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Schuhmacher</p>
+<p from="1923" to="1936">Anstalt: 1923-36</p>
+<p from="1923" to="1936">Brieftypen: pp,po,ap</p>
+</state>
+<trait><p>[Suizidalität], Verfolgungswahn (1923), Versündigungsideen, Sinnestäuschungen, Willensstörungen (1828-36)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte zurück nach Hause
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2950r05a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb2950r05b.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><seg ana="#pic">[2 einfache Blumen]</seg>Liebe Schweste Sophe
+				        Felix! Bruchilde u. Irmgd. <seg ana="#pic">[einfache Blume]</seg></hi></salute>
+</opener>
+<p> Vor Allem besten Dank u. Vergelts Gott f. alles Gute u. d. Brief; welche ich<lb break="yes"/>bekom̄en. Ihr laßt mich im̄er <w>so</w><w>lang</w> warten; pappt Ihr Sparmarken<lb break="yes"/>hinauf vielleicht auf die Karte v. d. Komuion, welche ich bis heute<lb break="yes"/>noch nicht gesehen habe. Einbildung u. Wichtighaben betreffs d.<lb break="yes"/>Leni; ja mich holt man; will sehen? Zu wem ich mich<lb break="yes"/>noch wenden
+                muß? Was zwei Augen nicht alles ausmachen,<lb break="yes"/>die Mari? Da wär ich
+                schon längst zu Hause. Im̄er betteln;<lb break="yes"/>u. Geduld. Fast 3 Jhr.
+                u dan̄ im 4. Monat; wos der Anton mir<lb break="yes"/>versprach u. bis heute
+                keine Spur; da kön̄te man ja noch<lb break="no"/>mals unrein werden. Also
+                macht vorwärts? Muß mich ja<lb break="yes"/>schämen v. d. andern Kranken;
+                wen̄s heißt mich will man<lb break="yes"/>nicht mehr. Meine Hausfrau
+                kan̄ sich gewiß nicht beklagen über<lb break="yes"/>mich. Du hast auch
+                Kinder, u. weißst auch nicht, was du Zu<lb break="no"/>kunft bringt. Herin ist man
+				    bälder wie draußen. <seg ana="#salute">Verzage nicht u.<lb break="yes"/>Gruß</seg> <seg ana="#signed">Leni
+				        <surname>R.</surname></seg>. <space/> Habe Mut; dan̄ wird wieder alles gut.</p><p>
+<add place="margin">Werde heuer 50 J</add></p><p>
+<add place="margin">Grüße Leni,<lb break="yes"/>u an<lb break="yes"/>Kinder</add>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3688b04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3688</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Rudolf <surname>B.</surname></persName>
+<date type="sent">26.06.1910</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3688b">
+<persName>
+<forename>Rudolf</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1881"/>
+<death cert="unknown"/>
+<occupation>Buchhalter</occupation>
+<residence><geo decls="#WGS">48.8870756 10.476036</geo>Wallerstein, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: prakt. Arzt</p>
+<p from="1905" to="1910">Anstalt: 1905-10</p>
+<p from="1905" to="1910">Brieftypen: Lebenslauf</p>
+</state>
+<trait><p>Angstzustände, Depression, Manie (wechselnd) (1905)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Der Schreiber berichtet, dass er gut angekommen ist und einen gerichtlichen Antrag zurückzieht. Er bedankt sich.    
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3688b04.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Koenigl. Direktion der Heil &amp;
+                            Pflegeanstalten </hi><lb break="yes"/></hi><hi rendition="#r"><hi rendition="#i"><hi rendition="#sup"><hi rendition="#u">b/</hi></hi><hi rendition="#u">Kaufbeuren</hi></hi></hi><lb break="yes"/><hi rendition="#c">Sehr verehrter Herr Direktor!</hi></salute>
+</opener>
+<p><space/> Ich beehre mich, Ihnen ergebenst mitzutheilen,<lb break="yes"/>daß ich
+                am Freitag morgens fahrplanmäßig angekom̄en bin. Eine<lb break="yes"/>freundliche Aufnahme im Vaterhaus hat mich erken̄en lassen, daß mir<lb break="yes"/>das Heim noch eine liebe Erholungsstätte sein soll u. bis zu meiner<lb break="yes"/>Stellenbewerbung eine gute Unterkunft zur Stärkung des Körpers<lb break="yes"/>u. Geistes sein wird. Die Zurückziehung meines Antrages beim K.<lb break="yes"/><hi rendition="#i">Amtgericht in Kaufbeuren</hi> auf
+                gerichtliche Feststellung meines gei<lb break="no"/>stigen Zustandes habe ich heute
+                bewirkt u. geht damit die Sache in Ord<lb break="no"/>nung.</p>
+<p><space/> Gestatten Sie, sehr geehrter Herr Direktor,<lb break="yes"/>Ihnen
+                meinen tiefgefühlten Dank für die liebevolle psychiatrische<lb break="yes"/>Behandlung u. väterliche Fürsorge in materieller Hinsicht hier noch<lb break="yes"/>zum Schluße zum Ausdruck zu bringen. Gerne gedenke ich auch<lb break="yes"/>an dieser Stelle insbesondere des Herrn Oberarztes <hi rendition="#i">D<hi rendition="#sup">r</hi>. Wegermann</hi><lb break="yes"/>u. Herrn <hi rendition="#i">D<hi rendition="#sup">r</hi>.
+                    Hackel</hi>, zu welchen ich in jahrelangen Beziehungen<lb break="yes"/>gestanden bin u. deren Sorge ich war.</p>
+<p><space/> Mit den höflichen Empfehlungen von<lb break="yes"/>meinem Vater <hi rendition="#i">D<hi rendition="#sup">r</hi>. E. <surname>B.</surname></hi>
+                bin ich <seg ana="#salute">unter herzlichen Grüßen </seg><lb break="yes"/><seg ana="#signed"><hi rendition="#c">Ihr</hi><lb break="yes"/><hi rendition="#r">dankbar ergebenster<lb break="yes"/><hi rendition="#i">Rudolf <surname>B.</surname></hi>
+<unclear>Kfen</unclear></hi></seg></p>
+<p><hi rendition="#i">Wallerstein, 26. Juni </hi>1910...</p>
+</body>
+</text>
+</TEI>

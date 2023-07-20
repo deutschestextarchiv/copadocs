@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip6846w11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>6846 (K. 400)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Leo <surname>W.</surname></persName>
+<date type="sent">19.09.1926</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Dräckizon (?) der Knappschaft: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Borbeck</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip6846w">
+<persName>
+<forename>Leo</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1888-12-25"/>
+<death cert="unknown"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">51.5110321 7.0960124</geo>Geburtsort: Mellentin; Wohnort: Gelsenkirchen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater: Dachdecker; Mutter: n.a.</p>
+<p from="1926-06-28" to="1927-02-19">Anstalt: 28.06.1926-19.02.1927</p>
+<p from="1926-06-28" to="1927-02-19">Brieftypen: pp, po</p>
+</state>
+<trait><p>Progr. Paralyse (1926)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er sagt, man soll den Sanitätsrat anrufen. Er plant mit seinen Eltern bzw. seiner Frau mitzufahren, wenn diese kommen und beschreibt die Anlage.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip6846w11a.jpg" xml:id="image_029"/>
+<graphic mimeType="image/jpg" url="lip6846w11b.jpg" xml:id="image_030"/>
+<graphic mimeType="image/jpg" url="lip6846w11c.jpg" xml:id="image_031"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_029"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Borbeck</hi> d 19.9
+                    26</hi></dateline>
+<salute> An die Dräckizon<lb break="yes"/>der <hi rendition="#i">Knäpschaft.</hi></salute>
+</opener>
+<p>Unfalstaßgen zwei<lb break="yes"/>die <hi rendition="#i">Biette</hi> an die Hern<lb break="yes"/><hi rendition="#i">Knapschaft.</hi>
+<hi rendition="#i">Dieraecktoren</hi><lb break="yes"/>mir <w><hi rendition="#i">so</hi> fort</w> den Mann<lb break="yes"/>der mir hier <w>her gebracht</w><lb break="yes"/>hat <w>her zu Schiecken</w><lb break="yes"/>den ich kan auch alleine <unclear><lb break="yes"/>Tasam</unclear>
+                dan Telefonieren<lb break="yes"/>Sie hier an den Sanie<lb break="no"/>stätzraht den
+                Sie können<lb break="yes"/>ja <w>an Rufen</w> das ich mit<lb break="yes"/>im
+                Spregen tuh <pb facs="#image_030"/>Fals meine Frau<lb break="yes"/>Und meine Eltern<lb break="yes"/>hier Antkomen solt ich<lb break="yes"/>dan <w>mit Fahren</w>
+                tuh<lb break="yes"/>dan Sagte ich gleig<unclear>lessieht</unclear><lb break="yes"/><hi rendition="#c"><seg ana="#salute">Auf <w>Agtungs<lb break="yes"/>Voll</w></seg>
+<seg ana="#signed">Leo<lb break="yes"/><surname><hi rendition="#i">W.</hi></surname></seg></hi>
+<pb facs="#image_031"/>Auch Teil ich äuch hier<lb break="yes"/>mit das ich ein
+                Hotel<lb break="yes"/>und ein Kochrästoran<lb break="yes"/>zwei Wohnungen hier und<lb break="yes"/>auch sonst noch Wohnungen<lb break="yes"/>den ich Lade euch<lb break="yes"/>Fräuntlig ein um<lb break="yes"/>zu Besichtiegung<del>g</del><lb break="yes"/>den das <unclear><hi rendition="#i">Trienken</hi></unclear><lb break="yes"/>Abens zwölf Uhr ist<lb break="yes"/>und Rauchen<lb break="yes"/><seg ana="#salute">Hier mit Schließe<lb break="yes"/>ich hier den Brief</seg>
+</p>
+</body>
+</text>
+</TEI>

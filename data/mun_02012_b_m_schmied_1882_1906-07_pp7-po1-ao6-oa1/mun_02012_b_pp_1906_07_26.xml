@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2012b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2012 (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>B.</surname></persName>
+<date type="sent">26.07.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freund: Heinrich <surname>M.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun2012b">
+<persName>
+<forename>Franz</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1882-04-22"/>
+<death cert="unknown"/>
+<occupation>Schmied</occupation>
+<residence><geo decls="#WGS">51.8260823 8.1453352</geo>Geburtsort: Oelde; Wohnort: Oelde</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Schmiedemeister, Mutter: n.a.</p>
+<p from="1906-07-16" to="1907-02-10">Anstalt: 16.07.1906-10.02.1907</p>
+<p from="1906-07-16" to="1907-02-10">Brieftypen: pp, po, ao, oa</p>
+</state>
+<trait><p>Geisteskrankheit (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber fragt, ob der Adressat eine Arbeitsstelle für ihn hat.
+                    Er bittet ihm Geld für die Fahrt zu schicken oder zu kommen und ihn mitzunehmen.
+                    Er muss ein Gitter anfertigen.
+                    Ein Schreinermeister soll Verschiedenes Anfertigen.
+                    Er will wissen, warum er in der Anstalt bleiben muss und was sein Vater dazu sagt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2012b02a.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="mun2012b02b.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="mun2012b02c.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="mun2012b02d.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><add hand="vordruck">Provinzialheilanstalt. <hi rendition="#r">Münster i.W., den</hi></add><hi rendition="#r"> 26 Juli <add hand="vordruck">190</add>6</hi></dateline>
+<salute><hi rendition="#c">An Herrn Schmiedemeister<lb break="yes"/><hi rendition="#i">Heinrich</hi>
+<surname><hi rendition="#i">M.</hi></surname> in <hi rendition="#i">Oelde</hi>,</hi></salute>
+</opener>
+<p><add hand="hand3"><space/> G 27./<hi rendition="#sub">7</hi> 06 ad acta <surname><hi rendition="#i">B.</hi></surname><lb break="yes"/><hi rendition="#c">G. </hi></add></p>
+<p>Frage hiermit freundlich an ob ich bei<lb break="yes"/>Ihnen in Arbeit treten kann,
+                Solten<lb break="yes"/>Sie mir sofort gebrauchen können, So Schreibe<lb break="yes"/>mir bitte sofort darüber. Ich bin schon<lb break="yes"/>14 Tage
+                hier und bin schon längst so<lb break="yes"/>weit das ich die Arbeit übernehmen<lb break="yes"/>kann. Ich kann sämtliche Arbeiten<lb break="yes"/>in gute
+                Ausführung bringen. Wie<lb break="yes"/>Sie auch schon Erfahren haben, und<lb break="yes"/>auch schon bei Ihnen Ausgeführt<lb break="yes"/>habe. Ihren
+                Metterstock habe ich auch <pb facs="#image_003"/>noch hier, Und denn möcht ich die
+                bitten<lb break="yes"/>um einige <hi rendition="#i">Mark</hi> Geld, das ich<lb break="yes"/>wieder fahren kann. Oder komme<lb break="yes"/>Samstag oder
+                Sonntag nach hier<lb break="yes"/>dann fahre ich gleich mit dir. und<lb break="yes"/>dann können wir hier <unclear>Gasrohre</unclear> und<lb break="yes"/>Eisen bestellen. Ich weiß hier doch nicht<lb break="yes"/>ganz gut
+                Bescheiht. Ich muß nähmlich<lb break="yes"/>noch 20 Metter Gitter mit
+                Drahtgeflechte<lb break="yes"/>für den Wirt <surname><hi rendition="#i">B.</hi></surname> zu <hi rendition="#i">Menighasen</hi><lb break="yes"/>anfertigen. fragen Sie bitte bei Jo.<lb break="yes"/><surname>W.</surname> an ob das Drahtgeflechte da<lb break="yes"/>währe.
+                Sonst geht Alles reht gut.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Es
+                        grüßt mit Achtung.</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Franz <surname><hi rendition="#i">B.</hi></surname></seg>. Schmiedeargitekt
+                </hi></p>
+<pb facs="#image_004"/>
+<p>Und den habe ich eine bitte an den<lb break="yes"/><unclear>H</unclear>errn
+                Schreinermeiste <hi rendition="#i">K</hi>argor <surname>G.</surname><lb break="yes"/>Theilen Sie den bitte mit er möchte<lb break="yes"/>dem Albert
+                    <surname>R.</surname> beauftragen<lb break="yes"/>das er die Stiehle und
+                die Sprengel<lb break="yes"/>und den Holshammer anfertigen<lb break="yes"/>Und von
+                    <surname>R.</surname> möchte ich erfahren<lb break="yes"/>aus welchen
+                Gründen ich hier bleiben<lb break="yes"/>muste, und was mein Vatter darüber<lb break="yes"/>gesagt hatt Schreibe mir bitte sofort<lb break="yes"/>darüber,
+                sonnst ist es mit der Freundschaft<lb break="yes"/>aus, und Theilen Sie den Prister<lb break="yes"/>vom Gesellenveren mit er möchte<lb break="yes"/>mal mit meinen
+                Vatter sprechen<lb break="yes"/>der wird wohl seine Richtigkeit <pb facs="#image_005"/>an mich Vergelten, Sie könne<lb break="yes"/>den Zettel ja
+                trennen, und besorge<lb break="yes"/>ihm. Solte das Gitter schon angefertigt<lb break="yes"/>sein, So kann der jenige das an mir<lb break="yes"/>Bezahlen, Ohne
+                das ich es gemacht habe.<lb break="yes"/>Oder lasse Ihn mal seine Zustimung<lb break="yes"/>über mich machen, dan würde ich mich<lb break="yes"/>seine Wenigen
+                Kenntnisse geben<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Es Gruß, d d
+                        l<lb break="yes"/>Frend</seg><lb break="yes"/><seg ana="#signed">Franz <surname><hi rendition="#i">B.</hi></surname></seg><lb break="yes"/><hi rendition="#u"><w>Schmiede Argitekt</w></hi><lb break="yes"/><placeName><hi rendition="#i">Oelde</hi></placeName></hi>
+</p>
+<p><add place="margin">Gruß an zu Hause </add></p>
+</body>
+</text>
+</TEI>

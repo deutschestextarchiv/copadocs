@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2812b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2812</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">09.03.1914</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: n.a. <surname>B.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2812b">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1891"/>
+<death when="1921"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">48.36904145 10.903678159995689</geo>Augsburg Fuggerei</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Eisendreher, Hausierhändlerin</p>
+<p from="1913" to="1921">Anstalt: 1913-21</p>
+<p from="1913" to="1921">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Epileptischer Dämmerzustand (1913), [Blödsinn, Apathie] (1913-1921)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beginn eines Briefes an die Mutter, anschließend immer wieder neuer Anfang mit "Lieber".
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2812b02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb2812b02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">9.3.14</hi></dateline>
+<salute>Lieber Lieber Mutter.</salute>
+</opener>
+<p>Liebe L<lb break="yes"/>Sies Mutter verlttrror<lb break="yes"/>Muttrr ich biemm
+                gut in<lb break="yes"/>gut Mur Ma Lieber Sie<lb break="yes"/>Lu; ub gehab .. Lie
+                gutg wir<lb break="yes"/>Bieber getever ver<lb break="yes"/>Lieber Lieber Lieber<lb break="yes"/>Lieber Lieber Lieber<lb break="yes"/>Lieber Lieber Lieber<lb break="yes"/>Bieber Lieber Lieber.<lb break="yes"/>Bieber Lieber Lieber.<lb break="yes"/>Lieber Lieber Lieber.</p>
+<pb facs="#image_004"/>
+<p>Lieber Lieber Lieber<lb break="yes"/>Lieber Lieber Lieber<lb break="yes"/>Lieber Lieber Lieber<lb break="yes"/>Lieber Lieber Lieber<lb break="yes"/>Lieber
+                Lieber Lieber<lb break="yes"/>Lieber Lieber Lieber<lb break="yes"/>Lieber Lieber
+                Lieber<lb break="yes"/><hi rendition="#c">Wiehbazekhge</hi><lb break="yes"/><hi rendition="#c">Wiehbazekhge</hi><lb break="yes"/><hi rendition="#c">kaber ber</hi><lb break="yes"/><hi rendition="#c">Wiehbazekhge</hi><lb break="yes"/><hi rendition="#c">Wiehbazekhge</hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">K</hi>o Io<hi rendition="#i">s</hi>
+<surname><hi rendition="#i">B.</hi>u<hi rendition="#i">ch</hi>er</surname></hi>
+</p>
+</body>
+</text>
+</TEI>

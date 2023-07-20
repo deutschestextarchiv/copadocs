@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a76" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">31.08.1923</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat und Ärzte</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil_grey" scope="minor" scribe="arzt1"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er hat lange in die Sonne geschaut um blind zu werden.
+                    Er bittet um Schlafmittel.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a76.jpg" xml:id="image_177"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_177"/>
+<opener>
+<dateline><add hand="arzt2"><hi rendition="#c">31.8.23</hi></add></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr Ober-Medizinalrat.<lb break="yes"/>&amp;. Herren Ärzte!</hi></salute>
+</opener>
+<p><add hand="arzt1" place="top">57</add><lb break="yes"/>Die <hi rendition="#u" style="arzt2">Gebetsunruhen. bringen mich
+                    ganz<lb break="yes"/>auseinander &amp;. das kann ich nicht<lb break="yes"/>mehr ausha</hi>lten. Ich hab es immer<lb break="yes"/>mit dem Tod oder
+                    <w>Blind sein</w> zu<lb break="yes"/>tun. Schaute 3 Tage je 2 Stunden<lb break="yes"/>am 28.-29. &amp;. 30. August in die Son<lb break="no"/>ne um blind
+                zu werden. <seg ana="#metaling">Jetzt. kann<lb break="yes"/>ich sehr schlecht lesen &amp;. schreiben</seg>
+                &amp;. sehe<lb break="yes"/>von weitem nichts als dunklen<lb break="yes"/>Schatten. Geben Sie bitte mir jeden<lb break="yes"/>Abend ein Schlafmittel, daß
+                ich we<lb break="no"/>nigstens bei Nacht meine Ruhe habe.<lb break="yes"/>Lieber
+                gebe ich mein Abendessen fürs<lb break="yes"/>Schlafmittel her. <hi rendition="#u" style="arzt2">Blind sein ist für<lb break="yes"/>mich am
+                    besten, dann find ich keine<lb break="yes"/>Nägel zum verschlucken mehr.</hi><lb break="yes"/><seg ana="#salute">Hochachtungsvollst</seg>
+<seg ana="#signed"><hi rendition="#i">Hans <surname>A.</surname></hi>.</seg><lb break="yes"/>Seien Sie lieben Gott befohlen.</p>
+</body>
+</text>
+</TEI>

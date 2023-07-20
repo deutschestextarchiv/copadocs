@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2000s13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2000</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Tochter: Lina <surname>H.</surname></persName>
+<date type="sent">12.05.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname>Z.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2000s">
+<persName>
+<forename>Barbara</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1914"/>
+<occupation>Lehrersfrau</occupation>
+<residence><geo decls="#WGS">47.5352544 10.3050352</geo>Stein, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1881" to="1914">Anstalt: 1881-1914</p>
+<p from="1881" to="1914">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Halluzinatorische Verwirrtheit (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="tochter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Konnte die Patientin nicht besuchen, da sie sich verletzt habe. 
+                    Will aber demnächst zu besuch kommen.
+                    Sorgt sich um ihren Zustand.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2000s13a.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb2000s13b.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="kfb2000s13c.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_025"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München</hi>, 12. <hi rendition="#i">M</hi>ai
+                    1906</hi></dateline>
+<salute>Hochverehrter Herr<lb break="yes"/><hi rendition="#c">Oberarzt!</hi></salute>
+</opener>
+<p>An Ostern hatte ich vor, meine liebe<lb break="yes"/>Mutter zu besuchen um zu
+                sehen,<lb break="yes"/>wie weit sich ihr Zustand gebessert<lb break="yes"/>hat.
+                Leider hatte ich das Unglück,<lb break="yes"/>beim Stöbern der Wohnung den<lb break="yes"/>Fußknöchel zu verletzen; ich konnte<lb break="yes"/>14 Tage nicht
+                auftreten &amp; war es mir<lb break="yes"/>unmöglich, eine Reise zu unter<lb break="no"/>nehmen. Ich will meinen Besuch<lb break="yes"/>bei meiner Mutter an
+                einem<lb break="yes"/>der kommenden Sonntage machen,<lb break="yes"/>bitte <hi rendition="#i">Sie</hi> aber herzlich, mir <add place="above">vorher</add> eine<lb break="yes"/>kurze Mitteilung zu scheicken, <pb facs="#image_026"/>ob meine Mutter jetzt wieder<lb break="yes"/>laufen kann
+                &amp; wie sie sich befindet.<lb break="yes"/>Ich bin in steter Sorge &amp; Unruhe<lb break="yes"/>um sie &amp; da es mir vielleicht<lb break="yes"/>nächsten
+                Sonntag noch nicht möglich<lb break="yes"/>ist zu kommen, wäre ich Herrn Ober<lb break="no"/>arzt für eine gütige Nachricht unendlich<lb break="yes"/>dankbar. </p><p><seg ana="#salute"><hi rendition="#r">Mit vorzüglicher Hochachtung </hi><lb break="yes"/><hi rendition="#c">zeichnet, </hi><lb break="yes"/><hi rendition="#r">Ihre
+                        ergebenste </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Lina <surname>H.</surname> </seg><lb break="yes"/>Lehrersgattin<lb break="yes"/>Hildegardstr.<lb break="yes"/>1<hi rendition="#sup">b</hi> <hi rendition="#sub">II.</hi></hi></p>
+<pb facs="#image_027"/>
+<p><add hand="arzt"><hi rendition="#i">Besser, </hi><hi rendition="#i"><unclear>ausser</unclear> Bett, kann gehen, </hi><lb break="yes"/><hi rendition="#i">spricht noch ordentlich, geistig weniger </hi><lb break="yes"/><hi rendition="#i">frisch als sonst. Manchmal
+                        <unclear>zwerplexe</unclear></hi><lb break="yes"/><hi rendition="#i">Unruhe; Appetit &amp; Schlaf</hi><hi rendition="#i"> gut</hi>.<lb break="yes"/><space/> 14.5.06 <hi rendition="#r"><hi rendition="#i">D</hi><hi rendition="#sup"><hi rendition="#i">r</hi></hi><hi rendition="#i"> Zierl</hi></hi></add>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k48" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johannes <surname>R.</surname></persName>
+<date type="sent">20.01.1868</date>
+<date type="received">21.01.1868</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1865" to="1867">Anstalt: 1865-67</p>
+<p from="1865" to="1867">Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="freund"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um Antwort wegen der fehlenden Sachen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k48.jpg" xml:id="image_101"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_101"/>
+<opener>
+<dateline><hi rendition="#r">Augsburg den 20 <hi rendition="#i">Jan.</hi> 1868.<lb break="yes"/><add hand="arzt"><hi rendition="#i">pr.</hi> 21. Jan.
+                            68</add><lb break="yes"/><add hand="hand3"><hi rendition="#i">EN</hi>353</add></hi></dateline>
+<salute><hi rendition="#c">Verehrtester Herr Direktor!</hi></salute>
+</opener>
+<p><add hand="hand3" place="top"><hi rendition="#c"><hi rendition="#u">35</hi></hi></add><lb break="yes"/>Vor einigen Wochen schrieb ich im Auftrag<lb break="yes"/>von
+                    <surname>K.</surname> Mutter an die Verwaltung<lb break="yes"/>Ihrer
+                Anstalt daß von <surname>K.</surname> Effekten<lb break="yes"/>folgende
+                Gegenstände noch fehlen:<lb break="yes"/>Ein neues ganz wollenes farbiges Hemd<lb break="yes"/>Eine Geld-Reisetasche<lb break="yes"/>1 <hi rendition="#i">Cigarren
+                    Etui</hi> &amp; 2 <hi rendition="#i">Cigarren</hi>-Spitzen<lb break="yes"/>&amp;
+                ein Augenglas.<lb break="yes"/>1 Joppe, 1 Weste 1 Hose u. 2 Paar Socken werden<lb break="yes"/>im Gebrauch darauf gegangen sein.<lb break="yes"/>Da ich bis heute
+                ohne Antwort bin, er<lb break="no"/>suche ich Sie höflich dieselbe bei der Verwal<lb break="no"/>tung gütigst zu bewerkstelligen.<lb break="yes"/><hi rendition="#r">Ich empfehle mich Ihnen Achtungsvol<unclear reason="damage">lst</unclear><lb break="yes"/>Ihr ergebenster<lb break="yes"/><hi rendition="#i"><seg ana="#signed">Johannes <hi rendition="#u"><surname>R.</surname></hi></seg></hi></hi>
+</p>
+</body>
+</text>
+</TEI>

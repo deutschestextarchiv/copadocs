@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3349f23" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3349</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>F.</surname></persName>
+<date type="sent">09.08.1924</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Rechnungsrat der Anstalt<surname/></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3349f">
+<persName>
+<forename>Jakob</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888"/>
+<death when="1935"/>
+<occupation>Landwirt, Dienstknecht</occupation>
+<residence><geo decls="#WGS">48.2473553 10.4500832</geo>Premach, Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landwirt</p>
+<p from="1907" to="1935">Anstalt: 1907-35</p>
+<p from="1907" to="1935">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>maniakalischer Erregungszustand (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/><!--anpassen!-->
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Beschwerde über den Baumeister und den Oberpfleger
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3349f23a.jpg" xml:id="image_065"/>
+<graphic mimeType="image/jpg" url="kfb3349f23b.jpg" xml:id="image_066"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_065"/>
+<opener>
+<dateline/>
+<salute>An<lb break="yes"/>Herrn Rechnungsrat der Heil u. Pflege<lb break="no"/>anstalt in <hi rendition="#i">Kaufbeuren</hi></salute>
+</opener>
+<p><space/> Fühle mich veranlaßt, Herrn Rechnungsrat<lb break="yes"/>zu
+                beglückwünschen, ob seines tüchtigen Baumeisters auf der<lb break="yes"/>Kolonie,
+                welchen ich im 3 Tägigem mitarbeiten, so ganz u.<lb break="yes"/>voll ken̄en
+                lernte. - Er versteht es meisterhaft Patienten<lb break="yes"/>anzufluchen u.
+                anzuschimpfen um um recht viel Arbeit aus<lb break="yes"/>ihnen
+                    herauszu<unclear>reizen</unclear>. Auch ist er sehr sparsam den̄ nur<lb break="yes"/>nach Vorschrift, verabreicht er Speise u. Getränke, den drillenden<lb break="yes"/>unzufriedenen Patienten. Gewiß will er dem armen Vaterlande<lb break="yes"/>Vorbild u. Muster sein, um somit es wieder gesundet, den̄<lb break="yes"/>ich selber sehe auch ein, daß in staatlichen Betrieben, der<lb break="yes"/>Anfang, <hi rendition="#u">der Heilmethode</hi>, zur Genesung
+                unseres armen<lb break="yes"/>Vaterlandes, Notwendigkeit ist! - </p>
+<p>Und weil jedes Licht seinen Schatten hatt, dürfen wir<lb break="yes"/>ihn auch hier
+                nicht verschleiern: </p><p>Mußt beobachten, daß bei einen Fude beum̄et 3 Doppel<lb break="no"/>zuggespan̄e,
+                ungefähr 15 Personen darunter Hr. Oberpfleger<lb break="yes"/>Hotter u. Herr
+                Baumeister, nicht von der Stelle wegkamen,<lb break="yes"/>bis daß ich hinzukam u.
+                Angaben machte, worauf es<lb break="yes"/>dan̄ möglich war mit 2 Pferden
+                hinwegzufahren.<lb break="yes"/>Am nächsten Tage am 5.VIII. wurde eine Fuhre Gerste<lb break="yes"/>aufgeladen im Beisein Hr. Baumeister u. H. Hotter,<lb break="yes"/>welches nur der Unverstand thun kan̄! - Was war<lb break="yes"/>die Folge "Pferde plagen, Geschirre zersprengen,<lb break="yes"/>Umladen". </p>
+<p>Weiteres später, wen̄ sich hiesige Ärzte dazu<lb break="yes"/>entschließen
+                kön̄en mich wieder als geistig normal<lb break="yes"/>anzuerken̄en.<lb break="yes"/><hi rendition="#c">St. <hi rendition="#u"><hi rendition="#i">Isidor Heil!</hi></hi></hi>
+</p>
+<pb facs="#image_066"/>
+<p> Kaufbeuren 9.VIII.1924.<lb break="yes"/><hi rendition="#i">Jakob
+                        <surname>F.</surname></hi>
+<add place="below">Patient</add>.<lb break="yes"/><hi rendition="#c">An<lb break="yes"/>den Direktor<lb break="yes"/>hiesiger<lb break="yes"/>Anstalt
+                </hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">30.12.1894</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: <surname>J.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1890" to="1897">Anstalt: 1890-1897</p>
+<p from="1890" to="1897">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will mit seiner Pension Kleidung kaufen in Begleitung von Pfleger
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s15.jpg" xml:id="image_039"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_039"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Herr Dr. Julius!</hi></hi><lb break="yes"/></salute>
+</opener>
+<p> Indem ich gehört habe, daß ich die Pension von 80 <hi rendition="#i">M.</hi> sage<lb break="yes"/>achtzig Mark erhalten, so erlaube ich mir die Bitte zu fragen,
+                    -<lb break="yes"/>Ob ich von diesem Geld nicht eine schwarze Hose, Weste,
+                    Uhr<lb break="yes"/>mit Kette kaufen kön̄te, und ob nicht der Pfleger
+				    <surname>I.</surname> oder<lb break="yes"/>Herr <surname>W.</surname> als Begleitung mitgehen dürfte,<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Irsee den</hi> 30<hi rendition="#sup">ten</hi>
+<hi rendition="#i">Dezbr.</hi> 1895.<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Hochachtungsvollst<lb break="yes"/>Jakob
+                                <surname>S.</surname></hi></seg><lb break="yes"/></hi>
+</p>
+</body>
+</text>
+</TEI>

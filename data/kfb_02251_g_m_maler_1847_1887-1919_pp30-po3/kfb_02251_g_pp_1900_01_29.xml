@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g28" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">29.01.1900</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Babette <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Maler</p>
+<p from="1887" to="1919">Anstalt: 1887-1919</p>
+<p from="1887" to="1919">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt1"/>
+<handNote medium="crayon" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Mutter ist gestorben; möchte wissen, wie es um ihr Vermögen steht und was vererbt wird
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g28a.jpg" xml:id="image_097"/>
+<graphic mimeType="image/jpg" url="kfb2251g28b.jpg" xml:id="image_098"/>
+<graphic mimeType="image/jpg" url="kfb2251g28c.jpg" xml:id="image_099"/>
+<graphic mimeType="image/jpg" url="kfb2251g28d.jpg" xml:id="image_100"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_097"/>
+<opener>
+<dateline>Irrsee 29. Januar 1900.</dateline>
+<salute><hi rendition="#c">Liebe Schwester!</hi></salute>
+</opener>
+<p><add hand="arzt2" place="top"><surname><hi rendition="#i">G.</hi></surname><hi rendition="#i"> Mal</hi></add></p><p> Keine Nachrichten keinen<lb break="yes"/>Brief das ganze Jahr!<lb break="yes"/>Betref ich ganz
+                verlassen<lb break="yes"/>Niemand habe mir nichts<lb break="yes"/>Mittheilen von
+                    Verlaßen<lb break="no"/>schaft Erben, theile mir<lb break="yes"/>mit
+                Schriftlich Notarisch<lb break="yes"/>dießer Verwaltung<lb break="yes"/>unterschrieben zu haben.<lb break="yes"/>Was thußt zu Hauße<lb break="yes"/>oder
+                dienen im Dienste,<lb break="yes"/>doch mein Vermögen<lb break="yes"/>zu setzen.
+                Deine Reko<lb break="no"/>mantion bei Herr Ober<lb break="no"/>verwalter bedanke ich<lb break="yes"/>mich Geschäfte Du mich<lb break="yes"/>mißbraucht u Ihn
+                    über<lb break="no"/>red zu haben. Herrn<lb break="yes"/><surname>G.</surname> Geschwister über<pb break="no" facs="#image_098"/>red 3 vom <w>Vater</w><w>selig</w>
+                    sein<lb break="no"/>er Verdienste gemacht.<lb break="yes"/>wie kanst Du mir gar<lb break="yes"/>nicht sagen wohlen wer<lb break="yes"/>ich bin von Landgericht<lb break="yes"/>Amtsrichter Herrn <surname>W.</surname> u Notare<lb break="yes"/>wer den <w>Auslieferungs<lb break="no"/>vertrag</w> geworden nicht<lb break="yes"/>zu enterben theile<lb break="yes"/>mir mit von Notare<lb break="yes"/>geworden. Die Mutter<lb break="yes"/>ist gestorben <add place="above">ist</add>
+<del>w</del> wegen<lb break="yes"/>Geld verbrauchen die Mut<lb break="no"/>ter 11
+                Jahre <w>bedenk Zeit</w>.<lb break="yes"/>Unßer Leiden sind<lb break="yes"/>Kapitulationen u. Ster<lb break="no"/>ben geweßen dießes<lb break="yes"/>Geschäft kam nicht <pb facs="#image_099"/>von mir her u Einnahmen<lb break="yes"/>wen Du nir nicht mehr<lb break="yes"/>weißt so steht dir<lb break="yes"/>das gleiche Loos vor der<lb break="yes"/>Thüre, so kanst auch<lb break="yes"/>sterben wie die Mu<lb break="no"/>tter, Hauptsächlich wo<lb break="yes"/>Alles aus den Dienste<lb break="yes"/>oder fort kant wie<lb break="yes"/>Herr Bürgermeister<lb break="yes"/>in Lindau. Herrn<lb break="yes"/><surname>B.</surname> u Glathar Bücher<lb break="yes"/>mißhandlungen brauchen<lb break="yes"/>ich nicht hier.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Es grüßt dich</seg>
+<seg ana="#signed">dein<lb break="yes"/>Bruder</seg>
+<hi rendition="#r">Jakob <surname>G.</surname>.</hi></hi></p>
+<p><add hand="arzt1"><hi rendition="#i">ad Acta, d. 3. März 1900 </hi><lb break="yes"/><hi rendition="#i"> </hi><hi rendition="#c"><unclear><hi rendition="#i">DrHerz</hi></unclear></hi></add><hi rendition="#i"> </hi></p><pb facs="#image_100"/><p>Wohlgeborn<lb break="yes"/>Fräulein Babette <surname>G.</surname><lb break="yes"/><hi rendition="#r">Malerstochter<lb break="yes"/>in Lindau.<lb break="yes"/>Bodensee.</hi><lb break="yes"/>frei.</p>
+</body>
+</text>
+</TEI>

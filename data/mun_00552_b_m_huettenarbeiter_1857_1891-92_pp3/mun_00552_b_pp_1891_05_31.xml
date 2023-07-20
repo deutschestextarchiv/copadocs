@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun552b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>552 (K. 30)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">31.05.1891</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun552b">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1857-05-19"/>
+<death cert="unknown"/>
+<occupation>Hüttenarbeiter</occupation>
+<residence><geo decls="#WGS">51.4108972 7.2077948</geo>Geburtsort: Kreutz; Wohnort: Welper</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1891-03-24" to="1892-10-08">Anstalt: 24.03.1891-08.10.1892</p>
+<p from="1891-03-24" to="1892-10-08">Brieftypen: pp</p>
+</state>
+<trait><p>einfache Seelenstörung (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber möchte wissen, wie es zu Hause geht.
+                    Er berichtet, dass es jeden Tag Gewitter und Hagel gibt.
+                    Anderes will er besprechen, wenn sie sich wieder sehen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun552b01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="mun552b01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><add hand="vordruck">Provinzial-Anstalt<lb break="yes"/>Marienthal zu
+                        Münster, den</add> 31 <add hand="vordruck"><hi rendition="#sup">ten</hi></add>
+<hi rendition="#i">Mai</hi>
+<add hand="vordruck">189</add>1</dateline>
+<salute><hi rendition="#c">Lieber Bruder</hi></salute>
+</opener>
+<p><add hand="hand3"><hi rendition="#i">ad acta </hi><surname><hi rendition="#i">B.</hi></surname><lb break="yes"/>2/6 90 <space/>
+<unclear/></add></p>
+<p>Da ich lange nichts, von<lb break="yes"/>zu Hause gehört habe, und<lb break="yes"/>selbst, nicht weis was mier <w>wieder<lb break="no"/>fahren</w> ist, so sei
+                    <del>s</del> gut und<lb break="yes"/>schreibe mir wie es zuhause<lb break="yes"/>geht, den ich habe in <hi rendition="#i">Münster</hi><lb break="yes"/>schon manchen fröhlichen Tag.<lb break="yes"/>erlebt, den hier
+                haben wir jeden<lb break="yes"/>Tag Gewitter mit Hagel verbunden<lb break="yes"/>und wenn man im Felde<lb break="yes"/>am Arbeiten ist, dan geht es auf<lb break="yes"/>Leben und Tot wie bei Sedan<lb break="yes"/>wenn du mir schreibst,
+                so thuhe<lb break="yes"/>es bald, den ich weis nicht wie<lb break="yes"/>lange ich
+                noch hier bin, wenn<lb break="yes"/>ich wieder einmal <del>m</del>nach Hause<lb break="yes"/>kom̄en solte, wenn es der liebe<lb break="yes"/><space/>
+                Gott haben will <pb facs="#image_002"/><space/> so werden wir über<lb break="yes"/>manche Angelegenheit sprechen<lb break="yes"/>was uns jetzt nicht
+                mö<del>h</del>glich<lb break="yes"/>ist, den jedenfals weis du<lb break="yes"/>mehr ich selbst von mir weis<lb break="yes"/>weiter neues kann ich dir ni<unclear reason="damage">cht</unclear><lb break="yes"/>schreiben.<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Es grüß dich<lb break="yes"/>dein Bruder </hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r"><hi rendition="#i">Joseph </hi><hi rendition="#u"><surname><hi rendition="#i">B.</hi></surname></hi></hi></seg><lb break="yes"/><hi rendition="#c">Adresse<lb break="yes"/><del><hi rendition="#i">Josep</hi> b</del></hi><lb break="yes"/><hi rendition="#i">Joseph </hi><surname><hi rendition="#i">B.</hi></surname><lb break="yes"/>in<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Marienthal</hi>
+<hi rendition="#i">bei</hi>
+</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Münster</hi></hi></hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2214b05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2214</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Katharina <surname>B.</surname></persName>
+<date type="sent">04.09.1912</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Rosa und Sohn: Josef <surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2214b">
+<persName>
+<forename>Katharina</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1841"/>
+<death when="1920"/>
+<occupation>Nagelschmiedswitwe</occupation>
+<residence><geo decls="#WGS">47.48474 10.327536</geo>Hindelang, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet, verwitwet</p>
+<p from="1911" to="1920">Anstalt: 1911-20</p>
+<p from="1911" to="1920">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Manisch-depressiv], Alkoholismus (1911)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    erhält keinen Brief, ihr wurde Entlassung versprochen, wünscht Auskunft oder Besuch
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2214b05a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="kfb2214b05b.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#r">Irse den 4ten Se<del>l</del>demer<lb break="yes"/>1912.</hi></dateline>
+<salute><space/> Liebster Josef und Rosa,</salute>
+</opener>
+<p>
+ schon Eine Lange zeit Ist =<lb break="yes"/>Verflossen Das Ihr geschriben habt, jetzt bin Ich =<lb break="yes"/>geträngt Euch Ihn Kentnies zu setzen warum̄=<lb break="yes"/>Ihr so lange zögert, Ich weis ja gar nicht wo =<lb break="yes"/>Es fehlt Das Ich keine antwort mehr bekome =<lb break="yes"/>Darum̄ bitte Ich recht Hertzlich Ihr wollet =<lb break="yes"/>mier doch antworten damit Ich weis wo Ich =<lb break="yes"/>Hinzuwenden <w>ha abe</w>. Den um 1 Marck 50 dl <add>ber Josef</add><lb break="yes"/>Köntest du auch brauchen, besser wie die Anstalt<lb break="yes"/>Den Ich werde mich An den Her Direckor wenden<lb break="yes"/>der hat mier schon Zu oft mre die Entlassung<lb break="yes"/>versprochen aber es wahr nur Rohl und Barteilg<lb break="yes"/>keit nach Eu kam der Hertz und besuchte mich =<lb break="yes"/>Und versprach mier seit 11s. Tagen sie alles<lb break="yes"/>In der Ordnug aber vergebens warte =<lb break="yes"/>Ich Ich geglaubt Eigner Kinder könten
+
+<pb facs="#image_014"/>
+Nicht so hartherzig sein Liebe Rosa Ich geglaubt<lb break="yes"/>Du werdest diech meiner Erbarmen, mich aus<lb break="yes"/>Dieser Pein zu Erlösen die Reise wird dier<lb break="yes"/>Enschädiget, Meine Schwester Maria =<lb break="yes"/>hat der Filomena geschriben das sie dier<lb break="yes"/>schon was Schicken wolle. <seg ana="#salute"><seg ana="#metaling">Jetz will Ich<lb break="yes"/>mein schlechtes schreiben schlüsen</seg> mit =<lb break="yes"/>vielen Grüsen an Ech beide.</seg> Ich Wünsche =<lb break="yes"/>Die Glück zum <w>Namens Tage</w> Das du<lb break="yes"/>Ihn noch vile Jahre gesund Erleben =<lb break="yes"/>werdest darum bitte Ich diech und den Josef<lb break="yes"/>nicht mehr lange zu warten sondern =<lb break="yes"/>mier auskunft zu Ertheilen oder lieber<lb break="yes"/>wäre mich noch selber zu besuchen damit<lb break="yes"/>wier mündlich <w>mit</w><w>Einander</w> <del>w</del> renden<lb break="yes"/>könen <seg ana="#signed">Und verbleibe Eure Alte<lb break="yes"/><hi rendition="#r"><surname>B.</surname> Mutter Katharina</hi></seg>
+</p>
+</body>
+</text>
+</TEI>

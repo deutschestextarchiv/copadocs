@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1669w01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1669</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwager: Sigmund <surname>H.</surname></persName>
+<date type="sent">27.01.1899</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Lindau</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1669w">
+<persName>
+<forename>Babette</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1840"/>
+<death when="1911"/>
+<occupation>Spitalpfründnerin</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Tuchscherer</p>
+<p from="1898" to="1911">Anstalt: 1898-1911</p>
+<p from="1898" to="1911">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Idiotie (1899), [Wahnideen, Halluzinationen] </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwager"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Fragt nach dem Befinden der Patienten und ob diese geheilt werden könne.
+                    Zudem lässt auch die Schwester der Patientin dieser ein Schreiben zukommen, das ihr vorgelesen werden soll.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1669w01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Lindau</hi>
+<hi rendition="#i">den</hi> 27. Iän̄.<lb break="yes"/><hi rendition="#u">1899.</hi></hi></dateline>
+<salute>hochwohlgeb.<lb break="yes"/><hi rendition="#c">herrn <hi rendition="#i">Director</hi><lb break="yes"/></hi><hi rendition="#r"><hi rendition="#u">Kaufbeuren.</hi></hi></salute>
+</opener>
+<p>Mit gegenwärtigem ersuche<lb break="yes"/>ich Sie um gefl. Mittheilung<lb break="yes"/>über das Befinden der Babette<lb break="yes"/><surname><hi rendition="#i">W.</hi></surname> aus <hi rendition="#i">Lindau</hi>. Meine
+                Frau.<lb break="yes"/>legt an ihre Schwester Babette<lb break="yes"/>einige Zeilen
+                bei u bitten ganz<lb break="yes"/>ergebenst ihr diese vorlesen zu<lb break="yes"/>lassen.<space/>
+<seg ana="#salute">Ihrer gütigen Rück<lb break="no"/>antwort gerne gewärtig empfehle<lb break="yes"/>mich Ihnen mit<lb break="yes"/><hi rendition="#r">Aller
+                        Achtung<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed"><w>Sigmd</w><surname><w><hi rendition="#i">H.</hi></w></surname></seg></hi></p><p>Kann man der hoffnung Raum<lb break="yes"/>geben daß der Zustand zu heilen ist?</p>
+</body>
+</text>
+</TEI>

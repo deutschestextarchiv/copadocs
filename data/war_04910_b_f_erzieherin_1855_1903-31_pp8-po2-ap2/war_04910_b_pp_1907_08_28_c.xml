@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="war4910b11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 660: Warstein</collection>
+<idno>4910 (K. xx)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>B.</surname></persName>
+<date type="sent">28.08.1907 <!--wahrscheinlich vom 28.8.1907 da dieser Brief mit den Briefen 09 und 10 durch ein Band verknotet ist--></date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Sophie <surname>K.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="war4910b">
+<persName>
+<forename>Anna</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1855-04-07"/>
+<death cert="unknown"/>
+<occupation>Erzieherin</occupation>
+<residence><geo decls="#WGS">52.0191005 8.531007</geo>Geburtsort: n.a.; Wohnort: Bielefeld</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Buchhändler, Mutter: ohne Beruf</p>
+<p from="1903-03-14" to="1931">Anstalt: 14.03.1903-1931</p>
+<p from="1903-03-14" to="1931">Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>einfache Seelenstörung (1903)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin bestätigt, dass sie den Brief der Adressatin erhalten hat, und freut sich auf ihren Besuch.
+                    Sie hat Touristen mit dem Fahrrad beobachtet.
+                    Sie hätte gerne Besuch von Maria und Johann gehabt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="war4910b11a.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="war4910b11b.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_026"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#i">Frau Baumeister J. F. </hi><surname><hi rendition="#i">K.</hi></surname><hi rendition="#i"> Dortmund </hi><lb break="yes"/><hi rendition="#i"> am Kaiser Wilhelm Hain</hi>.<lb break="yes"/><space/> Geliebte <hi rendition="#i">Sophie</hi>! </salute>
+</opener>
+<p>Deinen lieben<lb break="yes"/>Brief erhielt ich diesen Morgen. Ich wer<lb break="no"/>de mich freuen wenn Du mich be<lb break="no"/>suchst; aber vor <hi rendition="#i">October</hi>
+<w>so lange</w> das<lb break="yes"/>Wetter noch günstig ist. Ich sehe auch hier<lb break="yes"/>zu weilen <hi rendition="#i">Touristen per Bycicle</hi> die Wege<lb break="yes"/>sind gut bei troknen Wetter in den<lb break="yes"/>Bergen aber
+                doch anstrengend für einen<lb break="yes"/>Backfisch. Kürzlich beobachtete ich ich
+                zwei <pb facs="#image_027"/>Jünglinge welche ihre ganze Geschicklich<lb break="no"/>keit aufwenden mußten um die Dreh<lb break="no"/>ungen einzuhalten die die Thäler
+                und<lb break="yes"/>Hügel erfordern. Hier die <w>Speise wagen</w><lb break="yes"/>haben
+                auch bei Wind mit großen Schwie<lb break="no"/>rigkeiten zu kämpfen. Ich freue mich<lb break="yes"/>daß <hi rendition="#i">Maria</hi> ein so gutes Zeugniß hat.<lb break="yes"/><hi rendition="#i">Finnentrop</hi> ist hier in nächster Nähe da<lb break="yes"/>hätte mich <hi rendition="#i">Johann</hi> und <hi rendition="#i">Maria</hi> auch be<lb break="no"/>suchen können ich würde mich sehr, sehr<lb break="yes"/>gefreut haben. <seg ana="#salute">Grüße Alle Deine Lieben von<lb break="yes"/>mir und
+                sei herzlichst geküßt von Deiner<lb break="yes"/><hi rendition="#c"><w>Dich</w><w>liebenden</w> Schwester</hi> <seg ana="#signed"><hi rendition="#i">Anna
+                            </hi><surname><hi rendition="#i">B.</hi></surname></seg></seg>
+</p>
+</body>
+</text>
+</TEI>

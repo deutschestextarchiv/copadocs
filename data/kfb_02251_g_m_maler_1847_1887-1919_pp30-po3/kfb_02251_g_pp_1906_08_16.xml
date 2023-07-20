@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">16.08.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Babette <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Maler</p>
+<p from="1887" to="1919">Anstalt: 1887-1919</p>
+<p from="1887" to="1919">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/><!--anpassen!-->
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Bericht über Verbrecher in seinem Umfeld und in der Anstalt.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g14a.jpg" xml:id="image_048"/>
+<graphic mimeType="image/jpg" url="kfb2251g14b.jpg" xml:id="image_049"/>
+<graphic mimeType="image/jpg" url="kfb2251g14c.jpg" xml:id="image_050"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_048"/>
+<opener>
+<dateline>Irsee den 16 August 1906.</dateline>
+<salute><hi rendition="#c">Werthe Schwester!</hi></salute>
+</opener>
+<p>Betreff Mißhandlungen<lb break="yes"/>lauter Erdenklichter Wißen<lb break="yes"/>durch Herrn <surname>R.</surname> u Er<lb break="yes"/>sich nicht 3 Pfleger
+                    be<lb break="no"/>mächtigt Hane zu bestrafen<lb break="yes"/>müßen das Ich
+                der Ehren<lb break="no"/>man wieder geworden<lb break="yes"/>bin. Nach der außen<lb break="yes"/>Welt einen solchen Hane<lb break="yes"/>bedanke Ich mich
+                nicht.<lb break="yes"/><surname>H.</surname> ist ein Meineidiger<lb break="yes"/>Man schon lange
+                in Irrsee<lb break="yes"/>von unßerer Abtheilung.<lb break="yes"/>Herr <surname>R.</surname>
+                von Lindau<lb break="yes"/>Angestellter auf Miß<lb break="no"/>handelt oder
+                Unglüchlicher.<lb break="yes"/>Warum Besuchtest mich<lb break="yes"/>nicht,
+                durch Herrn Schwenn<lb break="no"/>inger oder anderer<lb break="yes"/>nicht Ich
+                Angelogen </p>
+<pb facs="#image_049"/>
+<p>weiß Ich nicht. Meine<lb break="yes"/>Kleider Schneider Schuster<lb break="yes"/>u stonstige Rechnungen<lb break="yes"/>alle Bezahlen mußte bei<lb break="yes"/>Vater u Mutter. Bei<lb break="yes"/>Verzinslichung u Erben<lb break="yes"/>mußt
+                mich Besuchen<lb break="yes"/>Bei Tante <surname>H.</surname><lb break="yes"/>geht es nicht mehr wie<lb break="yes"/>Munde. Betreff
+                    <del>s</del><lb break="yes"/>mich nicht Besucht hast, –<lb break="yes"/>bist eine ordinären
+                    Kar<lb break="no"/>rackter geweßen nir<lb break="yes"/><seg ana="#salute">Jetzt Schließe mein<lb break="yes"/>Schreiben daß den Brief<lb break="yes"/>erhalten hast.<lb break="yes"/><hi rendition="#c">Es grüßt dich </hi><seg ana="#signed">dein<lb break="yes"/>Bruder.<lb break="yes"/>Jakob <surname>G.</surname><lb break="yes"/>Maler. </seg></seg></p>
+<pb facs="#image_050"/>
+<p>Wohlgeborn<lb break="yes"/>Babette <surname>G.</surname> Malerstochter<lb break="yes"/><hi rendition="#c"> in Lindau.<lb break="yes"/>Bodensee. </hi><lb break="yes"/>frei.      
+            </p>
+</body>
+</text>
+</TEI>

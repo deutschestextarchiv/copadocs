@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2922m02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katrin Schreinemachers</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2922</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Christine <surname>M.</surname></persName>
+<date type="sent">ca1923-26</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2922m">
+<persName>
+<forename>Christine</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1845"/>
+<death cert="unknown"/>
+<occupation>Spinnerswitwe</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: led. Taglöhnerin</p>
+<p from="1923" to="1926">Anstalt: 1923-26</p>
+<p from="1923" to="1926">Brieftypen: pp, po</p>
+</state>
+<trait><p>Senile Demenz (1922)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="minor" scribe="patient"/>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    betet, dass er wieder gesund wird; die Oberpflegerin kümmert sich gut um die Patienten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2922m02a.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Wehrteste<del>t</del> Herr Oberarzt.</hi></salute>
+</opener>
+<p>
+Da es uns zu lange dauert bis Sie wieder komen so will<lb break="yes"/>ich Ihnen mittheilen das wir alle Tage Vater unser<lb break="yes"/>beten das Gott helfen wird das Sie bald wieder gesund<lb break="yes"/>sein und an unsre Seite stehen könen Gott wird helfen<lb break="yes"/><handShift medium="pencil" scribe="patient"/> auch unsre Frau Ober<del>f</del>pfegering ist recht behülflich<lb break="yes"/>Sie komt Nachts noch um <unclear>7</unclear> Uhr zu mir wir können ja gar<lb break="yes"/>nicht mehr verlangen <surname>H.</surname> Walburga. <surname>B.</surname><lb break="yes"/>Marie von der <surname>H.</surname> <seg ana="#salute">einen Gruß das Sie<lb break="yes"/>schon ein bar Nächte gut geschlafen hat auch viel<lb break="yes"/>Grüsse von der ganzen Abtheilung</seg> wünschen Ihnen<lb break="yes"/>alle Gesundheit und Sie sollen bald wieder kommen<lb break="yes"/><hi rendition="#u"><hi rendition="#c"><seg ana="#signed">Christjane <surname>M.</surname></seg></hi></hi>
+</p>
+</body>
+</text>
+</TEI>

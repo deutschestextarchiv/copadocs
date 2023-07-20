@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>K.</surname></persName>
+<date type="sent">ca1865-67</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Lieutenent: Josef <surname>S.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1865" to="1867">Anstalt: 1865-67</p>
+<p from="1865" to="1867">Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet darum, abgeholt zu werden, und lässt etwas ausrichten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb415k02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Datum </hi>des <hi rendition="#i">Post-Stempl</hi>s.</hi></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr Lieutenent!</hi></salute>
+</opener>
+<p><add place="top"><hi rendition="#i"><surname>S.</surname></hi> soll h.
+                        <surname>A.</surname><lb break="yes"/>der im Hrsstall ist<lb break="yes"/>fragen u. mis<lb break="yes"/>Grüßen</add>
+</p> <p>Wenn ich es wagen darf an Sie eine Bitte<lb break="yes"/>zu richten, so ist es folgende.
+                Nachdem Sie<lb break="yes"/>mich hieher verbracht haben, so bitte ich<lb break="yes"/>mich auch wieder abholen zu wollen. Kommen<lb break="yes"/>Sie in
+                Uniform so bitte ich auch meine mitnehmen<lb break="yes"/>zu wollen, der
+                Ordonanzkoffer soll <hi rendition="#i"><unclear>Nistabichler</unclear></hi><lb break="yes"/>zecken. Wir müßen doch zweiter Classe reißen,<lb break="yes"/>Ob
+                    <hi rendition="#i">mir</hi> durchfahren od. in <hi rendition="#i">Wiler Worie</hi>
+                    aus<lb break="no"/>steigen überlasse ich <hi rendition="#i">Ihnen</hi>. Wollen
+                Sie Ihre<lb break="yes"/>werthe Frau u. den klein Joh. mitnehmen blleibt<lb break="yes"/><hi rendition="#i">Ihnen</hi> u. Frau Gemahlin überlassen. −
+                Ich bitte<lb break="yes"/>Sie freundlichst, dem Hs. <hi rendition="#i"><surname>S.</surname></hi>, Gasthofbesitzer<lb break="yes"/>"<hi rendition="#i">zur Post</hi>" zu sagen, daß am 15. l. M. in der k.<lb break="yes"/>Hofreitschule zwei Hengst 3½ u. 2½ Jahr alt<lb break="yes"/>versteigert werden. Solle der ältere um einen<lb break="yes"/>annehmbaren Preis zu erwerben sein, u. keine<lb break="yes"/>Fehler besitzen,
+                gute Füße u. Huf, gut genährt<lb break="yes"/>u. regelmäßig Gang haben, so möchte
+                Hs. <hi rendition="#i"><surname>S.</surname></hi><lb break="yes"/>mir dieseselben kaufen. Reiseront: wie <hi rendition="#i">München<lb break="yes"/>Fürstenfeld, Schwabmünchen</hi>
+<unclear/></p>
+<p><seg ana="#salute">Unter herzlichen, aufrichtigen Grüßen an Sie<lb break="yes"/>und
+                    Frau-Gemahlin</seg> Ihr <unclear>mes.</unclear> dankbarst<lb break="yes"/><hi rendition="#r"><hi rendition="#i"><surname>K.</surname></hi></hi></p>
+<pb facs="#image_004"/>
+<p><hi rendition="#r"><hi rendition="#i">Seiner Wohlgeborn</hi></hi><lb break="yes"/>th. Herrn Iosef <hi rendition="#i"><hi rendition="#u"><surname>S.</surname></hi></hi> k. <hi rendition="#i">Lieutenent</hi><lb break="yes"/>im k. 3. Infanterie Rgl. "<hi rendition="#i">Prinzlau</hi>"<lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Kempten</hi></hi>.</hi><lb break="yes"/>franco<lb break="yes"/>3 fr.<lb break="yes"/><add place="top"><seg ana="#salute">Grüße an Th. Her
+                            <unclear>Restilim.</unclear>
+<hi rendition="#i">Herrn Major<lb break="yes"/><surname>H.</surname></hi> u. Hs Olb. <hi rendition="#i">v.
+                            <surname>F.</surname></hi>.</seg></add>
+</p>
+</body>
+</text>
+</TEI>

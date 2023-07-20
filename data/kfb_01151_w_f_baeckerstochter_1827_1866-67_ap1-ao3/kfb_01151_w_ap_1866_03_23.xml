@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1151w01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1151</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Joseph <surname>W.</surname></persName>
+<date type="sent">23.03.1866</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Josepha <surname>W.</surname></persName>
+<settlement type="sent">Schopflohe</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1151w">
+<persName>
+<forename>Josepha</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1827"/>
+<death cert="unknown"/>
+<occupation>Bäckerstochter</occupation>
+<residence><geo decls="#WGS">48.9801924 10.4830007</geo>Schopflohe, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Bäcker</p>
+<p from="1866" to="1867">Anstalt: 1866-67</p>
+<p from="1866" to="1867">Brieftypen: ap, ao</p>
+</state>
+<trait><p>Verrücktheit, Verstandesschwäche (1867)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Lässt der Patientin verschiedene Kleidungsstücke zukommen, die er in dem Brief auflistet. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1151w01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Schopflohe am 23<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> März<lb break="yes"/>1866.</hi></dateline>
+<salute><space/> Liebe Schwester!</salute>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#c">9</hi></add></add></p><p><add hand="arzt"><unclear><hi rendition="#i">e</hi></unclear><hi rendition="#i">odem</hi><lb break="yes"/><unclear/>
+<w>Empfangs Anzeige</w><lb break="yes"/><hi rendition="#i">DK</hi> <space/>
+<unclear>Wdz</unclear></add></p>
+<p><add hand="arzt"><hi rendition="#r"><hi rendition="#i">prs</hi>. am 25 <hi rendition="#i">März</hi> 1868<lb break="yes"/>E N 1435</hi></add></p>
+<p>Hier übersende ich Dir:<lb break="yes"/>1. <hi rendition="#u" style="arzt">drei</hi>
+                    Hemden, <hi rendition="#u" style="arzt">2 </hi>Röcke, <hi rendition="#u" style="arzt">einen</hi> Unterleib<lb break="yes"/>u. einen <add hand="arzt" place="above"><unclear>u. Spenser</unclear></add>
+                    Kittel,<hi rendition="#u" style="arzt"> 3 P</hi>aar Strümpfe, zwei<lb break="yes"/><hi rendition="#u" style="arzt">Hals</hi>tücher, <hi rendition="#u" style="arzt">2 S</hi>acktücker,<hi rendition="#u" style="arzt"> 3 </hi>Schürze, <hi rendition="#u" style="arzt">1 </hi>Paar<lb break="yes"/>Schuh u.<hi rendition="#u" style="arzt"> eine Haube</hi>.</p><p>Vor der Hand ist es mir nicht möglich<lb break="yes"/>mehr zu schicken u. ich werde späterhin<lb break="yes"/>gewiß Sorge tragen, daß die nöthigen<lb break="yes"/>Kleidungsstücke u. s. w. gewiß nach Be<lb break="no"/>dürfniß nachgeschickt
+                werden. </p><p><seg ana="#salute">Unter Gruß auch von Deinen Schwestern<lb break="yes"/>verbleibe ich<lb break="yes"/><hi rendition="#c">Dein</hi><lb break="yes"/><hi rendition="#r">liebender Bruder</hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r">Joseph
+                            <surname>W.</surname>.</hi></seg></p><p><add place="margin">Jch wünsche gelegenheitlich<lb break="yes"/>einige Zweilchen, ob diese<lb break="yes"/>Gegenstände in Irrsee<lb break="yes"/>angekom̄en sind
+                    oder<lb break="yes"/><space/> nicht.</add></p>
+</body>
+</text>
+</TEI>

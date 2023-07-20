@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun186f05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>186 (K. 470)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Direktor: n.a. <surname/></persName>
+<date type="sent">28.11.1884</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Angehöriger einer Patientin: N. <surname>J.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mun186f">
+<persName>
+<forename>Josephine</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1846-03-01"/>
+<death cert="unknown"/>
+<occupation>n.a.</occupation>
+<residence><geo decls="#WGS">51.9532449 7.9912335</geo>Geburtsort: Sonsbeeck; Wohnort: Warendorf</residence>
+<faith>jüdisch</faith>
+<state>
+<p from="" to="">Familienstand: verwitwet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1884-10-17" to="1885-06-01">Anstalt: 17.10.1884-01.06.1885</p>
+<p from="1884-10-17" to="1885-06-01">Brieftypen: pp, po, ao, oa</p>
+</state>
+<trait><p>einfache Seelenstörung (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="direktor"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Direktor antwortet auf das Schreiben des ehemaligen Angestellten (mun186f04) mit einem Bericht über die körperlichen Leiden der Patientin.
+                    Ein Besuch ist abhängig vom Gesundheitszustand der Patientin, eine Korrespondenz ist nicht möglich.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun186f05a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="mun186f05b.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Münster</hi> d 28. November
+                        1884</hi></dateline>
+<salute><hi rendition="#c">Er. Wohlgeboren</hi></salute>
+</opener>
+<p>benachrichige ich auf Ihr gefälliges Schreiben vom <pb facs="#image_014"/><unclear/><lb break="yes"/>ein wachsendes ist, indem dieselbe bald mehr bald weniger über<lb break="yes"/>innere Beunruhigung, Sorge wegen des Kindes, Sorge
+                    wegen des Ge<lb break="no"/><unclear>schäft</unclear>
+<hi rendition="#i">etc</hi> klagt und zeitweise auch mehrfache körperliche be<lb break="no"/>schwerden wie <seg ana="#med">Kopfweh, Schlaflosigkeit</seg>
+<hi rendition="#i">etc</hi> äussert. Im Bette<lb break="yes"/>gewesen zeigt sie sich
+                jedoch freier u. aufgeweckter.<lb break="yes"/><del><unclear>Umsichtlich</unclear></del> Ihre weit<del>rere</del><add place="above">ere</add> Frage, ob im Anfange des Monat<lb break="yes"/><hi rendition="#i">Januar</hi> ein Besuch bei der xx ausführbar erscheint muß<lb break="yes"/>ich dahin gestellt sein lassen, da die Ausführbarkeit desselben<lb break="yes"/>nur von dem Befinden der Frau <surname><hi rendition="#i">F.</hi></surname> abhängig ist,<lb break="yes"/>dahingegen muß ich
+                aus verschiedenen Gründen die Eröff<lb break="no"/>nung einer Corresspondenz mit der
+                Frau <surname><hi rendition="#i">F.</hi></surname>, so <del>...</del><lb break="yes"/>lange dieselbe wegen ihrer Erkrankung in der hiesig Anstalt<lb break="yes"/>sich befindet, entschieden ablehnen.<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Der Direktor:<lb break="yes"/><unclear>M</unclear></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

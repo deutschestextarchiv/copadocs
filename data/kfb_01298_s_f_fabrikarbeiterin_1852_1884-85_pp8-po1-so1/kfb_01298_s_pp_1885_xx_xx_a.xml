@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1298s03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Susanne Klohn</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1298</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Viktoria <surname>S.</surname></persName>
+<date type="sent">xx.xx.1885</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Carl <surname>F.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1298s">
+<persName>
+<forename>Viktoria</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1852"/>
+<death cert="unknown"/>
+<occupation>Farbikarbeiterin</occupation>
+<residence><geo decls="#WGS">48.0290394 10.7340993</geo>Buchloe, Kaufbeuren</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Mutter Dienstmagd, Vater: Sergent (?)</p>
+<p from="1884" to="1885">Anstalt: 1884-1885</p>
+<p from="1884" to="1885">Brieftypen: pp, po, sonst</p>
+</state>
+<trait><p>Verrücktheit mit Größen-, Verfolgungs- und Beeinträchtigungswahn (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beschuldigung des Rezipienten für eigene Lage, Ermahnen, Erinnerung an angebliche Schulden und Pflichten (Verschwörungstheorien)
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1298s03.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><add hand="arzt">Irsee<lb break="yes"/>1885</add>
+</dateline>
+<salute><hi rendition="#c">Reute Im<lb break="yes"/>Teuerster Carl <hi rendition="#i">Florian</hi></hi><lb break="yes"/></salute>
+</opener>
+<p>
+<hi rendition="#i">Es</hi> ist mir leid Dich an die Pflicht zu<lb break="yes"/>erinern wo Du mir schuldig bist<lb break="yes"/>vor Gott und der Welt; das ich
+                    nicht<lb break="yes"/>allein es verdient habe das Du mich<lb break="yes"/>so
+                verfolgst; Dir war es dan besser bekan̄t<lb break="yes"/>meine Geburt meine
+                Eltern und<lb break="yes"/>Vorgesetzte als wie mir selber.</p>
+<p>Ich Mane Dich an die Pflicht wo Du<lb break="yes"/>mir Schuldest mich von dieser
+                    trostloosen<lb break="yes"/>Lage in welche ich durch Dich gerathen bin<lb break="yes"/>zu <w>be frei</w>; Glaube nur das ist
+                    unrecht<lb break="yes"/>wie ich durch Dich jetzt schon Mißhandelt<lb break="yes"/>wurde Gott ist Gerecht <w>er</w><w>belohnt</w> das Gute<lb break="yes"/>und bestraft das
+                böse und Du und alle die<lb break="yes"/><w>Gesin̄ungs Genosen</w> der Gesellschaften<lb break="yes"/>heimgärten wo ich unter Euch noch war<lb break="yes"/>kan̄
+                ich schliesen das man mir Rache geschworen<lb break="yes"/>Warum dieses ich habe
+                keine schlechte Absicht<lb break="yes"/>gehabt und wahr auch nicht falsch gegen
+                    Euch.<lb break="yes"/>Ich habe wohl Muth und Kraft um zu denken </p>
+</body>
+</text>
+</TEI>

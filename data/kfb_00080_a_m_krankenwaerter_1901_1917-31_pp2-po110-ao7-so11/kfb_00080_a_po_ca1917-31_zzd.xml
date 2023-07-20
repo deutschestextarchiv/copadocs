@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a30" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca1917-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er entschuldigt sich für sein Verhalten.
+                    Er bittet um Verlegung auf eine andere Station, weil ihm lagweilig ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a30a.jpg" xml:id="image_125"/>
+<graphic mimeType="image/jpg" url="kfb80a30b.jpg" xml:id="image_126"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_125"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#r">Sehr geehrter Herr Ober-Medizinalrat</hi></salute>
+</opener>
+<p>Ich nehme mein gestriges freches Benehmen<lb break="yes"/>mit Bedauern wieder
+                zurück, &amp;. bitte Sie<lb break="yes"/>um Verzeihung.</p>
+<p>Tun Sie bitte mich heute für<lb break="yes"/>ganz wieder auf C3; bevor ich<lb break="yes"/>im Zorn, die Scheiben nausschlage.</p>
+<p>Weil ich Nachmittags nicht mehr auf C3 darf<lb break="yes"/>zur Unterhaltung darf
+                wie die letzten 2 Jahre<lb break="yes"/>bin ich im̄er aufgeregt &amp;. mir
+                fallen viel<lb break="yes"/>böse dum̄e Sachen ein. <del>H.</del> Leider
+                schreie<lb break="yes"/>ich zum Fenster vielen besseren Herren <pb facs="#image_126"/>böse Geschwätze zu, &amp;. es kom̄t mir im̄er<lb break="yes"/>viel in Kopf, das Fenster nausschlagen.<lb break="yes"/>Kann
+                mich oft nicht beherrschen. Hier<lb break="yes"/>ist es mir zu langweilig. Hab hier<lb break="yes"/>auch keine Kameraden. Auf C3 dagegen<lb break="yes"/>hab ich
+                gute Unterhaltung &amp;. mehrere,<lb break="yes"/>die ich liebe. <seg ana="#inst">Wir spielen jeden
+                Tag zu<lb break="yes"/>sechst 6 das Spiel <hi rendition="#i">Mensch ärgere dich
+                    nicht</hi></seg>.<lb break="yes"/>Auf C3 bin ich am besten versorgt.</p>
+<p><hi rendition="#c">Euer Hochwohlgeboren!</hi><lb break="yes"/>Tun Sie mich bitte heute noch<lb break="yes"/>auf C 3, C3, C3,
+                bevor was<lb break="yes"/>dumes hier vorkommt.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Hochachtungsvollst</seg>
+<seg ana="#signed"><hi rendition="#i"><surname>A.</surname></hi>
+                    Hans</seg></hi></p>
+</body>
+</text>
+</TEI>

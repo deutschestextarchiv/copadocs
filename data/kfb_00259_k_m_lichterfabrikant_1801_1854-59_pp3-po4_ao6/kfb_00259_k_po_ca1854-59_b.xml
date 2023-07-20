@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb259k11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>259</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>K.</surname></persName>
+<date type="sent">ca1854-59</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Staatsministerium des Inneren München: n.a.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb259k">
+<persName>
+<forename>Joseph</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1801"/>
+<death cert="unknown"/>
+<occupation>Seifen- und Lichterfabrikant</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1854" to="1859">Anstalt: 1854-59</p>
+<p from="1854" to="1859">Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Confusio Idearum, Wahnvorstellungen (1854)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient fordert eine Untersuchungskommission
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb259k11a.jpg" xml:id="image_021"/>
+<graphic mimeType="image/jpg" url="kfb259k11b.jpg" xml:id="image_022"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">An</hi><lb break="yes"/>das <hi rendition="#i">Königliche Bairische Staadts<lb break="no"/>Ministerium</hi> des <hi rendition="#i">Innern!</hi><lb break="yes"/><hi rendition="#c">in <hi rendition="#i">München.
+                        −</hi></hi></salute>
+</opener>
+<p>Unterzeichneter füllt sich verpflich<lb break="no"/>tet, die gehorsamste Anzeige
+                zu machen,<lb break="yes"/>so bald ihm möglich, eine k. B. r. hohe<lb break="yes"/>Regierung, <hi rendition="#i">Polizei Direction</hi> in Ken̄tniß<lb break="yes"/>zu setzen, um endlich einmal, eine<lb break="yes"/>Untersuchungs
+                    <hi rendition="#i">Com̄ission</hi> bewerk<lb break="no"/>stelligen zu
+                laßen, indem gehor<lb break="no"/>samst unterzeichneter, seit dem; 19<hi rendition="#u">ten</hi><lb break="yes"/><hi rendition="#i">Mai</hi>
+<hi rendition="#u">1854</hi> im Müßiggang hier<lb break="yes"/>sitzt. −
+                − − indem er aber zu jede<lb break="yes"/><hi rendition="#i">Minute</hi>
+                bereit &amp; auf sein <w>Todes<lb break="no"/>Urtheil</w> gefaßt ist. −<lb break="yes"/>Um damit den <hi rendition="#u">Göttlichen</hi> Staadt<lb break="yes"/>nicht noch, und die Liebenswürdige<lb break="yes"/>f<hi rendition="#i">amielie</hi> in noch größere Kosten<lb break="yes"/>zu bringen<lb break="yes"/><hi rendition="#r">gehorsamster</hi><lb break="yes"/><hi rendition="#c"><seg ana="#signed"><hi rendition="#i">Joseph
+                                <surname>K.</surname></hi></seg><lb break="yes"/>z Anger N<hi rendition="#u">o</hi> 45 in <hi rendition="#i">München</hi><lb break="yes"/><hi rendition="#u">zur Stunde in Bad <hi rendition="#i">Irrsee</hi></hi></hi>
+</p>
+<pb facs="#image_022"/>
+<p><unclear/><hi rendition="#i">er Wo</hi>
+<unclear/>
+<hi rendition="#i"><unclear>hr</unclear>en</hi><lb break="yes"/><unclear/>zl: <hi rendition="#i">D<hi rendition="#u">r</hi></hi>
+<unclear>lb.</unclear>
+<unclear/><lb break="yes"/>k:B: <hi rendition="#i">Advoc<unclear/></hi>
+<unclear/><unclear>huhorht</unclear><lb break="yes"/>am Rinder<unclear>ma</unclear>rkt<lb break="yes"/><unclear>Sielbemarb</unclear><unclear/>
+<hi rendition="#i">N<hi rendition="#u">o</hi></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u"><unclear>Mü</unclear>nchen.</hi></hi></hi>
+</p>
+</body>
+</text>
+</TEI>

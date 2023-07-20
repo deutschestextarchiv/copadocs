@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a66" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">15.11.1921</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt1"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er berichtet von seinem Aufenthalt zuhause und bittet um Schlaftrunk.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a66.jpg" xml:id="image_165"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_165"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Sehr geehrter Herr Obermedizinalrat!</hi></salute>
+</opener>
+<p><add hand="arzt1" place="top">47 a</add><lb break="yes"/>Die Reue kommt bei mir <w>zu</w><w>spät</w>. <hi rendition="#u" style="arzt2"><seg ana="#curse">Ich bin wie eine Wetterfahne.</seg></hi> Jetzt<lb break="yes"/>war ich in letzter Woche daheim auf Urlaub. Da hatte ich es
+                sehr schön.<lb break="yes"/>Mein Vater wollte aber haben, daß ich nicht allein in
+                die Stadt Lindau<lb break="yes"/>u.s.w. gehe. Er meinte ich sollte daheim bleiben
+                &amp;. und nur mit ihm oder<lb break="yes"/>mit der Mutter spazieren gehen, &amp;.
+                ich sollte die Zeit lesen oder meiner<lb break="yes"/>Mutter helfen <w>zusammen
+                    kehren</w> oder sonstige häusliche Arbeiten tun zum<lb break="yes"/>Zeitvertreib. die ersten 14 Tage sicher. Ich versprach das alles zu tun &amp;. tat<lb break="yes"/>es anfänglich. Aber am 2. Tage schon als mein Vater im Dienste
+                war,<lb break="yes"/>ging ich in die Stadt zu allen Bekannten &amp;. das machte ich
+                alle Tage<lb break="yes"/>weiter. Mein Vater erfuhr es &amp;. es gefiel ihm nicht.
+                Mein Vater meinte<lb break="yes"/>&amp;. sagte mir, ich sollte gut tun, daheim
+                bleiben &amp;. den Schlaftrunk mir<lb break="yes"/>abgewöhnen, &amp;. /wenn ich so
+                folge &amp;. tue, dann behält er mich im̄er<lb break="yes"/>daheim. Das
+                freute mich zuerst sehr &amp;. ich hatte im Sinn dies zu tun,<lb break="yes"/>aber
+                ich konnte jede Nacht fast gar nicht schlafen, &amp;. dabei hatte
+                    ich es<lb break="yes"/>schwer mit dem Selbstmord zu tun &amp;. ohne
+                Schlaftrunk schlief ich<lb break="yes"/>nicht &amp;. das gefiel mir nicht mehr.
+                    <del>Sagte</del> meinem Vater, daß ich<lb break="yes"/>eine Arbeitsstelle
+                möchte, aber er erlaubte es nicht. Dann traute ich<lb break="yes"/>mir selbst nicht
+                mehr, &amp;. daß ich mir nichts dummes antue, &amp;. mei<lb break="no"/>nen Eltern
+                keinen Kummer mache, verlangte ich wieder hierher<lb break="yes"/>auch dem
+                Schlaftrunk zu lieb. Jetzt, zu spät, <del>z.</del> reut es mich sehr.<lb break="yes"/>Ich bitte Sie höflichst, geben Sie mir jeden Abend wie seit 1½
+                Jahren<lb break="yes"/>einen Schlaftrunk 1 Fläschchen.<lb break="yes"/><space/> Es
+                grüßt Sie höflichst<lb break="yes"/><hi rendition="#r"><hi rendition="#i"><seg ana="#signed">Hans <surname>A.</surname></seg> C 3.</hi></hi></p>
+<p><space/><handShift medium="pencil" scribe="patient"/><seg ana="#curse"><hi rendition="#u" style="arzt2">Ich bin ein unglaublicher rätselhafter dummer
+                        Me</hi>nsch</seg>,<lb break="yes"/><hi rendition="#u" style="arzt2">ich
+                    kann mich nicht verstehen.</hi> Geben Sie mir bitte eine Ar<lb break="no"/>beit. <space/> 15. Novbr. 1921.</p>
+</body>
+</text>
+</TEI>

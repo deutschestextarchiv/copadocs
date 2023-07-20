@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor2499f05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>2499 (K. 60)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>F.</surname></persName>
+<date type="sent">22.02.1917</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktor</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor2499f">
+<persName>
+<forename>Heinrich</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1869-04-01"/>
+<death cert="unknown"/>
+<occupation>Maschinenschlosser</occupation>
+<residence><geo decls="#WGS">51.5142273 7.4652789</geo>Geburtsort: Dortmund; Wohnort: Dortmund</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: V: Monteur, M: k.A.</p>
+<p from="1917-02-20" to="1917-10-01">Anstalt: 20.02.1917-01.10.1917</p>
+<p from="1917-02-20" to="1917-10-01">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>depressive Geisteskrankheit mit wahnhaftigen Vorstellungen und Sinnestäuschungen (1917)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet den Doktor um Bestrafung, wenn er Unrecht getan hat
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor2499f05a.jpg" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_023"/>
+<opener>
+<dateline><add hand="arzt">22.II. 17 <hi rendition="#i"><surname>F.</surname></hi></add></dateline>
+<salute>Herr Doktor</salute>
+</opener>
+<p>Mein Leben ist eine<lb break="yes"/>Lüge, bitte bestrafen<lb break="yes"/><del>s</del>Sie mich wenn ich<lb break="yes"/>Unrecht getan habe.
+                    
+                    
+                    
+                    
+               
+                    
+                    
+                   
+                </p>
+</body>
+</text>
+</TEI>

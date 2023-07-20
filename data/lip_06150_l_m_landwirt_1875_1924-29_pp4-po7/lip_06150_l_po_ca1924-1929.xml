@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip6150l05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>6150 (K. 200)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>L.</surname></persName>
+<date type="sent">ca. 1924-1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Herrn <surname>V.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip6150l">
+<persName>
+<forename>Heinrich</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1875-06-23"/>
+<death cert="unknown"/>
+<occupation>Landwirt</occupation>
+<residence><geo decls="#WGS">51.5539206 7.3503272</geo>Geburtsort: Dingen; Wohnort: Dingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1924-09-02" to="1929-07-10">Anstalt: 02.09.1924-10.07.1929</p>
+<p from="1924-09-02" to="1929-07-10">Brieftypen: pp, po</p>
+</state>
+<trait><p>Demenz (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er erkundigt sich bezüglich eines Termins zur Vormundschaft seines Besitzes, ob dieser ausgefallen ist, bzw. wenn nicht, wann der Besitz an ihn übergeht.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip6150l05a.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#c">Herrn <surname>V.</surname></hi><hi rendition="#r"><lb break="yes"/>Bodelschwingh bei <hi rendition="#i">Mengede</hi></hi></p><p>Sie wissen, daß ich mich in<lb break="yes"/><placeName>Lengerich</placeName> befinde doch ich
+                bin<lb break="yes"/>nicht recht wohl. Die Vormundschaft <hi rendition="#i"><lb break="yes"/>Kastrop</hi> hat ein Termin<lb break="yes"/>zwecks Aufhebung
+                der Vormund<lb break="no"/>schaft; Sie sind <del>g</del>auch im<lb break="yes"/>Termin gewesen.<lb break="yes"/>Der Termin ist doch nicht<lb break="yes"/>ausgefallen daß ware für<lb break="yes"/>mich ein großer Zeitverlust.<lb break="yes"/>Sie müssen zum Amtsgericht<lb break="yes"/>hingehen und fordern
+                den<lb break="yes"/>Termin wenn derselbe noch nicht<lb break="yes"/>gewesen ist
+                Benachrichtigen Sie<lb break="yes"/>mich wann ich mein Besitztum<lb break="yes"/>antreten kann. <add place="margin"><lb break="yes"/><lb break="yes"/>(Auf den 14
+                    Juni anberaumt</add>
+</p>
+</body>
+</text>
+</TEI>

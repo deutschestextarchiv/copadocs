@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb451h11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>451</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Augusta von <surname>H.</surname></persName>
+<date type="sent">15.05.1856</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater:<surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb451h">
+<persName>
+<forename>Augusta von</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1812"/>
+<death cert="unknown"/>
+<occupation>Zollschutzwachengattin</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: kgl. Stallmeister</p>
+<p from="1855" to="1858">Anstalt: 1855-1858</p>
+<p from="1855" to="1858">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Fixe Ideen, Halluzination (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+               Hilferuf zur Entlassung an den Vater.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb451h11a.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="kfb451h11b.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_026"/>
+<opener>
+<dateline>Irsee 15ter Mai </dateline>
+<salute>1856. Mein guter Vater</salute>
+</opener>
+<p>
+<space/> Mein ritterlicher Schutzherr mein Trost<lb break="yes"/>Ich schreibe an Sie
+                    <add place="above">wie das Blat beweist</add> mit der Angst und Einschränk<lb break="no"/>ung einer Gefangenen aber auch mit dem Vertrauen<lb break="yes"/>eines geängstigten Kindes. - Ich bin seit länger<lb break="yes"/>als sechs Monath
+                in Irrsee. <del>Einen</del> Ob ein als krank<lb break="yes"/>oder schutzbefohlen
+                gleichviel es ist der traurigste<lb break="yes"/>Ort von der Welt <add place="above">Es ist</add> auf Krankheit und Unglück<lb break="yes"/>berechnet
+                und hat doch weder den Trost noch die<lb break="yes"/>Die Liebe die man in beiden
+                    Fällen nöthig<lb break="yes"/><hi rendition="#r">hat</hi></p>
+<pb facs="#image_027"/>
+<p> O mein lieber Vater in dieser unterten Hülflosigkeit<lb break="yes"/>wende ich
+                mich an meine ritterlichen Schutzherrn<lb break="yes"/>Laßen Sie meine Lage ein
+                Zeichen sein daß zur<lb break="yes"/>Eile fodert und beschleunigen Sie die
+                Einrichtung<lb break="yes"/>meiner Verhältniße sei es auch nur ein Intrim<lb break="yes"/>zustand ja bedürfte es neuen Asyls ich will<lb break="yes"/>lieber
+                in einem Kloster dulden und warten<lb break="yes"/>wie hier - Dieser Aufenthalt ist
+                mein Grab<lb break="yes"/>wenn es noch lange dauert rufen Sie daher<lb break="yes"/>Auferstehung mein Vater und erlösten Sie mich<lb break="yes"/><seg ana="#metaling">Nochmahls Verzeihung für Styl Blatt und Schrieft es ist<lb break="yes"/><hi rendition="#u">Contrebande</hi> mit Gefahr</seg> Augusta
+                von <surname>H.</surname></p>
+</body>
+</text>
+</TEI>

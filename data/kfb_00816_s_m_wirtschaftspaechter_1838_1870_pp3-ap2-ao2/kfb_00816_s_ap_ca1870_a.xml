@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb816s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>816</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Emma <surname>S.</surname></persName>
+<date type="sent">ca1870</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann: Ferdinand <surname>S.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb816s">
+<persName>
+<forename>Ferdinand</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1838"/>
+<death cert="unknown"/>
+<occupation>Wirtschaftspächter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern:</p>
+<p from="1870" to="1870">Anstalt: 1870</p>
+<p from="1870" to="1870">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>[Alkoholismus], Dementia paralytica (1870)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="frau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie bittet um Nachricht, wann sie ihn abholen kann.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb816s05a.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb816s05b.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb816s05c.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><foreign xml:lang="frz"><hi rendition="#i">Au revoir á
+                                bientôt!<lb break="yes"/>!j<hi rendition="#u">es</hi>p<hi rendition="#u">èr</hi>e!</hi></foreign><lb break="yes"/>Mein liebster <hi rendition="#i">bester</hi> einziger
+                        Ferdinand!</hi></salute>
+</opener>
+<p>Meinen Brief wirst du erhalten haben u.<lb break="yes"/>wen es Herr <hi rendition="#i">Direktor</hi> erlaubt daß<lb break="yes"/>ich Dich mein <hi rendition="#i">Lieber</hi> hohlen darf so<lb break="yes"/>mußt Du mich es <hi rendition="#u">umgehend</hi> wissen<lb break="yes"/>lassen damit es doch noch
+                vor Ostern geschiedt;<lb break="yes"/>sei so gut u. rede mit Herr <hi rendition="#i">Direktor</hi><lb break="yes"/>darüber und schreibt <hi rendition="#u">gleich</hi> bis <hi rendition="#u">wen?</hi><lb break="yes"/>ich kom̄en soll? ich bin <hi rendition="#u">jede
+                    Stundte</hi><lb break="yes"/>mit <hi rendition="#u">dem größten Vergnügen</hi> bereit nicht<lb break="yes"/>daß Du glaubst es liegt die Schuld<lb break="yes"/>an <hi rendition="#i">Deiner <hi rendition="#u">armen</hi> Emma!</hi>
+<seg ana="#salute">In Eile<lb break="yes"/>küßt Dich <hi rendition="#u">zärtlichst</hi> mit dem lieben <hi rendition="#i">Marthale</hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#c">Deine</hi><lb break="yes"/><hi rendition="#r">treue Dich zärtlich <hi rendition="#i">liebende<lb break="yes"/>Em<hi rendition="#u">ma</hi></hi></hi></seg><lb break="yes"/><hi rendition="#i">München</hi><lb break="yes"/>(<hi rendition="#i">Montag</hi> frühe<lb break="yes"/>sehr in
+                Eile!) </p><p>Ich erwarte morgen günstige <hi rendition="#u">Antwort</hi>
+<hi rendition="#i">meinen</hi> brief wirst<lb break="yes"/>Du erhalten haben?
+                − </p>
+<pb facs="#image_016"/>
+<p><hi rendition="#c"><hi rendition="#i">Wohlgeboren</hi><lb break="yes"/>Herrn <hi rendition="#i">Ferdinand
+                        <surname>S.</surname></hi></hi><lb break="yes"/><add place="bottom"><hi rendition="#u">D: Güte</hi></add></p>
+<pb facs="#image_017"/>
+<p>Ich bitte freundlichst um baldige besorgung des<lb break="yes"/>briefes und zeichne<lb break="yes"/><hi rendition="#r">ergebenste<lb break="yes"/><hi rendition="#u"><hi rendition="#i">E.
+                        <surname>S.</surname></hi></hi></hi></p>
+</body>
+</text>
+</TEI>

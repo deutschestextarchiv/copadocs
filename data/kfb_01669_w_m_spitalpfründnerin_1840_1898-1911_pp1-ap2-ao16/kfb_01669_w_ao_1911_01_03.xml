@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1669w19" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1669</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Philippina ("Lina") <surname>H.</surname></persName>
+<date type="sent">03.01.1911</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Dr. Zierl</persName>
+<settlement type="sent">Lindau</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1669w">
+<persName>
+<forename>Babette</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1840"/>
+<death when="1911"/>
+<occupation>Spitalpfründnerin</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Tuchscherer</p>
+<p from="1898" to="1911">Anstalt: 1898-1911</p>
+<p from="1898" to="1911">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Idiotie (1899), [Wahnideen, Halluzinationen]</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink_black" scope="major" scribe="schwester"/>
+<handNote medium="crayon_blue" scope="minor" scribe="arzt"/>
+<handNote medium="ink_black" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Die Patientin ist verstorben, und ihre Schwester möchte den Grund ihres Todes erfragen. 
+                   Zudem bittet sie, dem Wunsch der Patientin folgend, bei der Beerdigung, zu welcher sie 
+                   selbst nicht erscheinen kann, Grabtücher zu verwenden. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1669w19a.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb1669w19b.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="kfb1669w19c.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_025"/>
+<opener>
+<dateline><hi rendition="#r">Lindau den 3/1 1911.</hi></dateline>
+<salute><hi rendition="#c">Sehr Geehrter Herr Doktor!</hi></salute>
+</opener>
+<p>Besten Dank für das Telgr. Es ist ja<lb break="yes"/>eine Erlosung daß meine l
+                Schw<lb break="yes"/>Bätte gestorben ist; Habe einen<lb break="yes"/>Kranz
+                abgesendet für Sie. Ferner<lb break="yes"/>möchte ich die Geehrte Direktion
+                ersuchen<lb break="yes"/>dem Wunsche der Verstorbenen beim<lb break="yes"/>Sargeinse<hi rendition="#u" style="arzt">nken Grabtücher zu <w>ver
+                        wenden</w></hi><lb break="yes"/>die l Schwester entsetzte sich wen̄ Sie<lb break="yes"/>bei
+                einer Beerdigung war wo nur<lb break="yes"/>Strike genom̄en wurden,
+                im̄er war<lb break="yes"/>das ein Herzenswunsch von Ihr, den Sie<lb break="yes"/>mir u meinen l Angehörigen aufs<lb break="yes"/>Gewissen band. <hi rendition="#u" style="arzt">Was es mehr Kosten </hi><lb break="yes"/><hi rendition="#u" style="arzt">verursacht bitte mir zu berichten.</hi> </p>
+<pb facs="#image_026"/>
+<p>Möchte noch höfl ersuchen mir mitzu<lb break="no"/>theilen wie die l Schwester
+                gestorben<lb break="yes"/>ist, ob Sie gar keine lichten Momente<lb break="yes"/>mehr hatte. Es tut mir leid nicht<lb break="yes"/>Persönlich kom̄en zu
+                kön̄en, da ich<lb break="yes"/>bei dieser Iahreszeit die Reise nicht<lb break="yes"/>unternehmen kan̄. </p><p><space/> Für Alles was Herr Doktor an<lb break="yes"/>meiner l Schw. getan haben, so wie<lb break="yes"/>für die Bemühungen spreche ich<lb break="yes"/>meinen
+                verbindlichsten Dank aus. </p><p><hi rendition="#c"><seg ana="#salute">Mit Aller Hochachtung </seg><lb break="yes"/><seg ana="#signed">Frau Philippine <surname>H.</surname>.</seg><lb break="yes"/>Paradiesplatz C. 99.</hi>
+</p>
+<pb facs="#image_027"/>
+<p><add hand="arzt">Grabtücher bei Beerdigung<lb break="yes"/>verwendet; Rechnung
+                    hierüber<lb break="yes"/>folgt.<lb break="yes"/><space/> 5.1.11. <hi rendition="#r"><w>D<hi rendition="#sup">r</hi></w><w><hi rendition="#i">Zierl</hi></w></hi></add></p>
+</body>
+</text>
+</TEI>

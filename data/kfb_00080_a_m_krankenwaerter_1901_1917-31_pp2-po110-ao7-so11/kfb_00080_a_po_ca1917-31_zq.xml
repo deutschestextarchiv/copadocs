@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a106" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca1917-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er will andere Arbeit und ins Krankenzimmer verlegt werden.
+                    Er berichtet, was er verschluckt hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a106a.jpg" xml:id="image_063"/>
+<graphic mimeType="image/jpg" url="kfb80a106b.jpg" xml:id="image_064"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_063"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Geehrter Herr<lb break="yes"/>Oberarzt.</hi></salute>
+</opener>
+<p><add place="top"><hi rendition="#r"><hi rendition="#u">1.</hi></hi></add>
+</p><p>Ich tue ganz gerne<lb break="yes"/>arbeiten in der Gärt<lb break="no"/>nerei od. Büro, aber die<lb break="yes"/>Holzarbeit gefällt mir<lb break="yes"/>nicht &amp;. gefiel mir nie.<lb break="yes"/>Ich bitte Sie geben
+                Sie mir<lb break="yes"/>eine andre Arbeit. &amp;. tuns<lb break="yes"/>mich weg
+                von der <seg ana="#inst">schlech<lb break="no"/>ten Abteilung B. von<lb break="yes"/>den alten Narren</seg>, tuns<lb break="yes"/>mich ins Kranken<lb break="no"/>zim̄er hinunter.<lb break="yes"/>In Kaufbeuren war<lb break="yes"/>ich
+                    <del>2</del> 2 Jahre im Kran<pb break="no" facs="#image_064"/>kenzim̄er.
+                Da ge<lb break="no"/>fällt es mir am be<lb break="no"/>sten. Da bin ich un<lb break="no"/>ter strenger Aufsicht.<lb break="yes"/>Letzten Mittwoch <seg ana="#med">ver<lb break="no"/>schluckte ich in Aufre<lb break="no"/>gung 12 Kugeln &amp;.<lb break="yes"/>23 Knöpfe &amp;. schnitt<lb break="yes"/>mich 1 Loch in d. Arm.</seg><lb break="yes"/>In Kaufbeuren ists schö<lb break="no"/>ner als hier, hier ge<lb break="no"/>fällt es mir nicht.<lb break="yes"/>Tuns mich bitte ins<lb break="yes"/>Krankenzim̄er gleich<lb break="yes"/>ins Bett, sonst gehts
+                dahin<lb break="yes"/><hi rendition="#r"><hi rendition="#u"><seg ana="#signed">Hans <surname>A.</surname></seg></hi></hi></p>
+</body>
+</text>
+</TEI>

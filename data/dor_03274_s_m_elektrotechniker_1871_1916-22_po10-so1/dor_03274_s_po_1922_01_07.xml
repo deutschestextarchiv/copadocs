@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor3274s02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>3274 (K. 210)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>S.</surname></persName>
+<date type="sent">07.01.1922</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Herr Geheimrat</persName>
+<settlement type="sent">Aplerbeck</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor3274s">
+<persName>
+<forename>Franz</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1871-06-30"/>
+<death cert="unknown"/>
+<occupation>Elektrotechniker</occupation>
+<residence><geo decls="#WGS">51.5142273 7.4652789</geo>Geburtsort: Oelsdebenai; Wohnort: Dortmund</residence>
+<faith>konfessionslos</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: V: Aufseher, M: nicht bekannt</p>
+<p from="1916-04-10" to="1921-07-25">Anstalt: 10.04.1916-25.07.1921</p>
+<p from="1916-04-10" to="1921-07-25">Brieftypen: po, Lebenslauf</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="crayon" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   fragt, wie lange seine "Haft" andauern soll wegen seiner unterbrochenen Zahnbehandlung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor3274s02a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="dor3274s02b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r">Apl<hi rendition="#i">er</hi>b<hi rendition="#i">e</hi>ck d. 7. Jan 1922.</hi></dateline>
+<salute><hi rendition="#i">Sehr</hi> Geehrter Herr G<hi rendition="#i">ehei</hi>mrat!</salute>
+</opener>
+<p><space/> Mit gegenwärtigen frage ich<lb break="yes"/>ergebenst an, wie lang dennoch<lb break="yes"/>dieser Festungshaft hier für mich<lb break="yes"/>dauern soll?<lb break="yes"/>Wenn derselbe noch einige Wochen<lb break="yes"/><w>aus gedehnt</w> wird, dann muß ich<lb break="yes"/>Sie
+                ergebenst bitten um eine<lb break="yes"/>zeitliche Beurlaubung; damit<lb break="yes"/>ich mir die begonnene Zahn<lb break="no"/>brücken-Reparatur
+                herstellen<lb break="yes"/>lassen kann. Bitte dieses<lb break="yes"/>Urlaubschreiben auch an meine<lb break="yes"/>Frau einzusenden; da ich ihr<lb break="yes"/>noch mitzuteilen habe, daß<lb break="yes"/>sie die von mir noch
+                günstig<lb break="yes"/>gekauften <hi rendition="#i">A</hi>cktien nicht zu<lb break="no"/>billig verschleudern möchte.<lb break="yes"/><hi rendition="#c">b
+                    v. Sg u.</hi>
+<pb facs="#image_010"/>Auch von der <hi rendition="#i">B</hi>ank eine Belastung<lb break="yes"/>von Sonnenberg <hi rendition="#i">A</hi>cktien oder<lb break="yes"/>ähnlich <hi rendition="#i">A</hi>visiert waren, die ich gar<lb break="yes"/>nicht
+                habe.<lb break="yes"/>Mein damals genommener<lb break="yes"/>Urlaub war
+                berechtigt, da mich<lb break="yes"/>meine frau am letzten <hi rendition="#i">Mai</hi><lb break="yes"/>abholen wollte; aber anstatt dessen<lb break="yes"/>mir am 29. <hi rendition="#i">Mai er</hi> noch ein<lb break="yes"/>paar neue Hausschuhe nach
+                hier<lb break="yes"/>mir mit brachte.<lb break="yes"/>Ich tröste mich mit den
+                verurteilten<lb break="yes"/>Kappuschisten als meine freunde.<lb break="yes"/>Die
+                beste Gesundheit, Glück &amp; Segen<lb break="yes"/><hi rendition="#r">hatte ich
+                    Ihnen durch Herrn<lb break="yes"/>Oberarzt übermitteln lassen<lb break="yes"/>falls "er" Sie getroffen hätte.<lb break="yes"/>wenn niht <w>so</w><w>gilt</w> dieser<lb break="yes"/>Dafür. Mit aller Hochachtung</hi><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Ihr ergebenster<lb break="yes"/>F. J. <hi rendition="#i"><surname>S.</surname></hi>.</seg></hi>
+</p>
+</body>
+</text>
+</TEI>

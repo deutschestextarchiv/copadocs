@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip6846w08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>6846 (K. 400)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Leo <surname>W.</surname></persName>
+<date type="sent">02.09.1926</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Tante und Onkel: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Rotthausen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip6846w">
+<persName>
+<forename>Leo</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1888-12-25"/>
+<death cert="unknown"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">51.5110321 7.0960124</geo>Geburtsort: Mellentin; Wohnort: Gelsenkirchen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater: Dachdecker; Mutter: n.a.</p>
+<p from="1926-06-28" to="1927-02-19">Anstalt: 28.06.1926-19.02.1927</p>
+<p from="1926-06-28" to="1927-02-19">Brieftypen: pp, po</p>
+</state>
+<trait><p>Progr. Paralyse (1926)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er sagt, dass er Schmerzen hat und zählt einige seiner beruflichen Stellungen auf: Wehrmeister, Hauptmann, Reichspräsident, Kunstmaler und Professor.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip6846w08a.jpg" xml:id="image_020"/>
+<graphic mimeType="image/jpg" url="lip6846w08b.jpg" xml:id="image_021"/>
+<graphic mimeType="image/jpg" url="lip6846w08c.jpg" xml:id="image_022"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_020"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Rotthausen</hi> den
+                        2.9.1926.</hi></dateline>
+<salute><hi rendition="#c">Liebe Tante und Onkel</hi>.</salute>
+</opener>
+<p>Teile hier mit das ich<lb break="yes"/>Aug<hi rendition="#i">e</hi>nblicklig in<lb break="yes"/><hi rendition="#i">Porbeck</hi> Und Fahre heute<lb break="yes"/>ab
+                von hier den ich<lb break="yes"/>habe eine Schwere <del>ver</del><lb break="yes"/>verlaßungung und<lb break="yes"/>eine Schweren Undfal<lb break="yes"/>Unser <unclear>einein</unclear> schein baug <del><lb break="yes"/>A</del> bekomen. Auch von<lb break="yes"/><hi rendition="#i">Mieläleter</hi>
+                Beichebeine<lb break="yes"/>und Regsen Arm<lb break="yes"/>und
+                        <unclear>Berus<del>d</del>te</unclear> Und habe<lb break="yes"/>heute
+                wieder viel<lb break="yes"/>Schmerzen. Bieß heute<lb break="yes"/>bin ich schon
+                Haubmann <pb facs="#image_021"/>Und Profässor. Und<lb break="yes"/>Fahre heute
+                wieder nach<lb break="yes"/>Bohn. Und wurde heute<lb break="yes"/>zu
+                Reichspräßieden<lb break="yes"/>Und Wermeißter<lb break="yes"/><hi rendition="#c"><space/>Und kome
+                heut<lb break="yes"/>nach B<hi rendition="#i">e</hi>rlin<lb break="yes"/>den hier
+                    <unclear>lönt</unclear> ja<lb break="yes"/>Hiermraüber komen<lb break="yes"/><unclear>An <hi rendition="#i">Wicher</hi></unclear></hi><lb break="yes"/>Mit<lb break="yes"/>Gruß <unclear>an</unclear>
+<hi rendition="#i">Terese</hi><lb break="yes"/>Leo Josepf. den er hieß<lb break="yes"/><hi rendition="#r">bis jest
+                    Werne</hi><lb break="yes"/><add place="margin">ist an <unclear>Eronagel</unclear>
+                    angenomen</add>
+<pb facs="#image_022"/>den ich bin<lb break="yes"/>Kunßmaler<lb break="yes"/><hi rendition="#c">alles Freihandigg<lb break="yes"/><lb break="yes"/><seg ana="#salute">Auf ein<lb break="yes"/>bbaltiges<lb break="yes"/>Wüedersehn</seg></hi></p>
+</body>
+</text>
+</TEI>

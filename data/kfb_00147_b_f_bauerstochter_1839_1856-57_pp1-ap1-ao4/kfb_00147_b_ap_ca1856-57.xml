@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb147b05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Amalia Fuchs</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>147</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">n.a.</persName>
+<date type="sent">ca. 1856-1857</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Genovefa <surname>B.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb147b">
+<persName>
+<forename>Genovefa</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1839"/>
+<death cert="unknown"/>
+<occupation>Bauerstochter</occupation>
+<residence><geo decls="#WGS">47.8689152 10.1575869</geo>Kaltbronn, Grönenbach</residence>
+<faith>n.a.</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Bauer, Getreidehändler</p>
+<p from="1856" to="1857">Anstalt: 1856-1857</p>
+<p from="1856" to="1857">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Geistesstörung</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="angehörige"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Eine Angehörige der Patientin unterrichtet sie über das Befinden ihrer Familie.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb147b05.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Liebe Genovesa! </hi></salute>
+</opener>
+<p>Zum <w>dritten</w><w>male</w> benütze ich die Gelegen<lb break="no"/>heit, dir von
+                unserm Befinden zu schreiben<lb break="yes"/>das wir <add place="above">uns</add>
+                noch imer in der alten Lage befinde<unclear reason="damage"/><lb break="yes"/>wie sie dir auch schon längst bekan̄t ist, als d<unclear reason="damage"/><lb break="yes"/>wir seid einem <w>viertel</w><w>jahr</w> Arbeit haben, d<unclear reason="damage"/><lb break="yes"/>öfters nicht mehr wußten wo wir anfangen <unclear reason="damage"/><lb break="yes"/>du würdest recht schauen zu Hauße es w<unclear reason="damage"/><lb break="yes"/>dir auch schon manchmal alles verleidet sein, <unclear reason="damage"/><lb break="yes"/>hast dich auch wirklich getäuscht wen du nur ein<lb break="yes"/>mal ncah Hause ve<del>l</del>rlangen oder Heimweh ge<lb break="no"/>habt hättest,
+                den du weißt es ja selbst das auch<lb break="yes"/><add place="above">wir</add>
+                nichts gutes haben, das uns auch alle Tage viel<lb break="yes"/>unangenehmes
+                begegnet welches wir auch öfters<lb break="yes"/>ändern würden wes wir nur
+                kön̄ten indeß wollen<lb break="yes"/>wir uns im̄er willig in den
+                Willen Gottes er<lb break="no"/>geben, die Zeit wird nicht mehr so lange<lb break="yes"/>dauern, den du wirst wohl alle Tage <add place="above">näher</add>
+                Der<lb break="yes"/>Gesundheit entgegen kom̄en, wen̄ Du eine<lb break="yes"/>Zeit hast u es dir angenehm ist uns stark<lb break="yes"/>weiter
+                Strümpf zu stricken wen es dir er<lb break="no"/>laubt ist das wäre uns lieb, ferner
+                bitten<lb break="yes"/>wir dich um dein hl Gebet wie du es auch<lb break="yes"/>von uns erwart darfst, <seg ana="#salute">u grüßen dich alle<lb break="yes"/>vielmal u erwarten eine
+                baldig Nach<unclear reason="damage"/><lb break="yes"/><hi rendition="#r">deine dich liebende</hi>
+                        E<unclear reason="damage"/></seg></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2409a05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2409</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sebastian <surname>A.</surname></persName>
+<date type="sent">ca1855-57</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Jaug</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2409a">
+<persName>
+<forename>Sebastian</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1806"/>
+<death when="1857"/>
+<occupation>Apotheker</occupation>
+<residence><geo decls="#WGS">49.6365854 8.165345</geo>Wachenheim bei Durkheim in der Pfalz</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Kaufmann</p>
+<p from="1855" to="1857">Anstalt: 1855-57</p>
+<p from="1855" to="1857">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Säuferwahnsinn, Delirium [tremens] (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er fragt nach seiner Familie und gibt Anweisungen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2409a05a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="kfb2409a05b.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber Jaug.</hi></salute>
+</opener>
+<p><add place="top"><hi rendition="#c"><del><unclear reason="overwriting">Friedrich</unclear></del>
+<add><unclear reason="overwriting">Irren ber</unclear><unclear/></add><lb break="yes"/><hi rendition="#u"><unclear reason="overwriting"/></hi></hi></add><lb break="yes"/>Sey so gut u. berichte mir doch<lb break="yes"/>wie es zu Hause
+                geht u was meine<lb break="yes"/>Kinder machen. 3 Monate<lb break="yes"/>sind
+                vorüber. Will Niemand<lb break="yes"/>mehr von mir etwas hören<lb break="yes"/>noch weniger mich noch jemals<lb break="yes"/>sehen. Ja ich gehe fest noch<lb break="yes"/>diesen Som̄er nach Amerika zu<lb break="yes"/>meinem Sohn
+                Heinrich. Mein<lb break="yes"/>Schwager wird die Schlüssel zu<lb break="yes"/>meinen Kaunitz hollen, was<lb break="yes"/>in der Apotheke eingeht verrechnest<lb break="yes"/>du mit <hi rendition="#i">h <surname>C.</surname>
+</hi>So wahr mir<lb break="yes"/>Gott helfe suche ich mir durch die<lb break="yes"/>Ehenseidung meine Lage u meine <pb facs="#image_018"/>zerrüttetem häusliche
+                    Verhält<lb break="no"/>nisse zu erleichtern. Von dieser<lb break="yes"/>unbarmherzigen hartherzigen<lb break="yes"/>u. eigensin̄igen Person<lb break="yes"/>suche ich alle Dankbezeugungen<lb break="yes"/>abzuweisen. Sie
+                gehe zu ihre<lb break="yes"/>falschen Brut. Ich ken̄e<lb break="yes"/>diese
+                Familie nicht. Meiner<lb break="yes"/>Mutter entwarf ich ein Bild<lb break="yes"/>ihrer Barbarischen Laune.<lb break="yes"/>Schicke mir Streichzunder u<lb break="yes"/>Taback u Pfeiffe meine<lb break="yes"/>Lieblingsbeschäftigung.
+                −<lb break="yes"/><seg ana="#salute">Lebe wohl</seg> u versehe alles<lb break="yes"/>gut ich werde Dir sehr<lb break="yes"/>dankbar hiefür seyn. <seg ana="#metaling">Ich<lb break="yes"/>kan̄ vor Zittern u Ärger<lb break="yes"/>nicht mehr schreiben.</seg><lb break="yes"/><hi rendition="#r"><seg ana="#salute">Es grüßt dich<lb break="yes"/>herzlich dein</seg><lb break="yes"/><surname><hi rendition="#i">A.</hi></surname></hi></p>
+</body>
+</text>
+</TEI>

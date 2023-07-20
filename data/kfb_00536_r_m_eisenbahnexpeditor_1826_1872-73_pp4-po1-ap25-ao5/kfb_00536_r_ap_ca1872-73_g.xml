@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb536r22" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Katharina <surname>R.</surname></persName>
+<date type="sent">ca1872-73</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann: Josef<surname>R.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb536r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1873"/>
+<occupation>Eisenbahnexpeditor, Zuchthaussträfling</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Simmerberg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1872" to="1873">Anstalt: 1872-73</p>
+<p from="1872" to="1873">Brieftypen: pp,ap,ao</p>
+</state>
+<trait><p>Melancholie (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beklagt ihren Leidensdruck durch die aktuelle Situation als "hilflose und verlassene" Frau. Erklärt ihrem Mann wie er mit seiner Wäsche umgehen soll.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb536r22.jpg" xml:id="image_037"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_037"/>
+<opener>
+<salute><hi rendition="#c">Armer unglücklicher Man̄!</hi></salute>
+</opener>
+<p>Schon längst würde ich Deinen Brief vom 3ten Jän̄er<lb break="yes"/>beantwortet haben, aber was soll ich Dir schreiben,<lb break="yes"/>meinen Jam̄er meine Trostlosigkeit das kan̄st Du<lb break="yes"/>alles selbst bemessen, wie es in meinem Jn̄ern aussieht,<lb break="yes"/>wie ich Allein diese lange Zeit durchmache weiß ich<lb break="yes"/>nicht zu sagen, den so hilflos und verlassen, steht nicht<lb break="yes"/>leicht eine Frau da wie ich, nur auf meiner Hände<lb break="yes"/>Arbeit angewiesen, meine Augen sind durch vieles<lb break="yes"/>weinen sehr geschwächt, daß es mit dem Nähen auch<lb break="yes"/>nicht
+                        meh<del><unclear>l</unclear></del>r lange geht, auch fühle ich häufig <seg ana="#med">Glieder-<lb break="yes"/>und Unterleibsschmerzen</seg>, was vom
+                angestrengten<lb break="yes"/>Maschinennähen herköm̄t, und muß daher manchen
+                Tag<lb break="yes"/>aussetzen zu Arbeiten, es wird am Ende doch noch am<lb break="yes"/>besten sein bei Gelegenheit <w>irgend eine</w> passende
+                    <del>H</del><lb break="yes"/>Stelle anzunehmen. Wie geht es Dir schreibe uns<lb break="yes"/><w>so bald</w> es erlaubt wieder, und ziehe alle 4 bis 6 Wochen<lb break="yes"/>Dein Bett ab, und lasse Deine Wäsche jedesmal flicken,<lb break="yes"/>bei jeder Wasch, den sonst beköm̄st Du auf einmal alles<lb break="yes"/>voller Lumpen, ich werde wen̄ es mir möglich auf Socken<lb break="yes"/>und Hemden bedacht sein, wechsle auch ordentlich mit der Wasch<lb break="yes"/>es ist nicht gut, wen̄ man sie zu schmutzig macht, sie wird
+                in<lb break="yes"/>Wasch sonst zu viel hergenom̄en, gebe auch auf Deine
+                Kleider acht,<lb break="yes"/>den mit nachschaffen hat es vor der Hand ein Ende.
+                Grüße von allen Be<lb break="no"/>kan̄ten. <seg ana="#salute">Jch küsse Dich
+                    und bin<lb break="yes"/><hi rendition="#r">Deine arme<del>s</del>
+                            unglückliche<del>s</del><lb break="yes"/>Frau</hi></seg><hi rendition="#r"><seg ana="#signed">
+                        Katharina <surname>R.</surname></seg>.</hi>
+</p><p><add place="margin">Beim nächsten Schreiben mein und der Frida Porträt, mit welchem Gefühl<lb break="yes"/>ich Frida in das Krankenhaus führte kan̄st Dur Dir
+                    leicht vorstellen, ach wie<lb break="yes"/>kön̄te alles Anders sein.
+                    − .</add></p>
+</body>
+</text>
+</TEI>

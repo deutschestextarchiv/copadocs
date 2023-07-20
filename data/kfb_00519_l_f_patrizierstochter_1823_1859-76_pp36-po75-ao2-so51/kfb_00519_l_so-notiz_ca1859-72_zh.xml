@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l155" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notiz</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin führt körperliche Krankheiten auf ihre Schuhe zurück. Weiter glaubt sie, man wolle sie krank machen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l155a.jpg" xml:id="image_399"/>
+<graphic mimeType="image/jpg" url="kfb519l155b.jpg" xml:id="image_400"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_399"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Ich habe wenigst 12 fl schon<lb break="yes"/>bezahlt für Schuhe die mir<lb break="yes"/>nicht nur Nichts genützt, −<lb break="yes"/>sondern sehr
+                geschadet<lb break="yes"/>Erstens kon̄te ich deßhalb nicht<lb break="yes"/>ausgehen u zweitens sind<lb break="yes"/>sie die Veranlaßung daß ich<lb break="yes"/>Beulen u Geschwüre, bekam̄<lb break="yes"/>zumal da die
+                Ursache von<lb break="yes"/>Unreinigkeit die Vernachläß<lb break="no"/>ßigung der
+                nöthigen Verichtung<lb break="yes"/>indem ich das ganze Jahr Nichts<lb break="yes"/><del>um <unclear>Latwag</unclear></del> bekam. Und die<lb break="yes"/>bedeutendsten Krankheiten oft mit<lb break="yes"/>unbedeutenden Fuß od. <w>Hand
+                    Übel</w><lb break="yes"/>da Ihr stets beabsichtet mich krank<lb break="yes"/>u kalt zu
+                machen um sich an Euer<lb break="yes"/>Menschern <hi rendition="#i">ungenirt</hi>
+                wärmen zu<lb break="yes"/>kön̄en u wen̄ ich Euch <w>zurück<lb break="no"/>hielt</w> würde man mir den<lb break="yes"/><unclear>Kopf</unclear>
+                wegreisen nicht nur den <unclear/>
+</p>
+<pb facs="#image_400"/>
+<p>Und wen̄ ein Held aufhört Held zu sein<lb break="yes"/>nachdem er seinen
+                Stiefel der ihn<lb break="yes"/>vor Kälte u Beschädigung schützte<lb break="yes"/>u. wen̄ ein <hi rendition="#i">Doctor</hi> wahn̄sin̄ig wird<lb break="yes"/>nachdem er einen Groschenwerths<lb break="yes"/>verlor. Um wie
+                viel mehr Ursache<lb break="yes"/>hätte ich empört u. wahnsinig zu sein<lb break="yes"/>d<unclear>er</unclear> ich nicht nur 100 <hi rendition="#i">fl</hi>
+                sondern<lb break="yes"/>Alles an Leib u Seel eingebüßt<lb break="yes"/>Man
+                kön̄te mir so leicht helfen u thut<lb break="yes"/>aus
+                    <unclear>Bosheit</unclear> nur Hinterniße<lb break="yes"/>Man sollte sich mit
+                mir u nicht<lb break="yes"/>mit diesen schlechten Weibsb <hi rendition="#i">reterirn</hi><lb break="yes"/>Man̄ durfte die Schlüßel mir geben<lb break="yes"/><unclear>die</unclear> mich ohnedies hinauslaßen wan̄<lb break="yes"/>u wohin ich will da ich ganz Leut u<lb break="yes"/>Luftscheu od anders
+                verhindert bin. </p>
+<p>Wie oft hab ich schon gesagt<lb break="yes"/>daß die Ofen zu sehr über<lb break="no"/>heitzt werden. Im Gitter darf<lb break="yes"/>es kalt sein zur Strafe für solche<lb break="yes"/>anstatt zum frei darin sein. </p>
+</body>
+</text>
+</TEI>

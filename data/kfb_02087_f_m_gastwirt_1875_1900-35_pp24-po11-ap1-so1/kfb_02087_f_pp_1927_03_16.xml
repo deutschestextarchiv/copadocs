@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2087f18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2087</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>F.</surname></persName>
+<date type="sent">16.03.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Mari <surname>F.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2087f">
+<persName>
+<forename>Ludwig</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1935"/>
+<occupation>Gastwirt, Landwirt</occupation>
+<residence><geo decls="#WGS">47.6283377 9.9102676</geo>Heimenkirch, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Gastwirt</p>
+<p from="1900" to="1935">Anstalt: 1900-1935</p>
+<p from="1900" to="1935">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Manie (1930), Ideenflucht, Größenwahn (1900-35), Halluzination (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Da der Schreiber nichts mehr von seiner Frau gehört hat, nimmt er an, dass sie nichts mehr von ihm wissen will und erklärt daher ihre Ehe für beendet.
+                    Er behauptet, das Weltmeisterschachtunier gewonnen zu haben und vermögend zu sein.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2087f18a.jpg" xml:id="image_062"/>
+<graphic mimeType="image/jpg" url="kfb2087f18b.jpg" xml:id="image_063"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_062"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Frau Mari <surname>F.</surname></hi>!</hi></salute>
+</opener>
+<p> Nachdem ich seit 21. II. 27<lb break="yes"/>ohne Nachricht bin muß<lb break="yes"/>ich annehmen das Du von<lb break="yes"/>mir nicht mehr wissen<lb break="yes"/>willst. <milestone rendition="#hr" unit="section"/><lb break="yes"/><space/> Erkläre unsere Ehe für<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Alle Abmachungen für<lb break="yes"/><w>auf
+                    gehoben</w> Ehevertrag sowohl<lb break="yes"/>wie Testamet
+                für aufgehoben.</p> <pb facs="#image_063"/><p>
+<add hand="arzt" place="top"><hi rendition="#r"><surname>F.</surname> L.<lb break="yes"/>16. 3. 27</hi></add></p>
+<p> <hi rendition="#i">Ferner</hi> sei Dir
+                    hiemit<lb break="yes"/><hi rendition="#i">Kunde</hi> das ich das <w>Welt<lb break="no"/><hi rendition="#i">meister Schacht</hi></w> gewon̄en<lb break="yes"/>habe u. über ungezählte<lb break="yes"/><hi rendition="#i">Millionen Reichsmark</hi><lb break="yes"/>zu verfügen habe. Ich
+                    bestim̄e<lb break="yes"/>was ich für notwendig halte<lb break="yes"/><hi rendition="#i">Vertrauen </hi><w>hat<del>h</del></w><w>nur</w> wer mir<lb break="yes"/>solches <w>entgegen bringt</w>.<lb break="yes"/><hi rendition="#c"><seg ana="#salute"><hi rendition="#i">Frdl Gruß</hi></seg></hi><lb break="yes"/><hi rendition="#i"><hi rendition="#u"><hi rendition="#r"><seg ana="#signed">Ludwig
+                <surname>F.</surname>.</seg></hi></hi></hi></p>
+</body>
+</text>
+</TEI>

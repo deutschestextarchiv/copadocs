@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb415k04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>415</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Xaver <surname>K.</surname></persName>
+<date type="sent">14.07.1865</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Revierförster Grünwald</persName>
+<settlement type="sent">Kempten (Irsee)</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb415k">
+<persName>
+<forename>Xaver</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1828"/>
+<death when="1867"/>
+<occupation>Veterinärarzt</occupation>
+<residence><geo decls="#WGS">48.327964 10.159362</geo>Attenhoffen, Illertissen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1865" to="1867">Anstalt: 1865-67</p>
+<p from="1865" to="1867">Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>Melancholie, Hypochondrische Erscheinungen (1865), Tobsucht (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bestellt mehrere Tierzähne.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb415k04a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb415k04b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kempten 14. July 1865.</hi></hi></dateline>
+<salute><hi rendition="#r">Sehr geehrter Herr Revierförster</hi></salute>
+</opener>
+<p>Ich erlaube mir Sie freundlichst zu bitten mir<lb break="yes"/>8-12 Stück Zähne
+                von Hauer, auch mehrere<lb break="yes"/>Stockzähne gegen Bezahlung zu überschicken<lb break="yes"/>Ich sehe besonder auf schöne große u. <w>gut</w><w>er<lb break="no"/>haltene</w> Exemplare: Adr: Xaver <hi rendition="#i"><surname>K.</surname></hi><lb break="yes"/>k. <hi rendition="#i">Militar</hi>-Arzt im 4. <hi rendition="#i">Chevaulegers-Rgiment<lb break="yes"/>"Köniz</hi>",
+                    <unclear>detnihirt</unclear> in <hi rendition="#i">Kempten</hi> bei der<lb break="yes"/>4<hi rendition="#sup">t</hi>
+<hi rendition="#i">Escadron</hi>. Bitte gegen Nachnahme, franko<lb break="yes"/>Schein das Stück zu übersenden. −<lb break="yes"/>Zu jedem Gegendienst
+                bereitester, ergebenster<lb break="yes"/><hi rendition="#r"><hi rendition="#i"><surname><hi rendition="#u">K.</hi></surname><hi rendition="#u"> k. Milit.</hi></hi><hi rendition="#u"> Arzt.
+                    </hi></hi></p>
+<pb facs="#image_008"/>
+<p><hi rendition="#c">An</hi><lb break="yes"/>das koenigliche Forst<lb break="no"/>Park-Revier,<lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Grünwald</hi></hi>.<lb break="yes"/>b. München.</hi><lb break="yes"/>srei<lb break="yes"/>6 fr</p>
+</body>
+</text>
+</TEI>

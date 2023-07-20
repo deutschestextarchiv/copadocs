@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip2623k05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>2623 (K. 190)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Felix <surname>K.</surname></persName>
+<date type="sent">22.04.1913</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Komissar der Amtsbehörde</persName>
+<settlement type="sent">Münster i. W.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip2623k">
+<persName>
+<forename>Felix</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1884-08-27"/>
+<death cert="unknown"/>
+<occupation>n.a.</occupation>
+<residence><geo decls="#WGS">51.0806259 11.9305596</geo>Geburtsort: Ruchenka; Wohnort: Osterfeld</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1913-11-24" to="1929-12-12">Anstalt: 24.11.1913-12.12.1929</p>
+<p from="1913-11-24" to="1929-12-12">Brieftypen: pp, po, Lebenslauf</p>
+</state>
+<trait><p>Dementia praecox (1913)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="crayon" scope="minor" scribe="hand3"/>
+<handNote medium="pencil" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient möchte einen Antrag gestellt haben und erklärt den Vorfall mit dem Schuss auf das Denkmal.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip2623k05a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="lip2623k05b.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><hi rendition="#r">Münster den, 22. April <add place="below">19/<hi rendition="#sub">13</hi></add>
+</hi></dateline>
+<salute/>
+</opener>
+<p><add hand="hand2">A<hi rendition="#u">d acta<surname>K.</surname></hi>
+</add>.<lb break="yes"/><add hand="hand3"><hi rendition="#c">5</hi></add><lb break="yes"/><hi rendition="#r"><add hand="hand4">30</add></hi></p><p><lb break="yes"/><add place="margin"><hi rendition="#u">Information</hi><lb break="yes"/>Über das schißen am<lb break="yes"/><unclear>re</unclear>chten
+                Fußes des<lb break="yes"/><unclear>K</unclear>aiser Wilchelm I.<lb break="yes"/>in
+                        <placeName><hi rendition="#i">Osterfeld</hi></placeName>.<lb break="yes"/><placeName type="street">Hauptstr.</placeName> gegen<lb break="yes"/>Amt. der
+                Tähter Felix<lb break="yes"/><surname><hi rendition="#i">K.</hi></surname><lb break="yes"/>An Amtbehörde<lb break="yes"/>der Gemeinde<lb break="yes"/><placeName><hi rendition="#i"><hi rendition="#c">Osterfeld</hi></hi></placeName><lb break="yes"/>Herrn Komisar.<lb break="yes"/><lb break="yes"/>Donnerstag.</add><lb break="yes"/><lb break="yes"/>Am 7. Oktober 1910. schißte<lb break="yes"/>ich am rechten Fußes<lb break="yes"/>des Kaiser Wilchelm<lb break="yes"/><hi rendition="#i">Denkmal</hi> durch<lb break="yes"/>das mich
+                Leutte<lb break="yes"/><surname>W.</surname> Freund<lb break="yes"/>nanten,
+                und hörte<lb break="yes"/>wen Ich mich mit<lb break="yes"/><surname>W.</surname> in Gefängnis<lb break="yes"/>trefe entsteht freiheit<lb break="yes"/><placeName>Polen</placeName>. Ich gab knal<lb break="yes"/>auf
+                Amt an −<lb break="yes"/>soll dienen als von<lb break="yes"/>rechten Fußes
+                auf Amt anklgen.<lb break="yes"/>Und ersuche die<lb break="yes"/>Königliche
+                Behörde zu <placeName><hi rendition="#i">Osterfel</hi></placeName>
+<pb facs="#image_013"/>Als Preußischen<lb break="yes"/><unclear>Er</unclear>satz-Reserwist<lb break="yes"/><lb break="yes"/><unclear>de</unclear>n <add place="above">dringend</add> Gesuch stellen <unclear><lb break="yes"/>de</unclear>n Ferein <hi rendition="#i">Sokol</hi><lb break="yes"/>in <placeName><hi rendition="#i">Osterfeld</hi></placeName>. Der<lb break="yes"/>Ferein möge<lb break="yes"/>Antrag stellen<lb break="yes"/><unclear>de</unclear>n <hi rendition="#i">Ferband</hi> seiner<lb break="yes"/><unclear>T</unclear>urner an die<lb break="yes"/>Regierungen um<lb break="yes"/><unclear/>rundung eigener<lb break="yes"/>Regierung<lb break="yes"/><hi rendition="#i">Sokol</hi>
+<hi rendition="#i">Aotein</hi><lb break="yes"/><hi rendition="#i">Felix </hi><surname><hi rendition="#i">K.</hi></surname><lb break="yes"/>aus <placeName><hi rendition="#i">Oster</hi>feld</placeName> jezt<lb break="yes"/>in <placeName><hi rendition="#i">Münster</hi></placeName><lb break="yes"/>Marienthal Anstalt<lb break="yes"/><placeName type="street">Kinderhauserstr 92.</placeName>
+</p>
+</body>
+</text>
+</TEI>

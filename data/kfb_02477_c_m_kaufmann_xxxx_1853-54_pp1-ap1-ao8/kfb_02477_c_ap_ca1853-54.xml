@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2477c02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2477</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>K.</surname></persName>
+<date type="sent">ca. 1853-54</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann: Moritz <surname>K.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2477c">
+<persName>
+<forename>Moritz</forename>
+<surname>K.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">49.1147095 10.7545933</geo>Gunzenhausen</residence>
+<faith>jüdisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1853" to="1854">Anstalt: 1853-54</p>
+<p from="1853" to="1854">Brieftypen: pp,ap,ao</p>
+</state>
+<trait><p>"trübe Gemüthsstimmung &amp; einen Zustand von Schwermuth“ (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Ehefrau des Patienten sendet ihrem Ehemann verschiedene Kleidungsstücke und wünscht, ihn bald gesund treffen zu können.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2477c02a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Vielgeliebter Moritz!</hi></salute>
+</opener>
+<p>Anbei sende ich Dir Mütze u<lb break="yes"/>Weste, hoffe daß sie Dir erwünscht<lb break="yes"/>sein werden, im nächster Zeit<lb break="yes"/>hoffe ich Dich
+                zu besuchen, u<lb break="yes"/>wünscht Dich recht gesund zu<lb break="yes"/>treffen, ich befinde mich mih<lb break="yes"/>all den lieben Kindern, Gott<lb break="yes"/>sei Dank gesund, <seg ana="#salute">sendet Dir<lb break="yes"/>herzlichste Grüße</seg>
+<seg ana="#signed">Deine<lb break="yes"/><hi rendition="#c"><w>Dich</w><w>liebende</w></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Johan̄a</hi></hi></seg>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2235g23" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2235</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Regina <surname>G.</surname></persName>
+<date type="sent">02.03.1896</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Bruder Georg <surname>O.</surname> </persName>
+<settlement type="sent"/>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2235g">
+<persName>
+<forename>Regina</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1918"/>
+<occupation>Ökonomenswitwe</occupation>
+<residence><geo decls="#WGS">47.582117800000006 9.728007926245988</geo>Weißenberg, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Bauersleute, "ziemlich gut situiert"</p>
+<p from="1879" to="1918">Anstalt: 1879-1918</p>
+<p from="1879" to="1918">Brieftypen: pp</p>
+</state>
+<trait><p>Gehörs- und Gesichtshallucinationen (1886), wahnhafte Ideen (1904)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   möchte Anstalt verlassen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2235g23a.jpg" xml:id="image_041"/>
+<graphic mimeType="image/jpg" url="kfb2235g23b.jpg" xml:id="image_042"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_041"/>
+<opener>
+<dateline>Kaufbeuern dn 2 März 1896.</dateline>
+<salute>Lieber Bruder!</salute>
+</opener>
+<p>Du kanst mir die Viktoria <surname>M.</surname><lb break="yes"/>mit den zwei Kindern schicken<lb break="yes"/>das ich bälder fort
+                kom̄ wen̄ Du<lb break="yes"/>selbst keine Zeit hast den Ersten<lb break="yes"/>Märze Mark in Wangen ist<lb break="yes"/>so kanst Du das Vieh
+                einkaufen<lb break="yes"/>wen̄ ich Heim kom eine Arbeit<lb break="yes"/>haben. Den Kindern ist es recht<lb break="yes"/>das wier fortmachen kön̄en<lb break="yes"/>dieses Frühjahr doch sein kan̄.<lb break="yes"/>Ein
+                Gott der Gerechtigkeit gibt<lb break="yes"/>die Mutter zu den Kindern<lb break="yes"/>komt in 5½ Jahr den Sohn<lb break="yes"/>Wiedersehn uns die
+                Freiheit<lb break="yes"/>schuldig ist ich habe Antstalten<lb break="yes"/>genug
+                gehabt. Wier Arbeiten<lb break="yes"/>willig und gern das wier<lb break="yes"/>ins
+                Feld hinaus kön̄en<lb break="yes"/>es für mich viel Gesünder<lb break="yes"/>freie Luft der Natur. </p>
+<pb facs="#image_042"/>
+<p> Du kanst meiner Bitte<lb break="yes"/>nachkom̄en meinen Wunsch<lb break="yes"/>zu Erfüllen. Das wier mehr<lb break="yes"/>freude haben
+                wen̄ wier<lb break="yes"/>zusam̄enkom̄en.<lb break="yes"/><seg ana="#salute">Es
+                    grüßt Euch alle<lb break="yes"/>Eure liebende Schwester </seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r">Regina
+                    <surname>G.</surname> </hi><lb break="yes"/>in Weißensberg.</seg> </p><p>An Georg<lb break="yes"/><surname>O.</surname><lb break="yes"/>in Thumen.<lb break="yes"/>St.
+                Schlachters. </p>
+</body>
+</text>
+</TEI>

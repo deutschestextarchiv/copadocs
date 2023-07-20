@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s58" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">ca1890-97</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Dr. Ullrich</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1890" to="1897">Anstalt: 1890-1897</p>
+<p from="1890" to="1897">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er beschwert sich über die Pfleger, die die Patienten misshandeln.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s58a.jpg" xml:id="image_151"/>
+<graphic mimeType="image/jpg" url="kfb908s58b.jpg" xml:id="image_152"/>
+<graphic mimeType="image/jpg" url="kfb908s58c.jpg" xml:id="image_153"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_151"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Der unterzeichneter Jak. <surname>S.</surname> bittet, daß man den<lb break="yes"/>Pflegern die Bubereien u ausgelaßene Roheiten<lb break="yes"/>verbieden möchten. Den hier in dießer Abtheilung<lb break="yes"/>C. 1. ist
+                bereits kein Man̄ wo nicht aus muthwillen<lb break="yes"/>oder Aufregung von
+                den Pflegern mißhandelt wurde<lb break="yes"/>wen̄ die Pfleger raufen oder
+                Dum̄heiten wollen, sollen sie<lb break="yes"/>aus der Anstalt bleiben, der
+                Aßesor <surname>R.</surname> wurde heute<lb break="yes"/>Nachmitag's
+                geschlagen daß das blut von ihm lief,<lb break="yes"/>es wäre beßer die Pflegern
+                wirden ihren Tabak kaufen<lb break="yes"/><del>statt</del> wo schon im halben Jahr
+                das <hi rendition="#i">Sie</hi> hier sind 80 <hi rendition="#i">M</hi>.<lb break="yes"/>macht als unterschlagungen zu machen u. noch<lb break="yes"/>dazu
+                die Patienten zu Mißhandeln.</p>
+<p><hi rendition="#c">Ich kön̄te noch mehr schreiben, aber dies Geheimniß<lb break="yes"/>will ich behalten bis die Reg. <hi rendition="#i">Comißion</hi>
+                    kom̄t<lb break="yes"/>daß die Leute mit schand u spott die Anstalt<lb break="yes"/>verlaßen müßen.</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><seg ana="#signed">Jak <surname>S.</surname></seg></hi></hi></p>
+<pb facs="#image_152"/>
+<p>Die Pfleger sind nur<lb break="yes"/><hi rendition="#i">Kost Wohnung u.
+                    Wasch</hi><lb break="yes"/>frei. daß übrige müßen <hi rendition="#i">Sie</hi><lb break="yes"/>sich selbst anschaffen.</p>
+<pb facs="#image_153"/>
+<p><hi rendition="#r"><hi rendition="#i">Am</hi></hi><lb break="yes"/><hi rendition="#i">Wohlg.<lb break="yes"/>Herrn Frid. Ullerich</hi><lb break="yes"/><hi rendition="#r">prakt. <hi rendition="#i">Arzt.</hi></hi><lb break="yes"/><hi rendition="#c">dahier</hi>.</p>
+</body>
+</text>
+</TEI>

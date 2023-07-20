@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2434s01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2434</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Benedikt <surname>S.</surname></persName>
+<date type="sent">20.11.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Holzgünz</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2434s">
+<persName>
+<forename>Walburga</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1818"/>
+<death cert="unknown"/>
+<occupation>Bauersfrau</occupation>
+<residence><geo decls="#WGS">48.024444 10.2586779</geo>Holzgünz, Ottobeuren</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Vermögen: "mit vielen Schulden zu kämpfen hat"</p>
+<p from="1853" to="1853">Anstalt: 1853</p>
+<p from="1853" to="1853">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Nymphomanie; Manie (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehemann"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    rechtfertigt sich, es wäre der Auftrag vom Landgericht und vom Pfarramt gewesen, seine Frau in eine Kammer einzusperren
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2434s01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2434s01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb2434s01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Holzgünz d. 20 November 1853</hi></dateline>
+<salute><hi rendition="#c">Euer Wohlgebohrn</hi></salute>
+</opener>
+<p>
+Jch übersende ihnen den Gulden<lb break="yes"/>den sie vür mein Weib ausgelegt<lb break="yes"/>haben und bemerke ferners noch<lb break="yes"/>daß ich das Schreiben an das Königl:<lb break="yes"/>Landgericht fürganz ohn̄ötig halte<lb break="yes"/>indem mich jeder gang nach Ottobeuren<lb break="yes"/>30 x kostet ohne zeit versämnis<lb break="yes"/>wan sie Häten an mich geschrieben<lb break="yes"/>so Häte ich sie doch nicht abgeholt<lb break="yes"/>so wie auch die Grausam̄e Mißhandlung<lb break="yes"/>die in dem Schreiben erwänt ist blos<lb break="yes"/>diese daß ich sie in einer Kam̄er<lb break="yes"/>verschloßen hilt wozu ich aber<lb break="yes"/>vom Köngl: Landgericht und vom<lb break="yes"/>Pfaramt den Strengsten<lb break="yes"/>auftrag erhielt.
+
+<pb facs="#image_002"/>
+<hi rendition="#r">Euer <w>Achtungs volster</w><lb break="yes"/>Benedikt <surname>S.</surname> M</hi>
+<pb facs="#image_003"/>
+<hi rendition="#c">An<lb break="yes"/>die Konigl: Vewaltung<lb break="yes"/>der Kreißirenanstalt<lb break="yes"/>in<lb break="yes"/>Jrsee.</hi></p>
+<p><hi rendition="#r">Wert 1 fl frey</hi>
+</p>
+</body>
+</text>
+</TEI>

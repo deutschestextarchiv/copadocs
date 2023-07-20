@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1621b24" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1621</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Martin <surname>B.</surname></persName>
+<date type="sent">08.06.ca1890-1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau:  Karolina <surname>B.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1621b">
+<persName>
+<forename>Martin</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1832"/>
+<death when="1906"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.2433959 10.3634009</geo>Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater Schneider, Mutter Hausiererin</p>
+<p from="1890" to="1906">Anstalt: 1890-1906</p>
+<p from="1890" to="1906">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Secundäre Seelenstörung (1894), [Alkoholismus], Halluzination (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beschwert sich darüber, angeblich ungerechtfertigt wieder von seiner Frau in die Anstalt gebracht worden zu sein und besteht auf eine Antwort.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1621b24a.jpg" xml:id="image_076"/>
+<graphic mimeType="image/jpg" url="kfb1621b24b.jpg" xml:id="image_077"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_076"/>
+<opener>
+<dateline><hi rendition="#c">Irse ten 8 Juni</hi><lb break="yes"/></dateline>
+<salute>Libes Waib</salute>
+</opener>
+<p> ich wais niht ob du mainen Brüf<lb break="yes"/>Erhalten hast oder niht <seg ana="#metaling">den ih mit <w>Bleü<lb break="yes"/>Stifte</w> geshriben hab</seg> darum
+                shraibe mihr di<lb break="yes"/>Wahrhait aus welher Ursahe als du mihr<lb break="yes"/>niht geshriben hast. Zöenmal liber ten Tot<lb break="yes"/>als
+                noh lenger hür sein Aingesbört als<lb break="yes"/>wi ain Raubmörter in der Öbigait
+                    get<lb break="yes"/>es mihr böser wan du mih bai tür<lb break="yes"/>niht mer
+                haben wülst so wil ih daine<lb break="yes"/><w>Tühr shwöle</w> niht mer betreten ih<lb break="yes"/>bring mih shon fort ist das der Tank<lb break="yes"/>Tank fon dihr das ich dain
+                Haus so ortenlih<lb break="yes"/>hergerihtet hab wail ih bai dür trausten<lb break="yes"/>wahr di bahr Tagen woh man mih glaih<lb break="yes"/>witer fort
+                hat in das Nahrenhaus um<lb break="yes"/>gewise Ursahe hete man mihr gesagt di<lb break="yes"/>forshrift wi ih mih <w>auf füren</w> hete
+                    solen<lb break="yes"/>dan wehre es fom <w>Regirus
+                    Rat</w> shöner<lb break="yes"/>gewesen shöme dih for Gott und der<lb break="yes"/>Wäld das du so Ungereht hanteln tust<lb break="yes"/>gegen mih du
+                darfst mihr di Wahrait <pb facs="#image_077"/> Shraiben aus welher Ursahe als mih<lb break="yes"/>der <w>Regiruns Rat</w> mihr niht mehr<lb break="yes"/>maine Freihait geben wil den das<lb break="yes"/>Betzirgsambt hat
+                über mih gein<lb break="yes"/>reht mih so lange ain zusbören<lb break="yes"/>dise
+                heren solen auh Tengen an<lb break="yes"/>den Tot den unser Her Gott ist ain<lb break="yes"/>Stringer Rihter ist das der Ait den du<lb break="yes"/>geshworen
+                hast am Altar an de<del>i</del>n̄<lb break="yes"/><add>dem</add> Hozeittag du wolest mihr<lb break="yes"/>drai blaiben bis in den
+                    Tot<lb break="yes"/>also noh mal shraibe mihr<lb break="yes"/>eine gewise
+                Antwort aus welher<lb break="yes"/>Uhrsahe als der Nehrihhe <w>Bezigsambt<lb break="yes"/>Man</w> es noh niht mahen gan<lb break="yes"/><seg ana="#salute"> nebst grus ih derwarte bis bine <del>6</del> 8<lb break="yes"/>Tagen ain gewise Antwort</seg>
+</p>
+</body>
+</text>
+</TEI>

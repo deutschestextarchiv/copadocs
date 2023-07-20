@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1762p05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1762</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Philipp <surname>P.</surname></persName>
+<date type="sent">18.11.1915</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: <!--Vorname--> <surname>P.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1762p">
+<persName>
+<forename>Philipp</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1916"/>
+<occupation>Weinwirtschaftsbesitzer</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Kitzingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n. a. </p>
+<p from="1882" to="1916">Anstalt: 1882-1916</p>
+<p from="1882" to="1916">Brieftypen: pp, po</p>
+</state>
+<trait><p>Tobsucht (1874, 1881), Depression (1881, 1882-1895), Manie (1882), circulärer Irrsinn (1882-1895)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="arzt"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte nach Werneck verbracht werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1762p05a.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb1762p05b1.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb1762p05b2.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#r"><hi rendition="#i">Kaufbeuren, 18.
+                                November 1915.</hi></hi></add></dateline>
+<salute><add hand="arzt"><hi rendition="#i">Kgl. Direktion </hi><lb break="yes"/><hi rendition="#i">der Heil- und Pflegenanstalten b. Kaufbeuren .
+                            </hi><lb break="yes"/><hi rendition="#i">An Herrn Philipp
+                                </hi><surname><hi rendition="#i">P.</hi></surname><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">J</hi><hi rendition="#u"><hi rendition="#i">rsee.</hi></hi></add><hi rendition="#u"><hi rendition="#i"> </hi></hi></salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#i">Betreff: </hi><lb break="yes"/><hi rendition="#i">Visitation der Heil- und Pflegeanstal</hi><lb break="no"/><hi rendition="#i">ten bei Kaufbeuren im Jahre 1915.</hi></add></p><p><add hand="arzt"><space/> <hi rendition="#i">Gemäss Entschliessung der </hi><lb break="yes"/><hi rendition="#i">k. Regierung von Schwaben und Neuburg </hi><lb break="yes"/><hi rendition="#i">Kammer des Jnnern in Augsburg kann Jhnen auf </hi><lb break="yes"/><hi rendition="#i">Jhre bei der Anstaltsvisitation vorge</hi><lb break="no"/><hi rendition="#i">brachte Entlassungsbitte keine Folge </hi><lb break="yes"/><hi rendition="#i">gegeben werden , da die Voraussetzungen
+                        </hi><lb break="yes"/><hi rendition="#i">für Jhre Verwahrung in der Anstalt
+                        vor</hi><lb break="no"/><hi rendition="#i">liegen und Sie nicht
+                        entlassungsfähig sind.</hi></add></p><p><add hand="arzt"><hi rendition="#c"><hi rendition="#i">Dr Prinzing</hi></hi></add></p><p><space/> Dan̄ verlang ich in <del>M</del>meine<lb break="yes"/><hi rendition="#i">Heimath</hi>
+<hi rendition="#i">Werneck</hi> ver<lb break="no"/>setzt zu werden, den̄
+                    mei<lb break="no"/>ne <hi rendition="#i">Geburtsgemeinde</hi><lb break="no"/><hi rendition="#i">Verwaltung</hi>
+<hi rendition="#i">Rödelsee</hi><lb break="yes"/>hat mich mit 18 <hi rendition="#i">Jahre</hi><pb facs="#image_016"/><pb facs="#image_017"/><hi rendition="#i">achtzehn</hi>
+<hi rendition="#i">Jahren</hi> weil ich einen<lb break="yes"/>tüchtigen fleißigen
+                jungen <hi rendition="#i">Man</hi>̄<lb break="yes"/>mache einstimmig als
+                Bürger<lb break="yes"/>angenomen &amp; der alte H <w>Bürg<lb break="no"/>ermeister</w>
+<surname><hi rendition="#i">D.</hi></surname> der bettlägerig<lb break="yes"/>wurde, wollte haben ich sollte <w>ein<lb break="no"/>ige</w>
+<hi rendition="#i">Monat</hi> Zwetschchen an <w>stein<lb break="no"/>er</w> Stelle
+                bren̄en dan̄ wollte mir<lb break="yes"/>die <hi rendition="#i">Gemeindeverwaltung</hi> 1 Zeugniß<lb break="yes"/>ausstellen daß ich <hi rendition="#i">arbeite</hi> Dan̄<lb break="yes"/>kön̄ten mich die
+                    <hi rendition="#i">Schwaben</hi>
+<hi rendition="#i">Am</hi><lb break="yes"/><hi rendition="#i">Arsch</hi>
+<hi rendition="#i">lecken</hi> Entschuldigen Eurer<lb break="yes"/>Hochwohlgeboren
+                Herr<lb break="yes"/><hi rendition="#i">Medicinalrath</hi>
+<hi rendition="#i">Dr</hi>
+<hi rendition="#i">Prinzing</hi>. <surname>K.</surname>?<lb break="yes"/>Bürgermeister in Ulm hat seiner<lb break="yes"/>Zeit auch von Weinduseel <w><hi rendition="#i">Milli</hi><lb break="no"/><hi rendition="#i">onenprojecte</hi></w> des <hi rendition="#i">Director</hi> in<lb break="yes"/>den Zeitungen gesprochen &amp;<lb break="yes"/>Herr <hi rendition="#i">Polizei-Inspector</hi> in<lb break="yes"/><hi rendition="#i">Nürnberg</hi> fragte ob Sie noch<lb break="yes"/>im̄er gern so starke <hi rendition="#i">griechische</hi><lb break="yes"/><hi rendition="#i">Weine</hi> trinken. Der soll tobsüchtig<lb break="yes"/>&amp; sicherheitsgefährlich sein sagte<lb break="yes"/>der zu den
+                Umstehenden Er bräuch vor Lachen<lb break="yes"/>hallenden ältern <hi rendition="#i">Coulegen</hi> nicht wahr <hi rendition="#i">Direkt</hi><lb break="no"/><hi rendition="#i">or</hi>
+<hi rendition="#i">Prinzing</hi> ist ein geborner Schwab| <hi rendition="#i">Pfarr</hi><lb break="no"/><hi rendition="#i"> rerssohn</hi> v. <hi rendition="#i">Memmingen</hi> das ist halt <w>wied<lb break="no"/>er</w> 1 Schwabenstreich
+                mehr. Wie oft haben<lb break="yes"/>mir in Gesellschaften über seine Urtheile<lb break="yes"/><add place="margin">von <hi rendition="#i">Bayreuth</hi> aus gelacht
+                    &amp; <unclear>hinishen</unclear> Hansel rufen sich die Pfleger<lb break="yes"/>Gegenseitig zu wer das gemeint ist? <hi rendition="#i">Hofrath</hi>
+<hi rendition="#i">Oberartzt</hi><lb break="yes"/><hi rendition="#i">Dct</hi>
+<hi rendition="#i">Sprengler</hi> ist auch an seiner außerordentlichen
+                    schmerzhaften<lb break="yes"/>Krankheit wohl <hi rendition="#i">Kronprinz</hi>
+<unclear/> Kaiser <hi rendition="#i">Friedrich</hi> Krankheit gestorben<lb break="yes"/><w><hi rendition="#i">Ober Arzt</hi></w>
+<hi rendition="#i">Zierl</hi> sagte seine Schmerzen waren Ihm zu groß Es laufen<lb break="yes"/>gar viele rum wo's heißt <unclear>außen beglissen</unclear>
+                    &amp; man veschissen oh. faul<lb break="yes"/>an Leib<lb break="yes"/>&amp;
+                    Seel<lb break="yes"/>Urtheilet<lb break="yes"/>nicht auf<lb break="yes"/>daß
+                    Ihr<lb break="yes"/>nich bet<lb break="yes"/><w>verurth<lb break="no"/>eilet</w><lb break="yes"/>werdet<lb break="yes"/><unclear/><lb break="yes"/><hi rendition="#i">Ban &amp; See of </hi><lb break="yes"/><hi rendition="#i">Ingland </hi><lb break="yes"/><hi rendition="#i">Meno Menu
+                        </hi><lb break="yes"/><hi rendition="#i">Deckl</hi></add></p>
+</body>
+</text>
+</TEI>

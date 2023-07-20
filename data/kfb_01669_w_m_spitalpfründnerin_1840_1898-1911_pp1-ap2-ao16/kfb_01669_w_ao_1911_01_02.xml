@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1669w18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1669</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Philippina ("Lina") <surname>H.</surname></persName>
+<date type="sent">02.01.1911</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Dr. Zierl</persName>
+<settlement type="sent">Lindau</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1669w">
+<persName>
+<forename>Babette</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1840"/>
+<death when="1911"/>
+<occupation>Spitalpfründnerin</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Tuchscherer</p>
+<p from="1898" to="1911">Anstalt: 1898-1911</p>
+<p from="1898" to="1911">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Idiotie (1899), [Wahnideen, Halluzinationen]</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwester"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin ist schwer erkrankt; ihre Schwester kann sie jedoch nicht besuchen. 
+                    Die Schreiberin bittet um Auskunft über den Verlauf der Krankheit.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1669w18.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline><hi rendition="#r">Lindau den 2 Ia. 1911.</hi></dateline>
+<salute><hi rendition="#c">Sehr Geehrter Herr Doktor!</hi></salute>
+</opener>
+<p>Ihre werthen Schreiben, bestens<lb break="yes"/>verdankend, bedaure sehr daß<lb break="yes"/>meine l Schwester so schwer erkrankt<lb break="yes"/>ist; es tut
+                mir leid Sie nicht besuchen<lb break="yes"/>zu kön̄en, da ich Geschäftlich
+                    <w>so wie</w> mit<lb break="yes"/>häuslicher Arbeit sehr gebunden bin,<lb break="yes"/>mir auch im Winter das reisen nicht<lb break="yes"/>gut tut. <w>Er
+                    suche</w> Herrn Dkr höfl mir<lb break="yes"/>über den Verlauf der Krankheit<lb break="yes"/><space/> Nachricht zukom̄en zu lassen.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll </seg><lb break="yes"/><space/>
+<seg ana="#signed">Frau Philippine <surname>H.</surname></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

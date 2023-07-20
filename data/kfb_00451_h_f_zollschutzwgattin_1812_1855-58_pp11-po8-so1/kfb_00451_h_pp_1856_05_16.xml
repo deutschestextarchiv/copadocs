@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb451h05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>451</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Augusta von <surname>H.</surname></persName>
+<date type="sent">1855-1858</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb451h">
+<persName>
+<forename>Augusta von</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1812"/>
+<death cert="unknown"/>
+<occupation>Zollschutzwachengattin</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: kgl. Stallmeister</p>
+<p from="1855" to="1858">Anstalt: 1855-1858</p>
+<p from="1855" to="1858">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Fixe Ideen, Halluzination (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte an den Vater um Hilfe.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb451h05a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="kfb451h05b.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline/>
+<salute>Mein lieber guter Vater</salute>
+</opener>
+<p> Gebe Gott daß der Brief in ihren Hände komt den Weg zu<lb break="yes"/>ihrem Herzen
+                findet er ohnedem O mein guter lieber<lb break="yes"/>Vater Sie die Form meines
+                Schreibens mit den<lb break="yes"/>traurigen Umständen der Gefangenschaft und<lb break="yes"/>jezt nicht Recht geduldlosen Jam̄er <hi rendition="#u">Erlößung</hi> vor<lb break="yes"/>Allen mein Vater Freiheit Friede Licht<lb break="yes"/>und Recht kann ich später erhalten nur jezt Erlößung<lb break="yes"/>was mich auch ferner treffen Es giebt kein Unglük<lb break="yes"/>mehr daß trauriger ist als dieser Aufenthalt<lb break="yes"/><hi rendition="#r">Überbringerin</hi>
+<pb facs="#image_018"/>des Brief <unclear>weium</unclear> Dieselbe es wagte ihn
+                selbst<lb break="yes"/>zu übergeben ist Clara <surname>W.</surname> ein höchst
+                braves<lb break="yes"/>nützliches Frauenzimmer aber leider jetzt außer<lb break="yes"/>Dienst Sie hat den traurigen Antieg über<lb break="yes"/>meine
+                Leiden noch mündlich zu schildern.<lb break="yes"/>Unterläßt sie es so fragen Sie
+                ihr ihr gütiges<lb break="yes"/>Herz und beschäftigen Sie einen Augenblick<lb break="yes"/>mit dem Gedanken an meine Hülfe - </p>
+<p>Bitte lauf und <unclear>enzl und salschuldige</unclear>
+<seg ana="#signed">Augusta von <surname>H.</surname></seg><lb break="yes"/>über Papier und Schriftsachen den 16ten Mai<lb break="yes"/>Alles
+                ist ein Bild meiner Lage <hi rendition="#r">1856</hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb518o11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>518</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Michael <surname>O.</surname></persName>
+<date type="sent">25.02.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Mehring</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb518o">
+<persName>
+<forename>Franz</forename>
+<surname>O.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Bäckerssohn</occupation>
+<residence><geo decls="#WGS">48.2667 10.9833</geo>Mering, Friedberg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Bäcker</p>
+<p from="1853" to="1859">Anstalt: 1853-59</p>
+<p from="1853" to="1859">Brieftypen: pp, po</p>
+</state>
+<trait><p>Kaufs- und Spekulationsmanie, Geistesverwirrung (1858-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="bruder"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    fragt an, ob er seinen Bruder besuchen kann
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb518o11a.jpg" xml:id="image_027"/>
+<graphic mimeType="image/jpg" url="kfb518o11b.jpg" xml:id="image_028"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_027"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Mering den 25/59 Februar</hi></hi></dateline>
+<salute><hi rendition="#c">Geehrtester Herr <hi rendition="#i">Direktor!</hi></hi></salute>
+</opener>
+<p>
+Jhr werthes Schreiben habe ich richtig erhalten<lb break="yes"/>und darin vernom̄en daß der Bruder noch<lb break="yes"/>im̄er unfähig ist, aber doch schon auf dem<lb break="yes"/>Wege der Besserung sich befindet. Daher<lb break="yes"/>bin <del>s</del> ich so frei u. stelle daß Ansuchen<lb break="yes"/>ob es Sie Hl. <hi rendition="#i">Direckter</hi> für zweckmäßig<lb break="yes"/>finden Jhn ein Besuch abzustatten oder nicht.<lb break="yes"/>Mit dem Portät ist uns zu viel Geld.<lb break="yes"/><seg ana="#salute">Es grüßt Sie Mutter u Geschiste</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#c">Es</hi><lb break="yes"/><hi rendition="#r">verbleibt hochachtungsvoll<lb break="yes"/><hi rendition="#i">Michael <surname>O.</surname><lb break="yes"/>Bäcker</hi></hi></seg></p>
+<pb facs="#image_028"/>
+<p><hi rendition="#i"><hi rendition="#r">St Hochwohlgeboren</hi><lb break="yes"/><hi rendition="#c">Herrn Direktor von<lb break="yes"/>der kgl. Kreis Irren Anstalt<lb break="yes"/>in</hi><lb break="yes"/><hi rendition="#r">Irrsee</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

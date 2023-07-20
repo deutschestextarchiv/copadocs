@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1659a01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1659</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kaspar <surname>A.</surname></persName>
+<date type="sent">27.04.1892</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freund: Jakob <surname>R.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1659a">
+<persName>
+<forename>Kaspar</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1913"/>
+<occupation>Schneider, Unteroffizier</occupation>
+<residence><geo decls="#WGS">48.7990056 10.7444384</geo>Mündling, Donauwörth</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1879" to="1913">Anstalt: 1879-1913</p>
+<p from="1879" to="1913">Brieftypen: pp, po</p>
+</state>
+<trait><p>Halluzinatorische Paranoia (1871)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Besuch mit dem Plan, unter einem Vorwand nach Hause zu kommen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1659a01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1659a01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Irrsee den 27 April 1892.</hi></dateline>
+<salute><hi rendition="#c">Lieber Jakob!</hi></salute>
+</opener>
+<p> Daß die Appollonia geheirathet hat, habe ich<lb break="yes"/>durch die Zeitung
+                erfahren und seitdem,<lb break="yes"/>wen̄ ich in diese Sphäre hineinhorche<lb break="yes"/>ist mirs im̄er als ob ich dir's schrei<lb break="no"/>ben sollte. </p>
+<p>Weißt Du noch als wir die Läutegarben<lb break="yes"/>einheimsten in Katzenstein, in
+                In̄ingern,<lb break="yes"/>in Ronheim.s - Damals dachte ich<lb break="yes"/>freilich noch nicht daran, daß ich in eine<lb break="yes"/>solche
+                Verban̄ungsgeschichte hineinge<lb break="no"/>rathen kön̄te. Lieber
+                Jakob -<lb break="yes"/>Ich denke mir, du solltest mich einmahl be<lb break="no"/>suchen so, daß ich für etliche Tage mit Dir<lb break="yes"/>heimkehren
+                kön̄te, Privatangelegen<lb break="no"/>heiten zu ordnen und so weiters u.s.w.<lb break="yes"/>auf Parole irgendwelchen Zertifikates;<lb break="yes"/>das
+                fragliche Reisegeld müßte ich Dir<lb break="yes"/>natürlichh vergüten. </p>
+<p>Besuche mich also dahier; im Jourzim̄er<lb break="yes"/>beim Doktor, <unclear>s</unclear> ist
+                gewöhnlich der Anfang<lb break="yes"/>und der Ausgang der in Frage<lb break="yes"/>stehenden Conversationen.<lb break="yes"/>Solltest Du keine Gelegenheit finden<lb break="yes"/>mich persönlich zu besuchen, so kan̄st<lb break="yes"/>Du meinen Brief in einem Schreiben<lb break="yes"/>erwidern. Adresse ist Kaspar
+                    <surname>A.</surname>;<lb break="yes"/>Unteroffizier, stationirt, beim
+                Pensionate<lb break="yes"/>Irrse.<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Kaspar <surname>A.</surname></seg></hi>
+</p>
+<pb facs="#image_002"/>
+<p><hi rendition="#c">An<lb break="yes"/>den Söldner<lb break="yes"/><hi rendition="#i">Jakob <surname>R.</surname></hi><lb break="yes"/>Maurer in<lb break="yes"/><hi rendition="#i">Mündling</hi><lb break="yes"/>k. Bezirksamte <hi rendition="#i">Donauwörth</hi>. </hi></p>
+</body>
+</text>
+</TEI>

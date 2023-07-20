@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s54" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">ca1890-97</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Dr. Ullrich</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1890" to="1897">Anstalt: 1890-1897</p>
+<p from="1890" to="1897">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er kündigt an, nicht mehr für die Anstalt zu arbeiten, da er keinen Lohn erhält
+                    und gesund ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s54.jpg" xml:id="image_144"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_144"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Herr Dr. Ullrich!</hi></hi></salute>
+</opener>
+<p><space/> Ich bin so frei, Ihnen bekan̄t zu machen, daß ich von Morgenfrüh
+                an<lb break="yes"/>die Arbeit niederlege, ohne daß Sie sagen kön̄en ich
+                hätte einen Anfall.<lb break="yes"/><space/> Ein Jeder Arbeiter ist seines Lohnes
+                werth, waß aber hier von Leute<lb break="yes"/>die Gebildet sein, u. den Armen
+                Menschen nach Kräften Unterstützen<lb break="yes"/>sollten, nicht der Fall wahr u.
+                ist, − Natürlich würden sie sich denken<lb break="yes"/>u. sagen Sie haben
+                mir es nicht Geschaft, so kan̄ ich darauf Erwiedern,<lb break="yes"/>daß Sie
+                mich für Unheilbar erklärt u. mir in's Gesicht gesagt haben<lb break="yes"/>am 17.
+                Iuni 1891. Sie hätten für mich zuviel zu Verantworten.<lb break="yes"/>Bißher hab
+                ich mich im̄er selbst Verantworten müßen, die Arbeit<lb break="yes"/>wo ich
+                bißher geleistet habe, habe ich damit Bezeugt daß ich körperl<lb break="yes"/>Gesund, Geist u. Arbeitsfähig bin, hiemit Ihre Aussage gegen<lb break="yes"/>mich
+                zu Schande gemacht, <seg ana="#cens">daß meine Briefe nicht Befördert<lb break="yes"/>werden, kan̄ ich Annehmen</seg> das Ihr Gewißen sehr
+                schlecht sein<lb break="yes"/>muß, sonst würden Sie meine Freiheit nicht Fürchten,
+                u. Als<lb break="yes"/>Ehrlicher Arzt nicht der Gemeinde Unnöthige Kösten
+                Verursachen.<lb break="yes"/><hi rendition="#r"><seg ana="#salute"><hi rendition="#i">Hochachtungsvollst</hi>.</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Jakob</hi> <surname>S.</surname>.</seg></hi></p>
+</body>
+</text>
+</TEI>

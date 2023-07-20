@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor816g03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>816 (K. 70)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Carl <surname>G.</surname></persName>
+<date type="sent">11.01.1903</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: Clara <surname>G.</surname></persName>
+<settlement type="sent">Aplerbeck</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor816g">
+<persName>
+<forename>Carl</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1860-10-17"/>
+<death cert="unknown"/>
+<occupation>Straßenbahncontroleur</occupation>
+<residence><geo decls="#WGS">51.4370171 7.335124</geo>Geburtsort: Greifswald; Wohnort: Witten</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: V: Metzger, M: ohne</p>
+<p from="1902-10-18" to="1903-10-29">Anstalt: 18.10.1902-29.10.1903</p>
+<p from="1902-10-18" to="1903-10-29">Brieftypen: pp</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt1"/>
+<handNote medium="crayon" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Besuch und Verschiedenes Mitgebrachtes (Zigarettenmaschine, Napfkuchen, Kleidung, Seife etc.) 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor816g03a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="dor816g03b.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="dor816g03c.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Aplabeck</hi> d. 11. 1. 1903.</hi></dateline>
+<salute><hi rendition="#c">Liebes Clärchen!</hi></salute>
+</opener>
+<p><hi rendition="#r"><add hand="arzt1">47</add></hi><lb break="yes"/><add hand="arzt2"><hi rendition="#i">P. A.
+                        <surname>G.</surname></hi></add></p>
+<p>Hoffenlich wierst<lb break="yes"/>du <del>du</del> hier bald<lb break="yes"/>erscheinen, und<lb break="yes"/>daß gewünschte<lb break="yes"/><w>mit bringen</w>.<lb break="yes"/>Nich die Cigarretten<lb break="no"/>maschiene ver<lb break="no"/>gessen, Winter<lb break="no"/>überzieher.<lb break="yes"/>die <w>Kugspitz Federn</w><lb break="yes"/>Liebe Clara<lb break="yes"/>bringe, etwurst<lb break="yes"/>und
+                den Napfkuchen <pb facs="#image_014"/>Warst, du bei<lb break="yes"/>Herrn
+                        <surname><hi rendition="#i">K.</hi></surname>?<lb break="yes"/>du mußt
+                mir<lb break="yes"/>zwei Par Stu<hi rendition="#i">lpen</hi><lb break="yes"/>und par Kragen<lb break="yes"/><w>mit
+                    bringen</w>,<lb break="yes"/>wie ist es mit<lb break="yes"/>dem Bunten<lb break="no"/>hende. II Stück<lb break="no"/>chen Seife<del>n</del><lb break="yes"/>und die Gelben<lb break="no"/>schuhe, Handschu<lb break="no"/>he,
+                ein Stück<lb break="yes"/>faschen Hasen<lb break="yes"/>nicht so klein.<lb break="yes"/><seg ana="#signed">dein Treuer<lb break="yes"/><hi rendition="#c">Carl</hi></seg>
+<pb facs="#image_015"/>Bist du auch beim <hi rendition="#r"><add hand="arzt1">48</add></hi><lb break="yes"/>Bürgermeister<lb break="yes"/>gewesen.<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Dein<lb break="yes"/>Mann Carl</seg></hi></p>
+<p><handShift medium="pencil" scribe="patient"/>Zu den Falschen<lb break="yes"/>Ha<del>a</del>senbrathen<lb break="yes"/>auch <hi rendition="#i">Poree</hi><lb break="yes"/>kom̄e am<lb break="yes"/>Mittwoch.<lb break="yes"/>den
+                Hasen nicht,<lb break="yes"/>die Loffel kurz<lb break="yes"/>beschneiden </p>
+</body>
+</text>
+</TEI>

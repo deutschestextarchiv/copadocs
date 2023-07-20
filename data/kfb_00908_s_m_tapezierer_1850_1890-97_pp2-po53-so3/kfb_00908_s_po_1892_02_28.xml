@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">28.02.1892</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Regierung</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1890" to="1897">Anstalt: 1890-1897</p>
+<p from="1890" to="1897">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um Hilfe der Regierung und berichtet von einer Misshandlung an einem Mitpatienten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s20.jpg" xml:id="image_050"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_050"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#i">Hochgeehrteste Regierung</hi></salute>
+</opener>
+<p>Der unterzeichneter Jak. <surname>S.</surname> v. Augsburg bittet<lb break="yes"/>die hohe Regierung dieses Schreiben berichtsichtigen<lb break="yes"/>zu wollen, u. den armen Wehrlosen Kranken in<lb break="yes"/>der
+                Abtgl. C 1. hilfen u gegen den <seg ana="#curse">Rohen Rauflustigen<lb break="yes"/>Betrügerischen</seg>
+                Pfleger sowie das höhre Aufsichtpersonal<lb break="yes"/>ins Auge faßen zu
+                wollen</p>
+<p>Hohe Comißion Jakob <surname>S.</surname> ist schon 2 Jahre<lb break="yes"/>in
+                der Anstalt <hi rendition="#i">Kaufbeuern</hi> das letzte Jahr in<lb break="yes"/>der Abth. C. 1. daher mit Augen Ohren u Herz<lb break="yes"/>empfunden hat, daß
+                nur die hohe Regierung<lb break="yes"/>gegen den Scheußlichen Mißhandlungen<lb break="yes"/>u Betrügereien einschreiten kan̄, den<lb break="yes"/>von
+                den Ärzten ist keine Hilfe noch<lb break="yes"/>einschreiten gegen den 3 sage drei<lb break="yes"/><seg ana="#curse">Rohen Raufpolden</seg> von Pflegern<lb break="yes"/>zu erwarten, da
+                sie selbst mit<lb break="yes"/><unclear>lische</unclear>
+<unclear/> fühlen<lb break="yes"/>Nur 1 fall von 18 Februar will ich<lb break="yes"/>berichten, obwohl ich mehr wie 50 von gräßlichen<lb break="yes"/>Mißhandlung u Körperverletzungen weis<lb break="yes"/>Am 18 Februar dießes Jahr
+                morgens ½ 11. Uhr wurde<lb break="yes"/>der Patient u Vater <add place="above"><unclear><surname>S.</surname></unclear></add> von 4 Kindern so
+                Mißhandelt<lb break="yes"/>daß ihm das Blut wie einem geschlachteten Thier<lb break="yes"/>von Kopf u Körper lief, das Badzim̄er Badwan̄e<lb break="yes"/>gang u Zelle war ein Blut als sein <unclear>Rinen</unclear><lb break="yes"/>Händeringen u flehen war umsonst, die <seg ana="#curse">rohen<lb break="yes"/>bereits Mördern</seg> schlugen ihn bis er kein Lebenzeichen<lb break="yes"/>von ihm gab
+                u den Kräftigen Patienten halbtod<lb break="yes"/>in die Zelle
+                    <unclear>kriegen</unclear> wo er jetzt noch liegt ohne<lb break="yes"/>daß ein
+                Arzt nach seine Wunden gefragt noh gesehen<lb break="yes"/>wurde. Das blut floß am
+                andern Tag freitag den 19 Februar<lb break="yes"/>noch den die Leintücher waren
+                blutig u den 3 Pflegern<lb break="yes"/>ihre Handen schauten aus mit blut als häten<lb break="yes"/>sie Thiere geschlachtet geschehen d. 18 Febr. 92.</p>
+<p><add hand="arzt" place="margin"><hi rendition="#u">28 II 92</hi>: Pat.
+                        <surname>S.</surname> schenkt d. Schriftstük behrfs<lb break="yes"/><space/> Aufhetzung andere br. in d. Zelle. <add place="below"><seg ana="#signed">N.</seg></add></add><lb break="yes"/><add place="margin"><hi rendition="#r">Instruktion.</hi></add><lb break="yes"/><add place="margin"><hi rendition="#r">48 <hi rendition="#u">60</hi><lb break="yes"/>120 48<lb break="yes"/><hi rendition="#u">7</hi><lb break="yes"/>55</hi></add><lb break="yes"/><add place="margin">Beschwährte über Körperverletzung</add></p>
+</body>
+</text>
+</TEI>

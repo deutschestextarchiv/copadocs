@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1005k06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1005</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabeth <surname>K.</surname></persName>
+<date type="sent">ca. Jan.-Febr. 1861</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Frau Stadtpfarrer: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1005k">
+<persName>
+<forename>Elisabeth</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1811"/>
+<death cert="unknown"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">47.9867696 10.181319</geo>Memmingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Schuhmacher; Vermögen: besitzt 125 F "in der hiesigen Sparkasse deponiert"</p>
+<p from="1857" to="1868">Anstalt: 1857-68</p>
+<p from="1857" to="1868">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Seelenkrankheit, Geistesstörung (1857)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    wollte Weihnachten nach Hause kommen, das ging aber nicht, weil sie hingefallen war
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1005k06a.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline/>
+<salute>Hochverehrte Frau Stattpfarrer</salute>
+</opener>
+<p>
+<space/> Sie werden mir verzeihen daß ich Sie u. die Hochveerhrte Frau<lb break="yes"/>Deckan u meine libe Frau <surname>S.</surname> anfürt hab etwas auf<lb break="yes"/>Weinachten von meiner Arbeit zu schicken, ich wär gut gottlob nachhaus<lb break="yes"/>gekom̄en aber nur bis ans Thor ich fill heraus u gerade auf einen<lb break="yes"/>grossen Küsselstein wo ich bis 11 uhr eine geschwulst bekam als wie<lb break="yes"/>ein Hin̄e Ei u wolte mich selbst kuriren u sagte nichts ich machte<lb break="yes"/>kalte überschl<unclear>a/e</unclear>g, dafür spürten noch die Herren Docktoren ein u lissen<lb break="yes"/>mich nur keine Arbeit u kein Papir diß ist die Ursache davon<lb break="yes"/>haben Sie doch mitleiden mit mir u lassen Sie auf meine rehnug<lb break="yes"/>bej dem Hochverehrten Herr Alber <surname>M.</surname> zu Kaufhaus u Großhendler<lb break="yes"/>auch meine 5 Fl 24 Kr etwas aus dem Laden hollen, u habe so schreckliche<lb break="yes"/>hitzen muß jetst wider eine Kraft bekomen, bin jetzt wegen den Klombe<lb break="yes"/>ten Brudikol vor den König Ludwig berufen, wan ich bekom u Sie<lb break="yes"/>mir u der Gnädige Herr Zuckerfarikant <surname>M.</surname> der mein Prodickol von<lb break="yes"/>seiner Majstät dem Hochverehrten Landes Vatter hat schiken so<lb break="yes"/><hi rendition="#r">wird es bald wider tun bej wie Elisabetha <surname>K.</surname>.</hi>
+</p>
+</body>
+</text>
+</TEI>

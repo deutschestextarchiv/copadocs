@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3842s08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3842</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>S.</surname></persName>
+<date type="sent">14.08.1949</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3842s">
+<persName>
+<forename>Josef</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1880"/>
+<death cert="unknown"/>
+<occupation>Maurer, Landwirt</occupation>
+<residence><geo decls="#WGS">47.8803788 10.622246</geo>Kaufbeuren, geb. Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Landwirt; "Vermögensverhältnisse: gering"</p>
+<p from="1909" to="1958">Anstalt: 1909-58</p>
+<p from="1909" to="1958">Brieftypen: Lebenslauf, pp, po</p>
+</state>
+<trait><p>Manisch-depressives Irresein (1909), Geisteskrankheit (1926)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    er möchte aus der Anstalt wegen der Schurken; von der Arbeit schmerzen ihm alle Glieder;
+                    er wird der Familie vier Monate lang Geld zahlen, wenn sie ihn aufnehmen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3842s08a1.jpg" xml:id="image_021"/>
+<graphic mimeType="image/jpg" url="kfb3842s08a2.jpg" xml:id="image_022"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<pb facs="#image_022"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Den</hi>, 14.8.1919.</hi></dateline>
+<salute/>
+</opener>
+<p> Ich möchte, Euch zur Kentnis machen<lb break="yes"/>warum ich aus der Anstalt möchte.<lb break="yes"/>1) Wegen den Schurken. Maulwürf fangen.<lb break="yes"/>Es wehre
+                für mich doch besser als hier.<lb break="yes"/>2) Habe ich hier in der Woche nur
+                    50.P.<lb break="yes"/>Ich muß die ganze Woche Kieß auf<lb break="no"/>laden.
+                Wie mir oft am Abend alle<lb break="yes"/>Glieder weh tund kan ich euch nicht
+                    schreiben<lb break="yes"/>3) Der mich in die Famielien <w>auf<lb break="no"/>nimt</w> dem bezahle ich am ersten<lb break="yes"/>Monat Hundert Mark den
+                    zweiten<lb break="yes"/>Monat Neunzig Mark. Den<lb break="yes"/>driten Monat
+                Achtzig. Den vierten<lb break="yes"/>Monat Sibzig jeden Monat.<lb break="yes"/>Bei
+                dem soll es dan bleiben.<lb break="yes"/>4) Wen ihr nicht wolt dan werde ich<lb break="yes"/>mich an eine andere Gemeinde<lb break="yes"/>melden. Jemand wirt
+                für mich<lb break="yes"/>doch noch erbarem haben. Das <w>Maurer<lb break="no"/>Handwerk</w> habe ich auch gerernt,<lb break="yes"/>kan auch einen
+                Stallschweizer machen.<lb break="yes"/>Mir ist keine Arbeit <w>zu fiel</w>. Aber<lb break="yes"/>hier habe ich genug. Den ganzen Tag<lb break="yes"/>im
+                    Kalop. <seg ana="#salute">Es Grüßt Euch</seg> euer</p>
+<p><seg ana="#signed"><hi rendition="#r">Untergebener Joseph
+                    <surname>S.</surname>.</hi></seg><lb break="yes"/><add place="margin">Es ist mir<lb break="yes"/>sehr<lb break="yes"/>ernst!</add>
+</p>
+</body>
+</text>
+</TEI>

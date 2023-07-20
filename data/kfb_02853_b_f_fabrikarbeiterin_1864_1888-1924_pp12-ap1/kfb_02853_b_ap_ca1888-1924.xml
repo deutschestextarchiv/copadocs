@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2853b13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2853</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Familie <surname><unclear>S.</unclear></surname></persName>
+<date type="sent">ca.1888-1924</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Patientin: Viktorie <surname>B.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2853b">
+<persName>
+<forename>Viktorie</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1864"/>
+<death when="1924"/>
+<occupation>Fabrikarbeiterin</occupation>
+<residence><geo decls="#WGS">47.8803788 10.622246</geo>Kaufbeuren</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Schuhmachermeister</p>
+<p from="1888" to="1924">Anstalt: 1888-1924</p>
+<p from="1888" to="1924">Brieftypen: pp</p>
+</state>
+<trait><p>Sekundäre Seelenstörung, halluzinatorische Verrücktheit (1895)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="verwandter"/></handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Brief an die Patientin mit einem Gruß ihrer Schwester zu ihrem Namenstag. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2853b13.jpg" xml:id="image_048"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_048"/>
+<opener>
+<dateline/>
+<salute>Liebe Schwester!</salute>
+</opener>
+<p>
+<space/> Ich übersende dir zu deinem<lb break="yes"/>Nam̄ensfest Glük Segen
+                u. <del>j</del>dazu<lb break="yes"/>den Himel u. sende dir ein<lb break="yes"/>ein
+                Christkindlein ein wenig<lb break="yes"/>laß es dir schmecken.</p>
+<p>Fräulein Oberpfegerin <w>über<lb break="no"/>geben</w> Sie meiner liebn<lb break="yes"/>Schwester daß ich lege 5 <hi rendition="#i">M</hi>.<lb break="yes"/>lei dan̄ kan̄ man Ihr<lb break="yes"/>Milch oder was kaufen<lb break="yes"/><seg ana="#salute">Mit Gruß.</seg> Familie
+                <surname>S.</surname></p>
+</body>
+</text>
+</TEI>

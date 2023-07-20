@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb6270r31" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Stephanie Kamm</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>6270</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Emma<surname><!--Nachname--></surname></persName>
+<date type="sent">01.11.1922</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Josef <surname>R.</surname></persName>
+<settlement type="sent">Dirlewang</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb6270r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1895"/>
+<death cert="unknown"/>
+<occupation>Schuhmacher</occupation>
+<residence><geo decls="#WGS">48.0048016 10.4324403</geo>Erisried, Mindelheim</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Schuhmacher</p>
+<p from="1920" to="1931">Anstalt: 1920-31</p>
+<p from="1920" to="1931">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Schizophrenie (1934), vorl. Diagn. Dementia praecox (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwester"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Frage nach Befinden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb6270r31a.jpg" xml:id="image_079"/>
+<graphic mimeType="image/jpg" url="kfb6270r31b.jpg" xml:id="image_080"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_079"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Dirlewang den I. November 1922.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Lieber Bruder!</hi></hi></salute>
+</opener>
+<p><hi rendition="#i">Ich</hi> will Dir nun auch einmal<lb break="yes"/>ein
+                Lebenszeichen geben. Wie geht<lb break="yes"/>es Dir im̄er? <hi rendition="#i">Ist denn</hi> noch<lb break="yes"/>gar keine Besserrung vorhanden.<lb break="yes"/>Bist Du noch im̄er gleich?<lb break="yes"/>Wenn nur einmal
+                Gottes Will<lb break="yes"/>wäre das Du wieder in<lb break="yes"/>unserer Mitte sein
+                    kön̄test.<lb break="yes"/>Neues kann ich nicht viel schreiben.<lb break="yes"/>Zuhause ist alles gesund, Gott sei Dank.<lb break="yes"/>Ich bin
+                im̄er nich gut.<lb break="yes"/>Schreibe mir auch einmal wie es<lb break="yes"/>Dir geht. Ich hoffe das Beste!<lb break="yes"/>Nun schließe ich
+                mein Schreiben sei tausendmal<lb break="yes"/>gegrüßt <seg ana="#salute">Deine
+                    Schwester</seg>
+<seg ana="#signed">Emma</seg>.</p>
+<pb facs="#image_080"/>
+<p><hi rendition="#c"><hi rendition="#i"><seg ana="#salute">Auf
+                    Wiedersehn!</seg></hi></hi><lb break="yes"/>adresse. <hi rendition="#i">Em̄a <surname>R.</surname><lb break="yes"/><space/> b. Herrn Georg
+                        <surname>L.</surname><lb break="yes"/><hi rendition="#c">in
+                            Dirlewang<lb break="yes"/>b. Mindelheim</hi></hi>
+</p>
+<p><hi rendition="#r"><hi rendition="#i">E</hi>x<hi rendition="#i">tra Gruß<lb break="yes"/>an die Wärter</hi></hi></p>
+<p><handShift medium="pencil" scribe="patient"/><add place="margin">Vergelts Gott was nicht<lb break="yes"/><hi rendition="#r">zahlbahr ist</hi><lb break="yes"/>Herzliches Verg.<lb break="yes"/><hi rendition="#r">Auch für Geschwistr</hi></add></p>
+<p><add place="margin"><hi rendition="#r">Ortseinwohner</hi><lb break="yes"/>Im Krl.
+                        ~|-/<lb break="yes"/>-~-+ <hi rendition="#i">Neger</hi><lb break="yes"/>mich
+                gefunden<lb break="yes"/>Hänge Dir um den<lb break="yes"/>Hals<lb break="yes"/><hi rendition="#c">Wo kann ich ohne Schlüssel<lb break="yes"/>die Ar. beginnen<lb break="yes"/>kein Hund stellt<lb break="yes"/>mich ein</hi></add></p>
+</body>
+</text>
+</TEI>

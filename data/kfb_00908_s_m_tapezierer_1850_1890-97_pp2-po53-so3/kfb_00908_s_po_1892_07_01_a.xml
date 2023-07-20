@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s47" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">01.07.1892</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Magistrat Augsburg</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1890" to="1897">Anstalt: 1890-1897</p>
+<p from="1890" to="1897">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bedankt sich und bittet um Entlassung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s47.jpg" xml:id="image_133"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_133"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren den 1. Juli
+                        1892.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Hoher Magistrat</hi><lb break="yes"/>der<lb break="yes"/><hi rendition="#i">Kreis Hauptstadt<lb break="yes"/>Augsburg</hi>!</hi></salute>
+</opener>
+<p><add place="top"><hi rendition="#i">Betreff!<lb break="yes"/>Danksagung </hi>u.
+                    um<lb break="yes"/><hi rendition="#i">Entlaßung des<lb break="yes"/>Jakob
+                            <surname>S.</surname> in der<lb break="yes"/>Heil </hi>u <hi rendition="#i">Pfleg Anstalt<lb break="yes"/>Kaufbeuren.</hi></add><lb break="yes"/><lb break="yes"/><hi rendition="#r">Ich unterzeichneter <hi rendition="#i">Jakob<lb break="yes"/></hi><hi rendition="#i"><surname>S.</surname></hi> bringe hiermit der Stadt<lb break="no"/><hi rendition="#i">Gemeinde</hi> u. dem löblichen <hi rendition="#i">Armen<lb break="no"/>pflegschafts-Rat Augsburgs</hi> für<lb break="yes"/>übermittelte Bekleidung nebst<lb break="yes"/><hi rendition="#i">Wäsche</hi> meinen <w>anerkenungs<lb break="yes"/>vollsten̄</w>
+<hi rendition="#i">Dank</hi> entgegen, u. bitte<lb break="yes"/>zugleich es möge
+                        <hi rendition="#i">Hoher Herr<lb break="yes"/>Vorstand</hi> des <hi rendition="#i">Armenpflegratsschaft<lb break="yes"/>Consortiums</hi> in
+                    stattfindender Sitz<lb break="no"/>ung beantragen, daß man sich<lb break="yes"/><w>an</w><w>der</w>
+<hi rendition="#i">Gesundheit</hi> des <hi rendition="#i">Körpers</hi> u.<lb break="yes"/><hi rendition="#i">Geistes Jak. </hi><surname>S.</surname>
+                    fest überzeugen<lb break="yes"/>kan̄, daher bitte sobald als möglich<lb break="yes"/>mich aus der <hi rendition="#i">Anstalt</hi> zu <hi rendition="#i">Entlaßen</hi><lb break="yes"/>daß auch einmal die langanhaltende</hi></p>
+</body>
+</text>
+</TEI>

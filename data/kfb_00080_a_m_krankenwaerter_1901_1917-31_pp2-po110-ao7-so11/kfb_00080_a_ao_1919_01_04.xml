@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a128" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Babette <surname>A.</surname></persName>
+<date type="sent">04.01.1919</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat</persName>
+<settlement type="sent">Hoyren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Mutter des Patienten bittet darum, ihn wieder in der Anstalt aufzunehmen, da sie zuhause nicht mit ihm zurechtkommen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a128a.jpg" xml:id="image_112"/>
+<graphic mimeType="image/jpg" url="kfb80a128b.jpg" xml:id="image_113"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_112"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Hoyren</hi>, den 4. Jan̄uar
+                        1.919.</hi></dateline>
+<salute><hi rendition="#c">Hochgeschätzter Herr Medizinalrat!</hi></salute>
+</opener>
+<p><add hand="arzt" place="top"><surname>A.</surname></add>
+</p><p><space/> Im Besitze Ihres werten<lb break="yes"/>Schreibens vom 2. ds. Mt.. teile ich Ihnen<lb break="yes"/>mit daß unser Sohn Hans gestern leider<lb break="yes"/>schon
+                wieder in seinen alten Fehler zurück<lb break="no"/>gefallen ist, Er hat sich wieder
+                zweimal in<lb break="yes"/>die Hand u. Arm geschnitten, u. sprang<lb break="yes"/>dann in den See. Unter solchen Umständen<lb break="yes"/>ist es uns unmöglich ihn
+                noch daheim zu<lb break="yes"/>behalten. Er selbst will auch <w>durch aus</w>
+                wieder<lb break="yes"/>in die Anstalt, weil er dort besser beauf<lb break="no"/>sichtigt werden kann. Der arme Mensch hat weder<lb break="yes"/>Rast noch Ruh. Es
+                hät uns recht gefreut, wenn<lb break="yes"/>er den Urlaub noch vollends hätte
+                ausnützen <pb facs="#image_113"/>können, aber es soll leider nicht seim.<lb break="yes"/>Wir bitten daher ihn wieder aufzunehmen.<lb break="yes"/>Herzlich
+                danken wir schon im Voraus für<lb break="yes"/>alles.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Mit vorzüglicher Hochachtung<lb break="yes"/>zeichnet ergebenst</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Babette
+                            <surname>A.</surname>.</seg></hi><lb break="yes"/>Auch <del>von</del> mein<del>e</del> Mann erlaubt sich die ehrerbietig<lb break="no"/>sten Grüße zu senden.<lb break="yes"/>Hans bittet ob er nicht ins
+                obere Kranken<lb break="no"/>zim̄er <hi rendition="#i">A</hi>. 3 kom̄en
+                könnte.</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun5988f12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>5988 (K. 90)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>F.</surname></persName>
+<date type="sent">09.11.1930</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Hauptmann: n.a. <surname>Z.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun5988f">
+<persName>
+<forename>Heinrich</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1879-07-10"/>
+<death cert="unknown"/>
+<occupation>Landwirt</occupation>
+<residence><geo decls="#WGS">51.9097831 7.958472934876058</geo>Geburtsort: Freckenhorst; Wohnort: Freckenhorst</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Landwirt; Mutter: n.a.</p>
+<p from="1920-03-29" to="1920-08">Anstalt: 29.03.1920-xx.08.1920</p>
+<p from="1920-03-29" to="1920-08">Brieftypen: 14.04.1922-14.07.1923</p>
+</state>
+<trait><p>Schizophrenie (1920)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+            Er bittet den Hauptmann, ihm bei seiner Entlassung aus der Anstalt zu helfen. Er zählt ihm dafür auf, wofür er alles am Hof verantwortlich ist. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun5988f12a.jpg" xml:id="image_031"/>
+<graphic mimeType="image/jpg" url="mun5988f12b.jpg" xml:id="image_032"/>
+<graphic mimeType="image/jpg" url="mun5988f12c.jpg" xml:id="image_033"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_031"/>
+<opener>
+<dateline>Münster d. 9.11.1930</dateline>
+<salute>Herr Hauptmann <surname>Z.</surname>!</salute>
+</opener>
+<p>Da Ich schon Zeit 1926<lb break="yes"/><unclear>in</unclear> dieser Anstalt auf<lb break="no"/><unclear>ge</unclear>halten werde, bis heute.<lb break="yes"/><unclear/> Ersuche ich Sie um<lb break="yes"/>Hülfe aus dieser <w>Ihren<lb break="no"/>Anstalt</w>
+<w>heraus zu Helfen</w>.<lb break="yes"/>Wegen meiner Land<lb break="no"/>wirtschaft da ich blos<lb break="yes"/>der Einzige Leiter meiner<lb break="yes"/>Landwirtschaft bin. Auf<lb break="yes"/>meines Hofes. Mein<lb break="yes"/>Name
+                ist Herr Landwirt<lb break="yes"/><hi rendition="#u" style="hand2"><hi rendition="#i">Heinrich </hi><surname><hi rendition="#i">F.</hi></surname></hi><lb break="yes"/><hi rendition="#r">wenden</hi>
+<pb facs="#image_032"/>aus Kirspl. <hi rendition="#i">Freck</hi><unclear><hi rendition="#i">enhorst</hi></unclear><lb break="yes"/>Kreis <hi rendition="#i">Warendorf </hi><lb break="yes"/>Wo ich da
+                die Land<unclear>wirt</unclear><lb break="no"/>schaft versorchen muß<lb break="yes"/>Meine Pferde Kühe <unclear/><lb break="yes"/>Schweine Hüner die<lb break="yes"/>Füderung des Vieh<lb break="yes"/>Meinen Acker in <unclear/><lb break="yes"/>machen die Weiden <unclear/><lb break="yes"/>Für mich mein Bre<unclear/><lb break="yes"/><w>fertig zu machen</w>
+<unclear/><lb break="yes"/>sonstige <w>Holz Arbei<unclear>ten</unclear></w><lb break="yes"/>Bitte Sie mir diese<lb break="yes"/>Befreihung zu
+                    Befür<unclear>wor</unclear><lb break="no"/>ten. Schriftlich oder<lb break="yes"/>mündlich oder Direckt<lb break="yes"/>einen Mann das <unclear/><lb break="yes"/>denn gleich mit her<unclear/><pb facs="#image_033"/><unclear>g</unclear>ehen könnte. <unclear><lb break="yes"/><lb break="yes"/>Di</unclear>eses ich selbst <unclear><lb break="yes"/>g</unclear>eschrieben.<lb break="yes"/><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Heinrich
+                        </hi><hi rendition="#u" style="hand2"><surname><hi rendition="#i">F.</hi></surname></hi></seg><lb break="yes"/><lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/><lb break="yes"/>Meine Adreße ist<lb break="yes"/>Landwirt <hi rendition="#i">Heinrich </hi><surname><hi rendition="#i">F.</hi></surname><lb break="yes"/>in <placeName>Münster i. W.</placeName><lb break="yes"/><placeName type="street">Kinderhauserstraße Nr. 92</placeName>.<lb break="yes"/>Marienthal Provinzialheilanstalt<lb break="yes"/>Hauptgebäude
+                M. A. 2.</p>
+</body>
+</text>
+</TEI>

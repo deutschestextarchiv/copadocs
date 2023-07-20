@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a22" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">23.05.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    schreibt von seiner Gotteslästerungsqual;
+                    tritt besonders auf, wenn er auf der Toilette ist 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a22a.jpg" xml:id="image_064"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_064"/>
+<opener>
+<dateline><hi rendition="#r">23. Mai 1928.</hi></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr Ober-Medizinalrat!</hi></salute>
+</opener>
+<p>Meine Gotteslästerungsqual wird immer ärger entsetzlicher.<lb break="yes"/>Jetzt
+                hab ich sogar besonders unterm Stuhlgang machen, die größte<lb break="yes"/>Unruhe.
+                Wenn ich zum schiffen muß, &amp;. mein Glied= &amp;. Hoden<lb break="yes"/>sehe,
+                dann kom̄en solche böse Gedanken &amp;. sagen mein Glied<lb break="yes"/>sei
+                Gottes Nase &amp;. Urin sei Jesus Blut. Ich kämpfe aber<lb break="yes"/>dagegen,
+                &amp;. sage wenn ich schiffe, jetzt kommt <hi rendition="#i"><surname>A.</surname> Messer</hi><lb break="yes"/>od. <hi rendition="#i">Revolver</hi> &amp;. <hi rendition="#i">Geldbeutel</hi> mit 2 Stück 2 <hi rendition="#i">M </hi>Stck&amp;. <hi rendition="#i"><surname>A.</surname>
+</hi><lb break="yes"/><hi rendition="#i">Schlaftrunk.</hi> Nur daß keine Lästerung
+                kom̄t, sehe ich meinen<lb break="yes"/>Benis- od. Glied für Messer od.
+                Revolver an, &amp;. meinen Hoden<lb break="yes"/>für <del>2</del> Geldbeutel m. 2
+                    <hi rendition="#i">M</hi> Stck. an &amp;. Urin für m. Schlaftrunk an.<lb break="yes"/>Aber ich rege mich nicht mehr auf wie Früher, ich weiß daß es<lb break="yes"/>eine Krankheit ist &amp;. ich habe Geduld &amp;. tue immer gut.<lb break="yes"/>Geben Sie mir bitte dauernde Schriftliche Arbeit.<lb break="yes"/><seg ana="#salute">Es grüßt Sie hochachtungsvollst </seg><seg ana="#signed"><seg ana="#curse">Sünder</seg>
+<hi rendition="#i">Hans </hi><surname><hi rendition="#i">A.</hi></surname>.</seg>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1869j10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1869</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>J.</surname></persName>
+<date type="sent">ca1877-1915</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: (Sophie) <surname>J.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1869j">
+<persName>
+<forename>Wilhelm</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1849"/>
+<death when="1915"/>
+<occupation>Handlungs-Commis</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Kaufmann</p>
+<p from="1877" to="1915">Anstalt: 1877-1915</p>
+<p from="1877" to="1915">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hyperaesthesie des Gemeingefühls, Hypochondrie" (1876)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink_black" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gedicht an die Mutter.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1869j10.jpg" xml:id="image_026"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_026"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Meine Teure Mutter</hi>.</hi></salute>
+</opener>
+<p><space/>
+<hi rendition="#i">Viel Herrliches hat mir der liebe Gott gegeben; </hi><lb break="yes"/><hi rendition="#i">Gesundheit, frohen Mut, ein reiches schönes
+                    Leben. </hi><lb break="yes"/><hi rendition="#i">Eins aber hab ich am liebsten auf
+                    der Welt, </hi><lb break="yes"/><hi rendition="#i">Viel lieber noch als Gold, als
+                    Edelstein und Geld − </hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Meine Mutter!</hi></hi><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">Wohl habe ich andre lieb, lieb auch von ganzer
+                    Seele; </hi><lb break="yes"/><hi rendition="#i">So glücklich bin ich, dass ich
+                    viele Freunde zäle! </hi><lb break="yes"/><hi rendition="#i">Doch einer nur
+                    gehört mein Leben, Herz und Sinn, </hi><lb break="yes"/><hi rendition="#i">Ihr
+                    geb ich alles gern, mich selbst zu eigen hin − </hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Meiner Mutter!</hi></hi><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">Auch mir sind andre gut, vor allen
+                    aber eine; </hi><lb break="yes"/><hi rendition="#i">Erratet ihr es nicht, wen ich
+                    vor allen meine? </hi><lb break="yes"/><hi rendition="#i">Im Auge liegt ihr Herz,
+                    nun wißt ihr es noch nicht? </hi><lb break="yes"/><hi rendition="#i">Aus
+                    Tausenden kenn ich der Augen strahlend Licht − </hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Meiner Mutter!</hi></hi><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">Es haben viele sich um mich viel Dank
+                    erworben: </hi><lb break="yes"/><hi rendition="#i">Die eine weiss ich wohl, wär
+                    auch für mich gestorben; </hi><lb break="yes"/><hi rendition="#i">Sie sorgt für
+                    mich bei Tag, des Nachts träumt sie von mir, </hi><lb break="yes"/><hi rendition="#i">Mein Heil, mein Segen liegt am treuen Herzen ihr − </hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Meiner Mutter!</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

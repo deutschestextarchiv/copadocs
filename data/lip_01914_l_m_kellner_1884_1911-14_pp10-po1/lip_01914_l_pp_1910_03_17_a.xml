@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip1914l03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>1914 (K. 210)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Gustav <surname>L.</surname></persName>
+<date type="sent">17.03.19010</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geliebte: Käthi </persName>
+<settlement type="sent">xx</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="lip1914l">
+<persName>
+<forename>Gustav</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1884-06-28"/>
+<death cert="unknown"/>
+<occupation>Kellner</occupation>
+<residence><geo decls="#WGS">51.5142273 7.4652789</geo>Geburtsort: Bielefeld; Wohnort: Dortmund</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1911-10-03" to="1914-01-28">Anstalt: 03.10.1911-28.01.1914</p>
+<p from="1911-10-03" to="1914-01-28">Brieftypen: pp, po</p>
+</state>
+<trait><p>Degeneriert, geistig minderwertig (1910)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                Frage, ob Briefe angekommen sind.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip1914l03a.jpg" xml:id="image_024"/>
+<graphic mimeType="image/jpg" url="lip1914l03b.jpg" xml:id="image_025"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline/>
+<salute>Meine liebe, gute Käthi!</salute>
+</opener>
+<p><add>Fräulein <hi rendition="#u">Käthi <hi rendition="#i"><surname>S.</surname></hi></hi><lb break="yes"/>g. A. Herrn Ober-Landes-Gerichts-Rat<lb break="yes"/><hi rendition="#r"><hi rendition="#i"><surname>L.</surname></hi></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u"><hi rendition="#i">Hamm</hi>
+<hi rendition="#sup">i</hi>/W. Ostenalen 42</hi></hi></add></p>
+<p><add hand="unbekannt">17.III.<lb break="yes"/>1910.</add></p>
+<p>Hast Du, mein Liebling, mei<lb break="no"/>ne beiden Briefe, welche<lb break="yes"/>ich von hier aus an Dich<lb break="yes"/>gesandt, nicht erhalten? </p> <p><space/>Als Du mich zum<lb break="yes"/>letzten mal besuchtest,<lb break="yes"/>sagtest Du, Liebling, Du<lb break="yes"/>kämest in 14 Tagen<lb break="yes"/>wieder zu Besuch!<lb break="yes"/>Warum hast Du, mei<lb break="no"/>ne liebe
+                Käthi nicht<lb break="yes"/>Wort gehalten? oder er<lb break="no"/>hälst Du meine
+                    Brie<lb break="no"/><unclear>fe</unclear> nicht. Aus dem <unclear>Laui<lb break="no"/>?</unclear>? Hospital hast Du doch<lb break="yes"/>meine Briefe
+                alle er<lb break="no"/><unclear>ha</unclear>lten! Liebe Käthi,</p>
+<pb facs="#image_025"/>
+<p>ich bitte Dich nun drin<lb break="no"/>gend, komme
+                    <unclear>mich</unclear><lb break="yes"/><hi rendition="#u">sofort</hi> besuchen, ich ster<lb break="no"/>be vor Verzweiflung<lb break="yes"/>Also bitte, komme doch<lb break="yes"/>sofort u. schreib mir<lb break="yes"/><hi rendition="#u">ausführlich</hi>. </p> <p>Bis auf Wiedersehen<lb break="yes"/>grüßt u. küßt<lb break="yes"/>Dich recht herzlich Dein<lb break="yes"/>Dich innig liebender<lb break="yes"/><hi rendition="#r"><hi rendition="#u">Hans Gustav</hi></hi>
+</p> <p>Herzl. Gruß u. Kuß<lb break="yes"/>an <hi rendition="#u">Federing.</hi><lb break="yes"/><hi rendition="#u">Menschen, die Erbarmen haben<lb break="yes"/>gibt es nicht mehr!</hi><lb break="yes"/>Da bis heute auf 2 Briefe keine Ant<lb break="yes"/>wort habe,
+                vermute ich, daß meine<lb break="yes"/>Briefe nicht abgesandt werden <unclear>und
+                    bitte</unclear><lb break="yes"/>allerhöflichst um <hi rendition="#u">sofortige</hi> Absendung
+                    <add place="below">derselben.</add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1005k01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1005</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Sara <surname>F.</surname>, Sara <surname>S.</surname></persName>
+<date type="sent">15.01.1861</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Nichte/Cousine: Elisabeth <surname>K.</surname></persName>
+<settlement type="sent">Memmingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1005k">
+<persName>
+<forename>Elisabeth</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1811"/>
+<death cert="unknown"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">47.9867696 10.181319</geo>Memmingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Schuhmacher; Vermögen: besitzt 125 F "in der hiesigen Sparkasse deponiert"</p>
+<p from="1857" to="1868">Anstalt: 1857-68</p>
+<p from="1857" to="1868">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Seelenkrankheit, Geistesstörung (1857)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="base_cousine"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    ap1 - Base: Frage wie angekommen nach Aufenthalt in Memmingen, überzeugt, dass besser in Anstalt, da noch Schwindel, schickt Süßigkeiten, hofft auf Brief
+                    ap2 - Cousine: schickt Bilder, Buchzeichen, wünscht gutes Neues
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1005k01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1005k01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Mem̄ingen, den 15<hi rendition="#sup">ten</hi>Iänr 1861.</hi></dateline>
+<salute><hi rendition="#c">Liebe Liese!</hi></salute>
+</opener>
+<p>
+Schon längst habe ich von Dir ein Schreiben erwartet<lb break="yes"/>wie du u. Deine Begleiterin in Irrsee angekom̄en sind.<lb break="yes"/>Meine Liebe! Du bist jetzt gewiß vergnügter, da du<lb break="yes"/>einmal wieder in Mem̄ingen warst u. hast Dich selbst<lb break="yes"/>überzeugt, daß es hier nichts für dich wäre, da du doch<lb break="yes"/>nicht ganz von deinem Schwindel befreit bist u. zu dem<lb break="yes"/>hast du noch das Glück bei einer guten Herrschaft zu sein,<lb break="yes"/>welche Geduld mit dir hat wen̄ du auch krank bist.<lb break="yes"/>Zum Gruß schik ich dir einige Schiblinge u. auch Zuker<lb break="no"/>brod u. wünsche dir guten Appetit dazu.<lb break="yes"/>In der Hoffung recht bald ein Briefchen von dir zu erhalten,<lb break="yes"/><seg ana="#salute">grüßen wir dich Alle recht vielmals hezlich.</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#c">Deine</hi> <hi rendition="#r">Baase Sara <surname>F.</surname>.</hi></seg></p>
+<p><hi rendition="#c">Liebe Liese!</hi></p>
+<p>Da es gerade Gelegenheit giebt, Dir etwas zu schiken, so bin<lb break="yes"/>ich so frei u. schike Dir ein paar Bilder, weil du einige<lb break="yes"/>gewünscht hast. Auch habe ich Dir ein Buchzeichen dazu gelegt
+
+<pb facs="#image_002"/>
+welches Du stiken kanst, ist stellt das Abendmahl vor<lb break="yes"/>wie Du sehen wirst, es nim̄t sich sehr hübsch aus wen̄ es gestikt<lb break="yes"/>ist; nachträglich wünsche ich Dir noch ein gesundes u. gutes<lb break="yes"/>neues Jahr. In der Hoffung daß dich die Sachen freuen<lb break="yes"/>werden <seg ana="#salute">grüßt Dich </seg><seg ana="#signed">Deine Cousine<lb break="yes"/><hi rendition="#r">Sara <surname>S.</surname>.</hi></seg>
+</p>
+</body>
+</text>
+</TEI>

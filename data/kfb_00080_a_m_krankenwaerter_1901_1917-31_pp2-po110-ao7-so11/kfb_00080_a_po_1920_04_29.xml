@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a61" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">29.04.1920</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt1"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt2"/>
+<handNote medium="pencil" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er beichtet, dass er Nägel verschlucken wollte, hat aber nur einen verschluckt.
+                    Er will die restlichen Nägel beim Pfleger abgeben.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a61a.jpg" xml:id="image_156"/>
+<graphic mimeType="image/jpg" url="kfb80a61b.jpg" xml:id="image_157"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_156"/>
+<opener>
+<dateline><add hand="arzt1"><hi rendition="#i">prs.</hi> 29.4.20</add></dateline>
+<salute><hi rendition="#r">Sehr Geehrter Herr <hi rendition="#i">Oberarzt</hi>:</hi></salute>
+</opener>
+<p><add hand="hand4" place="top"><hi rendition="#r">(37)</hi></add><lb break="yes"/><add hand="arzt1">38)</add><lb break="yes"/><space/> Heute hatte ich eine schlim<lb break="no"/>me Nacht,
+                konnte sehr we<lb break="no"/>nig schlafen &amp;. hatte arge<lb break="yes"/>schmerzen in meine<del>m</del>n<lb break="yes"/>Ärmen &amp;. andern Gliedern<lb break="yes"/>besonders in der Brust. Ich hat<lb break="no"/>te keine Ruhe &amp;.
+                dachte nur<lb break="yes"/>dem Sterben nach, konnte<lb break="yes"/>mich nicht
+                beherrschen, sam̄<lb break="no"/>melte im Holzstadel 7 Nägel<lb break="yes"/>hatte im Sinn mir das<lb break="yes"/><hi rendition="#i">Leben</hi> zu nehmen; war<lb break="yes"/>aufgeregt, weil ich leiden<lb break="yes"/>muß &amp;. Ihr
+                Herren. Ärzte meint<lb break="yes"/>&amp;. sagt ich lüge ich bilde mir<lb break="yes"/>die Gesichtstäuschungen &amp;.<lb break="yes"/>Schmerzen nur ein
+                &amp;. ich soll<lb break="yes"/>fleißig arbeiten dann wür<pb break="no" facs="#image_157"/><add hand="hand4" place="top">38.)<lb break="yes"/></add>den die
+                Schmerzen vergehen u.sw.<lb break="yes"/>Das ist aber nicht der Fall.
+                    <del><unclear/></del><lb break="yes"/><hi rendition="#u" style="arzt2">Wenns mich in der Früh hat</hi>,
+                dan̄<lb break="yes"/><hi rendition="#u" style="arzt2">studiere ich unterm
+                    Sägen</hi> nach<lb break="yes"/>wie ich sterben kan̄, &amp;. suche im<lb break="yes"/>Holzstadel nur nach Nägeln u. s w<lb break="yes"/>Heute
+                sam̄elte ich wieder 7 Nä<lb break="no"/>gel zum verschlucken; hatte es
+                im̄<lb break="yes"/>Sin̄ zu tun. Einen langen Na<lb break="no"/>gel
+                hatte ich schon im Mund<lb break="yes"/>wollte ihn raus tun, war aber<lb break="yes"/>schon verschluckt. Die andern<lb break="yes"/>verschluckte ich
+                Gottlob nicht &amp;. geb<lb break="yes"/>sie jetzt Herrn Oberpfleger ab.<lb break="yes"/>Lassen Sie mich bitte im̄er<lb break="yes"/>Vormittags im
+                Bett &amp;. dann<lb break="yes"/>Mittags aufstehen u. Aufsicht.<lb break="yes"/>In
+                    <hi rendition="#u" style="arzt2">Holzstadel geh ich nie mehr</hi>;<lb break="yes"/>da <hi rendition="#u" style="arzt2">käm es sommit, daß ich mirs<lb break="yes"/>Beil auf den Schädel hau</hi>.<lb break="yes"/><seg ana="#salute">Hochachtungs<add place="below">voll</add></seg>
+<seg ana="#signed">Hans <surname>A.</surname></seg> </p>
+</body>
+</text>
+</TEI>

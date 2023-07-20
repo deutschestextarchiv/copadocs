@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1365s23" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1365</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>S.</surname></persName>
+<date type="sent">22.08.1907</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinallracht: n.a.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1365s">
+<persName>
+<forename>Anna</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1856"/>
+<death cert="unknown"/>
+<occupation>Armenhäuslerin</occupation>
+<residence><geo decls="#WGS">48.4327435 10.3711492</geo>Großanhausen, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Zimmermann</p>
+<p from="1899" to="1919">Anstalt: 1899-1919</p>
+<p from="1899" to="1919">Brieftypen: po, pp</p>
+</state>
+<trait><p>Schwachsinn, Paranoia (1899-1919)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                 Die Patientin berichtet von ihrer Zeit nach dem Anstaltsaufenthalt. Nach dem Verlassen der Anstalt haben sich bei ihr so diverse körperliche Symptome gezeigt, die bei einer Untersuchung als Erkrankung der Gebärmutter diagnostiziert wurden. 
+                 Der ansässige Bürgermeister beahupte jedoch, die Patientin sei gesund, was sie wütend mache.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1365s23a.jpg" xml:id="image_049"/>
+<graphic mimeType="image/jpg" url="kfb1365s23b.jpg" xml:id="image_050"/>
+<graphic mimeType="image/jpg" url="kfb1365s23c.jpg" xml:id="image_051"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_049"/>
+<opener>
+<dateline><hi rendition="#r">Großanhausen den 6ten Aug<add place="below">ust</add></hi></dateline>
+<salute><hi rendition="#r">Geerhrter Hern Medizin<lb break="no"/>Allracht</hi></salute>
+</opener>
+<p><w>In dem</w> ich im 30ten Juli<lb break="yes"/>Von ihne das letzte <add place="above">mal</add> die Hand<lb break="yes"/>zum Abschied geben habe<lb break="yes"/>War ich im heimreiße so arg<lb break="yes"/>Aufgeregt das ich im
+                zug<lb break="yes"/>war nah Augburg komt Nassen<lb break="no"/>Blutten bekomen hab
+                u in<lb break="yes"/>31ten Juli so arge Unwohl<lb break="yes"/>das ich u übersich
+                brehen<lb break="yes"/>Magengrämpf von Abend<lb break="yes"/>Bis Mogen 4 Uhr in
+                der Frühe<lb break="yes"/>last nah ich bekom von Herr<lb break="yes"/><w>Bezürks
+                    Arzt</w>
+<w>Pfefer Müntzthee</w><lb break="yes"/>u Tropfen für Krämpf. <pb facs="#image_050"/>u heut bin ich genau<lb break="yes"/>Untersuht worden es ist<lb break="yes"/>in Gäbärmutter ein
+                gewähgs<lb break="yes"/>Wie ein Apfel u andere<lb break="yes"/>Wie eine <w>Welsch
+                    Nuß</w><lb break="yes"/>sagt der Arzt ich Muß 2 mal<lb break="yes"/>Die Wohe zum Arzt<lb break="yes"/>Sie können ja mir niht<lb break="yes"/>verübel haben das ich mein<lb break="yes"/>Tod mit hängen gesuht<lb break="yes"/>hät den die Schmerzen
+                sind<lb break="yes"/>zu arg gewessen das ich Ruhe<lb break="yes"/>gehabt hab ist
+                gut gewessen<lb break="yes"/>ich kan fast niht gehen<lb break="yes"/>furhbare
+                Schmerzen in den<lb break="yes"/>Füssen ich denk oft an die<lb break="yes"/>Ruhe
+                daheim hab ich keine<lb break="yes"/>Ruhe, u der Bürgermeister <pb facs="#image_051"/>sagt zu mir weil ich heim<lb break="yes"/>kam mir fehlt
+                nihts. u auf<lb break="yes"/>dies reg ich mih so auf das<lb break="yes"/>ich wen
+                Bürgemeister sehe<lb break="yes"/>so schimpf das ich züttre u<lb break="yes"/>kantz blaß wär die Aufregung<lb break="yes"/>ist mir so schädlich, ich danke<lb break="yes"/>ihne für ihne Mühe die sich<lb break="yes"/>ihnen gegeben haben. </p>
+<p><hi rendition="#r"><seg ana="#salute"><w>Hoch Ahtungsvollst</w></seg><lb break="yes"/><seg ana="#signed">Anna <surname>S.</surname></seg>.</hi>
+</p>
+</body>
+</text>
+</TEI>

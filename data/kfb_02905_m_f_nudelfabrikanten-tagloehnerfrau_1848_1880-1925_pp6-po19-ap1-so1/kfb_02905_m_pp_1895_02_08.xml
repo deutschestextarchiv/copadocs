@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2905m11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2905</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Helene <surname>M.</surname></persName>
+<date type="sent">08.02.1895</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2905m">
+<persName>
+<forename>Helene</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1848"/>
+<death when="1925"/>
+<occupation>Nudelfabrikanten-/Taglöhnerfrau</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern:</p>
+<p from="1880" to="1925">Anstalt: 1880-1925</p>
+<p from="1880" to="1925">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Fixe Ideen, Beeinträchtigungswahn (1881)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt1"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Die Schreiberin verweist auf ihren Aufenthalt in Irsse; Rest des Textes unverständlich.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2905m11.jpg" xml:id="image_032"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_032"/>
+<opener>
+<dateline><hi rendition="#r">Januar d. 31. <hi rendition="#u" style="arzt2">1898.<add hand="arzt2">!</add></hi></hi></dateline>
+<salute><hi rendition="#c">Lieber Herr Schwager!</hi></salute>
+</opener>
+<p><add hand="arzt1" place="top"><hi rendition="#i">ad </hi><surname>M.</surname>
+                    Helene<lb break="yes"/>8.II.95</add><lb break="yes"/>Helene <surname>M.</surname> zur Zeit in der <seg ana="#inst">Reformationsstub</seg><lb break="yes"/>bei Irrsee edlster <unclear/>r aldsch charackt<lb break="yes"/><surname>T.</surname> Schwagernnerv Verwaltung<lb break="yes"/>Gymnasiath Hanss Salvverwalterei Jrrsee.<lb break="yes"/>Eberspach Chemiev
+                Visitations Subjeckt<lb break="yes"/>thasStudium München Neuulm Mit<lb break="no"/>theilung geschichtliche Einkom̄ens Seckrätär<lb break="yes"/>Reinwalddeckanattrepppreciö Ober<lb break="no"/>konsistorium Mittheilung geneigter<lb break="yes"/>Reinwalds Stadtpfarrers Stetteer sche<lb break="yes"/>Evangelischer requisitten Neualins<lb break="yes"/>NubbezirksSecktiörs
+                Subjecktemerv<lb break="yes"/>Verschwöre Erhörs Stuttgarts <w>Stadts<lb break="yes"/>schultheißenamts-Salvverwaltung</w><lb break="yes"/>geschicht trepppreciös Subjeckttan̄er<lb break="yes"/>Reformationsschul Lutherthum Mitwirk.<lb break="yes"/>Kirchlich Chemiev
+                Visitationsstolppolizei<lb break="yes"/>Isnyer Registernnam
+                <surname>M.</surname>.</p>
+</body>
+</text>
+</TEI>

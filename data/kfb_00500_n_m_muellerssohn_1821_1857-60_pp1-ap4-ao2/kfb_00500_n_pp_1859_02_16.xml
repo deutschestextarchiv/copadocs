@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb500n07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Angela Hofmann</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>500</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>N.</surname></persName>
+<date type="sent">16.02.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Katharina <surname>N.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb500n">
+<persName>
+<forename>Franz</forename>
+<surname>N.</surname>
+</persName>
+<birth when="1821"/>
+<death cert="unknown"/>
+<occupation>Bauern- und Müllerssohn</occupation>
+<residence><geo decls="#WGS">48.3277485 11.9905263</geo>Hecken, Erding</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: wohlhabend</p>
+<p from="1857" to="1860">Anstalt: 1857-60</p>
+<p from="1857" to="1860">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Schwermut, [Suizidalität] (1857-1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will keine Briefe mehr von Schwester, geht ihm schlecht, Grüße ausrichten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb500n07a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb500n07b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Den 16 Februar 1859</hi></dateline>
+<salute><hi rendition="#c">Herzlich geliebte Schwester!</hi></salute>
+</opener>
+<p><space/> Deinen Brief habe ich den 10. Febr. erhalten. Daß<lb break="yes"/>Du mich liebst, weiß
+    ich so gut, als Du fühlst, daß ich Dich<lb break="yes"/>liebe, ohngeachtet ich dir
+                schreiben muß: Verschone mich mit<lb break="yes"/>Briefen! Denn da ich jetzt nicht
+                das Erwünschte benachrichtigen<lb break="yes"/>kann, ohne zu lügen - und gar nicht
+                schreiben, nicht paßt - so<lb break="yes"/>fällt mir es doppelt schwer. Hoffentlich
+                wird es sich bei<lb break="yes"/>mir wieder zum Besseren wenden und kann ich der
+                    Gegen<lb break="no"/>liebe mich würdig zeigen, so bringt es mich wohl von
+                selbst, diches<lb break="yes"/>wissen zu laßen, da ich keine an der Aufgabe jetzt
+                    ken̄e.<lb break="yes"/><seg ana="#salute">Liebe Schwester! Grüße mir Mutter und alle Geschwisterte<lb break="yes"/>recht schön, und lege Du alle jene guten Worte für mich
+                        ein,<lb break="yes"/>die du etwa in diesem Briefe vermißen solltest, um
+                        Zufrie<lb break="no"/>denheit zu erwecken.</seg>
+<seg ana="#signed">In herzlicher Liebe Dir zeitlebens<lb break="yes"/>zugethan
+                    verbleibe ich</seg></p>
+<p><hi rendition="#c"><seg ana="#signed">Dein</seg></hi></p>
+<p><hi rendition="#r"><seg ana="#signed">aufrichtiger Bruder</seg><lb break="yes"/><hi rendition="#r">Franz.</hi></hi></p>
+<pb facs="#image_002"/>
+<p><hi rendition="#c">An<lb break="yes"/>Katharina <surname>N.</surname><lb break="yes"/><surname>K.</surname>-Tochter</hi><lb break="yes"/><hi rendition="#r">in <hi rendition="#u">Hecken</hi><lb break="yes"/>Ldg. <hi rendition="#u">Erding</hi></hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

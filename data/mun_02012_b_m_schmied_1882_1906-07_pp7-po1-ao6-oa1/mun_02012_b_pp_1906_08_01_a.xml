@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun2012b04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>2012 (K. 10)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>B.</surname></persName>
+<date type="sent">01.08.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geliebte: Mina <surname>M.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun2012b">
+<persName>
+<forename>Franz</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1882-04-22"/>
+<death cert="unknown"/>
+<occupation>Schmied</occupation>
+<residence><geo decls="#WGS">51.8260823 8.1453352</geo>Geburtsort: Oelde; Wohnort: Oelde</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Schmiedemeister, Mutter: n.a.</p>
+<p from="1906-07-16" to="1907-02-10">Anstalt: 16.07.1906-10.02.1907</p>
+<p from="1906-07-16" to="1907-02-10">Brieftypen: pp, po, ao, oa</p>
+</state>
+<trait><p>Geisteskrankheit (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber teilt der Adressatin mit, dass er in Münster ist, um sein Meisterstück abzulegen.
+                    Er will zum Schützenfest zurücksein und sie dort zur Königin machen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun2012b04a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="mun2012b04b.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Münster</hi> den 1 <hi rendition="#i">August</hi> 1906</hi></dateline>
+<salute>Sehr geehrtes Fraulein <hi rendition="#i">Min</hi>a.</salute>
+</opener>
+<p><add hand="unbekannt">{2./<hi rendition="#sub">8</hi> 06<lb break="yes"/><space/> ad
+                    acta <surname><hi rendition="#i">B.</hi></surname><lb break="yes"/><hi rendition="#c">G </hi></add></p>
+<p>An Fraulein <hi rendition="#i">Min</hi>a <surname><hi rendition="#i">M.</hi>w<hi rendition="#i">ig</hi></surname>.<lb break="yes"/>g: <hi rendition="#i">Ad</hi>e<hi rendition="#i">sse</hi>
+<hi rendition="#i">H</hi>errn <hi rendition="#i">Jos</hi>
+<surname><hi rendition="#i">W.</hi>e<hi rendition="#i">g</hi>ard</surname><lb break="yes"/><hi rendition="#i">M</hi>aschienenhandlung <placeName><hi rendition="#i">Oel</hi>d<hi rendition="#i">e</hi></placeName>, <placeName type="street">Herrenstrasse</placeName></p>
+<p>Theile<lb break="yes"/>Sie vergebenst mit das ih schon drei Wochen<lb break="yes"/>in <hi rendition="#i">Münster</hi> bin, um mein Meister<lb break="no"/>stük
+                abzulegen. Bin aber in einigen<lb break="yes"/>Tagen damit fertig. und habe es in
+                guter<lb break="yes"/>Ausführung berufen, Und werde in dem<lb break="yes"/>nächsten Tagen ein <unclear>Eisam</unclear> machen<lb break="yes"/>ein Pferd ganz
+                kennen zu lernen<lb break="yes"/>was ich schon aus meine eigener erfahrung<lb break="yes"/>erlernt habe, Und als Tierartz mit<lb break="yes"/>in Beanspruch
+                nehmen kann. <w>Hoffent<lb break="yes"/>lich</w> zu Schützenfest komme, und mich<lb break="yes"/>dort bei Einschreiben lassen, Und werde <pb facs="#image_011"/>werde mich auch das Vergnügen erlauben<lb break="yes"/>den Raizvogel zu
+                erschreken. Und möchte<lb break="yes"/>Sie schon im voraus Mitteilen sich<lb break="yes"/>darauf Einzurichten, Sie als Königin<lb break="yes"/>vorzuwählen,
+                das gäbe einen prahtvollen<lb break="yes"/>Thron mit lauter junge Hofdamen,<lb break="yes"/>Fraulen <hi rendition="#i">Bendine </hi><surname><hi rendition="#i">B.</hi></surname> und <hi rendition="#i">Maria</hi><lb break="yes"/>Fraulein Joh <surname><hi rendition="#i">W.</hi>iegard</surname>, und
+                die beiden<lb break="yes"/>Töchter, Fraulein <surname>P.</surname>, die Herren
+                hier<lb break="yes"/>von <hi rendition="#i">Münster</hi>, Ich werde das Fest schon<lb break="yes"/>Entgegensehen, und mich deiner lieben<lb break="yes"/><hi rendition="#i">Min</hi>a anemfehlen, das war eine schönne<lb break="yes"/>Fahrt
+                und die andere wird noch schöner<lb break="yes"/>um erwarde dich deiner bis zum
+                Feste<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Es grüß d d lieb
+                        </seg><lb break="yes"/><seg ana="#signed">Franz <surname><hi rendition="#i">B.</hi></surname></seg></hi><lb break="yes"/><hi rendition="#r"><w><hi rendition="#u">Schmiede</hi>
+                        argitekt</w><lb break="yes"/><placeName><hi rendition="#i">Oeld<unclear>e</unclear></hi></placeName></hi>
+</p>
+</body>
+</text>
+</TEI>

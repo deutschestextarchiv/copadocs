@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb343r19" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>343</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>R.</surname></persName>
+<date type="sent">ca1860-71</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Therese</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb343r">
+<persName>
+<forename>Johanna</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1871"/>
+<occupation>Professorstochter</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Professor</p>
+<p from="1860" to="1871">Anstalt: 1860-71</p>
+<p from="1860" to="1871">Brieftypen: pp, po</p>
+</state>
+<trait><p>Fixer Wahnsinn (1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte beichten und besucht werden; bittet um Zeitungen, Kosmetikartikel, ein Predigtbuch etc.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb343r19a.jpg" xml:id="image_066"/>
+<graphic mimeType="image/jpg" url="kfb343r19b.jpg" xml:id="image_067"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_066"/>
+<opener>
+<dateline/>
+<salute>Liebe Therese!</salute>
+</opener>
+<p>Meinen Dank<lb break="yes"/>für <hi rendition="#u">Alles</hi>. Bete für <hi rendition="#u">alle</hi><lb break="yes"/>Lebenden und Verstorbenen.<lb break="yes"/>Bitte den Herrn Kaplan<lb break="yes"/><surname>P.</surname>, daß ich vor<lb break="yes"/>Ostern beichten darf. − −<lb break="yes"/>Bitte meine Nichte
+                Johan̄a<lb break="yes"/><surname>B.</surname> mich zu besuchen, und<lb break="yes"/>nim̄ Dich ihrer freundlich<lb break="yes"/>an, wen̄
+                sie eines Rathes<lb break="yes"/>oder einer Hülfe bedürfen<lb break="yes"/>sollte.
+                Ich habe viel zu<lb break="yes"/>beichten, wie einst in der<lb break="yes"/>Welt;
+                so habe ich auch in<lb break="yes"/>Irsee Alles in viel zu<lb break="yes"/>schwarzem Lichte erblickt.<lb break="yes"/>Ich bin nun in der untern<lb break="yes"/>Abtheilung lieber, als in<lb break="yes"/>der obern. Schicke mir
+                in<lb break="yes"/>kürzester Zeit: Ein Paar<lb break="yes"/>hübsche hoch
+                heraufgehende<lb break="yes"/>schwarze Filzschuhe, schöne<lb break="yes"/>Schneiderfleckchen, Blätter<lb break="yes"/>und Stengel zum Blumen <pb break="no" facs="#image_067"/>machen, für die Gräber<lb break="yes"/>meiner
+                Eltern, Haar<lb break="no"/>nadeln, Stecknadeln,<lb break="yes"/>eine
+                Wasserflasche,<lb break="yes"/>Haaröl, Zahnbürste,<lb break="yes"/>Zahnpulver, ein
+                    <hi rendition="#u">großes</hi><lb break="yes"/>Paquet Zeitungen,<lb break="yes"/>weiches Wachs zum<lb break="yes"/>Modelliren, das <w>Predigt<lb break="no"/>Buch</w> von Eggert, und<lb break="yes"/><hi rendition="#u">Honig</hi>. </p><p>Grüße und Küsse an<lb break="yes"/>alle die Deinem<lb break="yes"/>gib dem Zim̄erman̄<lb break="yes"/>einen Zwölfer.<lb break="yes"/><seg ana="#salute">Lebe wohl! Ich küße<lb break="yes"/>und grüße Dich<lb break="yes"/>zärtlich.</seg>
+                Antworte mir<lb break="yes"/><hi rendition="#u">bald</hi>.</p><p><seg ana="#signed"><hi rendition="#c">Deine</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Jeannette<lb break="yes"/><surname>R.</surname>.</hi></hi>
+</seg></p>
+</body>
+</text>
+</TEI>

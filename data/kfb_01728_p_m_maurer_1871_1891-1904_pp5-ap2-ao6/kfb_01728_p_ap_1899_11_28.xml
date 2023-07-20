@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1728p12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1728</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>P.</surname></persName>
+<date type="sent">28.11.1899</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sohn: Andreas <surname>P.</surname></persName>
+<settlement type="sent">Weichering</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1728p">
+<persName>
+<forename>Andreas</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1871"/>
+<death when="1904"/>
+<occupation>Maurer und Musiker</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Weichering, Neuburg, Wohnort: München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Wegmacher, Straßenwärter</p>
+<p from="1891" to="1904">Anstalt: 1891-1904</p>
+<p from="1891" to="1904">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Alkoholismus, Halluzinationen (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber wünscht seinem Sohn zum Namenstag Glück und dass sie wieder gesund zusammenleben. Er kann ihn wegen seines Alters nicht besuchen.
+                    Sie beten jeden Tag für den Adressaten und seinen verstorbenen Bruder.
+                    Er berichtet über den Aufenthaltsort der anderen Geschwister.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1728p12a.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="kfb1728p12b.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_028"/>
+<opener>
+<dateline><hi rendition="#r">Weichering Den 28 <hi rendition="#u">t</hi>
+<hi rendition="#i">November</hi><lb break="yes"/>1899</hi></dateline>
+<salute>Lieber Sohn Andereas</salute>
+</opener>
+<p><w>in Dem</w> dein<lb break="yes"/>Namenstag herannaht, und ich verpfichted
+                    bin<lb break="yes"/>meinen Kligwunsch Schr<add place="above">i</add>ftlich
+                    <w>an</w><w>dich</w> zu schreiben<lb break="yes"/>weil wier nicht Mündlich
+                miteinander Sprechen<lb break="yes"/>könen. Den als <add place="above">Vater</add>
+                mit 72 Jahren Diese Reiße<lb break="yes"/><w>nicht</w><w>mer</w> verrichten
+                kan̄, ich winsche dier Glüg<lb break="yes"/>an Dein Heiligen Namenstag
+                Solches Glüg das w<unclear>ie</unclear>r<lb break="yes"/><w>noch</w><w>einmal</w>, <del>das wier</del> miteinander
+                    Gesund<lb break="yes"/>und fridlich Leben könten, den es verged<lb break="yes"/>kein Tag wo wier <del>dich</del> nicht für Dich und<lb break="yes"/>und deinem
+                Bruder Vitus Betten. <w>in Dem</w><lb break="yes"/>ehr wohl schon Gestorben ist, der
+                    <w>Liebe</w><w>gott</w><lb break="yes"/>werde euch gnedig und
+                    <w>Barmherzig</w><w>sein</w>.</p>
+<p>Dein Bruder Georg ist nach Amerrika<lb break="yes"/>gereist Die andern Geschwistern
+                sind in<lb break="yes"/>München Dein Schwager <surname>T.</surname> Baud noch<lb break="yes"/>die Schänsten Hausstöck Die Sabina ist
+                        <w>bei</w><w>mir</w><lb break="yes"/><hi rendition="#c"><seg ana="#salute">Grus von uns Beide</seg></hi></p>
+<p><add hand="arzt" place="top">Andreas <surname><hi rendition="#i">P.</hi></surname>
+                    verweigert die Annahme<lb break="yes"/>und das Lesen des Briefes, lässt ihn sich
+                        auch<lb break="yes"/>nicht vorlesen! DS.</add></p>
+<pb facs="#image_029"/>
+<p><hi rendition="#c">herrn<lb break="yes"/><hi rendition="#i">Andreas
+                            <surname>P.</surname></hi> in de<unclear reason="damage">r</unclear><lb break="yes"/>Heil und Pflegeanstansta<unclear reason="damage">lt</unclear><lb break="yes"/><hi rendition="#i"><hi rendition="#u">Kaufbeuer</hi>n</hi>.</hi><lb break="yes"/><hi rendition="#u"><hi rendition="#i">frei</hi>.</hi></p>
+</body>
+</text>
+</TEI>

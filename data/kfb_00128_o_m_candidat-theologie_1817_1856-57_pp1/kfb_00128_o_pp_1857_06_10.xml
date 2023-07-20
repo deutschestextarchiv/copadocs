@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb128o01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>128</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Adolph <surname>O.</surname></persName>
+<date type="sent">10.06.1857</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb128o">
+<persName>
+<forename>Adolph</forename>
+<surname>O.</surname>
+</persName>
+<birth when="1817"/>
+<death cert="unknown"/>
+<occupation>Candidat der Theologie</occupation>
+<residence><geo decls="#WGS">49.432019 10.956027785813669</geo>Zirndorf, Nürnberg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Prot. Decan des 1. Pfarramts zu Zirndorf</p>
+<p from="1856" to="1857">Anstalt: 1856-1857</p>
+<p from="1856" to="1857">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Hypochondria melancholiia</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber sendet ein Dispensationsgesuch.
+                    Er erkundigt sich nach dem Mineralwassertrinken des Vaters und seiner Meinung zur Zusammensetzung der Generalsynode.
+                    Er berichtet von einer Wiederverheiratung eines geschiedenen Paares.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb128o01.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r">Irsee. 10 Juni. 57. </hi></dateline>
+<salute><space/> Liebster Vater! </salute>
+</opener>
+<p>
+<hi rendition="#i"><unclear>br</unclear></hi>. <hi rendition="#i">man</hi>. hier das
+                    Dispensa<lb break="no"/>tionsgesuch. <seg ana="#metaling">Ich habe eine Predigt
+                    in Arbeit u.<lb break="yes"/>kann mich darum auf kein weitläufigeres<lb break="yes"/>Brieflein einlassen;</seg> u. die Eingabe darf doch<lb break="yes"/>auch nicht länger verschoben werden. − Wie soll<lb break="yes"/>ich Dein Mineralwassertrinken verstehen?<lb break="yes"/>sagte mir
+                doch Vic. <surname><hi rendition="#i">S.</hi></surname>, Marienbad stünde<lb break="yes"/>schon an alle Thüren angeschrieben; es wird die<lb break="yes"/>Badreiß wohl nicht aufgegeben sein. Möge das<lb break="yes"/>Wasser aber Dir u.
+                Luisen aufs Beste be<lb break="no"/>kommen sein. </p>
+<p><space/> Hast du gelesen, daß Hofprediger <surname><hi rendition="#i">S.</hi></surname> in<lb break="yes"/><unclear>Got</unclear>ha ein Paar
+                aus Preußen getraut hat, des<lb break="no"/>sen beide Hälften geschiedene Eheleute
+                gewesen,<lb break="yes"/>denen im Vaterland die Wiederverehelichung<lb break="yes"/>oder eigentlich die kirchliche Einsegnung hiezu<lb break="yes"/>verweigert
+                worden? E<unclear>r</unclear>
+<add place="above">kan̄</add> in dieser Weise<lb break="yes"/>auf noch gar
+                manchen Zuspruch rechnen. −<lb break="yes"/>Für was für eine Art der
+                Zusam̄ensetzung unse<lb break="no"/>rer Generalsynode gibst Du dein Votum ab?<lb break="yes"/>Für Drittel Weltlicher oder die Hälfte? oder<lb break="yes"/>ganz freie Wahl ohne bestim̄tes Zahlenver<lb break="no"/>hältniß? Das
+                Letzte wäre das Richtige, wen̄ es<lb break="yes"/>nicht einen zu idealen
+                Standpunkt der Kirche<lb break="yes"/>voraussetzte. Wohin neigt sich Dein Kapitel?<lb break="yes"/><space/>
+<seg ana="#salute">Gott befohlen!<lb break="yes"/>Mit herzlicher Liebe </seg><lb break="yes"/><hi rendition="#r"><seg ana="#salute">Dein dankbarer Sohn</seg>
+<seg ana="#signed">Ad<unclear>olph</unclear></seg></hi></p>
+</body>
+</text>
+</TEI>

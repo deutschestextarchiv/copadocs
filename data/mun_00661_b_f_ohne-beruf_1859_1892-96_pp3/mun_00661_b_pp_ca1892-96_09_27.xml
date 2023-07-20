@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun661b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>661 (K. 420)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabeth <surname>B.</surname></persName>
+<date type="sent">27.09.ca.1892-96</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Lehrerin: n.a. <surname>S.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mun661b">
+<persName>
+<forename>Elisabeth</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1859-03-11"/>
+<death cert="unknown"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">51.6624739 8.617459219365298</geo>Geburtsort: Wewer; Wohnort: Salzkotten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Vater: Ackerwirt, Mutter: ohne Beruf</p>
+<p from="1892-08-18" to="1896-03-18">Anstalt: 18.08.1892-18.03.1896</p>
+<p from="1892-08-18" to="1896-03-18">Brieftypen: pp</p>
+</state>
+<trait><p>einfache Seelenstörung (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin bittet um einen Besuch,verschiedene Sachen und die Rückkehr in die Heimat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun661b02.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><add hand="vordruck">Provinzial-Anstalt<lb break="yes"/><space/>
+                        Marienthal zu Münster, den</add> 3 <add hand="vordruck"><hi rendition="#sup">ten</hi></add> März <add hand="vordruck">189</add></dateline>
+<salute><hi rendition="#r">Liebe Fräulein <surname>S.</surname>
+                        Lehrerin</hi></salute>
+</opener>
+<p><add hand="hand3">ad acta Frau <surname><hi rendition="#i">B.</hi></surname><lb break="yes"/><hi rendition="#c">G</hi></add></p>
+<p>Wen ich bitten Dürfte das Sie <del>mir</del><lb break="yes"/><del><unclear/></del> doch mal Herrüber kämen und Mir<lb break="yes"/>ein <unclear>Schwach</unclear>kustüm 1 Hut Taschentücher und<lb break="yes"/>ein paar Schuh mitbringen könnten,<lb break="yes"/><del>Ich werde
+                    nichts <unclear>d</unclear></del>
+</p><p>Das wir Doch wieder in Der Heimath<lb break="yes"/>zurückkeren. Ich werde hier Sonst nichts<lb break="yes"/>bestellen.<lb break="yes"/><seg ana="#salute">Es grüßt <hi rendition="#r">ihre
+                    liebende</hi><lb break="yes"/><seg ana="#signed">Frau <surname>B.</surname></seg>
+<del>G</del>geborene Ihr <unclear>Ed</unclear><unclear/></seg>
+</p>
+</body>
+</text>
+</TEI>

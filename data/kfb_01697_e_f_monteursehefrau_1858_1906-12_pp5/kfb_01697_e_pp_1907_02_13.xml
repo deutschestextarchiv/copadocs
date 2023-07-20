@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1697e05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1697</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>E.</surname></persName>
+<date type="sent">13.02.1907</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwandte: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1697e">
+<persName>
+<forename>Maria</forename>
+<surname>E.</surname>
+</persName>
+<birth when="1858"/>
+<death when="1912"/>
+<occupation>Monteursehefrau</occupation>
+<residence><geo decls="#WGS">47.457056800000004 10.271660845701515</geo>Fischen, Sonthofen, geb. Zülen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1906" to="1912">Anstalt: 1906-12</p>
+<p from="1906" to="1912">Brieftypen: pp, ao</p>
+</state>
+<trait>
+<p>[Epilepsie], [Halluzination], [Suizidalität] (1906)
+                        </p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Sie hat Geld von ihren Verwandten erhalten, weiß aber nicht, wie viel. Sie
+                    hat keine Hoffnung auf Besserung ihrer Krankheit und wartet eigentlich nur noch
+                    auf ihren Tod. Dennoch bittet sie um Post von ihren Verwandten. </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1697e05a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb1697e05b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren den 13.<hi rendition="#i">F</hi>.1907</hi></dateline>
+<salute><hi rendition="#c">Liebe Verwandten!</hi></salute>
+</opener>
+<p>Vorlänfig meinen besten Dank f. Geld<lb break="yes"/>und Guten Varen wenigstens
+                guten hapen<lb break="yes"/>mit Geschmack aber wiviel Geld hat den̄<lb break="yes"/>Onkel Geschickt den̄ davon hab ich noch nichts<lb break="yes"/>erfahren können u mein befinden ist <w>Bis</w><w>jetz</w><lb break="yes"/>immer gleich und auf Beßerung warte ich nicht<lb break="yes"/>jeh
+                eher jeh Lieber . Wen ich nur erst mein<lb break="yes"/>Ende seh dan Gott sei Dank.
+                das können auch<lb break="yes"/>Das Meine Verwandten sagen, aber nichts mehr<lb break="yes"/>Schicken den es hat kein zweck die Mühe<lb break="yes"/>Trotzdem
+                ich es alle Tage Essen möchte<lb break="yes"/><seg ana="#inst">den̄ Anstalt
+                    ist An.</seg> Nun darf ich hofentlich<lb break="yes"/>auch bald wieder um ein
+                paar Zeilen<lb break="yes"/>bitten. Liebe Verwandten wenn ich Todt<lb break="yes"/>u Begraben bin, dan ist es recht.<lb break="yes"/><seg ana="#salute"><space/> Nun
+                    Meine Lieben Verwandte<lb break="yes"/><space/> meinen Herzlichen Gruß an alle
+                    Mann. </seg><lb break="yes"/>Den eine Mutter die dazu tuhn könte hab<lb break="yes"/>ich nicht mehr u der Staat macht nach<lb break="yes"/>seinen
+                Wunsch. Nun wohle Feiertage<lb break="yes"/>Meine Liebe Verwandte. ebenso auch ein<lb break="yes"/>Man den̄ wo u wie keine Ahnung. </p>
+<pb facs="#image_010"/>
+<p>An Herrn L. <surname>W.</surname> in Hennigsdorf<lb break="yes"/><hi rendition="#r">a der Havel.</hi><lb break="yes"/><hi rendition="#c">im Gasthof<del>r</del></hi><lb break="yes"/><hi rendition="#c">bei Berlin.</hi><lb break="yes"/><add place="top">Abs. Frau Marie <surname>E.</surname><lb break="yes"/><space/> aus Kaufbeuren </add>
+</p>
+</body>
+</text>
+</TEI>

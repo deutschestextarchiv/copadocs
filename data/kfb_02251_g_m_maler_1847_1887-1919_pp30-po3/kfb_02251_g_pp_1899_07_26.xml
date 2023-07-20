@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g30" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">26.07.1899</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Babette <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Maler</p>
+<p from="1887" to="1919">Anstalt: 1887-1919</p>
+<p from="1887" to="1919">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    schreibt u.a. von christlichen Papieren; unverständlicher Inhalt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g30a.jpg" xml:id="image_103"/>
+<graphic mimeType="image/jpg" url="kfb2251g30b.jpg" xml:id="image_104"/>
+<graphic mimeType="image/jpg" url="kfb2251g30c.jpg" xml:id="image_105"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_103"/>
+<opener>
+<dateline><hi rendition="#c">Irrse 26 Juli 1899.</hi></dateline>
+<salute><hi rendition="#c">Liebe Schwester!</hi></salute>
+</opener>
+<p>Warum keine Antwort von<lb break="yes"/>3 Briefen, Geschenke in 7ten<lb break="yes"/>Jahre mich Mißhandeln<lb break="yes"/>es gibt keine Verwandten<lb break="yes"/>von beeinflußung,<lb break="yes"/>Gerber, Fretscher u junior<lb break="yes"/>nichts mir vorenthalt von<lb break="yes"/>Erben u Selig. Herrn
+                    <surname>G.</surname>
+<add place="below">u junior</add><lb break="yes"/>bei Gericht anzuzeigen.<lb break="yes"/>Ich Formire nicht mich zu<lb break="yes"/>enterben den Leiden zu<lb break="yes"/>vermachen. <del>d</del>
+<del>I</del> Die Andern<lb break="yes"/>alle bekomen. Herr Oberpfleger<lb break="yes"/>nicht Geschenke mir nicht<lb break="yes"/>einhändigen oder
+                    Oberver<pb break="no" facs="#image_104"/>walter abschlägig zu handeln<lb break="yes"/>Thue mich wan Du kanst<lb break="yes"/>mit Oberbriefträger<lb break="yes"/>ich rede mit Euch, vor<lb break="yes"/>mir nur abgemacht,<lb break="yes"/>500 Mk zweite Klaße<lb break="yes"/>vor Du mir verendtes<lb break="yes"/>um Haus gekomen.<lb break="yes"/>Der Glatharische Metz<lb break="no"/>ger Waare bedanke<lb break="yes"/>ich nicht wie Rottmeister. </p>
+<p>Halte jetzt 3 Grichtliche<lb break="yes"/>Papiere Urkunden<lb break="yes"/>Groa
+                nichts wiß<del>s</del>en<lb break="yes"/>mehr.</p>
+<p><hi rendition="#c"><seg ana="#salute">Es grüßt</seg><lb break="yes"/><seg ana="#signed">Jakob <surname>G.</surname><lb break="yes"/><hi rendition="#i">Maler</hi>.</seg></hi><pb facs="#image_105"/>Wohlgeborn<lb break="yes"/>Fräulein Babette <surname>G.</surname>.<lb break="yes"/><hi rendition="#r">Malerstochter<lb break="yes"/>Lindau, Bodensee</hi><lb break="yes"/>frei.</p>
+</body>
+</text>
+</TEI>

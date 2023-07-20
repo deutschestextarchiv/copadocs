@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2245r30" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2245</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>R.</surname></persName>
+<date type="sent">ca1899-1918</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Doktorenfrau: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2245r">
+<persName>
+<forename>Anna</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1882"/>
+<death when="1918"/>
+<occupation>Söldnerstochter</occupation>
+<residence><geo decls="#WGS">48.0734 10.3118194</geo>Frickenhausen, Memmingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Söldner</p>
+<p from="1899" to="1918">Anstalt: 1899-1918</p>
+<p from="1899" to="1918">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Melancholie (1904), Depression, [Suizidalität] (1914)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schenkt der Braut des Doktoren den Brief ihrer Schwester.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb2245r30.jpg" xml:id="image_101"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_101"/>
+<opener>
+<dateline/>
+<salute><space/>
+<hi rendition="#i">Frau</hi><lb break="yes"/><space/>
+<space/><hi rendition="#i"> Docktor</hi>,<lb break="yes"/><hi rendition="#i">wohlgeschmückte </hi><lb break="yes"/><hi rendition="#i">Braut und
+                        zukünftige</hi><lb break="yes"/><hi rendition="#i">Gemahlin des</hi> von <del><hi rendition="#i">von</hi></del><lb break="yes"/>mir <hi rendition="#i">Anna, vielmals</hi>
+<hi rendition="#i">ge</hi><lb break="no"/><hi rendition="#i">grüsten und
+                        geliebten</hi><lb break="yes"/><unclear>edl</unclear><unclear><hi rendition="#i">en</hi></unclear> from̄en <add place="above">braven</add><lb break="yes"/><hi rendition="#i">Herrn</hi><lb break="yes"/><space/> D<hi rendition="#i">ocktor</hi><lb break="yes"/><hi rendition="#i">Namens</hi>
+<unclear>−</unclear><lb break="yes"/><space/>
+<surname>K.</surname></salute>
+</opener>
+<p><hi rendition="#r"><hi rendition="#i">An<hi rendition="#u">na
+                            </hi></hi><surname><hi rendition="#i">R.</hi></surname><lb break="yes"/><add place="margin"><hi rendition="#c"><hi rendition="#i">Deine
+                                    </hi><w><hi rendition="#i">heiss geliebte</hi></w><lb break="yes"/></hi></add>Dir <hi rendition="#i">so</hi> lieb <hi rendition="#i">und teuerwerte</hi>
+<hi rendition="#i">Anna</hi><lb break="yes"/><surname><hi rendition="#i">R.</hi></surname><hi rendition="#i"> An̄a</hi><hi rendition="#i"> </hi><lb break="yes"/>für D<hi rendition="#i">ich</hi>
+<hi rendition="#i">e<unclear>b</unclear>enfalls</hi>
+<hi rendition="#i">wie ein Schutz und<lb break="yes"/></hi><hi rendition="#i">Frostengel</hi><hi rendition="#i"> oft </hi><hi rendition="#i">gewesen
+                        schon</hi>, <hi rendition="#i">möchte </hi><hi rendition="#u">Dir</hi> eine<lb break="yes"/><hi rendition="#i">oder ich weiss nicht, vieleicht grosse
+                        Freude</hi>, b<hi rendition="#i">e</hi><lb break="no"/><hi rendition="#i">reiten, indem sie dir ein klein,</hi><hi rendition="#i">wenig</hi>
+                        Birzel<unclear>t</unclear>lein, wie<lb break="yes"/>gutes, nettes
+                        Äpfelein<hi rendition="#i"> und</hi> 1 <hi rendition="#i">oder</hi> 2 Nussen
+                    zum Geschenk über<lb break="no"/>reicht, <hi rendition="#i">dazu noch dies
+                        </hi>schö<unclear>ne</unclear> Brieflein <hi rendition="#i">von meiner
+                        Schwester</hi><lb break="yes"/></hi><hi rendition="#c"><hi rendition="#i">gesch<hi rendition="#u">rieben überr</hi>eicht</hi>.</hi></p><p><add place="margin"><hi rendition="#i">K<hi rendition="#u">arl</hi></hi><hi rendition="#u">
+<unclear>W</unclear></hi><unclear>aß</unclear></add></p>
+</body>
+</text>
+</TEI>

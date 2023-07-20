@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb833d03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>833</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>D.</surname></persName>
+<date type="sent">08.10.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann: n.a. <surname>D.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb833d">
+<persName>
+<forename>Maria</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1840"/>
+<death cert="unknown"/>
+<occupation>Schneidermeistersfrau</occupation>
+<residence><geo decls="#WGS">47.9667051 11.2999886</geo>Pöcking (München)</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Dorfschmied</p>
+<p from="1886" to="1896">Anstalt: 1886-1896</p>
+<p from="1886" to="1896">Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Verirrtheit, Halluzinationen (1886)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will nach Hause, gesund, Kinder brauchen eine Mutter, will Besuch, Kinder sollen nicht ins Kloster, sondern Geschäft lernen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb833d03a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb833d03b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><add hand="arzt">ad <surname>D.</surname> <hi rendition="#r">Irsee 1890</hi></add><lb break="yes"/>Nürnberg ten 8 Oktbe</dateline>
+<salute><hi rendition="#c">Lieber Herr <surname>D.</surname></hi></salute>
+</opener>
+<p> Ich bitte Sie das sie mich wieder zu den<lb break="yes"/>Mein nach Hauße thun den Sie
+                    haben<lb break="yes"/>mih hirher gebracht auh; Mein Leidenter<lb break="yes"/>zustant ist genlich gehaben und hat<lb break="yes"/>Es nicht mehr nothwentig das
+                ich hir<lb break="yes"/>bin wen̄ du mih <del>t s</del> nicht Brauchen<lb break="yes"/><add>kanst</add> dan Brauchen die Künder Eune Mutter<lb break="yes"/>das weiß man
+                schon das Man nicht mehr<lb break="yes"/>Arbeiten kan̄n wie wen Man 20 Jahre<lb break="yes"/>ist und das wahr bey mir <unclear>Imer</unclear> das wird<lb break="yes"/>nicht anders ich Glaube das dir gut wen<lb break="yes"/>du
+                verthienst und ich komst allen Tage; schön<lb break="yes"/>wehr es wen Sie mich
+                Eumal besuchen<lb break="yes"/>wirden den ich weiß nicht für wen̄ ich<lb break="yes"/>Meine Künder Groß gezogen habe<pb facs="#image_010"/>Ich denke
+                nicht fürs Kloster Ande<del>g</del>s<lb break="yes"/>da kam man auh ein gescheft
+                    Lernen<lb break="yes"/>nicht wahr Hochwirther Herr Kurath<lb break="yes"/>das
+                komt alles von der <unclear>Lurtus Gebebuch</unclear><lb break="yes"/>nicht warhr
+                Herr Oberazt eins gecht in<lb break="yes"/>adere Wann muß sich Figen das weiß
+                    ich<lb break="yes"/>schon so aber ich Eben dir kochsten Erschbarn<lb break="yes"/>der Hochlöblichen Verwaltung Kaufbour<lb break="yes"/>vile Grüße
+                An alle Besonders An<lb break="yes"/>die Meinen die für mih schrite gethan<lb break="yes"/>daß Sie mih hieher gebracht haben<lb break="yes"/>da ist alles
+				    Verlohren nicht wahr Herr<lb break="yes"/>Hofrth von <surname>I.</surname> sind so Freundlich un<lb break="yes"/>schreiben Sie den Meinen das sie die<lb break="yes"/>Fin̄azen schiken wen sie Fillen die <unclear>Luise</unclear><lb break="yes"/>wird. Es schon thun Mann hat Sie nicht<lb break="yes"/>umstst Besuht der Heiratsman
+				    von<lb break="yes"/>Ulm <seg ana="#salute">Es Grüst mit Hochatung</seg></p>
+<p><seg ana="#salute"><hi rendition="#c">Ichre ergebene</hi></seg></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1728p06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1728</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>P.</surname></persName>
+<date type="sent">20.03.1891</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Weichering</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1728p">
+<persName>
+<forename>Andreas</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1871"/>
+<death when="1904"/>
+<occupation>Maurer und Musiker</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Weichering, Neuburg, Wohnort: München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Wegmacher, Straßenwärter</p>
+<p from="1891" to="1904">Anstalt: 1891-1904</p>
+<p from="1891" to="1904">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Alkoholismus, Halluzinationen (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet um einen Bericht über das Benehmen seiner Söhne.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1728p06.jpg" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_020"/>
+<opener>
+<dateline>Weichering Den 20 <hi rendition="#u">t</hi> Merz 1891</dateline>
+<salute>Geehrtesder Herr kgl: Terekter</salute>
+</opener>
+<p> ich Bitte Ihnen sie mächten<lb break="yes"/>mich sobalt wie möglich in<lb break="yes"/>Kötnnis sezen wie meine<lb break="yes"/>zwei Söhne ihr Benemen
+                    ist<lb break="yes"/>den das Fält mir zu schwär.</p>
+<p><seg ana="#salute">Achtungsvol</seg>
+<seg ana="#signed"><surname>P.</surname> Joseph</seg><lb break="yes"/>kgl:
+                Strassenwärter</p>
+<p><add hand="arzt"><hi rendition="#u">23 III</hi>: Andreas halluc. fortwährend.
+                        körperl.<lb break="yes"/>wohl.<lb break="yes"/>d. Vitus unverändert -
+                    Körperl. wohl.<lb break="yes"/><hi rendition="#c">DU.</hi></add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb48l08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>48</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: G. von <surname>L.</surname></persName>
+<date type="sent">xx.xx.1852</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb48l">
+<persName>
+<forename>Maxim von</forename><surname>L.</surname>
+</persName>
+<birth when="1817"/>
+<death cert="unknown"/>
+<occupation>Graf von München</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1852" to="1852">Anstalt: 1852</p>
+<p from="1852" to="1852">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="vater"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beschreibt in diesem Brief die Ausprägung der "Geisteskrankheit" des Patienten, die 
+                    sich in einem Zeitraum von 4 Tagen zu äußern schien. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb48l08.jpg" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_020"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Ueber alles <add place="above">kurz</add>
+<hi rendition="#u">vor</hi> und <hi rendition="#u">an</hi> dem 8<hi rendition="#sup"><hi rendition="#u">t</hi></hi>
+<hi rendition="#i">Febr</hi>. − bis zur<lb break="yes"/>Abreise <hi rendition="#u">vom</hi> 12<hi rendition="#sup">t</hi> Mitt. 12 Uhr −
+                vorgefallene<lb break="yes"/>werde ich Jhnen − wenn Sie es wünschen,<lb break="yes"/>eine eigne ausführliche Beschreibung über<lb break="no"/>senden; in
+                    <hi rendition="#u">diesen</hi> Zeitraum fällt<del>e</del> − die
+                    <w>Gefähr<lb break="no"/>lichkeit</w> seiner Handlungen und <unclear><hi rendition="#i">Exceße</hi></unclear> in<lb break="yes"/>Ausführung seiner
+                    <seg ana="#med">Wahnideen</seg>, in dem schädlichen<lb break="yes"/>Trinken,
+                Irrthümer in Zeit u Raum, − Befriedi<lb break="no"/>gung das schon seit
+                mehreren Wochen besonders<lb break="yes"/>aufgeregten Geschlechtstriebes
+                &amp;c.&amp;c.&amp;c</p><p>während er von <w>allen dem</w> sich nichts mehr zu erin<lb break="no"/>nern scheint, dabei aber
+                in seinem Briefe, − andere<lb break="yes"/><hi rendition="#i">Detail</hi>s
+                dieser 4 Tage, im Jnterreße seiner Behauptung<lb break="yes"/>recht genau
+                hervorzuheben weiß. </p><p>Bin ich in dieser Beziehung in meinem Briefe −<lb break="yes"/><hi rendition="#i">i. e.</hi> mit
+                der Ueberweisung − <hi rendition="#u">daß er sich irre</hi> −<lb break="yes"/>zu weit zurückgeblieben, − so werden <hi rendition="#u">diese</hi><lb break="yes"/>Thatsachen − Material zu weitern Vorhalten genug<lb break="yes"/>liefern; − aber dann bitte ich Sie wieder, − mich<lb break="yes"/>genau zu instruiren, wie weit ich gehen soll. </p><p>Mir scheint es ist M<hi rendition="#i">ax</hi>
+<hi rendition="#u">mehr</hi> um seine Freiheit<lb break="yes"/>zu thun, weil er
+                sie unverschuldet und unge<unclear>sa</unclear>glich<lb break="yes"/>verloren zu
+                haben glaubt − als um die Abkürzung<lb break="yes"/>seines Aufenthaltes bei
+                Jhnen − wegen Entbehrungen,<lb break="yes"/>er hat sich erst noch im vorigen
+                Herbst − auf dem Lande<lb break="yes"/>und auf der Reise, an das einfache
+                Leben wohl<lb break="yes"/>gut gewöhn̄t, weil er sich dabei wohl u behaglich<lb break="yes"/>gefühlt hat. </p><p><seg ana="#salute"><hi rendition="#r">Mit der Bitte um Nachsicht − verehrungsvollst </hi><lb break="yes"/><hi rendition="#c">Euer Wohlgeborn </hi><lb break="yes"/><hi rendition="#r">ganz ergebenste<unclear>r</unclear>
+</hi></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r">G
+                                <surname><hi rendition="#i">L.</hi></surname></hi></seg></p>
+</body>
+</text>
+</TEI>

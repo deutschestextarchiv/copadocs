@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb607h03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>607</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Cousine: Lina <surname>R.</surname></persName>
+<date type="sent">27.08.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Lindau</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb607h">
+<persName>
+<forename>Sara</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1875"/>
+<occupation>Hafnermeisterstochter</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Hafnermeister</p>
+<p from="1875" to="1875">Anstalt: 1875</p>
+<p from="1875" to="1875">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>"Religiöser Wahnsinn, Fixe Ideen" (1875)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="cousine"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Berichtet, dass die Mutter der Patientin sich Sorgen um den Zustand ihrer Tochter mache und 
+                    bittet den Direktor, dieser dazu Auskunft zu erteilen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb607h03a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb607h03b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Lindau</hi> d. 27<hi rendition="#sup"><hi rendition="#u">sten</hi></hi>
+<hi rendition="#i">August</hi><lb break="yes"/>1875.</hi></dateline>
+<salute><hi rendition="#c">Euer Wohlgeborn Herrn Direcktor. </hi></salute>
+</opener>
+<p><add hand="arzt"><add place="top"><unclear/>
+<unclear>29/8</unclear></add></add></p>
+<p>Meine Tante, Fr. Wttl. <surname><hi rendition="#i">H.</hi></surname> von <hi rendition="#i">Lindau </hi><lb break="yes"/>ist gestern Abend sehr ermüdet u.
+                aufgeregt<lb break="yes"/>von <hi rendition="#i">Irrsee</hi> zurückgekehrt und muß
+                darum<lb break="yes"/>heute das Bett hüten. Sie ist sehr bekümmert<lb break="yes"/>um ihre liebe, kranke Tochter; nun habe ich<lb break="yes"/>ihr, zu ihrer
+                Beruhigung, versprochen an<lb break="yes"/>Herrn Direcktor zu schreiben u. Sie zu
+                bitten<lb break="yes"/>meiner armen, vielgeprüften Tante zu tele<lb break="no"/>graphieren im Fall Sara si<del><unclear/></del>htlich ihrer Auf<lb break="no"/>lösung entgegen gienge u. der Besuch ihrer<lb break="yes"/>Mutter ihr noch Trost
+                u Erquikung bringen<lb break="yes"/>könnte. Sollte aber eine wohlthätige Krisis<lb break="yes"/>bei der Kranken eintretten und Hoffnung bringen<lb break="yes"/>zur Besserung, so möchte Fr. Herrle Herr<del>r</del>n <pb facs="#image_006"/>Direcktor bitten ihr <w>als dann</w> den Tag zu<lb break="yes"/>bestimmen, an welchem
+                    <del>S</del>sie ihre Tochter abhoh<lb break="no"/>len dürfte.</p><p><seg ana="#salute">Genehmigen Sie die Versicherung meiner<lb break="yes"/>Hochachtung.</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Wttl
+                        <surname>R.</surname></seg>.</hi></p>
+</body>
+</text>
+</TEI>

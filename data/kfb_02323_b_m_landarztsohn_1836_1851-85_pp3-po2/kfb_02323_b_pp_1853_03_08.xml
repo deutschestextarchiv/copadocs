@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2323b04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2323</idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<p>
+                                Rand
+                            </p>
+</objectDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Friedrich <surname>B.</surname></persName>
+<date type="sent">8.3.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Onkel: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2323b">
+<persName>
+<forename>Friedrich</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1836"/>
+<death when="1885"/>
+<occupation>Landarztsohn</occupation>
+<residence><geo decls="#WGS">47.9867696 10.181319</geo>Memmingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landarzt</p>
+<p from="1851" to="1885">Anstalt: 1851-85</p>
+<p from="1851" to="1885">Brieftypen: po,pp</p>
+</state>
+<trait><p>Schwermut, Aufregungszustände (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    berichtet von seinem Geburtstagsfest, bricht ab
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2323b04a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb2323b04b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> den 8. <hi rendition="#i">Maerz</hi></hi></dateline>
+<salute><hi rendition="#c">Theuerster Herr Onkel!<lb break="yes"/>Werthgeschätzteste Frau Tante!</hi></salute>
+</opener>
+<p>
+<space/> Hiemit will ich Ihnen eine kleine Schilderung ma<unclear reason="damage">chen</unclear><lb break="yes"/>wie wo u. wann ich meinen Geburtstag gefeiert
+                    und<lb break="yes"/>meinen Namenstag gehalten habe; Sie sind gewiß
+                    begie<unclear reason="damage">rig</unclear><lb break="yes"/>dieses aus meinem
+                eigenen Munde zu hören. Nun also beid<unclear reason="damage">es</unclear><lb break="yes"/>geschah folgender Maßen. Don̄erstag den 3. dieses also
+                    anna<unclear reason="damage">?</unclear><lb break="yes"/>nem
+                se<del>e</del>gens- u. folgereichen siebzehenten Geburtsfeste, das ich die<lb break="yes"/>Namensfeste in Bezug auf die Bedeutung im̄er vorziehe,
+                    vorgezog<unclear reason="damage">en</unclear><lb break="yes"/>habe u. vorziehen
+                werde, erwachte ich gesund, frisch, from̄, fröhlich<lb break="yes"/>und auch
+                im Geiste frei. Frisch, fromm, fröhlich, frei ist und<lb break="yes"/>bleibt, wie
+                ihr von früheren Zeiten her, besonders hat es das die<lb break="yes"/>würdige und
+                unvergeßliche Freiheitserrungenschaften, wovon<lb break="yes"/>meine Krankheit, <hi rendition="#u">so zu sagen, (<unclear>ucht</unclear> Jorgisch)</hi> herrührt
+                u. <unclear reason="damage">Realit?</unclear><lb break="yes"/>jahr <add place="above">1848</add> u. von diesem wieder hauptsächlich der merkwürdige
+                    Mona<unclear reason="damage">t</unclear><lb break="yes"/><hi rendition="#i">Maerz</hi> u. es war gerade heute vor fünf Jahren als das große<lb break="yes"/>Schießen, der große Fackelzug u. die brillante Beleuchtung in <hi rendition="#i">Memmi</hi><unclear reason="damage">ngen</unclear><lb break="yes"/>war, welche man die erfreulichen Nachricht infolge in <unclear reason="damage">?</unclear><pb facs="#image_008"/> bayerische Volk von ihm verlangte habe
+                Koenig Ludwig I<lb break="yes"/>von <hi rendition="#i">Bayern</hi> eingewilligt. Ja,
+                ich kan̄ mir diesen gewiß<lb break="yes"/><del>die</del><add place="above"><del>von</del> jedem</add> an diesem Tage in <hi rendition="#i">Memmingen</hi>
+<del>zei war</del>
+<add place="above">Anwesenden</add> zeitlebens<lb break="yes"/>in dem Gedächtniß
+                bleibenden Tage noch recht lebhaft einbilden</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3349f02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3349</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>F.</surname></persName>
+<date type="sent">30.11.1924</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Pfarrer: n.a.</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3349f">
+<persName>
+<forename>Jakob</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888"/>
+<death cert="unknown"/>
+<occupation>Landwirt, Dienstknecht</occupation>
+<residence><geo decls="#WGS">48.2473553 10.4500832</geo>Premach, Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landwirt</p>
+<p from="1907" to="1935">Anstalt: 1907-35</p>
+<p from="1907" to="1935">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>maniakalischer Erregungszustand (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   ihm geht es gut; denkt darüber nach, dass mit einer Anstellung beim Prälaten übleres verhindert hätte werden können;
+                   würde sich über einen Besuch freuen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3349f02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb3349f02b.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb3349f02c.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren</hi>, den 30. XI. 1924.</hi></dateline>
+<salute><hi rendition="#c">Wertgeschätzter herr Pfarrer!</hi></salute>
+</opener>
+<p>
+<space/> Auf Ihr wertes Schreiben vom<lb break="yes"/>23.XI. kan̄ ich Ihnen erwiedern: "daß mein<lb break="yes"/>körperliches u. geistiges Wohlbefinden, nichts<lb break="yes"/>zu wünschen übrig ließe, wäre selbes nicht<lb break="yes"/>durch ein gezwungenes Schmarotzerdasein<lb break="yes"/>getrübt." Der Grund, nach Ursberg zu kom̄en,<lb break="yes"/>wäre darin gelegen gewesen, um meinem<lb break="yes"/>Leben einen Inhalt zu geben, um nicht von,<lb break="yes"/>sondern für die Menschen zu leben u. wie<lb break="yes"/>wäre es mir besser möglich gewesen, als<lb break="yes"/>in meiner Anstrebung. Wen̄ nun Hochw.
+
+<pb facs="#image_006"/>
+Herr Prälat, sich für meine Sache sehr<lb break="yes"/>zu interessieren vorgibt, kan̄ ich begreifen?<lb break="yes"/>Hat er mich, als ich im vergangenen Mai,<lb break="yes"/>da ich arbeits.u. mittellos war, bei ihm<lb break="yes"/>Verdienst suchte, glatt abgewiesen. Viel<lb break="no"/>leicht wäre damals noch ein Übel ver<lb break="no"/>hindert worden. Über hohe idealische Be<lb break="no"/>strebungen noch nachzudenken, finde ich<lb break="yes"/>trotz meiner geistigen Umnachtung, für<lb break="yes"/>Blödsin̄, den̄ menschlicher Berechnung u.<lb break="yes"/>Voraussicht, müßten sich doch alle im<lb break="yes"/>Irrenhaus gipfeln.<lb break="yes"/><space/> Indem Sie durch meine Veranlassung<lb break="yes"/>belästigt worden sind, möchte ich nun<lb break="yes"/>meiner Handlungsweise wegen, Sie<lb break="yes"/>um Verzeihung bitten u. für Ihre Be<lb break="no"/>mühungen, Ihnen meinen tiefgefühlten
+
+<pb facs="#image_007"/>
+Dank aussprechen. Für die beigelegte<lb break="yes"/>Mark ein herzliches "Vergelts Gott".<lb break="yes"/>Sollte nun ein Zusam̄entreffen, ohne<lb break="yes"/>Ihnen Unkosten zu bereiten, stattfinden<lb break="yes"/>kön̄en welches mich dan̄ sehr erfreuen<lb break="yes"/>würde, wäre ich Ihnen sehr dankbar.<lb break="yes"/><space/> Zum Schluße wünsche ich Ihnen<lb break="yes"/>Glück u. Gesundheit <seg ana="#salut2">u. verbleibe<lb break="yes"/>unter den herzlichsten Grüssen</seg></p>
+<p><hi rendition="#c"><seg ana="#signed">Ihr</seg><lb break="yes"/><hi rendition="#r">dankbar ergebenster<lb break="yes"/><hi rendition="#i"><surname>F.</surname> Jakob.</hi></hi></hi>
+</p>
+</body>
+</text>
+</TEI>

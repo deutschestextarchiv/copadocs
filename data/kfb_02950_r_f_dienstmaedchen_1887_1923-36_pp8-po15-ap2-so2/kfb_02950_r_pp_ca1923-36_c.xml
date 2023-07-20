@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2950r07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2950</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Magdalena <surname>R.</surname></persName>
+<date type="sent">ca1923-36</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Marie u. Senzi <surname>L.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2950r">
+<persName>
+<forename>Magdalena</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1887"/>
+<death cert="unknown"/>
+<occupation>Dienstmädchen</occupation>
+<residence><geo decls="#WGS">47.6988348 10.321779800598831</geo>Kottern/Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Schuhmacher</p>
+<p from="1923" to="1936">Anstalt: 1923-36</p>
+<p from="1923" to="1936">Brieftypen: pp,po,ap</p>
+</state>
+<trait><p>[Suizidalität], Verfolgungswahn (1923), Versündigungsideen, Sinnestäuschungen, Willensstörungen (1828-36)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich für Namenstagswünsche; erzählt, Patente erfunden zu haben
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2950r07a.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="kfb2950r07b.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Frau Marie</hi>
+<surname>L.</surname> u. Senzi
+				        <surname>H.</surname></hi></salute>
+</opener>
+<p>Viel Glückwünsche zum hlg Namensfeste nachträglich; das sind oft<lb break="yes"/>die
+                willkom̄ensten Gäste. Auch Vegelts Gott für die <hi rendition="#i">Mk</hi> wo
+                du<lb break="yes"/>mir geschickt hast als auch an Weihnachten miteinander die
+                    Päck<lb break="no"/>chen. Werde mich dan̄ auch zeigen; wen̄ ich zu
+                Hause bin.<lb break="yes"/>Hab ein neues Patent erfunden; will sehen was ich
+                dan̄ für<lb break="yes"/>die Prämie bezahlt bekom̄; zugleich ein
+                Mittel z. Zähnereinigen.<lb break="yes"/>Weißst i bin gscheit aber wie lang seit
+                der lange Gedanke<lb break="no"/>gang aus dem Kopf ist; no muß i weit springa!
+                heißsts<lb break="yes"/>Obacht? Springleni ist auf dem Weg; wo bereits??<lb break="yes"/>daß so passiert. I muß der Schwester Zilli an Frosch na<lb break="no"/>binda ans Rad? damit Straße no besser ausnand<lb break="yes"/><hi rendition="#r">gent zum Falle.</hi><lb break="yes"/>O weh! Die heilge vierzehn Nothelfer hants streng<lb break="yes"/>u sind fest in Anspuch gnaue; es täts hälfte davon</p>
+<p><hi rendition="#r"><seg ana="#salute">Grüße v.</seg>
+<seg ana="#signed">Leni <surname>R.</surname></seg><lb break="yes"/>in̄erliche Dienst.</hi></p>
+</body>
+</text>
+</TEI>

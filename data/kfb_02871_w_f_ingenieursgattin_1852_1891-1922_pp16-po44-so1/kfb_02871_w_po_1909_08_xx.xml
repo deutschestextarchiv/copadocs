@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2871w26" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Angela Hofmann</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2871</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mathilda Franziska <surname>W.</surname></persName>
+<date type="sent">xx.08.1909</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Augsburger Zeitung:  <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2871w">
+<persName>
+<forename>Mathilda Franziska</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1852"/>
+<death when="1922"/>
+<occupation>Ingenieursgattin</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, Wohnort Darmstadt</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Bortenmacher</p>
+<p from="1891" to="1922">Anstalt: 1891-1922</p>
+<p from="1891" to="1922">Brieftypen: pp, po</p>
+</state>
+<trait><p>schwachsinnige Verfolgungs- und Beziehungswahnideen (1914)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Antwort auf Stellenanzeige in der Zeitung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2871w26a.jpg" xml:id="image_088"/>
+<graphic mimeType="image/jpg" url="kfb2871w26b.jpg" xml:id="image_089"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_088"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p> Bezugnehmend auf Ihre<lb break="yes"/>Anose vom 22. August 1909.<lb break="yes"/>gestatte
+                ich mir mich zu<lb break="yes"/>Empfehlen für den Fall<lb break="yes"/>Sie gütigst
+                    Berücksichtigen<lb break="yes"/>möchten daß ich mich im<lb break="yes"/>57.
+                Lebensjahre - sowie<lb break="yes"/>zur Zeit in der Kgl Heil<lb break="yes"/>und
+                    <w>Pflege anstalt</w><lb break="yes"/>Kaufbeuren
+                    Befinde<lb break="yes"/>wo selbst näheres zu<lb break="yes"/>Erfragen wäre
+                    um<lb break="yes"/>was ich freundlich Ersuche<lb break="yes"/><seg ana="#signed"><hi rendition="#c">Fr. <surname>W.</surname> E. 3. </hi></seg></p><pb facs="#image_089"/><p>
+<add place="top">Neue Augsburger<lb break="yes"/>Zeitung</add>.<lb break="yes"/>Verlässige Köchin,<lb break="yes"/><lb break="yes"/>die schon in Herrschaftshäusern<lb break="yes"/>gedient und
+                leichte Hausarbeit<lb break="yes"/>verrichtet (Wasch u Putzfrau<lb break="yes"/>vorhanden). zum 1. September<lb break="yes"/>zu Offiz.-Familie nach Augs<lb break="no"/>burg gesucht. Hoher Lohn<lb break="yes"/>und gute Behandlung.<lb break="yes"/>Gefl. Offerte mit <w>Zeugniß<lb break="no"/>abschriften</w> und
+                    Lohnan<lb break="no"/>sprüchen unter L. P. postlagern<lb break="yes"/>Utting,
+                Ammersee, erbeten.<lb break="yes"/><hi rendition="#c">30171.</hi> </p>
+</body>
+</text>
+</TEI>

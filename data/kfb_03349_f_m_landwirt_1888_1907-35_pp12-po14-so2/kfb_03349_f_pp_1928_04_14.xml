@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3349f14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3349</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>F.</surname></persName>
+<date type="sent">14.04.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Familie: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3349f">
+<persName>
+<forename>Jakob</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888"/>
+<death when="1935"/>
+<occupation>Landwirt, Dienstknecht</occupation>
+<residence><geo decls="#WGS">48.2473553 10.4500832</geo>Premach, Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landwirt</p>
+<p from="1907" to="1935">Anstalt: 1907-35</p>
+<p from="1907" to="1935">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>maniakalischer Erregungszustand (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er möchte sich wieder bei seiner Familie melden und bittet darum, dass der Brief auch übermittelt wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3349f14a.jpg" xml:id="image_043"/>
+<graphic mimeType="image/jpg" url="kfb3349f14b.jpg" xml:id="image_044"/>
+<graphic mimeType="image/jpg" url="kfb3349f14c.jpg" xml:id="image_045"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_043"/>
+<opener>
+<dateline><hi rendition="#r">Kaufb<hi rendition="#i">euren</hi>, den 14.IV.1928.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Meine Lieben!</hi></hi></salute>
+</opener>
+<p><hi rendition="#r">Möchte Euch doch auch</hi><lb break="yes"/>mal einige Zeilen zukom̄en<lb break="yes"/>lassen, Fühle
+                mich gesund<lb break="yes"/>u gedenke nach <hi rendition="#i">Ursberg<lb break="yes"/>zu</hi> kom̄en. Herzliche<lb break="yes"/>Grüße an
+                Bandl,<lb break="yes"/>Ein<hi rendition="#i">e Muttem </hi>u <unclear>halto<hi rendition="#i">dden</hi></unclear>
+<pb facs="#image_044"/><hi rendition="#i">Pa</hi>pa &amp; Aufenthalt<lb break="yes"/>u Moharrt ist mir<lb break="yes"/>nicht bekan̄t?<lb break="yes"/>Wer
+                dieses Schreiben<lb break="yes"/>erhält möchte es also<lb break="yes"/>Bitte
+                zustelllen<lb break="yes"/><hi rendition="#r">danbarer Schwager<lb break="yes"/>1234 Atchme auch da.</hi><lb break="yes"/>Mit Gruß <seg ana="#pic"/></p>
+<pb facs="#image_045"/>
+<p><hi rendition="#i">Ad</hi>:<lb break="yes"/><hi rendition="#i"><surname>F.</surname> Jakob</hi><lb break="yes"/>Heilanstalt<lb break="yes"/><hi rendition="#r">in <hi rendition="#i">Kaufbeurn</hi></hi><lb break="yes"/><seg ana="#pic"/>
+</p>
+</body>
+</text>
+</TEI>

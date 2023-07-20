@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l41" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Polizeiaktuar <surname>P.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/><!--anpassen!-->
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Polizei soll Dr. Müller zu Gericht rufen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l41a.jpg" xml:id="image_096"/>
+<graphic mimeType="image/jpg" url="kfb519l41b.jpg" xml:id="image_097"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_096"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#c">Unterzeichnete ist zu folgender Äußerung veranlaßt:</hi><lb break="yes"/>Fll. Hr <hi rendition="#i">Dr. Müller</hi> prakt Arzt - /: nechst
+                dem Vogelthor :/<lb break="yes"/>hat mich <hi rendition="#i">total</hi> zu Grunde
+                gerichtet u. sagt nun: er <del>sey</del><lb break="yes"/>schulde Nichts u thue Nichts dagegen. −<lb break="yes"/>Ich
+                habe bisher nur wenigst ein gutes Wort <del>verlangt</del><lb break="yes"/>u jene Pflicht zu erfüllen verlangt, die man als<lb break="yes"/>Mensch und Arzt Jederman schuldet. −<lb break="yes"/>Nach jahrelanger deßen
+                Verweigerung muß ich nun<lb break="yes"/>andere Forderung machen - den̄ ich
+                laß mich nicht<lb break="yes"/>wie eine Hund von so abscheuwürdigen Geldstolzen<lb break="yes"/>mißhandeln u. mit Füßen tretten. − </p>
+<p>
+<hi rendition="#r"><hi rendition="#i">W v L</hi> G. 338</hi></p><p>Meine Verhältniße u meine Kränklichkeit erlauben<lb break="yes"/>doch nicht selbst bei Gericht
+                zu erscheinen.<lb break="yes"/>bitte daher diese beiliegenden Zeilen gefälligst<lb break="yes"/>zu übergeben u <hi rendition="#i">H. Dr. Müller</hi> zu rufen.
+                − </p>
+<pb facs="#image_097"/>
+<p>
+<hi rendition="#r"><hi rendition="#i">Herr PolizeiActuar <surname>P.</surname></hi><lb break="yes"/>Wohlgeborn<lb break="yes"/>dahier</hi></p>
+</body>
+</text>
+</TEI>

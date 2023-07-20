@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2087f01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2087</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>F.</surname></persName>
+<date type="sent">17.05.1923</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat: n.a. <surname>P.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2087f">
+<persName>
+<forename>Ludwig</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1935"/>
+<occupation>Gastwirt, Landwirt</occupation>
+<residence><geo decls="#WGS">47.6283377 9.9102676</geo>Heimenkirch, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Gastwirt</p>
+<p from="1900" to="1935">Anstalt: 1900-1935</p>
+<p from="1900" to="1935">Brieftypen: pp, po</p>
+</state>
+<trait><p>Manie (1930), Ideenflucht, Größenwahn (1900-35), Halluzination (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet um ein Gespräch und ein Telefonat mit seiner Frau, da er schon lange keine Nachricht mehr von seiner Familie erhalten hat, obwohl sein Sohn
+                    schwer erkrankt war.
+                    Auf den Wunsch seiner Frau hin, will er für kurze Zeit nach Hause, um für die Familie ein Pferd zu kaufen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2087f01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2087f01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">63. Kaufbeuen 17. 5. 1923.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Sehr geehrter Herr<lb break="yes"/>Obermedizinalrat!</hi></hi></salute>
+</opener>
+<p>
+<hi rendition="#c">Herrn <hi rendition="#i"><surname>P.</surname>
+                        Direcktor</hi><lb break="yes"/>der <hi rendition="#i">Heil</hi> Anstalten
+                        in<lb break="yes"/><hi rendition="#i">Kaufbeuern Irrsee.</hi><lb break="yes"/></hi>In dringenden familarn<lb break="yes"/><hi rendition="#i">Geschäften</hi> bitte ich mir<lb break="yes"/>heute eine
+                Aussprache zu<lb break="yes"/>gewähren. Wollen <hi rendition="#i">Sie die<lb break="yes"/>Güte</hi> haben u. meine <hi rendition="#i">Frau</hi>,<lb break="yes"/>telephonisch, sprechen. Seit<lb break="yes"/>20 <hi rendition="#i">April</hi>, ds J. bin ich ohne<lb break="yes"/>Nachricht, von Zuhause,
+                    trotz<lb break="no"/>dem damals mein <hi rendition="#i">Sohn,<lb break="yes"/>Josef</hi>, <seg ana="#med">Kopfgrippe</seg>, welche<lb break="yes"/>oft schlim̄e Folgen
+                    hat.<pb facs="#image_002"/>
+<hi rendition="#i">Sie</hi> müssen <hi rendition="#i">Daheim</hi><lb break="yes"/>ein
+                Pferd haben was<lb break="yes"/>nicht eine einfache <hi rendition="#i">Sache</hi><lb break="yes"/>ist, wobei ich auch ein<lb break="yes"/>Wort mitzureden habe.
+                    Bei<lb break="yes"/>Ihrem Besuche, hat sich meine<lb break="yes"/>Frau dahin
+                    geauß<add>er</add>t, wen̄<lb break="yes"/>du nur einge Tage Urlaub<lb break="yes"/>bekom̄etst, diese <w>Angeleg<lb break="no"/>enheit</w>, zu regeln
+                Der <hi rendition="#i">Josef</hi><lb break="yes"/>ist mir zu diesem Handel<lb break="yes"/>zu wenig <hi rendition="#i">Mann</hi>. Es handelt<lb break="yes"/>sich um eine <hi rendition="#i">Sum̄e</hi> von<lb break="yes"/>13000 <hi rendition="#i">Mark</hi> <w>oder</w><w>mehr</w> <hi rendition="#r"><hi rendition="#i">Frdl
+                            Gruß<lb break="yes"/>Ludwig <surname>F.</surname></hi>.</hi></p>
+</body>
+</text>
+</TEI>

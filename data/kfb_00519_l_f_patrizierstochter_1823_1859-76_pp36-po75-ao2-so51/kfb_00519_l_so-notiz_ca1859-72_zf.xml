@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l152" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notiz</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin bedauert, dass sie aufgrund ihrer Abhängigkeit nicht in er Lage ist, Schuhe zu erhalten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l152a.jpg" xml:id="image_395"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_395"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Um Zwecke zu erreichen, muß man Schritte machen und um Schritte<lb break="yes"/>thun zu kön̄en, muß man nicht nur Füße sondern auch Schuh, haben. </p>
+<p>In Ermanglung schöner, <hi rendition="#u">brauchbarer</hi>
+<hi rendition="#u">Stiefelete</hi>n bin ich erstens<lb break="yes"/>zurückgehalten vom <hi rendition="#u">heirathen</hi> u. zweitens gezwungen zu
+                    huren<lb break="yes"/>da keine or<hi rendition="#u">dentliche</hi>
+<add place="above">Bitt</add>, kein gutes Wort u. Geld hinreichend<lb break="yes"/>weder beim H. Verwalter, noch beim H. Schuhmacher <unclear>&amp;c</unclear><lb break="yes"/>Es ist traurig von schlechten Menschen so lange abhängig zu sein<lb break="yes"/>u. so lange keinen freien Willen u keinen freien Fuß haben<lb break="yes"/>vielweniger eine Paar Stiefel − − </p>
+<p>Ein Paar <w><hi rendition="#u">Glanz</hi>leder Stiefelet</w>
+<hi rendition="#u">so</hi> wie der Musterstiefel. </p>
+</body>
+</text>
+</TEI>

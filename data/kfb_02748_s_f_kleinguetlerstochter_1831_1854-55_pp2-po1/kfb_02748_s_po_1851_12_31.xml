@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2748s01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2748</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabeth <surname>S.</surname></persName>
+<date type="sent">31.12.1851</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2748s">
+<persName>
+<forename>Elisabeth</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1831"/>
+<death cert="unknown"/>
+<occupation>Kleingütlerstochter</occupation>
+<residence><geo decls="#WGS">48.6911413 11.2165327</geo>Obermaxfeld, Neuburg</residence>
+<faith>n.a.</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Kleingütler</p>
+<p from="1854" to="1855">Anstalt: 1854-55</p>
+<p from="1854" to="1855">Brieftypen: pp, po</p>
+</state>
+<trait><p>religiöse Spinnerei, krankhafte Hilarität, Anfall (1854)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   möchte um Verzeihung bitten; dankt, dass es ihr besser geht; Direktor ist ihr wie ein zweiter Vater, nennt sich selbst "Pflegetochter"
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2748s01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2748s01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">IrrSee</hi> den 31<hi rendition="#sup">t</hi> Dezbe 1851</hi></dateline>
+<salute><hi rendition="#c">Hochgeehrter Herr Direktor!</hi></salute>
+</opener>
+<p>
+Mit zitternter Hand ergreife ich die Feder<lb break="yes"/>Jhne vor allem um Verzeihung zu bitten, Wehmuth<lb break="yes"/>erfüllet mein Herz, wenn ich denke wie un<lb break="no"/>gesittet ich Jhnen schon begegnete seidem ich hier<lb break="yes"/>bin; was ich war das weiß ich, −<lb break="yes"/>Und daß es mit mir schon viel besser geht seh ich einh<lb break="yes"/>Wem anders hab ich es zu danken als Jhnen, nebst<lb break="yes"/>dem lieben Gott, keinen Menschen hat <add>ich</add> dem ich mein<lb break="yes"/>Elend sagen konnte und Sie hatten so viel Geduld mit<lb break="yes"/>mir; ja ich muß bekennen Sie machen einen zweiten<lb break="yes"/>Vater an mir, Mutter und Geschwiester verlassen<lb break="yes"/>mich aber Sie nahmen sich meiner <add>an</add> ich glaube auch Sie werden<lb break="yes"/>noch weiter Sorge tragen; Der liebe Gott lohne Ihnen<lb break="yes"/>was sie an mir thun, er erhalte Ihnen Gesundheit u<lb break="yes"/>Kräfte daß Sie noch Jahre lang fremde Gäste beher<lb break="no"/>bergen können und zum Gutm anweisen durch Gehorsam<lb break="yes"/>werd ich mich bemühen Ihnen Freuude zu machen
+
+<pb facs="#image_002"/>
+Zum neuen Jahr viel Glück <del>G</del> und Segen, so<lb break="yes"/>wie Jhrer ganzen Famielie.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Ich schliese mein Schreiben mit dem herzlichsten<lb break="yes"/>Gruß u. verbleibe bis ich vollends gesund bin<lb break="yes"/>in aller Liebe</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Ihre Pflegetochter<lb break="yes"/><hi rendition="#i">Maria Elihabetha <surname>S.</surname></hi></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

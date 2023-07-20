@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb844h26" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>844</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Creszenz <surname>H.</surname></persName>
+<date type="sent">ca. 1896-97 (vllt. Verweis auf ap von 1893)</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Sylvester <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb844h">
+<persName>
+<forename>Creszenz</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1897"/>
+<occupation>Zieglerstochter</occupation>
+<residence><geo decls="#WGS">48.5945268 10.4875365</geo>Donaualtheim, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Zieglereibesitzer</p>
+<p from="1886" to="1897">Anstalt: 1886-1897</p>
+<p from="1886" to="1897">Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>Sekundäre Seelenstörung (hysterische Verrücktheit), Verfolgungs- und Beeinträchtigungsgedanken (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                  Text auf einem Blatt mit Brief von Schwester vom 19. März 1893.  Sie wartet auf den angekündigten Besuch ihres Bruders, glaubt aber, dass er nicht mehr kommt.
+                    Sie will nach Hause geholt werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb844h26a.jpg" xml:id="image_088"/>
+<graphic mimeType="image/jpg" url="kfb844h26b.jpg" xml:id="image_089"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_088"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber Bruter</hi></salute>
+</opener>
+<p>schon 2 Briefe u im Howürdigen dekan<lb break="yes"/>einer seit Ostern habe ich
+                geschrieben <w>seit<lb break="yes"/>dem</w> als du deinen geschikt hast das du komst u
+                mich besuchst<lb break="yes"/>u mir abgeholfen wird komen bist nicht also kan ich
+                es<lb break="yes"/>auch nicht Glauben das du was davon weist schonst<lb break="yes"/>wehrest kekomen deshalb flehe <add place="below">ich</add> kome
+                gleich u holle<lb break="yes"/>mich in mein Stübchen darf ich nicht <w>hin ein</w>
+                dan thut<lb break="yes"/>mich in eine kleine Loschi das warten auf dich hat<lb break="yes"/>keine gränzen wie schreklich u schandvol als in<lb break="yes"/>diesen Anstalten gehandelt wird sei Gott anheim<lb break="yes"/>gestält wen ich u
+                du noch nicht schlecht genuk<lb break="yes"/>gemacht sint weil man dir die schult
+                gibt ich bin<lb break="yes"/>nicht dabei Armer Bruter ich <add place="above">habe</add> schon längst alleinig<lb break="yes"/><w>heim gehen</w> könen schau der
+                schande mich Arme<lb break="yes"/>so zwingen u Behane auf die schrekliche Weise<lb break="yes"/>in ihre schrekliches häußern auf welche Weise ist Gott bekant <pb facs="#image_089"/> kome u holle mich <seg ana="#salute">viele grüße an Euch<lb break="yes"/>alle</seg>
+                E <seg ana="#signed">Kreszentia <surname>H.</surname></seg></p>
+</body>
+</text>
+</TEI>

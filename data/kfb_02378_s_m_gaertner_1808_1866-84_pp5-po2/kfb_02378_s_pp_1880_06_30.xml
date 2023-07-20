@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2378s01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2378</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Engelbert <surname>S.</surname></persName>
+<date type="sent">30.06.1880</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Frau: Kreszenz <surname>S.</surname></persName>
+<settlement type="sent">Günzburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2378s">
+<persName>
+<forename>Engelbert</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1808"/>
+<death when="1884"/>
+<occupation>Gärtner</occupation>
+<residence><geo decls="#WGS">48.4539028 10.2785509</geo>Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Gärtner</p>
+<p from="1866" to="1884">Anstalt: 1866-1884</p>
+<p from="1866" to="1884">Brieftypen: pp,ap</p>
+</state>
+<trait><p>Manie (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Kaum verständliche Ausführungen über Tätigkeiten in der Anstalt und Aufforderungen an die Ehefrau.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2378s01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2378s01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#u" style="arzt">Günzburg</hi> den <hi rendition="#u" style="arzt">30ten Junigf <add hand="arzt">1880</add></hi></hi></dateline>
+<salute/>
+</opener>
+<p>Libste Vrau ich Binn doch Gesunt Wier Ich dier<lb break="yes"/>Ach Wieche Indie
+                Ich <hi rendition="#u" style="arzt">Iin den 7 Stunten</hi><lb break="yes"/>Ein<unclear>r</unclear>
+<hi rendition="#u" style="arzt">Geklauter Holz Segge</hi>
+<unclear/>oh Ibemal<lb break="yes"/>Zwa Gulten Zelt unt Int Daß Gaten<lb break="yes"/>Geschg Gie Ich Schon Liber den das Holz<lb break="yes"/>Machen Das
+                Ich nie Ger Dat und das<lb break="yes"/>Ich Vernumen Habbe Das das Weder<lb break="yes"/>Viel Schaten Gemach <unclear/>at und Wie dur<lb break="yes"/>Mich
+                Nich Am <hi rendition="#u" style="arzt">Sontag auch Abholen</hi><lb break="yes"/>Dar Dan Schig Mier Eine Dochte In den<lb break="yes"/><unclear>Tvr</unclear> den der Lanizer Semle der <unclear>ruch eich</unclear><lb break="yes"/>und Tuh Auch Noch Alte Ha<unclear>s</unclear>ten
+                    Ha<unclear>s</unclear> und<lb break="yes"/>mier Siggen Tant und Intem du 4
+                Schungen<lb break="yes"/>Gemacht Hast Soh Eine Wurt ist Gleich<lb break="yes"/>Gegesen und das dur doch Wainh das<lb break="yes"/>das Getreit Zum Desten Brieten<lb break="yes"/><unclear>D</unclear>an und <unclear/> Auch zum Testen Kom<lb break="yes"/>und das Senen Auch zum Ben Kan die Ba<unclear>riben</unclear><lb break="yes"/>und der Michle Mich Mith kan unt Soh Schreibe </p>
+<pb facs="#image_002"/>
+<p>Dur dem Schwagger Das Eer Seine Voratigte<lb break="yes"/>Warrm hat Gleich mit
+                neem̄en Sol<lb break="yes"/>Intim Ich schon Sofil Verstölt Habben<lb break="yes"/>und daß Haus dier Nich dnach und<lb break="yes"/>Das Iich Im die
+                Boz Zun Bilchendem<lb break="yes"/>Lauffene Kan Welh Ich das Zum<lb break="yes"/>Bein<unclear/>ten Ver <unclear/> Ich Schlifiger Meine<lb break="yes"/>Schreibene.
+                    <seg ana="#signed">Engelbert <surname>S.</surname></seg>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1439h05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1439</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Regina <surname>R.</surname></persName>
+<date type="sent">05.04.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1439h">
+<persName>
+<forename>Amalie</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1827"/>
+<death cert="unknown"/>
+<occupation>Landarzttochter</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Nördlingen/München, Stuttgart</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landarzt</p>
+<p from="1874" to="1876">Anstalt: 1874-76</p>
+<p from="1874" to="1876">Brieftypen: pp, ap, ao, sonst.</p>
+</state>
+<trait><p>Melancholie</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwester"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedauert, nicht im Stande zu sein, sich neben ihrer Familie um ihre kranke Schwester zu kümmern, 
+                    sodass sie einen Besuch dieser in ihrem jetzigen Zustand ablehnen muss. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1439h05a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="kfb1439h05b.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#r">München den 5<hi rendition="#sup"><hi rendition="#u">t</hi></hi> April 75</hi></dateline>
+<salute><hi rendition="#c">Hochgeehrter Herr<lb break="yes"/>Direcktor!</hi></salute>
+</opener>
+<p>Empfangen Sie freundlichsten<lb break="yes"/>Dank für Ihre gütigen Zeilen −<lb break="yes"/>aus denen das wohlthuende<lb break="yes"/>Gefühl der
+                Theilnahme spricht. </p><p><space/> Wäre ich im Stande, meiner<lb break="yes"/>armen Schwester Wunsch zu erfüllen,<lb break="yes"/>ich würde bei Gott, dazu bereit sein −<lb break="yes"/>in
+                erster Linie aber, stehen Mann<lb break="yes"/>und Kinder und um der ersten<lb break="yes"/>Pflichten willen, kann ich die zweite<lb break="yes"/>nicht
+                ausüben. </p>
+<pb facs="#image_014"/>
+<p><space/> Vielleicht doch, macht es im Lauf<lb break="yes"/>der Zeit ihr Zustand
+                möglich, daß<lb break="yes"/>Sie hochgeehrter Herr Direcktor, einen<lb break="yes"/>solchen Besuch, nicht als so gewagt<lb break="yes"/>bezeichnen − sondern
+                vielmehr<lb break="yes"/>günstigen Erfolg in Aussicht zu<lb break="yes"/>stellen
+                im Stande sein werden. </p><p>Indessen aber, empfehle ich die<lb break="yes"/>arme Kranke auf's wärmste, Ihrer<lb break="yes"/>ferneren Theilnahme und <seg ana="#salute">verbleibe<lb break="yes"/>mit vollkommener Hochachtung<lb break="yes"/><hi rendition="#c">Ihre</hi><lb break="yes"/><hi rendition="#r">ergebene<lb break="yes"/></hi></seg><hi rendition="#r"><seg ana="#signed">R. <surname>R.</surname>.</seg></hi></p>
+</body>
+</text>
+</TEI>

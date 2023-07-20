@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2902j09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2902</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>J.</surname></persName>
+<date type="sent">12.12.1906</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Stadtkaplan: n.a.<surname>K.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2902j">
+<persName>
+<forename>Maria</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1863"/>
+<death when="1925"/>
+<occupation>Privatiere</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Zimmermann</p>
+<p from="1905" to="1925">Anstalt: 1905-25</p>
+<p from="1905" to="1925">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>"Hallucinatorische Verrücktheit, Wahnideen" (1905)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt1"/>
+<handNote medium="ink_black" scope="minor" scribe="arzt2"/>
+<handNote medium="crayon_blue" scope="minor" scribe="arzt3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet erneut darum, dass der Adressat die Patientin abholen und nach Kempten bringen möge.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2902j09a.jpg" xml:id="image_020"/>
+<graphic mimeType="image/jpg" url="kfb2902j09b.jpg" xml:id="image_021"/>
+<graphic mimeType="image/jpg" url="kfb2902j09c.jpg" xml:id="image_022"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_020"/>
+<opener>
+<dateline>Kaufbeuren, d. <hi rendition="#u" style="arzt1">12. Dezember 1906.</hi></dateline>
+<salute><hi rendition="#c">Hochwürdiger, hochzuverehrender<lb break="yes"/>Herr Stadtkaplan!</hi></salute>
+</opener>
+<p><add hand="arzt1"><add place="top"><surname><hi rendition="#i">J.</hi></surname><hi rendition="#i"> Marie</hi></add></add>
+</p><p><add hand="arzt2"><hi rendition="#r"><hi rendition="#i"><surname>K.</surname>, </hi><lb break="yes"/><hi rendition="#i">Kempten, </hi><lb break="yes"/><hi rendition="#i">Neustadt Pfarrhof</hi></hi></add></p>
+<p><space/> Wieder muß ich Eure<lb break="yes"/>Hochwürden mit einem Briefe be<lb break="no"/>lästigen; wieder schreiben. Ich habe<lb break="yes"/>noch keine Hilfe, ich bin
+                noch da.<lb break="yes"/>Entschuldigen Eure Hochwürden,<lb break="yes"/>daß ich
+                Eure Hochwürden belä<lb break="no"/>stige, ich <hi rendition="#u" style="arzt3">habe lange gewartet.<lb break="yes"/><w>Dieses</w><w>mal</w> aber gleich, daß
+                    ich<lb break="yes"/>die Hilfe erhalte, auf welche ich<lb break="yes"/>wache.</hi> Ich ersuche Eure Hoch<lb break="no"/>würden inständig, die An<lb break="no"/>stalt zu ersuchen, daß man <pb facs="#image_021"/>mic<hi rendition="#u" style="arzt3">h auf die Bahn thut</hi>; daß ich<lb break="yes"/>endlich einmal <hi rendition="#u" style="arzt3">nach Kempten</hi><lb break="yes"/>ko<hi rendition="#u" style="arzt3">m̄e, wieder
+                Kempten</hi>. − </p>
+<p>Dan̄ bin ich wieder, wo ich hinge<lb break="no"/>höre, wo ich sein muß, nach Kemp<lb break="no"/>ten. <hi rendition="#u" style="arzt3">Diese Hilfe erhalte ich<lb break="yes"/>mit diesem Briefe</hi>; Eure <w>Hoch<lb break="no"/>würden</w> thun mich nach Kemp<lb break="no"/>ten. − </p>
+<p>Ich bin lange genug fort, <hi rendition="#u" style="arzt3">es ist nicht<lb break="yes"/>mehr zu viel verlangt</hi>, zu viel<lb break="yes"/><hi rendition="#u" style="arzt3">gethan, von Kaufbeuren weg<lb break="yes"/>nach
+                    Kempten</hi>, wo ich behei<lb break="no"/>mathet bin, <hi rendition="#u" style="arzt3">man geht heim;<lb break="yes"/>Man ist nicht für diese Welt,<lb break="yes"/>für diese Erde da, es gibt noch<lb break="yes"/>ein anderes
+                    Leben, der Mensch<lb break="yes"/>ist für die Ewigkeit bestim̄t,<lb break="yes"/>darnach muß auch das Leben<lb break="yes"/>auf der Erde in der
+                    Welt<lb break="yes"/>sein. Von Kempten weg, hat<lb break="yes"/>man keine
+                    Hilfe, <hi rendition="#u">das erfahre ich</hi></hi>.</p>
+<pb facs="#image_022"/><p>Eure Hochwürden <hi rendition="#u">verlangen</hi> von der<lb break="yes"/><hi rendition="#u">Anstalt</hi>, die <hi rendition="#u">Zusage</hi>, daß man mich<lb break="yes"/>auf die <hi rendition="#u">Bahn</hi> thut; nach <hi rendition="#u">Kempten</hi>.<lb break="yes"/>Nun schließe ich. <seg ana="#salute">Ich sende viele<lb break="yes"/>Grüße an Eure Hochwürden.</seg>
+                Eure<lb break="yes"/>Hochwürden, <hi rendition="#u" style="arzt3"><del>h</del>sa<del>b</del>gen, auch, sagen es,</hi><lb break="yes"/>Hochwürden Herrn Stadtpfarrer, Frl.<lb break="yes"/><surname>M.</surname> geholfen, ich <hi rendition="#u" style="arzt3">gleich nach Kemp<lb break="no"/>ten; u. <surname>B.</surname>
+                    sagen; welche erwarten</hi>.<lb break="yes"/>/Nun noch einmal, von der <hi rendition="#u">Anstalt</hi><lb break="yes"/>die <hi rendition="#u">Zusage</hi>, daß man mich auf<lb break="yes"/>die <hi rendition="#u">Bahn</hi>
+<hi rendition="#u">thut</hi>. <hi rendition="#u">nach</hi>
+<hi rendition="#u">Kempten</hi>.<lb break="yes"/><seg ana="#salute">Nun
+                    verbleibe, ich unter noch<lb break="no"/>maligen, besten Gruß u. Dank<lb break="no"/>barkeit<lb break="yes"/><hi rendition="#c">Euer Hochwürden<lb break="yes"/>ergebene </hi><seg ana="#signed">Marie
+                            <surname>I.</surname></seg>.<lb break="yes"/>Beichtkind.</seg></p>
+<p>z.Z. in der Irrenanstalt<lb break="yes"/>Kaufbeuren.</p>
+</body>
+</text>
+</TEI>

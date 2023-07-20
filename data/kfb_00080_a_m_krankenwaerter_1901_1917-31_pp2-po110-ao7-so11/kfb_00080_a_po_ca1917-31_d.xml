@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca1917-1931</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte ins Krankenzimmer, da es ihm auf seiner Station unter den Patitenten nicht gut geht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a13a.jpg" xml:id="image_054"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_054"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Sehr geehrter Herr Obermedizinalrat!</hi></salute>
+</opener>
+<p>Ich bitte Sie höflichst, lassen Sie mich Morgen oder in paar Tagen vor ins<lb break="yes"/>ruhige Krankenzimmer. Hier auf C 3 geht es mir unter den unruhigen
+                    Patien<lb break="no"/>ten sehr schlecht. Gestern stahl mir unterm Mittagessen
+                der Patient <surname><hi rendition="#i">S.</hi><hi rendition="#i">w</hi><hi rendition="#i">arz</hi></surname> mein<lb break="yes"/>sechstel 1/6 Brot
+                &amp;. griff in meinen gefüllten Teller <del>hin<del>i</del>in</del> hinein. Als ich
+                mich<lb break="yes"/>dagegen wehrte, schlug mich <surname>S.</surname> bös in
+                meine linke Hand, daß sie verenkt<lb break="yes"/>ist &amp;. weh tut. Auch die
+                Patienten <surname>B.</surname> &amp;. <surname>K.</surname> waren mit mir
+                    <seg ana="#curse"><w>bös</w><w>&amp;.</w><w>grob</w></seg>,<lb break="yes"/>als
+                ich ihnen die Schreibarbeit nicht sehen ließ. Und so geht die Grobheit &amp;. Un<lb break="no"/>ruhe hier auf C 3 auch unterm Schreiben täglich bös &amp; arg
+                weiter. Ich bitte Sie<lb break="yes"/>nochmals höflichst, lassen Sie mich sofort
+                oder bis in paar Tagen vor ins<lb break="yes"/>ruhige Krankenzimmer A 3. Erfüllen
+                Sie mir bitte diese Weihnachtsbitte. Ich<lb break="yes"/>melde mich kein einziges
+                Mal mehr zurück auf C 3; weil ich jetzt weiß,<lb break="yes"/>daß ich im
+                Krankenzim̄er wo es ruhig ist, auch ohne Schlaftrunk gut schla<lb break="no"/>fe. Im Krankenzim̄er kan̄ ich gut schriftlich arbeiten, aber auf C 3
+                nicht; da<lb break="yes"/>werd ich viel gestört. <seg ana="#salute">Es grüßt Sie
+                    höflichst</seg>
+<seg ana="#signed"><hi rendition="#i">Hans <surname>A.</surname></hi> C 3.</seg>
+</p>
+</body>
+</text>
+</TEI>

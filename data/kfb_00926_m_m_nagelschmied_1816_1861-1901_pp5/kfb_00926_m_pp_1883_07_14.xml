@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb926m03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>926</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>M.</surname></persName>
+<date type="sent">14.07.1883</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geschwister</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb926m">
+<persName>
+<forename>Georg</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1816"/>
+<death when="1901"/>
+<occupation>Nagelschmied</occupation>
+<residence><geo decls="#WGS">48.5169777 10.811195</geo>Biberbach, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Krämer</p>
+<p from="1861" to="1901">Anstalt: 1861-1901</p>
+<p from="1861" to="1901">Brieftypen: pp</p>
+</state>
+<trait><p>Alienation, Tobsucht, Onanie, Sinnestäuschungen (1861)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    hat in München einen Kaufmann getroffen, bekommen noch Gulden von ihm
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb926m03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb926m03b.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb926m03c.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb926m03d.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline><hi rendition="#c">Irsee den 14 Juli 1873</hi></dateline>
+<salute>Liebste Geschwistret </salute>
+</opener>
+<p>ich hofe mein Schreiben<lb break="yes"/>werte eich in Bester Gesundheit <w>an trefen</w><lb break="yes"/>und ich auch gesund bin mit guten Kindnisen<lb break="yes"/>ihr
+                werten woll wisen was das Statgericht<lb break="yes"/><w>aus
+                    gesprochen</w> hat das die heimat uns finf<lb break="yes"/>Geschwistret <w>mit
+                    ein Ander</w> Gehört<lb break="yes"/>und mir Nigs Abzichen derfen von mein<lb break="yes"/><w>ver Mögen</w> weil ihr so Boshaft sind
+                und<lb break="yes"/>ihr habt nir Lunber Rei noch nie Naus<lb break="yes"/>Gebracht
+                Bis eich Gott Straft nit Elend und<lb break="yes"/>Noth Wen habe ich etwas gedan
+                eich öter ein<lb break="yes"/>Andren Menschen öter was gesprochen was<lb break="yes"/>Unrechtes gewesen Soll sein. ihr habt Kein<lb break="yes"/>Brömen
+                bein haus und ist das haus vol Lumben<lb break="yes"/>und habt 3000 f Gulden
+                Schulten auf dem Anwesen<lb break="yes"/>und Mist mich auch noch Naus Bezahlen <pb facs="#image_007"/>Ich Brauch ein ganzen Anzug feirdag<lb break="yes"/>Kleiter
+                Ser Nodwindig ich Bin der<lb break="yes"/>Schlechste in der Kleitung auf dem
+                feirtag <pb facs="#image_008"/>Wie ich in Minchen gewesen bin da habe ich<lb break="yes"/>den Kaufman gedrofen wo der Kaspar zwölf<lb break="yes"/>hunder
+                Gulden eingebist hat er mir <w>ver<lb break="yes"/>Sprochen</w> das wir noch
+                Etliche hunder Gulden<lb break="yes"/>Bekomen er hat schon wider ein Laden wen er<lb break="yes"/>Schon Bankröt Gemacht habe <w>hat</w><w>er</w> gesagt<lb break="yes"/>er hate Gelaubt wir deten
+                mer öbrörben von<lb break="yes"/>dem Bruder Kaspar <hi rendition="#r">Georg
+                    <surname>M.</surname> eir<lb break="yes"/>Aufrichdiger Bruder</hi> </p>
+<pb facs="#image_009"/><p><hi rendition="#c">An<lb break="yes"/>Herren Andres <surname>D.</surname><lb break="yes"/>in<lb break="yes"/>Biberbrbach Burgenmeister<lb break="yes"/>Baur Landgricht</hi><lb break="yes"/>Wertingen</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun552b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>552 (K. 30)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">04.06.1892</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehefrau: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun552b">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1857-05-19"/>
+<death cert="unknown"/>
+<occupation>Hüttenarbeiter</occupation>
+<residence><geo decls="#WGS">51.4108972 7.2077948</geo>Geburtsort: Kreutz; Wohnort: Welper</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1891-03-24" to="1892-10-08">Anstalt: 24.03.1891-08.10.1892</p>
+<p from="1891-03-24" to="1892-10-08">Brieftypen: pp</p>
+</state>
+<trait><p>einfache Seelenstörung (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber erkundigt sich nach zu Hause.
+                    Seine Frau soll ihm schreiben, wenn sie ihn nicht braucht, und wieder heiraten.
+                    Er entschuldigt sich und kündigt an, dass sie sich ein Haus bauen soll, wenn er entlassen wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun552b02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="mun552b02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><add hand="vordruck">Provinzial-Anstalt<lb break="yes"/>Marienthal zu
+                        Münster, den</add> 4/<hi rendition="#sub">6</hi>. <add hand="vordruck"><hi rendition="#sup">ten</hi> ... 189</add>2<lb break="yes"/><del>Marienth</del></dateline>
+<salute><hi rendition="#c">Liebe Frau</hi></salute>
+</opener>
+<p>hast du noch etwas Ehrgefühl<lb break="yes"/>so schreibe, mir, wie sieht es aus<lb break="yes"/>in der heimath du weißt ja<lb break="yes"/>wo ich bin, hast du
+                mich nicht<lb break="yes"/>nöthig, so schreibe daß, bald. dann<lb break="yes"/>weiß ich wo ich an bin, denn<lb break="yes"/>nihn dir einen anderen<lb break="yes"/>Mann und laße dich von<lb break="yes"/>Bürgermeister Trauen<lb break="yes"/>den ist die Ehe für uns<lb break="yes"/>gelöst.<lb break="yes"/><hi rendition="#c"><seg ana="#signed">J. <hi rendition="#u"><surname><hi rendition="#i">B.</hi></surname></hi></seg></hi><lb break="yes"/>schreibe aber balt oder gar nicht<lb break="yes"/><hi rendition="#c">ob der Johannes<lb break="yes"/>gut lernt</hi>
+</p>
+<pb facs="#image_004"/>
+<p><seg ana="#metaling">den nihm mir nicht übel<lb break="yes"/><del>s</del> das ich so schlecht
+                geschrieben<lb break="yes"/>habe,</seg> wen ich einmal hir weg bin<lb break="yes"/>dan
+                soll sich die sache wieder geben<lb break="yes"/>dan solst du dir ein Haus<lb break="yes"/>bauen laßen mit allen<lb break="yes"/>anlagen <hi rendition="#u">dazu.</hi>
+</p>
+</body>
+</text>
+</TEI>

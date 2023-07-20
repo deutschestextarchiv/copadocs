@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="war2132s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 660: Warstein</collection>
+<idno>2132 (K. 670)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Paul <surname>S.</surname></persName>
+<date type="sent">29.06.1911</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Fritz <surname>n.</surname></persName>
+<settlement type="sent">Warstein</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="war2132s">
+<persName>
+<forename>Paul</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1865-08-04"/>
+<death cert="unknown"/>
+<occupation>Bergmann</occupation>
+<residence><geo decls="#WGS">51.6804093 7.815197</geo>Geburtsort: Klein-Dombrokwa; Wohnort: Hamm</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verwitwet</p>
+<p from="" to="">Eltern: Vater: Bergmann, Mutter: k.A.</p>
+<p from="1907-10-25" to="1921-11-30">Anstalt: 25.10.1907-09.04.1912; 14.10.1913-30.11.1921</p>
+<p from="1907-10-25" to="1921-11-30">Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1907)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="hand2"/>
+<handNote medium="crayon_blue" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber berichtet, wie er nach seiner Entlassung verfahren will.
+                    Die weitere Entwicklung hängt von seiner Verlobten ab. Er begründet, warum er seine Zukunft in ihre Hände gelegt hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="war2132s05a.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="war2132s05b.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Warstein</hi> d. <hi rendition="#u" style="hand2">29. Ju</hi>ni
+                        <hi rendition="#u" style="arzt">1911.</hi> <add hand="hand3">49</add></hi></dateline>
+<salute>Lieber Fritz,</salute>
+</opener>
+<p><add hand="hand2" place="top"><hi rendition="#u"><surname><hi rendition="#i">S.</hi></surname></hi></add></p>
+<p><seg ana="#cens">du wirst Dich gewiß wundern, das ich<lb break="yes"/>so lange nicht geschrieben
+                habe. Kurz gesagt ich<lb break="yes"/>durfte nicht.</seg> Am 27. d. Mts hab ich Antrag
+                auf Ent<lb break="no"/>lassung gestellt. sollte dieser Erfolg haben, dann<lb break="yes"/>komme ich für paar Tage auf Besuch, <hi rendition="#u" style="hand2">bis ich mich<lb break="yes"/>in Hamm orientiert u
+                    eingerichtet</hi> hab. Um<lb break="yes"/>meine Zeugnisse in Ordnung zu bringen
+                muß<lb break="yes"/>ich für kurze Zeit nach Hamm. </p>
+<p>Von meinem <hi rendition="#i">Idchen</hi> hab ich bis jetzt keine Nachricht<lb break="yes"/>sollte die Heirat zerrissen werden, komme ich<lb break="yes"/>mit dem
+                Oberstaatsanwalt, dem Bürgermeister<lb break="yes"/>u Kreisarzt <unclear><hi rendition="#i">Lieban</hi></unclear> in Konflickt. Der Schwarze.<lb break="yes"/>Den die drei Herren als Werkzeug benutzt haben<lb break="yes"/>hat
+                bis jetzt nichts von sich hören lassen<lb break="yes"/>Alles liegt zum zweiten mal
+                vernihtet, ob<lb break="yes"/>Gras über die Sache wachsen wird, liegt einzig<lb break="yes"/>u allein an <hi rendition="#i">Ida</hi>. </p>
+<p>Das ich meine Zukunft in die Hände dieses Mäd<lb break="no"/>chens gelegt habe, hat zwei Gründe,
+                1. kann ich<lb break="yes"/>sie sehr gut leiden u 2, ist sie das Glied welches<lb break="yes"/>mir zur Verbindung mit meinen Verwandten<lb break="yes"/>fehlt.
+                Ist sie noch so geblieben wie z. Zt. als<lb break="yes"/>sie bei Euch war, dann
+                könnt ihr sicher darauf <pb facs="#image_015"/>rechnen, das sie noch einmal auf
+                Besuch kommen<lb break="yes"/>wird. Von ihr hängt die Entscheidung ab. wie die<lb break="yes"/>Sache endet. u wohin ich mich von <hi rendition="#i">Hamm</hi> aus
+                wenden<lb break="yes"/>werde. Daher ist es zwecklos weiter über die Sache<lb break="yes"/>zu sprechen. Grüß mir bei Gelegenheit die Bekannten<lb break="yes"/>in <hi rendition="#i">Hamm</hi>. Den Schwarzen nicht zu vergessen.<lb break="yes"/>Du hast immer viel zu tun daher erwarte ich eine<lb break="yes"/>Nachricht von
+                Deinem <hi rendition="#i">Jettchen</hi>.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Herzl Grüße<lb break="yes"/>von</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#u"><hi rendition="#i">Paul</hi>.</hi></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

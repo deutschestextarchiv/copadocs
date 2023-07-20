@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb670m01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>670</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann Nepomuk <surname>M.</surname></persName>
+<date type="sent">28.02.1860</date>
+<date type="received">n.a.</date>
+<persName type="addressee">König von Bayern: Maximilian <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb670m">
+<persName>
+<forename>Johann Nepomuk</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1819"/>
+<death when="1876"/>
+<occupation>Landgerichtsassessor</occupation>
+<residence><geo decls="#WGS">48.4539028 10.2785509</geo>Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Fleischer</p>
+<p from="1860" to="1876">Anstalt: 1860-1876</p>
+<p from="1860" to="1876">Brieftypen: po, ap, ao</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet um Gnade.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb670m01a.JPG" xml:id="image_001"/>
+<graphic mimeType="image/jpeg" url="kfb670m01b.JPG" xml:id="image_002"/>
+<graphic mimeType="image/jpeg" url="kfb670m01c.JPG" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Sr. Mayestaet Maximilian II.<lb break="yes"/>von </hi></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Gottes Gnaden König von Bayern </hi></hi><lb break="yes"/>meinem <hi rendition="#i">Allergnaedigsten Landesherrn</hi>, </salute>
+</opener>
+<p><hi rendition="#i">Allerhöchswelchem</hi> ich mit unverbrüchlicher<lb break="yes"/>Treue in den gefahrvollsten und schwierigsten<lb break="yes"/>Zeiten gedient
+                habe, deßgleichen die übrigen<lb break="yes"/><hi rendition="#i">Allerhöchsten
+                    Monarchen Europas</hi><lb break="yes"/>wirft sich der Allerunterthänigst treugehorsamst<lb break="yes"/>Unterzeichnete demuthsvoll zu Füßen, beken̄t<lb break="yes"/>aufrichtig
+                und reuevoll seine schuldigen Ver<lb break="no"/>irrungen, Vergehen und Verbrechen
+                an<lb break="yes"/><hi rendition="#i">Allerhoechst Dero Geheiligten Personen</hi><lb break="yes"/>bittet um der Barmherzigkeit Gottes willen <pb facs="#image_002"/>die <hi rendition="#i">Allen</hi> dereinst im reichsten Maaße<lb break="yes"/>zu
+                Theil werden möge, um Gnade für Recht,<lb break="yes"/>Schonung und Verzeihung,
+                weil <hi rendition="#i">Allerhoechst</hi><lb break="yes"/><hi rendition="#i">Dero Gnade</hi> größer ist als seine Verbrechen,<lb break="yes"/>und getröstet sich <unclear><del>d</del><add place="inline">D</add></unclear>erselben im Hinblicke<lb break="yes"/>darauf, daß er in
+                dem unheilvollen Wahne<lb break="yes"/>seit langer Zeit befangen war, durch sein<lb break="yes"/>Benehmen für alle Welt Buße zu thun<lb break="yes"/>und nach
+                den <hi rendition="#i">Allerhoechsten Intentionen</hi><lb break="yes"/>gerade durch seine verkehrten Thaten zu<lb break="yes"/>handeln,
+                was seiner mangelhaften Welt<lb break="no"/>ken̄tniß und Erziehung gewieß
+                edelmüthig<lb break="yes"/>verziehen wird, weil edle Herzen die<lb break="yes"/>Rache zumal an einem <hi rendition="#u">Unglücklichen</hi>, wie<lb break="yes"/>der allerunterthänigst Unterzeichnete ist,<lb break="yes"/>großmüthig nicht üben. </p>
+<pb facs="#image_003"/>
+<p>Ebendieselbe unterthänige Abbitte wagt<lb break="yes"/>der Unterzeichnete an <hi rendition="#i">Alle Hohen und</hi><lb break="yes"/><hi rendition="#i">Hoechsten Personen</hi> aus denselben<lb break="yes"/>Gründen in aller Ergebenheit und unter<lb break="yes"/>dem
+                heiligen Versprechen vollkom̄ener<lb break="yes"/>Reue und Besserung zu
+                richten <seg ana="#salute">und erstirbt<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Sr. Koeniglichen Mayestaet von Bayern </hi><lb break="yes"/><hi rendition="#i">gleichwie<lb break="yes"/>Der Allerhoechsten
+                            Monarchen<lb break="yes"/>Europas sowie<lb break="yes"/>Aller Hohen
+                            und Hoechsten Personen </hi></hi><lb break="yes"/><hi rendition="#r">allerunterthänig treugehorsamster und gehorsams<unclear reason="damage"/></hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Nepomuck
+                            <surname>M.</surname></seg>.<lb break="yes"/>königlicher
+                    quiescirter Landgerichts-Assessor<lb break="yes"/>von Öttingen. </hi></p>
+<p>Irrsee in der Anstalt<lb break="yes"/>daselbst am 28<hi rendition="#sup"><hi rendition="#u">t</hi></hi> Februar 1860 </p>
+</body>
+</text>
+</TEI>

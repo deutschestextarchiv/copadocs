@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1870r05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1870</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Max <surname>R.</surname></persName>
+<date type="sent">ca1903-15</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1870r">
+<persName>
+<forename>Max</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1881"/>
+<death when="1915"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: <!--Beruf/unehelich/Vermögen--></p>
+<p from="1903" to="1915">Anstalt: 1903-1915</p>
+<p from="1903" to="1915">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Seelenstörung mit Epilepsie (1903)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Besuch, Zimmermannsbleistifte und Pflaumen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1870r05a.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<salute><hi rendition="#c">Liebe Eltern!</hi></salute>
+</opener>
+<p><space/> Ich will euch einen Brief schreiben<lb break="yes"/>Wie geht es euch,
+                Mir geht es imer<lb break="yes"/>gut. Mit meinen Anfälen geht es <w>im<lb break="no"/>mer</w><w>gut</w><w>Lieber</w> Vater möchtest du mich auch<lb break="yes"/>einmal besuchen<del>,</del> Eim möchte ich ein<lb break="yes"/>Eltern wieder senhn. Bitte bringen<lb break="yes"/><w>Sie</w><w>mir</w>
+<w>Zimmer Manns Bleistifte</w><lb break="yes"/>mit Einen Gorb bflaumen könen sie<lb break="yes"/>mir auch <w>mit bringen</w>, wen es schon<lb break="yes"/>welche
+                gibt. Ein <w>Taschen messer</w> ich<lb break="yes"/>auch
+                brauchen. Einen besten Gruß von<lb break="yes"/>Max unt und Herrn
+                    <surname>L.</surname>. </p>
+<p><hi rendition="#r">Es grüßt euch herzlich vilmals</hi><lb break="yes"/><hi rendition="#c">Hx C. <hi rendition="#i">Kraft Kaufman</hi></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u"><hi rendition="#i">in Pappenheim</hi></hi></hi>
+</p>
+</body>
+</text>
+</TEI>

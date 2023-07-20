@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip22d01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>22 (K. 40)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Louise <surname>D.</surname></persName>
+<date type="sent">ca. 1883-94</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager: Wilhelm <surname>n.</surname></persName>
+<settlement type="sent">Lengerich?</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip22d">
+<persName>
+<forename>Louise</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1835"/>
+<death when="1894-05-20"/>
+<occupation>n.a.</occupation>
+<residence><geo decls="#WGS">51.3930491 8.169904</geo>Geburtsort: Osnabrück; Wohnort: Wildshausen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1883-10-31" to="1894-05-20">Anstalt: 31.10.1883-20.05.1894</p>
+<p from="1883-10-31" to="1894-05-20">Brieftypen: pp</p>
+</state>
+<trait><p>einfache Seelenstörung (1883); Dementia (1883)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patientin möchte zur Regelung von Angelegenheiten nach Petersburg reisen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip22d01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="lip22d01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="lip22d01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline>
+<add hand="vordruck"><hi rendition="#i">Provinzial-Anstalt </hi><hi rendition="#r"><hi rendition="#i">Lengerich i.W. den ... 187</hi></hi><lb break="yes"/><hi rendition="#i">BETHESDA.</hi></add>
+<hi rendition="#r"><hi rendition="#i">Provenzial Anstalt.</hi></hi></dateline>
+<salute><hi rendition="#c">Liber <hi rendition="#i">Wilhelm</hi>.</hi></salute>
+</opener>
+<p>Den Aufenthalt in der hiesigen Provinzial<lb break="no"/>Anstalt wünsche ich <hi rendition="#u">sehnlist</hi> zu verlassen,<lb break="yes"/>ich habe mich
+                recht viel darum bemühet in dem<lb break="yes"/>selben Verhäldniß wie ich hinnein
+                gekommen<lb break="yes"/>bin; Dieselbe auch wider verlassen zu können!<lb break="yes"/>Ich meine meinen Rang und Lebensstellung,<lb break="yes"/>Da man
+                hier mit meinen wider Erworbenen<lb break="yes"/>Rechten meiner Burg so wie auch
+                die auf mich übertragenen<lb break="yes"/>Rechten meines Großvaters, haben für mich
+                viel beschwerde<lb break="yes"/>und Mühen um dieselben mir zu erhalten. </p><p>Da ich Geistig und Körperlich mich sehr wohl befinde,<lb break="yes"/>so wünsche ich recht bald
+                meine Freiheit, und sollte<lb break="yes"/>mir noch einst mal ein Weh überkommen so
+                glaube<lb break="yes"/>ich daß ich auch auserhalb dieser Anstalt eine genügende<lb break="yes"/>Pflege mir werden kann. </p><p>Meine Verhäldniße fordern es von mir eine Reise <pb facs="#image_002"/>nach Petersburg zu machen
+                um die Aufrechthaltung<lb break="yes"/>meiner Sache und meiner Rechten. Sollte die<lb break="yes"/>Regirung in <hi rendition="#i">Arensberg</hi> meine Reise
+                befördern<lb break="yes"/>welche ich <add place="above">in</add> meiner Sache zu
+                übernehmen die Absicht<lb break="yes"/>habe. Dann möchte ich wünschen mir doch dem<lb break="yes"/>Freiherrn von <hi rendition="#i"><surname>S.</surname></hi> als Begleitung <w>mit
+                    zu<lb break="no"/>geben</w>. Findet meine Reise Befridigende Beförderung<lb break="yes"/>so sehe ich mich nochmals veranlaßt mein bedeutendes<lb break="yes"/>Vermögen die Verwaltung <add place="above">zu</add> überlaßen.
+                    <del>s</del>Sollte mein<lb break="yes"/>Aufenthalt in Petersburg eine daurnde
+                sein so wünsche<lb break="yes"/>ich daß ich mit genügenden Gelde dort versehen
+                werde<lb break="yes"/><del>um</del> um dort meinen Verhäldniße nach sorglos<lb break="yes"/>Leben zu können. Auch zur Reise wird Freiherr von<lb break="yes"/><hi rendition="#i"><surname>S.</surname></hi> mit bringen müssen. </p><p>Sollte meine Reise entschidenen Hemmniße entgegen<lb break="yes"/>gestelt werden was ich nicht
+                wünsche; Dann denke ich<lb break="yes"/>in diesem Falle meinen vorigen Wunsch um
+                eine<lb break="yes"/>eigene Haushalt erfüllt sehen. </p><p>Hermine ist in meinen Verhäldniß mit G von<lb break="yes"/>Hannover gereißt und glaube daß
+                dieselbe wohl jetzt<lb break="yes"/>wider bei Euch auf Haus <hi rendition="#i">Beokum</hi> sich befindet ich bin <pb facs="#image_003"/>mit Ihren
+                Angelegenheit bekannt und kann Ihr den guten<lb break="yes"/>fortgang der Sache
+                wünschen. </p><p>Da ich der Meinung bin daß mir kein hämmnieß entgegen<lb break="yes"/>steht Die Meinen auch in
+                weiter ferne zu sehen und<lb break="yes"/>auch von <add place="above">denen</add>
+                Nachricht zu bekommen so wird mir eine<lb break="yes"/>Ungünstiges Reisewetter kein
+                hämmniß sein.<lb break="yes"/>Auch wünsche ich sehnlichst von <hi rendition="#i">Münster</hi> Nachricht<lb break="yes"/>ob meine Reise auch von dort gern
+                gesehen wird<lb break="yes"/>und die nöthigen beförderung der Sache auch von<lb break="yes"/>dorther geschehen wird. Für die vielen Mühen<lb break="yes"/>welche ich verannlaßt habe zu verlangung der<lb break="yes"/>Stammrechte, meinen
+                freundlichen Dank. − </p><p>Auf Haus <hi rendition="#i">Lockum</hi> wünsche ich daß beste Wohlergehen<lb break="yes"/>und
+                möchte den fortgang der Sache. </p><p><seg ana="#salute">Meinen freundlichen Gruß.</seg><lb break="yes"/><hi rendition="#c">von <seg ana="#signed">Eure Schwegerin<lb break="yes"/><hi rendition="#i">Louise</hi></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

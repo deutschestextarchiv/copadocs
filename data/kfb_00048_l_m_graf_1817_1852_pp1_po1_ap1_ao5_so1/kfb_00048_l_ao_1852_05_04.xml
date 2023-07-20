@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb48l09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>48</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: G. von <surname>L.</surname></persName>
+<date type="sent">04.05.1852</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb48l">
+<persName>
+<forename>Maxim von</forename><surname>L.</surname>
+</persName>
+<birth when="1817"/>
+<death cert="unknown"/>
+<occupation>Graf von München</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1852" to="1852">Anstalt: 1852</p>
+<p from="1852" to="1852">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="vater"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich für die Auskunft des Arztes über das Befinden des Patienten und 
+                    erwähnt einen Brief des Patienten an dessen Ehefrau, der zwar schwer zu lesen war, 
+                    jedoch besser geschrieben sei, als die letzten Briefe an den Vater. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb48l09.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline><hi rendition="#r">München den 4<hi rendition="#sup">t</hi> May
+                        1852</hi></dateline>
+<salute><hi rendition="#c">Euer Wohlgeborn!</hi></salute>
+</opener>
+<p><space/> Durch Jhre gütige Mittheilung vom<lb break="yes"/>7<hi rendition="#sup">t </hi>d. M − die mir erst <hi rendition="#u">gestern
+                    früh</hi><lb break="yes"/>zugekom̄en ist, ist uns Beruhigung<lb break="yes"/>geworden
+                und ich verspreche<lb break="yes"/>Jhnen, Sie nicht mehr wegen öftern<lb break="yes"/>Nachrichten − als Sie selbst für gut<lb break="yes"/>finden,
+                    zu belästigen.</p><p>Abends ist auch der brief an meine<lb break="yes"/>Schwiegertochter eingetroffen, der −<lb break="yes"/><w>wenn gleich</w>
+<seg ana="#metaling"><hi rendition="#u">ungewöhnlich</hi> weitlaufig<lb break="yes"/>und bei den vielen ausgelaßenen<lb break="yes"/>Worten schwer
+                    zu entziffern</seg>, doch viel<lb break="yes"/>beßer ausfiel, als seine lezten
+                an mich −<lb break="yes"/><del>doch</del>
+<add place="above">und</add> für Jhre Sehnsucht Labsal war.!<lb break="yes"/>Nach
+                einer weitlaufigen Beschreibung<lb break="yes"/>seines Wohlbefindens, <add place="above">über</add>
+<hi rendition="#i">Comfort</hi>'s, Kost,<lb break="yes"/>Behandlung, Beschäftigung,
+                Unterhaltung,<lb break="yes"/>Theater, Ball, Maskarade, leztere mit </p>
+</body>
+</text>
+</TEI>

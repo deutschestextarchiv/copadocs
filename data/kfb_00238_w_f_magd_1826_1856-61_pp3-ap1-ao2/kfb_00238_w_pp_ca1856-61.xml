@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb238w03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>238</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>W.</surname></persName>
+<date type="sent">ca. 1856-1861</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Rosina <surname>W.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb238w">
+<persName>
+<forename>Johanna</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1861"/>
+<occupation>Magd</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Hebamme, vermögenslos</p>
+<p from="1856" to="1861">Anstalt: 1856-1861</p>
+<p from="1856" to="1861">Brieftypen: pp,ap,ao</p>
+</state>
+<trait><p>Seelenstörung mit [?]vorwiegender Melancholy (Bericht 1856)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin bittet, verbunden mit verschiedenen Frömmigkeitsbekundungen, um Erlösung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb238w03a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb238w03b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><unclear>Innide</unclear> Schwester!</salute>
+</opener>
+<p>Deinen Brief habe ich erhalten so die<lb break="yes"/>Sachen wo du mier geschikt
+                hast. es freuste<lb break="yes"/>mih sehr und Dir recht vielmals dafür<lb break="yes"/><hi rendition="#i">D</hi>anke. mitt der Gesudheit geht es ganz<lb break="yes"/>ich wünshte bald zu huse sein ich bitte dih<lb break="yes"/>Liebe
+                Rosina erkundige noch ein <unclear>Bleg</unclear><lb break="yes"/>der Bruder Christoph hatt zum Ihm die<lb break="yes"/>Gräfen
+                Isenburg gesagd daß Sie zu jede<lb break="yes"/>mih wieder nimt in die Kinderber
+                    <unclear>Anste</unclear><lb break="yes"/>ih bethe alle für 10 Vaterunser so wie für<lb break="yes"/>der
+                herr Dich und Dokte Engelin ich<lb break="yes"/>ich <add place="above"><unclear/></add> werd es nicht aufhoren zu bitten und<lb break="yes"/>um mih
+                zur erlösen liebe Schwest<lb break="yes"/>ich hoffe daß ich jetz bald wieder<lb break="yes"/>der Die kanst Du begreifen Dich<lb break="yes"/>wieder an herz zu
+                drüken du weist<lb break="yes"/>daß mier Imer werst <unclear>mein</unclear>
+<hi rendition="#u">Aller</hi><lb break="yes"/>Du weist daß ich dich von herz liebe<lb break="yes"/>ich ich dich
+                im̄er Bethe.</p><pb facs="#image_002"/>
+<p>Liebe Schweste ich schließe jetz men<lb break="yes"/>Schreiben in der hoffnung
+                daß Du mich<lb break="yes"/>erlöst <seg ana="#salute">Deine Dich liebend
+                    Schwest</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Johan̄a
+                            <surname>W.</surname></seg></hi>
+</p>
+<p>Vertrau dich nur dem Lichte der Stern<lb break="yes"/>Beschleicht dein ein inneres
+                Weh<lb break="yes"/>Gott ist dir nah in weiter Ferne<lb break="yes"/>Wen Mensch
+                fern in nähter näh<lb break="yes"/>hast du Thüren an und dich set<lb break="yes"/>doch ungesehn <unclear>Dand</unclear> von (<add place="above">an</add> der Mensh<lb break="yes"/>sheine als die nie ein Leid geshen<lb break="yes"/>Straft die
+                Welt in Verblendung<lb break="yes"/>wen So sich <w>auf stellen</w> Walder
+                    <unclear>pfa</unclear> die<lb break="yes"/>Muth für Sendung u das es Gott<lb break="yes"/>gab geh wieder rein in dein Zimerl<lb break="yes"/>und beug die
+                vor deinen Gott doch vor<lb break="yes"/><unclear reason="damage">beu te</unclear>
+                ich mir Menshen beug dich nie <add place="margin">nur shliß <unclear>du
+                        thüre</unclear> zu</add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Direktor<surname/></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beschwerden über Direktor, Wärterinnen und das Essen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l15a.jpg" xml:id="image_041"/>
+<graphic mimeType="image/jpg" url="kfb519l15b.jpg" xml:id="image_042"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_041"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p> Wen̄ Hr <hi rendition="#i">Director</hi> zur unerwarteten Zeit kämen<lb break="yes"/>würden Sie von allen 6 Wärterinen da<lb break="no"/>nach keine
+                treffen, − oder alle auf ein Haufen<lb break="yes"/>zusam̄enratschend
+                schwazend oder gar −<lb break="yes"/>tanzend ärger als Narren. </p>
+<p>Je mehr Sie sich Weibsbilder zur <hi rendition="#u">Wohl</hi><lb break="no"/><hi rendition="#u">dienerin</hi> einthun; desto weniger es <handShift medium="pencil" scribe="patient"/><lb break="yes"/>mit der Ordnung u
+                Reinlichkeit u Ruh u desto mehr<lb break="yes"/>Schaden haben die Kranken u die
+                Anstalt die<lb break="yes"/>alles bezahlen u desto weniger den Kranken<lb break="yes"/><hi rendition="#r">gön̄t</hi></p>
+<pb facs="#image_042"/>
+<p><handShift medium="ink" scribe="patient"/> Hr <hi rendition="#i">Director</hi>
+                gön̄en sich alle Genüße u.<lb break="yes"/>Freiheiten u gehen wenigst 100
+                mal<lb break="yes"/>des Jahres in Urlaub aber ich darf nicht<lb break="yes"/>eimal
+                in eine andere Abtheilung ohne Ihre<lb break="yes"/>Rohheiten zu erfahren </p>
+<p><add><handShift medium="pencil" scribe="patient"/>Sorgen Sie für ein Frühstück u.
+                    Abendeßen.<lb break="yes"/>Eine rinder od. Bratwurst oder gute Suppe<lb break="yes"/>da ich zu Hause nicht nur Etwas zu eßen sondern<lb break="yes"/>auch sonst was ich brauch u. bedenken Sie wie<lb break="yes"/>viel durch
+                    Entziehung der Kost getödtet wurden.<lb break="yes"/>Das Vertehen in
+                <unclear>Kost</unclear> wär beßer als unter die <unclear>Korb</unclear></add>
+</p>
+</body>
+</text>
+</TEI>

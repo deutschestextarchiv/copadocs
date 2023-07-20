@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb343r34" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>343</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>R.</surname></persName>
+<date type="sent">22.05.1863</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Notar: <surname>B.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb343r">
+<persName>
+<forename>Johanna</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1871"/>
+<occupation>Professorstochter</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Professor</p>
+<p from="1860" to="1871">Anstalt: 1860-71</p>
+<p from="1860" to="1871">Brieftypen: pp, po</p>
+</state>
+<trait><p>Fixer Wahnsinn (1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Entlassung, da sie ihre Anschuldigungen bereut, weswegen sie in der Anstalt ist;
+                    warnt davor, jmd von dem Brief zu erzählen, da sie ansonsten mit ernsten Konsequenzen rechnen müsste
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb343r34a.jpg" xml:id="image_118"/>
+<graphic mimeType="image/jpg" url="kfb343r34b.jpg" xml:id="image_119"/>
+<graphic mimeType="image/jpg" url="kfb343r34c.jpg" xml:id="image_120"/>
+<graphic mimeType="image/jpg" url="kfb343r34d.jpg" xml:id="image_121"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_118"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Verehrtester Herr Doktor!</hi></salute>
+</opener>
+<p>Meine Freundin schrieb mir nun schon zwei<lb break="no"/>mal daß ich keine
+                Hoffnung habe jemals<lb break="yes"/>mehr aus der Anstalt entlassen zu<lb break="yes"/>werden. Es schmerzt mich das um so<lb break="yes"/>tiefer, da ich
+                dem Herrn Direktor<lb break="yes"/>fortwährend erkläre, daß ich gewiß<lb break="yes"/>meine unbeson̄en Äusserungen über<lb break="yes"/>König und
+                Behörden aufrichtig bereue,<lb break="yes"/>und mich im Falle meiner Entlassung<lb break="yes"/>ganz ruhig verhielte. Wie <del>s</del>Sie ein so<lb break="yes"/>ruhiger und theilnahmsloser Zuschauer<lb break="yes"/>meiner ewigen Haft in Irsee
+                seyn<lb break="yes"/>kön̄en begreife ich gar nicht. <hi rendition="#u">Kom̄en</hi><lb break="yes"/><hi rendition="#u">Sie</hi>
+<hi rendition="#u">Selbst</hi>, und überzeugen Sie<lb break="yes"/>Sich von
+                meinem Zustand, ich bin<lb break="yes"/>ganz <add place="inline">bei</add>
+                Vernunft, bringen Sie mich<lb break="yes"/>nach Dillingen oder in eine andere<lb break="yes"/>Anstalt.</p>
+<p><add hand="arzt">Auf dem Felde in einem<lb break="yes"/>Heuhaufen gefunden.<lb break="yes"/><unclear/></add></p>
+<pb facs="#image_119"/><p>Doch schweigen Sie von diesem Briefe<lb break="yes"/>gegen
+                die Anstalt, und behalten<lb break="yes"/>Sie ihn als Beweis in Händen.<lb break="yes"/>Kom̄en Sie und überzeugen<lb break="yes"/>Sie Sich Selbst.
+                    <seg ana="#salute">Hochachtungsvollst</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#c">Ihre</hi><lb break="yes"/><hi rendition="#r">ergebenste<lb break="yes"/>Johanna
+                            <surname>R.</surname>,<lb break="yes"/>Professors<lb break="no"/>Tochter.</hi></seg></p>
+<p>Irsee, den<lb break="yes"/>22 Mai 1863.</p>
+<p><handShift medium="pencil" scribe="patient"/>Ich bitte Sie nochmals von dem<lb break="yes"/>Empfang dieses Briefes gegen<lb break="yes"/>Jederman̄ zu
+                schweigen, selbst<lb break="yes"/>gegen meine Freundin, den̄ die<lb break="yes"/>ist auch von Spionen umgeben,<lb break="yes"/>und ich würde <hi rendition="#u">fürchterlich</hi><lb break="yes"/>bestraft, wen̄ aufkäme, <pb facs="#image_120"/>daß ich Ihnen
+                schrieb.<lb break="yes"/>Kom̄en Sie und retten<lb break="yes"/>Sie mich von
+                ewiger<lb break="yes"/>Gefangenschaft!</p><pb facs="#image_121"/><p><handShift medium="ink" scribe="patient"/>Sr. Hochwohlgeboren Herrn<lb break="yes"/>Notar
+                    <surname>B.</surname><lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><add>Herzogspitalgasse<lb break="yes"/><space/>
+<hi rendition="#i">N</hi> 9/<unclear>b</unclear></add>
+<hi rendition="#r">München</hi></p>
+</body>
+</text>
+</TEI>

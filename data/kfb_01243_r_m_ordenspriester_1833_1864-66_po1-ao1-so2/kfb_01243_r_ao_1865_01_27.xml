@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1243r01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1243</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: B. <surname>R.</surname></persName>
+<date type="sent">27.01.1865</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Reutte</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1243r">
+<persName>
+<forename>Gregor</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1833"/>
+<death cert="unknown"/>
+<occupation>Ordenspriester der Benediktiner, St. Stephan</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Geburtsort: Schongau; Wohnort: Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: k. Bez. Ger. Dir. Bamberg; zuvor Landrichter in Schongau</p>
+<p from="1864" to="1866">Anstalt: 1864-66</p>
+<p from="1864" to="1866">Brieftypen: po, notizen, ao</p>
+</state>
+<trait><p>Geistesverwirrung, Verfolgungswahn (1864)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erfragt den gesundheitlichen Zustand ihres Bruders. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1243r01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1243r01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Reutte, 27 Jan. 1865.</hi></dateline>
+<salute><hi rendition="#c">Hochzuverehrender Herr!</hi></salute>
+</opener>
+<p><space/> Die Güte, welche Sie mir<lb break="yes"/>Ihr letztes Schreiben nach
+                    Schon<lb break="no"/>gau schicken ließ, gibt mir den<lb break="yes"/>Muth Sie
+                neuerdings zu belästi<lb break="no"/>gen, <w>um so</w> mehr, als Sie mich<lb break="yes"/>in demselben versicherten, daß<lb break="yes"/>Sie jederzeit
+                bereit seien auf<lb break="yes"/>gestellte Anfragen zu antworten. </p><p><space/> Meine Bitte an Sie, hochzu<lb break="no"/>verehrender Herr, ist die, mir<lb break="yes"/>doch bald wissen zu lassen, wie<lb break="yes"/>das Befinden meines Bruders<lb break="yes"/>"Pater Gregor <surname>R.</surname>"<lb break="yes"/>jetzt
+                ist, da mir vorgestern<lb break="yes"/>von zu Hause sehr betrübende <pb facs="#image_002"/>Nachrichten hierüber zuka<del>m</del>men. </p><p><space/> Möge meines armen Bru<lb break="no"/>ders /noch/ Zustand noch so be<lb break="no"/>trübend sein, bitte, lassen<lb break="yes"/>Sie mich die volle Wahrheit<lb break="yes"/>wissen. </p><p><seg ana="#salute"><space/> Ihnen im Voraus für<lb break="yes"/>Ihre gütige Antwort dankend,<lb break="yes"/>bin
+                ich mit ausgezeichneter<lb break="yes"/>Hochachtung<lb break="yes"/><hi rendition="#c">Ihre</hi><lb break="yes"/><hi rendition="#r">ergebenste</hi></seg><hi rendition="#r"><seg ana="#signed"> B. <surname>R.</surname>.</seg></hi></p><p>p. ad Hr. v. <surname>H.</surname><lb break="yes"/><hi rendition="#r">Reutte<lb break="yes"/>Tyrol.</hi>
+</p>
+</body>
+</text>
+</TEI>

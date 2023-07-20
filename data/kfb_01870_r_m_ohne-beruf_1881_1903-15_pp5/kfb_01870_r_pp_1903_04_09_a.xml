@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1870r01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1870</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Max <surname>R.</surname></persName>
+<date type="sent">09.04.1903</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Marie <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1870r">
+<persName>
+<forename>Max</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1881"/>
+<death when="1915"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: <!--Beruf/unehelich/Vermögen--></p>
+<p from="1903" to="1915">Anstalt: 1903-1915</p>
+<p from="1903" to="1915">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Seelenstörung mit Epilepsie (1903)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um ein Taschenmesser
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1870r01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c">Irsee den 9. April 1903.</hi></dateline>
+<salute><hi rendition="#c">Liebe Marie!</hi></salute>
+</opener>
+<p><space/> Ich will dir einen Brief<lb break="yes"/>schreiben. Wie geht es dir. Mir
+                geht<lb break="yes"/>es im̄mer gut, dir geht es gewiß<lb break="yes"/>auch
+                gut. Liebe Marie, ich soll auf<lb break="yes"/>Pfingsten zum Abendmahl gehen. Ich<lb break="yes"/>freue mich sehr darauf. Liebe Marie<lb break="yes"/>ich bitte
+                dich um ein zweifaches<lb break="yes"/>Taschenmesser und 5 Bleistifte, wenn<lb break="yes"/>so gut sein möchtest ich brauche<lb break="yes"/>es. Ich laße auch
+                den Herrn und<lb break="yes"/>die Frau Pfarrer schön grüßen.<lb break="yes"/>Wie
+                geht es Ihnen. Ich laße E Sie<lb break="yes"/>schön grüßen.</p>
+<p><hi rendition="#c">Es grüßt dich vielmals<lb break="yes"/>herzlich dein Bruder</hi><lb break="yes"/><hi rendition="#r"><w>Max imilian</w>
+<surname>R.</surname>.</hi></p>
+</body>
+</text>
+</TEI>

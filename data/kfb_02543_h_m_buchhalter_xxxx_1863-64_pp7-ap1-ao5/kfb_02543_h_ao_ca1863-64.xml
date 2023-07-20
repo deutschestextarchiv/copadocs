@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2543h11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2543</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Nanette <surname>H.</surname></persName>
+<date type="sent">ca1863-64</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>K.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2543h">
+<persName>
+<forename>Wilhelm</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1829"/>
+<death when="1864"/>
+<occupation>Buchhalter, studierte Theologie</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: n.a.</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1863" to="1864">Anstalt: 1863-64</p>
+<p from="1863" to="1864">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"psychische und körperliche Aufregung", "Wahnvorstellungen" (1863)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedauert, dass ihr Sohn erneut, diesmal wegen "Schwermuth" zur Behandlung in die 
+                    Anstalt gebracht werden müsste. Sie weiß ihn dort jedoch gut versorgt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2543h11a.jpg" xml:id="image_039"/>
+<graphic mimeType="image/jpg" url="kfb2543h11b.jpg" xml:id="image_040"/>
+<graphic mimeType="image/jpg" url="kfb2543h11c.jpg" xml:id="image_041"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_039"/>
+<opener>
+<salute><space/> Geehrtester Herr <hi rendition="#i">Director</hi>!</salute>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#i">K</hi><unclear><hi rendition="#i"/></unclear>.</add></add></p>
+<p>Mein unglücklicher Sohn, ist also auf daß neue Jhrer<lb break="yes"/>gütigen
+                Vorsorge anvertraut,, unerwartet, erneuerte sich<lb break="yes"/>sein früheres Übel
+                in einer andern Gestalt, ob leichter zu<lb break="yes"/>heilen, oder schwerer, wird
+                sich erst zeugen, diesmahl ist es mehr<lb break="yes"/>Schwermuth, welche sich erst ein paar Tage vor seiner Abreise<lb break="yes"/>mit Heftigkeit kund gab. Schrecklich ist mir als Mutter<lb break="yes"/>dies schreckliche Leiden,, ich würde mich gar nicht trösten
+                kön̄en<lb break="yes"/>wen̄ er nicht der bekanten
+                menschenfreundlichkeit des Herrn<lb break="yes"/><hi rendition="#i">Directors</hi>
+<w>über geben</w> wär,, Denselben ich also flehentlich bitte<lb break="yes"/><unclear>um</unclear> seine
+                Wohlgewogenheit, und gütige Vorsorge. </p><p>Jch bin so frei, Sie zu bitten, um Nachricht meines Sohnes Befinden<lb break="yes"/>nach einig
+                    Zeit. Sie würden sehr damit verbinden.</p><p><seg ana="#salute"><hi rendition="#c">Euer Wohlgeboren<lb break="yes"/></hi><hi rendition="#r">ergebenste </hi></seg><hi rendition="#r"><seg ana="#signed">Nanette<lb break="yes"/><surname>H.</surname></seg>
+<w>Postamts Kasiers<lb break="yes"/><space/> Wittwe</w>.</hi></p><p><space/> Herr Schwiegersohn <w>Regierungs<lb break="no"/>Rath</w> dessen Gattin auch
+                        De<del><unclear>s</unclear></del><unclear>r</unclear> Bruder<lb break="yes"/>Wilhelms,
+                empfehlen sich Jhnen. </p>
+<pb facs="#image_040"/>
+<p>Bitte diese Zeilen meinen Sohn zu übergeben. </p>
+<pb facs="#image_041"/>
+<p><hi rendition="#c">Dem Wohlgebornen<lb break="yes"/>Herrn <hi rendition="#i">Director</hi> Kinderle.<lb break="yes"/>in</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u">Jrsee</hi></hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

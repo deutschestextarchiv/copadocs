@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2553h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2553</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Sophia von <surname>H.</surname></persName>
+<date type="sent">01.04.1853</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Würzburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2553h">
+<persName>
+<forename>Franz von</forename><surname>H.</surname>
+</persName>
+<birth when="1804"/>
+<death cert="unknown"/>
+<occupation>Apotheker</occupation>
+<residence><geo decls="#WGS">49.79245 9.932966</geo>Würzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1853" to="1855">Anstalt: 1853-55</p>
+<p from="1853" to="1855">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Hypochondrische Verstimmung, Fixe Ideen (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Kündigt die baldige Ankunft des Patienten, ihres Ehemannes, in der Anstalt an und klärt finanzielle Belange. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2553h01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2553h01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Würzburg, d 1 April 1853.</hi></dateline>
+<salute><hi rendition="#c">Geehrtester Herr!</hi></salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#r">pr. 3 April<lb break="yes"/>1853</hi></add></p>
+<p>Jndem ich Jhnen schon im Voraus meinen innigsten<lb break="yes"/>Dank ausspreche
+                für eine liebevolle und freundliche<lb break="yes"/>Aufnahme meines theueren
+                Ehegatten, beeile ich mich,<lb break="yes"/>Sie zu benachrichtigen, daß, nachdem
+                sich die vorgehabte<lb break="yes"/>Last zerschlagen hat, nunmehr derselbe mit
+                seinem traurigen<lb break="yes"/>Zustande so viel möglich vertraut gemacht und über
+                die wohl<lb break="no"/>wollende Absicht, Alles zu seiner Wiedergenesung aufzu<lb break="no"/>bieten, belehrt werden soll: Jch will mich der Hoffnung hinge<lb break="no"/>ben, daß auf solche Weise unter Leitung eines ihm befreun<lb break="no"/>deten Arztes <hi rendition="#i">D</hi><hi rendition="#sup"><hi rendition="#u"><hi rendition="#i">r</hi></hi></hi><hi rendition="#u"><hi rendition="#i"> </hi></hi><surname><hi rendition="#i">H.</hi></surname> die
+                Abreise <del>und</del>
+<del><unclear>l</unclear></del> von hier und die<lb break="yes"/>Ankunft in die
+                Anstalt Jrsee unter Begleitung des Herrn<lb break="yes"/>Rechtspraktikanten
+                    <surname>K.</surname>, eines Mediziners und einer<lb break="yes"/>dritteren Person ruhig und glücklich <w>von Statten</w> gehet. </p><p>Die Abreise von hier ist auf <del>M</del>morgen früh 6 Uhr festgesetzt; sonach<lb break="yes"/>wird nach einmaligem Uebernachten in Schweinfurt oder<lb break="yes"/>Augsburg
+                        di<del><unclear>r</unclear></del>e Ankunft meines Mannes am Sonntag <add place="above">den 3<hi rendition="#sup">t</hi> d<unclear>ss</unclear>
+<unclear>Mts</unclear></add> mit <pb facs="#image_002"/>dem ersten oder zweiten
+                Bahnzuge entgegengesehen<lb break="yes"/>werden dürfen.</p><p><space/> Die vorgeschriebene Urkunde zur Verpflichtung<lb break="yes"/>zum Rückersatze von
+                außerordentlichen Auslagen, sowie zur<lb break="yes"/>Erlegung des <w>Verpflegungs
+                    geldes</w> für die I Klasse wird Herr<lb break="yes"/>Rpr.
+                    <surname>K.</surname> überbringen. Derselbe wird auch die Güte haben<lb break="yes"/>für das I Quartal das Verpflegungsgeld I Classe mit 123fl 12fl<lb break="yes"/>zu erlegen, <w>so wie</w> vorsorglich zur Deckung außerordentlicher<lb break="yes"/>Auslagen 100fl gegen gefällige Abquittirung <del>zu</del> der<lb break="yes"/>Anstalt zur Disposition zu unterstellen. </p><p><space/> Sollte noch <w>irgend Etwas</w> von Belang sein, so bitte ich<lb break="yes"/>solches
+                mir mittheilen zu wollen </p><p><space/> Was an Effekten wegen Erleichterung der Reise den<lb break="yes"/>Kranken oder dessen
+                Begleiter nicht mitgegeben wird; wird<lb break="yes"/>als Frachtgut entweder mit
+                denselben oder doch sehr bald darauf<lb break="yes"/>eintreffen. </p><p><space/> Jch empfehle nochmals meinen theuren Gatten der<lb break="yes"/>eifrigsten Pflege und
+                liebevollsten Behandlung einer der ganzen<lb break="yes"/>Menschheit würdigsten
+                Anstalt und vertraue zuversichtlich Jhrer<lb break="yes"/>ruhmvollen Leitung, daß
+                der edelste Vater seiner Familie,<lb break="yes"/>der theuerste Gatte aber alsbald
+                wieder <del>zum</del> genesen zurückgegeben<lb break="yes"/>werde <seg ana="#salute">seiner sich Jhnen in vollkommener<lb break="yes"/><hi rendition="#c">Hochachtung </hi><lb break="yes"/><hi rendition="#r">empfehlenden, trauernde Gattin </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Sophia v.
+                    <surname>H.</surname>.</seg></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1904s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1904</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine <surname>S.</surname></persName>
+<date type="sent">18.xx.1868</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Base, Bruder, Kinder: Therese <surname>M.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1904s">
+<persName>
+<forename>Wilhelmine</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1830"/>
+<death when="1897"/>
+<occupation>Seifensiedersfrau</occupation>
+<residence><geo decls="#WGS">47.5134055 10.2721524</geo>Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Braumeister</p>
+<p from="1857" to="1897">Anstalt: 1857-97</p>
+<p from="1857" to="1897">Brieftypen: pp, ao</p>
+</state>
+<trait><p>fixe Ideen, Tobsucht, [Verfolgungswahn] (1857, 1865)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie fragt wegen Briefen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1904s04a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb1904s04b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">S 18. Irrsee d. 18 Ia 1868
+                        I.</hi></hi></dateline>
+<salute><hi rendition="#r">Liebe Jm Fraulein <hi rendition="#i">Rose
+                                <surname>M.</surname></hi><lb break="yes"/>Bäschen Lieben Bruder l. Kinder!</hi></salute>
+</opener>
+<p>Ich danke Euch der freundlichen Nachrichten<lb break="yes"/>Alle in bester
+                Gesundheit <w>zu</w><w>wissen</w>.<lb break="yes"/>Wie ich höre sind Sie wie mein
+                    <hi rendition="#i">l Sohn<lb break="yes"/>Eduart</hi>
+<surname>B.</surname> zimlich Beschäftigt<lb break="yes"/>Bitte übrige Zeit L
+                Kinder s. Küche<lb break="yes"/>Hauswesen Küche sich Wiedmen Fraulein<lb break="yes"/>Base auch unter Dessen.</p>
+<p>Mein <hi rendition="#i">Sohn</hi> Bruder Benachrichet von den 3 Beträg<lb break="yes"/><hi rendition="#i">Januar-Mai</hi> erst ein Brief abgeben nach 3 Monte<lb break="yes"/>es wär Ihnen lieb wen der Post Eingesendt<lb break="yes"/>würde
+                Welchen Betrag 200 f ist 3 Posten<lb break="yes"/>ist. Was das nothwendigste ist
+                bitte nach<lb break="yes"/>14 Tag zuberichten, werde ich Euch die Erlaubniß<lb break="yes"/>geben Zu bestellen. Die 3 Posten sch. Besorgt.<lb break="yes"/>mein l. Sohn <hi rendition="#i">E.</hi> Bruder noch was Mittheilen.<lb break="yes"/><add place="margin"><hi rendition="#r">Es grüßt Euch freundlich vielmals <hi rendition="#i">Frau</hi> Wilhelmine <hi rendition="#i">S. von</hi></hi><lb break="yes"/><hi rendition="#i">Sonthofen. <space/> No 1. Geschäft &amp;
+                        Economie</hi> Besitzerin. <space/>
+<hi rendition="#i">von<lb break="yes"/><hi rendition="#r"><surname>S.</surname> geb.
+                        <surname>K.</surname></hi></hi></add></p>
+<pb facs="#image_012"/>
+<p><hi rendition="#r"><hi rendition="#i">Fräulein</hi></hi><lb break="yes"/><hi rendition="#i">Fräulein Terese <surname>M.</surname></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Sonthofen</hi><lb break="yes"/>Kempten.</hi></hi><lb break="yes"/><hi rendition="#u"><hi rendition="#i">franco</hi></hi>. gegen Schein.</p>
+</body>
+</text>
+</TEI>

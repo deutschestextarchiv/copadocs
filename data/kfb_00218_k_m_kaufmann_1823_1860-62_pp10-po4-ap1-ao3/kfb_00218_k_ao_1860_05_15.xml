@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb218k17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>218</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elise <surname>K.</surname></persName>
+<date type="sent">15.05.1860</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwalter: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kempten</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb218k">
+<persName>
+<forename>Ernst</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1823"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1860" to="1862">Anstalt: 1860-1862</p>
+<p from="1860" to="1862">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Geisteswahn (1862)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin sendet Wäsche und Kleidung für ihren Ehemann.
+                    Sie informiert den Adressaten außerdem, dass sie bemerkt hat, dass ihr Mann unerlaubt Geld bei sich hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb218k17.jpg" xml:id="image_074"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_074"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">K</hi>empten den 15 <hi rendition="#i">Maj</hi> 1860.</hi></dateline>
+<salute><hi rendition="#c">Seiner Wohlgeboren Herren Verwalter! </hi></salute>
+</opener>
+<p><add hand="hand3" place="top"><hi rendition="#c">4</hi></add></p>
+<p><add hand="hand2" place="top"><hi rendition="#r">pr. 18 <unclear>M</unclear>ai</hi></add></p>
+<p><add hand="hand3" place="top"><hi rendition="#r">2906</hi></add></p>
+<p><space/> Ich erlaube mir Ihnen die Wäsche und Kleidungsst<unclear>ücke</unclear><lb break="yes"/>meines Man̄es zu übersenden. Indem ich Ihnen sowie
+                    de<unclear>m</unclear><lb break="yes"/>verehrten Herren <hi rendition="#i">Direcktor</hi>, für Ihre
+                herzliche und freundliche<lb break="yes"/>Aufnahme recht in̄ig danke, bitte
+                ich Sie noch einmal sich des a<unclear>rmen</unclear><lb break="yes"/>Kranken anzunehmen.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Mit aller Hochachtung zeichnet </seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Elise
+                                <surname>K.</surname></hi></seg>.</hi></p>
+<p><space/> Ich habe bey meiner <w>nach Hausekunft</w>
+<del>g</del>bemerkt, daß mein lb. Man̄<lb break="yes"/>etwas Geld bey sich
+                behalten hat. Sie sagten mir, es sey nicht ge<lb break="no"/>duldet, daß Krank
+                welches bey sich haben, allein ich wußte es nicht,<lb break="yes"/>und bitte Sie
+                daher, wen̄ es bey ihm gefunden wird, zu Handen<lb break="yes"/><unclear>z</unclear>u nehmen. <hi rendition="#c"><hi rendition="#u">Obige</hi></hi>
+</p>
+<p><add hand="hand2"><hi rendition="#i">fiat</hi>
+<hi rendition="#i">N</hi>achfrage wegen Geld. G. 4f 52x eingeliefert</add></p>
+<p><add hand="hand3">Die Verzeichnung der Effekten befindet sich<lb break="yes"/>auf
+                    dem Aufnahmsprotocolle.</add></p>
+</body>
+</text>
+</TEI>

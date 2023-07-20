@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2882f02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2882</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>F.</surname></persName>
+<date type="sent">13.05.1884</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Unterofizier: Karl <surname>R.</surname></persName>
+<settlement type="sent">Ingolstadt</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2882f">
+<persName>
+<forename>Karl</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1849"/>
+<death when="1924"/>
+<occupation>Müllermeister, Soldat Infantrie (ausgebildeter Gemeiner)</occupation>
+<residence><geo decls="#WGS">48.5733342 10.8365563</geo>Westendorf, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonom</p>
+<p from="1884" to="1924">Anstalt: 1884-1924</p>
+<p from="1884" to="1924">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistige Verrücktheit, Halluzinatorische Verwirrtheit, religiöser und Beschenkungswahn, fixe Ideen (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Aufzählung von Namen und Posten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2882f02a.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb2882f02b.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline>Ingolstadt ten 13 Mäi <hi rendition="#i">F</hi>elir Jahr 1884</dateline>
+<salute><hi rendition="#r"><surname>F.</surname> Wachmeister;</hi><lb break="yes"/>Herr Unterofiezür Karl<lb break="yes"/><surname>R.</surname></salute>
+</opener>
+<p>
+Bulfermaguzins Wacht<lb break="yes"/>Kottau Ingolstadt : Schau<lb break="yes"/><w>König lich</w> Xaver <surname>H.</surname><lb break="yes"/>mit Masuser Gewehr<lb break="yes"/>Num̄er 81 Postan fun<lb break="yes"/>Ganze Wacht Auf, Nacht<lb break="yes"/>Bostan Anstand Looß,<lb break="yes"/>Scharf geschitz t 3 sig<lb break="yes"/>scharfe Batrun̄an ein<lb break="yes"/>Basird im Wachlokalh<lb break="yes"/>zu Kottau Geschlosen<lb break="yes"/>Busen Enladen<lb break="yes"/>scharfen Forsatz!, </p>
+<p><hi rendition="#r">Frage Ritmeister<lb break="yes"/><surname>G.</surname>:</hi>
+<pb facs="#image_003"/>
+Georg <surname>V.</surname> 1<lb break="yes"/>Moritz <surname>G.</surname> 2<lb break="yes"/>Xaver <surname>H.</surname> 3<lb break="yes"/>Herr Unterofiezür Karl;<lb break="yes"/><surname>R.</surname><lb break="yes"/><hi rendition="#c">Nacht Wacht</hi><lb break="yes"/>Joseph <surname>h.</surname> 1<lb break="yes"/>Karl <surname>F.</surname> 2<lb break="yes"/>Bulfermaguzins Wacht Kottau<lb break="yes"/><hi rendition="#c">Ingolstadt!</hi></p>
+<p>trei Frage<lb break="yes"/>Unterschrift Xaver <surname>H.</surname><lb break="yes"/>Katholische Wacht Kottau </p>
+<p>Schur Reiter<lb break="yes"/><surname>G.</surname><lb break="yes"/>Kurß,s trei Frage;
+</p>
+</body>
+</text>
+</TEI>

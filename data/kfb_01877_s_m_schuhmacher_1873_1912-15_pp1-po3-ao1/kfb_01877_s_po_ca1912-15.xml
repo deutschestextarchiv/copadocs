@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1877s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1877</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>S.</surname></persName>
+<date type="sent">ca. 1912-1915</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1877s">
+<persName>
+<forename>Karl</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1873"/>
+<death when="1915"/>
+<occupation>Schuhmacher/Musiker</occupation>
+<residence><geo decls="#WGS">47.6413744 10.8275033</geo>Trauchgau, Füssen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1912" to="1915">Anstalt: 1912-1915</p>
+<p from="1912" to="1915">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>progressive Paralyse als Folge einer luetischen Infektion (1939) </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Möchte Freigang, um bei der Anstaltsköchin Berta zu schlafen, mit der er anscheinend eine Affäre hat. Möchte sie anstatt seiner Frau heiraten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1877s04a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb1877s04b.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Wohlgebr Herr Direktor!</hi></hi><lb break="yes"/></salute>
+</opener>
+<p> Ich möchte Sie freundlichst Ersuchen<lb break="yes"/>mich in die klgl <hi rendition="#i">Direktion</hi> vor<lb break="yes"/>kom̄en lassen. Ich
+                hätte Lust<lb break="yes"/>dem H <hi rendition="#i">Direktor</hi> seine Ausgehen<lb break="yes"/>machen, ich hätte dan mehr <w>Zerr<lb break="yes"/>streuung</w>
+                und dan könte ich bei<lb break="yes"/>Ihrer Frl Köchin Berta schlafen.<lb break="yes"/>Es ist hart für einen jungen<lb break="yes"/>Man̄
+                wen̄ er keinen Ausgang hat<lb break="yes"/>Lieber währ es mir freilich
+                    wen̄<lb break="yes"/>ich entlasse wede ich würde dan̄<lb break="yes"/>die Berta mit heimnehen und<lb break="yes"/>dan̄ liesen
+                wir uns wie mitein<lb break="no"/>andr traun, weil mein Frau<lb break="yes"/>Hebam̄e ist so brauch ich die Berta<lb break="yes"/>als Köchin <seg ana="#salute">Achtungsvollst<lb break="yes"/><hi rendition="#c">Grüsst </hi><seg ana="#signed"><hi rendition="#i"><surname>S.</surname> A I</hi></seg></seg></p>
+<pb facs="#image_011"/>
+<p><add hand="unbekannt">Herrn <hi rendition="#i">Karl <surname>S.</surname></hi>;<lb break="yes"/>Heil u. Pflegeanstalt<lb break="yes"/><hi rendition="#u">Kaufbeuren.</hi><lb break="yes"/>frei.</add><lb break="yes"/>Zuerst fahren wen<lb break="yes"/>in Deine Heimat<lb break="yes"/>Grus u
+                        Kus<lb break="yes"/>Dein<lb break="yes"/>Man̄<lb break="yes"/>Karl.</p>
+<p><hi rendition="#i">Mein Lieber Schatz Bertha!</hi> Ich würde mich<lb break="yes"/>riesig freuhn wen̄ Du mich einmal besuchen<lb break="yes"/>würdest
+                    ich habe ein verlangen nach dir liebe Bertha<lb break="yes"/>daß ich es Dir gar
+                    nicht sagen kan̄<lb break="yes"/><space/> Ich kan̄ Dir viel erzählen<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Nebst Grus</seg><lb break="yes"/><seg ana="#signed"> Dein treuer Karl.</seg></hi></p>
+<p>Frl.<lb break="yes"/><hi rendition="#i">Bertha</hi><lb break="yes"/>Köchin
+            </p>
+</body>
+</text>
+</TEI>

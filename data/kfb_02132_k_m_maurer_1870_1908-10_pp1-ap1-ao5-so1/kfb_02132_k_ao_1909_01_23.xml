@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2132k07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2132</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>K.</surname></persName>
+<date type="sent">23.01.1909</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2132k">
+<persName>
+<forename>Josef</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1870"/>
+<death when="1910"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">48.6147593 10.7211365</geo>Pfaffenhofen a. d. Zusam, Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1908" to="1910">Anstalt: 1908-1910</p>
+<p from="1908" to="1910">Brieftypen: pp, ao, ap</p>
+</state>
+<trait><p>Pr[ogressive] Par[alyse]  (1909)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="ehefrau"/>
+<handNote medium="typewriter" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin bittet um Auskunft über ihren Mann.
+                    Sie berichtet, dass sie wegen ihrer Füße drei Wochen zu Hause war.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2132k07a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb2132k07b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#c">Augsburg d. 23. Januar 1909.</hi></dateline>
+<salute><hi rendition="#c">Geehrtester Direcktor!</hi></salute>
+</opener>
+<p> Indem ich noch keine Antwort<lb break="yes"/>bekom̄en hab schreiben Sie mir
+                doch wie es mit den Mann<lb break="yes"/><add place="margin">geht Ich war jetzt
+                    drei Wochen daheim<lb break="yes"/>wegen die Füße</add><lb break="yes"/><add place="top"><seg ana="#salute">Es grüßt euch bestens</seg>
+<seg ana="#signed">Marie <surname>K.</surname></seg>.</add>
+</p>
+<pb facs="#image_010"/>
+<p> Absd. Frau M. <surname>K.</surname> Fabrikarbeiterin Schwibbogengaße
+                405/6<lb break="yes"/><hi rendition="#c">in Augsburg.</hi></p>
+<p><handShift medium="typewriter" scribe="hand2"/><hi rendition="#c">Postkarte </hi><lb break="yes"/>An<lb break="yes"/><handShift medium="pencil" scribe="ehefrau"/>Die königliche Direcktion<lb break="yes"/>der Heil und Pflegeanstalt<lb break="yes"/><handShift medium="typewriter" scribe="hand2"/>in <handShift medium="pencil" scribe="ehefrau"/>Kaufbeuern.<lb break="yes"/><handShift medium="typewriter" scribe="hand2"/>Wohnung<lb break="yes"/>(Strasse und
+                Hausnummer)</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb259k09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>259</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph <surname>K.</surname></persName>
+<date type="sent">ca1854-59</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Königliche Familie: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb259k">
+<persName>
+<forename>Joseph</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1801"/>
+<death cert="unknown"/>
+<occupation>Seifen- und Lichterfabrikant</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1854" to="1859">Anstalt: 1854-59</p>
+<p from="1854" to="1859">Brieftypen: pp,po,ao</p>
+</state>
+<trait><p>Confusio Idearum, Wahnvorstellungen (1854)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Unverständliche Bitte an die Königsfamilie
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb259k09a.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#i">N:</hi><unclear>h</unclear>: Unterzeichneter bittet um Entschl:<lb break="yes"/>daß mein treuer, Aufmecksam̄er Kam<lb break="no"/>merdiener; einstiger <hi rendition="#i">Jungker</hi> bin<lb break="yes"/>den
+                Königl: K: Ganden das K.b: <unclear>Trive</unclear><lb break="yes"/>Staadts Siegel bei seite gelegt<lb break="yes"/>hat<lb break="yes"/><hi rendition="#c"><seg ana="#signed">J K<lb break="yes"/><hi rendition="#u"><unclear/></hi></seg></hi>
+</p>
+<p><hi rendition="#r">An</hi><lb break="yes"/>die königl: Baier: <hi rendition="#i">Famielie</hi><lb break="yes"/>in<lb break="yes"/>d:K:B: Haupt- &amp; <hi rendition="#i">Residentz Stadt</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u"><hi rendition="#i">München.</hi></hi></hi></p>
+<p>Eigenhändig<lb break="yes"/>zu übergeben<lb break="yes"/><hi rendition="#i">K</hi>
+<hi rendition="#u">in <hi rendition="#i">Irrsee.</hi></hi></p>
+</body>
+</text>
+</TEI>

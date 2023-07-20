@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb882h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>882</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Theodor <surname>H.</surname></persName>
+<date type="sent">ca. 1880-87</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Waldstetten</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb882h">
+<persName>
+<forename>Theodor</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1850"/>
+<death when="1887"/>
+<occupation>Postassistent</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>Waldstetten, Günzburg; Wohnort: München</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonomen</p>
+<p from="1880" to="1887">Anstalt: 1880-87</p>
+<p from="1880" to="1887">Brieftypen: pp, po, ao, Lebenslauf</p>
+</state>
+<trait><p>Choreatische Manie (1883)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber überbringt seiner Mutter Glückwünsche zum neuen Jahr und zu ihrem Namenstag.
+                    Er hofft, dass sie sich bald wieder sehen und sie ihn abholen lässt.
+                    Er ist Gott und Maria dankbar und hofft, mit deren Hilfe wieder gesund zu werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb882h02.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den, 5 Januar<lb break="yes"/>1886.</hi></dateline>
+<salute><hi rendition="#c">Liebe Mutter!</hi></salute>
+</opener>
+<p> Ich wünsche Euch zum neuen<lb break="yes"/>Jahre u. zu Eurem Namens<lb break="no"/>tage Alles erdenkliche u. mögliche<lb break="yes"/>Gute, Gesundheit,
+                langes <w>Leben</w><w>u.</w><lb break="yes"/>den Him̄el, desgleichen
+                    meinen<lb break="yes"/>Geschwisterten. Wen̄ ich wieder<lb break="yes"/>besser werde, hoffe ich Euch auch<lb break="yes"/>wieder zu sehen u. möget Ihr
+                    mich<lb break="yes"/>den̄ wen̄ ich es Euch sagen lasse<lb break="yes"/>mit Fuhrwerk ab. Bei mir sind<lb break="yes"/>Jesus u. Maria, denen
+                ich stündlich<lb break="yes"/>für ihre Hilfe danken möchte. Durch<lb break="yes"/>Gott Vaters Beistand u. ihre Mitwirkung<lb break="yes"/>hoffe ich gesund zu werden
+                    <seg ana="#salute">Indem<lb break="yes"/>ich Euch nochmals u. meine
+                        Geschwisterte<lb break="yes"/>grüße, wie Euch Gott Vater, Jesus u.<lb break="yes"/>Maria grüßen bin ich<lb break="yes"/><hi rendition="#r">Euer
+                            dankbarer<lb break="yes"/>Sohn u Bruder</hi><lb break="yes"/><seg ana="#signed">Theodor</seg>.</seg></p>
+</body>
+</text>
+</TEI>

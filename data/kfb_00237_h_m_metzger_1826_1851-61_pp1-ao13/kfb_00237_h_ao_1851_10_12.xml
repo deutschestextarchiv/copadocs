@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb237h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>237</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Anton <surname>H.</surname></persName>
+<date type="sent">10.10.1851</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Weißenhorn</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb237h">
+<persName>
+<forename>Michael</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1861"/>
+<occupation>Metzger und Bräugeselle</occupation>
+<residence><geo decls="#WGS">48.3044877 10.1601492</geo>Weißenhorn</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Wirt</p>
+<p from="1851" to="1861">Anstalt: 1851-61</p>
+<p from="1851" to="1861">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Trunkfälliger Wahnsinn (1851)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="verwaltung"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schickt eine Zahlung und fragt nach dem Befinden seines Bruders.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb237h02.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline><hi rendition="#r">Weißenhorn <hi rendition="#sup">den</hi> 12 Otb 1851</hi></dateline>
+<salute><hi rendition="#c">Werthester Herrn, </hi></salute>
+</opener>
+<p><add hand="verwaltung"><add place="top"><hi rendition="#c"><hi rendition="#u">5</hi></hi></add></add></p>
+<p><add hand="verwaltung"><hi rendition="#r"><hi rendition="#i">preuh</hi>: 15 Oktbr 1851<lb break="yes"/>204</hi></add></p>
+<p>Sie werden mir nicht ih<unclear>n</unclear> übel nehmen, daß<lb break="yes"/>jch
+                das Geld nicht früher geschückt habe.</p><p>Jndem jch glaubte das ein schreiben kome,<lb break="yes"/>wegen sonstige <w>aus lagen</w>, jch
+                Schücke daher<lb break="yes"/>36 Gulden, ven was fehlen sollte so habens<lb break="yes"/>die Güte und machen mir zu wissen;</p><p>Auch bitte jch Jhnen Sie möchten mir mit der<lb break="yes"/>Quittung, ein Paar Zeilen Schreiben
+                wie es<lb break="yes"/>Bei meinen Bruder geht, </p><p><hi rendition="#r"><seg ana="#salute">Euer unterthätiger Diener<lb break="yes"/></seg><seg ana="#signed">Anton <surname>H.</surname></seg></hi></p><p><add hand="verwaltung"><hi rendition="#c">Am 16 Oktbr 1851</hi><lb break="yes"/><hi rendition="#u">Zurück:</hi><lb break="yes"/>Mit Ihrer Zuschrift vom 12: d. Mts. haben Sie für Jhren<lb break="yes"/><space/> Herrn Bruder 36fl übermacht. Da nun aber<lb break="yes"/>der Verpflegsbetrag 36fl 30<unclear><hi rendition="#i">x</hi></unclear> mitzu<unclear>schort</unclear> so sind<lb break="yes"/>die noch fehlenden 30<unclear>x</unclear> umgehend frankirt einzusenden.<lb break="yes"/>Wenn Sie bey dieser Gelegenheit ein paar Gulden zur <hi rendition="#i">Disposition</hi><lb break="yes"/>stellen wollten, wäre es vielleicht sachgemäß.
+                        A<unclear>chten</unclear>
+</add></p>
+</body>
+</text>
+</TEI>

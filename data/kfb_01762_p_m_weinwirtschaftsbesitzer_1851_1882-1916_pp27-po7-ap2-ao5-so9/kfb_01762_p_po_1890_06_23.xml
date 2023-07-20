@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1762p12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1762</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Philipp <surname>P.</surname></persName>
+<date type="sent">23.06.1890</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Polizeidirektion in Basel: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1762p">
+<persName>
+<forename>Philipp</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1916"/>
+<occupation>Weinwirtschaftsbesitzer</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Kitzingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n. a. </p>
+<p from="1882" to="1916">Anstalt: 1882-1916</p>
+<p from="1882" to="1916">Brieftypen: pp, po</p>
+</state>
+<trait><p>Tobsucht (1874, 1881), Depression (1881, 1882-1895), Manie (1882), circulärer Irrsinn (1882-1895)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Anfrage für Adresse von Auswandereradresse
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1762p12a.jpg" xml:id="image_038"/>
+<graphic mimeType="image/jpg" url="kfb1762p12b.jpg" xml:id="image_039"/>
+<graphic mimeType="image/jpg" url="kfb1762p12c.jpg" xml:id="image_040"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_038"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg</hi> d 23 <hi rendition="#i">Juni</hi><lb break="yes"/>1890.</hi></dateline>
+<salute><hi rendition="#r"><hi rendition="#i">An die hochwohl</hi><lb break="no"/><hi rendition="#i">löbliche Polizei</hi><lb break="no"/><hi rendition="#i">Direcktion in Basel </hi><lb break="yes"/><hi rendition="#i">E Hochwohlgeb:</hi></hi></salute>
+</opener>
+<p>Wollen die Güte haben<lb break="yes"/>&amp; mir mitheilen ob sich der<lb break="yes"/>Auswanderer <hi rendition="#i">Agent<lb break="yes"/><surname>W.</surname></hi> früher Plan<lb break="no"/>tagenbesitzer in <w><hi rendition="#i">Süd Amerika</hi></w><lb break="yes"/>noch an dortigen Platz befin<lb break="no"/>det im falle nicht
+                bitte um<lb break="yes"/>der <hi rendition="#i">Adresse</hi> von dessen Buch<pb facs="#image_039"/><hi rendition="#i">Correspondentin</hi>. Einer<lb break="yes"/>mittelgroßen Schwarzen Dame<lb break="yes"/>mit blauen Augengläsern<lb break="yes"/>1 <hi rendition="#i">Haus</hi>knecht war auch <w>an<lb break="no"/>wesend</w>. Ich fuhr nehmlich<lb break="yes"/>Mitte <hi rendition="#i">September</hi> 1883<lb break="yes"/>Nach <hi rendition="#i">Sct Louis</hi>
+                &amp; ging bei<lb break="yes"/>Ihm mit 10000. <hi rendition="#i">franc</hi> in der<lb break="yes"/>Unfallversicherung, erkrankte<lb break="yes"/>aber auf der <hi rendition="#i">See</hi> zwischen<lb break="yes"/><hi rendition="#i">England</hi>
+                &amp; <hi rendition="#i">New York</hi> &amp;<lb break="yes"/>vurde redur geliefert<lb break="yes"/>Meine frau erhielt 1 Post<lb break="no"/>karte von Ihm zugesand<lb break="yes"/>Wo Er Ihr anzeigte daß ich <pb facs="#image_040"/>auf <hi rendition="#i">Hochsee</hi> erkrankt<lb break="yes"/>sei aber sonst keinen<lb break="yes"/>Buchstaben derzeit<lb break="yes"/>Bitte um <hi rendition="#i">Aus</hi>kunft<lb break="yes"/>&amp; Nachnahme der Kosten </p><p><hi rendition="#c"><seg ana="#salute">Hochachtungsvollst</seg><seg ana="#signed"><lb break="yes"/><hi rendition="#i">Ph. </hi><surname><hi rendition="#i">P.</hi></surname></seg>
+<hi rendition="#i">T</hi> 373<lb break="yes"/><hi rendition="#i">hlg Kreuzstraße
+                        </hi><lb break="yes"/><hi rendition="#i">Augsburg.</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

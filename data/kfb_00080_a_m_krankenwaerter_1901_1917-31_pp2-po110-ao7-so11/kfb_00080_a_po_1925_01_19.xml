@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a121" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">19.01.1925</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat, Dr. Berg</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt"/>
+<handNote medium="pencil_grey" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Er bittet um Schreibarbeiten, um sich von seinen Gedanken abzulenken.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a121.jpg" xml:id="image_096"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_096"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#r">19.I<lb break="yes"/>25</hi></add></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr Ober-Medizinalrat,<lb break="yes"/>&amp;. Herr Doktor <hi rendition="#i">Berg</hi>!</hi></salute>
+</opener>
+<p><space/> Ich bitte Sie höflichst, erlösen <del>i</del> Sie mich von<lb break="yes"/>der verfluchten inneren religiösen Unruhe, durch<lb break="yes"/>Schreibarbeiten. Als ich in letzter Zeit schrieb, war<lb break="yes"/>die Unruhe
+                nicht so arg, als jetzt. Jetzt hab ich<lb break="yes"/><unclear reason="damage"/>
+                wen̄ ich<lb break="yes"/>wa<hi rendition="#u" style="hand3">ch bin, nur
+                    gotteslästerliche verfluchte Gedan</hi>ken<lb break="yes"/><hi rendition="#u" style="hand3">im Kopf, die ich nicht haben will; das</hi>
+bringt mich so<lb break="yes"/>auseinander, daß ich viel über
+                    Selbstmord nachstudie<lb break="no"/>re, &amp;. mir das Leben nicht mehr
+                    gefällt. Sorgen Sie bitte,<lb break="yes"/>daß ich von der Kanzlei
+                Schreibarbeit heraufgeschickt be<lb break="no"/>kom̄e, wo ich fortwährend
+                Schreiben kan̄. Das hilft mir viel.<lb break="yes"/>Geben Sie mir bitte alle
+                2 Tage 1 <seg ana="#med">Veronal</seg> od. Schlaftrunk.<lb break="yes"/>i Ich will
+                mein Leiden mit Geduld aushalten &amp;. mich beherrschen.<lb break="yes"/><space/>
+<seg ana="#salute">Es grüßt Sie höflichst</seg>
+<hi rendition="#u"><hi rendition="#i"><seg ana="#signed">Hans
+                                <surname>A.</surname>.</seg>
+</hi>Helfen Sie mir bi<unclear reason="damage"/></hi></p>
+</body>
+</text>
+</TEI>

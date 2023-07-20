@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2950r27" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2950</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">n.a. <surname/></persName>
+<date type="sent">14.07.1936</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Magdalena
+                    <surname>R.</surname></persName>
+<settlement type="sent">Ottenau</settlement>
+<settlement type="received">Irsee</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2950r">
+<persName>
+<forename>Magdalena</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1887"/>
+<death cert="unknown"/>
+<occupation>Dienstmädchen</occupation>
+<residence><geo decls="#WGS">47.6988348 10.321779800598831</geo>Kottern/Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Schuhmacher</p>
+<p from="1923" to="1936">Anstalt: 1923-36</p>
+<p from="1923" to="1936">Brieftypen: pp,po,ap</p>
+</state>
+<trait>
+<p>[Suizidalität], Verfolgungswahn (1923), Versündigungsideen,
+                            Sinnestäuschungen, Willensstörungen (1828-36)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="nichte"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain> privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Die Schwester der Patientin verspricht letzterer, sie aus der Anstalt zu
+                    holen. Brief von Nichte geschrieben. </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2950r27a.jpg" xml:id="image_078"/>
+<graphic mimeType="image/jpg" url="kfb2950r27b.jpg" xml:id="image_079"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_078"/>
+<opener>
+<dateline><hi rendition="#r">Ottenau, den 14. VII. 36</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#u">Liebe Leni!</hi></hi></salute>
+</opener>
+<p><space/> Ich schicke Dir mit<lb break="yes"/>dem heutigen Datum ein<lb break="yes"/>Paket, und hoffe daß Du<lb break="yes"/>daselbe auch erhältst. Eine<lb break="yes"/>Bitte. <hi rendition="#u" style="arzt">Die Sachen gehören<lb break="yes"/>aber Dir u. hoffe nicht daß<lb break="yes"/>Du nur einen
+                    Bissen davon<lb break="yes"/>hergibst.</hi> Schreibe sofort Antwort<lb break="yes"/>wenn Du es erhalten hast. Wir<lb break="yes"/><hi rendition="#u" style="arzt">werden sofort Schritte unter<lb break="no"/>nehmen, damit Du
+                        hierher<lb break="no"/>kom̄st. Es soll sich ja niemand<lb break="yes"/>einbilden, daß Du allein<lb break="yes"/>auf dieser Welt
+                    stehst.<lb break="yes"/>Schreibe sofort wie die Be<lb break="no"/>handlung ist.
+                    Seit zwei<lb break="yes"/>Jahren bin ich Frauenschaftsleiterin<lb break="yes"/>u werde für das Nötige<lb break="yes"/>dan̄ sorgen.</hi> Ich werde
+                mich<lb break="yes"/>jetzt sofort an Herrn Oberme<lb break="no"/>dizinalrat Maier
+                    <add place="above">wenden</add>, damit du<lb break="yes"/>ja gut behandelt
+                wirst. </p>
+<pb facs="#image_079"/>
+<p><add place="top">Sei unbesorgt. Bald wirst Du in unsrer Mitte sein.</add>
+</p><p><hi rendition="#c">Dominik <surname>H.</surname><lb break="yes"/>Ottenau i. Murgtal<lb break="yes"/>Blücherstr. 13</hi></p><p>Auf frohes baldiges<lb break="yes"/>Wiedersehn deine<lb break="yes"/><hi rendition="#c">Schwester u.<lb break="yes"/>Schwager<lb break="yes"/>Dominik<lb break="yes"/>Tochter Marie,<lb break="yes"/>u. Willi.<lb break="yes"/>Viele Grüße von </hi><lb break="yes"/>Schwiegersohn Hans<lb break="yes"/>Familie
+                    <surname>M.</surname><lb break="yes"/><surname>S.</surname> u. <surname>B.</surname>
+</p>
+<p>Frl.<lb break="yes"/>Leni <surname>R.</surname><lb break="yes"/>Irsee<lb break="yes"/>Allgäu</p>
+</body>
+</text>
+</TEI>

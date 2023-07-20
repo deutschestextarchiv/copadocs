@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb536r16" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">n.a. <surname/></persName>
+<date type="sent">07.12.1870 </date>
+<date type="received">n.a. </date>
+<persName type="addressee">n.a. <surname>n.</surname></persName>
+<settlement type="sent">Augsburg </settlement>
+<settlement type="received">n.a. </settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb536r">
+<persName>
+<forename>Josef</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1826"/>
+<death when="1873"/>
+<occupation>Eisenbahnexpeditor, Zuchthaussträfling</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Simmerberg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1872" to="1873">Anstalt: 1872-73</p>
+<p from="1872" to="1873">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Melancholie (1872)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="hand1"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Verfasser sendet dem Empfänger des Briefes das Geld zu, um das er von ihm gebeten wurde.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb536r16a.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="kfb536r16b.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_028"/>
+<opener>
+<dateline><hi rendition="#r">Augsb. 7. Dez. 70. </hi></dateline>
+<salute><unclear>P. P.</unclear></salute>
+</opener>
+<p>Auf Jhre an mich gerichtete<lb break="yes"/>Bitte übersende ich Jhnen<lb break="yes"/>zu dem bezeichneten Zweck<lb break="yes"/><add place="margin">%</add> ein<unclear>e</unclear>
+<unclear>Subleration</unclear> von zehen<lb break="yes"/>Gulden mit der bitte,
+                mich,<lb break="yes"/>der ich das Meinige ungeachtet<lb break="yes"/>der
+                bittersten Erfahrungen<lb break="yes"/>gethan zu haben glaube, Jhrer<lb break="yes"/>mir gegebenen Versicherung<lb break="yes"/>gemäß nicht weiter zu<lb break="yes"/>behelligen. </p><p>Welch tiefen Eindruck Jhre<pb facs="#image_029"/>Lage auf mich gemacht,<lb break="yes"/>kan̄  ich
+                        nicht ausdrücken.<lb break="yes"/><seg ana="#salute">Gott sey mit Jhnen! </seg><lb break="yes"/><hi rendition="#c">Jhr</hi></p><p><add place="margin">%</add><hi rendition="#c"> Ich bitte um Bestätigung<lb break="yes"/>des
+                    Empfangs anliegender<lb break="yes"/>Gabe.</hi>
+</p><p><hi rendition="#r">Sie bedauernder <unclear>A</unclear>,<lb break="yes"/><seg ana="#signed"><unclear><hi rendition="#i">R</hi></unclear></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1822a02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1822</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>A.</surname></persName>
+<date type="sent">18.07.1889</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: n.a. <surname>W.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1822a">
+<persName>
+<forename>Johann</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1859"/>
+<death cert="unknown"/>
+<occupation>Zimmermann</occupation>
+<residence><geo decls="#WGS">48.5209801 10.5593511</geo>Eppisburg, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Söldner, Zimmermann</p>
+<p from="1885" to="1893">Anstalt: 1885-93</p>
+<p from="1885" to="1893">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Geistesstörung (1889), Gewalthätigkeit (1885)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte nach Hause und selbst verdienen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1822a02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1822a02b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline>Irsee den 18 Juli 1889</dateline>
+<salute>An die Gemdeverwaltig Eppislurg</salute>
+</opener>
+<p> Setze Euch in könntnis das ich am<lb break="yes"/>16 Jlei einen besuch gehabt habe Sie<lb break="yes"/>haben mir gesagt das ich widerum<lb break="yes"/>nach Hause soll.
+                Das wäre nien<lb break="yes"/>Seönhlichster Wunsh ich befinde mich<lb break="yes"/>in guten Zustand ich arbeite alletag<lb break="yes"/>ich könte nir mein Brod selber
+                    verdinnen<lb break="yes"/>man brauht nicht Zahlen<lb break="yes"/><seg ana="#salute">Ich beschließe mein schreiben<lb break="yes"/>vülen
+                    Grüßen</seg><lb break="yes"/><seg ana="#signed">Johans <surname>A.</surname></seg>
+<pb facs="#image_006"/> Bürgrmeister <surname>W.</surname><lb break="yes"/>in<lb break="yes"/>Eppisburg </p>
+</body>
+</text>
+</TEI>

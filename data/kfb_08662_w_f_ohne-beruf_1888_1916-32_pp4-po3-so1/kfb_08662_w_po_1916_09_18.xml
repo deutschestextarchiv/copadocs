@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb8662w08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Corinna Köhler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>8662</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Frieda <surname>W.</surname></persName>
+<date type="sent">18.9.1916</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Behörde: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb8662w">
+<persName>
+<forename>Frieda</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1888"/>
+<death cert="unknown"/>
+<occupation>ohne Beruf</occupation>
+<residence><geo decls="#WGS">48.2452273 10.3693017</geo>Hürben, Krumbach</residence>
+<faith>jüdisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Kaufmann</p>
+<p from="1916" to="1932">Anstalt: 1916-32</p>
+<p from="1916" to="1932">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Hebephrenie (1916)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Kommentare zu Gesundheit
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb8662w08a.jpg" xml:id="image_025"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_025"/>
+<opener>
+<dateline><hi rendition="#r">18. Sept<lb break="yes"/>1916.</hi></dateline>
+<salute><unclear>Fitolirialierten</unclear> Behörden</salute>
+</opener>
+<p> Ihre höflichen vorzeige Formal er<lb break="no"/>laube mir zugleich eine
+                    Bestätigung<lb break="yes"/>meiner eigenen Handschrift anzufügen<lb break="yes"/>daß ich ein solches Verbandmarke be<lb break="no"/>zeichnung meiner vielseitigen
+                    Geistigung<lb break="yes"/>Anstrebung gezwungen bin, dadurch Rück<lb break="no"/>einwand <w>zu</w><w>tun</w>; Um
+                durch Verleumd<lb break="no"/>rischen Civilpersonenn ihren Groben Un<lb break="no"/>fug meiner Körperpflichten zu unter<lb break="no"/>liegen, den sehr verehrten
+                    Herrn<lb break="yes"/>Ärzten es nicht der Mühe wert finden<lb break="yes"/>einen
+                Ausflußreichen Blutstrome<lb break="yes"/>den Untersuchungs zuzuführen,<lb break="yes"/>Ist die schmälerung meinen Hirn<lb break="no"/>verfaßung dadurch
+                ein solches Zeug<lb break="no"/>nis bekan̄t <w>zu</w><w>geben</w>. Was die <w>Unter<lb break="no"/>schlagung</w> anbelangt meiner Wäsche<lb break="yes"/>son̄stigen
+                wertvollen Gegenstände<lb break="yes"/>meines früheren Haushaltverwertung?<lb break="yes"/>Die Ziffern des gesetzlichen Pflichten<lb break="yes"/>einen
+                Rabbinat aufzuzeichnen.<lb break="yes"/>Den 8. Mtl. Aufenthält in dieser<lb break="yes"/>Heilanstalt war für mich als <w>Privat<lb break="no"/>angestellten</w> sehr streng. Verlange dadurch<lb break="yes"/>auch eine
+                Entschädigung zuentsprechen.<lb break="yes"/>Den̄ die
+                    Kriegs<unclear>stuvranten Ziosystem</unclear>
+<add place="above">sandt</add><lb break="yes"/><add place="margin">in meiner Wohnung
+                    stets aufgelegen, wo <add place="above">&amp;</add> Verordnungen verstanden<lb break="yes"/>um den Schlachtengebiete nach Geograpfichen Ken̄tniß
+                    gebe des<lb break="yes"/>öfteren im Krankenzim̄er bekan̄t, den
+                    weiteren Aufschlußsitzung<lb break="yes"/><w>zu</w><w>entsprechen</w>. Meine
+                    Preparalwickel sind nachm früheren Hausarzte<lb break="yes"/></add><add place="top">dieser <unclear>frestälgung<lb break="yes"/>zugeinhiereigend</unclear></add></p>
+</body>
+</text>
+</TEI>

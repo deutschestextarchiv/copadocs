@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s56" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">25.07.1894</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Herr <surname>R.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1890" to="1897">Anstalt: 1890-1897</p>
+<p from="1890" to="1897">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um die Weiterleitung eines Briefs und darum, einen ehemaligen Mit-Patienten nach 
+                    seinem Zustand zu befragen, um die Entlassung voranzutreiben.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s56.jpg" xml:id="image_146"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_146"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee den </hi>25<hi rendition="#sup">ten.</hi>
+<hi rendition="#i">Juli</hi> 1894.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Geehrtester Herr
+<surname>R.</surname>!                    </hi></hi></salute>
+</opener>
+<p><space/> Da ich seid 8 <hi rendition="#i">März</hi> 1890 in einer Anstalt
+                internirt<lb break="yes"/>bin <seg ana="#cens">aber leider säm̄tliche briefe
+                    welche ich an<lb break="yes"/>die Armenpflegschaftsbehörde um Entlaßung Arbeit<lb break="yes"/>u. Freiheit gerichtet habe von den Aerzten <w>unter<lb break="yes"/>schlagen</w> wurden,</seg> so bitte ich <hi rendition="#i">Ihnen</hi> freundlichst<lb break="yes"/>um mich etwaß anzunehmen u. dießen
+                Brief<lb break="yes"/>an die Armenpflegschaftsräthe in der nächsten Sitzung<lb break="yes"/>zu übereichen, − Indem ich körperlich Gesund Geist<lb break="yes"/>u. Arbeitsfähig bin u. mit sehnsucht auf meine<lb break="yes"/>Entlaßung warte.</p>
+<p><space/> Am sontag d. 22 Iuli wurde ein Augsburger<lb break="yes"/>mit Nahmen
+                    <surname>H.</surname> entlaßen d. h. er kam<lb break="yes"/>jetzt
+                in das gut Leutehaus vor dem Jakoberthor<lb break="yes"/>u. gerade dießen
+                kön̄te man über mich <w>aus<lb break="no"/>fragen</w>? − Da wir in ein
+                derselben Garten<lb break="yes"/>u. Abthle<del>d</del> wahren.</p>
+<p><hi rendition="#c"><hi rendition="#i">Irsee den 25. Juli 1894.<lb break="yes"/><seg ana="#salute">Hochachtungsvollst</seg></hi> ergebener.<lb break="yes"/><hi rendition="#i"><seg ana="#signed">Jakob <surname>S.</surname></seg></hi></hi></p>
+</body>
+</text>
+</TEI>

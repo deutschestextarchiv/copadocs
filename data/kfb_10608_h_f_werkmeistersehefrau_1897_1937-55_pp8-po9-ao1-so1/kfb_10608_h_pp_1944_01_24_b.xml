@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb10608h10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>10608</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabeth <surname>H.</surname></persName>
+<date type="sent">24.01.1944</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ehemann: Max <surname>H.</surname></persName>
+<settlement type="sent">Anstalt</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb10608h">
+<persName>
+<forename>Elisabeth</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1897"/>
+<death cert="unknown"/>
+<occupation>Werkmeistersehefrau</occupation>
+<residence><geo decls="#WGS">47.5678958 9.9205365</geo>Weiler, Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: </p>
+<p from="1937" to="1955">Anstalt: 1937-1955</p>
+<p from="1937" to="1955">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Schwachsinn (1937), Schizophrenie (o. J.)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie beschwert sich über die Anstalt, da es nicht genug Platz für alle gibt und sie nichts zu tun hat.
+                    Sie will von ihrem Mann abgeholt werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb10608h10a.jpg" xml:id="image_037"/>
+<graphic mimeType="image/jpg" url="kfb10608h10b.jpg" xml:id="image_038"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_037"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Anst</hi>alt <hi rendition="#i">D</hi> 24/<hi rendition="#sub">1</hi> 1944.</hi></dateline>
+<salute>Lieber Gatt<hi rendition="#i">e</hi> u Fritzi!</salute>
+</opener>
+<p><hi rendition="#i">W</hi>ill nur ich wa<hi rendition="#i">s</hi> von mir <hi rendition="#i">hören <hi rendition="#u">lasen</hi></hi><lb break="yes"/>wenn in den Jahr<hi rendition="#i">en</hi> der vi<hi rendition="#i">el</hi>en Feier<lb break="no"/>tagen mein<hi rendition="#i">es</hi>
+<w>da<hi rendition="#i">sein s</hi></w> kein <hi rendition="#u"><hi rendition="#i">B</hi>esuch</hi><lb break="yes"/>und k<hi rendition="#i">eine</hi> ab<hi rendition="#i">h</hi>ohlung
+                möglich mach<hi rendition="#i">st.<lb break="yes"/>Die</hi> Räumlic<hi rendition="#i">h</hi>keiten <hi rendition="#i">s</hi>ind <w>der <hi rendition="#u"><hi rendition="#i">A</hi>rt</hi></w><lb break="yes"/>überfüllt, da<hi rendition="#i">s ich</hi> nur überflü<hi rendition="#u">ßig</hi><lb break="yes"/><hi rendition="#i">z</hi>u Ga<hi rendition="#i">st</hi> bin.
+                        <w>Tag,<hi rendition="#i">s</hi> über</w> schaffen<lb break="yes"/>u. <hi rendition="#i">N</hi>ac<hi rendition="#i">ht</hi> über nur Schlaf <hi rendition="#i">v</hi>on<lb break="yes"/><hi rendition="#i">Herr</hi> Gott. <hi rendition="#i">M</hi>ir fehlt endlic<hi rendition="#i">h</hi> di<hi rendition="#i">e</hi><lb break="yes"/>nötige Ru<hi rendition="#i">he. D</hi>u ko<hi rendition="#u">nn</hi>t<hi rendition="#i">est</hi> lieber<lb break="yes"/><hi rendition="#i">v</hi>or m<hi rendition="#i">ein</hi> Fritzi kom̄<hi rendition="#i">en</hi>, da<hi rendition="#i">s er</hi> w<hi rendition="#i">eh</hi><lb break="no"/>leidig mir zur Seit<hi rendition="#i">e</hi> genomen wur<lb break="no"/>de und noch
+                krank v<hi rendition="#u">or</hi>ste<hi rendition="#u">ll</hi>en<lb break="yes"/>von <hi rendition="#i">D</hi> gnädigen Pflegerin <hi rendition="#i"><hi rendition="#u">H</hi></hi><hi rendition="#u">au</hi><hi rendition="#i">ser</hi>.<lb break="yes"/><hi rendition="#i">B</hi>in jetzt in <w><hi rendition="#i">K</hi>ind<hi rendition="#i">er H</hi>au<hi rendition="#i">s</hi></w> von<lb break="yes"/>G. <hi rendition="#i">A</hi>bteilung übern Berg.
+                    <hi rendition="#i">H</hi>ole mich<lb break="yes"/>endlich. <seg ana="#salute">Letzt<hi rendition="#i">er</hi> Gr. <hi rendition="#i">D</hi>ein<hi rendition="#i">e</hi>
+                Frau.</seg></p>
+<pb facs="#image_038"/>
+<p><hi rendition="#c"><hi rendition="#i">Eliesa</hi>bet<hi rendition="#i">h<lb break="yes"/><surname>H.</surname>.</hi></hi><lb break="yes"/><hi rendition="#i">Am W</hi>ei<hi rendition="#i">h</hi>nacht<hi rendition="#i">en<lb break="yes"/>h</hi>abe ic<hi rendition="#i">h mich</hi>
+                nicht<lb break="yes"/>beteiligt. <hi rendition="#i">Es</hi> war<lb break="yes"/>nic<hi rendition="#i">ht in meiner<lb break="yes"/>H</hi>äu<hi rendition="#i">slich</hi>keit.<lb break="yes"/>Ließ di<hi rendition="#i">e W D</hi>
+<hi rendition="#u">Führ<hi rendition="#i">ers</hi></hi>
+</p>
+<p><add place="opposite"><hi rendition="#i">Herrn<lb break="yes"/>Max<lb break="yes"/><surname>H.</surname>.<lb break="yes"/>Weiler - B Allg</hi>äu<lb break="yes"/>Obr<hi rendition="#i">e We</hi>ber<hi rendition="#i">ei</hi>
+                116½</add></p>
+</body>
+</text>
+</TEI>

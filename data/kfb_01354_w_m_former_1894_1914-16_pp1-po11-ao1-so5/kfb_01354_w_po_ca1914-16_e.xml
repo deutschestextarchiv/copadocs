@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1354w11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1354</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>W.</surname></persName>
+<date type="sent">ca1914-16</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1354w">
+<persName>
+<forename>Johann</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1894"/>
+<death cert="unknown"/>
+<occupation>Former</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landwirt</p>
+<p from="1914" to="1916">Anstalt: 1914-16</p>
+<p from="1914" to="1916">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>insoziale Imbezillität, Stimmungsanomalie, Sinnestäuschungen (1915)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er hofft, dass der Medizinalrat den Brief an seinen Bruder vor dem Versenden verbessert hat.
+                    Er bittet um ein eigenes Zimmer und wundert sich, dass er nicht alles erhalten hat, das er wollte. 
+                    Ihm geht es in seiner derzeitigen Lage nicht gut, was auch der Grund ist, dass er sich selbst geschlagen hat.
+                    Seine Gesundheit ist ihm nicht so wichtig, da er nichts davon versteht. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1354w11a.jpg" xml:id="image_030"/>
+<graphic mimeType="image/jpg" url="kfb1354w11b.jpg" xml:id="image_031"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_030"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Gehrter Herr Medizinalrat!</hi></salute>
+</opener>
+<p>Sie werden schon so freundlich sein, daß Sie die Beleidigung, die ich<lb break="yes"/>an meinen Lieben Bruder gemacht habe, wieder gut machen.<lb break="yes"/>Denn: <seg ana="#metaling">Ich habe bei de<del>m</del>r Adresse die
+                    Höflichkeit vergessen.</seg> </p>
+<p> Hoffentlich wird mein Bruder den Brief erhalten. <seg ana="#metaling">Sollte et<lb break="no"/>was unferständliches dabei sein</seg>, so könn<add place="below">en</add> Sie durch Bei<lb break="no"/>setzung d<del>i</del>en Brief regeln.<lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+<p>Wenn man in einer <hi rendition="#u">Solchen</hi> Lage sich befindet; daß man von<lb break="yes"/><hi rendition="#u">allen</hi> Seiten den <hi rendition="#u">Wurzingen</hi> (d.h. verstoßen) spielen <hi rendition="#u">muß</hi>,<lb break="yes"/>da sind die <hi rendition="#u">wichtigsten</hi> Wünsche umsonst.<lb break="yes"/>Deshalb kann man's einem <hi rendition="#u">nicht</hi>
+                verargen, wenn ich <hi rendition="#u">keine</hi><lb break="yes"/>höfliche Miene besitz<del>t</del>e.<lb break="yes"/>Das häten die
+                vier Personen auch nicht ge<del>t</del>dacht, das ich <del>noch</del> so<lb break="yes"/>viel <add place="inline">im</add>
+<w>Bewußt sein</w> bin.</p>
+<p>Wenn Sie die Gefälligkeit erweißen können, daß ich ein troc<del>h</del>kenes<lb break="yes"/><hi rendition="#u">einfaches</hi> Zimmerchen bekomme,
+                    <del>S</del>so will ich gerne das <hi rendition="#u">nähere</hi><lb break="yes"/>mit Ihnen sprechen.<lb break="yes"/>Es ist mir daß schon
+                zweifelhaft, daß ich nicht den <hi rendition="#u">ganzen</hi> In<lb break="no"/>halt vom Koffer erhalten habe. Denn sind noch viel <hi rendition="#u">beliebte</hi> und<lb break="yes"/><hi rendition="#u">nützliche</hi> Sachen
+                enthalten. Z. B. Die nooch fehlende Musikalien, mei<lb break="no"/>nen <hi rendition="#u">Bruder</hi> seine <del>V</del>Fotorgafie mit Rahme, u. s. w.<lb break="yes"/><hi rendition="#c">Je <hi rendition="#u">länger</hi> dies <hi rendition="#u"><w>hinaus gezogen</w></hi> wird,<lb break="yes"/>desto härter
+                    kemm es mir an; und<lb break="yes"/>wird auch nicht besser.</hi><lb break="yes"/>Es wird schön genug sein, wenn ich Bekanntmachung ge-<hi rendition="#sub">be!<lb break="yes"/></hi><add place="bottom"><hi rendition="#c">Bitte Wenden!</hi></add></p>
+<pb facs="#image_031"/>
+<p>In einer so<del>h</del>lchen Lage ist's wirklich <hi rendition="#u">kein</hi><lb break="yes"/>Wunder, wenn 's einen <hi rendition="#u">bewußten</hi> Menschen<lb break="yes"/>nicht verdrießt.<lb break="yes"/><hi rendition="#c">Ich habe mich nicht umsonst auf de<del>m</del>n<lb break="yes"/>Mund geschlagen!</hi><lb break="yes"/><hi rendition="#r">Das <hi rendition="#u">hat</hi> seine
+                    Bedeutung.</hi><lb break="yes"/>Wie's mit der Gesundheit steht, das ist mir egal.<lb break="yes"/>Dafon verstehe ich nicht's, bis ich einmal düchtig<lb break="yes"/>fühle. Es
+                könnte vieleicht mir eine Einbildung<lb break="yes"/>sein.<lb break="yes"/>Am <hi rendition="#u">liebsten</hi>, wäre es für mich gut wenn ich<lb break="yes"/><hi rendition="#u">verenden</hi> würde. Bemittelt bin ich nicht, und so<lb break="yes"/>den Tag stehlen, das hat keinen Wert.</p>
+<p><hi rendition="#c">Dann würde ich wenigstes<lb break="yes"/>nicht <hi rendition="#u">engen</hi>.</hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#u"><surname>W.</surname></hi></seg></hi></p>
+</body>
+</text>
+</TEI>

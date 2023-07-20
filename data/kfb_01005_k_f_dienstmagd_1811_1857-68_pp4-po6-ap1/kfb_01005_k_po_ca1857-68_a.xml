@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1005k05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1005</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabeth <surname>K.</surname></persName>
+<date type="sent">ca1857-69</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Stadtpfarrer: n.a. <surname>n.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1005k">
+<persName>
+<forename>Elisabeth</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1811"/>
+<death cert="unknown"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">47.9867696 10.181319</geo>Memmingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Schuhmacher; Vermögen: besitzt 125 F "in der hiesigen Sparkasse deponiert"</p>
+<p from="1857" to="1868">Anstalt: 1857-68</p>
+<p from="1857" to="1868">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Seelenkrankheit, Geistesstörung (1857)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    wünscht gutes Neues, schickt ihm Selbstgestricktes
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1005k05a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb1005k05b.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline/>
+<salute>Hochgeehrtester Herr Stadpfar</salute>
+</opener>
+<p> Weil wir nun abermals ein<lb break="yes"/>Jahr zurückgelegt u ein<lb break="yes"/>neuhes
+                angetroffen so nehme<lb break="yes"/>ich mir die Freiheit auch<lb break="yes"/>Ihnen so wie der Werthge<lb break="no"/>schatzten Frau Stadpfarn u<lb break="yes"/>den l Herr August u meine<lb break="yes"/>l Freilein Carolinchen<lb break="yes"/>ein recht gesegnetes neues<lb break="yes"/>Jahr zu wünschen, möge<lb break="yes"/>der Algütige Sie mit<lb break="yes"/>reichem Segen überschitten <pb facs="#image_013"/> u Ihnen recht frohe u glück<lb break="yes"/>t<unclear>ä</unclear>ge schicken daß wünsche<lb break="yes"/>ich Ihnen von
+                meines Herzen<lb break="yes"/>g<unclear>ltrn</unclear>e nehme ich mir nur die<lb break="yes"/>freiheit eine kleinikeit von<lb break="yes"/>meiner Arbeit Euer
+                    <w>Hochwu</w><lb break="yes"/><w>
+                    dern</w> Herr Stadpf zu schicken<lb break="yes"/>bis das rechte fertig ist<lb break="yes"/>Es ist mir eben nur daß<lb break="yes"/>Garn ausgegangen sonst<lb break="yes"/>währe ich schon langst so<lb break="yes"/>fr<unclear>e/i</unclear>h gewessen daß mich<lb break="yes"/>aber der
+                Hochgeehrte Her<lb break="yes"/>Stadpfarrer selst abholen </p>
+</body>
+</text>
+</TEI>

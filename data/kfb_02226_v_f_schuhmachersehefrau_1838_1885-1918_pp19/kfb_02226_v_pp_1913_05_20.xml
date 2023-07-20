@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2226v01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2226</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>V.</surname></persName>
+<date type="sent">20.05.1913</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Ulrich <surname>S.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2226v">
+<persName>
+<forename>Maria</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1838"/>
+<death when="1918"/>
+<occupation>Schuhmachersehefrau</occupation>
+<residence><geo decls="#WGS">48.1479335 10.7571408</geo>Langerringen, Augsburg, wohnhaft: Kolonie Hurlach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1885" to="1918">Anstalt: 1885-1918</p>
+<p from="1885" to="1918">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Manie (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin erkundigt sich nach ihren Kindern und möchte heimgeholt werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2226v01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb2226v01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline>Irrse den 20 <hi rendition="#sup">tend</hi> Mai 1913</dateline>
+<salute><hi rendition="#c">Lieber Bruder<lb break="yes"/>Ulrich </hi></salute>
+</opener>
+<p>ich bitde schreibe<lb break="yes"/>Wo meine Kinder sind<lb break="yes"/>ist
+                meine Anna noch in<lb break="yes"/>in Höfen beim Her <surname>G.</surname><lb break="yes"/>wen Sie mich zu Ihr<lb break="yes"/>nemen Kinder liebe<lb break="yes"/>Mari ich ged gud<lb break="yes"/>ich bin Hir sein meinem<lb break="yes"/>leben noch nie so Ungern<lb break="yes"/><unclear>Won</unclear>
+                gewesen als da<lb break="yes"/>liebe Kinder nimt mich<lb break="yes"/>Heim
+                    <unclear>B</unclear>ruder Du weist <pb facs="#image_002"/>Wie oft meine Liebe<lb break="yes"/>Kinder Hold mich doch<lb break="yes"/>Haim fiele Herzliche<lb break="yes"/>grüß an Her Pfarer<lb break="yes"/><surname>H.</surname>.<lb break="yes"/><space/>ich b<unclear>iet</unclear>e dich liebe Julie<lb break="yes"/><space/> ich Neme nie mer So fiel<lb break="yes"/><space/> an<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Es grüßt Eich Eire Mutter
+                    </seg></hi><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Maria
+                            <surname>V.</surname></seg>.</hi><lb break="yes"/><space/> an<lb break="yes"/><hi rendition="#c">Hern Ulrich
+                        <surname>S.</surname><lb break="yes"/>Hildenfingen. </hi></p>
+</body>
+</text>
+</TEI>

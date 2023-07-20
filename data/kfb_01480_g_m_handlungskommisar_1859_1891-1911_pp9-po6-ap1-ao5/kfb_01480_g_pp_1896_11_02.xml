@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1480g09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1480</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>G.</surname></persName>
+<date type="sent">02.11.1896</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: n.a. <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1480g">
+<persName>
+<forename>Karl</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1859"/>
+<death when="1911"/>
+<occupation>Handlungskommissar</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1891" to="1911">Anstalt: 1891-1911</p>
+<p from="1891" to="1911">Brieftypen: pp,po,ap,ao</p>
+</state>
+<trait><p>[Epilepsie] (1891)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte wieder Freiheit, bittet um Abholung, Mutter soll vom Oberarzt Erlaubnis erhalten; soll seinen Ring für Fahrgeld verkaufen; will beim Bürgermeister vorsprechen und wieder arbeiten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1480g09a.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb1480g09b.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="kfb1480g09c.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline><add hand="arzt" place="above"><seg ana="#cens">/: Vom Kranken heimlich zu
+                            befördern gesucht :/</seg></add><lb break="yes"/><hi rendition="#r">(<del>Nördl</del>) Irrsee, 2. November 1896</hi></dateline>
+<salute><hi rendition="#c">Liebe Mutter!</hi></salute>
+</opener>
+<p><space/> Heute muß ich Dir eine ganz
+                    unange<lb break="no"/>nehme Nachricht mittheilen, du kannst diesen Brief<lb break="yes"/>auch gleich deinen Bruder dem Herrn Vetter<lb break="yes"/><surname>G.</surname> lesen laßen, damit er auch gleich seine<lb break="yes"/>Meinung darüber aussprechen kann, ich möchte<lb break="yes"/>jetzt wieder <hi rendition="#u">meine Freiheit</hi> haben.<lb break="yes"/><seg ana="#inst">Ich bin schon über <hi rendition="#u">vier</hi> Jahre in dieser
+                        Heilanstalt<lb break="yes"/>untergebracht und kann es nicht verstehen aus
+                        diesem<lb break="yes"/>Narrenhaus herauszukommen, ich möchte Dich daher<lb break="yes"/>bitten, etwas für mich zu thun, nämlich bis im<lb break="yes"/>nächsten Frühjahr im <hi rendition="#u">Monat März</hi> möchte ich<lb break="yes"/>aus dieser Anstalt ganz entlaßen werden, sei<lb break="yes"/>daher so gut liebe Mutter <hi rendition="#u">und hole mich selbst ab</hi>,
+                        der<lb break="yes"/>Herr Oberazt kann dir dazu die Erlaubniß geben,<lb break="yes"/>du darfst blos bei ihm anfragen, ich will diesen<lb break="yes"/>Winter noch aushalten, aber dann muß es anders<lb break="yes"/>gehen, immer
+                    daher sitzen und nichts verdienen,<lb break="yes"/>das kann nicht gehen, man
+                    wird auch nicht mehr<pb facs="#image_017"/>geheilt, die Ärzte stecken immer brav
+                    das Geld ein<lb break="yes"/>wenn der Monat kommt, wenn ich in Nördlingen<lb break="yes"/>im Spital geblieben wäre, so <del>lange</del> wäre ich schon<lb break="yes"/>lange wieder an meiner Arbeit und hätte wieder<lb break="yes"/>einen Verdienst, wir müßen es wieder einmal<lb break="yes"/>probiren, es kommt
+                    ja schon das fünfte Jahr, meinen<lb break="yes"/>Ring habe ich noch, denn
+                    kannst du haben und ver<lb break="no"/>kaufen, daß ich ein Fahrgeld habe, es
+                    kommt dann<lb break="yes"/>nicht zu theuer, du kannst es mit deinem Bruder<lb break="yes"/>besprechen, das Andere werden wir schon kriegen;<lb break="yes"/>meiner Frau wäre es auch lieber, wenn ich wieder<lb break="yes"/>kommen würde,
+                    lese also diesen Brief genau durch.<lb break="yes"/>du brauchst mir heuer liebe
+                    Mutter zu Weihnachten<lb break="yes"/>nichts schicken, <seg ana="#inst">ich möchte blos wieder einmal aus<lb break="yes"/>der Anstalt entlaßen werden, das Ding muß<lb break="yes"/><hi rendition="#u">jetzt anders</hi> werden, da kommt man ja schließ<lb break="no"/>lich gar nicht mehr heraus, ich komme in gar<lb break="yes"/>kein Wirtshaus mehr, ferner die ganze Zeit<lb break="yes"/>keinen Schoppen
+                        Bier zu trinken, <hi rendition="#u">das ist doch<lb break="yes"/>ein wenig
+                            arg</hi></seg>, liebe Mutter folge mir ich bin<lb break="yes"/>ja sonst
+                    immer gesund gewesen, ferner immer </seg><pb facs="#image_018"/>die vergangenen
+				    drei Sommer immer im Garten<lb break="yes"/>herum gesprungen und <seg ana="#med">bei Tage bekomme
+                ich gar<lb break="yes"/>keine Anfälle mehr</seg>; Du kannst jetzt von diesem<lb break="yes"/>Brief wieder Notiz nehmen.</p>
+<p><space/>Bis im nächsten Frühjahr im März muß ich<lb break="yes"/>dann
+                wieder Arbeit bekommen und wenn es blos<lb break="yes"/>eine Auslauferstelle ist,
+                ich werde dann auch beim<lb break="yes"/>Herrn Bürgermeister mich anmelden und
+                    vorsprechen<lb break="yes"/>ich hätte es nicht geglaubt, daß es mir <hi rendition="#u">so</hi> geht;<lb break="yes"/>ich habe vor ungefähr vierzehn
+                Tagen schon an<lb break="yes"/>Herrn <surname>R.</surname> geschrieben, er hat
+                mir aber keine<lb break="yes"/>Antwort zurückgegeben, darum habe ich mich<lb break="yes"/>an Dich gewendet, wenn ich nur einmal aus<lb break="yes"/>der
+                Anstalt heraus bin, man kommt ja zu gar<lb break="yes"/>nichts mehr "Entweder
+                    oder!<lb break="yes"/>Sei daher so gut und erbarme Dich über mich<lb break="yes"/>daß es anders wir<del>st</del><add place="above">d</add>; ich weiß dann auch
+                    wieder<lb break="yes"/>was ich zu thun habe, wenn ich meine Heimath sehen<lb break="yes"/>darf.</p><p><space/> <seg ana="#salute">Indem ich <add place="above"><handShift medium="pencil" scribe="patient"/>dich</add>, <handShift medium="ink" scribe="patient"/>sowie alle
+                    unsere Verwandte bestens<lb break="yes"/><hi rendition="#u">grüße</hi>
+                    verbleibe ich</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">dein</seg><lb break="yes"/><hi rendition="#r"><w>dich</w><w>liebender</w> Sohn<lb break="yes"/><hi rendition="#i">Karl <surname>G.</surname></hi></hi><lb break="yes"/>z. Zeit in der Heil und Pfleganstalt</hi>
+</p>
+</body>
+</text>
+</TEI>

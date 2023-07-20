@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l38" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> Doktor <surname>n.</surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beschwerde: Möchte und braucht mehr Aufmerksamkeit vom Doktor
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l38a.jpg" xml:id="image_090"/>
+<graphic mimeType="image/jpg" url="kfb519l38b.jpg" xml:id="image_091"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_090"/>
+<opener>
+<dateline/>
+<salute>Hochverehrtester Herr <hi rendition="#i">Doctor</hi>!</salute>
+</opener>
+<p>Entschuldigen Sie, daß ich es himit versuche meinen<lb break="yes"/><hi rendition="#i">D</hi>ank für Ihre bisherigen gütigen Bemühungen<lb break="yes"/>noch auszudrücken - wie auch die Versicherung<lb break="yes"/>derselben villeicht
+                    nicht mehr benöthiget zu sein., <del>den̄</del><lb break="yes"/>Wen̄ sich mein
+                Zustand verbeßert, werd ich villeicht<lb break="yes"/>droben so frei sein
+                verehrtesten Herrn <hi rendition="#i">Doctor</hi> noch<lb break="yes"/>in Anspruch
+                zu nehmen. </p>
+<p> Wie sehr es mich angegriffen, am letzten Don̄erstag<lb break="yes"/>jenen
+                mir erwünschten Augenblick versäumt zu haben,<lb break="yes"/>und in einem
+                    bedeutende<del>r</del>n Fall auf gütige Berück<lb break="no"/>sichtigung <add place="above">verzichten</add> mußte, wird sich in der Folge gewiß<lb break="yes"/>noch mehr beweisen.- Und in der Überzeugung, daß<lb break="yes"/>mein leidender Zustand Ihrer gütigen Theilnahme<lb break="yes"/>nicht mehr
+                gewürdiget, wird ein Schritt in einem <pb facs="#image_091"/> so aufgeregten und
+                stets angegriffenen Zustand<lb break="yes"/>auch seine Rechtfertigung finden! − −<lb break="yes"/><hi rendition="#r"><hi rendition="#i">W v L</hi></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1366v01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1366</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Friedrich <surname>V.</surname></persName>
+<date type="sent">12.09.1918</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Mutter: Josefa <surname>M.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1366v">
+<persName>
+<forename>Friedrich</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1907"/>
+<death cert="unknown"/>
+<occupation>Volksschüler</occupation>
+<residence><geo decls="#WGS">48.4908405 11.3422712</geo>Singenbach, Schrobenhausen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Mutter: Fabriktaglöhnersfrau</p>
+<p from="1918" to="1919">Anstalt: 1918-19</p>
+<p from="1918" to="1919">Brieftypen: pp</p>
+</state>
+<trait><p>Geistesschwäche (1917)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink_lightblue" scope="major" scribe="patient"/>
+<handNote medium="ink_darkblue" scope="minor" scribe="patient"/>
+<handNote medium="crayon_red" scope="minor" scribe="arzt"/>
+<handNote medium="pencil" scope="minor" scribe="hand4"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber erkundigt sich nach dem Befinden seiner Eltern. Im geht es gut, die Pflegerinnen sind gut zu ihm.
+                    Er bittet darum, dass die Mutter ihm Obst schickt.
+                    Er berichtet davon, dass er Kleidung bekommt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1366v01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1366v01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb1366v01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#c"><handShift medium="ink_lightblue" scribe="patient"/>Irsee den 12. September 1918.</hi></dateline>
+<salute><hi rendition="#c">Liebe Mutter!</hi></salute>
+</opener>
+<p>
+<handShift medium="ink_darkblue" scribe="patient"/>Jetzt will ich Dir einmal<lb break="yes"/>einen Brief schreiben. Wie<lb break="yes"/>geht es Dir
+                im̄er. bist doch<lb break="yes"/>gesund. Mir geht es ganz gut.<lb break="yes"/>Liebe Mutter kön̄test mir nicht<lb break="yes"/>etwas Obst
+                senden; oder sonst<lb break="yes"/>was Habe einen schönen<lb break="yes"/>Anzug
+                und ein paar Schuh<lb break="yes"/>bekommen und wird mir<lb break="yes"/>noch mal
+                einer gemacht<lb break="yes"/>Meine Pflegerinen sind gut<lb break="yes"/>mit mir.
+                Vieleicht kan̄st<lb break="yes"/>du mich mal besuchen.</p>
+<p>Geht es dem Vater auch noch<lb break="yes"/>gut ist er gesund<pb facs="#image_002"/>
+<hi rendition="#c"><seg ana="#salute">Es grüßt dich und<lb break="yes"/>Vater
+                            herzlich<lb break="yes"/>Euer</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Friedrich
+                    <surname>V.</surname></seg>.</hi><pb facs="#image_003"/>
+               Frau Josefa <surname><hi rendition="#u">M.</hi></surname><lb break="yes"/><hi rendition="#r">in<lb break="yes"/><hi rendition="#u"><del hand="arzt">Augsburg</del></hi><lb break="yes"/><del hand="arzt">Ulmerstrasse 1 1/2 / IV</del></hi><lb break="yes"/><add hand="arzt"><hi rendition="#u">zurück</hi> 19 I+II</add><lb break="yes"/><add hand="hand4"><hi rendition="#u">wenden</hi>
+</add></p>
+</body>
+</text>
+</TEI>

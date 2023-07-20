@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3842s06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3842</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>S.</surname></persName>
+<date type="sent">07.05.1942</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3842s">
+<persName>
+<forename>Josef</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1880"/>
+<death cert="unknown"/>
+<occupation>Maurer, Landwirt</occupation>
+<residence><geo decls="#WGS">47.8803788 10.622246</geo>Kaufbeuren, geb. Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Landwirt; "Vermögensverhältnisse: gering"</p>
+<p from="1909" to="1958">Anstalt: 1909-58</p>
+<p from="1909" to="1958">Brieftypen: Lebenslauf, pp, po</p>
+</state>
+<trait><p>Manisch-depressives Irresein (1909), Geisteskrankheit (1926)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   will arbeiten; zählt auf, was er alles kann (z.B. Baumschnitt); gibt einige Referenzen an;
+                   will mit Hr. <surname>H.</surname> nichts mehr zu tun haben
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3842s06a1.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="kfb3842s06a2.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<pb facs="#image_018"/>
+<opener>
+<dateline><hi rendition="#c">Absender, Joseph <surname>S.</surname> von Hirschzell!<lb break="yes"/>Den 7. Mai 1942.</hi></dateline>
+<salute/>
+</opener>
+<p>
+<w>In dem</w> ich am 7. Mai im Garten war hatte ich Zeit<lb break="yes"/>mit dem
+                Herrn <surname>M.</surname>; Artzt. einige Worte zu<lb break="yes"/>reden. Ich
+                solte doch zur arbeitet verwendet werden<lb break="yes"/>weil ich mich in besster
+                Gesundheit bin. Der genante<lb break="yes"/>Artzt gab mir zur antwort, es wirt
+                schon kom̄en.<lb break="yes"/>Mein wunsch wehre nach Böckenried, den dort<lb break="yes"/>gebe es für mich fiel arbeit; ich bin behreit ales<lb break="yes"/>was befohlen wiert u tun. Das Bäume veredeln<lb break="yes"/>kan̄ ich
+                schon 50 Jahre. Den <w>Baum schnitt</w> habe<lb break="yes"/>ich in Hirschzell
+                mitgemacht; Damahls war der<lb break="yes"/>Landwirtsrat <surname>G.</surname>
+                von Schlachters unser<lb break="yes"/>Lehrmeister. Wir dürften auf einen Zetel
+                    fragen<lb break="yes"/>schreiben und er gab uns reichlich auskumpft.<lb break="yes"/>Ich kan schon Jahre lang selbst; <del>sehr</del> die Maurerei<lb break="yes"/>in Ortnung zu fohlenden. Mit dem Herr Maurer<lb break="yes"/><surname>L.</surname> will ich nicht arbeiten. Der Herr
+                    <surname>K.</surname><lb break="yes"/>Bauverwalter in der Kolonie wirt
+                    euch<lb break="yes"/>meine arbeit beantworten. Auch für die<lb break="yes"/><w>Landwierts arbeit</w> bin ich zu jeder Zeit<lb break="yes"/>behreit: − Das eine will ich euch schreiben,<lb break="yes"/>daß ich mit
+                dem Herr <surname>H.</surname> nichts mehr<lb break="yes"/>wissen will. Er hat
+                mich schon zu oft bei<lb break="yes"/>den Herren unschuldig verklagt.<lb break="yes"/><hi rendition="#r">Ich beschließe mein schreiben in der<lb break="yes"/>Hoffnung,
+                    daß das was ich hier geschrieben<lb break="yes"/>habe nicht umsonst ist.</hi>
+</p>
+</body>
+</text>
+</TEI>

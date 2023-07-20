@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb48l01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>48</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: G. von <surname>L.</surname></persName>
+<date type="sent">02.04.1852</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sohn: Maxim von <surname>L.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb48l">
+<persName>
+<forename>Maxim von</forename><surname>L.</surname>
+</persName>
+<birth when="1817"/>
+<death cert="unknown"/>
+<occupation>Graf von München</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1852" to="1852">Anstalt: 1852</p>
+<p from="1852" to="1852">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="vater"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    War sehr erfreut über einen Brief des Patienten vom vorherigen Monat.
+                    Plant, den Patienten bald besuchen zu kommen, um mit ihm und seinem Arzt sprechen zu können.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb48l01a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb48l01b.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb48l01c.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r">München den 2<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> April 1852</hi></dateline>
+<salute><space/> Mein lieber Max</salute>
+</opener>
+<p>Jch habe Deinen Brief begleitet von einem<lb break="yes"/>Schreiben des Hr. <hi rendition="#i">Dir</hi>. <hi rendition="#i">Hagen</hi> − vom<lb break="yes"/>31<hi rendition="#sup"><hi rendition="#u"><unclear>n</unclear></hi></hi>
+                v. Mts erst heute Vormittag er<lb break="no"/>halten; − Jch kann Dir den
+                freudigen<lb break="yes"/>Eindruck den er mir gemacht hat, nicht<lb break="yes"/>beschreiben, aber ich hoffe ihn Dir in<lb break="yes"/>ein paar Tagen. selbst
+                schildern zu kön̄en.<lb break="yes"/>Nicht ein Opfer ist es, das ich mit
+                einem<lb break="yes"/>Besuch bringe, sondern die Erfüllung<lb break="yes"/>meines
+                längst geaußerten Wunsches<lb break="yes"/><hi rendition="#u">mich selbst</hi>
+                von Deinem Befinden<lb break="yes"/>überzeugen, und mit Dir und Deinem<lb break="yes"/><add place="margin"><hi rendition="#u">Arzte</hi></add> so vieles
+                für die nächste Zukunft<lb break="yes"/>besprechen zu kön̄en. </p><p>Allein! − bis morgen von hier abzureisen,<lb break="yes"/>ist mir unmöglich, schon darum,<lb break="yes"/>weil ich seit gestern ganz heiser bin,<lb break="yes"/>vermutlich in Folge des Wechsels von<lb break="yes"/>dem unausstehlichen Staub,
+                    in dem seit gestern <pb facs="#image_012"/>andauernden Regen. </p><p>Nur ein paar Tage Schon̄ung wird mich<lb break="yes"/>in den Stand sezen bis längstens<lb break="yes"/>nächsten Dienstag abzureisen<lb break="yes"/>und ich werde
+                schon die <w>Ver an<lb break="no"/>staltung</w> treffen, von <hi rendition="#i">Kaufbeuern</hi><lb break="yes"/>aus sogleich nach Irsee zu kom̄en.<lb break="yes"/><hi rendition="#i">Emilie</hi> − welche wieder wohl aber<lb break="yes"/>noch
+                recht matt ist, erwiedert<lb break="yes"/>Deinen Gruß auf<unclear>s</unclear>
+                herzlichste.</p><p><seg ana="#salute">Lebe wohl − Auf Wiedersehen<lb break="yes"/><hi rendition="#c">Dein </hi><lb break="yes"/><hi rendition="#r">Dich liebender Vater </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><surname>L.</surname></seg></hi></p>
+<pb facs="#image_013"/><p>Herrn Max Grafen von <hi rendition="#i"><surname>L.</surname></hi></p>
+</body>
+</text>
+</TEI>

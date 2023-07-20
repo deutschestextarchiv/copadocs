@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb659r04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>659</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>R.</surname></persName>
+<date type="sent">ca. 1856-75</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb659r">
+<persName>
+<forename>Karl</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1831"/>
+<death when="1875"/>
+<occupation>Fabrikbesitzersohn</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Fabrikbesitzer</p>
+<p from="1856" to="1875">Anstalt: 1856-1875</p>
+<p from="1856" to="1875">Brieftypen: pp, po</p>
+</state>
+<trait><p>Epilepsie, Nervenstörungen (1856)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    gesund, Bitte um Entlassung, Bitte um Verzeihung, falls irgendwie beleidigt; will am Sonnabend mit Familie des Direktors essen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb659r04a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb659r04b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<salute><hi rendition="#c"><hi rendition="#i">An die</hi></hi><lb break="yes"/><hi rendition="#i">Kgl. Kreis Irren-Anstalt</hi>...........</salute>
+</opener>
+<p><space/>Unterzeichneter, nimmt sich die Freiheit<lb break="yes"/>an
+                die verehrliche Direction obiger An<lb break="no"/>stalt, einige wenige Zeilen zu
+                    richten.<lb break="yes"/><space/>Da ich nun doch schon
+                1/2 Jahr (wenn<lb break="yes"/>ich mich in der Zeit nicht irre) als ein<lb break="yes"/>Patient *befinde*, und doch wieder durch<lb break="yes"/>die Güte
+                des Herrn Director meine<lb break="yes"/>Gesundheit so weit wieder erlangt habe,
+                    so<lb break="yes"/>stelle die höfliche Bitte um meine<lb break="yes"/>baldige
+                    Entlassung.</p>
+<p><space/>Habe verehrliche Direction viel-leicht<lb break="yes"/>durch etwas beleidigt (was ich mir kaum<lb break="yes"/>erinnern kann) so ersuche
+                mir sol<lb break="no"/>ches gütigst zu verzeihen.<lb break="yes"/><space/><seg ana="#salute">Ich zeichne mit aller
+                    Hochachtung</seg></p>
+<p><seg ana="#salute"><hi rendition="#c">ergebenster</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Carl
+                                <surname>R.</surname> jun.</hi></seg><lb break="yes"/>Sohn
+                    eines Maschinenfabrik<lb break="no"/>besitzers, in.</hi></p>
+<p><hi rendition="#i">N.S.</hi> Noch erlaube mir eine Bitte und würde<lb break="yes"/>mir
+                die Erfüllung derselben als eine große<lb break="yes"/>*hier<lb break="yes"/><hi rendition="#r">W.S.g.u.</hi><pb facs="#image_010"/>Ehre zurechnen, nämlich an<lb break="yes"/>einem Sonnabend oder Sonn<lb break="no"/>tag, bei Herrn Director
+                    und<lb break="yes"/>mit dessen verehrten Familien<lb break="no"/>kreise zu
+                speisen.</p>
+<p>Ein jeder Mensch hat Gedanken<lb break="yes"/>durch welche seine
+                Seele immer<lb break="yes"/>mehr geheiliget und von dem<lb break="yes"/>irdischen
+                Leben, zum Him̄el'schen<lb break="yes"/>bessern Jenseits erhoben soll<lb break="yes"/>werden.</p>
+<p><space/>Diese
+                Gedanken kann er aber<lb break="yes"/>auch nur ganz allein mit seinem<lb break="yes"/>Herrn und Gott theilen.</p>
+<p><hi rendition="#r">Nebiger.</hi></p>
+</body>
+</text>
+</TEI>

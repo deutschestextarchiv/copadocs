@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2083g07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2083</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph Gottlieb <surname>G.</surname></persName>
+<date type="sent">11.08.1858</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ordensbrüder: <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2083g">
+<persName>
+<forename>Joseph Gottlieb</forename>
+<surname>G.</surname>
+</persName>
+<birth cert="unknown"/>
+<death when="1895"/>
+<occupation>Ordenspriester</occupation>
+<residence><geo decls="#WGS">48.0135066 10.8827171</geo>Pitzling, Landsberg; Lechfeld</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1853" to="1895">Anstalt: 1853-1895</p>
+<p from="1853" to="1895">Brieftypen: pp, po</p>
+</state>
+<trait><p>Hochmut, Schwermut (1853-1895), Argwohn, fixe Ideen (1858)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>/offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Betonung der Wichtigkeit der eigenen Person und der damit verbundenen standesgemäßen Unterbringung.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2083g07.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline/>
+<salute>A. R. M. Provincialis!</salute>
+</opener>
+<p> Nachschrift.<lb break="yes"/>Eine abschlägige Antwort, die meine Stellung eher
+                verschlimmern könnte,<lb break="yes"/>erwarte ich um so weniger, als ich vielmehr
+                seit geraumer Zeit der<lb break="yes"/>Hoffnung ergeben war, es werde das nun
+                Gesuchte aus freiem<lb break="yes"/>Antriebe geboten werden, und das Vertrauen zu
+                mir hinlänglich<lb break="yes"/>feststehen könnte, daß ich auch in standesgemäßerer
+                Pflege der Armuth<lb break="yes"/>nichts vergeben werde. - Auch möge hier noch die
+                Bemerkung folgen,<lb break="yes"/>daß es in so mancher Beziehung nicht ganz
+                gleichgiltig sein dürfte, ob ich<lb break="yes"/>standesgemäß oder nicht gehalten
+                werden, was Sie sich bei einiger Erwägung<lb break="yes"/>leichtlich werden
+                erklären können. Das lange Schweigen legt hinlänglich<lb break="yes"/>nahe, daß die
+                Bedachtnahme auf Eines mir nicht fehle, mein jetziges Verlangen<lb break="yes"/>dagegen; daß ich dabei auch meines Standes noch keineswegs vergessen haben.<lb break="yes"/>Hirmit genug - Ich verbleibe in bester Hoffnung</p>
+<p> Ihr<lb break="yes"/>ergebener Mitbruder<lb break="yes"/><hi rendition="#i">P.
+                    Deohar</hi> # </p>
+<p> Möge Ihnen obige Nachschrift Gelegenheit geben, neben ihrem eigentlichen Zwecke auch<lb break="yes"/>Sie <del>zu</del> veranlassen zu einer Antwort auf das
+                Schreiben des Herrn <hi rendition="#i">Directors Dr. Hagen</hi>, worauf<lb break="yes"/>aufmerksam zu machen ich mir hiermit aus einem gewissen Grunde noch
+                eigens erlaube. </p>
+<p><handShift scribe="arzt"/>
+                d. 11 Aug. 58 zu einem Brief an Provincial<lb break="yes"/><unclear>Diese psi?öse
+                    Aussage erleihe</unclear> ein Rschluß<lb break="yes"/>z seine geist. Zust. Noch große
+                    Negg zum Argwohn<lb break="yes"/>In der Tiefe seiner Seele hegt er noch
+                        mehrere<lb break="yes"/>fixe Ideen über welche er sich eher nicht weiter<lb break="yes"/>ausspriht</p>
+</body>
+</text>
+</TEI>

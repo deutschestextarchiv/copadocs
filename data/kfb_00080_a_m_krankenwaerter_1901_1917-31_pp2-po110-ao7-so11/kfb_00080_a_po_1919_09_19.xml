@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a51" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">19.09.1919</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er berichtet von seinen inneren Stimmen und Zwängen und bittet um eine starke Überwachung, damit er sich nichts antun kann.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a51a.jpg" xml:id="image_126"/>
+<graphic mimeType="image/jpg" url="kfb80a51b.jpg" xml:id="image_127"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_126"/>
+<opener>
+<dateline><add hand="arzt" place="top"><hi rendition="#u">19.9.19</hi></add></dateline>
+<salute><hi rendition="#c"><hi rendition="#u">Sehr Geehrter Herr
+                        Oberarzt</hi></hi></salute>
+</opener>
+<p><add hand="arzt" place="top">22)</add><lb break="yes"/><space/> Ich teile Ihnen ehrlich mit. Ich<lb break="yes"/>tue
+                Ihnen sehr viel versprechen &amp;.<lb break="yes"/>meine auch, daß ich anders
+                werde.<lb break="yes"/>aber <add place="above">auf</add> mein Versprechen müssen<lb break="yes"/>Sie nicht gehen; ich halte es leider<lb break="yes"/>nie,
+                kan̄ <hi rendition="#u" style="arzt2">mich nicht beherrschen</hi>,<lb break="yes"/>träume jede Nacht vom Selbst<lb break="no"/>mord
+                    u.s.w. &amp;. bin im̄er auf<lb break="no"/>geregt &amp;.
+                lebensmüde. Bekom̄e<lb break="yes"/>sehr <hi rendition="#u" style="arzt2">oft Gesichtstäuschungen &amp;. habe</hi><lb break="yes"/>keine Ruhe im In̄ern, bei mir<lb break="yes"/>heißts im̄er, ich soll mir das<lb break="yes"/>Leben
+                    nehmen
+                <hi rendition="#u" style="arzt2">u.s.w. hab mit<lb break="yes"/>mir schwer zu
+                    käm</hi>pfen; </p>
+<pb facs="#image_127"/>
+<p>Ich sag Ihnen erlich, hatte heute schon<lb break="yes"/>im Sin̄, daß ich
+                durchgehe oder mir<lb break="yes"/>1 Leid antue, ich traute mir nicht<lb break="yes"/>drum ging ich nicht zur Arbeit.<lb break="yes"/>Ich bitte Sie,
+                weil ich mit den<lb break="yes"/>in̄ern Anfechtungen schwer dran<lb break="yes"/>bin, drum lassen <hi rendition="#u" style="arzt2">Sie mich nur<lb break="yes"/>unter strenger Aufsicht mich nur</hi><lb break="yes"/>bei Pflegern aufhalten &amp;. bei der<lb break="yes"/>Holzarbeit
+                mich nur neben Pfleger<lb break="yes"/>aufhalten; Wen̄ Sie oder Pfleger<lb break="yes"/>mir anken̄en, daß ich aufgeregt<lb break="yes"/>bin,
+                dan̄ tuns mich gleich ins Bett.</p>
+<p><space/>
+<seg ana="#salute">Es grüßt Sie hochachtungs<lb break="no"/><hi rendition="#r">vollst</hi></seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Hans <surname>A.</surname>.</seg></hi></p>
+</body>
+</text>
+</TEI>

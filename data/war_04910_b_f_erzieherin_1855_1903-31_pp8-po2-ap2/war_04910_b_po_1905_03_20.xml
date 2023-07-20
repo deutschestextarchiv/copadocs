@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="war4910b08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 660: Warstein</collection>
+<idno>4910 (K. xx)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>B.</surname></persName>
+<date type="sent">20.03.1905</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vorstand: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Marienthal</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="war4910b">
+<persName>
+<forename>Anna</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1855-04-07"/>
+<death cert="unknown"/>
+<occupation>Erzieherin</occupation>
+<residence><geo decls="#WGS">52.0191005 8.531007</geo>Geburtsort: n.a.; Wohnort: Bielefeld</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Buchhändler, Mutter: ohne Beruf</p>
+<p from="1903-03-14" to="1931">Anstalt: 14.03.1903-1931</p>
+<p from="1903-03-14" to="1931">Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>einfache Seelenstörung (1903)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin teilt mit, dass eine Komode für sie zu schwer zu heben ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="war4910b08.jpg" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_020"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Marienthal</hi>, 20. III.
+                        1905.</hi></dateline>
+<salute>Dem Wohllöbl. Vorstand!</salute>
+</opener>
+<p><add hand="hand2">G 20/<hi rendition="#sub">3</hi> 05<lb break="yes"/>ad acta
+                    Anna <hi rendition="#i"><surname>B.</surname></hi><lb break="yes"/><space/> G.</add>
+</p>
+<p><space/> Gegen die Fortschaffung der Komode; mit einigen Schubfächern, − vom<lb break="yes"/>Oberlicht; im Haupt=Gebäude <add place="above">II Stock</add>
+                sind mir nur die Hindernisse gesetzt: "Es<lb break="yes"/>fällt <hi rendition="#u">noch</hi> nicht ein." - Das Mödel ist für mich; − mit
+                Inhalt, − zu schwer<lb break="yes"/>zum heben u. ich habe schon noch Stoff
+                darauf liegen sehen, welches<lb break="yes"/>das Gewicht von 5=fünf , <hi rendition="#i">Kilo</hi> übersteigt. Unterschriebene unterbreitet<lb break="yes"/>es Ihrer gefälligen Beachtung.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Mit vorzüglicher Hochachtung</seg>
+<space/>
+<seg ana="#signed"><hi rendition="#i">Anna </hi><surname><hi rendition="#i">B.</hi></surname></seg></hi></p>
+</body>
+</text>
+</TEI>

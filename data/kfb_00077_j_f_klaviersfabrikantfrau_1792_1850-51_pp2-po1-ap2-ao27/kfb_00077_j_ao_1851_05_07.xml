@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb77j12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>77</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehemann: Josef <surname>J.</surname></persName>
+<date type="sent">07.05.1851</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb77j">
+<persName>
+<forename>Maria Clara</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1792"/>
+<death cert="unknown"/>
+<occupation>Klaviersfabrikantfrau</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith>n.a.</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1850" to="1857">Anstalt: 1850-1857</p>
+<p from="1850" to="1857">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Reizbarkeit, Agilitaet</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehemann"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Ehemann der Patientin wendet sich wegen des Briefkontakts zu seiner Frau an den Direktor.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb77j12a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">München</hi> 7 <hi rendition="#i">May</hi>.
+                    1851.</hi></dateline>
+<salute><hi rendition="#c">Hochgeehrtester Herr Direcktor</hi></salute>
+</opener>
+<p>Der Brief von meiner Frau hat mich sehr beruhigt, u. ich danke Ihnen<lb break="yes"/>sehr für die Veranlaßung, welche <hi rendition="#i">S</hi>ie hiezu
+                zu geben die Güte hatten.<lb break="yes"/>Nach ihrem Wunsche habe ich heute wieder
+                an meine Frau geschrieben.<lb break="yes"/>Ich glaube nicht daß der Brief etwas
+                enthält, was es nicht räthlich erscheinen<lb break="yes"/>läßt denselben meiner
+                Frau einzuhändigen, und bitte Herrn Direktor dann<lb break="yes"/>um gefällige
+                Abgabe. </p>
+<p><space/> Indem ich mich Herrn Direktor, sowie Frau Direktorin aufs<lb break="yes"/>höflichste empfehle <seg ana="#salute">zeichne ich mit besonderer Hochachtung und<lb break="yes"/>Verehrung als<lb break="yes"/><hi rendition="#c">Euer
+                        Wohlgeboren</hi><lb break="yes"/><hi rendition="#r">ergebenster </hi></seg><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><seg ana="#signed"><unclear>Ig.</unclear> Jos.
+                        <surname>J.</surname>.</seg></hi></hi></p>
+<p><seg ana="#metaling">Wegen dem Gewicht des Briefes<lb break="yes"/>nahm ich blos ½ Bogen und bitte<lb break="yes"/>höflichst um Entschuldigung. </seg></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun1988k02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>1988 (K. 170)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>K.</surname></persName>
+<date type="sent">21.07.1900</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Krankenschwester: Elecktra <surname>n.</surname></persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mun1988k">
+<persName>
+<forename>Heinrich</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1846-10-13"/>
+<death cert="unknown"/>
+<occupation>Arbeiter</occupation>
+<residence><geo decls="#WGS">51.920586 7.727183</geo>Geburtsort: Wolbeck; Wohnort: Wolbeck</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater: Weber, Mutter: Arbeiterin</p>
+<p from="1900-06-28" to="1905-05-05">Anstalt: 28.06.1900-05.05.1905</p>
+<p from="1900-06-28" to="1905-05-05">Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="ink" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber berichtet von gesundheitlichen Problemen in seinen Beinen.
+                    Er hat nur ein Hemd bekommen.
+                    Er hofft auf baldige Heilung.
+                    Er bestellt Grüße an verschiedene Personen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun1988k02a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="mun1988k02b.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="mun1988k02c.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="mun1988k02d.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><add hand="vordruck">Provinzial=Anstalt zu Münster i. W., den</add>
+                        21<hi rendition="#i">ten Juli</hi> 1900</dateline>
+<salute><hi rendition="#r"><hi rendition="#i">Liebe Schwester
+                        Elecktra</hi>!</hi></salute>
+</opener>
+<p><add hand="hand3">{ <hi rendition="#sup">23</hi>/<hi rendition="#sub">7</hi>
+<hi rendition="#sup">00</hi> <hi rendition="#i">ad acta</hi> Heinrich <surname><hi rendition="#i">K.</hi></surname></add></p>
+<p><hi rendition="#i">Da ich zeit dem 6<hi rendition="#u">ten</hi> Juli nicht<lb break="yes"/>mehr geschrieben, so finde ich veranlasst.<lb break="yes"/>Einiges zu berichten. Mein rechtes Bein<lb break="no"/>knie ist vollständig
+                    wieder geheilt, nun<lb break="yes"/>ist dass linke Knie so angeshwollen,<lb break="yes"/>Ich habe immer so heftige Schmerzen<lb break="yes"/>die ziehen
+                    von <unclear reason="faded">e</unclear>inem Theihle des Körpers<lb break="yes"/>zum andern, von Kopf bis zu den
+                    Füssen<lb break="yes"/>Meine Füsse sind ganz dick angeschwol<lb break="no"/>len, ich habe alle die zeit. die <hi rendition="#u">Zeit</hi> Ich<lb break="yes"/>hier bin noch keine Kleider bekommen<lb break="yes"/>zum
+                    Anziehen als dass Hemd </hi></p>
+<pb facs="#image_005"/>
+<p><hi rendition="#i">Ich bin noch nicht aus der Anstalt<lb break="yes"/>gewesen,
+                    Die Zeit, wan Ich geheilt<lb break="yes"/>bin, ist nicht zu bestimmen, doch<lb break="yes"/>hoffe ich bald. Aus meinem rechtem<lb break="yes"/>Beinknie
+                    sind wohl vier Esslöffel<lb break="yes"/>voll Blut und Wasser heraus ge<lb break="no"/>kommen. <seg ana="#salute">Auf baldiges Wiedersehen<lb break="yes"/>hofft erge<del>beht</del><add place="below">=benst</add></seg>
+<seg ana="#signed">Heinrich <surname>K.</surname></seg><lb break="yes"/>Viele Grüsse an meine Mutter, an<lb break="yes"/>die Oberin,
+                    Alfonso, Sola, und die übrigen<lb break="yes"/>Schwestern An den Herrn Amtman<lb break="yes"/><surname>M.</surname> und Frau, An den Herrn<lb break="yes"/>D.r <surname>B.</surname>, An den Herrn </hi><pb facs="#image_006"/><hi rendition="#i">Vorsteher <surname>H.</surname> und
+                    Frau. An<lb break="yes"/>den Gemeindeempfänger <surname>S.</surname><lb break="yes"/>und Frau. An den Herrn <surname>R.</surname><lb break="yes"/>und Frau. An den Herrn Julius <surname>L.</surname><lb break="yes"/>An den Herrn <surname>R.</surname>, An den<lb break="yes"/>Herrn Pastor und dessen Haushälterin<lb break="yes"/>An den
+                    Herrn </hi>Vikar<hi rendition="#i"> und seine <w>Haus<lb break="no"/>hälterin</w> An den Herrn Notarg und seine<lb break="yes"/>Schwestern. An
+                    Frau <surname>S.</surname> und ihre<lb break="yes"/>Töchter, An den Herrn
+                    Gastwirth<lb break="yes"/><surname>T.</surname> und seine Frau. An Fina und<lb break="yes"/>Anna und die übrigen des Krankenhauses<lb break="yes"/>Marienthahl bei Münster in<lb break="yes"/>Westfalen den 21<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Juli 1900</hi>
+</p>
+<pb facs="#image_007"/>
+<p><hi rendition="#i">Adresse. An die Kranken<lb break="no"/>schwester Elecktra<lb break="yes"/>Kr<del>anhaus</del><add place="below">Krankenhaus</add>
+                    Wolbeck<lb break="yes"/>bei Münster in<lb break="yes"/>Westfalen</hi>
+</p>
+</body>
+</text>
+</TEI>

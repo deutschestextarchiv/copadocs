@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2226v02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2226</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>V.</surname></persName>
+<date type="sent">16.02.1904</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Kinder: Alois <surname>V.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2226v">
+<persName>
+<forename>Maria</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1838"/>
+<death when="1918"/>
+<occupation>Schuhmachersehefrau</occupation>
+<residence><geo decls="#WGS">48.1479335 10.7571408</geo>Langerringen, Augsburg, wohnhaft: Kolonie Hurlach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1885" to="1918">Anstalt: 1885-1918</p>
+<p from="1885" to="1918">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Manie (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin möchte nach Hause geholt werden.
+                    Sie beschwert sich, dass sie keine Briefe von zu Hause erhält.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2226v02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb2226v02b.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb2226v02c.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline>Irse den 16<hi rendition="#sup">ten</hi> <add hand="arzt"><hi rendition="#i">Febr.</hi> 1904 </add></dateline>
+<salute>Liebe Kinder </salute>
+</opener>
+<p>ich bitte Euih<lb break="yes"/>seid So gut u. holed mich<lb break="yes"/>einmal
+                nach Hause ich bin<lb break="yes"/>Besser und Mag lieber zu<lb break="yes"/>Eich
+                nach Hause ich Liebe<lb break="yes"/>blos den Friden den Ich<lb break="yes"/>bey
+                Diesen Kranken nicht<lb break="yes"/>finden kan Liebe Juli sag<lb break="yes"/>es
+                dem Alois das ich nach<lb break="yes"/>Haus Will wie get es<lb break="yes"/>den
+                Eich ich bekom nie<lb break="yes"/>Brif fon Eich habed Ir<lb break="yes"/>nicht so
+                fil zeit das 1 fon<lb break="yes"/>Eich mir schreribt Wie es<lb break="yes"/>Eich
+                gehe Die meinen<lb break="yes"/>man lebe nur fir die<lb break="yes"/>Fasnacht ich
+                bin in gedanken<lb break="yes"/>imer bei Eich seid so gut<lb break="yes"/>ged zum
+                gefadter der wird<lb break="yes"/>dan Dir schon mit wenig <w>aus <pb break="no" facs="#image_004"/> Helfen</w></p>
+<p>Liebe Kinder ich möcht<lb break="yes"/>einmal Irse verlassen<lb break="yes"/>ich ge
+                dan in die Gemeinde<lb break="yes"/>Hiltenfingen weil ich zu<lb break="yes"/>den
+                Verwandten Lieber<lb break="yes"/>will ich grise Eich alle<lb break="yes"/>fillmachl ich bin lieber bei<lb break="yes"/>Eich <seg ana="#salute">fiele
+                    Herzliche grüße</seg><lb break="yes"/>an Eich alle<lb break="yes"/><hi rendition="#r"><seg ana="#signed">Maria <surname>S.</surname></seg></hi><lb break="yes"/>Lieber Andres diese Leudte<lb break="yes"/>gen mich nicht an
+                dewegen<lb break="yes"/>wiel ich lieber nach Hiltenfing<add place="below">en</add><lb break="yes"/><seg ana="#salute">Es grißt Eich alle fielmahl</seg><lb break="yes"/><hi rendition="#r">Eure Mutter <seg ana="#signed">Maria<lb break="yes"/><surname>V.</surname></seg>.</hi></p>
+<pb facs="#image_005"/>
+<p><hi rendition="#c">An<lb break="yes"/>Herrn Alis
+                        <surname>V.</surname><lb break="yes"/>in<lb break="yes"/>der Koleni Hurlach </hi>
+</p>
+</body>
+</text>
+</TEI>

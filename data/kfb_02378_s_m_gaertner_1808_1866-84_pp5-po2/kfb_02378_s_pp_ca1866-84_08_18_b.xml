@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2378s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2378</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Engelbert <surname>S.</surname></persName>
+<date type="sent">18.08.18xx</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Geschwister und Nachbarn: Carina und Johann</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2378s">
+<persName>
+<forename>Engelbert</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1808"/>
+<death when="1884"/>
+<occupation>Gärtner</occupation>
+<residence><geo decls="#WGS">48.4539028 10.2785509</geo>Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Gärtner</p>
+<p from="1866" to="1884">Anstalt: 1866-1884</p>
+<p from="1866" to="1884">Brieftypen: pp,ap</p>
+</state>
+<trait><p>Manie (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient richtet Schreiben an verschiedene Personen in der Heimat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2378s04a.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#c">Kaubeiren, den 18<hi rendition="#sup">ten</hi> August.</hi><lb break="yes"/>Günzburg, an, der Donnau,</dateline>
+<salute>Libste, Schwister, Garina, und Bruter,<lb break="yes"/>Johan, Gernr,
+                    und, Enknom, Besiter,<lb break="yes"/>Ind, Onder, Günzburg, Sand, der,
+                            <w>Nachba<lb break="no"/>Schaf</w>, Die, Dein, Herren, Sulmenbegter<lb break="yes"/>und, der, Ganzer, Nachbarchafgt,<lb break="yes"/>und, dem,
+                    Herrin, Bar, Scheiter,<lb break="yes"/>der, und, Seiner, Veilein, Schwicht,<lb break="yes"/>und, Tem, Herren, Retet, der Schue</salute>
+</opener>
+<p>In, iber, Vezig, Jare, In, Gunzbur<lb break="yes"/>ist. Einem, herliggen, Grue,
+                und, T<unclear/>,<lb break="yes"/>Gleinerster, Bar, der, Von, Mier<lb break="yes"/>Geschiten ist. Schun, der Wochen<lb break="yes"/>In, der Eife, Anstalt Ge, Vier,<lb break="yes"/>Wurte. und, das, Mier, der<lb break="yes"/><hi rendition="#c">Libste, War,</hi>
+</p>
+</body>
+</text>
+</TEI>

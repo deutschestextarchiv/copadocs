@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1432s03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1432</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: C. <surname>S.</surname></persName>
+<date type="sent">20.12.1875</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Deggingen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1432s">
+<persName>
+<forename>Theodor</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1855"/>
+<death cert="unknown"/>
+<occupation>Cand. Philologie in Erlangen</occupation>
+<residence><geo decls="#WGS">48.774956 10.5767002</geo>Mönchsdeggingen, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Doktor</p>
+<p from="1875" to="1875">Anstalt: 1875</p>
+<p from="1875" to="1875">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Moralischer Irrsinn</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient scheint aus der Anstalt verschwunden und zu den Eltern gegangen zu sein.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1432s03a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1432s03b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r">Deggingen den 20 Dez.<lb break="yes"/><hi rendition="#u">Nachts</hi> 1875.</hi></dateline>
+<salute><hi rendition="#c">Hoch<unclear>v</unclear>erehrtester Herr
+                        Direkt<unclear>o</unclear>r,</hi></salute>
+</opener>
+<p><add hand="arzt"><unclear/>21/12. <hi rendition="#i">Theodor</hi> nicht gesund,<lb break="yes"/>weder an Gemüth u. Willen, noch<lb break="yes"/>an d
+                        moralisch<unclear>en</unclear> Eigenschaft<unclear>en</unclear>.<lb break="yes"/>Vom Zuhausebehalt<unclear>en</unclear> gegenwärtig nicht
+                        abgerath<unclear>en</unclear><lb break="yes"/><hi rendition="#r"><unclear/></hi>
+</add></p><p><hi rendition="#r"><add hand="arzt"><hi rendition="#i">pr</hi>. 20 Dez.<lb break="yes"/>1875</add></hi></p>
+<p>Trtz der Abwesenheit meines<lb break="yes"/>Mannes theile ich Ihnen mit<lb break="yes"/>daß Theodor soeben bei uns<lb break="yes"/>ankam.</p><p><space/> Da er von der Kälte sehr ge<lb break="no"/>litten zu haben scheint, so weiß<lb break="yes"/>ich selbst da er gleich zu Bett<lb break="yes"/>ging über sein
+                Entweichen<lb break="yes"/>nichts Näheres.</p><p><space/> Sobald wir Nachricht von<lb break="yes"/>Ihnen haben wird denn mein<lb break="yes"/>Mann die Zeit seiner <w>Wieder<lb break="no"/>ein bringung</w> u. Weiteres<lb break="yes"/>schreiben</p><p><space/> Ich bitte nur recht inn<unclear>i</unclear>g, die<lb break="yes"/>Sache so zu halten
+                daß die<lb break="yes"/>Ehre u. das Interresse meines<lb break="yes"/>bravem
+                Mannes nicht durch<lb break="yes"/>diesen Vorgang geschädigt wird <pb facs="#image_006"/>was denselben gerade jetzt<lb break="yes"/>im gegenwärtigen
+                    Augen<lb break="no"/>blicke doppelt betrüben<lb break="yes"/>und schädigen
+                würde, be<lb break="no"/>sonders bei der K. Regierung<lb break="yes"/><space/>
+<seg ana="#metaling">Die Zeit u. Umstände<lb break="yes"/>werden Schrift u. Styl<lb break="yes"/>entschuldigen</seg>, <seg ana="#salute">deshalb nur<lb break="yes"/>noch die Versicherung der<lb break="yes"/>ausgezeichneten
+                    Hochachtung<lb break="yes"/>mit welcher beharrt<lb break="yes"/><hi rendition="#c">Ihre </hi><lb break="yes"/><hi rendition="#r">dankbar
+                            ergebenst<unclear>e</unclear>
+</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">C:
+                            <surname>S.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a95" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca1917-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er fordert mehr Essen für die Holzarbeiter und droht mit Arbeitsverweigerung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a95a.jpg" xml:id="image_213"/>
+<graphic mimeType="image/jpg" url="kfb80a95b.jpg" xml:id="image_214"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_213"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber Herr Oberarzt!</hi></salute>
+</opener>
+<p><space/> Jetzt tu ich mich rühren. Mir<lb break="yes"/>wirds jetzt mit der
+                    Holzar<lb break="no"/>beit zu dum̄. Ich sollte jeden Tag<lb break="yes"/>draußen arg frieren &amp;. mich anstren<lb break="no"/>gen mit dem Sägen, &amp;.
+                bekom̄<lb break="yes"/>dafür nix als wie 1 Tasse schlechten<lb break="yes"/>Wasserkaffee &amp;. kl Zipfel Brot &amp;. jeden<lb break="yes"/>Tag kriegt man
+                Mittags wie ab<lb break="no"/>ends schlechtes Fressen, ich schenke<lb break="yes"/>meistens das <seg ana="#curse">Saufressen</seg> her, sonst<lb break="yes"/>müßte
+                ich speien. Die Pfleger<lb break="yes"/>beschwerten sich letzte Woche darüber<lb break="yes"/>&amp;. jetzt mach ich es auch so; ich bin<lb break="yes"/>1
+                Unabhängiger. Alle Arbeiter im<lb break="yes"/>Holzstadel sagen es gehört für die<lb break="yes"/>Arbeit 1 beßre Zula<del>l</del>ge beßres Es<lb break="no"/>sen
+                mehr Brot her. Gehn Sie zu<lb break="yes"/>dieser Arbeit &amp;. nehmen Sie un<lb break="no"/>ser Essen. Man wird dabei krän<lb break="no"/><hi rendition="#r">ker.
+                </hi></p>
+<pb facs="#image_214"/>
+<p>Ich bitte Euch: machens Sie mit<lb break="yes"/>Herrn Rechnungsführer aus, daß<lb break="yes"/>wir Holzarbeiter mehr beßres<lb break="yes"/>Essen
+                bekom̄en; wenns nicht<lb break="yes"/>besser wird, dan̄ geh ich nicht<lb break="yes"/>mehr auf arbeit mit dem<lb break="yes"/>Fressen. Gehn Sie von
+                    <w>mir</w><w>au<unclear>s</unclear></w><lb break="yes"/>Rechnungsführer machte auch Sprü<lb break="no"/>che letzten
+                Don̄erstag er bekäme<lb break="yes"/>wenig Essen 3mal in der Wo<lb break="no"/>che Muus-Brei. Ich frug seinen<lb break="yes"/>Sohn, der erzählte
+                mir, daß Sie<lb break="yes"/>gutes feines Essen bekom̄en.<lb break="yes"/>Ihr Herren könnt wie die Groß<lb break="no"/>köpferten fein essen &amp;. wir
+                    sol<lb break="no"/>len hunger leiden. Das paßt<lb break="yes"/>mir nicht. Ich
+                tu jetzt bis<lb break="yes"/>beßres Essen kom̄t nicht ar<lb break="no"/>beiten. <seg ana="#salute">Es grüßt Euch</seg><lb break="yes"/><del>S</del>
+<hi rendition="#r"><seg ana="#signed">Hansi <surname>A.</surname></seg>.</hi><lb break="yes"/>Unabhängiger</p>
+</body>
+</text>
+</TEI>

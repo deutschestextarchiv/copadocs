@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2251g03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Franziska Eber</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2251</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>G.</surname></persName>
+<date type="sent">01.05.1918</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Babette <surname>G.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2251g">
+<persName>
+<forename>Jakob</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1919"/>
+<occupation>Maler</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Maler</p>
+<p from="1887" to="1919">Anstalt: 1887-1919</p>
+<p from="1887" to="1919">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschungen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Der Schreiber wirft seiner Schwester vor, dass sie ihm kein Geld zahlen will.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2251g03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb2251g03b.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb2251g03c.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="kfb2251g03d.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline><hi rendition="#r"><handShift medium="pencil"/> 24. April <handShift medium="ink"/><lb break="yes"/>Irsee den 1 Mai 1918.</hi></dateline>
+<salute><hi rendition="#c">Werthe Schwester!</hi></salute>
+</opener>
+<p>Wie ich gehört habe daß<lb break="yes"/>du mir für keinen Zins<lb break="yes"/>und
+                Kapital Einstehn nich<lb break="yes"/>Betrügen gleichsam nichts<lb break="yes"/>Willst nir Bezahlen.<lb break="yes"/>754 Mark 800 daßelbe dan<lb break="yes"/>ein Koffer mit Werth 100<lb break="yes"/>Mark Verth mit Versicher<lb break="no"/>ung die Gearbeitet Zinß<lb break="yes"/>zum Zinß gekommen Geld<lb break="yes"/>gemacht worden ist Du<lb break="yes"/>mir nie wißen nichts<lb break="yes"/>bezaht hast. Ich kann Dir<lb break="yes"/>nur Schreiben daß heißt<lb break="yes"/>man Betrügen Meineid<lb break="yes"/>und nur Alles Schlecht<lb break="yes"/>sein
+                denken sagt. Von </p>
+<pb facs="#image_007"/>
+<p>Munde keinen Kreuzer<lb break="yes"/>geErbt habe nicht Alls<lb break="yes"/>durch gebrant. Jetzt habe<lb break="yes"/>kein Bier u nichts zu<lb break="yes"/>Essen. u Geld gar nichts<lb break="yes"/>Hofstätterisches Vermögen<lb break="yes"/>an mich ziehen nuß mir<lb break="yes"/>vermachen durch Gericht<lb break="yes"/>deine sind Auf. Geschrieben<lb break="yes"/>und Bekant Wie man<lb break="yes"/>nir sagt Algemein sagt<lb break="yes"/>sollst eine Schlechtes<lb break="yes"/>Weibs Bild geworden<lb break="yes"/>oder Hur was Glaubst<lb break="yes"/>den du. Den kan Ich<lb break="yes"/>dir nur Mittheilen daß<lb break="yes"/>einen Meineidigen<lb break="yes"/>Herrn Knopf hast daß </p>
+<pb facs="#image_008"/>
+<p>Alles er weiß warum.<lb break="yes"/>Heute zu Tage Gericht<lb break="yes"/>Einhalten ein Arm<lb break="yes"/>machen. Jetzt Schließe<lb break="yes"/>mein
+                Schreiben den<lb break="yes"/>Brief zu Erhalten.<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Auf Wiedersehn</hi><lb break="yes"/><seg ana="#signed">Jakob <surname>G.</surname><lb break="yes"/>Maler</seg></seg></p>
+<p> <add> Meineiger<lb break="yes"/>Herr <surname>S.</surname><lb break="yes"/>gewählt </add>
+</p>
+<pb facs="#image_009"/>
+<p><hi rendition="#c">Wohlgeborn<lb break="yes"/>Kreis Irrenanstalt Kgl:<lb break="yes"/>Kaufbeuern
+                Weibliche.<lb break="yes"/>Babette <surname>G.</surname> Malers<lb break="no"/>Tochter.</hi><lb break="yes"/>frei. </p>
+</body>
+</text>
+</TEI>

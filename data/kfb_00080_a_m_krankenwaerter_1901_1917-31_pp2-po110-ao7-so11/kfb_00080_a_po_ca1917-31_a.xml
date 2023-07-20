@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">ca1917-31</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Medizinalrat: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    hat Selbstmordgedanken, möchte eine Schnapskur
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a04a.jpg" xml:id="image_043"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_043"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#u">Sehr geehrter Herr <hi rendition="#i">Medizinalrat</hi>!</hi></hi></salute>
+</opener>
+<p><space/> Habe leider zur Zeit die allergräßlichsten<lb break="yes"/>eckelhaftesten Gotteslästerungs-Gedanken, welche ich nicht<lb break="yes"/>mehr
+                aushalten kann. Sie verführen mich leider zu vie<lb break="no"/>len
+                    allen möglichen Selbstmordgedanken
+<del>&amp;</del> wo ich leider<lb break="yes"/>mich nicht beherrschen kann. Bitte
+                Sie höflichst! Geben Sie<lb break="yes"/>den Pflegern zulieb mir: Eine große <seg ana="#med">Schnapskur</seg>, wo<lb break="yes"/>ich schlafen kann, bei der <seg ana="#med">Trionalkur</seg> hab ich bloß paar<lb break="yes"/>Stunden
+                geschlafen. <del>H</del> Heute um 10 Uhr hab ich eine<lb break="yes"/>Glassäge
+                verschluckt, welche ich Gestern irgendwo er<lb break="no"/>wischte.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvollst</seg><lb break="yes"/><seg ana="#curse">Pinscher &amp;. größter Sünder</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Hans <surname>A.</surname>.</hi></seg><lb break="yes"/>Geben Sie mir bitte eine größere Kur!</hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2477c09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2477</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johanna <surname>K.</surname></persName>
+<date type="sent">xx.09.18xx</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Gunzenhausen</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2477c">
+<persName>
+<forename>Moritz</forename>
+<surname>K.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">49.1147095 10.7545933</geo>Gunzenhausen</residence>
+<faith>jüdisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1853" to="1854">Anstalt: 1853-54</p>
+<p from="1853" to="1854">Brieftypen: pp,ap,ao</p>
+</state>
+<trait><p>"trübe Gemüthsstimmung &amp; einen Zustand von Schwermuth“ (1853)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Ehefrau des Patienten bittet den Arzt, zu ihr und ihrem Mann zu kommen. Andernfalls werden sich beide nach Kaufbeuren begeben.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2477c09a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<salute><hi rendition="#c">Euer Wohlgebohren</hi></salute><dateline><hi rendition="#r"><hi rendition="#i">Gunzenhausen</hi> d<hi rendition="#i">en</hi> <space/>
+                        September</hi></dateline>
+</opener>
+<p>Durch <w>in liegenden</w> Brief des Herrn <hi rendition="#i">D</hi>r Herz<lb break="yes"/>werden Sie ersehen, in welcher Lage sich mein<lb break="yes"/>Man̄ befindet, u habe ich vom Herrn <hi rendition="#i">D<hi rendition="#u">r</hi></hi><lb break="yes"/>in Erfahrung gebracht daß Euer Wohlgeboren<lb break="yes"/>etwa
+                nach Wassertrüttingen kom̄en; in diesem<lb break="yes"/>falle möchte ich Sie
+                bitten da es in<lb break="yes"/>der Nähe von hier ist, diese kleine Strücke<lb break="yes"/>hierher zu machen, um meinen Man̄<lb break="yes"/>zu
+                sprechen. Im entgegen gesetzem falle<lb break="yes"/>daß Euer Wohlgeboren, nicht
+                    <w>hier her</w><lb break="yes"/>kom̄en, mache ich Sie darauf aufmerksam<lb break="yes"/>daß
+                ich mit meinem Man̄e nach<lb break="yes"/>Kaufbeuren fahren werde, u zwar
+                wen̄<lb break="yes"/>mein Man̄ einen guten Tag hatte<lb break="yes"/>am nägsten Mittwoch, woriber ich Euer<lb break="yes"/>Wohlgebohren unterthänigst
+                um Nachricht<lb break="yes"/>dariber gebeten haben möchte, ob ich<lb break="yes"/>Sie dort dreffen kan̄. </p>
+<p>bitte auch zu bemerken<lb break="yes"/>ob ich den hiesigen<lb break="yes"/>Arzt mit
+                <w>dort hin</w> nehmen<lb break="yes"/>sollte. −</p>
+<p><hi rendition="#r"><seg ana="#salute">Hochachtungsvoll</seg></hi><lb break="yes"/><hi rendition="#c"><seg ana="#signed"><hi rendition="#i">Johan̄a <surname>K.</surname></hi></seg></hi></p>
+<p><add place="margin">Die Adresse belieben <hi rendition="#u">Euer
+                        Wohlgebohren</hi><lb break="yes"/>Herrn <unclear>J.</unclear>
+<surname>K.</surname> in <hi rendition="#i">Gunzenhausen.</hi></add></p>
+</body>
+</text>
+</TEI>

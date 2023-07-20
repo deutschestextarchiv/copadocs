@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1697e01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1697</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>E.</surname></persName>
+<date type="sent">05.09.1908</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwandte: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1697e">
+<persName>
+<forename>Maria</forename>
+<surname>E.</surname>
+</persName>
+<birth when="1858"/>
+<death when="1912"/>
+<occupation>Monteursehefrau</occupation>
+<residence><geo decls="#WGS">47.457056800000004 10.271660845701515</geo>Fischen, Sonthofen, geb. Zülen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1906" to="1912">Anstalt: 1906-12</p>
+<p from="1906" to="1912">Brieftypen: pp, ao</p>
+</state>
+<trait><p>[Epilepsie], [Halluzination], [Suizidalität] (1906)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie hat lange keinen Brief mehr geschrieben. Ihr gefällt es in der Anstalt nicht und sie beschwert sich über die Bedingungen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1697e01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1697e01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren, den 5. September 08.</hi></dateline>
+<salute><hi rendition="#c">Liebe Verwandte!</hi></salute>
+</opener>
+<p> Sie werden Sich wundern<lb break="yes"/>wen Sie mein schreiben noch<lb break="yes"/>erhalten werden den ich kan<lb break="yes"/>es nicht andes vertragen vor<lb break="yes"/>den ¾ Jahr hat ich mein lets.<lb break="yes"/>Brief verschickt
+                Sie werdens<lb break="yes"/>nicht bekom̄en haben Lieber Onkel<lb break="yes"/>ich hab es mir die ganze Z verschob<lb break="yes"/>und lebte Bisher noch imer
+                    in<lb break="yes"/>Hofnung Trotzdem ich mein Onkel<lb break="yes"/>jetzt um ein
+                Paar mus Mark bitr<lb break="yes"/>Denn Tante wird sichs wohl denken<lb break="yes"/>wie es ein geht wen so lange<lb break="yes"/>1 Jahr das Unwahl weg ist u man
+                    hat<lb break="yes"/>kein Blut in den Knochen <seg ana="#inst">den hir<lb break="yes"/>ist es zum Verhungern früh Morg<unclear reason="rubbing">en</unclear>s<lb break="yes"/>1 Taße Kaffe Brühe den ganzen Tag<lb break="yes"/>mit schwarz Brod und Waßersuppen<lb break="yes"/>das Mittag
+                    nichts beßres</seg> ich hab<lb break="yes"/>das leben nicht ferdient u mein<lb break="yes"/>Kramf wird auch zuende s<del>k</del>ein hir haben <pb facs="#image_002"/>sich Unnsere Hern als ob Sie auf<lb break="yes"/>mein Tod
+                warten, hoffentlich haben.<lb break="yes"/>Sie schon die erfahreung gemacht<lb break="yes"/>das ich mein Man Nachgeschikt aber<lb break="yes"/>ich hab Ihn
+                nicht gesehn aber gehört<lb break="yes"/>u von ihn. Und zu was es nir und<lb break="yes"/>mir so geschieht, auf ebenfalls hoffe<lb break="yes"/>noch immer
+                mach zu, Trotzdem ich nir<lb break="yes"/>soweit wohl fühle u denke noch
+                    im̄er<lb break="yes"/>nach zu Hause hofent<del>h</del>lich
+                <del>S</del>sind meine<lb break="yes"/>Verwande alle gesundt u Munter<lb break="yes"/><space/> <seg ana="#salute">Von mir ein Herzlichen Gruß<lb break="yes"/><space/> an meine Verwandte u Angehör<add place="below">ig.</add></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Frau Marie
+                    <surname>E.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

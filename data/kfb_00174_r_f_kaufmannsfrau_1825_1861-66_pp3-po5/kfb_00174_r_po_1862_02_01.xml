@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb174r02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>174</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Rosette <surname>R.</surname></persName>
+<date type="sent">01.02.1862</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb174r">
+<persName>
+<forename>Rosette</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1825"/>
+<death cert="unknown"/>
+<occupation>Kaufmannsehegattin</occupation>
+<residence><geo decls="#WGS">48.8516578 10.4885873</geo>Nördlingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="1861" to="1866">Anstalt: 1861-66</p>
+<p from="1861" to="1866">Brieftypen: po, pp</p>
+</state>
+<trait><p>Hysterie (1861)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    aus Schwäche gefehlt, im Herzen friedfertig, Worte und Handlungen aus angegriffenem Zustand resultierend; 
+                    jetzt geschwächt, muss Bett hüten, will dass Ehe aufgelöst wird
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb174r02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb174r02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Das Bewußtseyn durch Handlungen, Schreiben,<lb break="yes"/>und Reden gegen das Gesetz
+                gefehlt zu haben ist<lb break="yes"/>beunruhigend, doch ermuthigend <add place="below">ist</add> der Gedanke nicht<lb break="yes"/>böswilliger Weise,
+                sondern aus Schwäche gefehlt<lb break="yes"/>zu haben, und es mag deßhalb unter
+                    Vergehen<lb break="yes"/>dem Anschein nach größer seyn, als in der<lb break="yes"/>Wahrheit und Wirklichkeit!- Denn im Herzen<lb break="yes"/>hegen
+                wir friedfertige, liebende und versöhn<lb break="no"/>liche Gedanken gegen Alle
+                Menschen, und<lb break="yes"/>zollen auch die gebührende Ehrfurcht, Achtung,<lb break="yes"/>Ehre, und Gehorsam, denjenigen, denen wir<lb break="yes"/>sie
+                durchs Gesetz schuldig sind.- Zu be<lb break="no"/>rücksichtigt werden verdient, daß
+                    in<lb break="yes"/>gereiztem, körperlich angegeriffnem Zustande<lb break="yes"/>wir uns Handlungen und Worte erlaubt<lb break="yes"/>haben, die wir bei ruhiger
+                    Ueberlegung<lb break="yes"/>sogleich herzlich bereut haben, und wieder<lb break="yes"/>gut zu machen bemüht sind. Dieß läßt<lb break="yes"/>uns
+                zuversichtlich der Verzeihung hoffen.<lb break="yes"/>Ebenso daß seit Beantragung
+                meiner Ehescheidung<lb break="yes"/>was bereits über ein Jahr ist, meine ohnehin<lb break="yes"/>schwache körperliche Gesundheit in Folge<lb break="yes"/>vielfach
+                ausgestandner Mißhandlungen,<lb break="yes"/>wahrer Seelenkämpfe und Höllenqual,
+                    jetzt<lb break="yes"/>so erschöpft und geschwächt ist, daß ich nicht <pb facs="#image_004"/>nur zu Arbeiten unfähig, sondern theilweise<lb break="yes"/>das Bett zu hüten genöthigt bin, und ich erkläre<lb break="yes"/>heute allen
+                denjenigen Herrn, die bei meiner<lb break="yes"/>EhescheidungsAngelegenheit
+                betheiligt sind,<lb break="yes"/>daß ich nicht im Stande bin, unter den
+                    bisherigen<lb break="yes"/>qualvollen drückenden Verhältnissen zu leben,<lb break="yes"/>sondern die Bitte einsende, meinem Stand und<lb break="yes"/>Verhältniß gemäß und meiner sehr geschwäch<lb break="no"/>ten Gesundheit halber
+                Sorge tragen zu wollen,<lb break="yes"/>daß ich vor Mißhandlungen zukünftig<lb break="yes"/>bewahrt, mir weitre Strafen erlassen,<lb break="yes"/>und durch das
+                königliche Landgericht und<lb break="yes"/>Geistlichkeit meine Ehe aufgelöst
+                    werde!<lb break="yes"/>Möge diese Bitte nicht allein Erhörung,<lb break="yes"/>sondern auch aus vernünftigen Gründen<lb break="yes"/>berücksichtigt werden!-<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvollst</seg></hi></p>
+<p><hi rendition="#i">Irrsee</hi> am<lb break="yes"/>1<hi rendition="#sup">t</hi> Februar 1862.<lb break="yes"/><hi rendition="#r"><seg ana="#signed">Dankbar Ergebenste<lb break="yes"/><hi rendition="#i">Rosette
+                            <surname>R.</surname></hi> geb:<lb break="yes"/><hi rendition="#i"><surname>S.</surname></hi>.</seg></hi></p>
+</body>
+</text>
+</TEI>

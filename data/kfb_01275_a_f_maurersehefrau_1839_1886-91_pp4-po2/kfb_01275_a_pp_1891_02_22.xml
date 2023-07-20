@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1275a05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1275</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Felicitas <surname>A.</surname></persName>
+<date type="sent">22.02.1891</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Onkel: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1275a">
+<persName>
+<forename>Felicitas</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1839"/>
+<death cert="unknown"/>
+<occupation>Maurersehefrau</occupation>
+<residence><geo decls="#WGS">47.9484351 10.3943101</geo>Markt Rettenbach, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1886" to="1891">Anstalt: 1886-91</p>
+<p from="1886" to="1891">Brieftypen: pp, po</p>
+</state>
+<trait><p>Depression im Wechsel mit Aufregung, [Suizidalität] (1888)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    will entlassen werden, bei Onkel Haushälterin machen, man soll sie abholen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1275a05a.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="kfb1275a05b.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 22 <hi rendition="#sup">ten</hi> Februar 1891.</hi></dateline>
+<salute><hi rendition="#c">Werdester Herr Unkell!</hi></salute>
+</opener>
+<p>
+Nur ötlich zeilen an Ihnen zu senden<lb break="yes"/>in dem ich so gerne entlaßen werden<lb break="yes"/>möchte von der Irseer Anstalt so<lb break="yes"/>wirde ich Ihnen Herzlich bitten<lb break="yes"/>ums hinaus hollen, Liebster Herr<lb break="yes"/>Unnkell waß mir am liebsten<lb break="yes"/>währe bei Ihnen die <w>Haus hälterin</w><lb break="yes"/>zu machen, Sie werden meine<lb break="yes"/>bitte ja doch nicht abschlagen es <w>er<lb break="yes"/>Barrmet</w> sich nimand um meiner<lb break="yes"/>Ich kan̄ alle Arbeiten waß einen<lb break="yes"/><w>Haus wesen</w> zustet, solte bei Ihnen,<lb break="yes"/>keine <w>haus hälterin</w> abgehen so
+
+<pb facs="#image_015"/>
+wirde ich umeine andere Arbeit<lb break="yes"/>schauen daß ich mich mit Örendurch<lb break="yes"/>durch bringen Arbeiten macht döß<lb break="yes"/>lebens Sis man̄ könnte mich jeden<lb break="yes"/>Tag hollen ich bin Gott sei Dank<lb break="yes"/>gesund u wohl wie auch ich hoffe<lb break="yes"/>daß mein Brif Ihnen in bester<lb break="yes"/>gesundheit antreffe <seg ana="#salute">es grist Sie,</seg><lb break="yes"/><seg ana="#signed">Base,<lb break="yes"/><hi rendition="#c">Felizitas <surname>A.</surname>.</hi><lb break="yes"/>geborene <surname>M.</surname></seg><lb break="yes"/><hi rendition="#r">von Buxheim.<lb break="yes"/>bei Memmingen.</hi>
+</p>
+</body>
+</text>
+</TEI>

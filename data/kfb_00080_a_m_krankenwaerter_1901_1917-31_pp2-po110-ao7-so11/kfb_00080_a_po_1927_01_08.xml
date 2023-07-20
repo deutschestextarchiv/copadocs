@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb80a20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent">08.01.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: <surname>F.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort: Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="1917" to="1931">Anstalt: 1917-31</p>
+<p from="1917" to="1931">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive anankastische Entwicklung, Psychopathie (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    berichtet von seiner Gotteslästerungsqual
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a20a.jpg" xml:id="image_061"/>
+<graphic mimeType="image/jpg" url="kfb80a20b.jpg" xml:id="image_062"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_061"/>
+<opener>
+<dateline><add hand="arzt">8.I.27</add></dateline>
+<salute><hi rendition="#c"><hi rendition="#u">Sehr geehrter Herr Oberarzt Doktor <hi rendition="#i">Fuchs</hi>!</hi></hi></salute>
+</opener>
+<p>Ich will Ihnen meine verfluchte <hi rendition="#i">Neue</hi>
+<hi rendition="#i">Gotteslästerungsqual </hi><lb break="yes"/><hi rendition="#i">&amp;. Gebetsunruhe</hi> schriftlich melden. Leider heißt es seit <hi rendition="#i">Neuem</hi> in<lb break="yes"/>meinem <hi rendition="#u">bösen
+                    Kopf täglich </hi><hi rendition="#i"><hi rendition="#u">Unzählige Mal in
+                        Gedanken</hi></hi>:<lb break="yes"/>bei 1.)<lb break="yes"/><hi rendition="#u"><hi rendition="#i">Mene mene Deckel Upharsin:</hi></hi>
+<add place="above">heißt</add> =<hi rendition="#i"><hi rendition="#u"> Der liebe
+                        Vater</hi></hi>
+<add place="above">Herrgott nicht gilts. sond. <surname>A.</surname> Vater</add>
+<hi rendition="#i"><hi rendition="#u"><seg ana="#curse">hat an Seckel</seg> &amp;. is. a.</hi>
+</hi><lb break="yes"/><hi rendition="#i"><seg ana="#curse">Spinn</seg></hi>. (<add place="above">2.)</add>
+                bei: <hi rendition="#i"><hi rendition="#u">Hosian̄a in der Höh</hi></hi>. =
+                    <hi rendition="#u"><hi rendition="#i">Vater <add place="above">Ich.</add> <seg ana="#curse">hat
+                        lauter Flöh</seg></hi></hi>.)<lb break="yes"/>(<add place="above">3.)</add>
+<hi rendition="#i"><hi rendition="#u">Groß ist die Dyana der Epheser</hi></hi> =
+                    <hi rendition="#i"><hi rendition="#u"><seg ana="#curse">Scheißt in die Hos der Men<lb break="no"/>schenfresser.</seg></hi>
+</hi><add place="above"><hi rendition="#i">ich.</hi></add>) <add place="above">4.)</add>
+<hi rendition="#u"><hi rendition="#i">Herr Zebaot = wo <add place="above">Debaot
+                            ich</add> nichts ist, als Schneisdreck &amp;.</hi></hi><lb break="yes"/><hi rendition="#i"><hi rendition="#u">lauter Kot.</hi></hi> (<hi rendition="#i">Ich <surname>A.</surname> bin nur gemeint, </hi><add place="above"><hi rendition="#i">&amp;.</hi></add><hi rendition="#i"> nicht
+                        <surname>F.</surname></hi>.) − − −<lb break="yes"/><add place="above">5.)</add>
+<hi rendition="#i"><hi rendition="#u">Kyrieleis</hi></hi> = <add place="above"><hi rendition="#i">ich</hi></add>
+<hi rendition="#i"><hi rendition="#u"><seg ana="#curse">Kikrikie scheiß</seg></hi></hi>. <add place="above">6.)</add>
+<hi rendition="#i"><hi rendition="#u">Vater Unser</hi></hi> = <add place="above"><hi rendition="#i">ich</hi></add>
+<hi rendition="#i"><hi rendition="#u"><seg ana="#curse">Alter Brunser.</seg></hi></hi><lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Leider kommt bei Jedem heiligen Namen ein böser <del>be</del>
+                frecher Reim<lb break="yes"/>= Ausdruck wo ich nicht haben will. Aber Alles
+                Bösgesagte wo unzähli<lb break="no"/>/ge Mal kom̄t &amp;. hier leider steht,
+                gibt mir unz<add place="above">z</add>ählige Mal mir <surname>A.</surname> selbst<lb break="yes"/><hi rendition="#r">&amp;. nicht <hi rendition="#i"><surname>K.</surname></hi> Christian.</hi>
+<pb facs="#image_062"/> Zum Wehren kommt folgendes hin:</p>
+<p><hi rendition="#i">Wenn bei Allem Bösgedachten Unzählige Mal Heilige Namen kommen,<lb break="yes"/>das Bösgedachte gehört nicht her, alle mir geltens Schluß,
+                    nicht Prinzing<lb break="yes"/>&amp;. Messer, <surname>A.</surname> geltens
+                    Schluß die bösen Gedanken &amp; nicht. <surname>F.</surname>.<lb break="yes"/><surname>A.</surname> Name gemeint Schluß = <surname>A.</surname>
+                    Name gilts Schluß (nicht <surname>K.</surname>).<lb break="yes"/></hi><milestone rendition="#hr" unit="section"/><lb break="yes"/>Nach Allem
+                Gesamtbeten heißt es folgendes: <hi rendition="#i">Alles bösgedachte mir<lb break="yes"/>gilts Schluß Satz Jux, Punkt. Geteilt durch soviel ist Null.<lb break="yes"/>Daß es nicht heist = Herrgott <add place="above">ich</add>
+                    ist mit Schmeißdreck <add place="above">nicht </add>verwandt:<lb break="yes"/>kommt </hi>nach jedem <hi rendition="#i">Gebet</hi> &amp;. jedem heiligen <hi rendition="#i">Namen</hi>
+<del>uz</del> unzählige Mal<lb break="yes"/>zum Wehren der folgende Satz.: <hi rendition="#i"><hi rendition="#u">Ich hab mich ergeben mit Hand, </hi></hi><lb break="yes"/><hi rendition="#i"><hi rendition="#u">sagt Zucker zum Kuchen
+                        verwandt. (Schön zur Abschiedsfeier.)</hi></hi><lb break="yes"/><hi rendition="#u">So geht es leider täglich immer ärger
+                    unglaublich bei mir weiter;</hi></p>
+</body>
+</text>
+</TEI>

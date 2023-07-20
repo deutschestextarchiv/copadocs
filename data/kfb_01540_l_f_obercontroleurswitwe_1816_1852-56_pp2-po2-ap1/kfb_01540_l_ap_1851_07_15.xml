@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1540l01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1540</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">n.a. <surname/></persName>
+<date type="sent">15.07.1851</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Therese<surname>L.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1540l">
+<persName>
+<forename>Therese</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1816"/>
+<death when="1856"/>
+<occupation>Obercontroleurswitwe</occupation>
+<residence><geo decls="#WGS">48.5536542 13.43816040895666</geo>Schärding, Passau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1852" to="1856">Anstalt: 1852-56</p>
+<p from="1852" to="1856">Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>Geisteszerrüttung, Manie (1852)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patientin wollte etwas veröffentlichen, Informationen dazu, dies nicht möglich
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1540l01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="kfb1540l01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Vertheste Madam!</hi></salute>
+</opener>
+<p>
+Der Aufsatz welchen Sie an die Redaktion übersendeten, kann<lb break="yes"/>nicht in das Blatt aufgenom̄en werden. Wie kön̄en Sie sich danken<lb break="yes"/>daß dieses in ein öffentliches Blatt aufgenom̄en werden kön̄te, ohne<lb break="yes"/>confiscirt zu werden! − Wenden Sie sich in einer Bittschrift<lb break="yes"/>an den König, freilich wäre es besser wenn Sie hier wären<lb break="yes"/>und eine Audienz beim König erbitten würden, auf diesem Wege<lb break="yes"/>geht es am Besten, wenn Sie ihr Anliegen dem König vortragen.<lb break="yes"/>Ietzt ist er zwar nicht in München, sondern in Bayreuth.<lb break="yes"/>Hiemit sende ich Ihnen Ihr Geld zurück, und ziehe nur meine<lb break="yes"/>Auslagen davon ab, für Einschreibgebühr beim Empfang und<lb break="yes"/>für <del>Lösung eines Postscheins.</del> <add>frankierung des Brief</add> <del>9a.</del> 15a.<lb break="yes"/><seg ana="#salute">Mit ausgezeichneter Hochachtung</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r">die Expedition des byl.<lb break="yes"/>Eilboten</hi></seg>
+<pb facs="#image_002"/>
+München 15. Iul. 1851 X.<lb break="yes"/>5 1/2 l<lb break="yes"/><hi rendition="#i">Madame Therese <surname>L.</surname></hi><lb break="yes"/>kgl. Grenzoberkontoleurs.Gattin M2<lb break="yes"/><hi rendition="#r">in<lb break="yes"/><hi rendition="#i">Neuhaus</hi><lb break="yes"/>am Inn.</hi><lb break="yes"/>Mit Inlage von 5 fl.<lb break="yes"/>(<del>gegen Schein</del>)<lb break="yes"/><hi rendition="#u"><hi rendition="#i">franco</hi></hi>14.<lb break="yes"/></p>
+</body>
+</text>
+</TEI>

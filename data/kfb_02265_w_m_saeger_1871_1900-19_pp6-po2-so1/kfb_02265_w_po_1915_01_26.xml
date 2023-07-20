@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2265w03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2265</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>W.</surname></persName>
+<date type="sent">26.01.1915</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schmiedmeister: Xaver <surname>A.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2265w">
+<persName>
+<forename>Josef</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1871"/>
+<death when="1919"/>
+<occupation>Säger</occupation>
+<residence><geo decls="#WGS">47.5538309 10.0206483</geo>Oberstaufen, Sonthofen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Bruder: Bauschlosser</p>
+<p from="1900" to="1919">Anstalt: 1900-1919</p>
+<p from="1900" to="1919">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>Halluzinationen, geistig zurückgeblieben (1900)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   wünscht Frohe Weihnachten und alles Gute zum Neuen Jahr
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2265w03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb2265w03b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r"><add hand="arzt">26. Jan. 1915</add></hi><lb break="yes"/><hi rendition="#c">Irse, Den 15 Dezember 1914.</hi></dateline>
+<salute><hi rendition="#c">Geherder Herr <surname>A.</surname>!</hi></salute>
+</opener>
+<p>
+Ich Schreibe meine Fordschreibung fon<lb break="yes"/>Irse, zu Mieddeilung fon dem<lb break="yes"/>bewonden Wonord meine Befiendung<lb break="yes"/>fon der ledzden zeid fon diessem<lb break="yes"/><seg ana="#inst">Bladsord</seg> in Irse wonhafd Forkomen<lb break="yes"/>Fordgehen. Fon forkomen zu fordgehen<lb break="yes"/>fon forsiechd zu nauslasung<lb break="yes"/>befindung zu Weidergehen.<lb break="yes"/>Fon diessem Weinachds forabed haben<lb break="yes"/><w>Weinachds geschengk</w> presend geben<lb break="yes"/>forkomen gangen. Fon meiner<lb break="yes"/>Zukomennen Weinachd presend<lb break="yes"/>Machde ich meine Freindliechsden<lb break="yes"/>bedangkung fon Gebener Sach.
+
+<pb facs="#image_008"/>
+Zu Negsdem Neü Jahr Glügkwienschung<lb break="yes"/>gruß, narrhnden Neü Jahr zukomen<lb break="yes"/>Meine Neü Jahr Gliegkwienschung Zu<lb break="yes"/>Gesundder wohlergeen erhalden, Ihrem<lb break="yes"/>befinden forkomung zu dem Brief<lb break="yes"/>auch ordnung hab könen gehen<lb break="yes"/>Wie Hofendliech fon ihrem zukomen<lb break="yes"/>erhaldener Brief hab könen Zufrieden<lb break="yes"/>komen gehen, Gesunde Gliegklieche<lb break="yes"/>Gelebde wolergehen befiendungs<lb break="yes"/>Frieden hab Könen gehen.<lb break="yes"/><seg ana="#salute">Zu Freindliechsdem gruß schließd<lb break="yes"/>Nebsd Brief</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Josef <surname>W.</surname></seg><lb break="yes"/>Absendder</hi><lb break="yes"/>Adress. An Herrn Xafer <surname>A.</surname><lb break="yes"/><hi rendition="#c">Schmiedmeisder</hi><lb break="yes"/><hi rendition="#r">in Obersdaufen im Algäu</hi><lb break="yes"/>Fon Abgangener Adreß ankunfd daß<lb break="yes"/>Enfangnenen fon befändung wen<lb break="yes"/>niechd zu bladz hab gangen, kön Brief<lb break="yes"/>Zuriegksenden.<lb break="yes"/></p>
+</body>
+</text>
+</TEI>

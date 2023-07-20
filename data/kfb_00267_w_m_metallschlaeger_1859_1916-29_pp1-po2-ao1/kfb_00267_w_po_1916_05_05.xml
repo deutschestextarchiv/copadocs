@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb267w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>267</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann Adam <surname>W.</surname></persName>
+<date type="sent">05.05.1916</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Benefiziat: Konrad <surname>B.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb267w">
+<persName>
+<forename>Johann Adam</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1859"/>
+<death cert="unknown"/>
+<occupation>Metallschläger</occupation>
+<residence><geo decls="#WGS">48.4776716 10.4831576</geo>Waldkirch, Günzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1916" to="1929">Anstalt: 1916-1929</p>
+<p from="1916" to="1929">Brieftypen: pp,po</p>
+</state>
+<trait><p>Halluzinationen, Paranoia, Trunksucht (1915)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient berichtet von seiner Verlegung nach Irsee. Er stellt außerdem fest, dass er eine weitere Verlegung in die Nähe seines Heimatortes befürworten würde.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb267w04a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb267w04b.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><hi rendition="#r">Irsee den 5. Mai 1916.</hi></dateline>
+<salute>Hochwürdiger Herr Benefiziat!</salute>
+</opener>
+<p>Vor Allem möchte ich meinen in̄igsten<lb break="yes"/>Dank dafür zum Ausdruck
+                bringen,<lb break="yes"/>daß die Gemeinde Waldkirch es sich so<lb break="yes"/>viel kosten läßt, um meinen Lebens<lb break="no"/>unterhalt und die Kosten meiner
+                Heilung<lb break="yes"/>zu bestreiten. Zugleich möchte ich Euer<lb break="yes"/>Hochwürden ergebenst mittheilen, daß<lb break="yes"/>ich nach einmonatlichem
+                Aufenthalt in<lb break="yes"/>der Anstalt in Kaufbeuren in die<lb break="yes"/>Pfleganstalt in Irsee verbracht worden<lb break="yes"/>bin. Es wäre mir
+                allerdings lieber<lb break="yes"/>gewesen, wen̄ ich in meinem krank<lb break="no"/>haften Zustand in einem Hause,<lb break="yes"/>welches näher bei
+                meiner Heimat <pb facs="#image_011"/>liegt, zum Beispiel in einem Spital,<lb break="yes"/>untergebracht worden wäre. Indem ich<lb break="yes"/>Sie noch
+                freundlichst bitte, dafür sorgen<lb break="yes"/>zu wollen, daß jemand aus meiner<lb break="yes"/>Gemeinde mich möglichst bald hier be<lb break="no"/>sucht, bin
+                ich <seg ana="#salute">nebst herzlichen Grüßen</seg>
+</p><p><hi rendition="#r">Euer Hochwürden</hi></p><p><hi rendition="#c">ergebenster</hi><lb break="yes"/><hi rendition="#r">Johan̄ <surname><hi rendition="#i">W.</hi></surname></hi>.</p>
+<p>Adresse.<lb break="yes"/>Hochwürden Wohlgeboren<lb break="yes"/>Herrn Konrad
+                    <surname>B.</surname>,<lb break="yes"/>Kuratbenefiziat<lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#r">Mönstetten,<lb break="yes"/>k. Bezirksamt
+                    Günzburg<lb break="yes"/>a.d.D.</hi></p>
+</body>
+</text>
+</TEI>

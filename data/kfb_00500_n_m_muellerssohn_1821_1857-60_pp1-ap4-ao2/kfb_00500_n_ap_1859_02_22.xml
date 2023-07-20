@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb500n04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Angela Hofmann</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>500</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Katharina <surname>N.</surname></persName>
+<date type="sent">22.02.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Sohn: Franz <surname>N.</surname></persName>
+<settlement type="sent">Hecken</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb500n">
+<persName>
+<forename>Franz</forename>
+<surname>N.</surname>
+</persName>
+<birth when="1821"/>
+<death cert="unknown"/>
+<occupation>Bauern- und Müllerssohn</occupation>
+<residence><geo decls="#WGS">48.3277485 11.9905263</geo>Hecken, Erding</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: wohlhabend</p>
+<p from="1857" to="1860">Anstalt: 1857-60</p>
+<p from="1857" to="1860">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Seelenstörung, Schwermut, [Suizidalität] (1857-1860)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    schickt dem Sohn Geld für eine Hose; sagt, er soll nicht denken, sie würden ihn nicht lieben
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb500n04a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb500n04b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r">Hecken den 22<lb break="yes"/>Febr 1859</hi></dateline>
+<salute><space/> Lieber Franz!</salute>
+</opener>
+<p>
+<add hand="arzt" place="above">26 febr. 59.</add> Da ich von der Anstalt ein
+                Schreiben erhalten<lb break="yes"/>habe, daß du eine Post und Hose wünschest nach
+                dem<lb break="yes"/>Muster welches im Brief sich befand, so schicke ich dir<lb break="yes"/>meines Erachtens lieber das Geld nämlich 25f.<lb break="yes"/>werden verlangt, als die Kleider, ich denke sie<lb break="yes"/>kön̄ten
+                villeicht nicht recht gemacht seyn. Lieber Sohn!<lb break="yes"/>sey doch nicht so
+                einbilderisch wie als wen wir dich nicht<lb break="yes"/>liebten. Du weißt ja doch,
+                daß eine famili ihre Glieder<lb break="yes"/>liebt, und um so mehr wen̄
+                eines leidet, und gewiß<lb break="yes"/>ist jedes von uns um dich recht besorgt,
+                und bekümert.<lb break="yes"/>und wen̄ du einmal ganz von Herzen vergnügt<lb break="yes"/>und zufriden die Anstalt verlaßest, O! dan, dan<lb break="yes"/>wirst du es erken̄en müssen, daß wir dich imer<lb break="yes"/>treu und
+                aufrichtig geliebt auch wen wir dir<lb break="yes"/>manches versagten. Auch glaub
+                ich wirst du dich <pb facs="#image_006"/> schon in den Brief von der Kathi überzeigt
+                    haben<lb break="yes"/><seg ana="#salute">Sey von uns Allen schönstens gegrüßt und in Schutz<lb break="yes"/>Gottes empfohlen und schreibe uns, wie es dir geht<lb break="yes"/>und ob du auch ein Geschicht hast.</seg> <seg ana="#signed">In aller Liebe<lb break="yes"/>bleibe ich
+                deine um dein Wohl stets</seg></p>
+<p><seg ana="#signed"><hi rendition="#r">bekümerte Mutter<lb break="yes"/>Katharina <surname>N.</surname></hi></seg></p>
+<p>Sollte dir etwas abgehen<lb break="yes"/>so schreibe uns, dieses<lb break="yes"/>sind 29 f 18 K.
+</p>
+</body>
+</text>
+</TEI>

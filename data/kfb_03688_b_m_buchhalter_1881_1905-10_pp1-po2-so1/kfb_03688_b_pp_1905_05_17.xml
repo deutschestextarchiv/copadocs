@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3688b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Franziska Eber</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3688</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Rudolf <surname>B.</surname></persName>
+<date type="sent">17.05.1905</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Frau: Apothekea</persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3688b">
+<persName>
+<forename>Rudolf</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1881"/>
+<death cert="unknown"/>
+<occupation>Buchhalter</occupation>
+<residence><geo decls="#WGS">48.8870756 10.476036</geo>Wallerstein, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: prakt. Arzt</p>
+<p from="1905" to="1910">Anstalt: 1905-10</p>
+<p from="1905" to="1910">Brieftypen: Lebenslauf</p>
+</state>
+<trait><p>Angstzustände, Depression, Manie (wechselnd) (1905)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    beschreibt jemanden als Sodomist
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3688b03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="kfb3688b03b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Augsburg, 17. Mai 1905</hi></hi></dateline>
+<salute><hi rendition="#c">Liebe Frau Apotheker!</hi></salute>
+</opener>
+<p><space/> Ganz mit verweinten u. mit<lb break="yes"/>zentnerschwerbeladenem Herzen
+                    er<lb break="no"/>greife ich die Feder, um einer Freundin,<lb break="yes"/>an
+                der mir Alles gelegen ist, etwas zu<lb break="yes"/>beken̄en, das <hi rendition="#i">ich</hi> so etief bisher im<lb break="yes"/>Herzen getragen habe.
+                Du nen̄nst<lb break="yes"/>deinen<add place="above"><hi rendition="#u">2</hi></add> Fritz<add place="above"><hi rendition="#u">1</hi></add>
+                "Man̄". Bei deiner<lb break="yes"/>herrischen Liebe ist
+                <unclear>D</unclear>ir die Enthaltsam<lb break="no"/>keit seines Geschlechtsgenuß
+                noch nicht<lb break="yes"/>aufgefallen. Aber Dein fritzchen<lb break="yes"/>ach
+                die feder sträubt sich!! <hi rendition="#i">ach</hi> muß<lb break="yes"/>es
+                den̄ heraus? Ja <hi rendition="#i">ich</hi> muß es be<pb break="no" facs="#image_008"/>ken̄en meiner geliebten Freundin.<lb break="yes"/>Er ist..
+                Sodomist!! Den Hund miß<lb break="no"/>braucht er. Das Rad, das er
+                    <unclear>D</unclear>ir <hi rendition="#i">gege</hi>ben<lb break="yes"/><add place="above">ist das Mittel, das</add>
+<del>verschafft</del> ihm in deiner Abwesenheit<lb break="yes"/>die größten
+                Hundsvergnügungen<lb break="yes"/><add place="above">verschafft.</add> Gerne werde
+                    <hi rendition="#i">ich mich</hi> Deiner erin<lb break="no"/>ern, wen̄ Er,
+                der abscheuliche Man<lb break="yes"/>seinen Verpflichtungen nicht mehr<lb break="yes"/>nachkom̄t. Faße <unclear><hi rendition="#i">D</hi></unclear><hi rendition="#i">ich</hi>, den̄ <unclear>D</unclear>u
+                hast<lb break="yes"/>ein Herz<del>chen</del>en <hi rendition="#i">ge</hi>funden<lb break="yes"/><hi rendition="#r">an deinem <unclear>D</unclear>ich küßenden<lb break="yes"/>Freunde <hi rendition="#i">Rudolf</hi>.</hi></p>
+</body>
+</text>
+</TEI>

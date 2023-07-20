@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb192a04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>192</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>A.</surname></persName>
+<date type="sent">03.04.1859</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: n.a. <surname>n.</surname></persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb192a">
+<persName>
+<forename>Heinrich</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1818"/>
+<death when="1866"/>
+<occupation>Pharmazeut</occupation>
+<residence><geo decls="#WGS">47.9867696 10.181319</geo>Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Vater Zollinspektor</p>
+<p from="1859" to="1866">Anstalt: 1859-1866</p>
+<p from="1859" to="1866">Brieftypen: <!--Brieftypen--></p>
+</state>
+<trait><p>krankhafte Empfindlichkeit und Schwermut, fixe Ideen (1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Vater nimmt Bezug auf das Schreiben seiner Nichte und die Antwort des Direktors: Es soll zu keiner List gegriffen werden, um den Kranken nach Irsee zu befördern. Außerdem bittet er den Direktor, seinem kranken Sohn wie ein zweiter Vater zu sein.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb192a04a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb192a04b.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><hi rendition="#r">München den 3<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> April 1859. </hi>
+<add hand="arzt"><lb break="yes"/>pr 4 Apr 59</add></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Hochwohlgebornen Hochgeehrter<lb break="yes"/>Herr </hi>Director<hi rendition="#i">!</hi></hi></salute>
+</opener>
+<p>Ich danke für die gütige Mittheilung Ihres<lb break="yes"/>Rathes an meine
+                Nichte Frau v. <surname><hi rendition="#i">F.</hi></surname><lb break="yes"/>die Bezug auf die Ablieferung meines Sohnes<lb break="yes"/>Heinrich <surname><hi rendition="#i">A.</hi></surname> in die Heilanstalt <hi rendition="#i">Irsee</hi> verbindlichst. </p><p><space/> Da nun die Polizei-Direktion die Ablie<lb break="no"/>ferung meines Sohnes verweigerte,
+                so habe<lb break="yes"/>ich zum Begleiter desselben den Kranken<lb break="no"/>wärter Johann <surname>S.</surname> von Hier gewählt,<lb break="yes"/>der
+                sich stets mit solchen Begleitungen<lb break="yes"/>beschäftiget. <space/> Die Zeit
+                der Ablieferung<lb break="yes"/>ist nun auf 5 oder 6<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> d. Mts Vormittags<lb break="yes"/>11 Uhr
+                verabredet, wenn nicht allenthalben <pb facs="#image_013"/> von Seite des Kranken
+                Hindernisse<lb break="yes"/>gemacht werden; indessen wird in<lb break="yes"/>der
+                Sache nach Ihrem Rathe jede<lb break="yes"/>List vermieden werden.</p><p>Mögen Herr Direktor! ich bitte Sie<lb break="yes"/>meinem unglücklichen Sohne ein zweiter<lb break="yes"/>Vater seyn; Bedenken Sie, daß ein<lb break="yes"/>solches Unglück
+                schwer auf das Ge<lb break="no"/>müth eines Vaters wirkt.</p><p>Gott sei mit uns Allen.<lb break="yes"/><seg ana="#salute">Hochachtungsvoll zeichnet<lb break="yes"/></seg><seg ana="#signed">Euer Hochwohlgeborn<lb break="yes"/><hi rendition="#r">ergebenster Diener<lb break="yes"/>Heinrich
+                            <surname>A.</surname><lb break="yes"/>Oberzollinspektor.</hi></seg>
+</p><p><add>Logirt Sendlinger-Land<lb break="no"/>strasse <hi rendition="#i">N</hi><hi rendition="#sup"><hi rendition="#i">o</hi></hi>. 2/2. links.</add></p>
+</body>
+</text>
+</TEI>

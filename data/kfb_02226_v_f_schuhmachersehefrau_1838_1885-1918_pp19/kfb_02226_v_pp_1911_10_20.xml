@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2226v11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2226</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>V.</surname></persName>
+<date type="sent">20.10.1911</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Kinder: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2226v">
+<persName>
+<forename>Maria</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1838"/>
+<death when="1918"/>
+<occupation>Schuhmachersehefrau</occupation>
+<residence><geo decls="#WGS">48.1479335 10.7571408</geo>Langerringen, Augsburg, wohnhaft: Kolonie Hurlach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1885" to="1918">Anstalt: 1885-1918</p>
+<p from="1885" to="1918">Brieftypen: pp, ao</p>
+</state>
+<trait><p>Manie (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin möchte nach Hause geholt werden und richtet Grüße aus.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2226v11a.jpg" xml:id="image_033"/>
+<graphic mimeType="image/jpg" url="kfb2226v11b.jpg" xml:id="image_034"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_033"/>
+<opener>
+<dateline>Jrse den 20 <hi rendition="#sup">ten</hi> Ockdober 19.<lb break="yes"/><hi rendition="#r">Hundert 11 </hi></dateline>
+<salute>Liebe Kinder </salute>
+</opener>
+<p>seit so gut<lb break="yes"/>Und Holed mich nach<lb break="yes"/>Hause ich Liebe
+                Eich<lb break="yes"/>u möchthe gern nach Hause<lb break="yes"/>ich möchte Übriger<lb break="yes"/>nicht mer So lange <unclear>nitus</unclear><lb break="yes"/>Spilen mir Alle
+                Kinder<lb break="yes"/>Viele Herzliche<lb break="yes"/>Grise an Marie u. Julus<lb break="yes"/>an Anton u seine Kinder<lb break="yes"/>bei meiner Frau Schwigrin<lb break="yes"/>war ich gut ich liebe Hilar<lb break="yes"/>u. Kinder ich
+                köntde Eich </p>
+<pb facs="#image_034"/>
+<p>ich Möchte<unclear>:</unclear> nur Eure Ruh<lb break="yes"/>suchen der
+                    <surname>W.</surname> last Euh<lb break="yes"/>Grisen und diche Viele Laichen<lb break="yes"/>kan nur Ale ich wen ich<lb break="yes"/>zuse bin Ärzzelen<lb break="yes"/>Holed Michel mich<lb break="yes"/>oder Her Schwager<lb break="yes"/><seg ana="#salute">Dausend mal ist mein<lb break="yes"/>liber Man Gegrüst<lb break="yes"/>deine aufrichdtige</seg> <seg ana="#signed">Marie<lb break="yes"/><hi rendition="#r"><surname>V.</surname></hi></seg><hi rendition="#r">. Amen.</hi> </p>
+</body>
+</text>
+</TEI>

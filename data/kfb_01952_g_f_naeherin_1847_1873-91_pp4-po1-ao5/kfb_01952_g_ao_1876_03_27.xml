@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1952g04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1952</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Walburga <surname>S.</surname></persName>
+<date type="sent">27.03.1876</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Kempten</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1952g">
+<persName>
+<forename>Magdalena</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1891"/>
+<occupation>Näherin</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: uneheliche Tochter, Schuhmacher und Kutscher</p>
+<p from="1873" to="1891">Anstalt: 1873-91</p>
+<p from="1873" to="1891">Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>religiöser Wahnsinn (1873), Größenwahnideen, Verfolgungswahnideen, Halluzinationen (1882)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   fragen, wie es der Schwester geht; haben noch die Hoffnung, dass sie wieder ganz gesund wird
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1952g04a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb1952g04b.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#i">S</hi>. 31/3. </add> <hi rendition="#r">Kempten, den 27 März 1876.</hi></dateline>
+<salute><hi rendition="#c">Hochverehrteste Verwaltung!</hi></salute>
+</opener>
+<p> Ich bin nun wieder so frei und schreibe Ihnen<lb break="yes"/>ein kleines Briefchen, mit
+                der Anfrage wie<lb break="yes"/>es unsere Schwester Magdalena
+                    <surname>G.</surname> mit<lb break="yes"/>Ihrem Befinden steht, ob in dieser
+                Zeit kein<lb break="yes"/>Fortschritt in ihrer Gesundheit bemerkbar ist,<lb break="yes"/>und ob sie auch arbeitet und ruhig ist; es<lb break="yes"/>wäre
+                nur unser einziger Wunsch daß die<lb break="yes"/>Lena wieder gesund würde und zu
+                    uns<lb break="yes"/>kom̄en kön̄te, wir hegen im̄er noch
+                    die<lb break="yes"/>Hoffnung daß sie wieder vollkom̄en gesund<lb break="yes"/>wird, wollte Gott sie ging in Erfüllung.<lb break="yes"/>Hochverehrteste Verwaltung! seien Sie so<lb break="yes"/>freundlich und erzeigen
+                Sie uns die Güte,<lb break="yes"/>indem Sie uns, mit dem Befinden unserer<lb break="yes"/>Schwester in einem Briefchen benachrichtigen;<lb break="yes"/>Wir
+                legen auch ein paar Zeilen der Lena bei<lb break="yes"/>daß sie auch uns ein
+                kleines Briefchen<lb break="yes"/>schreiben möge, haben Sie die Ge<del>a</del>fälligkeit<lb break="yes"/>und übergeben Sie es ihr, mit dem Bemerken<lb break="yes"/>daß
+                sie auch uns schreibt.</p> <pb facs="#image_005"/> <p>Ich schließe jetzt mein Schreiben,
+                    <seg ana="#salute">und grüßen<lb break="yes"/>Sie mit aller
+                    Hochachtung</seg></p><p>
+<seg ana="#signed"><hi rendition="#r">Walburga <surname>S.</surname> u Katharina
+                            <surname>G.</surname>.</hi></seg></p><p> Die Adresse ist zu
+                    machen:<lb break="yes"/>An Walburga <surname>S.</surname> in<lb break="yes"/>Neustadt Kempten. Brachstraße. </p>
+</body>
+</text>
+</TEI>

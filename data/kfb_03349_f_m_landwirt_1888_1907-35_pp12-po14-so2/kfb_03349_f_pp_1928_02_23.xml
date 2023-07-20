@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3349f06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3349</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>F.</surname></persName>
+<date type="sent">23.02.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb3349f">
+<persName>
+<forename>Jakob</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1888"/>
+<death cert="unknown"/>
+<occupation>Landwirt, Dienstknecht</occupation>
+<residence><geo decls="#WGS">48.2473553 10.4500832</geo>Premach, Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Landwirt</p>
+<p from="1907" to="1935">Anstalt: 1907-35</p>
+<p from="1907" to="1935">Brieftypen: pp, po, so</p>
+</state>
+<trait><p>maniakalischer Erregungszustand (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gedicht über Geburt eines Kindes in einer Winternacht
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb3349f06a.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb3349f06b.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="kfb3349f06c.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren, den 23.II.</hi><lb break="yes"/>Im Jahre des Heils 1928.</dateline>
+<salute/>
+</opener>
+<p>
+<hi rendition="#i"><hi rendition="#c">Pelikan.</hi><lb break="yes"/><foreign xml:lang="lat">Paks Domini sit semper</foreign><lb break="yes"/><hi rendition="#c">vobikum!<lb break="yes"/>Haurire aquaskum gaudio, de vuntibus<lb break="yes"/>Salvatoris!</hi></hi></p>
+<p>Hab geträumt von einer Winternacht,<lb break="yes"/>Es schneiet leise,<lb break="yes"/>War Son̄tag, der weise<lb break="yes"/>Ward als Kindlein zur Welt gebracht.</p>
+<p>Geraubt! vertauscht!<lb break="yes"/>Lag in den Kissen,
+
+<pb facs="#image_017"/>
+Kon̄ts fast nim̄er Wissen,<lb break="yes"/>Vielleicht von einer Zigeunerfrau?</p>
+<p>Durch die Adern rollt adelig Blut,<lb break="yes"/>Das Kindlein so klein,<lb break="yes"/>Die Äuglein so rein,<lb break="yes"/>Will Gott es wird alles noch gut.</p>
+<p>gewidemet der <hi rendition="#i">Mt.euchscogregation</hi><lb break="yes"/><space/> in <hi rendition="#i">Ursberg</hi>.
+				    
+<pb facs="#image_018"/>
+Viel ist schon getan,<lb break="yes"/>Viel bleibt noch zu tun übrig.</p>
+<p>Bete für mich damit ich bestehe</p>
+<p><seg ana="#salute">Mit frdl. Gruss</seg><lb break="yes"/><unclear>?</unclear>
+</p>
+</body>
+</text>
+</TEI>

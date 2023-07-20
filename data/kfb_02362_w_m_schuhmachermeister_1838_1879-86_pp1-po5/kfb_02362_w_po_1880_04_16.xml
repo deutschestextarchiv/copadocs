@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2362w01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2362</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann <surname>W.</surname></persName>
+<date type="sent">16.04.1880</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2362w">
+<persName>
+<forename>Johann</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1838"/>
+<death when="1886"/>
+<occupation>Schuhmachermeister</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1879" to="1886">Anstalt: 1879-1886</p>
+<p from="1879" to="1886">Brieftypen: pp,po</p>
+</state>
+<trait><p>Größenwahn u. Melancholie (1879)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt"/>
+<handNote medium="pencil_grey" scope="minor" scribe="hand3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient erzählt von seiner Zeit beim Militär, währenddessen er auch in München war. 
+                    Nun sei er schon seit 10 Jahren pensioniert. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2362w01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren, den 16.<hi rendition="#sup">ten</hi>
+                        April-<lb break="yes"/><hi rendition="#u">80</hi>
+</hi></dateline>
+<salute><hi rendition="#c">Wertherr <unclear>?</unclear> Herr-
+                    Doktor!</hi></salute>
+</opener>
+<p>Ich Bin, Ano Siebenzig ? Einunn-Sieb-Züg. Am<lb break="yes"/>Fünften Seg<hi rendition="#u">te</hi>mber, <w>Einberufen</w><add place="below">-</add><w>Worden</w>, Abends, Um<lb break="yes"/>Sieben- Uhr- Habe, Ich.
+                Meinen Urlaubs-Bass.<lb break="yes"/>Unter-Schreiben Lassen, Da Muste, Ich am
+                        Achzen<del><unclear>htn</unclear></del>
+<add place="above">ten</add> ?<lb break="yes"/>Drienen Sein? Da. War. I.
+                    <surname>W.</surname>. Herrn <add place="above">von</add>
+<w>Grafen</w><lb break="yes"/>Hochwohl-Geboren. Herrn Haupt-Man̄? alla <w>Suhte</w><lb break="no"/><w>Von</w>. Herrn Pen̄. Sie <del>N</del>
+<add place="below">nier<unclear>se</unclear>ierten</add> 2 Her Haupt-Man̄ Von<lb break="yes"/>Iunge-Mau<unclear>g</unclear>? Dan̄, Wie. Ich eingerükt
+                kam̄<lb break="yes"/>Icch Zum Errsten,
+                    Regie-<del><unclear>Me</unclear></del>-Meut Nach. Müncchen.<lb break="yes"/>Und, Da, Kam̄ Ich, Wie. Ich Eingerük. War Auf Das<lb break="yes"/>Biroh
+                    <w>Als</w>-<w>Gwatier-Meister</w>. <del>A</del> In. München, In Ker<lb break="yes"/><w>Königlichen</w>-<w>Resiedens- Stadt</w>,
+                        Mün<del><unclear>f</unclear></del>hen und Da−<lb break="yes"/>Wahr
+                Ich <hi rendition="#u" style="arzt">In- <w>Offizir Rang</w>. </hi><lb break="yes"/>Iezt. Bin Ich<lb break="yes"/>Pensionirt Mit <w>2<lb break="no"/>Dausend</w>-<w>Gulden</w><lb break="yes"/><w>Peer</w>-<w>Jahr</w>. Das. Ist Jetzt Schon<lb break="yes"/><w>Zehn</w>-<w>Jahre</w> Das Ich. Bensionird bin, <add><hi rendition="#r">Und Das Geld, Laß Ich</hi></add><lb break="yes"/>In
+                    München <space/> In Der Reichs-Bank <add><hi rendition="#r">Stehen</hi></add></p>
+<p><add place="margin"><hi rendition="#r"><seg ana="#salute">Es grüßt Freudlist</seg><lb break="yes"/><w>Haus</w>-<hi rendition="#u" style="hand3"><w>von</w></hi>
+<seg ana="#signed"><surname>W.</surname></seg><lb break="yes"/>Leder-Fabrkan in<lb break="yes"/>Augsburg Durch<lb break="yes"/>Güte</hi></add></p>
+</body>
+</text>
+</TEI>

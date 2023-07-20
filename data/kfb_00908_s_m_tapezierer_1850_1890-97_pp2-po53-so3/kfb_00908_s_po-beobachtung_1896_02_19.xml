@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb908s16" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Jakob <surname>S.</surname></persName>
+<date type="sent">19.02.1896</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> <surname>n.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb908s">
+<persName>
+<forename>Jakob</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1850"/>
+<death cert="unknown"/>
+<occupation>Tapezierer, Bettler, Landstreicher</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1890" to="1897">Anstalt: 1890-1897</p>
+<p from="1890" to="1897">Brieftypen: pp, po</p>
+</state>
+<trait><p>[Epilepsie] (1890)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notizen</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Notizen, humoristische Gesetztschreibung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb908s16.jpg" xml:id="image_040"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_040"/>
+<opener>
+<dateline><add hand="arzt">(<surname>S.</surname> Jkb. 19.II 96)</add></dateline>
+<salute/>
+</opener>
+<p>
+<hi rendition="#c"><hi rendition="#i"><emph>Beobachtung</emph></hi></hi><lb break="yes"/><hi rendition="#i">Der Eintritt in diesen <seg ana="#inst">Krankensalon</seg><lb break="yes"/>zugleich <seg ana="#curse">Verpestungsloch</seg>, ist nach
+                    dem</hi><lb break="yes"/>Narren<hi rendition="#i">aerzte-Gesetzbuch der
+                    Wüllkür</hi><lb break="yes"/>bei Strafe ver<hi rendition="#i">boten</hi>. D<hi rendition="#i">er rechtsmä</hi>h<hi rendition="#i">sige<lb break="yes"/>Übertretter wird nach dem <w>Narren<lb break="no"/>schwindel</w></hi> Paragraf
+                N% D<hi rendition="#i">umheit</hi><lb break="yes"/>nach Umständen der Aerzte zu
+                        <w>lebens<lb break="yes"/>länglicher</w>
+<seg ana="#med">Geisteskrankheit</seg> verurtheilt.<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Irsee d.</hi> 9. Febr. 1896.<lb break="yes"/>Narren-Magistrath<lb break="yes"/>N. N.</hi>
+</p>
+</body>
+</text>
+</TEI>

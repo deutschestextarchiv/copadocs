@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb519l127" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>519</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelmine von <surname>L.</surname></persName>
+<date type="sent">ca. 1859-72</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a.</persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb519l">
+<persName>
+<forename>Wilhelmine von</forename><surname>L.</surname>
+</persName>
+<birth when="1823"/>
+<death when="1872"/>
+<occupation>Patrizierstochter</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Patrizier</p>
+<p from="1859" to="1872">Anstalt: 1859-72</p>
+<p from="1859" to="1872">Brieftypen: pp, po</p>
+</state>
+<trait><p>Geistesstörung (1859), Reizbarkeit, konstitutionelle Nervenschwäche (1852), Erotomanie mit Verfolgungswahn (moral insanity) (1868)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notiz</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin beklagt sich über die Umstände in der Anstalt, die sie zwingen, sich entgegen ihrer sittlichen Gewohnheiten zu verhalten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb519l127a.jpg" xml:id="image_338"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_338"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p>Hr Kaplan ist ein nächläßiger schlechter Geistlicher u läßt es nicht zu<lb break="yes"/>daß man ordentlich zum beichten kom̄t, u komt nur um ein<lb break="yes"/>bloß zu sehen od vor seine Websbilder hinzustehen. −<lb break="yes"/>Ich gehe daher nie mehr zum beichten ohne den Schlüßel <seg ana="#pic"/> −<lb break="yes"/>u ihr müßt es verantworten, weil ihr mich
+                nie recht zur Kirch.<lb break="yes"/>u nur dem Müßiggang <w>preis gebt</w> u weder
+                auf dem <unclear>Gang</unclear><lb break="yes"/>noch woanders Eure Pflicht u Ordnug erwarten <del>darf</del>
+<add place="above">kan̄</add><lb break="yes"/>Da ihr entweder gar nicht kom̄t od nur am Vorbeigehen wolt<lb break="yes"/>daß ich wie ein Raubvogl Euch pake od wie ein Nachtvogel<lb break="yes"/>Euch nachfliege oder die Röcke über Euch aufliegen laße<lb break="yes"/>Ich habe nie solche schlechte Ausdrücke gebraucht u gewußt<lb break="yes"/>bis ihr selber mir gelernt u habe mich nie Jemand so<lb break="yes"/>schlecht h<del>z</del>ingeben wie ihr es verlangt Und weil ihr<lb break="yes"/>nie zufrieden da ich gethan so viel als möglich so thu<lb break="yes"/>ich gar nichts mehr da es mir unmöglich zugleich<lb break="yes"/>mich u Euch herzurichten u. dem Augenblick u. in der<lb break="yes"/>Weise <add place="above">wo u.</add> wie ihr es erratet u will mich deßhalb nicht<lb break="yes"/>so verfehlen u Mißhandlugen preisgeben − Da ich mich<lb break="yes"/>noch nie mit Jemand verfehlt der mich anständig<lb break="yes"/>berührt u nicht verlangte selbst etwas Unanstädig<lb break="yes"/>zu thun. Ich
+                hatte auch nie solche Bedürfniße u meine<lb break="yes"/>schwache <hi rendition="#i">Constitut<unclear>on</unclear></hi> verbiethet mir jede Befriedung u<lb break="yes"/><del>befiehlt</del> u erforderte stets andere Erholungen, die mir<lb break="yes"/>hier ebenso wenig möglich − in diesem
+                    Sklaven<unclear>Platze</unclear><lb break="yes"/>als woanders <hi rendition="#u">unmöglich</hi>. Ich sehne mich
+                nur nach<lb break="yes"/>meinen Verwandten u Freundin̄en u wen̄ mir
+                ein<lb break="yes"/>Freund bestim̄t ist so wird mir freudlicher begegnen<lb break="yes"/>den̄ ihr seid nur falsche Freude, Lügner u Betrüger<lb break="yes"/>die Alles versprechen u mir nichts gehalten </p>
+</body>
+</text>
+</TEI>

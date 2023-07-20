@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1763s21" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1763</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>S.</surname></persName>
+<date type="sent">ca.1863-1916</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Köchin: <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1763s">
+<persName>
+<forename>Georg</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1831"/>
+<death when="1916"/>
+<occupation>Mahlknecht</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Ökonomen</p>
+<p from="1863" to="1916">Anstalt: 1863-1916</p>
+<p from="1863" to="1916">Brieftypen: pp, po </p>
+</state>
+<trait><p>Hypochondrie, (folie raisonnante)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Hinweise an die Köchin, wahrscheinlich als Tarnung für die Bitte, einen Brief zu schmuggeln.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1763s21a.jpg" xml:id="image_161"/>
+<graphic mimeType="image/jpg" url="kfb1763s21b.jpg" xml:id="image_162"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_161"/>
+<opener>
+<dateline/>
+<salute>Gute Fr Köchen</salute>
+</opener>
+<p> Sie kön̄en an den<lb break="yes"/>Thee auch einen ganzen halben<lb break="yes"/>Litter Waßer thun und wie<lb break="yes"/>sonst zwei Vaterunser
+                    lang<lb break="yes"/>strudeln laßen, und wen̄ Sie<lb break="yes"/>die
+                Blätter dabei laßen, nicht<lb break="yes"/>abseien, ist es mir auch rec<unclear reason="damage">ht</unclear><lb break="yes"/>Wen̄ Sie, wie schon
+                    einmal<unclear reason="damage"> den</unclear><lb break="yes"/>Thee süß gemacht
+                haben, wied<unclear reason="damage">er</unclear><lb break="yes"/>einmal süß machen
+                das ist <unclear reason="damage">mir</unclear><lb break="yes"/>auch recht. <seg ana="#salute">Ich grüße Sie<lb break="yes"/>freundlich </seg>
+<seg ana="#signed"><hi rendition="#r">Georg <surname>S.</surname></hi><lb break="yes"/>von Höchstädt a./d.</seg></p>
+<p>Niemand glaubt daß ich irrsin̄ig<lb break="yes"/>bin, wer mich ken̄t.
+                    <pb facs="#image_162"/> und wer es sagt der lügt.<lb break="yes"/>Wen̄
+                ich einen Brief fortbringen<lb break="yes"/>kön̄te, an Herrn Dr.
+                    <surname>R.</surname><lb break="yes"/>Pfarrer in Oberigling bei<lb break="yes"/>Landsberg,<lb break="yes"/>dießer<lb break="yes"/>würde mich
+                    ge<lb break="no"/>wiß be<lb break="no"/>freien da<lb break="yes"/>ich den
+                rechten Verstand habe, und<lb break="yes"/>noch nie irrsin̄ig war. Thun Sie
+                    mir<lb break="yes"/>auch früh und abends meine Milch<lb break="yes"/>in eine
+                schöne Süßel, nicht so rostig.<lb break="yes"/>Wen̄ wier mit einan̄d
+                verkehren kön̄ten<lb break="yes"/>Sie würden mir gewiß behilflich sein. </p>
+</body>
+</text>
+</TEI>

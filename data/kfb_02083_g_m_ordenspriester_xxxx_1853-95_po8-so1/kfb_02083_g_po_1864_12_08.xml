@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2083g04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2083</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Joseph Gottlieb <surname>G.</surname></persName>
+<date type="sent">08.12.1864</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Ordensvorstand?: <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2083g">
+<persName>
+<forename>Joseph Gottlieb</forename>
+<surname>G.</surname>
+</persName>
+<birth cert="unknown"/>
+<death when="1895"/>
+<occupation>Ordenspriester</occupation>
+<residence><geo decls="#WGS">48.0135066 10.8827171</geo>Pitzling, Landsberg; Lechfeld</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: n.a.</p>
+<p from="1853" to="1895">Anstalt: 1853-1895</p>
+<p from="1853" to="1895">Brieftypen: pp, po</p>
+</state>
+<trait><p>Hochmut, Schwermut (1853-1895), Argwohn, fixe Ideen (1858)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    verweist auf heimlich geschriebenen Brief und Telegramm
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2083g04a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb2083g04b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren 8/12 64.</hi></dateline>
+<salute><hi rendition="#c"><foreign xml:lang="lat">Admodum Reverende Minister
+                            Provinciae!<lb break="yes"/>Colendißime Pater!</foreign></hi></salute>
+</opener>
+<p> Sie haben heute aus Meiner Hand einen rekommandirten<lb break="yes"/>Brief und
+                einige Stunden nachher ein Telegramm<lb break="yes"/>erhalten. Ich wünsche, Sie
+                mögen Beides in eben so guter<lb break="yes"/>und redlicher Gesinnung aufnehmen,
+                als sie von Mir<lb break="yes"/>gegeben sind. In Irsee weiß man hievon nichts und<lb break="yes"/>es wäre Mir lieb, wenn man auch nichts davon erfahren<lb break="yes"/>würde, weil Ich die freiere Bewegung, die Ich seit<lb break="yes"/>vier Jahren genieße, keineswegs gerne vermissen<lb break="yes"/>würde. Eine
+                Rücksprache mit Ihnen war schon lange<lb break="yes"/>Mein ausgesprochener Wunsch,
+                doch muß Ich es Ihnen<lb break="yes"/>überlassen, solche zu ermöglichen. So Sie auf
+                telegraphischem<lb break="yes"/>Wege eine Rückantwort nach Kaufbeuern geben wollen,<lb break="yes"/>was Ich Ihrem Ermessen anheimstellte, - diese werde<lb break="yes"/>Ich im betreffeden <hi rendition="#i">Bureau</hi> erhalten. Und nun<lb break="yes"/>Gott befohlen! - Wegen hl. Armuth muß ich die Rekommandirung
+                    <pb facs="#image_010"/>dieses Briefes schon unterlassen. <seg ana="#salute">Sämtliche Mitbrüder<lb break="yes"/>freundlichst grüssend verbleibe Ich
+                </seg></p>
+<p> <hi rendition="#c">mit aller Verehrung und Liebe</hi></p>
+<p>
+<hi rendition="#c"><seg ana="#signed">Ihr<lb break="yes"/>ergebener<lb break="yes"/><hi rendition="#i">P. Joseph Gottlieb <surname>G.</surname> </hi><lb break="yes"/><hi rendition="#i">A.U.</hi> #</seg></hi></p>
+</body>
+</text>
+</TEI>

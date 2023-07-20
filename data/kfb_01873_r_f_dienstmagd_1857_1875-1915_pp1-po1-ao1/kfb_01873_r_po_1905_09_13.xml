@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1873r02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1873</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabetha <surname>R.</surname></persName>
+<date type="sent">13.09.1905</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bürgermeister: <surname>n.</surname></persName>
+<settlement type="sent">k.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1873r">
+<persName>
+<forename>Elisabetha</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1857"/>
+<death when="1915"/>
+<occupation>Dienstmagd</occupation>
+<residence><geo decls="#WGS">48.0734 10.3118194</geo>Frickenhausen, Memmingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Söldner</p>
+<p from="1875" to="1915">Anstalt: 1875-1915</p>
+<p from="1875" to="1915">Brieftypen: ao, po, pp</p>
+</state>
+<trait><p>Melancholie (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    leidend, hart unter Kranken, mag nicht mehr in Anstalt sein, möchte heim und Brot verdienen, vertraut auf Gott, Reime
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1873r02a.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb1873r02b.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#r">13.9.05</hi></add><lb break="yes"/><hi rendition="#c">Finkenhausen</hi></dateline>
+<salute> <hi rendition="#r">Geertester Burgermeister.</hi><lb break="yes"/></salute>
+</opener>
+<p> Ich will inen ein Par Zeilen Schreiben ich bin<lb break="yes"/>halt imer leident es ist
+                halt hart unter so vil<lb break="yes"/>Kranken dort wonen ich mage gar nimer<lb break="yes"/>gern in der Anstalt sein weil man nich<lb break="yes"/>nimer mer
+                gerne hat wen ich nur noch eine<lb break="yes"/>eigene <del>Häfe</del> Heimat häte
+                dan wäre ich schon<lb break="yes"/>lingstens Heim aber so wird es halt auch
+                    nicht<lb break="yes"/>mer viel sein O wie gerne <add>mechte</add>
+<del>dät</del> ich mein<lb break="yes"/>Brot verdenen wen ich noch kente. O wie<lb break="yes"/>gerne mächte ich sterben wen ich kente. Auf<lb break="yes"/>meinen liben Gott trau ich in angst u noth<lb break="yes"/>der kan̄ mich
+		        allzeit reten in Trübsal angst<lb break="yes"/>u nöten mein unklick kan̄ Er
+                wenden stet<lb break="yes"/>als in seinen Händen. Wer nur den Liben<lb break="yes"/>Gott läst walten u hoffet auf in alle zeit <pb facs="#image_003"/> den wird er
+		        wunderlich erhalten in<lb break="yes"/>allem Kreiz u traurigkeit wer Gott dem<lb break="yes"/>allen Höchsten Draut der hat auf keinen<lb break="yes"/>Sand
+		        gebaut. Was helfen uns die schwäre<lb break="yes"/>sorgen was hilft uns unser we u
+		        ach was<lb break="yes"/>hilft es daß wir alle morgen beseifzen unser<lb break="yes"/>ungemach wir machen unser Kreiz u leid<lb break="yes"/>nur größer duch die
+		        traurigkeit <seg ana="#salute">jezt<lb break="yes"/>mache ich noch meinen Herzlichen dank<lb break="yes"/>bei alle woltäter besonders bei inen<lb break="yes"/><hi rendition="#c">vile grüse an alle verwandte u<lb break="yes"/>bekante besunders
+                    an Herr Pfarer<lb break="yes"/>u Lerer. u an meine Schwester<lb break="yes"/>Ich schlise mein Schreiben u verbleibe</hi> <seg ana="#signed">eirer aufrechtiges<lb break="yes"/>Pfarkind.</seg></seg>
+</p>
+</body>
+</text>
+</TEI>

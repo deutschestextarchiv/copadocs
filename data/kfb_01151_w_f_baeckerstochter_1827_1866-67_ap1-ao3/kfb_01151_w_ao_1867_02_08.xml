@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1151w02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1151</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Joseph <surname>W.</surname></persName>
+<date type="sent">08.02.1867</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Verwaltung: n.a. <surname>n.</surname></persName>
+<settlement type="sent">Schopflohe</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1151w">
+<persName>
+<forename>Josepha</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1827"/>
+<death cert="unknown"/>
+<occupation>Bäckerstochter</occupation>
+<residence><geo decls="#WGS">48.9801924 10.4830007</geo>Schopflohe, Nördlingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Bäcker</p>
+<p from="1866" to="1867">Anstalt: 1866-67</p>
+<p from="1866" to="1867">Brieftypen: ap, ao</p>
+</state>
+<trait><p>Verrücktheit, Verstandesschwäche (1867) </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Zusendung der Verpflegungszahlung. Erfragt zudem das Befinden der Patientin. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1151w02.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r">Schopflohe den 8. Februar<lb break="yes"/>1867.</hi></dateline>
+<salute><hi rendition="#c">Hohe königliche Verwaltung der Kreis<lb break="no"/>Jrrenanstalt <hi rendition="#i">Irsee</hi>!</hi></salute>
+</opener>
+<p><add hand="arzt" place="top"><hi rendition="#c">16</hi></add></p><p><add hand="arzt" place="top"><hi rendition="#i">prs.</hi> am 10. <hi rendition="#i">Febr</hi>. 1867<lb break="yes"/>1280</add></p>
+<p>Jn Anlage wird der Verpflegsbetrag für die<lb break="yes"/>Patientin <hi rendition="#i">Josepha</hi>
+<surname><hi rendition="#i">W.</hi></surname> von hier übersendet<lb break="yes"/>mit der Bitte, um gütige Nachsicht wegen<lb break="yes"/>der etwas verspäteten
+                Zusendung. </p><p>Zugleich wagen die gehorsamst unterfertigten<lb break="yes"/>Verwandten die geziemende Bitte,<lb break="yes"/>es möchte denselben gefälligst eine Kunde<lb break="yes"/>zukommen über das derzeitige<lb break="yes"/>Befinden der Patientin, sowie ob
+                noch<lb break="yes"/>Hoffnung auf Besserung vorhanden sei. </p><p><seg ana="#salute">Dieser Bitteerhör entgegensehend<lb break="yes"/>geharren hochachtungsvollst!<lb break="yes"/><hi rendition="#r">Jm Namen der Geschwisterte: </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Joseph
+                            <surname>W.</surname>.</seg><lb break="yes"/>(Bruder der Patientin.)</hi></p><p><add hand="arzt"><unclear>Eo</unclear><hi rendition="#i">dem</hi><lb break="yes"/><unclear>E</unclear>mpfangsanzeige<lb break="yes"/><space/> WW<lb break="yes"/><hi rendition="#i">Vert<unclear>e</unclear></hi></add></p>
+</body>
+</text>
+</TEI>

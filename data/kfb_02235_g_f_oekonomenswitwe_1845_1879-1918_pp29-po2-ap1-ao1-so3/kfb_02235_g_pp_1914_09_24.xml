@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2235g25" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2235</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Regina <surname>G.</surname></persName>
+<date type="sent">05.09.1918</date>
+<date type="received">n.a.</date>
+<persName type="addressee"> <surname/> </persName>
+<settlement type="sent"/>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2235g">
+<persName>
+<forename>Regina</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1845"/>
+<death when="1918"/>
+<occupation>Ökonomenswitwe</occupation>
+<residence><geo decls="#WGS">47.582117800000006 9.728007926245988</geo>Weißenberg, Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: Bauersleute, "ziemlich gut situiert"</p>
+<p from="1879" to="1918">Anstalt: 1879-1918</p>
+<p from="1879" to="1918">Brieftypen: pp</p>
+</state>
+<trait><p>Gehörs- und Gesichtshallucinationen (1886), wahnhafte Ideen (1904)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte aus Anstalt abgeholt werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2235g25a.jpg" xml:id="image_044"/>
+<graphic mimeType="image/jpg" url="kfb2235g25b.jpg" xml:id="image_045"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_044"/>
+<opener>
+<dateline>Irse den 24 September 1914.</dateline>
+<salute>Lieben Kinder und Bruder!</salute>
+</opener>
+<p> Wir kön̄en einander keine Schuld geben<lb break="yes"/>die Män̄er
+                mih gebracht haben blos auf<lb break="yes"/>eine Zeitlang. Der Herrn Pfarrer in<lb break="yes"/>Weissensberg ist Gottvater er nimt<lb break="yes"/>Dir alles ab
+                ich bekom̄ es besser über<lb break="yes"/>und frei werde von der Anstalt los<lb break="yes"/>gekauft Bestimte Gabe ausgelößt mit<lb break="yes"/>für Mark
+                Eisenbahn Polete bezahlen kan̄<lb break="yes"/>Hauß Polete geht es auch mih
+                auf Bahn<lb break="yes"/>thut so kom̄ ich schon zu Hauße den<lb break="yes"/>Telegram ins Hauß geht und in<lb break="yes"/>Pfarrhof mih als Pfarrkind niht
+                länger<lb break="yes"/>warten lassen hir fort kom̄<lb break="yes"/>gehen
+                lassen. Die Arbeit ist Nützlich<lb break="yes"/>die Streue heim thun das Feld<lb break="yes"/>anbauen Bäume aussetzen Gertle. <pb facs="#image_045"/>Rosengranzfest Kirchweihfest in<lb break="yes"/>Euer Mitte sein Es hat genug
+                gekostet<lb break="yes"/>ich kan̄ Arbeiten mein Brod selber verdinen<lb break="yes"/>Gott Barmherzigkeit thut Ulaub bekom̄<lb break="yes"/>ein
+                Ausgang mit Gott jedes mahl bälder<lb break="yes"/>fort gekom̄en. Gesundheit
+                Freiheit gehört<lb break="yes"/>Zusam̄en und besser werden kan̄ zu<lb break="yes"/>Hauße bin das Heimweh ist so groß<lb break="yes"/>lieber
+                sterben als ein Tag Anstaltsleben<lb break="yes"/>Gott und die Meinigen Widersehn
+                wider geben<lb break="yes"/>24 Jahre ist ein Man̄s Alter hir zugebracht<lb break="yes"/>Er kan̄ dan̄ noch thun wie Er in Plan hat<lb break="yes"/>gebaut wirt für alle Er macht alles neu<lb break="yes"/>Bitte mir
+                baldige Antwort an Bruder<lb break="yes"/>Georg <surname>O.</surname> und
+                Kinder St. Schlachters<lb break="yes"/>Regina <surname>G.</surname> holen mit
+                Bitte mit Güte<lb break="yes"/>geht es am besten mit Gottesgnadenhilfe </p> <p><add><handShift medium="ink" scribe="patient"/>Kamillentee.</add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1703h06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Susanne Klohn</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1703</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franziska <surname>H.</surname></persName>
+<date type="sent">ca1886-1917</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vater: Karl <surname>S.</surname></persName>
+<settlement type="sent">n.a.</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1703h">
+<persName>
+<forename>Franziska</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1917"/>
+<occupation>Bäckermeisterstochter</occupation>
+<residence><geo decls="#WGS">48.5812547 10.4951425</geo>Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Bäckermeister</p>
+<p from="1896" to="1917">Anstalt: 1896-1917</p>
+<p from="1896" to="1917">Brieftypen: pp, po</p>
+</state>
+<trait><p>Imbezillität (1897)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    möchte Besuch, möchte Heimat Dillingen sehen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1703h06a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="kfb1703h06b.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline/>
+<salute>Geehrter Herr Karl <surname>S.</surname></salute>
+</opener>
+<p>
+ Anstatt daß<lb break="yes"/>die Franziska <surname>H.</surname> Weihnachts<lb break="no"/>grösend und Ostergrösend erhalten hat<lb break="yes"/>möcht die Franziska <surname>H.</surname> von ihrem<lb break="yes"/>Bruder Besuch erhalten im Mai noch<lb break="yes"/>an einem Tage wen schön Wetter<lb break="yes"/>ist wie Sie an ihren Vater zum<lb break="yes"/>Neujahr geschrieben hat in Urlaub<lb break="yes"/>nach Augsburg und wen Sie in<lb break="yes"/>Augsburg ist schreibt die Franziska<lb break="yes"/><surname>H.</surname> an ihren Herrn Vetter<lb break="yes"/><surname>K.</surname> daß er Sie von Augsburg<lb break="yes"/>nach Dillingen abholt und an<lb break="yes"/>ihre Mutter schreibt Sie auch um<lb break="yes"/>zehn Mark zum Reisegeld von<lb break="yes"/>Augsburg nach Dillingen ihr Herr<lb break="yes"/>Vetter <surname>K.</surname> möcht so gerne ihre<lb break="yes"/>Heimat Dillingen sehen wie Sie<lb break="yes"/>einmal bei Ihm draußen war<lb break="yes"/>und thäte Sie noch paar Jahre in<lb break="yes"/>Dillingen bleiben zur Abwechslung
+
+<pb facs="#image_014"/>
+Und wen die Franziska <surname>H.</surname><lb break="yes"/>in Dillingen ist thut Sie an Ihnen<lb break="yes"/>liebe Frau Babett <surname>K.</surname><lb break="yes"/>schreiben zu ihrem Namenstag<lb break="yes"/>wie es der Franziska <surname>H.</surname> geht<lb break="yes"/>zum Dank für das Brieflein<lb break="yes"/>schreiben an ihren Vater<lb break="yes"/>Herrn Karl <surname>S.</surname> und auch<lb break="yes"/>an Herrn Vetter Michael<lb break="yes"/><surname>K.</surname> zu seinem<lb break="yes"/>Namenstag wie es Ihr geht<lb break="yes"/>und den andern Eigenen viele<lb break="yes"/><seg ana="#salute">Grüße an Sie Frau Babett<lb break="yes"/><surname>K.</surname></seg> <seg ana="#signed">bin ich ihre Bas Franziska<lb break="yes"/><surname>H.</surname></seg> und wen ihr Bruder im<lb break="yes"/>Mai gekomen ist dan thät Sie<lb break="yes"/>sagen die Frau <surname>K.</surname> ist halt<lb break="yes"/>doch meine gute Base und hat<lb break="yes"/>anstatt für mich geschrieben
+</p>
+</body>
+</text>
+</TEI>

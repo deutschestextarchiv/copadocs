@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1669w03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1669</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Philippina ("Lina") <surname>H.</surname></persName>
+<date type="sent">21.05.1899</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Babette <surname>W.</surname></persName>
+<settlement type="sent">Lindau</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb1669w">
+<persName>
+<forename>Babette</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1840"/>
+<death when="1911"/>
+<occupation>Spitalpfründnerin</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>protestantisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Tuchscherer</p>
+<p from="1898" to="1911">Anstalt: 1898-1911</p>
+<p from="1898" to="1911">Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Idiotie (1899), [Wahnideen, Halluzinationen]</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwester"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedauert, dass sie die Patientin aus finanziellen Gründen nicht (oft) besuchen könne. 
+                    Erzählt von Verwandten/Bekannten und lässt die Patientin grüßen. 
+                    
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1669w03a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb1669w03b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Lindau den 21 <hi rendition="#i">Mai</hi>
+                    1899.</hi></dateline>
+<salute><hi rendition="#c">Liebe Bätte!</hi></salute>
+</opener>
+<p><space/> Fast wirst Du glauben wir haben<lb break="yes"/>Dich vergessen was
+                jedoch nicht der Fall<lb break="yes"/>ist. Ich denk' sehr viel an Dich, es ist mein<lb break="yes"/>in̄igster Wunsch, wen̄ Du l Bätte nur<lb break="yes"/>wieder geistig frisch u gesund werden<lb break="yes"/>kön̄test, es liegt recht schwer auf mir daß<lb break="yes"/>ich Dich nicht
+                    besuchen kan̄, den̄ es ist<lb break="yes"/>eben sehr mit Kosten verbunden,
+                ich<lb break="yes"/>hoff<del>e</del>te im̄er noch Du werdest in einiger<lb break="yes"/>Zeit wieder nach Lindau kön̄en. </p><p>Wir haben auch im̄er viel Arbeit, die<lb break="yes"/>l Elise mit Putz machen, u wir mit<lb break="yes"/>dem <w>Haus halt</w> u Geschäft. Vom l Hans<lb break="yes"/>haben guten Bericht, der l Ernst ist seit<lb break="yes"/>8 <hi rendition="#i">Mai</hi> auf der Wanderschaft, erwarte<lb break="yes"/>in Bälde wieder
+                Nachricht hoffentlich<lb break="yes"/>findet <del>e</del>Er bald Arbeit. Schwester
+                    Luzia<pb facs="#image_004"/>läßt Dich vielmals grüßen, Sie geht<lb break="yes"/>diesen Som̄er nach Samaden in Ferien. </p><p><space/> Tante Margreth kom̄t öfters zu uns<lb break="yes"/>auch viele Grüße von Ihr. Es
+                        ist so<lb break="yes"/>arg daß Du uns nicht schreiben kan̄st,<lb break="yes"/>wen̄
+                        Du antworten kön̄test, würde<lb break="yes"/>ich dir öfters schreiben.</p><p>Wünsche Dir recht gute Feiertage<lb break="yes"/><w>so wie</w> recht gute Besserung. </p><p><seg ana="#salute">Die besten Grüße vom l Sigmund<lb break="yes"/>von Elise, Bertha, Emilie u von deiner<lb break="yes"/><hi rendition="#r">treubesorgten Schwester</hi></seg> <hi rendition="#r"><seg ana="#signed">Lina.</seg></hi></p>
+</body>
+</text>
+</TEI>

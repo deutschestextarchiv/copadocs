@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2058w24" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2058</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Florian <surname>W.</surname></persName>
+<date type="sent">11.11.1875-99</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Franz Josef <surname>W.</surname></persName>
+<settlement type="sent">Rettenberg</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2058w">
+<persName>
+<forename>Franz Josef</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1842"/>
+<death when="1899"/>
+<occupation>Müllergeselle</occupation>
+<residence><geo decls="#WGS">47.9484351 10.3943101</geo>Markt Rettenbach, Memmingen</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Webermeister</p>
+<p from="1875" to="1899">Anstalt: 1875-99</p>
+<p from="1875" to="1899">Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>partieller Wahnsinn (1874), Nymphomanie, Satyriasis (1880)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="bruder"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet den Bruder, wegen Heirat mit ihm sprechen. Die Mutter würde Hochzeit mitbezahlen, möchte dafür aber im Haus aufgenommen werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2058w24a.jpg" xml:id="image_085"/>
+<graphic mimeType="image/jpg" url="kfb2058w24b.jpg" xml:id="image_086"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_085"/>
+<opener>
+<dateline><hi rendition="#r">Rettenbach den 11t Nov.</hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder,</hi></salute>
+</opener>
+<p>Als ich in deinem letsten Brif<lb break="yes"/>vernom̄en habe, um Dazu
+                Geld<lb break="yes"/><w>zu</w><w>gebrauchen</w>, wegen Heirats<hi rendition="#u">gescheft</hi>.<lb break="yes"/>Darum möchte ich bitten, mit dier<lb break="yes"/>Persönlich zu
+                Schprechen, den wen<lb break="yes"/>einer Heirathen wiell so nemt er<lb break="yes"/>doch zeit 1 oder 2 Tag <add place="above">Zeit</add> zu <add place="inline">seine</add> Leut<lb break="yes"/>geht<add place="inline">e</add>, und ihnen das selbe
+                mittheild.<lb break="yes"/>Ich möcht <w>ja</w><w>doch</w> wießen wohin und<lb break="yes"/>wie oder was,
+                die Muter sagd,<lb break="yes"/>sie giebt das Geld auf eine Aufnam<lb break="yes"/>oder ein kleines aigenthum, nicht<lb break="yes"/>bloß zum verschwinde. </p><p>Bedenke wohl, ob du es nicht minder<lb break="yes"/>machst, der Bürgermeister sagt<lb break="yes"/>wen sowei<del>d</del>t komt dan kom̄t er <pb facs="#image_086"/>auch
+                gleich in unster <w>Gemeinde<lb break="no"/>Haus</w>, aber wehe dem<lb break="yes"/>wen er un<del>d</del>ter meine Händ<lb break="yes"/>kom̄t. Und sage ich
+                möcht<lb break="yes"/>auch selber wissen wen ich<lb break="yes"/>eine neie
+                Freundschaft kom̄<lb break="yes"/>woran als ich bin, obwohl<lb break="yes"/>eine schon 7 Kinder gehabt<lb break="yes"/>hat oder keins, den es hat<lb break="yes"/>noch keiner im Sack geheirathted </p><p><hi rendition="#c"><seg ana="#salute">Nebst Gruß</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Florian <surname>W.</surname></seg></hi>.</p>
+</body>
+</text>
+</TEI>

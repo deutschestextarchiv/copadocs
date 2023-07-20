@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="dor3274s09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 653: Dortmund-Aplerbeck</collection>
+<idno>3274 (K. 210)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>S.</surname></persName>
+<date type="sent">25.09.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obermedizinalrat</persName>
+<settlement type="sent">Dortmund</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="dor3274s">
+<persName>
+<forename>Franz</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1871-06-30"/>
+<death cert="unknown"/>
+<occupation>Elektrotechniker</occupation>
+<residence><geo decls="#WGS">51.5142273 7.4652789</geo>Geburtsort: Oelsdebenai; Wohnort: Dortmund</residence>
+<faith>konfessionslos</faith>
+<state>
+<p from="" to="">Familienstand: verheiratet</p>
+<p from="" to="">Eltern: V: Aufseher, M: nicht bekannt</p>
+<p from="1916-04-10" to="1921-07-25">Anstalt: 10.04.1916-31.05.1916; 21.12.1920-25.07.1921</p>
+<p from="1916-04-10" to="1921-07-25">Brieftypen: po, Lebenslauf</p>
+</state>
+<trait><p>n.a.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet um Kenntnisnahme seiner Information und seiner Abschlusserklärung (in Abschrift)
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="dor3274s09a.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_029"/>
+<opener>
+<dateline><hi rendition="#r"><del><add hand="vordruck">Dortmund</add></del><add place="above"><hi rendition="#i">Brechten</hi></add>, <add hand="vordruck">den</add> 25. <hi rendition="#i">Sept</hi>. <add hand="vordruck">19</add>28</hi></dateline>
+<salute><hi rendition="#i">Sehr geehrter Herr<lb break="yes"/><hi rendition="#c">Obermedizinal-Rat!</hi></hi></salute>
+</opener>
+<p>Anbei erlaube ich mir noch eine<lb break="yes"/>Information vom 21. März in
+                Abschrift<lb break="yes"/>zur gefl. Kennnißnahme zu übermitteln<lb break="yes"/>und ich Sie ergebenst Bitte den Inhalt<lb break="yes"/>zu würdigen und gefälligst
+                Kennniß<lb break="yes"/>zu nehmen <hi rendition="#u">der Schlußerklärung</hi>
+<hi rendition="#u">ge<lb break="no"/>nannten Schrift.</hi><lb break="yes"/>Nach gebrauch ersuche ich Sie ergebenst,<lb break="yes"/>dasselbe
+                meiner Ihnen überlassen M<unclear>esch</unclear><lb break="yes"/>rasch überfließigen Schriftstücken zur<lb break="yes"/>wieder in
+                Enpfangnahme nach Ihr<unclear>en</unclear><lb break="yes"/>näheren Angabe beizufügen.<lb break="yes"/><hi rendition="#c">Hochachtungsvoll<lb break="yes"/><seg ana="#signed">Ihr ergebenster<lb break="yes"/>F. J. <hi rendition="#i"><surname>S.</surname></hi>.</seg></hi>
+</p>
+</body>
+</text>
+</TEI>

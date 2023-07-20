@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1725b03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Erlangen</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1725</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>B.</surname></persName>
+<date type="sent">12.11.1913</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Magistrat</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">n.a.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1725b">
+<persName>
+<forename>Josef</forename>
+<surname>B.</surname>
+</persName>
+<birth when="1856"/>
+<death when="1919"/>
+<occupation>ehem. Postillon, Aventiuspfründer</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Fünfstetten</residence>
+<faith>katholisch</faith>
+<state>
+<p from="" to="">Familienstand: ledig</p>
+<p from="" to="">Eltern: Söldner</p>
+<p from="1908" to="1919">Anstalt: 1908-19</p>
+<p from="1908" to="1919">Brieftypen: pp, po</p>
+</state>
+<trait><p>Verfolgungswahn, Halluzinationen</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bittet darum, entlassen zu werden
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1725b03a.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="kfb1725b03b.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline><hi rendition="#r">Kauvpejern -t-13-t-11-M 1911</hi></dateline>
+<salute>An ten̅ ch<del>c</del>sochen Makjstrat<lb break="yes"/>Aukspurk 2 Bestrevs ten̄<lb break="yes"/>Austrjt Aus ter Hejl<lb break="yes"/>u Fleke An̄stalt Kauvpejern 2
+                    </salute>
+</opener>
+<p><hi rendition="#r">Josev <surname>B.</surname> Bjtet Kehors<lb break="no"/>an̄st 2 tj Heren̄ t,
+                    Makjs Stratts<lb break="yes"/>Herrn̄ Rentskuntjker Bjrkerm̅ejster<lb break="yes"/>M.-V. − Wolvram 2 t = B − Knorn̄enten̄<lb break="yes"/>Hern̄ tes Makjstrats Aukspurk 2</hi></p>
+<p><hi rendition="#r">Wen̄ ter Opike Bjtten̄ tjrvte 2<lb break="yes"/>Betrevs ter
+                    − K Hejl u Fleke<lb break="yes"/>An̄stalt Kauvpejern̄ 2 m̄jh<lb break="yes"/>Nah Aukspurk Xu m̄jh Jn̄<lb break="yes"/>tj Arm̅vleke Otter
+                    Stettjshes<lb break="yes"/>Kran̄kenhaus Aukspurk 2<lb break="yes"/>tj Hern̄
+                    tes Hohen̄ Makjstrats<lb break="yes"/>Jhre Kuthaten̄ Aush Xuspr<lb break="yes"/>ehen̄ 2 Wjrte Jh tj herrn̄<lb break="yes"/>Bjtten̄ 2 Wo Jh toh Sejt 1908<lb break="yes"/>ten̄ t 20 Juli hjr Jn̄ Kauvpejern̄<lb break="yes"/>pjn̄ 2 An̄
+                    tem̄ Herrn̄ tjrektor<lb break="yes"/>Brem̄xjn̄ker jm̅ tarum̅ kep<lb break="no"/>etten̄ hape 2 tas sol an̄ tem̅<lb break="yes"/>hen̄ Makjstrat. Wen̄ten sol 2<lb break="yes"/>wo toh jext 1911 Shrejpt 2<lb break="yes"/>tas Essen̄
+                    keshm̅ekt m̅jr<lb break="yes"/>Un̄ Muntet m̅jr auh 2<lb break="yes"/>Un̄t
+                    wjrte Auh ten̄ Herr̄ − K−<lb break="yes"/>Hejl vleke Anstahlt 2
+                    Wjrte Ih </hi>
+<pb facs="#image_007"/>Hern̄ toktor Krapt 2 Un̄t son̄sttj<lb break="yes"/>Hern̄ xu
+                En̄tlasen̄ Aus<lb break="yes"/>Hejl u Fleke An̄stalt Kauvpejern<lb break="yes"/>Wjrte jh Sem̅tljche Bjtten̄</p>
+<p><seg ana="#signed">Un̄terten̄jkst, u Kehorsam̅st<lb break="yes"/><hi rendition="#c">Josev <surname>B.</surname></hi></seg></p>
+<p>An ten̄ Hohen Makjstrat<lb break="yes"/>tes Herrn̄ Rehtskun̄tjker! Wolvram̅ 2<lb break="yes"/>H-Bjrker Mejster-Aukspurk Statt− </p>
+</body>
+</text>
+</TEI>
