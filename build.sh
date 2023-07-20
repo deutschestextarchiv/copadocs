@@ -19,6 +19,9 @@ WEB="$SCRIPT_DIR"/web
 # path to and options for xsltproc XSLT processor
 XSLTPROC="xsltproc"
 
+# don’t leave $DIR/*.xml as literal "*.xml" when directory is empty
+shopt -s nullglob
+
 # symlink (for XML sources and images)
 DATA_LINK="$WEB"/data
 [ -L "$DATA_LINK" ] && rm "$DATA_LINK"
