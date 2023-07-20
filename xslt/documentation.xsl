@@ -11,7 +11,7 @@
     <html lang="de">
       <head>
         <xsl:call-template name="html-header">
-          <xsl:with-param name="title" select="h1[1]"/>
+          <xsl:with-param name="title" select="*//h1[1]"/>
         </xsl:call-template>
       </head>
       <body class="d-flex flex-column vh-100">
