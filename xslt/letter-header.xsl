@@ -261,7 +261,7 @@
     <h3>Nachweis Originaldokument</h3>
     <table class="table table-sm">
       <tr>
-        <th>Einrichtung</th>
+        <th>Archiv</th>
         <td><xsl:apply-templates select="t:repository"/></td>
       </tr>
       <tr>
