@@ -42,7 +42,7 @@
                   <ol class="breadcrumb mb-0">
                     <li class="breadcrumb-item"><a href="{$base}">Start</a></li>
                     <li class="breadcrumb-item">
-                      <a disabled="disabled">
+                      <a href="{$base}patientenakten.html#{substring-before($dirname,'_')}-{/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:msDesc/t:msIdentifier/t:idno}">
                         <xsl:value-of select="substring-before($dirname,'_')"/>
                         <xsl:text>-</xsl:text>
                         <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:msDesc/t:msIdentifier/t:idno"/>
@@ -52,7 +52,7 @@
                       </a>
                     </li>
                     <li class="breadcrumb-item active" aria-current="page">
-                      <abbr class="cd-text-type">
+                      <abbr class="copa-text-type">
                         <xsl:call-template name="letter-type">
                           <xsl:with-param name="filename" select="$filename"/>
                         </xsl:call-template>
