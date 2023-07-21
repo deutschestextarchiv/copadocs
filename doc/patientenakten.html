@@ -5,7 +5,7 @@
     <table class="table table-striped table-sm" id="record-list" data-page-length="500">
       <thead>
         <tr>
-          <th>Archiv</th>
+          <th>Anstalt</th>
           <th>Akte</th>
           <th>Name</th>
           <th>Geburt</th>
@@ -13,7 +13,7 @@
           <th>Austritt</th>
           <th>Tod in Anstalt</th>
           <th>Beruf</th>
-          <th>Wohnort</th>
+          <th>Herkunft</th>
           <th>Familienstand</th>
           <th>Religion</th>
           <th>Texttypen</th>
@@ -29,8 +29,8 @@
 
     <table class="table table-condensed" style="table-layout:fixed">
       <tr>
-        <th>Archiv</th>
-        <td data-field="archive"></td>
+        <th>Anstalt</th>
+        <td data-field="institution"></td>
         <th>Akte</th>
         <td data-field="record"></td>
         <th>Name</th>
@@ -49,12 +49,16 @@
       <tr>
         <th>Beruf</th>
         <td data-field="occupation"></td>
-        <th>Wohnort</th>
+        <th>Herkunft</th>
         <td data-field="residence"></td>
         <th>Familienstand</th>
         <td data-field="familyStatus"></td>
         <th>Religion</th>
         <td data-field="faith"></td>
+      </tr>
+      <tr>
+        <th>Diagnose</th>
+        <td colspan="7" data-field="trait"></td>
       </tr>
     </table>
 
