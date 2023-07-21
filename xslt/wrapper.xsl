@@ -19,8 +19,6 @@
   <xsl:template name="html-header">
     <xsl:param name="title"/>
 
-    <base href="{$base}"/>
-
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <title><xsl:value-of select="$title"/> – CoPaDocs</title>
 
@@ -32,6 +30,7 @@
     <link href="{$base}assets/css/tei.css" rel="stylesheet"/>
 
     <script>
+      base    = '<xsl:value-of select="$base"/>'
       imgBase = '<xsl:value-of select="$img-base"/>'
     </script>
   </xsl:template>

@@ -1,6 +1,4 @@
 $( function() {
-  base = $('base').attr('href')
-
   // tooltips
   $('.tei-placeName, .tei-surname').attr('title', 'Nachname')
                                    .attr('data-bs-toggle', 'tooltip')
