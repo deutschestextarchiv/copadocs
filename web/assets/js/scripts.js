@@ -509,6 +509,7 @@ $( function() {
       })
       $('#copa-record').show()
       $('#copa-list').hide()
+      $('html, body').animate({scrollTop: '0px'}, 100)
     })
   }
 
@@ -517,6 +518,7 @@ $( function() {
     history.pushState("", document.title, window.location.pathname + window.location.search)
     $('#copa-record').hide()
     $('#copa-list').show()
+    $('html, body').animate({scrollTop: '0px'}, 100)
   })
 
   const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
