@@ -297,7 +297,6 @@ $( function() {
             return `${row[fields.dateSent]}`
           },
           "sort": function(data, type, row) {
-            console.log(fields.dateSentSort)
             return row[fields.dateSentSort]
           }
         }
@@ -507,7 +506,6 @@ $( function() {
                 return `${row[fields.dateSent]}`
               },
               "sort": function(data, type, row) {
-                console.log(fields.dateSentSort)
                 return row[fields.dateSentSort]
               }
             }
