@@ -24,7 +24,7 @@
     <xsl:value-of select="/t:TEI/@xml:id"/>
     <xsl:text>&#x9;</xsl:text>
 
-    <!-- archive (short) -->
+    <!-- institution (short) -->
     <xsl:value-of select="substring-before($dirname,'_')"/>
     <xsl:text>&#x9;</xsl:text>
 
@@ -85,6 +85,10 @@
 
     <!-- faith -->
     <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:faith)"/>
+    <xsl:text>&#x9;</xsl:text>
+
+    <!-- trait -->
+    <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:trait)"/>
     <xsl:text>&#x9;</xsl:text>
 
     <!-- text type -->

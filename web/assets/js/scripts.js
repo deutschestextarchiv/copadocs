@@ -1,6 +1,4 @@
 $( function() {
-  base = $('base').attr('href')
-
   // tooltips
   $('.tei-placeName, .tei-surname').attr('title', 'Nachname')
                                    .attr('data-bs-toggle', 'tooltip')
@@ -131,8 +129,8 @@ $( function() {
     'dirname',
     'filename',
     'id',
-    'archiveShort',
-    'archive',
+    'institutionShort',
+    'institution',
     'record',
     'patient',
     'birthDate',
@@ -143,6 +141,7 @@ $( function() {
     'residence',
     'familyStatus',
     'faith',
+    'trait',
     'textType',
     'sender',
     'dateSent',
@@ -151,6 +150,7 @@ $( function() {
     'extentWords'
   ].forEach((x, i) => fields[x] = i )
 
+  // expansion for text type abbreviations
   textTypes = {
     pp: 'Privatbrief',
     po: 'offizieller Brief eines Patienten',
@@ -158,10 +158,26 @@ $( function() {
     ao: 'offizieller Brief von außen',
     so: 'sonstiger Brief'
   }
-
-  $('.cd-text-type').each( function() {
+  $('.copa-text-type').each( function() {
     let el = $(this)
     el.attr('title', textTypes[el.text()])
+      .attr('data-bs-toggle', 'tooltip')
+  })
+
+  // expansion for institutional abbreviations
+  institutions = {
+    dor: 'Dortmund-Aplerbeck',
+    gut: 'Gütersloh',
+    ham: 'Hamburg',
+    kfb: 'Kaufbeuren-Irsee',
+    lip: 'Lippstadt',
+    mrs: 'Marsberg',
+    mun: 'Münster',
+    war: 'Warstein'
+  }
+  $('.copa-institution').each( function() {
+    let el = $(this)
+    el.attr('title', institutions[el.text()])
       .attr('data-bs-toggle', 'tooltip')
   })
 
@@ -198,9 +214,6 @@ $( function() {
 
   function yearOfDate(date) {
     return date.replace(/-\d+-\d+/,'')
-  }
-
-  function showRecord(id) {
   }
 
   // corpus listing
@@ -313,7 +326,7 @@ $( function() {
         let seen = new Array()
         let tt   = new Array()
         for ( var i of json.data) {
-          let key = i[fields.archiveShort] + '-' + i[fields.record]
+          let key = i[fields.institutionShort] + '-' + i[fields.record]
           if ( seen[key] === undefined ) {
             seen[key] = {
               "cnt": 0,
@@ -327,7 +340,7 @@ $( function() {
           ret.push(i)
         }
         for ( var i of ret ) {
-          let key = i[fields.archiveShort] + '-' + i[fields.record]
+          let key = i[fields.institutionShort] + '-' + i[fields.record]
           i.push( seen[key].cnt, seen[key].tt )
         }
         return ret
@@ -344,13 +357,13 @@ $( function() {
     "columns": [
       {
         "render": function (data, type, row) {
-          return `${row[fields.archiveShort]}`
+          return `<abbr title="${institutions[row[fields.institutionShort]]}" data-bs-toggle="tooltip">${row[fields.institutionShort]}</abbr>`
         }
       },
       {
         "className": "text-nowrap",
         "render": function(data, type, row) {
-          return `<a href="#${encodeURIComponent(row[fields.archiveShort])}-${encodeURIComponent(row[fields.record])}" class="copa-record" data-archive="${row[fields.archiveShort]}" data-record="${row[fields.record]}" style="cursor:pointer">${row[fields.record]}</a>`
+          return `<a href="#${encodeURIComponent(row[fields.institutionShort])}-${encodeURIComponent(row[fields.record])}" class="copa-record" data-institution="${row[fields.institutionShort]}" data-record="${row[fields.record]}" style="cursor:pointer">${row[fields.record]}</a>`
         }
       },
       {
@@ -435,14 +448,17 @@ $( function() {
   })
 
   function showRecord (el) {
-    let record = dt_rec.rows().data().toArray().filter(row => row[fields.archiveShort] == el.data('archive') && row[fields.record] == el.data('record') )[0]
+    let record = dt_rec.rows().data().toArray().filter(row => row[fields.institutionShort] == el.data('institution') && row[fields.record] == el.data('record') )[0]
     $('[data-field]').each( function() {
-      $(this).html( record[fields[$(this).data('field')]] )
+      if ( $(this).data('field') == 'institution' )
+        $(this).html( `<abbr title="${institutions[record[fields[$(this).data('field')]]]}" data-bs-toggle="tooltip">${record[fields[$(this).data('field')]]}</abbr>` )
+      else
+        $(this).html( record[fields[$(this).data('field')]] )
     })
     history.pushState({ "foo": "bar"}, "Detailansicht Patientenakte" )
     document.location.hash = el.attr('href')
     $.get( base + "list.json", function(data) {
-      let filtered = data.data.filter(row => row[fields.archiveShort] == el.data('archive') && row[fields.record] == el.data('record') )
+      let filtered = data.data.filter(row => row[fields.institutionShort] == el.data('institution') && row[fields.record] == el.data('record') )
       var dt_rec_single = $('#record-list-single').DataTable({
         "destroy": true,
         "processing": true,
@@ -498,6 +514,7 @@ $( function() {
       })
       $('#copa-record').show()
       $('#copa-list').hide()
+      $('html, body').animate({scrollTop: '0px'}, 100)
     })
   }
 
@@ -506,6 +523,7 @@ $( function() {
     history.pushState("", document.title, window.location.pathname + window.location.search)
     $('#copa-record').hide()
     $('#copa-list').show()
+    $('html, body').animate({scrollTop: '0px'}, 100)
   })
 
   const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')

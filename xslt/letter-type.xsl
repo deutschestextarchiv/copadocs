@@ -3,16 +3,16 @@
 <xsl:template name="letter-type">
   <xsl:param name="filename"/>
   <xsl:choose>
-    <xsl:when test="contains($filename, '_pp_')">
+    <xsl:when test="contains($filename, '_pp_') or contains($filename, '_pp-')">
       <xsl:text>pp</xsl:text>
     </xsl:when>
-    <xsl:when test="contains($filename, '_po_')">
+    <xsl:when test="contains($filename, '_po_') or contains($filename, '_po-')">
       <xsl:text>po</xsl:text>
     </xsl:when>
-    <xsl:when test="contains($filename, '_ap_')">
+    <xsl:when test="contains($filename, '_ap_') or contains($filename, '_ap-')">
       <xsl:text>ap</xsl:text>
     </xsl:when>
-    <xsl:when test="contains($filename, '_ao_')">
+    <xsl:when test="contains($filename, '_ao_') or contains($filename, '_ao-')">
       <xsl:text>ao</xsl:text>
     </xsl:when>
     <xsl:otherwise>

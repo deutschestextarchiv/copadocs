@@ -41,7 +41,7 @@ for i in "$SCRIPT_DIR"/data/*/*.xml; do
   dir=$(basename $(dirname "$i"))
   $XSLTPROC --stringparam filename "$b" --stringparam dirname "$dir" "$SCRIPT_DIR"/xslt/list.xsl "$i"
 done | \
-jq -R -s 'sub("\n$";"") | split("\n") | { "data": map(split("\t")) }' > "$WEB"/list.json
+jq -c -R -s 'sub("\n$";"") | split("\n") | { "data": map(split("\t")) }' > "$WEB"/list.json
 
 # XML letters
 echo "Generating HTML files of letters ..."
