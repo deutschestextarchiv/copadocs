@@ -459,8 +459,13 @@ $( function() {
         "columns": [
           {
             "type": "natural",
-            "render": function (data, type, row) {
-              return `<code style="font-size:smaller"><a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">${row[fields.id]}</a></code>`
+            "render": {
+              "display": function (data, type, row) {
+                return `<code style="font-size:smaller"><a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">${row[fields.id]}</a></code>`
+              },
+              "sort": function (data, type, row) {
+                return row[fields.id]
+              }
             }
           },
           {
