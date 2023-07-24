@@ -145,6 +145,7 @@ $( function() {
     'textType',
     'sender',
     'dateSent',
+    'dateSentSort',
     'placeSent',
     'extentPages',
     'extentWords'
@@ -291,8 +292,14 @@ $( function() {
         }
       },
       {
-        "render": function(data, type, row) {
-          return `${row[fields.dateSent]}`
+        "render": {
+          "display": function(data, type, row) {
+            return `${row[fields.dateSent]}`
+          },
+          "sort": function(data, type, row) {
+            console.log(fields.dateSentSort)
+            return row[fields.dateSentSort]
+          }
         }
       },
       {
@@ -476,10 +483,10 @@ $( function() {
           {
             "type": "natural",
             "render": {
-              "display": function (data, type, row) {
+              "display": function(data, type, row) {
                 return `<code style="font-size:smaller"><a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">${row[fields.id]}</a></code>`
               },
-              "sort": function (data, type, row) {
+              "sort": function(data, type, row) {
                 return row[fields.id]
               }
             }
@@ -495,8 +502,14 @@ $( function() {
             }
           },
           {
-            "render": function(data, type, row) {
-              return `${row[fields.dateSent]}`
+            "render": {
+              "display": function(data, type, row) {
+                return `${row[fields.dateSent]}`
+              },
+              "sort": function(data, type, row) {
+                console.log(fields.dateSentSort)
+                return row[fields.dateSentSort]
+              }
             }
           },
           {

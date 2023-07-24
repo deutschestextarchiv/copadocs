@@ -116,6 +116,28 @@
     </xsl:call-template>
     <xsl:text>&#x9;</xsl:text>
 
+    <!-- date sent: sort value -->
+    <xsl:choose>
+      <xsl:when test="/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:date[@type='sent']/@when">
+        <xsl:value-of select="/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:date[@type='sent']/@when"/>
+      </xsl:when>
+      <xsl:when test="/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:date[@type='sent']/@notBefore">
+        <xsl:value-of select="/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:date[@type='sent']/@notBefore"/>
+      </xsl:when>
+      <xsl:when test="/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:date[@type='sent']/@notAfter">
+        <xsl:value-of select="/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:date[@type='sent']/@notAfter"/>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:message>
+          <xsl:value-of select="$dirname"/>
+          <xsl:text>/</xsl:text>
+          <xsl:value-of select="$filename"/>
+          <xsl:text>.xml: //date[@type="sent"] without proper attributes</xsl:text>
+        </xsl:message>
+      </xsl:otherwise>
+    </xsl:choose>
+    <xsl:text>&#x9;</xsl:text>
+
     <!-- place sent -->
     <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:settlement[@type='sent'])"/>
     <xsl:text>&#x9;</xsl:text>
