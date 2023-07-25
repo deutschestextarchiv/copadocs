@@ -143,6 +143,8 @@ $( function() {
     'faith',
     'trait',
     'textType',
+    'textSubType',
+    'domain',
     'sender',
     'dateSent',
     'placeSent',
@@ -283,6 +285,11 @@ $( function() {
       {
         "render": function(data, type, row) {
           return `<abbr title="${textTypes[row[fields.textType]]}" data-bs-toggle="tooltip">${row[fields.textType]}</abbr>`
+        }
+      },
+      {
+        "render": function(data, type, row) {
+          return `${row[fields.domain]}`
         }
       },
       {
@@ -482,6 +489,11 @@ $( function() {
           {
             "render": function(data, type, row) {
               return `<abbr title="${textTypes[row[fields.textType]]}" data-bs-toggle="tooltip">${row[fields.textType]}</abbr>`
+            }
+          },
+          {
+            "render": function(data, type, row) {
+              return `${row[fields.domain]}`
             }
           },
           {
