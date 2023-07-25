@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="len5103g01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 662: Lengerich-Bethesda</collection>
+<idno>5103 (K. 100)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Wilhelm <surname>G.</surname></persName>
+<date type="sent" when="1923">XX.XX.1923</date>
+<date type="received"></date>
+<persName type="addressee">Arbeitgeber: Gustav <surname>S.</surname></persName>
+<settlement type="sent">Lengerich</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="len5103g">
+<persName>
+<forename>Wilhelm</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1907-01-09"/>
+<death cert="unknown"/>
+<occupation>Gärtnereigehilfe</occupation>
+<residence><geo decls="#WGS">51.43779 7.7953822</geo>Geburtsort: Düsseldorf; Wohnort: Menden</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: k. A.</p>
+<p>Anstalt: <date from="1923-07-03" to="1923-09-13">3.7.1923-13.9.1923</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>einfache Seelenstörung (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient erklärt, dass er vollständig genesen sei und daher wieder arbeiten könne.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="len5103g01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="len5103g01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="len5103g01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><add hand="vordruck">Absender: <hi rendition="#r">Lengerich i.W.,
+                        Provinzialheilanstalt,</hi></add><lb break="yes"/><surname><hi rendition="#i">G.</hi></surname>
+<add hand="vordruck"><hi rendition="#r">den...191</hi></add><lb break="yes"/><add hand="vordruck">Adresse:<lb break="yes"/>An</add><lb break="yes"/>Herrn Gustav Adolf <surname>S.</surname><lb break="yes"/><hi rendition="#r">Menden i/Westf.<lb break="yes"/>Villa
+                            Hönnenwerth.</hi></dateline>
+<salute><hi rendition="#c">Sehr geehrter Herr Schmöle!</hi></salute>
+</opener>
+<p>Teile Ihnen mit, daß ich wieder voll<lb break="no"/>ständig hergestellt bin und nur auf<lb break="yes"/>den Tag warte, wo man mich abholt<lb break="yes"/>und ich wieder
+                mein Zimmer be<lb break="no"/>ziehen kann und kann mit frischer<lb break="yes"/>Kraft meiner Arbeit nachgehen und<lb break="yes"/>mich weiter ausbilden unter<lb break="yes"/>Leitung von Herrn <surname>J.</surname>. in<lb break="yes"/>Ihrem schönen Obst, u Gemüse<lb break="no"/>garten und reizenden Park<lb break="no"/>anlagen. Erhielt heute<lb break="yes"/>einen Brief, dem zufolge <pb facs="#image_002"/>meine Mutter mich abholen<lb break="yes"/>will am 19. oder
+                am 20. dieses Mo<lb break="no"/>nats. Dann fahren wir gemeinsam<lb break="yes"/>nach Menden. Ich habe mich hier<lb break="yes"/>schon 14 Tage in der Gärtnerei<lb break="yes"/>beschäftigt und ich konnte fest<lb break="no"/>stellen daß ich
+                vollkommen<lb break="yes"/>auf der Höhe bin. Seien<lb break="yes"/>Sie bitte so
+                freundlich und sagen<lb break="yes"/>Herrn <surname>J.</surname>, Er möchte
+                meinem<lb break="yes"/>Onkel Bescheid zukommen lassen<lb break="yes"/>über mich.
+                    </p><p>In der Erwartung, daß dieser<lb break="yes"/>Brief Sie bei
+                voller Gesund<lb break="no"/>heit erreicht, verbleibe<lb break="yes"/>ich <seg ana="#signed">Ihr ergebenster<lb break="yes"/><hi rendition="#r">Wilhelm
+                            <surname>G.</surname>.</hi></seg>
+</p>
+<pb facs="#image_003"/>
+<p>Die herzlichsten Grüße an<lb break="yes"/>Herrn <surname>J.</surname> u. Frau.<lb break="yes"/>u Fräulein <surname>P.</surname> un Ihrer<lb break="yes"/>Gemahlin und <w>so</w><w>weiter</w>. </p>
+</body>
+</text>
+</TEI>
