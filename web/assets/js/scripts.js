@@ -133,6 +133,8 @@ $( function() {
     'institution',
     'record',
     'patient',
+    'sex',
+    'parents',
     'birthDate',
     'entryDate',
     'leaveDate',
@@ -149,6 +151,7 @@ $( function() {
     'dateSent',
     'dateSentSort',
     'placeSent',
+    'addressee',
     'extentPages',
     'extentWords'
   ].forEach((x, i) => fields[x] = i )
@@ -229,9 +232,17 @@ $( function() {
     "language": dt_l10n,
     "columns": [
       {
-        "type": "natural",
-        "render": function (data, type, row) {
-          return `<code style="font-size:smaller"><a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">${row[fields.id]}</a></code>`
+        "type": "natural-nohtml",
+        "render": {
+          "display": function(data, type, row) {
+            return `<code style="font-size:smaller"><a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">${row[fields.id]}</a></code>`
+          },
+          "filter": function(data, type, row) {
+            return row[fields.id]
+          },
+          "sort": function(data, type, row) {
+            return row[fields.id].replace( /\d+/g, function(m) { return m.padStart(6, '0') })
+          }
         }
       },
       {
@@ -254,23 +265,23 @@ $( function() {
       {
         "className": "text-nowrap",
         "render": function(data, type, row) {
-          return `${yearOfDate(row[fields.leaveDate])}`
+          let ret = yearOfDate(row[fields.leaveDate])
+          if ( row[fields['deathDate']] != '-' )
+            ret += '<span title="Tod in Anstalt" data-bs-toggle="tooltip" class="cursor-help"><sup>†</sup></span>'
+          return ret
         }
       },
       {
-        "className": "text-nowrap",
-        "render": function(data, type, row) {
-          return `${row[fields.deathDate] == '-' ? 'nein' : 'ja'}`
-        }
-      },
-      {
+        "className": "text-hyph",
         "render": function(data, type, row) {
           return `${row[fields.occupation]}`
         }
       },
       {
         "render": function(data, type, row) {
-          return `${row[fields.residence]}`
+          return row[fields.residence].split(/; /)
+                                      .map( x => x.replace(/((?:Geburts|Wohn)ort): ([^;]+)/, '<span title="$1" data-bs-toggle="tooltip" class="cursor-help">$2</span>') )
+                                      .join('; ')
         }
       },
       {
@@ -450,18 +461,18 @@ $( function() {
       return
     }
     let wantRecord = document.location.hash.match(/^(#[a-z]{3}-.*)/)
-    if ( wantRecord != null && $('a[href="' + wantRecord[0] + '"]').length ) {
+    if ( wantRecord != null && $('a[href="' + wantRecord[0] + '"]').length )
       showRecord( $('a[href="' + wantRecord[0] + '"]').first() )
-    }
   })
 
   function showRecord (el) {
     let record = dt_rec.rows().data().toArray().filter(row => row[fields.institutionShort] == el.data('institution') && row[fields.record] == el.data('record') )[0]
     $('[data-field]').each( function() {
-      if ( $(this).data('field') == 'institution' )
-        $(this).html( `<abbr title="${institutions[record[fields[$(this).data('field')]]]}" data-bs-toggle="tooltip">${record[fields[$(this).data('field')]]}</abbr>` )
-      else
-        $(this).html( record[fields[$(this).data('field')]] )
+      let field = $(this).data('field')
+      let content = record[fields[field]]
+      if ( field == 'leaveDate' && record[fields['deathDate']] != '-' )
+        content += '<span title="Tod in Anstalt" data-bs-toggle="tooltip" class="cursor-help"><sup>†</sup></span>'
+      $(this).html( content )
     })
     history.pushState({ "foo": "bar"}, "Detailansicht Patientenakte" )
     document.location.hash = el.attr('href')
@@ -482,13 +493,16 @@ $( function() {
         "language": dt_l10n,
         "columns": [
           {
-            "type": "natural",
+            "type": "natural-nohtml",
             "render": {
               "display": function(data, type, row) {
                 return `<code style="font-size:smaller"><a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">${row[fields.id]}</a></code>`
               },
-              "sort": function(data, type, row) {
+              "filter": function(data, type, row) {
                 return row[fields.id]
+              },
+              "sort": function(data, type, row) {
+                return row[fields.id].replace( /\d+/g, function(m) { return m.padStart(6, '0') })
               }
             }
           },
@@ -506,6 +520,11 @@ $( function() {
           {
             "render": function(data, type, row) {
               return `${row[fields.sender]}`
+            }
+          },
+          {
+            "render": function(data, type, row) {
+              return `${row[fields.addressee]}`
             }
           },
           {

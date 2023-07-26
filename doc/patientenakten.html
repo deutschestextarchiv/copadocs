@@ -27,54 +27,71 @@
   <div id="copa-record" class="container" style="display:none">
     <h1>Detailansicht Patientenakte</h1>
 
-    <table class="table table-condensed" style="table-layout:fixed">
-      <tr>
-        <th>Anstalt</th>
-        <td data-field="institution"></td>
-        <th>Akte</th>
-        <td data-field="record"></td>
-        <th>Name</th>
-        <td data-field="patient" colspan="3"></td>
-      </tr>
-      <tr>
-        <th>Geburt</th>
-        <td data-field="birthDate"></td>
-        <th>Eintritt</th>
-        <td data-field="entryDate"></td>
-        <th>Austritt</th>
-        <td data-field="leaveDate"></td>
-        <th>Tod in Anstalt</th>
-        <td data-field="deathDate"></td>
-      </tr>
-      <tr>
-        <th>Beruf</th>
-        <td data-field="occupation"></td>
-        <th>Herkunft</th>
-        <td data-field="residence"></td>
-        <th>Familienstand</th>
-        <td data-field="familyStatus"></td>
-        <th>Religion</th>
-        <td data-field="faith"></td>
-      </tr>
-      <tr>
-        <th>Diagnose</th>
-        <td colspan="7" data-field="trait"></td>
-      </tr>
-    </table>
+    <div class="table-responsive">
+      <table class="table table-condensed">
+        <tr class="mb-3">
+          <th class="table-secondary">Provenienz</th>
+          <td colspan="5" class="table-secondary">
+            <span data-field="institution"></span> – <span data-field="record"></span>
+          </td>
+          <td rowspan="7" class="text-center">
+            <img src="holder.js/200x300?text=Aktendeckel"/>
+          </td>
+        </tr>
+        <tr>
+          <th>Name</th>
+          <td data-field="patient"></td>
+          <th>Geburt</th>
+          <td data-field="birthDate"></td>
+          <th>Geschlecht</th>
+          <td data-field="sex"></td>
+        </tr>
+        <tr>
+          <th>Eltern</th>
+          <td data-field="parents" colspan="5"></td>
+        </tr>
+        <tr>
+          <th>Herkunft</th>
+          <td data-field="residence" colspan="5"></td>
+        </tr>
+        <tr>
+          <th>Religion</th>
+          <td data-field="faith"></td>
+          <th>Familienstand</th>
+          <td data-field="familyStatus"></td>
+          <th>Beruf</th>
+          <td data-field="occupation"></td>
+        </tr>
+        <tr>
+          <th>Eintritt</th>
+          <td data-field="entryDate"></td>
+          <th>Austritt</th>
+          <td data-field="leaveDate" colspan="3"></td>
+        </tr>
+        <tr>
+          <th>Diagnose</th>
+          <td colspan="5" data-field="trait"></td>
+        </tr>
+      </table>
+    </div>
 
-    <h2>Briefe</h2>
+    <hr style="clear:both"/>
+    <h2 class="text-center mt-3">Briefe</h2>
 
-    <table class="table table-striped table-sm" id="record-list-single" style="width:100%" data-page-length="500">
-      <thead>
-        <th>ID</th>
-        <th>Texttyp</th>
-        <th>Schreiber</th>
-        <th>Datum des Textes</th>
-        <th>Schreibort</th>
-        <th>Umfang</th>
-      </thead>
-      <tbody></tbody>
-    </table>
+    <div class="table-responsive">
+      <table class="table table-striped table-sm" id="record-list-single" style="width:100%" data-page-length="500">
+        <thead>
+          <th>ID</th>
+          <th>Texttyp</th>
+          <th>Schreiber</th>
+          <th>Adressat</th>
+          <th>Datum des Textes</th>
+          <th>Schreibort</th>
+          <th>Umfang</th>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
 
     <div class="text-center mt-3">
       <button class="btn btn-primary" id="copa-record-close">Detailansicht schließen</button>
