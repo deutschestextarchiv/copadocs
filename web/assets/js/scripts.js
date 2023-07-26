@@ -495,8 +495,11 @@ $( function() {
           {
             "render": function(data, type, row) {
               let ret = `<abbr title="${textTypes[row[fields.textType]]}" data-bs-toggle="tooltip">${row[fields.textType]}</abbr>`
-              if ( row[fields.textType] == 'so' )
-                ret += ` (${row[fields.domain]})`
+              let domain_short = row[fields.domain].replace(/^(?:offizieller|privater|sonstiger)(?:\/(?:offizieller|privater|sonstiger))? Brief(\s*(?:[:,–-]|und)\s*)?/, '')
+                                                   .replace(/^\s*\((.*)\)$/, '$1')
+              if ( domain_short.length ) {
+                ret += ` (${domain_short})`
+              }
               return ret
             }
           },
