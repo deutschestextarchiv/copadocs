@@ -289,11 +289,6 @@ $( function() {
       },
       {
         "render": function(data, type, row) {
-          return `${row[fields.domain]}`
-        }
-      },
-      {
-        "render": function(data, type, row) {
           return `${row[fields.sender]}`
         }
       },
@@ -488,12 +483,10 @@ $( function() {
           },
           {
             "render": function(data, type, row) {
-              return `<abbr title="${textTypes[row[fields.textType]]}" data-bs-toggle="tooltip">${row[fields.textType]}</abbr>`
-            }
-          },
-          {
-            "render": function(data, type, row) {
-              return `${row[fields.domain]}`
+              let ret = `<abbr title="${textTypes[row[fields.textType]]}" data-bs-toggle="tooltip">${row[fields.textType]}</abbr>`
+              if ( row[fields.textType] == 'so' )
+                ret += ` (${row[fields.domain]})`
+              return ret
             }
           },
           {
