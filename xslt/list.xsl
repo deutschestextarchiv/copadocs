@@ -97,6 +97,16 @@
     </xsl:call-template>
     <xsl:text>&#x9;</xsl:text>
 
+    <!-- text subtype -->
+    <xsl:call-template name="letter-subtype">
+      <xsl:with-param name="filename" select="$filename"/>
+    </xsl:call-template>
+    <xsl:text>&#x9;</xsl:text>
+
+    <!-- domain -->
+    <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:textDesc/t:domain)"/>
+    <xsl:text>&#x9;</xsl:text>
+
     <!-- sender -->
     <xsl:choose>
       <xsl:when test="string-length(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='sender'])">

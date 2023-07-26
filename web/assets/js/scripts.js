@@ -143,6 +143,8 @@ $( function() {
     'faith',
     'trait',
     'textType',
+    'textSubType',
+    'domain',
     'sender',
     'dateSent',
     'dateSentSort',
@@ -492,7 +494,10 @@ $( function() {
           },
           {
             "render": function(data, type, row) {
-              return `<abbr title="${textTypes[row[fields.textType]]}" data-bs-toggle="tooltip">${row[fields.textType]}</abbr>`
+              let ret = `<abbr title="${textTypes[row[fields.textType]]}" data-bs-toggle="tooltip">${row[fields.textType]}</abbr>`
+              if ( row[fields.textType] == 'so' )
+                ret += ` (${row[fields.domain]})`
+              return ret
             }
           },
           {
