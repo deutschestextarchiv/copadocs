@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1623g14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1623</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johannes <surname>G.</surname></persName>
+<date type="sent" when="1894-09-02">02.09.1894</date>
+<date type="received"/>
+<persName type="addressee">Bruder: Michael <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1623g">
+<persName>
+<forename>Johannes</forename> <surname>G.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1905"/>
+<occupation>Zimmergeselle</occupation>
+<residence><geo decls="#WGS">48.4613104 10.1908503</geo>Riedheim, Günzburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1874" to="1905">1874–1905</date></p>
+<p>Brieftypen: pp, po, Lebenslauf, Liedertafel</p>
+</state>
+<trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber betont seine geistige Gesundheit und die Güte und Verlässlichkeit Gottes. Er hofft, dass es den Schwestern gut geht.
+                    Er berichtet von der Familie des Oberpflegers. Zudem erklärt er, dass er sich dem Willen des Oberarztes gerne beugt, und dass der Assistenzarzt sich positiv über
+                    den Adressaten geäußert hat. Abschließend wünscht er für die Gabe des Bruders Gottes Segen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1623g14a.jpg" xml:id="image_044"/>
+<graphic mimeType="image/jpg" url="kfb1623g14b.jpg" xml:id="image_045"/>
+<graphic mimeType="image/jpg" url="kfb1623g14c.jpg" xml:id="image_046"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_044"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> den 2.<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+<hi rendition="#i">Sep</hi>:</hi><lb break="yes"/><hi rendition="#c">1894.</hi></dateline>
+<salute><hi rendition="#r">Lieber Bruder!</hi></salute>
+</opener>
+<p> Ich befinde mich gegenwärtig<lb break="yes"/><seg ana="#med">bei gesundem Verstand</seg>, hoffe<lb break="yes"/>mit Gottes
+                gnädiger Güte und<lb break="yes"/>Barmherzichkeit, daß auch du<lb break="yes"/>und
+                deine Frau es sein<lb break="yes"/>werdet: Gott verläßt uns<lb break="yes"/>nicht,
+                wenn wir ihn nicht<lb break="yes"/>verlassen; sonst wäre er ja<lb break="yes"/>kein allwissender Gott!<lb break="yes"/>Ich bitte Ihn <add>er</add> und hilft
+                    mir<lb break="yes"/>und Allen welche Liebe und<lb break="yes"/>Freude haben erleuchtet er und<lb break="yes"/>gibt Ihnen
+                seinen Segen.<lb break="yes"/>Die Eltern welche uns getragen<lb break="yes"/>in
+                Ihren Herzen, sind wohl in<lb break="yes"/>Gottes ewiger Erde, aber mein<pb facs="#image_045"/> Glaubenslicht ist noch nicht<lb break="yes"/>erloschen in
+                meinem Herzen;<lb break="yes"/>Die Schwestern Katharina. u<lb break="yes"/>Gretle
+                werden auch wie<lb break="yes"/>ich hoffe gesund sein und<lb break="yes"/>sich
+                zufrieden fühlen, dann<lb break="yes"/>ist man glücklich wenn
+                    man<lb break="yes"/>sich genügen läßt läßt:<lb break="yes"/>Den Herrn
+                Oberpfleger hast<lb break="yes"/>du das leste mal gesehen<lb break="yes"/>wo du
+                mich an Ostern dort<lb break="no"/>mals besucht hast, er hat auch<lb break="yes"/>zwei Kindlein und seine Frau<lb break="yes"/>ist recht ordentlich Sie ist eine<lb break="yes"/>Näherin. <seg ana="#salute">Ich schließe mit<lb break="yes"/>Gruß
+                    an Jedermann</seg><lb break="yes"/><hi rendition="#c">Dein<lb break="yes"/>dankbarer Bruder<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Johannes</hi> <surname>G.</surname></seg>.</hi></p><pb facs="#image_046"/><p>Der Herr Oberarzt ist
+                    auch<lb break="yes"/>ein offener u gutherziger<lb break="yes"/>Mensch deßwegen
+                ich mich<lb break="yes"/>auch in seinen Willen<lb break="yes"/>gern füge.<lb break="yes"/>Der Herr Assistentzarzt.<lb break="yes"/><hi rendition="#i">Dr</hi>: <surname>W.</surname> hat gesacht<lb break="yes"/>Du habest ein gutes Herz,<lb break="yes"/>weich u ich bin auch nicht<lb break="yes"/>hartherzig u undankbar.<lb break="yes"/>Gott segne deine Gabe und<lb break="yes"/>dein Kinder u Alle welche<lb break="yes"/>sich meiner annahmen.</p> <p>An <hi rendition="#c"><hi rendition="#i">Herrn<lb break="yes"/>Michael <surname>G.</surname></hi><lb break="yes"/>Schuhmacher in
+                        Langenau<lb break="yes"/>unter Stadt.<lb break="yes"/>Post daselbst,
+                    (Württenberg)</hi>
+</p>
+</body>
+</text>
+</TEI>

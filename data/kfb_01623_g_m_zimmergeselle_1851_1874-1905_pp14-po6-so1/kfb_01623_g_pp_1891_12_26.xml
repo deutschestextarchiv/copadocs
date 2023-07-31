@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1623g12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1623</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johannes <surname>G.</surname></persName>
+<date type="sent" when="1891-12-26">26.12.1891</date>
+<date type="received"/>
+<persName type="addressee">Bruder: Michael <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1623g">
+<persName>
+<forename>Johannes</forename> <surname>G.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1905"/>
+<occupation>Zimmergeselle</occupation>
+<residence><geo decls="#WGS">48.4613104 10.1908503</geo>Riedheim, Günzburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1874" to="1905">1874–1905</date></p>
+<p>Brieftypen: pp, po, Lebenslauf, Liedertafel</p>
+</state>
+<trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber wehrt sich gegen den Vorwurf, er sei nicht sparsam gewesen. Er betont, dass er zufrieden mit seinem Gesundheitszustand ist und hofft, sich mit seinem
+                    Schicksal abfinden zu können.
+                    Er wünscht seinem Bruder alles Gute für das neue Jahr.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1623g12a.jpg" xml:id="image_038"/>
+<graphic mimeType="image/jpg" url="kfb1623g12b.jpg" xml:id="image_039"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_038"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> den 26 <hi rendition="#i">Dezember</hi> 1891.</hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder!</hi></salute>
+</opener>
+<p> Lieber möchte ich neu geboren<lb break="yes"/>werden, als mich, ich wäre nicht<lb break="yes"/>sparsam beschuldigen lassen;<lb break="yes"/>warum will ich Dir
+                in meinem<lb break="yes"/>erklärenden mittheilenden Brief<lb break="yes"/>auslegen. Die Zufrieden mit<lb break="yes"/>meiner Gesundheit ist daß erste,<lb break="yes"/>Die Hoffnung daß zweite, daß ich<lb break="yes"/>mich darein
+                fügen kann, daß mein<lb break="yes"/>Schicksal zu ertragen ist, wie manger<lb break="yes"/>Krippel ist auf der Welt, welcher<lb break="yes"/>in Elend u
+                Armuth schmachten muß<lb break="yes"/>Durch die so überspannten Maschienen<lb break="yes"/>Der andere aus Unvorsichtig der<lb break="yes"/>Unwissenheit so
+                manches Instrumente<pb facs="#image_039"/> Deine Mühende Klage wird sein<lb break="yes"/>wird der Wechsel der schwachen<lb break="yes"/>Menschen Herzen.
+				    <seg ana="#salute">Es grüßt Dich<lb break="yes"/>dein Bruder</seg> <seg ana="#signed">Johannes<lb break="yes"/><hi rendition="#c">Gerstlauer</hi></seg><lb break="yes"/>Glück Gesundheit u alles Gute<lb break="yes"/>wünsche ich Dir zu
+                neuen Jahr.</p>
+</body>
+</text>
+</TEI>

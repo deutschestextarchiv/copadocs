@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb966b27" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Laurentiu Gafiuc</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>966</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>B.</surname></persName>
+<date type="sent" when="1877-12-05">05.12.1877</date>
+<date type="received"/>
+<persName type="addressee">Direktion: k. A. <surname></surname></persName>
+<settlement type="sent">Kempten</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb966b">
+<persName>
+<forename>Georg</forename> <surname>B.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1904"/>
+<occupation>Buchhalter, Kaufmann</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Huckler</p>
+<p>Anstalt: <date from="1877" to="1904">1877–1904</date></p>
+<p>Brieftypen: pp, po, ao</p>
+</state>
+<trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Abschiedsbrief des Patienten an die Direktion.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb966b27.jpg" xml:id="image_085"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_085"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kempten, 5. Decbr.
+                    1877.</hi></hi></dateline>
+<salute>Verehrl. Direction der Kreis Irren-Anstalt<lb break="yes"/><hi rendition="#r"><hi rendition="#u">Kaufbeuren</hi></hi>
+</salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#c">9</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">pr. 7 </hi><unclear/></hi><lb break="yes"/>Schon abgesendet an die Frau<lb break="yes"/>daher <hi rendition="#i">ad acta</hi><lb break="yes"/><space/> <surname>B.</surname>
+</add></p>
+<p><space/> Es war mir vor meiner Abreiße<lb break="yes"/>leider nicht vergön̄ t, Ihnen
+                sehr<lb break="yes"/>geehrter herr <hi rendition="#i">Director</hi> Lebewohl<lb break="yes"/>zu sagen, − Ihnen zugleich für die<lb break="yes"/>rücksichtsvolle, zuvorkom̄ ende Behandlung<lb break="yes"/>meinen
+                herzlichen Dank auszusprechen,<lb break="yes"/>weßhalb ich dies nunmehr auf diesem<lb break="yes"/>Wege nachhole. </p><p><space/> Bei dieser Gelegenheit,<lb break="yes"/>möchte ich mir nur die Bemerkung<lb break="yes"/>erlauben, die noch <hi rendition="#i">Dorten</hi> zurückgebliebene<lb break="yes"/><w>Taschen Uhr</w> unter der <hi rendition="#i">Adreße</hi>
+                meines<lb break="yes"/>Vaters "<hi rendition="#i">Matthäus <surname>B.</surname>
+</hi><unclear><hi rendition="#i"/></unclear><hi rendition="#i">ens. Locomotiv</hi><lb break="no"/>heitzer wohnhaft auf dem Hoföschle gefl.<lb break="yes"/>anher
+                senden zu wollen.<lb break="yes"/><space/>
+<seg ana="#salute">Ich zeichne Hochachtungsvollst</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#u"><hi rendition="#i">Georg</hi></hi><surname><hi rendition="#u">B.</hi></surname></seg></hi>
+</p>
+</body>
+</text>
+</TEI>
