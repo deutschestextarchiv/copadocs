@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1945h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1945</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Krenszia <surname>P.</surname></persName>
+<date notAfter="1891-09-19" notBefore="1854-09-19" type="sent">19.09., ca. 1854–91</date>
+<date type="received"/>
+<persName type="addressee">Doktor: <surname>E.</surname></persName>
+<settlement type="sent">Lindau</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1945h">
+<persName>
+<forename>Max</forename> <surname>H.</surname>
+</persName>
+<birth when="1830"/>
+<death when="1891"/>
+<occupation>Schneidergeselle</occupation>
+<residence><geo decls="#WGS">47.550753 9.6926624</geo>Lindau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: unehelicher Sohn Bataillons Tambour + Wäscherin</p>
+<p>Anstalt: <date from="1854" to="1891">1854–1891</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 5, po: 4, ap: 1, ao: 2</p>
+</state>
+<trait><p>Fixe Idee (1862), gefährlicher Irrsinn, partielle Verrücktheit (1854)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="mutter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Mutter möchte ihm Hoffnung machen, damit er nicht böse wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1945h02a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb1945h02b.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1945h02c.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p> Herr Terktor verzeihen mir doch<lb break="yes"/>das ich ihnen noch ein mahl
+                    belästigen<lb break="yes"/>thue ich must in nur Hoffnung machen<lb break="yes"/>schonst wird er ganz aus ander er wird<lb break="yes"/>am Ende ganz Böße das
+                macht <del>man</del><lb break="yes"/>weil man in wieder fort gethan hat<lb break="yes"/>ich bitte ihnen klagen in <w>doch</w><w>nicht</w> wen̄<lb break="yes"/>ich im Hoffnung
+                mache das er nicht so<lb break="yes"/>Böße wird last im doch mir Schreiben<lb break="yes"/>ich bitte <unclear>?</unclear> danke ihnen vielmahl<lb break="yes"/>für ihre <unclear>?</unclear> doch auch das die<lb break="yes"/>Mutter
+                    <unclear>?</unclear> habe das doch nicht<lb break="yes"/>Schlimer wird <seg ana="#salute">ich grüße ihnen Tausend<lb break="yes"/>vach</seg>
+<seg ana="#signed">die Dankbare Brenszie<lb break="yes"/><hi rendition="#r"><surname>P.</surname></hi></seg></p>
+<pb facs="#image_005"/>
+<p> An<lb break="yes"/>Max <surname>H.</surname><lb break="yes"/>in
+                    Eiomisten<lb break="yes"/>in Erenanstalt<lb break="yes"/>bey<lb break="yes"/>Kaufbeyren</p>
+<pb facs="#image_006"/>
+<p>
+<hi rendition="#r">Lindau 19 Sedember</hi></p>
+<p><hi rendition="#c">Lieber Max!</hi><lb break="yes"/><lb break="yes"/>Ich will dir einigen Zeilen Schreiben Lieben<lb break="yes"/>Max
+                sey braf habe geduld, ich habe die<lb break="yes"/>beste Hoffnung das du wieder zu
+                    <add>mir</add> kom̄st<lb break="yes"/>Ich bin deine Mutter, sey braf ich
+                thue meiner<lb break="yes"/>Mitterlichste Pflicht ich bin in der beste<lb break="yes"/>Hoffnung das du wieder mit ir Eßen<lb break="yes"/>kanst Max es
+                wird recht habe Geduld<lb break="yes"/>ich thue mein mögliches grüße dich
+                    wen̄<lb break="yes"/>dich schreiben laßt so Schreibe mich wieder<lb break="yes"/>ich bethe alle Tag für dich <seg ana="#salute">lebe wohl<lb break="yes"/>baldiges wieder sehen</seg>
+<seg ana="#signed">Deine Mutter<lb break="yes"/><hi rendition="#r">Bresizie <surname>P.</surname></hi></seg>
+</p>
+</body>
+</text>
+</TEI>

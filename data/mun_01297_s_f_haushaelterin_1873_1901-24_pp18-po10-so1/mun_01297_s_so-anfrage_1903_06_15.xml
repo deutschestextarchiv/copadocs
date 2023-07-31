@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mun1297s06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Katharina Gunkler-Frank</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 658: Münster</collection>
+<idno>1297 (K. 650)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabeth <surname>S.</surname></persName>
+<date type="sent" when="1903-06-15">15.06.1903</date>
+<date type="received"/>
+<persName type="addressee">Arzt: Dr. Lönbker</persName>
+<settlement type="sent">Münster</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mun1297s">
+<persName>
+<forename>Elisabeth</forename> <surname>S.</surname>
+</persName>
+<birth when="1873-01-15"/>
+<death when="1924-06-26"/>
+<occupation>Haushälterin</occupation>
+<residence><geo decls="#WGS">51.5533457 7.9155558</geo>Geburtsort: Brakel; Wohnort: Werl</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Wegemeister, Mutter: ohne Beruf</p>
+<p>Anstalt: <date from="1901-01-19" to="1924-06-26">19.01.1901–26.06.1924</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 18, po: 10, so: 1</p>
+</state>
+<trait><p>einfache Seelenstörung (1901), Dementia paranoides</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+<handNote medium="pencil" scope="minor" scribe="hand3"/>
+<handNote medium="ink" scope="minor" scribe="hand4"/>
+<handNote medium="crayon_red" scope="minor" scribe="hand5"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Anfrage</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin berichtet von ihrer geplanten Entlassung und einem Vorfall im Waschhaus.
+                    Sie will den Professor zu Rate ziehen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mun1297s06a.jpg" xml:id="image_020"/>
+<graphic mimeType="image/jpg" url="mun1297s06b.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_020"/>
+<opener>
+<dateline><add hand="vordruck">Provinzial-Heil-Anstalt  <hi rendition="#r">Münster i. W., den</hi></add><hi rendition="#r"> 15.6. Juni 1903.</hi></dateline>
+<salute/>
+</opener>
+<p><add hand="hand3"><surname><hi rendition="#i">S.</hi></surname></add><lb break="yes"/><add hand="hand4"><unclear>E</unclear>
+<hi rendition="#sup">17</hi>/<hi rendition="#sub">6</hi> 03<lb break="yes"/><space/>
+<hi rendition="#u" style="hand5">ad acta</hi> Elise <surname><hi rendition="#i">S.</hi></surname>
+</add></p>
+<p>Den 16. werde ich von der Provinzial<lb break="no"/>Irrenanstalt Marienthal
+                entlassen,<lb break="yes"/>und denke den 18. dieses Monats<lb break="yes"/>nach
+                Bochum zu kommen. Von Hau<lb break="no"/>se von Werl meiner Eltern kom<lb break="no"/>me ich dort hin. In betref habe ich<lb break="yes"/>hir in Waschhaus mit heises
+                Wasser<lb break="yes"/>hatte mir eine Kranke aus Un<lb break="no"/>vorsichtigkeit
+                in der Hand am Wasser<lb break="no"/>krahn und knallte <w>an</w><w>der</w> linke
+                Hand<lb break="yes"/>Seite ab, und gekratzt oben drein auf<lb break="yes"/>der
+                rechten Hand, ich siehe zu Rate <pb facs="#image_021"/>Herr Proffessor Lönbker weil
+                Sie<lb break="yes"/>damals Bruder Joseph <surname>S.</surname><lb break="yes"/>in Behandlung gehabt haben aufs<lb break="yes"/>weitere mündlich
+                mehr. In übrigen<lb break="yes"/>bin ich zwei Jahr und 4 Monate hir<lb break="yes"/>wären der Zeit ganz ruhig ge<lb break="no"/>halten, werde von meiner Mut<lb break="no"/>ter Morgen den 16. dieses Monat<lb break="yes"/>geholt,
+                        <del><unclear>auft</unclear></del> Schwierigkeiten habe<lb break="yes"/>ich
+                viel <w>mit gemacht</w> das andere<lb break="yes"/>Befördern weiter. Ich bin die
+                Tochter<lb break="yes"/>des Wegemeister <hi rendition="#i">A. </hi><surname><hi rendition="#i">S.</hi></surname><lb break="yes"/>zu Werl.<lb break="yes"/>Münster den 1<del>6</del>5. 6. Juni 1903. </p>
+</body>
+</text>
+</TEI>

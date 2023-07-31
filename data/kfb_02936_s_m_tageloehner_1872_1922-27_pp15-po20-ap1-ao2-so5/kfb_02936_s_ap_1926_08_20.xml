@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2936s12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>K.</surname></persName>
+<date type="sent" when="1926-08-20">20.08.1926</date>
+<date type="received"/>
+<persName type="addressee">Mitpatient: Urban <surname>S.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2936s">
+<persName>
+<forename>Urban</forename> <surname>S.</surname>
+</persName>
+<birth when="1872"/>
+<death when="1927"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg, geb. Lentin, Ingolstadt</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Schneider</p>
+<p>Anstalt: <date from="1922" to="1927">1922–27</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 15, po: 20, ap: 1, ao: 2, so: 5</p>
+</state>
+<trait><p>erregb. Psychopathie, Hypomanie, Beeinträchtigungs- und Verfolgungswahn (1923)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="mitpatient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    bezeichnet S. als "Geheimpfleger", Verschwörungstheorie zu einem Pfleger
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2936s12a.jpg" xml:id="image_046"/>
+<graphic mimeType="image/jpg" url="kfb2936s12b.jpg" xml:id="image_047"/>
+<graphic mimeType="image/jpg" url="kfb2936s12c.jpg" xml:id="image_048"/>
+<graphic mimeType="image/jpg" url="kfb2936s12d.jpg" xml:id="image_049"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_046"/> <pb facs="#image_047"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#u">Kaufbeuren, den 20. Augu<hi rendition="#i">s</hi>t<lb break="yes"/>1926</hi></hi></dateline>
+<salute><hi rendition="#u"><hi rendition="#c">Für</hi></hi><lb break="yes"/>Deinen <hi rendition="#u">irrenden</hi>
+<hi rendition="#u">Mitbruder</hi><lb break="yes"/>in <hi rendition="#i">Christo Jesu <hi rendition="#u">Urban
+                                </hi><surname><hi rendition="#u">S.</hi></surname></hi><lb break="yes"/><hi rendition="#u"><hi rendition="#u" style="arzt">Geheimpfleger</hi></hi> der <hi rendition="#u">staatlichen </hi><hi rendition="#i"><hi rendition="#u">Irren</hi></hi><lb break="no"/><hi rendition="#i"><hi rendition="#u">anstalt</hi></hi>
+<hi rendition="#i"><hi rendition="#u">Kaufbeuern-Irsee
+                    <unclear>Oellan</unclear></hi></hi>
+</salute>
+</opener>
+<p>Die <hi rendition="#i"><hi rendition="#u">Ewig</hi></hi>
+<hi rendition="#u">Unergründliche</hi>
+<hi rendition="#u">Liebe</hi><lb break="yes"/><hi rendition="#u">und <hi rendition="#i">Barmherzigkeit</hi></hi>
+<hi rendition="#i"><hi rendition="#u">Gottes</hi></hi> er<lb break="no"/><hi rendition="#u">theilt mir soeben den Befehl</hi> dir<lb break="yes"/><hi rendition="#i"><hi rendition="#u">zur Vergeltung</hi></hi> der <hi rendition="#u">wenigen</hi><lb break="yes"/><hi rendition="#u">von Dir</hi> an <hi rendition="#u">mir</hi>
+                in <hi rendition="#u">aufrichtiger</hi><lb break="yes"/><hi rendition="#i"><hi rendition="#u">Christenliebe</hi></hi> zur
+                    <hi rendition="#u">Anwendung</hi>
+<pb facs="#image_047"/><hi rendition="#u">gebrachten Werke</hi> der <hi rendition="#u"><hi rendition="#i">Barmherzig</hi></hi><lb break="no"/><hi rendition="#u"><hi rendition="#i">keit</hi></hi>, wozu dich dein <hi rendition="#u"><hi rendition="#u" style="arzt">Geheimpfle</hi></hi><lb break="no"/><hi rendition="#u"><hi rendition="#u" style="arzt">gerdienst</hi></hi>
+<hi rendition="#u">nicht</hi> ver<hi rendition="#u">pflichtet hätte</hi>,<lb break="yes"/>der <hi rendition="#u">die Rettung</hi>
+<hi rendition="#u">deines ge</hi><lb break="no"/><hi rendition="#u">sam̄ten</hi> in <hi rendition="#i"><hi rendition="#u">Eglfing</hi></hi>
+<hi rendition="#u">und</hi>
+<hi rendition="#i">hier</hi><lb break="yes"/><hi rendition="#u">ehrlich</hi> und <hi rendition="#u">redlich
+                        <hi rendition="#i">verdienten</hi></hi><lb break="yes"/><hi rendition="#i"><hi rendition="#u"><hi rendition="#u" style="arzt">Geheimpflegergehaltes</hi></hi></hi>, den<lb break="yes"/><hi rendition="#u">du, wie</hi> mir die <hi rendition="#u"><hi rendition="#i">Ewige</hi></hi>
+<w><hi rendition="#u"><hi rendition="#i">Allwisse </hi></hi><lb break="no"/><hi rendition="#u"><hi rendition="#i">heit</hi></hi></w> sch<hi rendition="#u">on län</hi>gst <hi rendition="#u">mitgethe</hi>ilt <hi rendition="#u">ha<del>t</del>t<del>e</del></hi><lb break="yes"/>in <hi rendition="#u"><w><hi rendition="#i">Pfar Briefen</hi></w></hi> der <w><hi rendition="#u"><hi rendition="#i">All gemeinen</hi></hi></w><lb break="yes"/><hi rendition="#i"><hi rendition="#u">Electricitätsgesellschaf</hi>t</hi> so<hi rendition="#u">wie </hi><lb break="yes"/><del><hi rendition="#i">in Pfarbriefen der Ban</hi></del>
+<hi rendition="#u">in</hi><lb break="yes"/><hi rendition="#i"><hi rendition="#u">Actien</hi></hi> dr
+                        <unclear><hi rendition="#i"><hi rendition="#u">Rangtmichle</hi></hi></unclear><hi rendition="#i"><hi rendition="#u">
+                        Tivoli</hi></hi><lb break="yes"/><hi rendition="#u">bei <hi rendition="#i">München</hi></hi> an<hi rendition="#u">gelegt hast</hi>, <pb facs="#image_048"/><hi rendition="#u">zu ermöglichen</hi> da <hi rendition="#u">beide</hi>!<lb break="yes"/><hi rendition="#u">Anlagen</hi>
+<del>d</del>
+<hi rendition="#u">nach</hi> ds <hi rendition="#u">Allerhöchsten</hi><lb break="yes"/><hi rendition="#u">unerforschlichen Rathschluß</hi><lb break="yes"/>schon in <hi rendition="#u">wenig Monaten</hi> bei<lb break="yes"/><hi rendition="#i"><hi rendition="#u">Tivoli</hi></hi>
+<hi rendition="#u">sogar schon</hi> in <hi rendition="#u">wenig</hi><lb break="yes"/><hi rendition="#i"><hi rendition="#u">Wochen</hi></hi>!!! für <hi rendition="#u">werthlos</hi> er<lb break="no"/><hi rendition="#u">klärt</hi>
+                werden <hi rendition="#u">müssen</hi>!!! was<lb break="yes"/>die <hi rendition="#i"><hi rendition="#u">Innhaber</hi></hi> der <hi rendition="#i"><hi rendition="#u">Tivoli</hi>-Werth</hi><lb break="no"/><hi rendition="#i"><hi rendition="#u">papiere</hi></hi>
+<hi rendition="#u">hauptsächlich</hi> den <hi rendition="#u">teufl</hi>i<lb break="no"/>schen <hi rendition="#u">Machenschaften</hi>
+<hi rendition="#u">des Oberpfleger</hi><lb break="yes"/><hi rendition="#u"><hi rendition="#i">L <surname>S.</surname></hi></hi>, und <hi rendition="#u">seines
+                    hiesigen</hi><lb break="yes"/><hi rendition="#i"><hi rendition="#u">Spitzbuben
+                    Accompagnons</hi></hi> dem<lb break="yes"/><hi rendition="#u">hiesigen</hi>
+<hi rendition="#i"><hi rendition="#u">Anstalts Regierungs</hi></hi><lb break="no"/><hi rendition="#u">führer</hi>!! zu <hi rendition="#i"><hi rendition="#u">veidanken</hi></hi><hi rendition="#u"> haben</hi>!!!<pb facs="#image_049"/>Alles <hi rendition="#u">Übrige</hi>
+<hi rendition="#u">unserer</hi>
+<hi rendition="#u">mündlichen</hi><lb break="yes"/><hi rendition="#u"><hi rendition="#i">Besprechung</hi></hi>
+                aufbewahrend bni<lb break="yes"/>ich <hi rendition="#u">Dein</hi>
+<hi rendition="#u">bald von hier</hi><lb break="yes"/><hi rendition="#u">scheidendr</hi> Mitbruder<lb break="yes"/>in
+                    <hi rendition="#i"><hi rendition="#u">Christo Jesu</hi></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Franz
+                        </hi></hi><surname><hi rendition="#i">K.</hi></surname><lb break="yes"/>Der Knecht des Aller<lb break="no"/><hi rendition="#i">Höchste</hi>n und <hi rendition="#i">Apotel</hi></hi><lb break="yes"/><hi rendition="#i">dem Christi</hi> zur <hi rendition="#i">Sam̄lung</hi><lb break="yes"/><hi rendition="#i">Seines</hi> in alle Religionen zerstreuten<lb break="yes"/><hi rendition="#i">Volkes "Israel."</hi></p>
+</body>
+</text>
+</TEI>

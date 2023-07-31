@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1623g02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1623</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johannes <surname>G.</surname></persName>
+<date notAfter="1905" notBefore="1874" type="sent">ca. 1874–1905</date>
+<date type="received"/>
+<persName type="addressee">Direktor, Ärzte: k. A. <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1623g">
+<persName>
+<forename>Johannes</forename> <surname>G.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1905"/>
+<occupation>Zimmergeselle</occupation>
+<residence><geo decls="#WGS">48.4613104 10.1908503</geo>Riedheim, Günzburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1874" to="1905">1874–1905</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 14, po: 6, so: 1</p>
+</state>
+<trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Lebenslauf</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber berichtet von seiner Geburt, seiner Einschulung und verschiedenen Krankheiten, die er in seiner Kindheit hatte.
+                    Anschließend will er erklären, dass er sich nun gesund fühlt und spielt mit dem Wort 'geist'. 
+                    Er erzählt, dass er unter dem Vorwand einer Fahrt nach Augsburg in die Anstalt gebracht wurde. Er bedankt sich bei den Ärzten für ihre Behandlung,
+                    die zu seiner Genesung geführt hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1623g02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb1623g02b.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="kfb1623g02c.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="kfb1623g02d.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/><pb facs="#image_004"/>
+<p>
+<hi rendition="#c">Beschreibung meines Lebenslaufs.</hi><lb break="yes"/>Ich bin
+                geboren in Riedheim 1851.<lb break="yes"/>den 19<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> März, mit 5 Jahr habe ich das<lb break="yes"/><seg ana="#med">Scharlach-Fieber</seg> gehabt: Im Jahrgang 1857.<lb break="yes"/>bin ich in die Schule
+				    gekom̄en, im 11 Jahr<lb break="yes"/>habe ich den <seg ana="#med">Tifus</seg> gehabt, und wurde
+                    von<lb break="yes"/>Tocktor <surname>H.</surname> Militärs-Arzt
+                    behandelt:<lb break="yes"/>Nach dieser Krankheit hatte ich mehrmals<lb break="yes"/><del>starkekes</del><add>starkes</add> <seg ana="#med">Nasenbluten</seg>, wo der Docktor <surname>H.</surname><lb break="yes"/>für sehr gefährig hielt, und gesagt
+                hatte zu<lb break="yes"/>meiner Mutter, daß man da soll, so schnell<lb break="yes"/>als möglig, ihm beilaufen. Denn da könnte<lb break="yes"/>es gefehlt sein, wenn
+                mann sich säume. Da ich<lb break="yes"/>nun jetzt gänzlig mich gesund fühle; So
+                    thue<lb break="yes"/>ich mich gänzlig erklären, damit die Krankheit<lb break="yes"/><w>geistes hell</w>, oder <w>geistes schwach</w>, <w>geistes reich</w>,<lb break="yes"/><w>geistes arm</w>, oder <w>geistes leer</w>. <add>(Der Todt ist nicht<lb break="yes"/><seg ana="#med">geisteskrank</seg>)</add><lb break="yes"/>Das Geblück hat einen Geist! worin die
+                    Seele<lb break="yes"/>wohnt. Gott ist ein Geist und die ihn anbeten<lb break="yes"/>müssen ihn im Geist, und in der Wahrheit anbeten<pb facs="#image_005"/><pb facs="#image_006"/> Ich bin im Jahrgang 1874 nach Irsee
+                    gekom̄en<lb break="yes"/>und aber wie, läßt sich fragen, nicht war<lb break="yes"/>Herr <hi rendition="#i">Direckor</hi>. <seg ana="#inst">Dortmals,
+                    hat man mich mit<lb break="yes"/>Lügen in eine Anstalt gebracht, wovon sie:<lb break="yes"/>wie ich unschuldig waren, sie haben mir<lb break="yes"/>die
+                    Freüde gemacht, es gehe nach Augsburg<lb break="yes"/>meine Bekleider also,
+                    dortmals; und die<lb break="yes"/>gelehrten wahrscheinlich den Unsinn
+                        gedichtet<lb break="yes"/>um Gold und nicht aus Liebe Ihres
+                    Bürgerkindes</seg><lb break="yes"/>Hochzuverehrende Ärzte! der Johannes <surname>G.</surname><lb break="yes"/>ist nun jetzt gesund worden,
+                durch die Heilmitel<lb break="yes"/>euer pracktischen Hilfe, und sieht nun, daß
+                    das<lb break="yes"/>Doktor sein kein Schneider Spiel ist.<lb break="yes"/><hi rendition="#c">Dank von Patient, <surname>G.</surname> aus <hi rendition="#i">Riedheim</hi><lb break="yes"/>Nebst Gebet zu dem
+                        Allmächten<lb break="yes"/>der die Arznei kann<lb break="yes"/>wachsen
+                    lassen</hi></p> <p>Ein Baur kennt gewiß<lb break="yes"/>seine Ochsen und Kühe Aber!
+                a_z! 1-90. geht vor.</p>
+<p><add place="margin">Weis geschmückt ist Bauren Dracht! Wenn die Magd das Bett
+                    befleckt; <seg ana="#curse">Rind v..ch_er</seg><lb break="yes"/><seg ana="#pic">[Mistgabel, Rechen]</seg></add></p>
+<p><add place="margin">(Ich bin ein Krebsbeobachter<lb break="yes"/>wenn die Schnecken eilen)</add></p>
+<p><add place="margin"><seg ana="#pic">[Gebäude?]</seg><lb break="yes"/>Was Johan̄es <surname>G.</surname><lb break="yes"/>bezeicht Ei <seg ana="#pic">[Ei]</seg><lb break="yes"/><lb break="yes"/>Baur<lb break="yes"/>ein<lb break="yes"/>Ei ist un<del>d</del>gesund<lb break="yes"/>für<lb break="yes"/>Dich er zerbricht<lb break="yes"/>gern</add></p>
+<p><add place="margin">(Salomo scheut albern sein bem Wein)</add><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2245r19" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2245</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Anna <surname>R.</surname></persName>
+<date type="sent" when="1899-12-03">03.12.1899</date>
+<date type="received"/>
+<persName type="addressee">Direktor: k. A. <surname/></persName>
+<settlement type="sent">Frickenhausen</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2245r">
+<persName>
+<forename>Anna</forename> <surname>R.</surname>
+</persName>
+<birth when="1882"/>
+<death when="1918"/>
+<occupation>Söldnerstochter</occupation>
+<residence><geo decls="#WGS">48.0734 10.3118194</geo>Frickenhausen, Memmingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1899" to="1918">1899–1918</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 20, po: 1, ap: 2, ao: 7</p>
+</state>
+<trait><p>Melancholie (1904), Depression, [Suizidalität] (1914)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink_blue" scope="major" scribe="mutter"/>
+<handNote medium="ink_black" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Fragt den Direktor, ob der Zustand der Patientin es zulasse, dass sie bis Weihnachten entlassen werden könne. 
+                    Weist darauf hin, dass sie zunächst nur die Anstaltskosten für Januar bezahlen könne, 
+                    da noch andere Rechnungen beglichen werden müssten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb2245r19a.JPG" xml:id="image_065"/>
+<graphic mimeType="image/jpeg" url="kfb2245r19b.JPG" xml:id="image_066"/>
+<graphic mimeType="image/jpeg" url="kfb2245r19c.JPG" xml:id="image_067"/>
+<graphic mimeType="image/jpeg" url="kfb2245r19d.JPG" xml:id="image_068"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_065"/>
+<opener>
+<dateline><hi rendition="#i">Frickenhausen</hi> den 3. <del><unclear/></del>Dez.
+                    99</dateline>
+<salute><hi rendition="#c">Von Anna <surname><hi rendition="#i">R.</hi></surname><lb break="yes"/></hi><hi rendition="#r"><hi rendition="#i">W</hi><unclear reason="rubbing">w</unclear>. Frickenhausen Hs. <hi rendition="#i">N</hi>. 57.<lb break="yes"/></hi><hi rendition="#i">Hochwohlgeboren</hi><lb break="yes"/><hi rendition="#r">Herr <hi rendition="#i">Direcktor</hi>!</hi></salute>
+</opener>
+<p>Es rückt nun die Zeit im̄er<lb break="yes"/>näher, daß das Virteljahr<lb break="yes"/>zu Ende geht. Ich wäre von<lb break="yes"/>Herzen froh, wenn ich
+                meine<lb break="yes"/>Tochter <add place="above">*)</add> noch in diesem
+                Vierteljahr<lb break="yes"/><w>heim holen</w> könnte. Wenn nun<lb break="yes"/>meine Tochter noch vor Weihnachten<lb break="yes"/>zu einer solchen Genesung
+                kom̄t, </p><p><add place="bottom"><hi rendition="#sup">*)</hi> Anna <surname><hi rendition="#i">R.</hi></surname>.</add></p>
+<pb facs="#image_066"/>
+<p>daß ich sie wieder daheim haben<lb break="yes"/>kann ohne Schaden ihrer
+                geistlichen<lb break="yes"/>Gesundheit, so bitte ich Sie Herr<lb break="yes"/>Direktor mir solches mitzutheilen<lb break="yes"/>und den Tag angeben wan̄<lb break="yes"/>ich sie holen kann. Wenn es<lb break="yes"/>gar nicht,
+                durchaus nicht. möglich<lb break="yes"/>ist, daß ich sie holen kann <add place="above">*)</add> ohne<lb break="yes"/>Schaden ihrer geistlichen
+                Gesundheit,<lb break="yes"/>(das ist gemeint, wenn ihr Zustand ohne<lb break="yes"/>anstaltliche Pflege wieder schlim̄er<lb break="yes"/>würde) so bitte ich
+                Sie Herr Direktor,<lb break="yes"/>daß ich blos für den Monat Janu<lb break="no"/>ar bezahlen darf, vielleicht ist<lb break="yes"/>es nach Gottes Willen bis dahin<lb break="yes"/>gut mit meiner Anna. Wen̄ </p><p><add place="bottom"><hi rendition="#sup">*)</hi> Noch vor Weihnachten</add></p>
+<pb facs="#image_067"/>
+<p>es dan̄ noch nichts ist mit meiner<lb break="yes"/>Tochter, so werde ich
+                dan̄ für Febru<lb break="no"/>ar u. März (1. Vierteljahr) nachbezahlen.<lb break="yes"/>Ich erbitte solch letzteres blos, weil<lb break="yes"/>ich die
+                Summe für ein Viertel<lb break="no"/>jahr nicht habe, und weil auf Neujahr<lb break="yes"/>die Rechnungen von Arzt und Apotheke<lb break="yes"/>kommen, welch
+                ersteren ich zu Rat u.<lb break="yes"/>Hilfe gezogen habe, bevor ich meine<lb break="yes"/>Tochter in die Anstalt verbracht habe. </p><p>Ich bitte nun nochmals um Erhörung<lb break="yes"/>solcher Bitte<del><unclear>n</unclear></del>
+                (wen̄ es sein kan̄ u. darf)<lb break="yes"/>und um briefliche Antwort
+                noch<lb break="yes"/>vor Weih<del><unclear/></del>nachten. </p><p><hi rendition="#c"><seg ana="#salute">Unterthänigst, Achtungsvollst<lb break="yes"/></seg><seg ana="#signed">Anna <surname><hi rendition="#i">R.</hi></surname>
+<hi rendition="#i">Ww</hi>.</seg></hi>
+<add place="inline"><hi rendition="#r">Frickenhausen<lb break="yes"/>H. <hi rendition="#i">N</hi>. <hi rendition="#i">N</hi>. 57.</hi></add></p><p><add place="bottom">Ich bitte H. <hi rendition="#i">N</hi>. beizusetzten weil noch eine<lb break="yes"/>A. <surname>R.</surname> Ww. in Frickenhausen ist.</add></p>
+<pb facs="#image_068"/><p><add hand="arzt"><hi rendition="#i">Seit 14 Tagen ruhig u. ordentlich, </hi><lb break="yes"/><hi rendition="#i">nur recht eigenwillig, zornig </hi><lb break="yes"/><hi rendition="#i">u. grob, wenn man ihr etwas </hi><lb break="yes"/><hi rendition="#i">beredet. Wenn sie bis Weihnachten </hi><lb break="yes"/><hi rendition="#i">so gut bleibt, kann sie jeden </hi><lb break="yes"/><hi rendition="#i">Tag abgeholt werden; ein </hi><lb break="yes"/><hi rendition="#i">Rückfall ist aber leicht möglich. </hi><lb break="yes"/><hi rendition="#i">Die gewünschten Sachen sollen </hi><lb break="yes"/><hi rendition="#i">nicht geschickt werden</hi>.<lb break="yes"/>11.12.99 <space/>
+<hi rendition="#i">D</hi><hi rendition="#sup"><hi rendition="#i">r</hi></hi><hi rendition="#i"> Zierl</hi>
+</add>
+</p>
+</body>
+</text>
+</TEI>

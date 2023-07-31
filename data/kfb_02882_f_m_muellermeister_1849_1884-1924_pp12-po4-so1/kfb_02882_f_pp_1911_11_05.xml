@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2882f12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Student Augsburg</name>
+<name>Markus Schiegg</name>
+<name>Franziska Eber</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2882</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>F.</surname></persName>
+<date type="sent" when="1911-11-05">05.11.1911</date>
+<date type="received"/>
+<persName type="addressee">bester Freund: k. A. <surname/></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2882f">
+<persName>
+<forename>Karl</forename> <surname>F.</surname>
+</persName>
+<birth when="1849"/>
+<death when="1924"/>
+<occupation>Soldat Infantrie (ausgebildeter Gemeiner), Müllermeister</occupation>
+<residence><geo decls="#WGS">48.5733342 10.8365563</geo>Westendorf, Wertingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonom</p>
+<p>Anstalt: <date from="1884" to="1924">1884–1924</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 12, po: 4, so: 1</p>
+</state>
+<trait><p>Geistige Verrücktheit, Halluzinatorische Verwirrtheit, religiöser und Beschenkungswahn, fixe Ideen (1884)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   wartet auf einen Besuch von seinem Freund
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2882f12a.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="kfb2882f12b.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_028"/>
+<opener>
+<dateline>Irsee 5 den November 1911 Jahr</dateline>
+<salute><hi rendition="#c">Bester Freunt</hi></salute>
+</opener>
+<p> Ich Warte schon Lang auf dich um<lb break="yes"/>Pesuch deinner Basse ihr Pesuch<lb break="yes"/>ist Liege Vilyahr braucht man<lb break="yes"/>Bis Zur ihr Heimmat
+                    schult!<lb break="yes"/>Irsee Anmeltung Ingolstadts dein<lb break="yes"/>Prutter; 22 disse Benzihon<lb break="yes"/>det ein Soltat <surname>H.</surname>
+                    Xafer<lb break="yes"/>Wirte Abmelte und Entlaten<lb break="yes"/>Mit dem
+                Pulfmaguzen Kottau<lb break="yes"/>Mausser Quer 93 Numer<lb break="yes"/><surname>F.</surname> Karl erste Kombenie<lb break="yes"/>Herr ha<hi rendition="#i">up</hi>tman <surname><hi rendition="#i">W.</hi></surname> Josef</p>
+<p>Beschwerte <surname>F.</surname> unt</p>
+<p><hi rendition="#c"><surname><hi rendition="#i">H.</hi></surname> Xafer</hi><lb break="yes"/>Gemeinner Soltad <pb facs="#image_029"/> Bost Irsee<lb break="yes"/><hi rendition="#r">An</hi><lb break="yes"/><hi rendition="#c">Herr <surname>S.</surname></hi><lb break="yes"/><hi rendition="#r"><surname>M.</surname> in In<hi rendition="#i">gol</hi>stadt</hi></p>
+<p><space/> <hi rendition="#i">Herraus Auvrus</hi> Vir unt Vir<lb break="yes"/>2 sent Sechs Gewöhr</p>
+<p><hi rendition="#c">Millidär Schafot<lb break="yes"/>Kottau Ingolstadt</hi></p>
+<p>Herr Scharrichter <surname>M.</surname><lb break="yes"/>Herr Leutnant</p>
+<p><hi rendition="#r"><surname>M.</surname></hi><lb break="yes"/><hi rendition="#c">Verhantlong 7</hi>
+</p>
+</body>
+</text>
+</TEI>

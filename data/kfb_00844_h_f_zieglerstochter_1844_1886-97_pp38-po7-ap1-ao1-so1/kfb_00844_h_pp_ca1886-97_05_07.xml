@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb844h09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Susanne Klohn</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>844</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Creszenz <surname>H.</surname></persName>
+<date notAfter="1897-05-07" notBefore="1886-05-07" type="sent">07.05.?</date>
+<date type="received"/>
+<persName type="addressee">Bruder: Sülwöst <surname>H.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb844h">
+<persName>
+<forename>Creszenz</forename> <surname>H.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1897"/>
+<occupation>Zieglerstochter</occupation>
+<residence><geo decls="#WGS">48.5945268 10.4875365</geo>Donaualtheim, Fillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Zieglereibesitzer</p>
+<p>Anstalt: <date from="1886" to="1897">1886–1897</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 38, po: 7, ap: 1, ao: 1, so: 1</p>
+</state>
+<trait><p>Sekundäre Seelenstörung (hysterische Verrücktheit), Verfolgungs- und Beeinträchtigungsgedanken (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    hat dem Bruder schon oft geschrieben, aber erhält keine Rückmeldung von ihm; muss sich das Zimmer teilen; sie ekelt sich vor den Speisen in der Anstalt;
+                    sie ist keine 'Geisteskranke' und schuldlos aufgrund von Verleumdung in der Anstalt;
+                    bittet täglich darum, die Anstalt verlassen zu dürfen und würde es auch tun, wenn sie nicht körperlich zu schwach wäre; will selbst die Kosten für ihre Unterbringung tragen;
+                    ist überzeugt, der Bruder hätte sie längst abgeholt, wenn er von ihrem Zustand wüsste
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb844h09a.jpg" xml:id="image_029"/>
+<graphic mimeType="image/jpg" url="kfb844h09b.jpg" xml:id="image_030"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_029"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren d 7 Mai <add>18</add></hi></dateline>
+<salute><hi rendition="#c">Lieber Bruter!</hi></salute>
+</opener>
+<p>
+Alles zur größerer 
+Ehre Gottes</p>
+<p>Jn bittern schmerz stiler Kram u Kumer<lb break="yes"/>um mich u Euch <seg ana="#metaling">lenke ich den einfachen
+		        schreub<lb break="no"/>zeuk um dir mit gurzen Worten zu berichten</seg><lb break="yes"/>von meinem befinten das ich dich schon die erste<lb break="yes"/>8 Tage erwartet hab um mich zu holen schon<lb break="yes"/>oft habe ich dir
+                geschriben <seg ana="#cens">ich hab noch keinen<lb break="yes"/>einzigen Brief von
+                    dir erhalten u darf gar<lb break="yes"/>nichts wisen wie bei Euch das befinten
+                    steht ob<lb break="yes"/>ihr noch am leben sint</seg> <seg ana="#inst">kein Zimer hab ich
+                        nicht<lb break="yes"/>alleinig</seg> dan kanst dir denken was ich für schmer<lb break="no"/>zen hab mit solchen <seg ana="#med">Stuhl u <w>Uurin beschwerten</w></seg><lb break="yes"/>das
+		        Heimweh hab ich auf solche Weiße das ich<lb break="yes"/>froh bin in meinem
+		        Stübchen wen ich nichts<lb break="yes"/>hab als eine <w>Waser Sub</w> dan kann ich Sie
+                    kochen<lb break="yes"/>nach meinem beliben was ich hier in der <seg ana="#inst"><w>Iren An<lb break="no"/>stalt</w></seg> bekom macht mir auch solche schmerzen<lb break="yes"/>u
+                einen solchen Ekel habe ich for den Schpeißen<lb break="yes"/>das mir fast den
+		        Magen aus dem leibe stöst<lb break="yes"/>Lieber Bruter u keine <seg ana="#med"><w>Geistes kranke</w></seg> wahr<lb break="yes"/>ich noch nie für das ich so lange gezwingt werde<lb break="yes"/>u behalten da bin ich nicht schult für das kan<lb break="yes"/>ich nicht wen man mich für <seg ana="#med"><w>Geistes krank</w></seg><lb break="yes"/>erklärte u ist 100 fach
+                verlogen bereits täglich<lb break="yes"/>so lange ich hir bin bittet u flehte ich
+                mich heim<lb break="yes"/>laßen u sagte es imerwährent das ich mein<lb break="yes"/>schuldikeit selber bezahle das man einem nicht<lb break="yes"/>so um das Gelt
+                bringt u habe aber bis jetzt<lb break="yes"/>nichts ausgerichtet ich
+                    <add>het</add> alleinig auch schon längst<lb break="yes"/>heimgehen könen<pb facs="#image_030"/> wen ich auch sehr schwach bin u von lauter schmerz<lb break="no"/>en u schwäche keine gränzen finte wen man dir<lb break="yes"/>die
+                Wahrheit die Gnädigen Ertzte schon längst<lb break="yes"/>geschrieben hat dan
+                hetest du mich schon längst ge<lb break="no"/>holt dan bin ich nicht schult u du
+		        nicht dieses<lb break="yes"/>ist nimant schult in der <seg ana="#inst">Iren-Anstalt</seg> zu sein<lb break="yes"/>wehr nicht gern will so wird man da gezwingt<lb break="yes"/>von
+                einem Tage zum andern das übrige solen<lb break="yes"/>dir nur die Gnädigen Ertzte
+                berichten u die Wahr<lb break="no"/>heit dir schreiben dan wirst du gleich da sein
+                    wo<lb break="yes"/>ich dich mit schmerzen erwarte ich grüße dich beson<lb break="no"/>terß dich u seine Kinder die Thereß zu Benedikbeu<lb break="no"/>ren Schwager u Schwägerin u alle die nach mir<lb break="yes"/>fragen hoh u nider <seg ana="#salute">u
+                Empfil Euch alle in Gottes<lb break="yes"/>Gnade u Schutz u schliße mit Achtung<lb break="yes"/><hi rendition="#c">Deine</hi><lb break="yes"/><hi rendition="#r">Thiftraurente Schwester</hi><lb break="yes"/><seg ana="#signed">Kreszentia <surname>H.</surname></seg> Lott Ziglers<lb break="no"/>tochter aus
+                        Donaualtheim,<lb break="yes"/>Also Gott Empfolen sein</seg></p>
+</body>
+</text>
+</TEI>

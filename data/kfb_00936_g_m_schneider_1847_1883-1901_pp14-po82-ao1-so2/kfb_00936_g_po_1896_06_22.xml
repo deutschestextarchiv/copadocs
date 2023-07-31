@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb936g19" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Julia Schäffler</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Pius <surname>G.</surname></persName>
+<date type="sent" when="1896-06-22">22.06.1896</date>
+<date type="received"/>
+<persName type="addressee">Verwalter</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb936g">
+<persName>
+<forename>Pius</forename> <surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1901"/>
+<occupation>Schneider</occupation>
+<residence><geo decls="#WGS">48.570171 10.590197622123007</geo>Kicklingen, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1883" to="1901">1883–1901</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 14, po: 82, ao: 1, so: 2</p>
+</state>
+<trait><p>Halluzinationen, Größenwahn, Verfolgungswahn (1883)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Der Patient schreibt an den Verwalter und möchte bei der Regierung vorsprechen, um von seiner Misshandlung durch die Ärzte zu erzählen.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb936g19a.jpg" xml:id="image_089"/>
+<graphic mimeType="image/jpg" url="kfb936g19b.jpg" xml:id="image_090"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_089"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#u"><hi rendition="#i">Act <surname>G.</surname></hi>Pius</hi></add><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Anstalt Irsee</hi> den 22 <hi rendition="#i">Iuni</hi> 1896</hi></dateline>
+<salute><hi rendition="#u"><w>Hoch gehrter</w> <hi rendition="#i">Herr Verwalder</hi></hi>!</salute>
+</opener>
+<p> Eingedenk unserer Besprechung haben<lb break="yes"/>Sie nicht Wort gehalten; Sie waren<lb break="yes"/>letzten Samstag hier ohne daß Sie<lb break="yes"/>sich hätten
+                bei mir sehen lassen.<lb break="yes"/>Sie wissen mein Anliegen welches<lb break="yes"/>ganz lokaler Natur ist ebenso<lb break="yes"/>wissen Sie, wie
+                mich diese <seg ana="#curse"><w>Gift<lb break="yes"/>nattern</w> von Doktoren</seg>
+                    behandeln<lb break="yes"/>um ihren bübischen Spaß u. Spott<lb break="yes"/>an
+                mir auslassen zu können<lb break="yes"/>Statt einen Schlüssel daß ich hin<lb break="yes"/>u her kann, wird mir jede Thür<lb break="yes"/>vor der Nase
+                zugesperrt, statt ein<lb break="yes"/><w>Bier geld</w> wird den <w>Holz
+                    haker Arbeit</w><lb break="yes"/>zum Schneidern gegeben, <w>Dieses</w><w>heißt</w><lb break="yes"/>man einem das Leben verbittern!<lb break="yes"/>u. die Regierung
+                schaut da noch zu<lb break="yes"/>eine wunderbare Regierung bei<lb break="yes"/>Gott! Ich habe gewiß meine Pflicht<lb break="yes"/>gethan u. thue sie weiter aber wenn <pb facs="#image_090"/> man Arbeitet gehört
+                einem auch die<lb break="yes"/>nöthige Freiheit. Sie sagen der<lb break="yes"/>Direktor nun darüber haben wir<lb break="yes"/>gesprochen, Herr Verwalder Sie<lb break="yes"/>mag das Handgelübde binden, nun<lb break="yes"/>Gott sei Dank daß
+                ich dieß falls<lb break="yes"/>freie Hand habe, können Sie<lb break="yes"/>mir
+                nicht die nöthige Rechte<lb break="yes"/>und Freiheit verschaffen, so bitte<lb break="yes"/>ich Sie um soviel Vorschuß, daß<lb break="yes"/>ich selbst nach
+                Augsburg fahren<lb break="yes"/>kann, um mit der Regierung<lb break="yes"/>Rüksprache zu nehmen wie sich<lb break="yes"/>die Sachlage verhält mit diesem<lb break="yes"/><hi rendition="#i">Direktor Contra Regierung.<lb break="yes"/><lb break="yes"/><seg ana="#salute"><hi rendition="#r">Grus</hi> <seg ana="#signed">Pius <surname>G.</surname></seg></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

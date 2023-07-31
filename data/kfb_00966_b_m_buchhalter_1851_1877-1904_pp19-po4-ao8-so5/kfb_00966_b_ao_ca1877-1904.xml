@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb966b28" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Laurentiu Gafiuc</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>966</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Amalie <surname>B.</surname></persName>
+<date notAfter="1904" notBefore="1877" type="sent">ca. 1877–1904</date>
+<date type="received"/>
+<persName type="addressee">k. A.: k. A. <surname/></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb966b">
+<persName>
+<forename>Georg</forename> <surname>B.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1904"/>
+<occupation>Buchhalter, Kaufmann</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Huckler</p>
+<p>Anstalt: <date from="1877" to="1904">1877–1904</date></p><p>Verpflegungsklasse: 2</p>
+<p>Brieftypen: pp: 19, po: 4, ao: 8, so: 5</p>
+</state>
+<trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Frau des Patienten bittet um Zusendung einiger Briefe.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb966b28.jpg" xml:id="image_086"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_086"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#i">Euer Hochwohlgeboren!</hi></salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#c">10<lb break="yes"/>Briefe übersendt<lb break="yes"/>H 1277 <unclear/> ad acta</hi></add></p> <p>Mit Gegenwärtigem möchte Sie höflichst<lb break="yes"/>bitten mir doch umgehend die Briefe<lb break="yes"/>von <hi rendition="#i">D</hi><hi rendition="#sup"><hi rendition="#i">r</hi></hi><hi rendition="#i"> Binswanger</hi> u besonders den<lb break="yes"/>rothen Brief umgehend zu senden<lb break="yes"/>Mein Mann will
+                den letzgenan̄ten<lb break="yes"/>Brief umgehend haben. Er ist noch<lb break="yes"/>sehr aufgeregt u forderte heute früh<lb break="yes"/>den Brief.
+                Herzlich danke ich Jhnen<lb break="yes"/>für die Liebe u Sorgfalt welche Sie<lb break="yes"/>Geehrtester Herr meinem Manne<lb break="yes"/>Erwiesen haben. Ob
+                es bei meinem Manne<lb break="yes"/>so bleibt steht sehr in frage.<lb break="yes"/><seg ana="#salute">Jndem ich um gütige Entschuldigung bitte<lb break="yes"/><hi rendition="#c">zeichnet</hi><lb break="yes"/><hi rendition="#r">Hochachtungsvollst</hi><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Amalie </hi><surname><hi rendition="#i">B.</hi></surname></seg><hi rendition="#i"> </hi><lb break="yes"/>Buchhaltersgattin</seg></p> <p>bitte den Brief<lb break="yes"/>an <hi rendition="#i">frau R. </hi><surname><hi rendition="#i">K.</hi></surname><lb break="yes"/>Strohhutgeschäft<lb break="yes"/>Kempten<lb break="yes"/>zu
+                    richten
+            </p>
+</body>
+</text>
+</TEI>

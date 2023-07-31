@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb966b02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>966</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>B.</surname></persName>
+<date type="sent" when="1898-08-08">08.08.1898</date>
+<date type="received"/>
+<persName type="addressee">Arzt: Dr. Binswanger</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb966b">
+<persName>
+<forename>Georg</forename> <surname>B.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1904"/>
+<occupation>Buchhalter, Kaufmann</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Huckler</p>
+<p>Anstalt: <date from="1877" to="1904">1877–1904</date></p><p>Verpflegungsklasse: 2</p>
+<p>Brieftypen: pp: 19, po: 4, ao: 8, so: 5</p>
+</state>
+<trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Brief aus der Heimat nach Entlassung?
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb966b02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb966b02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline/>
+<salute>S<hi rendition="#sup"><hi rendition="#u">r</hi></hi> Hochwohlgeboren<lb break="yes"/>Herrn Docktor v. Binswanger<lb break="yes"/>Hôtel-Pension-Kreutzlingen<lb break="yes"/>bei Constanz am Bodensee</salute>
+</opener>
+<p>
+<hi rendition="#c">Sehr geehrter Herr Docktor! </hi><lb break="yes"/>Seit meinem
+                vor mehreren Jahren<lb break="yes"/>erfolgten Abgang aus Ihrer Hôtel<lb break="no"/><hi rendition="#i">Pension</hi> habe ich bisher von mir<lb break="yes"/>Nichts
+                von mir hören laßen, was<lb break="yes"/>jedenfalls wieder einmal in den<lb break="yes"/>sehr ernstlichen Lebensbedrohlichen<lb break="yes"/>Zeiten unserer
+                Tage seinen be<lb break="no"/>stimmten Grund gehabt haben kön̄te,<lb break="yes"/>heute, nach so und so viel Jahren ist<lb break="yes"/>es mir nach
+                vielen und schweren<lb break="yes"/>Gesundheitsmanövern erst möglich<lb break="yes"/>Ihnen, lieber Herr Docktor in Kürze<lb break="yes"/>mitzutheilen,
+                daß ich mich nach mei<lb break="no"/>ner Rechnung seit den 70.ger Jahren<lb break="yes"/>Geh 
+                
+                <pb facs="#image_004"/>und Münchens Existenz hier in<lb break="yes"/>Irsee, also nicht mehr in Kempten<lb break="yes"/>wie früher,
+                aufhalte, und mich<lb break="yes"/>hiebei, bis auf Punkte, welche Ihnen<lb break="yes"/>meine Eltern selbst mittheilen<lb break="yes"/>werden, so ziemlich
+                wohl befinde.</p>
+<p><space/> Alles sonst Nothwendige glaube<lb break="yes"/>ich zur Verständigung in
+                meinen<lb break="yes"/>ebenso bemerkten Berichten für<lb break="yes"/>Sie und Ihre
+                werthen Angehörigen<lb break="yes"/>bemerkt zu haben. </p>
+<p><space/> <seg ana="#salute">Indem ich Sie bitte, mir auch<lb break="yes"/>fernerhin Ihre Gewogenheit zu<lb break="yes"/>bewahren, verbleibe ich mit herzlichem<lb break="yes"/>Gruße
+                an Sie, gnädige Frau und<lb break="yes"/>Docktor Robert</seg></p>
+<p><hi rendition="#c">Hochachtungsvollst</hi><lb break="yes"/>ergebenster<lb break="yes"/><seg ana="#signed">Johann Georg <surname>B.</surname></seg><lb break="yes"/>Irsee, 8.<hi rendition="#sup">ter</hi><lb break="yes"/>August<lb break="yes"/>1898.</p>
+</body>
+</text>
+</TEI>

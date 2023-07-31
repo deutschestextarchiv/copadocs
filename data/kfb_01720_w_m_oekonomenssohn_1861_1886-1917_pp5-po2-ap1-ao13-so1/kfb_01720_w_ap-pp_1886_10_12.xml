@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1720w08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1720</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Barbara <surname>W.</surname></persName>
+<date type="sent" when="1886-10-12">12.10.1886</date>
+<date type="received"/>
+<persName type="addressee">Sohn: Georg <surname>W.</surname></persName>
+<settlement type="sent">Roßhaupten</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1720w">
+<persName>
+<forename>Georg</forename> <surname>W.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1917"/>
+<occupation>Ökonomenssohn</occupation>
+<residence><geo decls="#WGS">47.5991939 10.711254276584267</geo>Roßhaupten, Füssen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonom</p>
+<p>Anstalt: <date from="1886" to="1917">1886–1917</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 5, po: 2, ap: 1, ao: 13, so: 1</p>
+</state>
+<trait><p>Depression, Halluzination (1888), Manie, Größenideen (1886)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin berichtet, dass sie alle gesund und noch am Leben sind, berichtet aber auch von zwei Todesfällen. Sie wünscht dem Sohn baldige Genesung und drückt ihren Kummer aus.
+                    Der Patient fügt hinzu: Er hat für Eleonora gebetet. Er beschreibt die Funktion von Gedächtsnis, Verstand und Vernunft. Durch letztere erkennt der Mensch, dass es
+                    eine Gottheit gibt und dass er sich nach dem Tod für seine irdischen Taten verantworten muss. Der Mensch erkennt, was gut ist, und tut dieses. Er beschreibt die menschliche
+                    Fähigkeit zur Phantasie. Er zitiert Bibelstellen zur Liebe. Er beschreibt die Bedeutung des Opfertods Christi.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1720w08a.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="kfb1720w08b.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="kfb1720w08c.jpg" xml:id="image_016"/>
+<graphic mimeType="image/jpg" url="kfb1720w08d.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber Georg</hi></salute>
+</opener>
+<p> Deinen Brief hab ich erhalten<lb break="yes"/>aber ich kan dir nicht viel Schreiben<lb break="yes"/>als das alles Gesund ist noch alles am<lb break="yes"/>Leben du
+                weist shon um <unclear>Muhlör</unclear>tag<lb break="yes"/>soll alles unter dem
+                Tach sein<lb break="yes"/>das ist alles herin u <surname>B.</surname><lb break="yes"/>Fransziskus ist vor 8 Tagen<lb break="yes"/>gestorben u bein <surname>B.</surname>martel ist<lb break="yes"/>auch der Sohn mit 14
+                    Jahren<lb break="yes"/>vor 14 Tagen Gestorben. <seg ana="#salute">Jezt weis<lb break="yes"/>ich nichts mehr zu schreiben als<lb break="yes"/>ich wünsche
+                    dir recht baldige Gesundheit<lb break="yes"/>u beschließe mein Schreiben wohl
+                        mit<lb break="yes"/>u Thränen u Gruß von uns allen<lb break="yes"/>u verbleibe eine Kum̄ervolle
+                    Mutter</seg>
+<seg ana="#signed">Barbara<lb break="yes"/><surname>W.</surname></seg><lb break="yes"/><add hand="patient" place="margin">hauptman &amp; Kompanisschef<lb break="yes"/><unclear>Barkeln</unclear><lb break="yes"/>Herrn <surname>G.</surname> Franz
+                    Alois</add>
+<pb facs="#image_015"/>
+<handShift medium="pencil" scribe="patient"/>Die Sellenkräfte deß Menschen</p>
+<p><handShift medium="ink" scribe="mutter"/>aber von keiner Beserung hast du<lb break="yes"/>in deinen Brief nichts geschrieben</p>
+<p><handShift medium="pencil" scribe="patient"/> Kaufbeuren den 12ten Oktober 1886<lb break="yes"/><w>eintausend achthundert söxundtachzig</w><lb break="yes"/>Werthe Eleonora Als wir
+                jüngst beis<lb break="no"/>samen saßen Während du bete<del>s</del>test und<lb break="yes"/>die Todten begrubest brachte ich dein<lb break="yes"/>Gebet vor
+                den Herrn. Ich habe für dich ge<lb break="no"/>bethen daß dein Glaube nicht
+                    erlösche.<lb break="yes"/>Alle meine Gebeine sagen: Herr wer<lb break="yes"/>ist dir gleich. Köperbau <hi rendition="#u">1,70</hi> durch das<lb break="yes"/>Gedächtniß kan sich der Mensch wider an<lb break="yes"/>das erin̄ern,
+                    <del>was and an das was</del><lb break="yes"/>was er nicht gedacht gehört
+                gesehen gere<lb break="no"/>det und gethan hat. Durch den Verstand<lb break="yes"/>kan̄ der Mensch das wahre vom falschen<lb break="yes"/>das Gute vom Bösen
+                    unterscheiden<lb break="yes"/>Durch die Verunft kan der Mensch er<lb break="no"/>kenen daß es ein höheres übernatür<lb break="no"/>liches Wesen gäbe von
+                    welchem<pb facs="#image_016"/>
+<del>die</del> die Schiksale der Völker wie<lb break="yes"/>deß einzelnen Menschen,
+                regirt <del>w<lb break="yes"/>wirsch</del>
+<add>werden</add>; ferner kan der Mensch die Ver<lb break="no"/>nunft
+                erken̄en daß dieses höchst unsicht<lb break="no"/>bare Wesen (Gottheit)
+                durch gewisse<lb break="yes"/>Thaten beleidigt und wider verhöhnt<lb break="yes"/>werden Müsze. ferner noch, daß es<lb break="yes"/>nach disem irdischen Leben,
+                    eine<lb break="yes"/>Verantwortung nach dem Tode<lb break="yes"/>gäbe, wo der
+                Mensch Lohn oder<lb break="yes"/>Strafe zu erwarten hat; für all<lb break="yes"/>sein Thun und Lassen im Erdenleben<lb break="yes"/>Gelobt sei <hi rendition="#u">Jesus Christus</hi> von nun an<lb break="yes"/><hi rendition="#u">&amp; bis in Ewigkeit amen Es geschehe</hi><lb break="yes"/>durch den freien Willen; libt der Mensch<lb break="yes"/>dasjenige; was er mit
+                Verstand und<lb break="yes"/>Verunft als gut erken̄t; und läßt und<lb break="yes"/>kan dasjenige lassen, was ihn für<lb break="yes"/>Leib und Seele
+                gefährlich scheint<lb break="yes"/>Sontag Septuagesima; Letarne
+                    <add>judika</add><pb facs="#image_017"/>durch die Einbildungskraft
+                    <del>kan̄</del><lb break="yes"/>(Phantasie) kan sich der Mensch die<lb break="no"/>jenigen Personen <del>vorstellen</del> Sachen<lb break="yes"/>und
+                Gegenstände vorstellen, welche für sein<lb break="yes"/>körperliches oder Geistiges
+                Wohl Gefährlich oder<lb break="yes"/>nützlich waren<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Wen ich einen Glauben<lb break="yes"/>hätte daß ich <del>P</del>
+                Berge versetzen kön̄te<lb break="yes"/>hätte aber die Libe nicht so ware
+                    alles<lb break="yes"/>Thorheit. Die Liebe ist fridfertig beneidet<lb break="yes"/>nicht trägt alles geduldig redet nichts Ar<lb break="no"/>geß<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Ein herr Ein<del>m</del> Glaube Eine Taufe<lb break="yes"/>Ein
+                Gott und Vater Aller. Das heilige<lb break="yes"/>Meßopfer ist das
+                im̄erwahrende Opfer<lb break="yes"/>deß neuen Bundeß; in welchem sich
+                    <w>Chri<lb break="no"/>stuß</w> der herr unter den Gestalten von<lb break="yes"/>Brod und Wein, seinem him̄lischen Vater<lb break="yes"/>durch die hande deß
+                Pristers unblutiger<lb break="yes"/>Weise Opfert wier er sich am Kreuze<lb break="yes"/>nicht blutiger Weise geopfert hat Franz<lb break="yes"/>Xaver
+                Ochsenreiter General Vikar<lb break="yes"/>in Münsterhausen</p>
+</body>
+</text>
+</TEI>

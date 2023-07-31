@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1720w02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Monika Foldenauer</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1720</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Barbara <surname>W.</surname></persName>
+<date type="sent" when="1892-09-12">12.09.1892</date>
+<date type="received"/>
+<persName type="addressee">Arzt: k. A.</persName>
+<settlement type="sent">Roßhaupten</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1720w">
+<persName>
+<forename>Georg</forename> <surname>W.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1917"/>
+<occupation>Ökonomenssohn</occupation>
+<residence><geo decls="#WGS">47.5991939 10.711254276584267</geo>Roßhaupten, Füssen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonom</p>
+<p>Anstalt: <date from="1886" to="1917">1886–1917</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 5, po: 2, ap: 1, ao: 13, so: 1</p>
+</state>
+<trait><p>Depression, Halluzination (1888), Manie, Größenideen (1886)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="crayon_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin bittet um briefliche Áuskunft über die Entwicklung des Gesundheitszustandes ihres Sohnes.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1720w02.jpg" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r">Roßhaupten am 12 September<lb break="yes"/>1892</hi></dateline>
+<salute>Viel Geliebter Dockter</salute>
+</opener>
+<p> Ich hätte wohl eine hertzliche bitte<lb break="yes"/>an Sie wie es doch beim <hi rendition="#u" style="arzt">Georg<lb break="yes"/><surname>W.</surname></hi> geht ob es im̄er gleich<lb break="yes"/>oder ob es nicht besser geht oder<lb break="yes"/>noch shlim̄er geht Herr
+                    Dockter<lb break="yes"/>ist d<del>a</del>en keine bessere Hoffnung<lb break="yes"/>zu erwarten ich bitte Sie möchten<lb break="yes"/>mir etliche
+                Paar zeilen Schreiben</p>
+<p><seg ana="#salute">Ich beschliese mein Schreiben<lb break="yes"/>Achtungvoll mit Gruß</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Barbara <surname>W.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

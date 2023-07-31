@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb966b26" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>966</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>B.</surname></persName>
+<date type="sent" when="1898-10-05">05.10.1898</date>
+<date type="received"/>
+<persName type="addressee">k. A.</persName> <settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb966b">
+<persName>
+<forename>Georg</forename> <surname>B.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1904"/>
+<occupation>Buchhalter, Kaufmann</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Huckler</p>
+<p>Anstalt: <date from="1877" to="1904">1877–1904</date></p><p>Verpflegungsklasse: 2</p>
+<p>Brieftypen: pp: 19, po: 4, ao: 8, so: 5</p>
+</state>
+<trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notiz</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Wirres Phantasieren über Sonnenkriege und andere esoterische Theorien
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb966b26a.jpg" xml:id="image_083"/>
+<graphic mimeType="image/jpg" url="kfb966b26b.jpg" xml:id="image_084"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_083"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p> Die mit 13,000 Einwohner bemerkte<lb break="yes"/>Stadt "Kempten" mit einer <hi rendition="#i">Infernalie</hi><lb break="yes"/>Planeten-Führung auf die "Schweiz"<lb break="yes"/>Republik! einer
+                Sonnenführung<lb break="yes"/>von Osten nach Westen, für 4. Jahres<lb break="no"/>zeiten am Tage, und einer Nacht<lb break="no"/>beleuchtung vom Monde, sowie<lb break="yes"/>Planeten; <hi rendition="#i">Fix-</hi> und Wandelster<lb break="no"/>nen, sämtliche als Ozeanische<lb break="yes"/><w>Sicherheits Punkte</w> für den<lb break="yes"/>Weltverkehr in alle Länder<lb break="yes"/>der Erde oder
+                Welttheile<lb break="yes"/>hat in Bezugnahme auf die<lb break="yes"/>der "Sonne"
+                zugezählte 2 ½<lb break="yes"/>Milionen zählende "Stadt"<lb break="yes"/>Paris und "Lage" derselben<lb break="yes"/>von Osten nach Westen dem<lb break="yes"/>Meere zu und von Norden<lb break="yes"/>nach Süden, dem Aufgang
+                der<lb break="yes"/>Sonne zu, eine <seg ana="#pic">□ <hi rendition="#sup">++</hi></seg> Mittel<lb break="no"/>punkts-Lebens-und-Todes<lb break="no"/>Beweisführung auf die
+                    außer<lb break="no"/>halb beider begriffenen ein<lb break="no"/>zeln Personen 3.
+                nach Re<lb break="no"/>ligions Sonnenkriegsbeding<lb break="no"/>ungen und
+                    Götter-Glauben<lb break="no"/>bekenntnißen, festgestellt<lb break="yes"/>welche
+                aus, wie nachstehend <pb facs="#image_084"/>bemerkt, zu Unserer Rechfer<unclear reason="damage">ti</unclear><lb break="no"/>gung dienen;<lb break="yes"/><add hand="arzt"> 5 X 98</add></p>
+</body>
+</text>
+</TEI>

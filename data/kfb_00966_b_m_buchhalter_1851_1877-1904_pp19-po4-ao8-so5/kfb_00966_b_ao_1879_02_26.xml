@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb966b32" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Laurentiu Gafiuc</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>966</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Amalie <surname>B.</surname></persName>
+<date type="sent" when="1879-02-26">26.02.1879</date>
+<date type="received"/>
+<persName type="addressee">Direktion: k. A. <surname/></persName>
+<settlement type="sent">Kempten</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb966b">
+<persName>
+<forename>Georg</forename> <surname>B.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1904"/>
+<occupation>Buchhalter, Kaufmann</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Huckler</p>
+<p>Anstalt: <date from="1877" to="1904">1877–1904</date></p><p>Verpflegungsklasse: 2</p>
+<p>Brieftypen: pp: 19, po: 4, ao: 8, so: 5</p>
+</state>
+<trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Die Ehefrau erkundigt sich bei der Anstaltsleitung nach dem Befinden ihres Mannes.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb966b32.jpg" xml:id="image_090"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_090"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kempten den</hi> 26 <hi rendition="#i">Februar</hi> 1879.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Euer
+                    Hochwohlgeboren!</hi></hi></salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#r">56 <unclear/> 22 <unclear/><lb break="yes"/>No 1113</hi></add></p> <p><space/> Heute erhiehlt ich die Aufforderung<lb break="yes"/>aus der Anstalt betreff der
+                erwachsenen<lb break="yes"/>Kosten im Betrage von 44 <hi rendition="#i">Mrk</hi> 41
+                K,<lb break="yes"/>allein ich muß Ihnen erwiedern<lb break="yes"/>daß ich
+                benannte Sum̄e, am 15 t februar<lb break="yes"/>auf dem hiesiegen
+                Magistrate<lb break="yes"/>bezahlte, ich bitte deßhalb sich<lb break="yes"/>gefälligst an Magistrat zu wenden.<lb break="yes"/>Anbei erlaube ich mir höflichst
+                zu fragen<lb break="yes"/>wie es mit meinem l Manne geth<lb break="yes"/>ich
+                bitte mich gelegentlich in Kenntniß<lb break="yes"/>zu setzen. <seg ana="#salute">Unterdessen zeichnet<lb break="yes"/><hi rendition="#r">Achtungsvollst</hi></seg><lb break="yes"/><hi rendition="#r">ergebenst<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Amalie </hi><surname><hi rendition="#i">B.</hi></surname></seg><lb break="yes"/>Buchhaltersgattin</hi></p>
+</body>
+</text>
+</TEI>

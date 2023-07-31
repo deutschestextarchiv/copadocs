@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb844h16" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>844</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Creszenz <surname>H.</surname></persName>
+<date type="sent" when="1892">xx.ca. 07–12.1892</date>
+<date type="received"/>
+<persName type="addressee">Bruder: Sülwöst <surname>H.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb844h">
+<persName>
+<forename>Creszenz</forename> <surname>H.</surname>
+</persName>
+<birth when="1844"/>
+<death when="1897"/>
+<occupation>Zieglerstochter</occupation>
+<residence><geo decls="#WGS">48.5945268 10.4875365</geo>Donaualtheim, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Zieglereibesitzer</p>
+<p>Anstalt: <date from="1886" to="1897">1886–1897</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 38, po: 7, ap: 1, ao: 1, so: 1</p>
+</state>
+<trait><p>Sekundäre Seelenstörung (hysterische Verrücktheit), Verfolgungs- und Beeinträchtigungsgedanken (1892)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie hat schon viele Briefe an ihre Familie geschrieben, aber noch keine Antwort erhalten. Sie erzählt von dem Wechsel nach Irsee.
+                    Sie macht sich Sorgen um ihre Familie und sagt, dass sie Heimweh hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb844h16a.jpg" xml:id="image_054"/>
+<graphic mimeType="image/jpg" url="kfb844h16b.jpg" xml:id="image_055"/>
+<graphic mimeType="image/jpg" url="kfb844h16c.jpg" xml:id="image_056"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_054"/>
+<opener>
+<dateline><add hand="hand2">1892.</add></dateline>
+<salute><hi rendition="#c">Lieber Bruter</hi></salute>
+</opener>
+<p>schon viele Brief habe dir<lb break="yes"/>gesendet aber noch keinen<lb break="yes"/>einzigen von dir bekomen<lb break="yes"/>so lange ich in
+                Kaufbeuren<lb break="yes"/>wahr u seit dem hl An̄a Tag<lb break="yes"/>in
+                Irsee bin auch noch keinen<lb break="yes"/>erhalten u darf keine Sülbe<lb break="yes"/>von Euch wisen ob ihr noch am<lb break="yes"/>leben seit oder
+                nicht den<lb break="yes"/>kumer u kram kanst dir<lb break="yes"/>denken u Heimweh hat keine<lb break="yes"/>Kränzen u wie mein bef<lb break="no"/>inten steht bin ich schreklich<lb break="yes"/>zugerichtet wie ich <w>zu hauße</w><lb break="yes"/>wahr wahr dir schon bekant<lb break="yes"/>u sei alles Gott anheim<lb break="yes"/>gestelt mein zwingen u<lb break="yes"/>behalten von einem Tag
+                    <pb facs="#image_055"/> u Heimweh auseinander dreibt Gott<lb break="yes"/>ist es anheim gestelt u alle haben<lb break="yes"/>einst mit
+                dem zum abrechnen wie<lb break="yes"/>Sie schand<add place="below">voll</add> an
+                einem handeln wo für<lb break="yes"/>mich Ewig nicht zum verzeihen ist<lb break="yes"/>der kumer um Euch kanst dir<lb break="yes"/>denken im 8 Jahre keine Wahrheit<lb break="yes"/>von Euch wisen <seg ana="#inst">das ist ein schönes<lb break="yes"/>hauß</seg> im Gebette u schonst bin ich<lb break="yes"/>u denk ich Tag u Nacht an Euch<lb break="yes"/>von kumer u Sorgen umlagert<lb break="yes"/><seg ana="#salute">für
+                    Euch vüle 100 grüße an dich u deine<lb break="yes"/>Kinder</seg> Thereßia <surname>M.</surname> der kumer<lb break="yes"/>um Sie wirkt auch halt das herz<lb break="yes"/>ab <seg ana="#salute">100 grüße u schonst wehr einen<lb break="yes"/>wünscht hoh u
+                    nieder ich Empfil<lb break="yes"/>Euch in Gottes Gnade u Schutz</seg><lb break="yes"/>deine Schwester <seg ana="#signed">Kreszentia <surname>H.</surname></seg><lb break="yes"/><hi rendition="#c">Felt Zieglerstochter aus</hi><lb break="yes"/><hi rendition="#r">Donaualtheim<lb break="yes"/>Post
+                    Dillingen</hi></p>
+<pb facs="#image_056"/>
+<p><hi rendition="#c"><add place="above">An</add> Sülwöst <surname>H.</surname><lb break="yes"/>Felt <w>Ziegler Meister</w><lb break="yes"/>in</hi><lb break="yes"/><hi rendition="#r">Donaualtheim<lb break="yes"/>Post Dillingen</hi></p>
+</body>
+</text>
+</TEI>

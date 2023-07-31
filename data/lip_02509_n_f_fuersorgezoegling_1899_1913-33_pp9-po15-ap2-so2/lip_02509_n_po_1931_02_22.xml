@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip2509n11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>2509 (K. 170)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Erna <surname>N.</surname></persName>
+<date type="sent" when="1931-02-22">22.02.1931</date>
+<date type="received"/>
+<persName type="addressee">Obermedizinalrat: k. A. <surname>H.</surname></persName>
+<settlement type="sent"/>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip2509n">
+<persName>
+<forename>Erna</forename> <surname>N.</surname>
+</persName>
+<birth when="1899-07-10"/>
+<death cert="unknown"/>
+<occupation>Fürsorgezögling</occupation>
+<residence><geo decls="#WGS">51.347413849999995 7.569084715363729</geo>Geburtsort: Hohenlimburg; Wohnort: Hohenlimburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater Buchbinder</p>
+<p>Anstalt: <date from="1913-08-19" to="1933-12-01">19.08.1913–24.11.1920; 17.02.1926–01.12.1933</date></p><p>Verpflegungsklasse: k.A.</p>
+<p>Brieftypen: pp: 9, po: 15, ap: 2, so: 2</p>
+</state>
+<trait><p>Psychopathie, Imbecillität</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Sie bittet um Urlaub, um ihr Kind zum Geburtstag und zu Ostern besuchen zu können.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip2509n11a.jpg" xml:id="image_037"/>
+<graphic mimeType="image/jpg" url="lip2509n11b.jpg" xml:id="image_038"/>
+<graphic mimeType="image/jpg" url="lip2509n11c.jpg" xml:id="image_039"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_037"/>
+<opener>
+<dateline><hi rendition="#i">Geschrieben am 22.2.31.</hi></dateline>
+<salute><hi rendition="#i">Geehrter Herr Obermedizinalrat<lb break="yes"/><hi rendition="#c">Dr. Hermkes!</hi></hi></salute>
+</opener>
+<p>Gestatten mir frühzeitig um einen<lb break="yes"/><w>Oster urlaub</w> anzufragen. Da
+                meine<lb break="yes"/><w>urlaubs frage</w> oft Wochen in Anspruch nimmt<lb break="yes"/>bitte ich rechtzeitig um Ihre Hochwerte Erlaub<add place="below">nis</add><lb break="yes"/>und hoffe, bestimmt <add place="above">auf</add> Ihre gütige
+                Genehmigung −<lb break="yes"/>das ich mein Osterhäschen und Geburtskind<lb break="yes"/>zum 9. <w>Wiegen fest</w> besuchen kann.<lb break="yes"/>Gesatten
+                    <hi rendition="#i">Herr</hi> Obermedizinalrat Dr. <hi rendition="#i">Hermkes</hi><lb break="yes"/>zu Ostern einen längeren Urlaub und<lb break="yes"/>schenken mir
+                wieder ein volles Vertrauen<lb break="yes"/>Bitte mir keine <hi rendition="#i">S</hi>chwierigkeiten mehr zu bereiten<lb break="yes"/>und mein <hi rendition="#i">S</hi>chrb. freundlich <w>entgegen zu<lb break="no"/>nehmen</w><lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Erna </hi><surname><hi rendition="#i">N.</hi></surname></seg>.</hi>
+<pb facs="#image_038"/>Da soeben ein Brief von meinen<lb break="yes"/>Verwandten
+                angekommen ist erlaube<lb break="yes"/>ich ihn zu meinen <hi rendition="#i">S</hi>chrb. zuzufügen.<lb break="yes"/>Bitte unsern <hi rendition="#i">Herrn</hi>
+                Oberarzt Dr. Kurk<lb break="yes"/>eine entgültige Antwort für mich<lb break="yes"/>zu <w>hinter lassen</w>.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">nochmals Hochachtungsvoll</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Erna </hi><surname><hi rendition="#i">N.</hi></surname></seg>.</hi>
+<pb facs="#image_039"/><hi rendition="#i">An </hi><lb break="yes"/><hi rendition="#i">Obermedizinalrat </hi><lb break="yes"/><hi rendition="#i">Dr. Hermkes. </hi></p>
+</body>
+</text>
+</TEI>

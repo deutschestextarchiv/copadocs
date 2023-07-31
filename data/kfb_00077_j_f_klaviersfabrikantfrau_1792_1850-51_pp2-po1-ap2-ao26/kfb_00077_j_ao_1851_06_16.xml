@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb77j18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>77</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Anna <surname>D.</surname></persName>
+<date type="sent" when="1851-06-16">16.06.1851</date>
+<date type="received"/>
+<persName type="addressee">Arzt: k. A.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb77j">
+<persName>
+<forename>Maria Clara</forename> <surname>J.</surname>
+</persName>
+<birth when="1792"/>
+<death cert="unknown"/>
+<occupation>Klaviersfabrikantfrau</occupation>
+<residence><geo decls="#WGS">48.1371079 11.5753822</geo>München</residence>
+<faith/>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: k. A.</p>
+<p>Anstalt: <date from="1850" to="1851">1850–1851</date></p><p>Verpflegungsklasse: k.A</p>
+<p>Brieftypen: pp: 2, po: 1, ap: 2, ao: 26</p>
+</state>
+<trait><p>Reizbarkeit, Agilitaet</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="Anna"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Im Auftrag des Ehemanns der Patientin wird ein ärztliches Zeugnis für die Patientin gefordert.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb77j18a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">München den 16. Juni <hi rendition="#u">51</hi></hi></dateline>
+<salute><hi rendition="#c">Euer Wohlgeboren!</hi></salute>
+</opener>
+<p><space/> Mit dem Auftrage Herrn <surname>J.</surname> nehme ich mir die<lb break="yes"/>Freiheit an Eüer Wohlgeboren ein Ersuchen, wegen ein<lb break="yes"/>Zeügnißes der Madame <surname>J.</surname> zu stellen wovon Sie<lb break="yes"/>Herr Docktor schon näher berichtet worden sind. </p>
+<p><space/>Herr <surname>J.</surname> ist gegenwärtig in Nürnberg, und der<lb break="yes"/>Herr Advokat erwartet das Zeügniß, indem die<lb break="yes"/>Verwanden sich einfinden müßen, und ohne dem<lb break="yes"/>Zeügniß die Sache
+                nicht weiter befödert werden kann.<lb break="yes"/>Mit dem Wunsche das bewußte
+                sobald als möglich<lb break="yes"/>zu erhalten, <seg ana="#salute">verharret mit aller Achtung </seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Anna <surname>D.</surname></seg>.</hi>
+</p>
+</body>
+</text>
+</TEI>

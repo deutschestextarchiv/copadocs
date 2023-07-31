@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb936g60" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>936</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Pius <surname>G.</surname></persName>
+<date type="sent" when="1891-07-28">28.07.1891</date>
+<date type="received"/>
+<persName type="addressee">königl. bayerische Regentschaft</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb936g">
+<persName>
+<forename>Pius</forename> <surname>G.</surname>
+</persName>
+<birth when="1847"/>
+<death when="1901"/>
+<occupation>Schneider</occupation>
+<residence><geo decls="#WGS">48.570171 10.590197622123007</geo>Kicklingen, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1883" to="1901">1883–1901</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 14, po: 82, ao: 1, so: 2</p>
+</state>
+<trait>
+<p>Halluzinationen, Größenwahn, Verfolgungswahn (1883)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt1"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Dekret im Namen des Königs (unterschreibt als Prinz) zur Auflösung des gesamten Staatsapparats.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb936g60a.jpg" xml:id="image_246"/>
+<graphic mimeType="image/jpg" url="kfb936g60b.jpg" xml:id="image_247"/>
+<graphic mimeType="image/jpg" url="kfb936g60c.jpg" xml:id="image_248"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_246"/>
+<opener>
+<dateline><hi rendition="#r"><add hand="arzt">28 VII 91.</add></hi></dateline>
+<salute><hi rendition="#c">Landes <hi rendition="#i">Decret</hi><lb break="yes"/>An die königl. bayrische<lb break="yes"/><hi rendition="#i">Regentshaft!</hi></hi></salute>
+</opener>
+<p><hi rendition="#c">Die Regentschaft des <w>König<lb break="no"/>Reichs</w>
+                    Bayern</hi><lb break="yes"/><hi rendition="#r">hat folgendes bekannt zu geben </hi><lb break="yes"/><hi rendition="#r">Wir <hi rendition="#i">Maximilian II
+                    König</hi></hi><lb break="yes"/><hi rendition="#c">von Bayern <hi rendition="#i">Pfalzgraf</hi> am<lb break="yes"/><hi rendition="#i">Rhein</hi>.</hi><lb break="yes"/>Erklären vom heutigen Tage an<lb break="yes"/>das Ministerium für
+                aufgelößt<lb break="yes"/>und haben sämtliche Minister in<lb break="yes"/><w>Anklage Zustand</w> versetzt.<lb break="yes"/>Weiter laden Wir zwei bis
+                drei <del><hi rendition="#i">M</hi></del> der<lb break="yes"/>hervoragentsten Männer
+                aus jeder Partei<lb break="yes"/>Partei ein. Zur Besprechung einer<lb break="yes"/>neuen <hi rendition="#i">Cabinets</hi>bildung. (Aus Mangel<lb break="yes"/>eines
+                verläßigen Staats-Raths)<lb break="yes"/>Ferner geben Wir bekannt daß vom<lb break="yes"/>heutigen Tage die Kammer der Ab<lb break="no"/>geordneten aufgelößt
+                ist, und inner<lb break="no"/>halb sehs Wochen neu-Wahlen statt<lb break="no"/>zufinden haben. <space/> Nach Berufung<lb break="yes"/>der Kammern des
+                Reichs-Raths und<lb break="yes"/>Landtags. sind folgende Vorschläge <pb facs="#image_247"/>zu erledigen. <space/> Aenderung der Landes<lb break="no"/>Verfassung. − Einführung des allge<lb break="no"/>meinen gleichen und
+                direkten Wahl<lb break="no"/>rechts vom zwanzigsten lebensjahre<lb break="yes"/>an.
+                Regelung des Gerichtswesens<lb break="yes"/>nach der Würde eines <hi rendition="#i">Civilisirten</hi>
+<w><hi rendition="#i">Staa<lb break="no"/>ts</hi> wesens</w> ̄ Einführung
+                allen Grund<lb break="yes"/>und Bodens als Staatsgut. Regelung<lb break="yes"/>des
+                Wild und Forstwesens. Gleichheit<lb break="no"/>liche Regelung der Industrie und<lb break="yes"/>Volks-Wirthschaft in Landes-distrikte<lb break="yes"/>Regelung des
+                Militärwesens soweit<lb break="yes"/>es nach den heutigen Zuständen die<lb break="yes"/>Möglichkeit erlaubt. Einführung<lb break="yes"/>einer
+                Staats-Religion, Aufhebe<lb break="no"/>bung aller bis jetzt bestehenden<lb break="yes"/><hi rendition="#i">Confessionen</hi></p>
+<p><hi rendition="#r">Gegeben <hi rendition="#i">Narrenhaus<lb break="yes"/>Irsee</hi>
+                    den 28ten Juli 1891<lb break="yes"/>Im Auftrag <seg ana="#signed"><hi rendition="#i">Pius<lb break="yes"/><surname>G.</surname></hi><lb break="yes"/><hi rendition="#u" style="arzt2">kgl. <hi rendition="#i">Prinz</hi> von</hi><lb break="yes"/><hi rendition="#i">Bayern.</hi></seg></hi></p>
+<pb facs="#image_248"/>
+<p><hi rendition="#c">An<lb break="yes"/>Die Regentschaft<lb break="yes"/>des
+                    König-Reichs<lb break="yes"/><hi rendition="#i">Bayern.</hi>
+</hi></p><p><hi rendition="#c">Zur Beförderung übergeben<lb break="yes"/>den 28ten Juli <hi rendition="#i"><seg ana="#signed">Pius <surname>G.</surname></seg></hi></hi></p>
+</body>
+</text>
+</TEI>

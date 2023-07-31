@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb966b31" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Laurentiu Gafiuc</name>
+<name>Luzia Pätzel</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>966</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Matthäus <surname>B.</surname></persName>
+<date type="sent" when="1878-09-29">29.09.1878</date>
+<date type="received"/>
+<persName type="addressee">Direktion: k. A. <surname/></persName>
+<settlement type="sent">Kempten</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb966b">
+<persName>
+<forename>Georg</forename> <surname>B.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1904"/>
+<occupation>Buchhalter, Kaufmann</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Huckler</p>
+<p>Anstalt: <date from="1877" to="1904">1877–1904</date></p><p>Verpflegungsklasse: 2</p>
+<p>Brieftypen: pp: 19, po: 4, ao: 8, so: 5</p>
+</state>
+<trait><p>Verfolgungswahn mit depressivem Charakter (1877)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Der Vater eines Patienten erkundigt sich beim Direktor nach dem Gesundheitszustand seines Sohnes und schickt ihm Geschenke mit.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb966b31.jpg" xml:id="image_089"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_089"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kempten den</hi> 29<hi rendition="#sup">t</hi>
+<hi rendition="#i">Sept</hi> 1878.</hi></dateline>
+<salute><hi rendition="#c">Hochgeehrtester Herr Direktor!</hi></salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#r">42</hi></add></p><p>Jch stelle die gehorsamste Bitte<lb break="yes"/>an Sie, da Herr <surname>E.</surname> <del>vo</del>in Geschäfts<lb break="yes"/>Angelegenheiten nach Kaufbeuren kom̄t<lb break="yes"/>bin
+                ich so frei meine Sohne <hi rendition="#i">Georg</hi><lb break="yes"/>einen Bund <hi rendition="#i">Cigarrn</hi> u. 3 <hi rendition="#i">Mark</hi>. zu übersende<lb break="yes"/>mit der Bitte, Sie möchte ihm selbiges
+                übergebe<lb break="yes"/>lassen. Ersuche Sie auch bei dieser Gelegenheit<lb break="yes"/>um das Befinden meines Sohnes.<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Jch Grüße Sie vielmals</hi><lb break="yes"/><hi rendition="#r">Verbleibe mit Aller Hochachtung</hi></seg><lb break="yes"/><hi rendition="#r">Jhr ergebenster<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Matthaeus </hi><surname><hi rendition="#i">B.</hi></surname></seg></hi>.</p> <p>Für die 3 Mark<lb break="yes"/>[er]suche ich
+                Sie freundlichst<lb break="yes"/>möchte man Jhm Bier<lb break="yes"/>[ver]abreichen.</p> <p><add hand="arzt"><hi rendition="#r">Von den 3 M. wurden 1,20 M<lb break="yes"/>als V. G. III An.
+                        u. 1,80 M<lb break="yes"/>für besondere Reich<lb break="no"/>nisse
+                        vereinnahmt<lb break="yes"/><unclear>Su 3 M<lb break="yes"/>Wieden</unclear></hi></add>
+</p>
+</body>
+</text>
+</TEI>

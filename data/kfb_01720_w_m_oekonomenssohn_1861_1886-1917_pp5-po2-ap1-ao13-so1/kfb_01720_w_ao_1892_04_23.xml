@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1720w20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1720</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Barbara <surname>W.</surname></persName>
+<date type="sent" when="1892-04-23">23.04.1892</date>
+<date type="received"/>
+<persName type="addressee">Arzt: k. A.</persName>
+<settlement type="sent">Roßhaupten</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1720w">
+<persName>
+<forename>Georg</forename> <surname>W.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1917"/>
+<occupation>Ökonomenssohn</occupation>
+<residence><geo decls="#WGS">47.5991939 10.711254276584267</geo>Roßhaupten, Füssen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonom</p>
+<p>Anstalt: <date from="1886" to="1917">1886–1917</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 5, po: 2, ap: 1, ao: 13, so: 1</p>
+</state>
+<trait><p>Depression, Halluzination (1888), Manie, Größenideen (1886)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin erkundigt sich nach dem Befinden ihres Sohnes.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1720w20.jpg" xml:id="image_042"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_042"/>
+<opener>
+<dateline><hi rendition="#r">Roßhaupten den 23 April <add place="below">1892</add></hi> </dateline>
+<salute><hi rendition="#c">Gehrter Herr Dokter </hi></salute>
+</opener>
+<p>Ich hätte wohl eine Herzliche<lb break="yes"/>Bitte an Sie wie es beim<lb break="yes"/>Georg <surname>W.</surname> geht wohl es imer<lb break="yes"/>beim alten ist ich weis auch<lb break="yes"/>an Nimand <add place="above">zu</add> wenden als<lb break="yes"/>an Sie ich nöchte wohl eine<lb break="yes"/>Antwort von ihnen <seg ana="#salute">ich<lb break="yes"/>beshliese mein Shreiben<lb break="yes"/>Achtungsvoll</seg> <seg ana="#signed">Barbara<lb break="yes"/><hi rendition="#r"><surname>W.</surname></hi></seg></p>
+<p><add hand="arzt">Keine <unclear>Ä</unclear>nderung. Hallucinirt beständig,<lb break="yes"/>ist zeitweise heiter erregt und singt, oft<lb break="yes"/>wird er sehr heftig, schimpft u. lärmt.<lb break="yes"/>Körperlich wohl.<lb break="yes"/><hi rendition="#c">24.IV 92 </hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">D<hi rendition="#sup">r</hi>
+                        Koehler</hi>.</hi></add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1720w21" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Judith Willberg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1720</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Barbara <surname>W.</surname></persName>
+<date notAfter="1917-07-13" notBefore="1886-07-13" type="sent">13.07., ca. 1886–1917</date>
+<date type="received"/>
+<persName type="addressee">Arzt: k. A.</persName>
+<settlement type="sent">Roßhaupten</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1720w">
+<persName>
+<forename>Georg</forename> <surname>W.</surname>
+</persName>
+<birth when="1861"/>
+<death when="1917"/>
+<occupation>Ökonomenssohn</occupation>
+<residence><geo decls="#WGS">47.5991939 10.711254276584267</geo>Roßhaupten, Füssen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Ökonom</p>
+<p>Anstalt: <date from="1886" to="1917">1886–1917</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 5, po: 2, ap: 1, ao: 13, so: 1</p>
+</state>
+<trait><p>Depression, Halluzination (1888), Manie, Größenideen (1886)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="mutter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin bittet um eine Auskunft über das Befinden ihres Sohnes.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1720w21.jpg" xml:id="image_043"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_043"/>
+<opener>
+<dateline><hi rendition="#r">Roßhaupten am 13 Juli</hi></dateline>
+<salute><hi rendition="#c">Geehrter Dokter N</hi></salute>
+</opener>
+<p>Ich ersuche euch recht freudlich<lb break="yes"/>wie es bei dem Georg <surname>W.</surname><lb break="yes"/>geht ob es besser oder schlechter<lb break="yes"/>oder wo es ist
+                wie er hinunter ist<lb break="yes"/>ich hätte wohl eine recht herzliche<lb break="yes"/>Bitte an Sie mir eine Antwort<lb break="yes"/>über meine parr
+                zeilen zu<lb break="yes"/>Shreiben <seg ana="#salute">ich beshliese mein<lb break="yes"/>Shreiben Achtungvoll an Sie</seg><lb break="yes"/><seg ana="#signed">Barbara <surname>W.</surname></seg></p>
+</body>
+</text>
+</TEI>

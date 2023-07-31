@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1623g13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1623</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johannes <surname>G.</surname></persName>
+<date type="sent" when="1894-07-17">17.07.1894</date>
+<date type="received"/>
+<persName type="addressee">Bruder: Michael <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1623g">
+<persName>
+<forename>Johannes</forename> <surname>G.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1905"/>
+<occupation>Zimmergeselle</occupation>
+<residence><geo decls="#WGS">48.4613104 10.1908503</geo>Riedheim , Günzburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1874" to="1905">1874–1905</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 14, po: 6, so: 1</p>
+</state>
+<trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber versichert, dass nichts zwischen ihm und dem Bruder steht. Er ist froh, dass sie alle gesund sind.
+                    Er lässt Grüße an Verwandte und den Pfarrer ausrichten.
+                    Er berichtet von einem Spaziergang und spricht über Feldpflanzen.
+                    Er glaubt, dass seine Schwester seine Briefe sehnsüchtig erwartet.
+                    Er erwähnt, dass Grethe eine Ehe mit dem Pfarrer angestrebt hat und dass Margaretha auch im Heimatort einen Ehemann hätte finden können.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1623g13a.jpg" xml:id="image_040"/>
+<graphic mimeType="image/jpg" url="kfb1623g13b.jpg" xml:id="image_041"/>
+<graphic mimeType="image/jpg" url="kfb1623g13c.jpg" xml:id="image_042"/>
+<graphic mimeType="image/jpg" url="kfb1623g13d.jpg" xml:id="image_043"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_040"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irrsee</hi> am <hi rendition="#i">17. Juli 1894.</hi></hi></dateline>
+<salute><hi rendition="#c">Lieber Bruder!</hi></salute>
+</opener>
+<p>
+<add hand="arzt"><hi rendition="#i"><surname>G.</surname></hi></add></p>
+<p> Du hast dir eingebildet ich<lb break="yes"/>wäre Dir nicht mehr gut.<lb break="yes"/>Dießes
+                ist aber nicht der Fall<lb break="yes"/>weil ich ein halbes Iahr<lb break="yes"/>nicht mehr geschrieben habe,<lb break="yes"/>sondern der deutliche Brief<lb break="yes"/>am 2.<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                Januar dieses Iahrgangs<lb break="yes"/>1894. Die Schwester Katharina<lb break="yes"/>ist nicht ganz auf den Kopf<lb break="yes"/>gestürzt: Erfahrung
+                    macht<lb break="yes"/>klug. Ich ve<del>h</del>rmahn aus<lb break="yes"/>dem
+                Brief manges begreiflige<lb break="yes"/>Wort. gesund seit ihr gottlob<lb break="yes"/>alle 3 Geschwister und<lb break="yes"/>deine Frau u Kinder,<lb break="yes"/>dein Sohn Johannes soll<pb facs="#image_041"/> besonders von mir
+                als unbekannter<lb break="yes"/>Vetter gegrüßt sein, die Liese<lb break="yes"/>de<add>s</add>gleichen u dein Schwieger<lb break="no"/>vater u Stiefsohn
+                    Martin<lb break="yes"/>welcher die Bäckerei gelernt<lb break="yes"/>hat. Den
+                Herrn Pfarrer und<lb break="yes"/>die Frau Pfarrerin in Riedhein<lb break="yes"/>deßgleichen auch den Vetter<lb break="yes"/>Gottfrid <surname>N.</surname>
+                    Schreinermeister<lb break="yes"/>und alle die nach mir fragen<lb break="yes"/>möchten. <seg ana="#salute">Ich schliese mit<lb break="yes"/>dankbarem Gruß.<lb break="yes"/><hi rendition="#c">Dein</hi><lb break="yes"/><hi rendition="#r">dankbarer Bruder</hi><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Johannes <surname>G.</surname></hi></seg><lb break="yes"/>Patiend<lb break="yes"/>in der kgl. Heil u Pfleganstalt<lb break="yes"/><hi rendition="#i">Irrsee</hi> bei Kaufbeuren.</seg><pb facs="#image_042"/> Das
+                Gedreite soll dieses Iahr<lb break="yes"/>heuer sehr gedeihen wie ich<lb break="yes"/>in deinem Brief gelesen.<lb break="yes"/>voriges Iahr die Gerste
+                    nuhr<lb break="yes"/>Fingerstlang ist schon eine<lb break="yes"/>Seltenheit
+                für das Langmauer<lb break="yes"/>Feld, <seg ana="#inst">wir sind letzten
+                        Sonntag<lb break="yes"/>auch in das Feld spazieren<lb break="yes"/>gegangen die besern von den<lb break="yes"/>Patienten 19 Mann</seg>; Kllee<lb break="yes"/>Roggen Kartofel u Gerste habe<lb break="yes"/>ich gesehen zum
+                Theil sehr schön,<lb break="yes"/>wo guter Grund ist u edler<lb break="yes"/>Samen, zur rechten Zeit Regen<lb break="yes"/>u Somenschein wie auf allen<lb break="yes"/>5 Welttheilen Amen.</p>
+<p><hi rendition="#c">Michael <surname>G.</surname> Schuh und<lb break="yes"/>Stiefelsmacher in<lb break="yes"/>Langenau.</hi><lb break="yes"/><add><hi rendition="#u">frei</hi></add></p><pb facs="#image_043"/><p> das die Katharina so fleißig<lb break="yes"/>gefragt hat ob nicht wieder ein<lb break="yes"/>Brief von mir erhalten habest<lb break="yes"/>glaube ich wohl sie halt doch<lb break="yes"/>meine Schwester Katharina.<lb break="yes"/>Die Grethe ist auch
+                recht braf<lb break="yes"/>u hat den Herrn Pfarrer<lb break="yes"/>vor 10 Iahr
+                gebeten, aber jetzt<lb break="yes"/>wird er Die Feder nicht mehr<lb break="yes"/>gern in Die Tinte tauchen<lb break="yes"/>weil die Margaretha nicht<lb break="yes"/>in Riedheim geblieben ist<lb break="yes"/>sie hätte vielleicht auch in<lb break="yes"/>Riedheim einen Ehegatten<lb break="yes"/>bekom̄en nun
+                wohlan ist<lb break="yes"/>meine nuhr Storch <seg ana="#pic">
+                    [Strichmännchen]</seg></p>
+<p><hi rendition="#c">Adresse<lb break="yes"/>Michael <surname>G.</surname><lb break="yes"/>untere Stadt Langenau.
+                        würtenberg<lb break="yes"/>(deutsches Reich)</hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="lip2509n14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Christina Eichhorn-Hartmeyer</name>
+<name>Monika Foldenauer</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>LWL Archivamt für Westfalen, Archiv LWL (Münster)</repository>
+<collection>Best. 656: Lippstadt</collection>
+<idno>2509 (K. 170)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Erna <surname>N.</surname></persName>
+<date type="sent" when="1927-11-28">28.11.1927</date>
+<date type="received"/>
+<persName type="addressee">Oberarzt: <surname>C.</surname></persName>
+<settlement type="sent">Hagen</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="lip2509n">
+<persName>
+<forename>Erna</forename> <surname>N.</surname>
+</persName>
+<birth when="1899-07-10"/>
+<death cert="unknown"/>
+<occupation>Fürsorgezögling</occupation>
+<residence><geo decls="#WGS">51.347413849999995 7.569084715363729</geo>Geburtsort: Hohenlimburg; Wohnort: Hohenlimburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater Buchbinder</p>
+<p>Anstalt: <date from="1913-08-19" to="1933-12-01">19.08.1913–24.11.1920; 17.02.1926–01.12.1933</date></p><p>Verpflegungsklasse: k.A.</p>
+<p>Brieftypen: pp: 9, po: 15, ap: 2, so: 2</p>
+</state>
+<trait><p>Psychopathie, Imbecillität</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patientin teilt mit, dass sie gut angekommen ist, und hofft, dass der Arzt nicht nachtragend sei.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="lip2509n14a.jpg" xml:id="image_043"/>
+<graphic mimeType="image/jpg" url="lip2509n14b.jpg" xml:id="image_044"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_043"/>
+<opener>
+<dateline><hi rendition="#i">Hagen den 28.11.27</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Sehr geehrter </hi><lb break="yes"/><hi rendition="#i"> Herr Oberarzt Dr. </hi>Clemes</hi></salute>
+</opener>
+<p>Erlaube mir hiermit mitzuteilen daß<lb break="yes"/>ich gut angekommen bin und
+                    hoffe<hi rendition="#i"> </hi><lb break="yes"/>daß <hi rendition="#i">S</hi>ie mir
+                    nicht<hi rendition="#i">s</hi> mehr nachtragen<lb break="yes"/>denn ich habe <hi rendition="#i">S</hi>ie nicht kränken wollen<lb break="yes"/>aber Ihr ernstem
+                    <hi rendition="#i">W</hi>esen mir gegenüber<lb break="yes"/>in der letzten Zeit
+                hat mich fühlen<lb break="yes"/>lassen daß Sie böse auf mich waren<lb break="yes"/>aber wahrum? Bei Gelegenheit werde<lb break="yes"/>ich mir erlauben einen Brief
+                    <w>zu</w><w>schrb</w><lb break="yes"/>um Ihnen verehrter <hi rendition="#i">Herr</hi> Oberarzt klar<lb break="yes"/><w>zu</w><w>legen</w>
+                warum mein <hi rendition="#i">W</hi>esen so ver<lb break="no"/>ändert war Ich bin
+                seelisch so nieder ge<lb break="no"/>drückt um heute allen <w>zu</w><w>übersehen</w><lb break="yes"/>Tragen <hi rendition="#i">S</hi>ie mir bitte also nichts mehr<lb break="yes"/>nach denn <hi rendition="#i">S</hi>ie waren der einzige<lb break="yes"/>Mensch der mir dort nah gestanden<lb break="yes"/>hat im Helfen.
+                Hoffe daß ich Erlaubnis<lb break="yes"/>erhalten werde noch 14 Tage nach <pb facs="#image_044"/>Weihnachten nach Hohenlimburg<lb break="yes"/><w>zu</w><w>gehen</w> denn ich möchte
+                kl Jenni<lb break="yes"/>mir <w>zu</w><w>den</w> Verwandten nehmen<lb break="yes"/>augenblicklich
+                ist Sie hier bis<lb break="yes"/>morgen. <seg ana="#salute">Vorläufig empfehle<lb break="yes"/>ich mich mit den besten<lb break="yes"/>Grüßen.<lb break="yes"/><hi rendition="#c"><hi rendition="#i">H</hi>ochachtungsvoll
+                        </hi><lb break="yes"/><seg ana="#signed">Erna <surname><hi rendition="#i">N.</hi></surname></seg></seg></p><p>
+<add hand="vordruck">Absender:</add> Erna <surname><hi rendition="#i">N.</hi></surname><add hand="vordruck">Wohnort:</add>
+<hi rendition="#i">Hagen</hi> Agnes<hi rendition="#i">h</hi>eim<lb break="yes"/><add hand="vordruck">Straße, Hausnummer,<lb break="yes"/>Gebäudeteil,
+                    Stockwerk</add></p><p>
+<add hand="vordruck">Postkarte</add><lb break="yes"/><hi rendition="#i">Herrn</hi><lb break="yes"/><hi rendition="#i">Oberarzt Dr. Clemens</hi><lb break="yes"/><add hand="vordruck">in</add>
+<hi rendition="#i">Eickelborn</hi><lb break="yes"/><hi rendition="#i">Kreis Soest </hi><lb break="yes"/><add hand="vordruck">Straße, Hausnummer,<lb break="yes"/>Gebäudeteil,
+                    Stockwerk</add></p>
+</body>
+</text>
+</TEI>

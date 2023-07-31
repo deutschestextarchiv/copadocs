@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2245r26" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2245</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Georg <surname>R.</surname></persName>
+<date notAfter="1918" notBefore="1899" type="sent">ca. 1899–1918</date>
+<date type="received"/>
+<persName type="addressee">Direktor: k. A. <surname/></persName>
+<settlement type="sent"/>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb2245r">
+<persName>
+<forename>Anna</forename> <surname>R.</surname>
+</persName>
+<birth when="1882"/>
+<death when="1918"/>
+<occupation>Söldnerstochter</occupation>
+<residence><geo decls="#WGS">48.0734 10.3118194</geo>Frickenhausen, Memmingen</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1899" to="1918">1899–1918</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 20, po: 1, ap: 2, ao: 7</p>
+</state>
+<trait><p>Melancholie (1904), Depression, [Suizidalität] (1914)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber nimmt Bezug auf einen Brief seiner Schwester. Er entnimmt daraus, dass es ihr gut geht, und bittet darum, bei ihrem Vorhaben, in Kaufbeuren eine Stelle zu suchen, auf die Auswahl der richtigen Arbeitgeber zu achten.
+                    Der Arzt notiert, dass noch keine Besserung eingetreten ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb2245r26a.jpg" xml:id="image_076"/>
+<graphic mimeType="image/jpg" url="kfb2245r26b.jpg" xml:id="image_077"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_076"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#r">An die Kgl. Direktion. </hi></salute>
+</opener>
+<p><hi rendition="#r">Wir möchten nun hiemit </hi><lb break="yes"/><space/> etliche
+                Fragen und Bitten an die<lb break="yes"/>Leitung der Anstalt stellen. Es wäre<lb break="yes"/>uns sehr lieb gewesen wen̄ bei dem<lb break="yes"/>Briefe
+                von unserer Tochter u. Schwester<lb break="yes"/>noch etliche Bemerkungen
+                beigegeben<lb break="yes"/>gewesen wären von der Anstaltsleitung.<lb break="yes"/>Wir nehmen nun an, daß das Befinden<lb break="yes"/>von unserer Tochter u.
+                Schwester Anna<lb break="yes"/>ziemlich gut ist, weil der Brief uns<lb break="yes"/>ohne weiteres geschickt worden ist.<lb break="yes"/>Wie ist sie auf den Wunsch
+                gekom̄en<lb break="yes"/>in Kaufbeuren um eine Stelle zu<lb break="yes"/>schauen. Wenn es soweit kommt <pb facs="#image_077"/>so haben wir die Hoffnung,
+                daß<lb break="yes"/>der Herr Docktor u. vielleicht auch<lb break="yes"/>in
+                Verbindung mit dem Herrn<lb break="yes"/>Pfarrer es so einzurichten wissen<lb break="yes"/>daß sie zu ordentlichen Leuten<lb break="yes"/>kommt. Die
+                Genannten wissen<lb break="yes"/>ja ihren Zustand und ihre Gemüts<lb break="no"/>bewegungen besser als wir. </p>
+<p><hi rendition="#c"><seg ana="#salute">Hochachtungsvollst</seg><lb break="yes"/><seg ana="#signed">Familie <hi rendition="#i"><surname>R.</surname></hi></seg></hi></p>
+<p><add hand="arzt"><hi rendition="#i">Geht ganz in ihren religiosen<lb break="yes"/>Ideen auf, hat Sin̄estauschg,<lb break="yes"/>spricht von
+                        Versuchungen;<lb break="yes"/>hie u da erregt, flucht, dan̄<lb break="yes"/>wieder weinerlich gestim̄t.<lb break="yes"/>Von
+                        einer wesentlichen<lb break="yes"/>beßerug kann noch keine<lb break="yes"/>Rede sein.</hi></add>
+</p>
+</body>
+</text>
+</TEI>
