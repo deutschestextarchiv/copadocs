@@ -37,7 +37,7 @@
           <xsl:call-template name="site-header"/>
           <div class="container">
             <div class="row">
-              <div class="col-lg-8 col-md-8 mt-2 mx-auto bg-white">
+              <div class="col-md-9 offset-md-3 mt-2 bg-white">
                 <nav aria-label="breadcrumb">
                   <ol class="breadcrumb mb-0">
                     <li class="breadcrumb-item"><a href="{$base}">Start</a></li>
@@ -72,11 +72,9 @@
         <main class="flex-shrink-0">
           <div class="container mt-3 mb-5">
             <div class="row">
-              <div class="col-lg-2"></div>
-              <div class="col-lg-7 col-md-8 tei mx-auto">
+              <div class="col-md-3"></div>
+              <div class="col-md-9 tei">
                 <xsl:apply-templates/>
-              </div>
-              <div class="col-lg-3 bg-light">
               </div>
             </div>
           </div>
