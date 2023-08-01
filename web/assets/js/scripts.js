@@ -141,6 +141,7 @@ $( function () {
     'occupation',
     'residence',
     'familyStatus',
+    'subsistenceClass',
     'faith',
     'trait',
     'textType',
@@ -237,6 +238,10 @@ $( function () {
     return str.replace( /\d+/g, (m) => { return m.padStart(6, '0') })
   }
 
+  jQuery.fn.dataTableExt.oSort["empty-last-asc"] = function(a, b) {
+    return (!a)-(!b) || +(a>b)||-(a<b);
+  }
+
   // corpus listing
   var dt_pat = $('#pat-list').DataTable({
     "processing": true,
@@ -287,6 +292,20 @@ $( function () {
           if ( row[fields['deathDate']] != '-' )
             ret += '<span title="Tod in Anstalt" data-bs-toggle="tooltip" class="cursor-help"><sup>†</sup></span>'
           return ret
+        }
+      },
+      {
+        "type": "empty-last",
+        "render": {
+          "display": function (data, type, row) {
+            return row[fields.subsistenceClass].replace(/\D/g, '')
+          },
+          "sort": function (data, type, row) {
+            let ret = row[fields.subsistenceClass].replace(/\D/g, '')
+            if ( !ret )
+              ret = -1
+            return ret
+          },
         }
       },
       {
@@ -446,6 +465,11 @@ $( function () {
           if ( row[fields['deathDate']] != '-' )
             ret += '<span title="Tod in Anstalt" data-bs-toggle="tooltip" class="cursor-help"><sup>†</sup></span>'
           return ret
+        }
+      },
+      {
+        "render": function (data, type, row) {
+          return row[fields.subsistenceClass].replace(/\D/g, '')
         }
       },
       {

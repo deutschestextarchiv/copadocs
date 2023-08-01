@@ -95,6 +95,15 @@
                           )"/>
     <xsl:text>&#x9;</xsl:text>
 
+    <!-- subsistence class -->
+    <xsl:value-of select="normalize-space(
+                            substring-after(
+                              /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:state/t:p[starts-with(., 'Verpflegungsklasse: ')],
+                              'Verpflegungsklasse: '
+                            )
+                          )"/>
+    <xsl:text>&#x9;</xsl:text>
+
     <!-- faith -->
     <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:faith)"/>
     <xsl:text>&#x9;</xsl:text>
