@@ -1,216 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xml:id="kfb80a02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Patientenbrief</title>
-                <editor>
-                    <name>Markus Schiegg</name>
-                    <name>Monika Foldenauer</name>
-                    <name>Franziska Eber</name>
-                </editor>
-            </titleStmt>
-            <publicationStmt>
-                <authority>Copadocs</authority>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
-                        <p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Monika Foldenauer</name>
+<name>Franziska Eber</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International
                             (CC BY-SA 4.0)</p>
-                    </licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
-                        <collection>Patientenakten</collection>
-                        <idno>80</idno>
-                    </msIdentifier>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <creation>
-                <persName type="sender">Hans <surname>A.</surname></persName>
-                <date type="sent" when="1920-09-18">18.09.1920</date>
-                <date type="received"/>
-                <persName type="addressee">Obervorgesetzten: k. A. <surname/></persName>
-                <settlement type="sent"/>
-                <settlement type="received"/>
-            </creation>
-            <particDesc>
-                <person sex="m" xml:id="kfb80a">
-                    <persName>
-                        <forename>Hans</forename>
-                        <surname>A.</surname>
-                    </persName>
-                    <birth when="1901"/>
-                    <death when="1931"/>
-                    <occupation>Krankenwärter, Kaufmannslehrling</occupation>
-                    <residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort:
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>80</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Hans <surname>A.</surname></persName>
+<date type="sent" when="1920-09-18">18.09.1920</date>
+<date type="received"/>
+<persName type="addressee">Obervorgesetzten: k. A. <surname/></persName>
+<settlement type="sent"/>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb80a">
+<persName>
+<forename>Hans</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1901"/>
+<death when="1931"/>
+<occupation>Krankenwärter, Kaufmannslehrling</occupation>
+<residence><geo decls="#WGS">47.5665944 9.679427</geo>Hoyren, Geburtsort:
                         Lindau</residence>
-                    <faith>protestantisch</faith>
-                    <state>
-                        <p>Familienstand: ledig</p>
-                        <p>Eltern: Vater: Krankenwärter</p>
-                        <p>Anstalt: <date from="1917" to="1931">1917–31</date></p>
-                        <p>Brieftypen: pp: 2, po: 110, ao: 7, so: 11</p>
-                        <p>Verpflegungsklasse: 3</p>
-                    </state>
-                    <trait>
-                        <p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Krankenwärter</p>
+<p>Anstalt: <date from="1917" to="1931">1917–31</date></p>
+
+<p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 2, po: 110, ao: 7, so: 11</p></state>
+<trait>
+<p>[Suizidalität], Anfälle [Epilepsie] (1918), Epilepsie, progressive
                             anankastische Entwicklung, Psychopathie (1930)</p>
-                    </trait>
-                </person>
-            </particDesc>
-            <langUsage>
-                <language ident="de"/>
-            </langUsage>
-            <handNotes>
-                <handNote medium="pencil" scope="sole" scribe="patient"/>
-            </handNotes>
-            <textDesc>
-                <channel/>
-                <constitution/>
-                <derivation/>
-                <domain>offizieller Brief</domain>
-                <factuality/>
-                <interaction/>
-                <preparedness/>
-                <purpose> Bericht über Alltag in der Anstalt; sollte Schlüssel schlucken erzählt von
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>offizieller Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Bericht über Alltag in der Anstalt; sollte Schlüssel schlucken erzählt von
                     den Pflegern </purpose>
-            </textDesc>
-        </profileDesc>
-    </teiHeader>
-    <facsimile xml:base="f/">
-        <graphic mimeType="image/jpg" url="kfb80a02a1.jpg" xml:id="image_009"/>
-        <graphic mimeType="image/jpg" url="kfb80a02a2.jpg" xml:id="image_010"/>
-        <graphic mimeType="image/jpg" url="kfb80a02b1.jpg" xml:id="image_011"/>
-        <graphic mimeType="image/jpg" url="kfb80a02b2.jpg" xml:id="image_012"/>
-        <graphic mimeType="image/jpg" url="kfb80a02c.jpg" xml:id="image_013"/>
-    </facsimile>
-    <text>
-        <body>
-            <pb facs="#image_009"/>
-            <pb facs="#image_010"/>
-            <opener>
-                <dateline><hi rendition="#c"><hi rendition="#u">18. September
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb80a02a1.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="kfb80a02a2.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="kfb80a02b1.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="kfb80a02b2.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="kfb80a02c.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<pb facs="#image_010"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#u">18. September
                     1920.</hi></hi></dateline>
-                <salute><hi rendition="#c">Geehrte Herrn Obervorgesetzter!</hi></salute>
-            </opener>
-            <p>
-                <hi rendition="#c">Meine Erlebnisse von Gestern den 17. Septbr. 1920 Nachmittags u.
+<salute><hi rendition="#c">Geehrte Herrn Obervorgesetzter!</hi></salute>
+</opener>
+<p>
+<hi rendition="#c">Meine Erlebnisse von Gestern den 17. Septbr. 1920 Nachmittags u.
                     Abends!</hi></p>
-            <p> Um 1/2 3 Uhr kam der Pfleger <hi rendition="#i"><surname>H.</surname></hi> mit der
+<p> Um 1/2 3 Uhr kam der Pfleger <hi rendition="#i"><surname>H.</surname></hi> mit der
                 Milch fürs Tobhaus,<lb break="yes"/>durch unsern Garten &amp;. ging mit unsern 2
                 Pflegern <hi rendition="#i"><hi rendition="#u"><surname>R.</surname></hi></hi>
-                &amp;. <hi rendition="#i"><hi rendition="#u"><surname>M.</surname></hi></hi><lb
-                    break="yes"/>bis an die Tobhaustüre vor, zirka 10 Minuten, mich &amp;. den
+                &amp;. <hi rendition="#i"><hi rendition="#u"><surname>M.</surname></hi></hi><lb break="yes"/>bis an die Tobhaustüre vor, zirka 10 Minuten, mich &amp;. den
                     <surname>M.</surname> lies<lb break="no"/>sen die Pfleger ganz vorn weit,
                 allein, ich sagte Ihnen dann, warum<lb break="yes"/>sie nicht auf mich aufpassen,
                 die Pfleger sagten, das ist Ihnen gleich<lb break="yes"/>was ich tue; Hernach bis
-                zur Visitte war alles gut &amp;. ruhige Pfleger<lb break="yes"/><hi rendition="#i"
-                        ><surname>E.</surname></hi> kam herunter &amp;. ging eine Weile ins Tobhaus.
+                zur Visitte war alles gut &amp;. ruhige Pfleger<lb break="yes"/><hi rendition="#i"><surname>E.</surname></hi> kam herunter &amp;. ging eine Weile ins Tobhaus.
                 Er wurde, weil<lb break="yes"/>gerade die Visitte bald kam, gesucht, &amp;. weil
                 Jeder Pfleger in seiner<lb break="yes"/>eignen Abteilung im Dienst bleiben muß, so
-                mußte <hi rendition="#i"><surname>E.</surname></hi> zur Visitte<lb break="yes"
-                />kommen, &amp;. bekam Strafe; Nach 4 Uhr machten die 2 Pfleger
+                mußte <hi rendition="#i"><surname>E.</surname></hi> zur Visitte<lb break="yes"/>kommen, &amp;. bekam Strafe; Nach 4 Uhr machten die 2 Pfleger
                     <surname>R.</surname><lb break="yes"/>&amp;. <surname>M.</surname> im Garten mit
                 mir Dum̄heit &amp;. Schande; Pfleger<lb break="yes"/><surname>M.</surname> hatte 1
                 größren Drahtteil bei sich am Tische, er sagte zu mir<lb break="yes"/>ich soll mein
                 Maul aufmachen, &amp;. als ich das tat, schob er mir<lb break="yes"/>den untern
                 krum̄en Draht in mein Mund &amp;. meinte ich soll ihn ver<lb break="no"/>schlucken;
-                ich wollte das nicht; dann zog der <surname>M.</surname>, ihn streng vom<lb
-                    break="yes"/>Mund heraus. Nach einer Weile, gab mir Pfleger
+                ich wollte das nicht; dann zog der <surname>M.</surname>, ihn streng vom<lb break="yes"/>Mund heraus. Nach einer Weile, gab mir Pfleger
                     <surname>R.</surname> von<lb break="yes"/>ihm einen größeren Hausschlüssel frei
                 in die Hände &amp;. meinte<lb break="yes"/>ich soll durchbrennen. Ich lief an
                 mehrere Gartentüren, hin<del>m</del> &amp;. probier<lb break="no"/>te den Schlüssel
                 überall am Schloß ob er paßt, er paßte nirgends, dann<lb break="yes"/>ging ich
-                wieder zurück, &amp;. wollte den Schlüssel dem Pfleger <hi rendition="#u"
-                        ><surname>R.</surname></hi><lb break="yes"/>geben; der Herr meinte ich soll
+                wieder zurück, &amp;. wollte den Schlüssel dem Pfleger <hi rendition="#u"><surname>R.</surname></hi><lb break="yes"/>geben; der Herr meinte ich soll
                 seinen Schlüssel verschlucken; ich tat den<lb break="yes"/>Schlüssel in Mund &amp;.
                 wollte sehen ob ers erlaubt, bis zur Hälfte hatte ich<lb break="yes"/>ihn, in Hals
-                gesteckt, als ich's im Schlucken spürte, zog ich den Schlüssel gleich<lb break="yes"
-                />vom Mund raus &amp;. gab ihn her dem <surname>R</surname>. Gleich kam der
+                gesteckt, als ich's im Schlucken spürte, zog ich den Schlüssel gleich<lb break="yes"/>vom Mund raus &amp;. gab ihn her dem <surname>R</surname>. Gleich kam der
                     <surname>M.</surname>, zog sei<lb break="no"/>nen langen Hausschlüssel heraus,
                 gab ihn mir frei in die Hand, &amp;. sagte<lb break="yes"/>mir ich soll ihn
                 verschlucken, ich steckte ihn, in Mund, nicht tief, den̄, der<lb break="yes"/>war zu
-                groß, &amp;. an dem wär ich erstickt. ich zog den Schlüssel gleich raus,<lb
-                    break="yes"/>&amp;. wollte ihn dem Eigentüm̄er <hi rendition="#i"
-                        ><surname>M.</surname></hi> zurückgeben, dann wollte Er<lb break="yes"/>ihn
-                mir selbst <del>nei</del> den Schlüssel in Mund tun, aber er traf nicht mehr<lb
-                    break="yes"/>in Mund richtig hinein. Der Patient <hi rendition="#i"
-                        ><surname>M.</surname></hi> sagte dem Pflegern ob sie<lb break="yes"/>sich
-                nicht schämen, weil ich ihre Schlüssel im Mund hatte, <del>s</del> die Pfleger <pb
-                    facs="#image_011"/>
-                <pb facs="#image_012"/> lachten &amp;. sagten erstens, <del>das</del> sie haben
-                keine Angst bei solcher Sa<lb break="no"/>che wie Herr Pfleger <hi rendition="#i"
-                        ><surname>L.</surname></hi>; zweitens sagten <hi rendition="#i"
-                        ><surname>M.</surname></hi> &amp;. <hi rendition="#i"
-                    ><surname>R.</surname></hi><lb break="yes"/>ich bin zu feig solche Schlüssel zu
+                groß, &amp;. an dem wär ich erstickt. ich zog den Schlüssel gleich raus,<lb break="yes"/>&amp;. wollte ihn dem Eigentüm̄er <hi rendition="#i"><surname>M.</surname></hi> zurückgeben, dann wollte Er<lb break="yes"/>ihn
+                mir selbst <del>nei</del> den Schlüssel in Mund tun, aber er traf nicht mehr<lb break="yes"/>in Mund richtig hinein. Der Patient <hi rendition="#i"><surname>M.</surname></hi> sagte dem Pflegern ob sie<lb break="yes"/>sich
+                nicht schämen, weil ich ihre Schlüssel im Mund hatte, <del>s</del> die Pfleger <pb facs="#image_011"/>
+<pb facs="#image_012"/> lachten &amp;. sagten erstens, <del>das</del> sie haben
+                keine Angst bei solcher Sa<lb break="no"/>che wie Herr Pfleger <hi rendition="#i"><surname>L.</surname></hi>; zweitens sagten <hi rendition="#i"><surname>M.</surname></hi> &amp;. <hi rendition="#i"><surname>R.</surname></hi><lb break="yes"/>ich bin zu feig solche Schlüssel zu
                 fressen &amp;. ich brings nicht hinun<lb break="no"/>ter. Der Schlossermeister
                     <surname>O.</surname> ging gerade vorüber &amp;. sah, wie<lb break="yes"/>die
-                Pfleger die Schlüssel am Tisch<del>e</del> hatten &amp;. <add place="above"
-                    >die</add> sagten ihm, Er soll mir<lb break="yes"/>viel Schlüssel zum Fressen
-                geben. Der Patient <hi rendition="#i"><surname>M.</surname></hi> sah alles<lb
-                    break="yes"/>zu &amp;. ist Zeuge. Dann hörte die Sache auf. Darauf kam der
+                Pfleger die Schlüssel am Tisch<del>e</del> hatten &amp;. <add place="above">die</add> sagten ihm, Er soll mir<lb break="yes"/>viel Schlüssel zum Fressen
+                geben. Der Patient <hi rendition="#i"><surname>M.</surname></hi> sah alles<lb break="yes"/>zu &amp;. ist Zeuge. Dann hörte die Sache auf. Darauf kam der
                     Pfle<lb break="no"/>ger <hi rendition="#i"><surname>E.</surname></hi> von der
-                Visite als Gestrafter herunter. Der erzählte dem <surname>R.</surname><lb
-                    break="yes"/>&amp;. <hi rendition="#i"><surname>M.</surname></hi>, daß er
-                gestraft wird, und Herr <del>J</del> Oberpfleger <surname>R.</surname> ihn<lb
-                    break="yes"/>verkaufte, weil Er, ihn nicht leiden kann; <surname>E.</surname>
+                Visite als Gestrafter herunter. Der erzählte dem <surname>R.</surname><lb break="yes"/>&amp;. <hi rendition="#i"><surname>M.</surname></hi>, daß er
+                gestraft wird, und Herr <del>J</del> Oberpfleger <surname>R.</surname> ihn<lb break="yes"/>verkaufte, weil Er, ihn nicht leiden kann; <surname>E.</surname>
                 sagte <del>&amp;</del> ich bin Schuld,<lb break="yes"/>wegs der Strafe, weil er
-                wegen mir, im Garten bleiben hätte sollen.<lb break="yes"/>Die 3 Pfleger <hi
-                    rendition="#i"><surname>R.</surname>, <surname>M.</surname></hi> &amp;<hi
-                    rendition="#i">. <surname>E.</surname></hi>; schimpften vor mir keck im<lb
-                    break="yes"/>Garten über Herrn <hi rendition="#i"><surname>R.</surname></hi>:
+                wegen mir, im Garten bleiben hätte sollen.<lb break="yes"/>Die 3 Pfleger <hi rendition="#i"><surname>R.</surname>, <surname>M.</surname></hi> &amp;<hi rendition="#i">. <surname>E.</surname></hi>; schimpften vor mir keck im<lb break="yes"/>Garten über Herrn <hi rendition="#i"><surname>R.</surname></hi>:
                 und zwar folgendes: Er sei kein<lb break="yes"/>richtiger Oberpfleger, &amp;. ist
                 schon 20 Jahre hier tätig, er kann nur<lb break="yes"/>jetzt die Pfleger befehlen,
-                bis Herr <surname>H.</surname> da sei; <surname>E.</surname> sagte Herr<lb
-                    break="yes"/><surname>R.</surname>, hätte Herrn <surname>R.</surname> &amp;. der
+                bis Herr <surname>H.</surname> da sei; <surname>E.</surname> sagte Herr<lb break="yes"/><surname>R.</surname>, hätte Herrn <surname>R.</surname> &amp;. der
                 Strafsache geholfen. <del>S</del> Die 3 Pfleger sag<lb break="no"/>ten; Herr
-                    <surname>R.</surname>, sei falsch, er würde alles verkaufen <add place="above"
-                    >auf</add><del>vor</del> diese<del>n</del><lb break="yes"/>er einen Zorn hat.
+                    <surname>R.</surname>, sei falsch, er würde alles verkaufen <add place="above">auf</add><del>vor</del> diese<del>n</del><lb break="yes"/>er einen Zorn hat.
                 Ich schimpfte selbst die Herren &amp;. sagte<del>n</del> sie<lb break="yes"/>sollen
                 nicht hinterrück's über ihn schimpfen, <surname>R.</surname>, <surname>M.</surname>
                     &amp;<lb break="yes"/><hi rendition="#i"><surname>E.</surname></hi> sagten, Herr
-                    <hi rendition="#i"><surname>R.</surname></hi> &amp;. Herr <hi rendition="#i"
-                        ><surname>L.</surname></hi> &amp;. ich; wir seien 3<lb break="yes"
-                />Schwarze; &amp;. sie selbst <surname>R.</surname> &amp;. sie seien Spartakisten;
-                    wenn<lb break="yes"/>die uns, Herrn <surname>R.</surname> &amp;. Herrn <hi
-                    rendition="#i"><surname>L.</surname></hi> draußen treffen, dann tuns<lb
-                    break="yes"/>uns 3 zuerst arg schlagen, &amp;. dann umbringen. Dann rede<lb
-                    break="no"/>ten gestern noch <surname>R.</surname> u <surname>M.</surname>,
-                    <del>ich</del> zu mir, ich soll wenn<lb break="yes"/>Pfleger <hi rendition="#i"
-                        ><surname>L.</surname></hi> nächsten Monat Nachwachdienst hatt, auch mal<lb
-                    break="yes"/>was mir <w>an tun</w>, durch Fensterscheibe springen, daß Er
+                    <hi rendition="#i"><surname>R.</surname></hi> &amp;. Herr <hi rendition="#i"><surname>L.</surname></hi> &amp;. ich; wir seien 3<lb break="yes"/>Schwarze; &amp;. sie selbst <surname>R.</surname> &amp;. sie seien Spartakisten;
+                    wenn<lb break="yes"/>die uns, Herrn <surname>R.</surname> &amp;. Herrn <hi rendition="#i"><surname>L.</surname></hi> draußen treffen, dann tuns<lb break="yes"/>uns 3 zuerst arg schlagen, &amp;. dann umbringen. Dann rede<lb break="no"/>ten gestern noch <surname>R.</surname> u <surname>M.</surname>,
+                    <del>ich</del> zu mir, ich soll wenn<lb break="yes"/>Pfleger <hi rendition="#i"><surname>L.</surname></hi> nächsten Monat Nachwachdienst hatt, auch mal<lb break="yes"/>was mir <w>an tun</w>, durch Fensterscheibe springen, daß Er
                     gestraft<lb break="yes"/>wird &amp;. nicht im̄er sagen kan̄, bei ihm passiert
                 nichts; wenn<lb break="yes"/>ich die Tat ausführe, würde mir <surname>M.</surname>
                 &amp;. <surname>R.</surname> einen Kuchen geben,<lb break="yes"/>Dann ging ich vom
-                Garten ins Krankenzim̄er. Da ging gleich die<lb break="yes"/>Rede von Strafe <hi
-                    rendition="#i"><surname>E.</surname></hi> an. <hi rendition="#i"
-                        ><surname>H.</surname></hi> erzählte den 3 andern; gleich, daß<lb
-                    break="yes"/>der Herr <hi rendition="#i"><surname>L.</surname></hi> auch
+                Garten ins Krankenzim̄er. Da ging gleich die<lb break="yes"/>Rede von Strafe <hi rendition="#i"><surname>E.</surname></hi> an. <hi rendition="#i"><surname>H.</surname></hi> erzählte den 3 andern; gleich, daß<lb break="yes"/>der Herr <hi rendition="#i"><surname>L.</surname></hi> auch
                 verkauft wird, Er würde oft abends bis 11 Uhr<lb break="yes"/>nachts im
                 Krankenzim̄er sein &amp;. auf B Abteilung sich während Dienst<lb break="yes"/>und
                 wen̄ er frei hat lang aufhält. Das sei verboten, das <add place="above">daß</add>
                 kein Pfleger<lb break="yes"/>in andre Abteilung darf, das hätte Herr
-                    <surname>R.</surname> schon oft beim Herr<lb break="yes"/><hi rendition="#i"
-                        ><surname>L.</surname></hi> gesehen, habe<del>n</del> aber da nicht
-                aufgepaßt. Das würden die Pfle<pb break="no" facs="#image_013"/> ger <hi
-                    rendition="#i"><surname>M.</surname></hi> &amp;. <surname>R.</surname> schon
+                    <surname>R.</surname> schon oft beim Herr<lb break="yes"/><hi rendition="#i"><surname>L.</surname></hi> gesehen, habe<del>n</del> aber da nicht
+                aufgepaßt. Das würden die Pfle<pb break="no" facs="#image_013"/> ger <hi rendition="#i"><surname>M.</surname></hi> &amp;. <surname>R.</surname> schon
                 schriftlich melden. Als Herr <surname>R.</surname> abends 1<lb break="yes"/>1/2 7
                 Uhr zur Visite kam &amp;. Pfleger <hi rendition="#i"><surname>M.</surname></hi> vom
                 Krankenzim̄er in<lb break="yes"/>d Saal wies, <del>&amp;</del>; kamen nach einer 1/4
-                Stunde von 7 Uhr bis 1/2 8 Uhr<lb break="yes"/>die Pfleger vom D Saal, <hi
-                    rendition="#i"><surname>R.</surname></hi> u. <hi rendition="#i"
-                        ><surname>M.</surname></hi>, an die offene<del>r</del> Kranken<lb break="no"
-                />zimmertür hin &amp;. lokten, die Krankenzim̄erpfleger <hi rendition="#i"
-                        ><surname>H.</surname>
-                </hi>&amp;<hi rendition="#i">. <surname>E.</surname></hi> zu sich;<lb break="yes"
-                />Sie hielten 1/2 halbe Stunde eine freche<del>r</del> Rede ganz laut über Herrn<lb
-                    break="yes"/><surname>R.</surname> &amp;. <hi rendition="#i"
-                        ><surname>L.</surname></hi>; <surname>M.</surname> sagte, wen̄ Herr
+                Stunde von 7 Uhr bis 1/2 8 Uhr<lb break="yes"/>die Pfleger vom D Saal, <hi rendition="#i"><surname>R.</surname></hi> u. <hi rendition="#i"><surname>M.</surname></hi>, an die offene<del>r</del> Kranken<lb break="no"/>zimmertür hin &amp;. lokten, die Krankenzim̄erpfleger <hi rendition="#i"><surname>H.</surname>
+</hi>&amp;<hi rendition="#i">. <surname>E.</surname></hi> zu sich;<lb break="yes"/>Sie hielten 1/2 halbe Stunde eine freche<del>r</del> Rede ganz laut über Herrn<lb break="yes"/><surname>R.</surname> &amp;. <hi rendition="#i"><surname>L.</surname></hi>; <surname>M.</surname> sagte, wen̄ Herr
                     <surname>R.</surname> ihn noch einige<lb break="yes"/>Schritte weiter geschoben
                 hätte, <add place="above">hätte</add> er sich gewehrt &amp;. Herrn
                     <surname>R.</surname> gehaut.<lb break="yes"/><surname>H.</surname> sagte; er
@@ -219,27 +177,20 @@
                 höher, sei grad so<lb break="yes"/>Pfleger wie <surname>H.</surname> &amp;. die
                 Pfleger mitnander, besonders <hi rendition="#i"><surname>E.</surname>,
                         <surname>R.</surname>
-                </hi>&amp;.<hi rendition="#i"><lb break="yes"/><surname>M.</surname>
-                </hi>&amp;.<hi rendition="#i">
-                    <surname>H.</surname></hi>; sagten die frechsten Wörter über Herrn
+</hi>&amp;.<hi rendition="#i"><lb break="yes"/><surname>M.</surname>
+</hi>&amp;.<hi rendition="#i">
+<surname>H.</surname></hi>; sagten die frechsten Wörter über Herrn
                     <surname>R.</surname>:<lb break="yes"/>Er sei frech &amp;. so w.; &amp;. Er
-                würde die Strafe von <add place="above">den</add> Pflegern auch be<lb break="no"
-                />kommen. Der Patient <hi rendition="#i">Michel <surname>E.</surname></hi>; macht
+                würde die Strafe von <add place="above">den</add> Pflegern auch be<lb break="no"/>kommen. Der Patient <hi rendition="#i">Michel <surname>E.</surname></hi>; macht
                 oft leider das Bett<lb break="yes"/>voll &amp;. unrein. Gestern machte er ins Bett
                 mittags; Pfleger <hi rendition="#i"><surname>H.</surname></hi><lb break="yes"/>tat
-                den Michl gleich ins Bad hinaus zum waschen. Herr <surname>R.</surname><lb
-                    break="yes"/>begegnete dabei gerade am Bad dem <surname>H.</surname> &amp;.
+                den Michl gleich ins Bad hinaus zum waschen. Herr <surname>R.</surname><lb break="yes"/>begegnete dabei gerade am Bad dem <surname>H.</surname> &amp;.
                 sagte extra er soll den<lb break="yes"/><surname>E.</surname> gleich vom Kalten Bad
-                raus tun, das tat auch <hi rendition="#i"><surname>H.</surname></hi> weil<lb
-                    break="yes"/>Herr <surname>R.</surname> dabei war. Aber sonst wenn Michael <hi
-                    rendition="#i"><surname>E.</surname></hi><lb break="yes"/>unrein ist, tut ihn
-                der Pfleger <hi rendition="#i"><surname>H.</surname></hi> immer, zur Strafe<lb
-                    break="yes"/>weil alles übel ri<add place="above">e</add>cht; &amp;.
+                raus tun, das tat auch <hi rendition="#i"><surname>H.</surname></hi> weil<lb break="yes"/>Herr <surname>R.</surname> dabei war. Aber sonst wenn Michael <hi rendition="#i"><surname>E.</surname></hi><lb break="yes"/>unrein ist, tut ihn
+                der Pfleger <hi rendition="#i"><surname>H.</surname></hi> immer, zur Strafe<lb break="yes"/>weil alles übel ri<add place="above">e</add>cht; &amp;.
                     <surname>H.</surname> das unreine Bett machen muß,<lb break="yes"/>lang ins Bad,
-                mindestens läßt <surname>H.</surname> den <surname>E.</surname> in der Bad<lb
-                    break="no"/>wanne 10 Minuten.<lb break="yes"/><hi rendition="#c"
-                        ><surname>A.</surname> Hans</hi>
-            </p>
-        </body>
-    </text>
+                mindestens läßt <surname>H.</surname> den <surname>E.</surname> in der Bad<lb break="no"/>wanne 10 Minuten.<lb break="yes"/><hi rendition="#c"><surname>A.</surname> Hans</hi>
+</p>
+</body>
+</text>
 </TEI>
