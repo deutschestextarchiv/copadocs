@@ -135,7 +135,10 @@
       </tr>
       <tr>
         <th>Name</th>
-        <td><xsl:apply-templates select="t:persName"/></td>
+        <!--<xsl:value-of select="normalize-space(concat(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:forename, ' ', /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:surname))"/>
+    -->
+        <td><xsl:apply-templates select="normalize-space(concat(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:forename, ' ', /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:surname))"/>
+    </td>
       </tr>
       <tr>
         <th>Geschlecht</th>
