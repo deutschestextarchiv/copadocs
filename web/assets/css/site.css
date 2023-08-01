@@ -119,3 +119,18 @@ a.btn:hover { text-decoration:none }
   .footer-box { flex-direction:column }
   .footer-col img { width:80% }
 }
+
+/* documentation */
+table.copa-tags > thead {
+  --bs-table-color:#fff;
+  --bs-table-bg:var(--base-color);
+  --bs-table-border-color:var(--base-color);
+  border-color:var(--base-color);
+}
+table.copa-tags td:first-child { font-family:monospace; font-size:11pt; font-weight:bold }
+table.copa-tags > tbody > tr > td:nth-child(1) { width:15% }
+table.copa-tags > tbody > tr > td:nth-child(2) { width:25% }
+table.copa-tags > tbody > tr > td > table > tbody > tr > td:nth-child(1) { width:20% }
+table.copa-tags > tbody > tr > td > table > tbody > tr > td:nth-child(2) { width:25% }
+table.copa-tags > tbody > tr > td > table > tbody > tr > td:nth-child(3) td:nth-child(1) { width:30% }
+table.copa-tags code { white-space:pre-wrap }

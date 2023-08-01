@@ -1,6 +1,494 @@
 <section>
   <h1>Technik, Tools, Nachnutzbarkeit</h1>
 
+  <h2>Kodierung</h2>
+
+  <p>
+    Die Transkription der Handschriften im XML-Format TEI P5 folgt in großen
+    Teilen dem <a href="https://www.deutschestextarchiv.de/doku/basisformat/">Basisformat des Deutschen Textarchivs (DTABf)</a>.
+    Neben den Metadaten im Kopf – <code>&lt;teiHeader&gt;</code> – werden im
+    Textbereich – <code>&lt;text&gt;</code> – folgende Elemente benutzt:
+  </p>
+
+  <div class="table-responsive">
+    <table class="table table-striped copa-tags">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Beschreibung</th>
+          <th>Bemerkungen</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>add</td>
+          <td>(nachträgliche) Hinzufügung</td>
+          <td>
+            <table class="table table-sm">
+              <thead>
+                <tr>
+                  <th>Attribut</th>
+                  <th>Beschreibung</th>
+                  <th>Werte</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>@hand</td>
+                  <td>Hand des Schreibenden</td>
+                  <td>entsprechender Wert aus <code>/TEI<wbr/>/teiHeader<wbr/>/profileDesc<wbr/>/handNotes<wbr/>/handNote<wbr/>/@scribe</code></td>
+                </tr>
+                <tr>
+                  <td>@place</td>
+                  <td>Ort der Hinzufügung</td>
+                  <td>
+                    <table class="table table-sm">
+                      <tr>
+                        <td>"above"</td>
+                        <td>intralineare Einfügung darüber</td>
+                      </tr>
+                      <tr>
+                        <td>"below"</td>
+                        <td>interlineare Einfügung darunter</td>
+                      </tr>
+                      <tr>
+                        <td>"bottom"</td>
+                        <td>Einfügung am unteren Seitenrand</td>
+                      </tr>
+                      <tr>
+                        <td>"inline"</td>
+                        <td>Einfügung auf der Zeile</td>
+                      </tr>
+                      <tr>
+                        <td>"inspace"</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td>"margin"</td>
+                        <td>Einfügung am Rand</td>
+                      </tr>
+                      <tr>
+                        <td>"opposite"</td>
+                        <td>Zusatz, der auf anderer Briefseite weitergeht</td>
+                      </tr>
+                      <tr>
+                        <td>"top"</td>
+                        <td>Einfügung am oberen Seitenrand</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>body</td>
+          <td>Textteil</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>dateline</td>
+          <td>Datumszeile</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>del</td>
+          <td>(nachträgliche) Tilgung</td>
+          <td>
+            <table class="table table-sm">
+              <thead>
+                <tr>
+                  <th>Attribut</th>
+                  <th>Beschreibung</th>
+                  <th>Werte</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>@hand</td>
+                  <td>Hand des Schreibenden</td>
+                  <td>entsprechender Wert aus <code>/TEI<wbr/>/teiHeader<wbr/>/profileDesc<wbr/>/handNotes<wbr/>/handNote<wbr/>/@scribe</code></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <!-- fw: nur in kfb_02229_w_m_zeichner_1880_1905-18_pp4-ap1-ao1/kfb_02229_w_pp_1905_12_14.xml, da ohne Inhalt
+        <tr>
+          <td>desc</td>
+          <td></td>
+          <td></td>
+        </tr>
+        -->
+        <tr>
+          <td>emph</td>
+          <td>Hervorhebung</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>facsimile</td>
+          <td>Faksimile</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>foreign</td>
+          <td>fremdsprachliches Material</td>
+          <td>
+            <table class="table table-sm">
+              <thead>
+                <tr>
+                  <th>Attribut</th>
+                  <th>Beschreibung</th>
+                  <th>Werte</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>@xml:lang</td>
+                  <td>Sprache</td>
+                  <td>Sprachcode aus <a href="https://de.wikipedia.org/wiki/ISO_639#ISO_639-3">ISO 639-3</a></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>graphic</td>
+          <td>Verweis auf Abbildung</td>
+          <td>
+            <table class="table table-sm">
+              <thead>
+                <tr>
+                  <th>Attribut</th>
+                  <th>Beschreibung</th>
+                  <th>Werte</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>@mimeType</td>
+                  <td>MIME-Typ der Bilddatei</td>
+                  <td><code>image/jpeg</code> (andere Formate werden im Projekt nicht benutzt)</td>
+                </tr>
+                <tr>
+                  <td>@url</td>
+                  <td>Ort der Bilddatei</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>@xml:id</td>
+                  <td>ID, wird für die Referenzierung in <code>&lt;pb facs="…"/&gt;</code> benutzt</td>
+                  <td></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>handShift</td>
+          <td>Wechsel des Schreibenden</td>
+          <td>
+            <table class="table table-sm">
+              <thead>
+                <tr>
+                  <th>Attribut</th>
+                  <th>Beschreibung</th>
+                  <th>Werte</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>@medium</td>
+                  <td>Schreibinstrument</td>
+                  <td>entsprechender Wert aus <code>/TEI<wbr/>/teiHeader<wbr/>/profileDesc<wbr/>/handNotes<wbr/>/handNote<wbr/>/@medium</code></td>
+                </tr>
+                <tr>
+                  <td>@scribe</td>
+                  <td>Hand des Schreibenden</td>
+                  <td>entsprechender Wert aus <code>/TEI<wbr/>/teiHeader<wbr/>/profileDesc<wbr/>/handNotes<wbr/>/handNote<wbr/>/@scribe</code></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>hi</td>
+          <td>typografische Hervorhebung</td>
+          <td>
+            <table class="table table-sm">
+              <thead>
+                <tr>
+                  <th>Attribut</th>
+                  <th>Beschreibung</th>
+                  <th>Werte</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>@ana</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>@hand</td>
+                  <td>nur in Verbindung mit <code>@rendition="#u"</code>: Hand des Unterstreichenden</td>
+                  <td>entsprechender Wert aus <code>/TEI/teiHeader<wbr/>/profileDesc<wbr/>/handNotes<wbr/>/handNote<wbr/>/@scribe</code></td>
+                </tr>
+                <tr>
+                  <td>@rendition</td>
+                  <td>Textformatierung</td>
+                  <td>
+                    <table class="table table-sm">
+                      <tr>
+                        <td>#b</td>
+                        <td>fett</td>
+                      </tr>
+                      <tr>
+                        <td>#c</td>
+                        <td>zentriert</td>
+                      </tr>
+                      <tr>
+                        <td>#i</td>
+                        <td>lateinische Schrift</td>
+                      </tr>
+                      <tr>
+                        <td>#r</td>
+                        <td>rechtsbündig</td>
+                      </tr>
+                      <tr>
+                        <td>#sub</td>
+                        <td>tiefgestellt</td>
+                      </tr>
+                      <tr>
+                        <td>#sup</td>
+                        <td>hochgestellt</td>
+                      </tr>
+                      <tr>
+                        <td>#u</td>
+                        <td>unterstrichen</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>lb</td>
+          <td>Umbruch am Zeilenende</td>
+          <td>
+            <table class="table table-sm">
+              <thead>
+                <tr>
+                  <th>Attribut</th>
+                  <th>Beschreibung</th>
+                  <th>Werte</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>@break</td>
+                  <td>Art des Umbruchs</td>
+                  <td>
+                    <table class="table table-sm">
+                      <tr>
+                        <td>"no"</td>
+                        <td>Umbruch mit Trennung im Wort</td>
+                      </tr>
+                      <tr>
+                        <td>"yes"</td>
+                        <td>Umbruch zwischen Wörtern</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>milestone</td>
+          <td>Textunterbrechung</td>
+          <td>nur als abschnitttrennende horizontale Linie: <code>&lt;milestone rendition="#hr" unit="section"/&gt;</code></td>
+        </tr>
+        <tr>
+          <td>opener</td>
+          <td>Briefanfang</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>p</td>
+          <td>Textabsatz</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>pb</td>
+          <td>Seitenbeginn</td>
+          <td>
+            <table class="table table-sm">
+              <thead>
+                <tr>
+                  <th>Attribut</th>
+                  <th>Beschreibung</th>
+                  <th>Werte</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>@break</td>
+                  <td>Art des Umbruchs</td>
+                  <td>
+                    <table class="table table-sm">
+                      <tr>
+                        <td>"no"</td>
+                        <td>Seitenumbruch mit Trennung im Wort</td>
+                      </tr>
+                      <tr>
+                        <td>"yes"</td>
+                        <td>Seitenumbruch zwischen Wörtern</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td>@facs</td>
+                  <td>Verweis auf Faksimile</td>
+                  <td>entsprechendes Element aus <code>/TEIfacsimile/graphic</code></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>placeName</td>
+          <td>Ortsname</td>
+          <td>
+            <table class="table table-sm">
+              <thead>
+                <tr>
+                  <th>Attribut</th>
+                  <th>Beschreibung</th>
+                  <th>Werte</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>@type</td>
+                  <td>Art der Ortsbezeichnung</td>
+                  <td></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>salute</td>
+          <td>Anrede, Grußformel</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>seg</td>
+          <td>Textsegment</td>
+          <td>
+            <table class="table table-sm">
+              <thead>
+                <tr>
+                  <th>Attribut</th>
+                  <th>Beschreibung</th>
+                  <th>Werte</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>@ana</td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <!-- fw: nur in kfb_02229_w_m_zeichner_1880_1905-18_pp4-ap1-ao1/kfb_02229_w_pp_1905_12_14.xml, da ohne Inhalt
+        <tr>
+          <td>signatures</td>
+          <td></td>
+          <td></td>
+        </tr>
+        -->
+        <tr>
+          <td>space</td>
+          <td>horizontaler Leerraum</td>
+          <td>nur als <code>&lt;space/&gt;</code></td>
+        </tr>
+        <tr>
+          <td>surname</td>
+          <td>Nachname</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>unclear</td>
+          <td>unsichere Lesart</td>
+          <td>
+            <table class="table table-sm">
+              <thead>
+                <tr>
+                  <th>Attribut</th>
+                  <th>Beschreibung</th>
+                  <th>Werte</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>@reason</td>
+                  <td>Grund</td>
+                  <td>
+                    <table class="table table-sm">
+                      <tr>
+                        <td>"damage"</td>
+                        <td>Beschädigung</td>
+                      </tr>
+                      <tr>
+                        <td>"faded"</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td>"hand"</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td>"knick"</td>
+                        <td>Knick</td>
+                      </tr>
+                      <tr>
+                        <td>"overwriting"</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td>"rubbing"</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td>"shorthand"</td>
+                        <td>Kurzschrift</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>w</td>
+          <td>einzelnes Wort</td>
+          <td>wird benutzt, um in der Vorlage zusammengeschriebene Wörter als separate Einheiten zu kennzeichnen</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
   <h2>Darstellung von Textphänomenen</h2>
 
   <h3>Handschriftenspezifische Phänomene</h3>
@@ -15,7 +503,7 @@
           <li>Eine <span class="tei-add" data-place="bottom">Einfügung</span> am unteren Seitenrand.</li>
           <li>Eine <span class="tei-add" data-place="margin" data-hand="arzt">Einfügung</span> am Rand der Hand <code>arzt</code>.</li>
           <li>Eine <span class="tei-add" data-place="inline">Einfügung</span> auf der Zeile.</li>
-          <li>Ein <span class="tei-add" data-place="opposite">Zusatz</span> der auf anderer Briefseite weitergeht.</li>
+          <li>Ein <span class="tei-add" data-place="opposite">Zusatz</span>, der auf anderer Briefseite weitergeht.</li>
         </ul>
         <p>Dieses <span class="tei-del">Wort</span> ist eine Streichung.</p>
         <p>Nach diesem Wort <span class="tei-handShift" data-medium="ink" data-scribe="patient"/>

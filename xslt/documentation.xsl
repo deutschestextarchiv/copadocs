@@ -21,7 +21,7 @@
         <main class="flex-shrink-0">
           <div>
             <xsl:choose>
-              <xsl:when test="$page='list.html' or $page='patientenakten.html'">
+              <xsl:when test="$page='list.html' or $page='patientenakten.html' or $page='technik.html'">
                 <xsl:attribute name="class">
                   <xsl:text>container-fluid mt-3 mb-5</xsl:text>
                 </xsl:attribute>
