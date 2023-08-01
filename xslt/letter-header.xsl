@@ -47,7 +47,8 @@
               <xsl:text>, Patientenakte </xsl:text>
               <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:msDesc/t:msIdentifier/t:idno"/>
               <xsl:text>, </xsl:text>
-              <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person/t:persName)"/>
+              <xsl:value-of select="normalize-space(concat(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:forename, ' ', /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:surname))"/>
+              <!--<xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person/t:persName)"/>-->
               <xsl:text>, Text von </xsl:text>
               <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='sender'])"/>
               <xsl:text>, </xsl:text>
@@ -134,7 +135,14 @@
       </tr>
       <tr>
         <th>Name</th>
-        <td><xsl:apply-templates select="t:persName"/></td>
+        <!--<xsl:value-of select="normalize-space(concat(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:forename, ' ', /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:surname))"/>
+    -->
+        <!--<td><xsl:apply-templates select="t:persName"/></td>-->
+        <td>
+        <xsl:apply-templates select="t:persName/t:forename"/>
+        <xsl:text> </xsl:text>
+        <xsl:apply-templates select="t:persName/t:surname"/>
+        </td>
       </tr>
       <tr>
         <th>Geschlecht</th>

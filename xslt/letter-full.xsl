@@ -47,7 +47,7 @@
                         <xsl:text>-</xsl:text>
                         <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:sourceDesc/t:msDesc/t:msIdentifier/t:idno"/>
                         <xsl:text> (</xsl:text>
-                        <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person/t:persName)"/>
+                        <xsl:value-of select="normalize-space(concat(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:forename, ' ', /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:surname))"/>
                         <xsl:text>)</xsl:text>
                       </a>
                     </li>
