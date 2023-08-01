@@ -238,8 +238,13 @@ $( function () {
     return str.replace( /\d+/g, (m) => { return m.padStart(6, '0') })
   }
 
+  // sorting: empty values always at end
+  // via: https://stackoverflow.com/a/29829370
   jQuery.fn.dataTableExt.oSort["empty-last-asc"] = function(a, b) {
     return (!a)-(!b) || +(a>b)||-(a<b);
+  }
+  jQuery.fn.dataTableExt.oSort["empty-last-desc"] = function(a, b) {
+    return (!a)-(!b) || -(a>b)||+(a<b);
   }
 
   // corpus listing
@@ -296,19 +301,12 @@ $( function () {
       },
       {
         "type": "empty-last",
-        "render": {
-          "display": function (data, type, row) {
-            return row[fields.subsistenceClass].replace(/\D/g, '')
-          },
-          "sort": function (data, type, row) {
-            let ret = row[fields.subsistenceClass].replace(/\D/g, '')
-            if ( !ret )
-              ret = -1
-            return ret
-          },
-        }
+        "render": function (data, type, row) {
+          return row[fields.subsistenceClass].replace(/\D/g, '')
+        },
       },
       {
+        "type": "empty-last",
         "className": "text-hyph",
         "render": function (data, type, row) {
           return row[fields.occupation]
@@ -321,11 +319,13 @@ $( function () {
         }
       },
       {
+        "type": "empty-last",
         "render": function (data, type, row) {
           return row[fields.familyStatus].replace(/^k\.\sA\.$/, '')
         }
       },
       {
+        "type": "empty-last",
         "render": function (data, type, row) {
           return row[fields.faith]
         }
@@ -351,6 +351,7 @@ $( function () {
         }
       },
       {
+        "type": "empty-last",
         "render": function (data, type, row) {
           return row[fields.placeSent]
         }
@@ -468,11 +469,13 @@ $( function () {
         }
       },
       {
+        "type": "empty-last",
         "render": function (data, type, row) {
           return row[fields.subsistenceClass].replace(/\D/g, '')
-        }
+        },
       },
       {
+        "type": "empty-last",
         "className": "text-hyph",
         "render": function (data, type, row) {
           return row[fields.occupation]
@@ -485,11 +488,13 @@ $( function () {
         }
       },
       {
+        "type": "empty-last",
         "render": function (data, type, row) {
-          return row[fields.familyStatus]
+          return row[fields.familyStatus].replace(/^k\.\sA\.$/, '')
         }
       },
       {
+        "type": "empty-last",
         "render": function (data, type, row) {
           return row[fields.faith]
         }
@@ -596,6 +601,7 @@ $( function () {
             }
           },
           {
+            "type": "empty-last",
             "render": function (data, type, row) {
               return row[fields.placeSent]
             }
