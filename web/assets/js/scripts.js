@@ -382,6 +382,16 @@ $( function () {
     window.location.href = target
   })
 
+  // cross-refs
+  let crossRefs
+  $.get({
+    "url": base + 'xrefs.json',
+    "async": false,
+    "success": function (data) {
+      crossRefs = data
+    }
+  })
+
   // records listing
   var dt_rec = $('#record-list').DataTable({
     "processing": true,
@@ -429,7 +439,7 @@ $( function () {
             return `<abbr title="${institutions[row[fields.institutionShort]]}" data-bs-toggle="tooltip">${row[fields.institutionShort]}</abbr>`
           },
           "filter": function (data, type, row) {
-            return institutions[row[fields.institutionShort]]
+            return row[fields.institutionShort]
           },
           "sort": function (data, type, row) {
             return `${row[fields.institutionShort]}-${padId(row[fields.record])}`
@@ -440,6 +450,7 @@ $( function () {
         "className": "text-nowrap",
         "render": {
           "display": function (data, type, row) {
+            let xrefKey = `${row[fields.institutionShort]}-${row[fields.record]}`.replace(/\s.*/, '')
             return `<a href="#${encodeURIComponent(row[fields.institutionShort])}-${encodeURIComponent(row[fields.record])}" class="copa-record" data-institution="${row[fields.institutionShort]}" data-record="${row[fields.record]}" style="cursor:pointer">${row[fields.record]}</a>`
           },
           "filter": function (data, type, row) {
@@ -519,6 +530,26 @@ $( function () {
         "render": function (data, type, row) {
           return row[row.length - 2]
         }
+      },
+      {
+        "render": function (data, type, row) {
+          let xrefKey = `${row[fields.institutionShort]}-${row[fields.record]}`.replace(/\s.*/, '')
+          if ( crossRefs.records[xrefKey] ) {
+            let ret = ''
+            Object.keys(crossRefs.records[xrefKey]).forEach( (x,i) => {
+              let img = $('<img/>').attr({
+                "src": crossRefs.bibl[x].icon,
+                "alt": crossRefs.bibl[x].full,
+                "title": `Weiterführende Informationen in ${crossRefs.bibl[x].short} vorhanden. Öffnen Sie die Patientenakte, um die einzelnen Verweise nutzen zu können.`,
+                "data-bs-toggle": "tooltip",
+              })
+              ret += img.prop('outerHTML')
+            })
+            return ret
+          }
+          else
+            return ''
+        }
       }
     ]
   })
@@ -549,8 +580,33 @@ $( function () {
         content += '<span title="Tod in Anstalt" data-bs-toggle="tooltip" class="cursor-help"><sup>†</sup></span>'
       $(this).html( content )
     })
+
+    let xrefKey = `${record[fields.institutionShort]}-${record[fields.record]}`.replace(/\s.*/, '')
+    if ( crossRefs.records[xrefKey] ) {
+      $('#copa-record-publications').css('display', 'table-row')
+      let ret = $('<ul/>')
+
+      Object.keys(crossRefs.records[xrefKey]).forEach( (x,i) => {
+        let item = $('<li/>').html(
+          crossRefs.bibl[x].full.replace(/\.$/, ', S. ')
+        + crossRefs.records[xrefKey][x].map(
+            (page) => $('<a/>').attr({
+              "href": crossRefs.bibl[x].pdf + '#page=' + (page + crossRefs.bibl[x].pdfOffset),
+              "target": "_blank"
+            }).html(page).prop('outerHTML')
+          ).join(', ') + '.'
+        )
+        ret.append(item)
+      })
+      $('#copa-record-publications td').html( ret.prop('outerHTML') )
+    }
+    else {
+      $('#copa-record-publications').hide()
+    }
+
     history.pushState({ "foo": "bar"}, "Detailansicht Patientenakte" )
     document.location.hash = el.attr('href')
+
     $.get( base + "list.json", function (data) {
       let filtered = data.data.filter( row => row[fields.institutionShort] == el.data('institution') && row[fields.record] == el.data('record') )
       var dt_rec_single = $('#record-list-single').DataTable({
