@@ -1,22 +1,24 @@
-$( function() {
-  // tooltips
-  $('.tei-placeName, .tei-surname').attr('title', 'Nachname')
-                                   .attr('data-bs-toggle', 'tooltip')
-
+$( function () {
   // Fancybox
-  Fancybox.bind("[data-fancybox]", {
-    // Your custom options
-  });
+  Fancybox.bind("[data-fancybox]")
 
-  // handShift
-  $('.tei-handShift').each( function() {
+  // TEI: <placeName>
+  $('.tei-placeName').attr('title', 'Ortsname')
+                     .attr('data-bs-toggle', 'tooltip')
+
+  // TEI: <surname>
+  $('.tei-surname').attr('title', 'Nachname')
+                   .attr('data-bs-toggle', 'tooltip')
+
+  // TEI: <handShift>
+  $('.tei-handShift').each( function () {
     let el = $(this)
     el.attr('title', `Handwechsel. Medium: ${el.data('medium')}, Schreiber: ${el.data('scribe')}`)
       .attr('data-bs-toggle', 'tooltip')
   })
 
-  // add
-  $('.tei-add').each( function() {
+  // TEI: <add>
+  $('.tei-add').each( function () {
     let el = $(this)
     let place = el.data('place')
     let title
@@ -59,28 +61,37 @@ $( function() {
       .attr('data-bs-toggle', 'tooltip')
   })
 
-  // link to page images
-  $('.tei-pb[data-facsimile').append( function(i, str) {
-    let el = $(this)
-    let n         = el.data('n')
-    let facs      = el.data('facs')
-    let facsimile = el.data('facsimile')
-    let href = window.location.href
-    let dir  = href.substring(0, href.lastIndexOf('/')).replace(/.*\//,'')
-    let src  = `${imgBase}/${dir}/${facsimile}`
+  // TEI: <pb>, links to page images
+  function facsimiles () {
+    $('.tei-pb[data-facsimile').empty().append( function (i, str) {
+      let el        = $(this)
+      let n         = el.data('n')
+      let facs      = el.data('facs')
+      let facsimile = el.data('facsimile')
+      let href = window.location.href
+      let dir  = href.substring(0, href.lastIndexOf('/')).replace(/.*\//,'')
+      let src  = `${imgBase}/${dir}/${facsimile}`
 
-    let marginLeft = -( el.position().left - $('.tei').position().left + 220)
-    return `<a data-fancybox="gallery-text" data-caption="Seite ${n}" href="${src}" target="_blank" title="Faksimile im Vollbild anzeigen">[Seite ${n}]</a>
-            <figure class="tei-side-figure" style="margin-left:${marginLeft}px">
-              <a data-fancybox="gallery-side" data-caption="Faksimile ${facs}" href="${src}" target="_blank" title="Faksimile im Vollbild anzeigen">
-                <img src="${src}" class="figure-img img-fluid rounded"/>
-              </a>
-              <figcaption class="figure-caption">Faksimile ${facs}</figcaption>
-            </figure>`
+      let windowWidth = $(window).width()
+      let offset = windowWidth < 836 ? 160 : windowWidth < 1265 ? 220 : 320;
+
+      let marginLeft = -( el.position().left - $('.tei').position().left + offset)
+      return `<a data-fancybox="gallery-text" data-caption="Seite ${n}" href="${src}" target="_blank" title="Faksimile im Vollbild anzeigen">[Seite ${n}]</a>
+              <figure class="tei-side-figure" style="margin-left:${marginLeft}px">
+                <a data-fancybox="gallery-side" data-caption="Faksimile ${facs}" href="${src}" target="_blank" title="Faksimile im Vollbild anzeigen">
+                  <img src="${src}" class="figure-img img-fluid rounded"/>
+                </a>
+                <figcaption class="figure-caption">Faksimile ${facs}</figcaption>
+              </figure>`
+    })
+  }
+  facsimiles()
+  $( window ).on( "resize", function () {
+    facsimiles()
   })
 
-  // <seg ana="#pic">
-  $('.tei-seg[data-ana="#pic"]').each( function() {
+  // TEI: <seg ana="#pic">
+  $('.tei-seg[data-ana="#pic"]').each( function () {
     let el = $(this)
     el.attr('title', el.html())
       .attr('data-bs-toggle', 'tooltip')
@@ -94,18 +105,17 @@ $( function() {
   recalculate_head_width();
   function recalculate_head_width () {
     // not on mobile view
-    if ( $(window).width() < 768 ) {
+    if ( $(window).width() < 768 )
       return
-    }
 
-    $('.tei-body .tei-p').contents().filter( function() {
+    $('.tei-body .tei-p').contents().filter( function () {
       return this.nodeType === 3
     }).wrap('<span class="calc-line"/>')
 
     let line_cnt        = 0
     let line_length     = 0
     let line_max_length = 0
-    $('.calc-line').each( function() {
+    $('.calc-line').each( function () {
       const width = $(this)[0].getClientRects()[0].width
       line_max_length = width > line_max_length ? width : line_max_length
       if ( width > 200 ) {
@@ -114,16 +124,14 @@ $( function() {
       }
     })
     let line_avg = line_length/line_cnt
-    if ( line_avg < 300 ) {
+    if ( line_avg < 300 )
       $('.tei-body .tei-head, .tei-body [data-rendition="#c"], .tei-body .tei-pb').css({ 'width': '60%' })
-    }
-    else if ( line_avg < 400 ) {
+    else if ( line_avg < 400 )
       $('.tei-body .tei-head, .tei-body [data-rendition="#c"], .tei-body .tei-pb').css({ 'width': '70%' })
-    }
     $('.tei-body [data-rendition~="#r"]').css({ 'margin-right': ($('.tei-body').width() - line_max_length) + 'px' })
   }
 
-  // table views
+  // "list.json" lists data as arrays, this is the mapping
   fields = {};
   [
     'dirname',
@@ -133,6 +141,8 @@ $( function() {
     'institution',
     'record',
     'patient',
+    'sex',
+    'parents',
     'birthDate',
     'entryDate',
     'leaveDate',
@@ -140,6 +150,7 @@ $( function() {
     'occupation',
     'residence',
     'familyStatus',
+    'subsistenceClass',
     'faith',
     'trait',
     'textType',
@@ -149,9 +160,10 @@ $( function() {
     'dateSent',
     'dateSentSort',
     'placeSent',
+    'addressee',
     'extentPages',
     'extentWords'
-  ].forEach((x, i) => fields[x] = i )
+  ].forEach( (x, i) => fields[x] = i )
 
   // expansion for text type abbreviations
   textTypes = {
@@ -161,7 +173,7 @@ $( function() {
     ao: 'offizieller Brief von außen',
     so: 'sonstiger Brief'
   }
-  $('.copa-text-type').each( function() {
+  $('.copa-text-type').each( function () {
     let el = $(this)
     el.attr('title', textTypes[el.text()])
       .attr('data-bs-toggle', 'tooltip')
@@ -173,17 +185,19 @@ $( function() {
     gut: 'Gütersloh',
     ham: 'Hamburg',
     kfb: 'Kaufbeuren-Irsee',
+    len: 'Lengerich-Bethesda',
     lip: 'Lippstadt',
     mrs: 'Marsberg',
     mun: 'Münster',
     war: 'Warstein'
   }
-  $('.copa-institution').each( function() {
+  $('.copa-institution').each( function () {
     let el = $(this)
     el.attr('title', institutions[el.text()])
       .attr('data-bs-toggle', 'tooltip')
   })
 
+  // German localization for Datatables
   let dt_l10n = {
     "sEmptyTable":     "Keine Daten in der Tabelle vorhanden",
     "sInfo":           "_START_ bis _END_ von _TOTAL_ Einträgen",
@@ -215,108 +229,153 @@ $( function() {
     }
   }
 
-  function yearOfDate(date) {
+  // formats an ISO date to show only the year part
+  function yearOfDate (date) {
     return date.replace(/-\d+-\d+/,'')
+  }
+
+  // slims a residence value
+  function formatResidence (str) {
+    return str.split(/; /)
+              .map( x => x.replace(/((?:Geburts|Wohn)ort): ([^;]+)/, '<span title="$1" data-bs-toggle="tooltip" class="cursor-help">$2</span>') )
+              .join('; ')
+  }
+
+  // to provide better sorting, this helper function pads
+  // all digits with up to 6 zeros as in printf’s "%06d"
+  function padId (str) {
+    return str.replace( /\d+/g, (m) => { return m.padStart(6, '0') })
+  }
+
+  // sorting: empty values always at end
+  // via: https://stackoverflow.com/a/29829370
+  jQuery.fn.dataTableExt.oSort["empty-last-asc"] = function(a, b) {
+    return (!a)-(!b) || +(a>b)||-(a<b);
+  }
+  jQuery.fn.dataTableExt.oSort["empty-last-desc"] = function(a, b) {
+    return (!a)-(!b) || -(a>b)||+(a<b);
   }
 
   // corpus listing
   var dt_pat = $('#pat-list').DataTable({
     "processing": true,
-    "ajax": base + "list.json",
-    "initComplete": function(settings, json) {
+    "ajax": {
+      "url": base + "list.json",
+      "cache": true
+    },
+    "initComplete": function (settings, json) {
       $('[data-bs-toggle="tooltip"]').tooltip()
     },
     "language": dt_l10n,
     "columns": [
       {
-        "type": "natural",
+        "type": "natural-nohtml",
+        "render": {
+          "display": function (data, type, row) {
+            return `<code><a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">${row[fields.id]}</a></code>`
+          },
+          "filter": function (data, type, row) {
+            return row[fields.id]
+          },
+          "sort": function (data, type, row) {
+            return padId(row[fields.id])
+          }
+        }
+      },
+      {
         "render": function (data, type, row) {
-          return `<code style="font-size:smaller"><a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">${row[fields.id]}</a></code>`
-        }
-      },
-      {
-        "render": function(data, type, row) {
-          return `${row[fields.patient]}`
+          return row[fields.patient]
         }
       },
       {
         "className": "text-nowrap",
-        "render": function(data, type, row) {
-          return `${yearOfDate(row[fields.birthDate])}`
+        "render": function (data, type, row) {
+          return yearOfDate(row[fields.birthDate])
         }
       },
       {
         "className": "text-nowrap",
-        "render": function(data, type, row) {
-          return `${yearOfDate(row[fields.entryDate])}`
+        "render": function (data, type, row) {
+          return yearOfDate(row[fields.entryDate])
         }
       },
       {
         "className": "text-nowrap",
-        "render": function(data, type, row) {
-          return `${yearOfDate(row[fields.leaveDate])}`
+        "render": function (data, type, row) {
+          let ret = yearOfDate(row[fields.leaveDate])
+          if ( row[fields['deathDate']] != '-' )
+            ret += '<span title="Tod in Anstalt" data-bs-toggle="tooltip" class="cursor-help"><sup>†</sup></span>'
+          return ret
         }
       },
       {
-        "className": "text-nowrap",
-        "render": function(data, type, row) {
-          return `${row[fields.deathDate] == '-' ? 'nein' : 'ja'}`
+        "type": "empty-last",
+        "render": function (data, type, row) {
+          return row[fields.subsistenceClass].replace(/\D/g, '')
+        },
+      },
+      {
+        "type": "empty-last",
+        "className": "text-hyph",
+        "render": function (data, type, row) {
+          return row[fields.occupation]
         }
       },
       {
-        "render": function(data, type, row) {
-          return `${row[fields.occupation]}`
+        "className": "text-hyph",
+        "render": function (data, type, row) {
+          return formatResidence(row[fields.residence])
         }
       },
       {
-        "render": function(data, type, row) {
-          return `${row[fields.residence]}`
+        "type": "empty-last",
+        "render": function (data, type, row) {
+          return row[fields.familyStatus].replace(/^k\.\sA\.$/, '')
         }
       },
       {
-        "render": function(data, type, row) {
-          return `${row[fields.familyStatus]}`
+        "type": "empty-last",
+        "render": function (data, type, row) {
+          return row[fields.faith]
         }
       },
       {
-        "render": function(data, type, row) {
-          return `${row[fields.faith]}`
-        }
-      },
-      {
-        "render": function(data, type, row) {
+        "render": function (data, type, row) {
           return `<abbr title="${textTypes[row[fields.textType]]}" data-bs-toggle="tooltip">${row[fields.textType]}</abbr>`
         }
       },
       {
-        "render": function(data, type, row) {
-          return `${row[fields.sender]}`
+        "render": function (data, type, row) {
+          return row[fields.sender]
         }
       },
       {
         "render": {
-          "display": function(data, type, row) {
-            return `${row[fields.dateSent]}`
+          "display": function (data, type, row) {
+            return row[fields.dateSent]
           },
-          "sort": function(data, type, row) {
+          "sort": function (data, type, row) {
             return row[fields.dateSentSort]
           }
         }
       },
       {
-        "render": function(data, type, row) {
-          return `${row[fields.placeSent]}`
+        "type": "empty-last",
+        "render": function (data, type, row) {
+          return row[fields.placeSent]
         }
       },
       {
+        "className": "text-nowrap",
         "orderable": false,
-        "render": function(data, type, row) {
-          return `${row[fields.extentPages]} S., ca. ${row[fields.extentWords]} Wörter`
+        "render": function (data, type, row) {
+          return `${row[fields.extentPages]} S., ca. ${row[fields.extentWords]} W.`
         }
       },
     ]
   })
 
+  // double-click on corpus listing row opens text
   $('#pat-list tbody').on('dblclick', 'tr', function () {
     let data = dt_pat.row( this ).data()
     let target = `${base}${data[fields.dirname]}/${data[fields.filename]}.html`
@@ -326,21 +385,21 @@ $( function() {
   // records listing
   var dt_rec = $('#record-list').DataTable({
     "processing": true,
-    //"ajax": base + "list.json",
     "ajax": {
       "url": base + "list.json",
+      "cache": true,
       "dataSrc": function (json) {
         let ret  = new Array()
         let seen = new Array()
         let tt   = new Array()
         for ( var i of json.data) {
           let key = i[fields.institutionShort] + '-' + i[fields.record]
-          if ( seen[key] === undefined ) {
+          if ( seen[key] === undefined )
             seen[key] = {
               "cnt": 0,
               "tt": new Set(),
             }
-          }
+
           seen[key].cnt++;
           seen[key]['tt'].add( i[fields.textType] )
           if ( seen[key].cnt > 1 )
@@ -354,8 +413,9 @@ $( function() {
         return ret
       }
     },
-    "initComplete": function(settings, json) {
+    "initComplete": function (settings, json) {
       $('[data-bs-toggle="tooltip"]').tooltip()
+      // open record if URL has a hash value
       let wantRecord = document.location.hash.match(/^(#[a-z]{3}-.*)/)
       if ( wantRecord != null && $('a[href="' + wantRecord[0] + '"]').length ) {
         showRecord( $('a[href="' + wantRecord[0] + '"]').first() )
@@ -364,136 +424,162 @@ $( function() {
     "language": dt_l10n,
     "columns": [
       {
+        "render": {
+          "display": function (data, type, row) {
+            return `<abbr title="${institutions[row[fields.institutionShort]]}" data-bs-toggle="tooltip">${row[fields.institutionShort]}</abbr>`
+          },
+          "filter": function (data, type, row) {
+            return institutions[row[fields.institutionShort]]
+          },
+          "sort": function (data, type, row) {
+            return `${row[fields.institutionShort]}-${padId(row[fields.record])}`
+          }
+        }
+      },
+      {
+        "className": "text-nowrap",
+        "render": {
+          "display": function (data, type, row) {
+            return `<a href="#${encodeURIComponent(row[fields.institutionShort])}-${encodeURIComponent(row[fields.record])}" class="copa-record" data-institution="${row[fields.institutionShort]}" data-record="${row[fields.record]}" style="cursor:pointer">${row[fields.record]}</a>`
+          },
+          "filter": function (data, type, row) {
+            return row[fields.record]
+          },
+          "sort": function (data, type, row) {
+            return `${row[fields.institutionShort]}-${padId(row[fields.record])}`
+          }
+        }
+      },
+      {
+        "className": "text-nowrap",
         "render": function (data, type, row) {
-          return `<abbr title="${institutions[row[fields.institutionShort]]}" data-bs-toggle="tooltip">${row[fields.institutionShort]}</abbr>`
+          return row[fields.patient]
         }
       },
       {
         "className": "text-nowrap",
-        "render": function(data, type, row) {
-          return `<a href="#${encodeURIComponent(row[fields.institutionShort])}-${encodeURIComponent(row[fields.record])}" class="copa-record" data-institution="${row[fields.institutionShort]}" data-record="${row[fields.record]}" style="cursor:pointer">${row[fields.record]}</a>`
-        }
-      },
-      {
-        "render": function(data, type, row) {
-          return `${row[fields.patient]}`
+        "render": function (data, type, row) {
+          return yearOfDate(row[fields.birthDate])
         }
       },
       {
         "className": "text-nowrap",
-        "render": function(data, type, row) {
-          return `${yearOfDate(row[fields.birthDate])}`
+        "render": function (data, type, row) {
+          return yearOfDate(row[fields.entryDate])
         }
       },
       {
         "className": "text-nowrap",
-        "render": function(data, type, row) {
-          return `${yearOfDate(row[fields.entryDate])}`
+        "render": function (data, type, row) {
+          let ret = yearOfDate(row[fields.leaveDate])
+          if ( row[fields['deathDate']] != '-' )
+            ret += '<span title="Tod in Anstalt" data-bs-toggle="tooltip" class="cursor-help"><sup>†</sup></span>'
+          return ret
+        }
+      },
+      {
+        "type": "empty-last",
+        "render": function (data, type, row) {
+          return row[fields.subsistenceClass].replace(/\D/g, '')
+        },
+      },
+      {
+        "type": "empty-last",
+        "className": "text-hyph",
+        "render": function (data, type, row) {
+          return row[fields.occupation]
+        }
+      },
+      {
+        "className": "text-hyph",
+        "render": function (data, type, row) {
+          return formatResidence( row[fields.residence] )
+        }
+      },
+      {
+        "type": "empty-last",
+        "render": function (data, type, row) {
+          return row[fields.familyStatus].replace(/^k\.\sA\.$/, '')
+        }
+      },
+      {
+        "type": "empty-last",
+        "render": function (data, type, row) {
+          return row[fields.faith]
         }
       },
       {
         "className": "text-nowrap",
-        "render": function(data, type, row) {
-          return `${yearOfDate(row[fields.leaveDate])}`
-        }
-      },
-      {
-        "className": "text-nowrap",
-        "render": function(data, type, row) {
-          return `${row[fields.deathDate] == '-' ? 'nein' : 'ja'}`
-        }
-      },
-      {
-        "render": function(data, type, row) {
-          return `${row[fields.occupation]}`
-        }
-      },
-      {
-        "render": function(data, type, row) {
-          return `${row[fields.residence]}`
-        }
-      },
-      {
-        "render": function(data, type, row) {
-          return `${row[fields.familyStatus]}`
-        }
-      },
-      {
-        "render": function(data, type, row) {
-          return `${row[fields.faith]}`
-        }
-      },
-      {
-        "render": function(data, type, row) {
+        "render": function (data, type, row) {
           return Array.from(row[row.length - 1]).map(x => `<abbr title="${textTypes[x]}" data-bs-toggle="tooltip">${x}</abbr>`).join(', ')
         }
       },
       {
         "className": "text-end",
-        "render": function(data, type, row) {
-          return `${row[row.length - 2]}`
+        "render": function (data, type, row) {
+          return row[row.length - 2]
         }
       }
     ]
   })
 
-  $(document).on('click', 'a.copa-record', function() {
-    let el = $(this)
-    showRecord(el)
+  // open record
+  $(document).on('click', 'a.copa-record', function () {
+    showRecord( $(this) )
     return false
   })
 
-  window.addEventListener('hashchange', function() {
+  window.addEventListener('hashchange', function () {
     if ( !document.location.hash || document.location.hash == '#' ) {
       $('#copa-record').hide()
       $('#copa-list').show()
       return
     }
     let wantRecord = document.location.hash.match(/^(#[a-z]{3}-.*)/)
-    if ( wantRecord != null && $('a[href="' + wantRecord[0] + '"]').length ) {
+    if ( wantRecord != null && $('a[href="' + wantRecord[0] + '"]').length )
       showRecord( $('a[href="' + wantRecord[0] + '"]').first() )
-    }
   })
 
   function showRecord (el) {
     let record = dt_rec.rows().data().toArray().filter(row => row[fields.institutionShort] == el.data('institution') && row[fields.record] == el.data('record') )[0]
-    $('[data-field]').each( function() {
-      if ( $(this).data('field') == 'institution' )
-        $(this).html( `<abbr title="${institutions[record[fields[$(this).data('field')]]]}" data-bs-toggle="tooltip">${record[fields[$(this).data('field')]]}</abbr>` )
-      else
-        $(this).html( record[fields[$(this).data('field')]] )
+    $('[data-field]').each( function () {
+      let field = $(this).data('field')
+      let content = record[fields[field]]
+      if ( field == 'leaveDate' && record[fields['deathDate']] != '-' )
+        content += '<span title="Tod in Anstalt" data-bs-toggle="tooltip" class="cursor-help"><sup>†</sup></span>'
+      $(this).html( content )
     })
     history.pushState({ "foo": "bar"}, "Detailansicht Patientenakte" )
     document.location.hash = el.attr('href')
-    $.get( base + "list.json", function(data) {
-      let filtered = data.data.filter(row => row[fields.institutionShort] == el.data('institution') && row[fields.record] == el.data('record') )
+    $.get( base + "list.json", function (data) {
+      let filtered = data.data.filter( row => row[fields.institutionShort] == el.data('institution') && row[fields.record] == el.data('record') )
       var dt_rec_single = $('#record-list-single').DataTable({
         "destroy": true,
         "processing": true,
         "data": filtered,
-        "initComplete": function(settings, json) {
+        "initComplete": function (settings, json) {
           $('[data-bs-toggle="tooltip"]').tooltip()
-          if (this.api().page.info().pages === 1) {
-            $('#record-list-single_length').hide()
-            $('#record-list-single_info').hide()
-            $('#record-list-single_paginate').hide()
-          }
+          if (this.api().page.info().pages === 1)
+            $('#record-list-single_length, #record-list-single_info, #record-list-single_paginate').hide()
         },
         "language": dt_l10n,
         "columns": [
           {
-            "type": "natural",
+            "type": "natural-nohtml",
             "render": {
-              "display": function(data, type, row) {
-                return `<code style="font-size:smaller"><a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">${row[fields.id]}</a></code>`
+              "display": function (data, type, row) {
+                return `<code><a href="${base}${row[fields.dirname]}/${row[fields.filename]}.html">${row[fields.id]}</a></code>`
               },
-              "sort": function(data, type, row) {
+              "filter": function (data, type, row) {
                 return row[fields.id]
+              },
+              "sort": function (data, type, row) {
+                return padId(row[fields.id])
               }
             }
           },
           {
-            "render": function(data, type, row) {
+            "render": function (data, type, row) {
               let ret = `<abbr title="${textTypes[row[fields.textType]]}" data-bs-toggle="tooltip">${row[fields.textType]}</abbr>`
               let domain_short = row[fields.domain].replace(/^(?:offizieller|privater|sonstiger)(?:\/(?:offizieller|privater|sonstiger))? Brief(\s*(?:[:,–-]|und)\s*)?/, '')
                                                    .replace(/^\s*\((.*)\)$/, '$1')
@@ -504,29 +590,36 @@ $( function() {
             }
           },
           {
-            "render": function(data, type, row) {
-              return `${row[fields.sender]}`
+            "render": function (data, type, row) {
+              return row[fields.sender]
+            }
+          },
+          {
+            "render": function (data, type, row) {
+              return row[fields.addressee]
             }
           },
           {
             "render": {
-              "display": function(data, type, row) {
-                return `${row[fields.dateSent]}`
+              "display": function (data, type, row) {
+                return row[fields.dateSent]
               },
-              "sort": function(data, type, row) {
+              "sort": function (data, type, row) {
                 return row[fields.dateSentSort]
               }
             }
           },
           {
-            "render": function(data, type, row) {
-              return `${row[fields.placeSent]}`
+            "type": "empty-last",
+            "render": function (data, type, row) {
+              return row[fields.placeSent]
             }
           },
           {
+            "className": "text-nowrap",
             "orderable": false,
-            "render": function(data, type, row) {
-              return `${row[fields.extentPages]} S., ca. ${row[fields.extentWords]} Wörter`
+            "render": function (data, type, row) {
+              return `${row[fields.extentPages]} S., ca. ${row[fields.extentWords]} W.`
             }
           },
         ]
@@ -537,7 +630,8 @@ $( function() {
     })
   }
 
-  $(document).on('click', '#copa-record-close', function() {
+  // close record button
+  $(document).on('click', '#copa-record-close', function () {
     // remove hash fragment from window.location
     history.pushState("", document.title, window.location.pathname + window.location.search)
     $('#copa-record').hide()
@@ -545,11 +639,12 @@ $( function() {
     $('html, body').animate({scrollTop: '0px'}, 100)
   })
 
+  // initialize bootstrap’s tooltips
   const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
   const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
 })
 
-$( function() {
+$( function () {
   // search
   $('#search-error').hide()
 
@@ -621,7 +716,7 @@ $( function() {
     $.ajax({
       url: dstar,
       data: { q: qf, fmt: 'json', limit: limit, start: start },
-    }).done( function(data) {
+    }).done( function (data) {
       let head = '<div class="result-head mb-2 text-center">'
       if ( data.nhits_ )
         head += `${parseInt(data.start) + 1}–${data.end_} von ${data.nhits_} Treffern`
@@ -721,7 +816,7 @@ $( function() {
       })
       $('#search-in-progress').hide()
       $('#results').html( head + (data.nhits_ ? pager : '') + hits.join('') + (data.nhits_ ? pager : '') )
-    }).fail( function(a, b, c) {
+    }).fail( function (a, b, c) {
       $('#search-in-progress').hide()
       let msg = a.responseText.match(/<pre>(.*?)<\/pre>/s)
       $('#search-error').html( msg[1] ).show()

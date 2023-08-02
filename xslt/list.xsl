@@ -39,8 +39,20 @@
     <xsl:text>&#x9;</xsl:text>
 
     <!-- patient -->
-    <!--<xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName)"/>-->
     <xsl:value-of select="normalize-space(concat(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:forename, ' ', /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:surname))"/>
+    <xsl:text>&#x9;</xsl:text>
+
+    <!-- sex -->
+    <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/@sex)"/>
+    <xsl:text>&#x9;</xsl:text>
+
+    <!-- parents -->
+    <xsl:value-of select="normalize-space(
+                            substring-after(
+                              /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:state/t:p[starts-with(., 'Eltern: ')],
+                              'Eltern: '
+                            )
+                          )"/>
     <xsl:text>&#x9;</xsl:text>
 
     <!-- birth date -->
@@ -83,6 +95,15 @@
                           )"/>
     <xsl:text>&#x9;</xsl:text>
 
+    <!-- subsistence class -->
+    <xsl:value-of select="normalize-space(
+                            substring-after(
+                              /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:state/t:p[starts-with(., 'Verpflegungsklasse: ')],
+                              'Verpflegungsklasse: '
+                            )
+                          )"/>
+    <xsl:text>&#x9;</xsl:text>
+
     <!-- faith -->
     <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:faith)"/>
     <xsl:text>&#x9;</xsl:text>
@@ -108,14 +129,10 @@
     <xsl:text>&#x9;</xsl:text>
 
     <!-- sender -->
-    <xsl:choose>
-      <xsl:when test="string-length(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='sender'])">
-        <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='sender'])"/>
-      </xsl:when>
-      <xsl:otherwise>
-        <xsl:text>[no name given]</xsl:text>
-      </xsl:otherwise>
-    </xsl:choose>
+    <xsl:variable name="sender">
+      <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='sender']"/>
+    </xsl:variable>
+    <xsl:value-of select="normalize-space($sender)"/>
     <xsl:text>&#x9;</xsl:text>
 
     <!-- date sent -->
@@ -152,6 +169,13 @@
     <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:settlement[@type='sent'])"/>
     <xsl:text>&#x9;</xsl:text>
 
+    <!-- addressee -->
+    <xsl:variable name="addressee">
+      <xsl:apply-templates select="/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='addressee']"/>
+    </xsl:variable>
+    <xsl:value-of select="normalize-space($addressee)"/>
+    <xsl:text>&#x9;</xsl:text>
+
     <!-- extent: pages -->
     <xsl:value-of select="count(//t:pb)"/>
     <xsl:text>&#x9;</xsl:text>
@@ -164,17 +188,6 @@
 
     <xsl:if test="1=0">
       <xsl:text>&#x9;</xsl:text>
-      <!-- addressee -->
-      <xsl:choose>
-        <xsl:when test="string-length(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='addressee'])">
-          <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:persName[@type='addressee'])"/>
-        </xsl:when>
-        <xsl:otherwise>
-          <xsl:text>[no name given]</xsl:text>
-        </xsl:otherwise>
-      </xsl:choose>
-      <xsl:text>&#x9;</xsl:text>
-
       <!-- date received -->
       <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:creation/t:date[@type='received'])"/>
       <xsl:text>&#x9;</xsl:text>
@@ -191,6 +204,10 @@
 
     <!-- line break -->
     <xsl:text>&#x0a;</xsl:text>
+  </xsl:template>
+
+  <xsl:template match="t:persName[@type='sender' or @type='addressee']/t:surname[string-length(.)=0]">
+    <xsl:text>[-]</xsl:text>
   </xsl:template>
 
   <!--

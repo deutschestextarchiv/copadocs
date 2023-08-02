@@ -69,6 +69,19 @@ abbr { text-decoration-style:dotted; cursor:help }
 blockquote { border-left:5px solid #ddd; margin-left:3rem; padding-left:1rem }
 .blockquote-footer { text-align:right }
 
+.cursor-help { cursor:help }
+.text-hyph {
+  word-wrap:break-word;
+  overflow-wrap:break-word;
+  -webkit-hyphens:auto;
+  -moz-hyphens:auto;
+  hyphens:auto;
+  -moz-hyphenate-limit-chars: 6 3 2;     /* as of 2023-01-30: not yet supported */
+  -webkit-hyphenate-limit-chars: 6 3 2;  /* as of 2023-01-30: not yet supported */
+  -ms-hyphenate-limit-chars: 6 3 2;
+  hyphenate-limit-chars: 6 3 2;
+}
+
 /* navigation */
 .navbar-brand img { max-width:95vw }
 .nav-link { font-size:12pt; margin:0 10px }
@@ -106,3 +119,18 @@ a.btn:hover { text-decoration:none }
   .footer-box { flex-direction:column }
   .footer-col img { width:80% }
 }
+
+/* documentation */
+table.copa-tags > thead {
+  --bs-table-color:#fff;
+  --bs-table-bg:var(--base-color);
+  --bs-table-border-color:var(--base-color);
+  border-color:var(--base-color);
+}
+table.copa-tags td:first-child { font-family:monospace; font-size:11pt; font-weight:bold }
+table.copa-tags > tbody > tr > td:nth-child(1) { width:15% }
+table.copa-tags > tbody > tr > td:nth-child(2) { width:25% }
+table.copa-tags > tbody > tr > td > table > tbody > tr > td:nth-child(1) { width:20% }
+table.copa-tags > tbody > tr > td > table > tbody > tr > td:nth-child(2) { width:25% }
+table.copa-tags > tbody > tr > td > table > tbody > tr > td:nth-child(3) td:nth-child(1) { width:30% }
+table.copa-tags code { white-space:pre-wrap }
