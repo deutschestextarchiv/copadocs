@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham13925j03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>13925</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl Franz Heinrich <surname>J.</surname></persName>
+<date type="sent">ca1922-40</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname/></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham13925j">
+<persName>
+<forename>Karl Franz Heinrich</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1879"/>
+<death cert="unknown"/>
+<occupation>Krankführer</occupation>
+<residence><geo decls="#WGS">54.3227085 10.135555</geo>Kiel</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Arbeiter, Säufer</p>
+<p>Anstalt: <date from="1922" to="1940">1922-1940</date></p>
+<p>Brieftypen: pp, po, lebenslauf</p>
+</state>
+<trait><p>Progressive Paralyse, Größenideen (1922)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um eine Arbeitsstelle in der Anstalt und um Kontakt zu einem Pastor
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham13925j03a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="ham13925j03b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<p> Sollte es <w>mög lich</w> sein das ich<lb break="yes"/>hier <w>vie llei cht</w> doch
+                    <w>irgend welche</w><lb break="yes"/>Arbeit so <w>lan
+                    ge</w> erhalte bis<lb break="yes"/>alles andere <w>gere gelt</w> ist wäre<lb break="yes"/>es mir sehr lieb. <w>Viellei cht</w> könnte<lb break="yes"/>He<hi rendition="#i">rr </hi><hi rendition="#i">Dr </hi>Herrn Stabrat inspeck<lb break="no"/>tor <surname><hi rendition="#i">B.</hi></surname> meine
+                    Bitte<lb break="yes"/>hier Arbeit zu <w>erha lten</w> mal<lb break="yes"/>vortragen. da ich im <w>Maschinen<lb break="no"/>fach</w> und Kesselanlagen<lb break="yes"/>gute Kenntnisse besitze<lb break="yes"/>und meine Pflicht treu
+                    <w>er fü llen</w><lb break="yes"/>würde denn ich mochte ja <w>so wi<lb break="no"/>so</w> nicht gerne von Lagenhorn<lb break="yes"/>fort. darum
+                habe ich ja schon<lb break="yes"/>in meinem ersten Brief<lb break="yes"/>im vorigen
+                Jahr den Wunsch<lb break="yes"/><w>geäu ßert</w> hier Arbeit zu erhalten<lb break="yes"/>auch in <del>Mal</del>
+<w>Ma ler</w> und<lb break="yes"/><w>Zimmer manns arbeiten</w>
+<pb facs="#image_012"/>bin ich <w>be wandert</w>. Am<lb break="yes"/>liebsten wäre
+                mir allerdings<lb break="yes"/>Arbeit im Maschinenfach<lb break="yes"/>habe auf der
+                deutschen Werft<lb break="yes"/><w>selbststän dig</w> einen Elecktrisch<lb break="yes"/>betriebenen Compressor<lb break="yes"/>betreut auch schon andere<lb break="yes"/>Maschinen.<lb break="yes"/><seg ana="#signed"><hi rendition="#i"><hi rendition="#c">Carl <surname>J.</surname></hi></hi></seg></p>
+<p>Bitte nochmals mir die herzliche<lb break="yes"/>Bitte mit Herr Pastor
+                        <surname>S.</surname><lb break="yes"/>in <w>Ver
+                    bindung</w> von hier aus<lb break="yes"/>treten zu dürfen zwecks Rückspruch<lb break="yes"/>über den einigen Aufbau des<lb break="yes"/>Christlichen Glaubens
+                über die<lb break="yes"/>ganze Erde und <w>Besei tigung</w><lb break="yes"/>der
+                Vielfältigen <w>Glaubens<lb break="no"/>richtun gen</w> und deren<lb break="yes"/>Bekämpfung Gibt nur<lb break="yes"/>einen Allmächtigen Gott der das<lb break="yes"/>ganze Weltall lenkt.</p>
+</body>
+</text>
+</TEI>

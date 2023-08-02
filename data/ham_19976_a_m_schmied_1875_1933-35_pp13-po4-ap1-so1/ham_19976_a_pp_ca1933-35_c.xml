@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham19976a18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>19976</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">August Wilhelm <surname>A.</surname></persName>
+<date type="sent">ca1933-35</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham19976a">
+<persName>
+<forename>August Wilhelm</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1938"/>
+<occupation>Schmied, Handelsmann</occupation>
+<residence><geo decls="#WGS">54.1948456 9.0929015</geo>Heide in Holstein</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: geschieden</p>
+<p>Eltern: Vater: Schuhmacher</p>
+<p>Anstalt: <date from="1933" to="1935">1933-35</date></p>
+<p>Brieftypen: pp, po, ap, Lebenslauf</p>
+</state>
+<trait><p>Psychopathie (1933), chronische Manie, Debilität (1938)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Notizen auf einer Karte
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham19976a18a.jpg" xml:id="image_064"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_064"/>
+<p>Meine Blutsverwandschaf. Schwester<lb break="yes"/>u Bruder in Heide nicht mehr unter<lb break="yes"/>die lebenden! Kommen diese Tiere<lb break="yes"/>bei Euch im Garten, oder in Eure Wiesen,<lb break="yes"/>am Hau<lb break="no"/>se
+                </p>
+<p>Grüße deinen Tagelöhner August <surname>H.</surname>. Ich bringe Ihm,<lb break="yes"/>ein Taschenmesser, zu <w>Um tauschen</w> mit. Klasse. grüste<lb break="yes"/>Ihn. Ruhst wohl von die Strapazen aus: Grüße dein<lb break="no"/>e
+                Brüder. ferdinand u familie vor allen Dingen.<lb break="yes"/><seg ana="#salute">Mit
+                    Gruß.</seg>
+<seg ana="#signed"><hi rendition="#i">Wilh. <surname>A.</surname>.</hi></seg>
+</p>
+<p>Ich habe in Hamburg. Beim früheren Gesel<lb break="no"/>len, bei mir. Einen Haufen
+                neue Huf<lb break="no"/>eisen. Wenn ich, in die Heimath komme Jo<lb break="no"/>hann
+                    <surname>B.</surname>, bist du wohl wieder </p>
+<p>mein Mann. Mit den Teetopf, muß ich ja auch noch<lb break="yes"/>wieder grade
+                machen? − Wars in friedrichstadt mit<lb break="yes"/>Pferden. November-Markt?
+                Handelt noch mit Martin<lb break="yes"/><surname>L.</surname> von Hier? Ich habe,
+                mit mein rechtes Bein, augenblick<lb break="no"/>lich, zu<lb break="yes"/>thun. </p>
+<p>Der <surname>f.</surname><lb break="yes"/><seg ana="#salute">fröhliche u vergnügte feiertage wünschend.</seg> <seg ana="#signed">d. O.</seg>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham15555s01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>15555</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Erich <surname>S.</surname></persName>
+<date type="sent">11.05.1925</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham15555s">
+<persName>
+<forename>Erich</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1898"/>
+<death cert="unknown"/>
+<occupation>Streckenarbeiter; Schiffer</occupation>
+<residence><geo decls="#WGS">53.0791965 18.2246086</geo>Schulitz</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1925" to="1930">1925-30</date></p>
+<p>Brieftypen: pp, po, Notiz</p>
+</state>
+<trait><p>angeborener Schwachsinn (1918), debiler Psychopath, evtl. hysterische Anfälle (1925)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>offizieller Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Der Schreiber versucht den Arzt davon zu überzeugen, dass er die
+                    Aktentasche nicht gestohlen hat. </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham15555s01.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><add hand="arzt">11. V 37</add></dateline>
+<salute>Lieber Doktor</salute>
+</opener>
+<p><del>s</del> Ich habe<lb break="yes"/><lb break="yes"/>die Aktentachsche
+                    <del>da</del><lb break="yes"/>nicht gestohlen. <del>s</del>Statsanwalt<lb break="yes"/>hatt sie
+                    <w>gestoh len</w>, ich ,war<lb break="yes"/>an dem tag in <del>Jakan</del><lb break="yes"/><hi rendition="#u" style="arzt">japan</hi> und spielte mit<lb break="yes"/>den Madchen und arbei<lb break="no"/>te<del>m</del>n.
+                    <space/> <del>Sta</del><lb break="yes"/><space/> <seg ana="#salute">grüßt
+                    kann</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Erich</seg>
+<del>j</del></hi><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Jumbo</seg>.</hi></p>
+<p><add hand="arzt"><hi rendition="#r"><surname>S.</surname>
+                    10. V 25</hi></add></p>
+</body>
+</text>
+</TEI>

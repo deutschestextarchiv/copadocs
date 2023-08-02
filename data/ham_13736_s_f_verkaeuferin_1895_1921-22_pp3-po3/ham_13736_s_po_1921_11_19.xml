@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham13736s01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>13736</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Emma Trina Hermine <surname>S.</surname></persName>
+<date type="sent">19.11.1921</date>
+<date type="received">n.a.</date>
+<persName type="addressee">behandelnder Arzt: Dr. M. Horowitz</persName>
+<settlement type="sent">Hamburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="ham13736s">
+<persName>
+<forename>Emma Trina Hermine</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1895"/>
+<death cert="unknown"/>
+<occupation>Verkäuferin</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Trinker, litt an Säuferwahnsinn</p>
+<p>Anstalt: <date from="1921" to="1922">1921-22</date></p>
+<p>Brieftypen: ap, po, pp</p>
+</state>
+<trait><p>Basedowsche Erkrankung, Hysterie, Tobsucht (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Brief an den Arzt, Bitte um Weiterleitung eines Schreibens
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham13736s01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="ham13736s01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Langenhorn
+                    19.11.21</hi></hi></dateline>
+<salute>Herrn Dr. <surname>H.</surname><space/> Hamburg.</salute>
+</opener>
+<p><add place="top"><hi rendition="#i">Adr. Herrn Dr. M. </hi><surname><hi rendition="#i">H.</hi></surname>
+<hi rendition="#u">Rechtsanwalt<lb break="yes"/><hi rendition="#i">Hamburg
+                            Kaiser</hi>
+<hi rendition="#i">Wi</hi>lh<hi rendition="#i">elm</hi>str.
+                23/31.</hi></add></p>
+<p><hi rendition="#i">Ihr Schreiben</hi>
+<hi rendition="#i">vom</hi> 14.11. d. I. <hi rendition="#i">er</hi><lb break="no"/>h<hi rendition="#i">alten</hi>, sowie das<hi rendition="#i"> Schreiben</hi>
+<hi rendition="#i">von</hi> d<hi rendition="#i">er</hi><lb break="yes"/><hi rendition="#i">Pol</hi><hi rendition="#i">i</hi><hi rendition="#i">zei</hi>,
+                welches ich <hi rendition="#i">w</hi>ied<hi rendition="#i">er</hi> mit <w>zurück<lb break="no"/>send<hi rendition="#i">e</hi></w>. <hi rendition="#i">Bitte Herrn
+                    Dr. </hi><surname><hi rendition="#i">H.</hi></surname><lb break="yes"/>höfflichst, nachdem meine <hi rendition="#i">Schw</hi>est<hi rendition="#i">er</hi><lb break="yes"/>bei Ihnen <hi rendition="#i">war</hi>, sofort bei der
+                    <hi rendition="#i">Staats</hi><lb break="no"/><hi rendition="#i">anwalt</hi>sch<hi rendition="#i">aft</hi> einzu<hi rendition="#i">rei</hi>chen, d<hi rendition="#i">a</hi>ß meine<lb break="yes"/><hi rendition="#i">Sa</hi>che <hi rendition="#i">b</hi>eschleunigt <hi rendition="#i">wir</hi>d, und <hi rendition="#i">vor</hi>
+<hi rendition="#i">all</hi>em<lb break="yes"/>das erst <hi rendition="#i">Herr
+                        </hi><surname><hi rendition="#i">B.</hi></surname><hi rendition="#i">
+                    ver</hi>nom̄en<lb break="yes"/>wird.<lb break="yes"/><hi rendition="#r"><hi rendition="#i">Ho</hi>ch<hi rendition="#i">a</hi>chtungs<hi rendition="#i">voll</hi></hi><lb break="yes"/><hi rendition="#c">Em<hi rendition="#i">y</hi>
+<surname><hi rendition="#i">S.</hi></surname></hi><lb break="yes"/><hi rendition="#i">Staatskrankenanstalt Langenhorn.</hi><lb break="yes"/><hi rendition="#i">Frauenabteil H.</hi>8. <space/>
+<hi rendition="#i">b. W.</hi></p>
+<pb facs="#image_002"/>
+<p><hi rendition="#i">Sowie</hi> ich hier<hi rendition="#i"> fort</hi>
+                    kom̄e,<lb break="yes"/>Gebe ich <hi rendition="#i">Nac</hi>h<hi rendition="#i">ric</hi>h<hi rendition="#i">t</hi>.<lb break="yes"/><hi rendition="#c">d. <hi rendition="#i">O</hi>.</hi>
+</p>
+</body>
+</text>
+</TEI>

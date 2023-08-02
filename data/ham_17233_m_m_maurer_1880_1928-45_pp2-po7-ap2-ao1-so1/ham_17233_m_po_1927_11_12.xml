@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham17233m10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>17233</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Reinhold <surname>M.</surname></persName>
+<date type="sent">12.11.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Obervormundschaftsbehörde: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Hamburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham17233m">
+<persName>
+<forename>Reinhold</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1880"/>
+<death when="1945"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">50.9541558 14.650553</geo>Leutersdorf</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: <!--Beruf/unehelich/Vermögen--></p>
+<p>Anstalt: <date from="1928" to="1945">1928-32;1935-45</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>[Epilepsie] (1913), Vergiftungsideen (1929)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beschwerdeschreiben
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham17233m10a.jpg" xml:id="image_024"/>
+<graphic mimeType="image/jpg" url="ham17233m10b.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="ham17233m10c.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="ham17233m10d.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Hamburg</hi> d 12/1127</hi></dateline>
+<salute>An die Ober-Vormundschaft<lb break="no"/>behörde in <hi rendition="#u" style="arzt">Berlin:</hi><add hand="arzt">?</add></salute>
+</opener>
+<p>Beschwerde des<lb break="yes"/>Maurergesellen<lb break="yes"/>Reinhold <hi rendition="#i"><surname>M.</surname></hi><lb break="yes"/>gegen die Vor<lb break="no"/>mundschaftsbehörde<lb break="yes"/>zu
+                Hamburg<lb break="yes"/>Damtorwall 41.III<lb break="yes"/>Geschäftsnum̄er<lb break="yes"/><hi rendition="#i">M. 8337.</hi><lb break="yes"/><hi rendition="#r">Gründe:<lb break="yes"/>Unterzeichneter<lb break="yes"/>befindet sich seit</hi>
+<pb facs="#image_025"/>Junie 1926. in<lb break="yes"/>hießiger Irrenan<lb break="no"/>stalt, am 11 Februar<lb break="yes"/>1927 wurde Herr<lb break="yes"/>Bruno Ludwig<lb break="yes"/><hi rendition="#u"><surname>K.</surname></hi> Hamburg<lb break="yes"/>Hasselbroßstraße
+                109. <hi rendition="#i">I</hi><lb break="yes"/>zu meinen Pfleger<lb break="yes"/>ernant, der mich trotz<lb break="yes"/>nehrmaligen Schreiben<lb break="yes"/>vom Februar und März<lb break="yes"/>27, noch nicht <hi rendition="#u">besucht</hi><lb break="yes"/>noch <hi rendition="#u">benachrichticht</hi><lb break="yes"/>hat, eine dießbezügliche<lb break="yes"/>Beschwerde an die<lb break="yes"/>Vor<del>s</del>mundschaftbehörde <pb facs="#image_026"/> zu Hamburg
+                auch<lb break="yes"/>fruchtlos verlaufen<lb break="yes"/>hat, und noch von<lb break="yes"/>keiner Stelle be<lb break="no"/>antwortet wurde<lb break="yes"/>Bitte ich Sie meine<lb break="yes"/>Beschwerde zu beant<lb break="no"/>worten.<lb break="yes"/><seg ana="#salute">Hochachtunsvoll</seg><lb break="yes"/><seg ana="#signed">Ernst <hi rendition="#u">Reinhold</hi></seg>
+<hi rendition="#i"><surname>M.</surname></hi><lb break="yes"/>Staatskrankenanstalt<lb break="yes"/><hi rendition="#i">Hamburg.</hi> Fridrichsbg<lb break="yes"/>Haus 7<lb break="yes"/><hi rendition="#r">unten</hi>
+</p>
+<pb facs="#image_027"/>
+<p>An die<lb break="yes"/>Ober-Vormundschafts<lb break="no"/><hi rendition="#c">behörde<lb break="yes"/>in <hi rendition="#u" style="arzt">Berlin</hi><add hand="arzt">?</add></hi>
+</p>
+<p><add place="margin"><add hand="arzt">zur<lb break="yes"/><hi rendition="#u">Akte!</hi><lb break="yes"/>20.II.13<unclear>Wi</unclear></add></add></p>
+<p><add place="margin">Abs.  Haus 7 unten<lb break="yes"/><hi rendition="#c">Fridrichsbeg</hi></add></p>
+</body>
+</text>
+</TEI>

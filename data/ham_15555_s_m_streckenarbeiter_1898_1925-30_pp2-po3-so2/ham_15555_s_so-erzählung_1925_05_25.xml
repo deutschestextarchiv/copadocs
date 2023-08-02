@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham15555s07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>15555</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Erich <surname>S.</surname></persName>
+<date type="sent">29.05.1925</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent"/>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham15555s">
+<persName>
+<forename>Erich</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1898"/>
+<death cert="unknown"/>
+<occupation>Streckenarbeiter; Schiffer</occupation>
+<residence><geo decls="#WGS">53.0791965 18.2246086</geo>Schulitz</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1925" to="1930">1925-1930</date></p>
+<p>Brieftypen: po, pp, Notiz</p>
+</state>
+<trait><p>angeborener Schwachsinn (1918), debiler Psychopath, evtl. hysterische Anfälle (1925)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil_grey" scope="minor" scribe="arzt1"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt2"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt3"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Erzählung</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er ist im Krieg aus dem Lazarett geflohen, wurde aber wieder eingefangen.
+                    Wenn er zu einem offiziellen Termin muss, will er sich wehren und mit den Schuhen werfen.
+                    Er war im Krieg, genau wie sein Bruder.
+                    Er kann nur nachschreiben, nicht selber formulieren.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham15555s07a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="ham15555s07b.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><add hand="arzt1"><hi rendition="#i"><hi rendition="#u" style="arzt2"><hi rendition="#c"><surname>S.</surname> 29.5.25 auf dem <unclear reason="faded"/></hi></hi></hi></add></dateline>
+<salute/>
+</opener>
+<p><add hand="arzt3" place="top"><hi rendition="#r">7</hi></add><lb break="yes"/>In der Kriegszeit − im Sommer − Abends −<lb break="yes"/>bin ich in Stettin aus dem Lazareth weg<lb break="no"/>gelaufen
+                − ich sprang aus dem Fenster in<lb break="yes"/>den Garten, kletterte über
+                den Zaun und<lb break="yes"/>rannte im Hemd auf die Straße − die Leute<lb break="yes"/>lachten − dann kamen von allen Seiten<lb break="yes"/>Soldaten und fingen mich − auf der<lb break="yes"/>Wache mußte ich etwas
+                einnehmen − wurde<lb break="yes"/>in viele decken gewickelt und kam wieder<lb break="yes"/>ins Lazareth. −</p>
+<p>Ausgefressen habe ich nichts − aber ich kenne<lb break="yes"/>den Kerl wieder,
+                wenn <hi rendition="#u" style="arzt2">ich raus</hi>komme<lb break="yes"/>schieß<hi rendition="#u" style="arzt2">e ich den tot</hi>. − §
+                51. will ich nicht<lb break="yes"/>haben, sonst sitze ich fest, wenn ich Strafe
+                habe<lb break="yes"/>komme ich wieder raus. das darfst du<lb break="yes"/>aber dem
+                doktor nicht sagen.− Wenn ich<lb break="yes"/>zum Termin komme mache ich
+                schon vorher<lb break="yes"/>meinen Schuh los − den werfe ich dann<lb break="yes"/>dem Staatsanwalt an den Kopf. −</p>
+<p>Wenn der doktor nicht einen andern für mich<lb break="yes"/>schreiben läßt kommt
+                mein Vater mit dem<lb break="yes"/>Rechtsanwalt der verklagt dann den doktor.<lb break="yes"/>Meine Schwester ist an der Bank als Kontoris<lb break="no"/>tinn.− die Siepe hat mich schon öfter<lb break="yes"/>aufgegriffen, weil
+                ich den Finger in den<lb break="yes"/>Mund steckte, und die Zunge ausstrekte</p>
+<pb facs="#image_013"/>
+<p><add hand="arzt3" place="top">8.</add> Einmal habe ich schon Termin gehabt von
+                der<lb break="yes"/>Strafkammer III. die meinten aber ich hätte<lb break="yes"/>einen Vogel und schickten mich wieder weg<lb break="yes"/>Im Felde war ich auch
+                − in Frankreich und<lb break="yes"/>in Rußland; mein Bruder war Feldwebel<lb break="yes"/>aber bei einer andern Kompagnie − Ich war<lb break="yes"/>Unteroffizier. − Ich bin nicht<del>t</del> verrückt aber<lb break="yes"/>Pepita, der hat so viele Ringe an den<lb break="yes"/>Fingern − fehlt nur
+                noch einer durch die Nase.−<lb break="yes"/><seg ana="#metaling">des ich
+                    nicht <del>s</del>schreiben und lesen kann steht<lb break="yes"/>in meinen
+                    Akten, ich kann nur das nach<lb break="no"/>schreiben was ein anderer mir
+                    vorschreibt.</seg></p>
+</body>
+</text>
+</TEI>

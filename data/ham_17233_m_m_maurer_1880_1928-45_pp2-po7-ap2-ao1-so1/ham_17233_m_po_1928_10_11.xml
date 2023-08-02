@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham17233m07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>17233</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Reinhold <surname>M.</surname></persName>
+<date type="sent">11.10.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Amtsgericht: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham17233m">
+<persName>
+<forename>Reinhold</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1880"/>
+<death when="1945"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">50.9541558 14.650553</geo>Leutersdorf</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: <!--Beruf/unehelich/Vermögen--></p>
+<p>Anstalt: <date from="1928" to="1945">1928-32;1935-45</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>[Epilepsie] (1913), Vergiftungsideen (1929)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Gerichtstermin
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham17233m07a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="ham17233m07b.jpg" xml:id="image_018"/>
+<graphic mimeType="image/jpg" url="ham17233m07c.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Hamburg</hi> Langenhorn d 11/10 28.</hi></dateline>
+<salute><hi rendition="#c">An das Amtsgericht<lb break="yes"/>zu <hi rendition="#i">Hamburg</hi>.</hi></salute>
+</opener>
+<p>Unterzeichneter bittet das<lb break="yes"/>Amtsgericht zu Hamburg<lb break="yes"/>um
+                Prüfung seiner<lb break="yes"/>Akten. </p><p><hi rendition="#r">Befinde mich seit Junie 1926.<lb break="yes"/>in den Staatskranken<lb break="no"/>Anstalten Fridrichsberg und<lb break="yes"/>Langenhorn. Bin
+                    vollständig<lb break="yes"/>gesund und arbeitsfähig.<lb break="yes"/>die von
+                    mir bekannenen<lb break="yes"/>Diebstähle sind meines<lb break="yes"/>Erachtens durch die<lb break="yes"/>Amnestie von Dezember<lb break="yes"/>1926. erlöschen, die mir<lb break="yes"/>zur Last gelegten Sitten<lb break="no"/>vergehen erkläre ich für<lb break="yes"/>eine Erfindung
+                        böswill<lb break="no"/>icher Menschen,</hi><lb break="yes"/><hi rendition="#c">(wenden)</hi>
+<pb facs="#image_018"/><hi rendition="#r">gegen die ich strafrechtlich vorgehen<lb break="yes"/>werde. Aus diesen Grunde<lb break="yes"/>bitte ich um
+                    Einsetzung<lb break="yes"/>eines Termins damit daß<lb break="yes"/>Gericht
+                    über meine<lb break="yes"/>Person entscheiden kann.</hi>
+</p>
+<p><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Ernst Reinhold <hi rendition="#i"><surname>M.</surname></hi></seg><lb break="yes"/>Maurergeselle<lb break="yes"/>geb. 11 April. 1880.<lb break="yes"/>zu Leuterstorf<lb break="yes"/>(Sachsen)<lb break="yes"/>z.H.
+                    Staatskraken Anstalt<lb break="yes"/>Langenhorn Haus 18.</hi></p>
+<pb facs="#image_019"/>
+<p><hi rendition="#i">Einschreiben:<lb break="yes"/>An<lb break="yes"/><hi rendition="#c">Das Amtsgericht<lb break="yes"/>in <hi rendition="#u">Hamburg</hi></hi><lb break="yes"/><hi rendition="#r">Sievekinksplatz</hi></hi>
+</p>
+<p><add hand="arzt"><unclear>wr!</unclear><lb break="yes"/><unclear/><lb break="yes"/>15.X.28.</add></p>
+<p><add hand="arzt"><hi rendition="#i"><surname>M.</surname> Reinh.<lb break="yes"/>M. 18.</hi></add></p>
+<p>Abs. Reinhold <hi rendition="#i"><surname>M.</surname></hi>
+<w>Staatskraken Anstald</w><lb break="yes"/>StaatskrankenAnstalt. Langenhorn<lb break="yes"/><hi rendition="#c">Haus' 18.</hi></p>
+</body>
+</text>
+</TEI>

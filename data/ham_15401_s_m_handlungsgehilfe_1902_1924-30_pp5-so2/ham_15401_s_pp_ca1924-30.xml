@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham15401s03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>15401</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Walter <surname>S.</surname></persName>
+<date type="sent">ca1924-30</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname/></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham15401s">
+<persName>
+<forename>Walter</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1902"/>
+<death cert="unknown"/>
+<occupation>Handlungsgehilfe</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater Schuhmacher</p>
+<p>Anstalt: <date from="1924" to="1930">1924-1930</date></p>
+<p>Brieftypen: pp, Lebenslauf</p>
+</state>
+<trait><p>Haftpsychose, Wahnvostellungen (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Schreiber will dem Adressaten die Wahrheit über dessen Vater erzählen. Der Adressat soll dazu am besten zu Besuch kommen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham15401s03.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<p>
+<hi rendition="#i">Ich weiß, das du mich nicht aus freien</hi><lb break="yes"/><hi rendition="#i">Willen verlassen hast. Du bist durch</hi><lb break="yes"/><hi rendition="#i">böse Menschen und gegen deinen Willen</hi><lb break="yes"/><hi rendition="#i">von mir gerissen worden. Etwas, das</hi><lb break="yes"/><hi rendition="#i">stärker war als unsere Liebe … "</hi></p>
+<p>Neben bei: …....<lb break="yes"/>Wenn Du den richtigen Sachverhalt wissen<lb break="yes"/>möchtest, wie Dein Vater es mit mir ge<lb break="no"/>trieben hat,
+                das er der Schuldige ist und<lb break="yes"/>nicht ich wie du ja auch selbst weiß,
+                    da<lb break="yes"/>du mich ja oft genug vor dein Vater<lb break="yes"/>gewarnt
+                hast. Und Du ja auch genau so<lb break="yes"/>gut weiß wie ich, das er mich gegen<lb break="yes"/>Dich aufgehetzt hat. So muß du es mir mit<lb break="no"/>teilen
+                oder am besten ist du kommst mal<lb break="yes"/>her. Nicht Mittwochs u. Sonntags da
+                    kommen<lb break="yes"/>meine Angehörigen. Du kannst sonst jeden<lb break="yes"/>Tag kommen, die beste Zeit ist nachmittags,<lb break="yes"/>von ½ 2 - 5 Uhr. Dann
+                werde ich Dir alles genau</p>
+<p><add place="margin">schildern können.</add></p>
+</body>
+</text>
+</TEI>

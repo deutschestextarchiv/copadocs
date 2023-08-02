@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16588p06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16588</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>P.</surname></persName>
+<date type="sent">12.02.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Frieda <surname>P.</surname></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16588p">
+<persName>
+<forename>Heinrich</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1899"/>
+<death cert="unknown"/>
+<occupation>Hafenarbeiter, zuvor Packer</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: Vater: Arbeiter</p>
+<p>Anstalt: <date from="1926" to="1935">1926-35</date></p>
+<p>Brieftypen: pp, po, ao, lebenslauf</p>
+</state>
+<trait><p>angeborener Schwachsinn (1934)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet seine Schwester, die Vormundschaft für ihn zu übernehmen und ihn aus der Anstalt zu holen. Er verspricht, sich zu bessern.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16588p06a.jpg" xml:id="image_019"/>
+<graphic mimeType="image/jpg" url="ham16588p06b.jpg" xml:id="image_020"/>
+<graphic mimeType="image/jpg" url="ham16588p06c.jpg" xml:id="image_021"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline><hi rendition="#r">Langenhorn d. 12.2.28.</hi></dateline>
+<salute><hi rendition="#c">Liebe Schwester.</hi></salute>
+</opener>
+<p> Habe Dir doch mitgeteilt im<lb break="yes"/>vorigen Brief das der vormund<lb break="yes"/>imner noch nicht hier war nun<lb break="yes"/>sei so gut und <hi rendition="#u" style="arzt">schreibe ihn mal<lb break="yes"/>das er kommt.
+                    W</hi>enn ihr nach der<lb break="yes"/>Behörde ein gesuch macht das<lb break="yes"/>ihr für mich <w>auf kommt</w> so wird<lb break="yes"/>der <hi rendition="#u" style="arzt">Oberarzt nichts dagegen</hi>
+<w>ein<lb break="no"/>zu <hi rendition="#u" style="arzt">wenden</hi></w><hi rendition="#u" style="arzt"> haben</hi> und der<lb break="yes"/>Vormund auch
+                nicht. Arbeit<lb break="yes"/>werde ich schon bekommen<lb break="yes"/>ihr müßt
+                doch selbst sagen<lb break="yes"/>das ich nicht dauernd hier bleiben<lb break="yes"/>kann und ich habe alles reif<lb break="no"/>lich überlegt für mein
+                    späte<lb break="no"/>res Leben und werde euch<lb break="yes"/>kein
+                unangenämlichkeiten<lb break="yes"/>mehr bereiten. Ich habe euch doch <pb facs="#image_020"/>versprochen beim letzen besuch<lb break="yes"/>das ich nicht
+                wieder solche<lb break="yes"/>torheit begehe wie in friedrichs<lb break="no"/>berg
+                ich bin doch jetzt 15.<lb break="yes"/>Monate hier und möchte doch<lb break="yes"/>gerne in ein anderes Haus verlegt<lb break="yes"/>werden das wißt ihr selbst<lb break="yes"/>wenn Herr <hi rendition="#u" style="arzt">Oberarzt meine</hi><lb break="yes"/>Bitt<hi rendition="#u" style="arzt">e erfüllt das ich</hi> mich<lb break="yes"/>gut führen werde. Ich<lb break="yes"/>werde eure Gutheit nicht
+                wieder<lb break="yes"/>mißbrauchen und in der Anstalt<lb break="yes"/>auch nicht,
+                sonnst komme ich ja über<lb break="no"/>haupt nicht wieder raus. Ihr müßt<lb break="yes"/>auch jetzt aber einsehn das es mein fester<lb break="yes"/>wille
+                ist das ich ein anderer Mensch ge<lb break="no"/>worden bin das habe ich hier
+                gelernt.<lb break="yes"/>Sei so gut besuche mich mal du kannst ja<lb break="yes"/>Herrn Oberarzt ein recht guten brif schreiben<lb break="yes"/>Grüsse Papa, Willi<lb break="yes"/>Richard und Melly.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Herzlichen Gruß Dein<lb break="yes"/>Bruder</seg>
+<seg ana="#signed">Heinrich</seg>.</hi></p>
+<pb facs="#image_021"/>
+<p>
+<add hand="arzt"><hi rendition="#i"><surname>P.</surname><lb break="yes"/>M.18.</hi></add><lb break="yes"/><add hand="arzt"><hi rendition="#u"><unclear/></hi></add><lb break="yes"/><add hand="arzt">verfrühte <hi rendition="#r">13.II.28.</hi></add><lb break="yes"/><add hand="arzt"><hi rendition="#r">Entlassungswünsche</hi></add></p><p>Fräulein<lb break="yes"/><hi rendition="#c">Frieda <surname>P.</surname><lb break="yes"/>Hamburg 15<lb break="yes"/>Grünerdeich 163 II</hi></p>
+<p>Abs. Heinrich <surname>P.</surname><lb break="yes"/>Staatskrankenanstalt<lb break="yes"/>Langenhorn</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham17233m03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>17233</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Reinhold <surname>M.</surname></persName>
+<date type="sent">25.09.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Robert <surname>M.</surname></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham17233m">
+<persName>
+<forename>Reinhold</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1880"/>
+<death when="1945"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">50.9541558 14.650553</geo>Leutersdorf</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: unehelich</p>
+<p>Anstalt: <date from="1928" to="1945">1928-32;1935-45</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>[Epilepsie] (1913), Vergiftungsideen (1929)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt1"/>
+<handNote medium="ink" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um einen Brief vom Bruder, möchte wieder nach Hause und berichtet von seinem geistesklaren Zustand
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham17233m03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="ham17233m03b.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="ham17233m03c.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="ham17233m03d.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r">Langenhorn d 25/2 29.</hi></dateline>
+<salute><hi rendition="#c">Lieber Robert:</hi></salute>
+</opener>
+<p>2 Jahre sind es her das du mir mal<lb break="yes"/>geschriben hast, ich sitze
+                noch im̄er im<lb break="yes"/>festen Haus, weil ich keinen Mensch<lb break="yes"/>habe der etwas für mich thutt, durch die<lb break="yes"/>Schädeloperation kom̄t die ganze Entfern<lb break="no"/>ung zwischen uns
+                her, und wer hir<lb break="yes"/>keine Angehörigen hat die etwas machen<lb break="yes"/>bleibt lebenslänglich hier, ich würde doch<lb break="yes"/>wohl
+                auch bei Euch wohnen können<lb break="yes"/>wen wir von Euch <w>her kom̄en</w> sollten<lb break="yes"/>so
+                unterschriebt ja kein Formular und<lb break="yes"/>wen auch ein leeres sein sollte
+                        <w>untr<lb break="no"/>schreibe</w> zu Hause einen kleinen Zettel<lb break="yes"/>für meinen Bruder kom̄e ich auf sonst<lb break="yes"/>nichts, wäre ich in einen richtigen<lb break="yes"/>Gefannis ich würde nicht
+                stöhnen aber<lb break="yes"/>hir 4 Jahre von eine Untersuchung<lb break="yes"/>unschuldig weiß nicht warum<lb break="yes"/>ich habe Anfangs im bedrükten Zustande
+                    <pb facs="#image_008"/> ein solches sogar leeres Formular<lb break="yes"/>unterschrieben, deswegen bin ich so lange<lb break="yes"/>hier du mußt bedenken
+                ich bin toppelt<lb break="yes"/>Invalieden den ganzen Tag in einen<lb break="yes"/>Hause schwr vrgittet mechtert im Bett<lb break="yes"/>ten doch
+                    liebr tot als ein Leben unte<lb break="yes"/>solche Menschen, das lange
+                    festhalten<lb break="yes"/>kann auch nur in Hamburg pasieren<lb break="yes"/>ich
+                werde Euch alles <w>wire</w><w>zurükerstatten</w><lb break="yes"/>was Ihr an Kosten habt esse und<lb break="yes"/>trinke nicht in Hamburg <seg ana="#med"><hi rendition="#u" style="arzt">es ist eine<lb break="yes"/>zu falsche Stadt, glaube nicht
+                            den<lb break="yes"/>Arzlichen Berichten ich bin geistesklar</hi><lb break="yes"/>und arbeitsfähig</seg> du wirst dir keine<lb break="yes"/>Schande durch mich machen, den ich bin<lb break="yes"/>nie ein schlechter Mensch
+                oder gewalt<lb break="no"/>tätiger Mensch gewesen, ich werde da<lb break="yes"/>bei
+                Euch auch noch alles finden was<lb break="yes"/>ich brauche, in keinen Staat der<lb break="yes"/>Welt währ ich so lange in einen<lb break="yes"/>Irrenhaus als hir
+                mußt du ein <pb facs="#image_009"/> Geldmann sein ein Arbeiter ist<lb break="yes"/>hir <w>gar</w><w>nicht</w> auf
+                gezählt</p>
+<p><hi rendition="#c"><seg ana="#salute">Herzlichen Gruß</seg></hi><lb break="yes"/><seg ana="#signed"><hi rendition="#c">dein Bruder</hi><lb break="yes"/><hi rendition="#r">Reinhold</hi></seg></p>
+<p><hi rendition="#c">z Zt Hamburg Langenhorn</hi><lb break="yes"/><hi rendition="#r">Haus 18</hi></p>
+<pb facs="#image_010"/>
+<p><add place="above">Als. R. <surname>M.</surname> Langenhorn 18</add></p>
+<p><add hand="arzt1">8</add> <add hand="arzt2"><hi rendition="#i"><surname>M.</surname> R. M. 18.</hi></add></p>
+<p>Herrn<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Robert <surname>M.</surname><lb break="yes"/><unclear>Managolia</unclear><lb break="yes"/>in Neugersdorf.</hi> (Sachsen)<lb break="yes"/>Arnostraße 5</hi><lb break="yes"/><add place="bottom">Ob Lausitz</add></p>
+</body>
+</text>
+</TEI>

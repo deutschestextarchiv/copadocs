@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham15401s06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>15401</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Walter <surname>S.</surname></persName>
+<date type="sent">19.09.1926</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Franz <surname>B.</surname></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham15401s">
+<persName>
+<forename>Walter</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1902"/>
+<death cert="unknown"/>
+<occupation>Handlungsgehilfe</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater Schuhmacher</p>
+<p>Anstalt: <date from="1924" to="1930">1924-1930</date></p>
+<p>Brieftypen: pp, Lebenslauf</p>
+</state>
+<trait><p>Haftpsychose, Wahnvostellungen (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Er denkt im Kabarett an den Adressaten und entschuldigt sich dafür, dass
+                    er durcheinader schreibt. ER ist zu nichts zu gebrauchen. Man muss das Leben
+                    genießen. </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham15401s06.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Sonntag, <del>2</del> 19.9.26.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#u"><hi rendition="#i">Meine lieber
+                                Franz!</hi></hi></hi></salute>
+</opener>
+<p><hi rendition="#i">Sitze hier in Kabarett, und</hi><lb break="yes"/><hi rendition="#i">dachte Deiner. Verzeihe wenn ich</hi><lb break="yes"/><hi rendition="#i">alles
+                    durcheinander Schreibe, ich</hi><lb break="yes"/><hi rendition="#i">sitze hier
+                    und kann nicht weg</hi><lb break="yes"/><hi rendition="#i">finden. Ich denke
+                    schon an</hi><lb break="yes"/><hi rendition="#i">morgen_, dann </hi><hi rendition="#u" style="arzt"><hi rendition="#i">bin ich nicht zu</hi></hi><lb break="yes"/><hi rendition="#u" style="arzt"><hi rendition="#i">gebrau</hi><hi rendition="#u" style="arzt"><hi rendition="#i">chen</hi></hi><hi rendition="#i">. Einmal hat man</hi></hi><hi rendition="#i"> nur</hi><lb break="yes"/><hi rendition="#u" style="arzt"><hi rendition="#i">was von Leben
+                        und das muß</hi></hi><hi rendition="#i"> man</hi><lb break="yes"/><hi rendition="#u" style="arzt"><hi rendition="#i">genießen.</hi></hi><hi rendition="#i"> Nun mein lieber Franz</hi><lb break="yes"/><hi rendition="#i">eine
+                    Gute Nacht. Du schläfts wohl schon.</hi></p>
+<p>Herrn<lb break="yes"/><add hand="arzt"><unclear>Aus</unclear></add><lb break="yes"/><hi rendition="#c"><hi rendition="#i"><surname>B.</surname> Franz.</hi></hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Staatskrankenanstalt</hi></hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Langenhorn</hi></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">H.H.18.</hi></hi></p>
+<p><hi rendition="#i">Abs: Walter </hi><hi rendition="#u" style="arzt"><hi rendition="#i"><surname>S.</surname></hi></hi><lb break="yes"/><hi rendition="#i">Hamburg
+                    Borstelmannsweg 164. Laden.</hi></p>
+</body>
+</text>
+</TEI>

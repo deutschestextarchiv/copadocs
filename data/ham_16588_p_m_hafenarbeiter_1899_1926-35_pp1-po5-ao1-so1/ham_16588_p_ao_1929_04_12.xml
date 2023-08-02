@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16588p08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16588</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Friede <surname>P.</surname></persName>
+<date type="sent">12.04.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Dr. Sierau</persName>
+<settlement type="sent">Hamburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16588p">
+<persName>
+<forename>Heinrich</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1899"/>
+<death cert="unknown"/>
+<occupation>Hafenarbeiter, zuvor Packer</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: Vater: Arbeiter</p>
+<p>Anstalt: <date from="1926" to="1935">1926-35</date></p>
+<p>Brieftypen: pp, po, ao, lebenslauf</p>
+</state>
+<trait><p>angeborener Schwachsinn (1934)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin bittet gemäß dem Wunsch ihres Bruders um dessen Verlegung in ein anderes Haus, damit er arbeiten kann.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16588p08.jpg" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_023"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Hamburg, den 12. April
+                        1929.</hi></hi></dateline>
+<salute><hi rendition="#i">Wohlgeboren </hi><lb break="yes"/><space/> <hi rendition="#i">Herrn Oberarzt</hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Dr. Sierau</hi><lb break="yes"/><hi rendition="#i">Staatskrankenhaus Langenhorn
+                        </hi></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u"><hi rendition="#i">Hamburg-Langenhorn</hi></hi></hi></salute>
+</opener>
+<p><space/> <hi rendition="#i"> Die Unterzeichnete willfahrtet den sehnlichsten
+                    </hi><lb break="yes"/><hi rendition="#i">Wunsch Ihres Bruders, Heinrich
+                        </hi><surname><hi rendition="#i">P.</hi></surname><hi rendition="#i">,
+                    welcher in dortigem</hi><lb break="yes"/><hi rendition="#i">Krankenhaus seit längerer Zeit untergebracht ist,
+                    denselben</hi><lb break="yes"/><hi rendition="#i">vom Haus N</hi><hi rendition="#sup"><hi rendition="#i">o</hi></hi><hi rendition="#i"> 18 ins Haus </hi><hi rendition="#u" style="arzt"><hi rendition="#i">N</hi><hi rendition="#sup"><hi rendition="#i">o</hi></hi><hi rendition="#i"> 7 zu verlegen</hi></hi><hi rendition="#i">. Begründe</hi><lb break="yes"/><hi rendition="#i">diesen Wunsch damit, weil sich mein Bruder
+                    arbeitend</hi><lb break="yes"/><hi rendition="#i">betätigen will und damit seiner Langeweile Herr
+                    werden</hi><lb break="yes"/><hi rendition="#i">will. Sein Zustand gestattet ihm das Arbeiten und
+                    setzt</hi><lb break="yes"/><hi rendition="#i">er in diese Arbeit sein vollstes Vertrauen auf
+                    schnellere</hi><lb break="yes"/><hi rendition="#i">und andauernde Gesundheit.</hi>
+</p>
+<p><space/> <seg ana="#salute"><hi rendition="#i">Ich bitte nochmals um gütigste
+                        Berücksichtigung</hi><lb break="yes"/><hi rendition="#i">und zeichne in der Hoffnung, keine Fehlbitte
+                        getan</hi><lb break="yes"/><hi rendition="#i">zu haben</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Hochachtend &amp;
+                            ergebenst</hi></hi><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Friede </hi><surname><hi rendition="#i">P.</hi></surname></seg><lb break="yes"/><hi rendition="#i">Hbg. 15. Grünerdeich </hi><unclear><hi rendition="#i">1795 l</hi></unclear><hi rendition="#i"> </hi></seg></p>
+<p><add hand="arzt"><hi rendition="#u"><hi rendition="#i">M. H</hi></hi><hi rendition="#i"> </hi>15.<lb break="yes"/><unclear/><hi rendition="#u">erl</hi><lb break="yes"/><unclear/>
+<hi rendition="#u"><unclear>Krz</unclear></hi></add></p>
+</body>
+</text>
+</TEI>

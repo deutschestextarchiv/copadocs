@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16454r04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16454</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>R.</surname></persName>
+<date type="sent">17.05.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberlandesgericht: n.a. <surname/></persName>
+<settlement type="sent">Hamburg Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16454r">
+<persName>
+<forename>Karl</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1884"/>
+<death when="1940"/>
+<occupation>Kapitän</occupation>
+<residence><geo decls="#WGS">54.3188928 8.9437049</geo>Tönning</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Trinker</p>
+<p>Anstalt: <date from="1926" to="1940">1926-1940</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>chronische Paranoia, Verfolgungsideen, Beeinträchtigungsideen (1919)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="typewriter" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="arzt"/>
+<handNote medium="pencil" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet um Bearbeitung seines Falls und seine Entlassung, 
+                    da er in der Anstalt schlecht behandelt wird und nicht als "Versuchskaninchen" missbraucht werden will.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16454r04.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Hamburg Zuchthaus Langenhorn
+                            </hi><hi rendition="#u" style="arzt2"><hi rendition="#i">17. Mai
+                                1927.</hi></hi></hi></dateline>
+<salute><hi rendition="#i">An </hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">das Oberlandesgericht, Justizgebäude,
+                        Sievekingplatz</hi></hi></salute>
+</opener>
+<p><add hand="arzt" place="top"><hi rendition="#r"><hi rendition="#i">3.</hi></hi><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#c"><hi rendition="#u"><hi rendition="#i">Briefabschrift.</hi></hi></hi></add></p>
+<p><add hand="arzt2" place="top"><hi rendition="#r"><surname>R.</surname></hi></add></p>
+<p><space/> <hi rendition="#i">Seit Oktober 26. 1925 an welchem Tage ich überfallen u.
+                    </hi><lb break="yes"/><hi rendition="#i">eingesperrt worden bin sitze ich nun in
+                    Gefangensc</hi><del><hi rendition="#i">g</hi></del><hi rendition="#i">haft und bin
+                    </hi><lb break="yes"/><hi rendition="#i">den schwersten Mißhandlungen ausgesetzt.
+                    Infolgedessen ersuche </hi><lb break="yes"/><hi rendition="#i">ich Sie höflichst,
+                    sich mal mit meiner Angelegenheit befassen </hi><lb break="yes"/><hi rendition="#i">zu wollen. Alles Nähere können Sie schon aus meinem Schreiben
+                    </hi><lb break="yes"/><hi rendition="#i">an Ihr Verwaltungsgericht ersehen. Das
+                    Letzte datiert vom 2. Mai </hi><lb break="yes"/><hi rendition="#i">1927. Ich kann
+                    noch bemerken, daß ich Einladung nach Helgoland </hi><lb break="yes"/><hi rendition="#i">habe. Von Hamburg in keiner Weise abhänge noch jemals abhängig
+                    </hi><lb break="yes"/><hi rendition="#i">gewesen bin. Stolz darauf bin ein freier
+                    Amerikaner zu sein. </hi><lb break="yes"/><hi rendition="#i">Mein Körpergewicht
+                    infolge dieser schändlichen Mißhandlungen </hi><lb break="yes"/><hi rendition="#i">zehn bis 15 kg zurückgegangen ist, trotzdem ich mich selber des
+                    </hi><lb break="yes"/><hi rendition="#i">öftern mit den schönsten Lebensmitteln
+                    ausstatte − Veranlassen </hi><lb break="yes"/><hi rendition="#i">Sie also
+                    bitte dass ich baldmöglichst in Freiheit gesetzt werde, </hi><lb break="yes"/><hi rendition="#i">als Versuchskaninchen bin ich nicht zur Welt gekommen.
+                    </hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">gez. C.
+                            </hi><surname><hi rendition="#i">R.</hi></surname><hi rendition="#i">.</hi></hi></p>
+<p><foreign xml:lang="engl"><hi rendition="#i">Postscription </hi><lb break="yes"/><space/> <hi rendition="#i">I take the liberty send you this letter with the
+                        </hi><lb break="yes"/><hi rendition="#i">request
+                    demandasfollow.</hi></foreign><hi rendition="#i"> C.R. </hi><lb break="yes"/><hi rendition="#i">Abs. Capitän </hi><surname><hi rendition="#i">R.</hi></surname><hi rendition="#i"> Sträflingsabteilung Haus 9.</hi></p>
+</body>
+</text>
+</TEI>

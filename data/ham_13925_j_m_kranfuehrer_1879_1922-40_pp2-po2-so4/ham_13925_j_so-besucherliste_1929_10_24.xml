@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham13925j08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>13925</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl Franz Heinrich <surname>J.</surname></persName>
+<date type="sent">24.10.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham13925j">
+<persName>
+<forename>Karl Franz Heinrich</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1879"/>
+<death cert="unknown"/>
+<occupation>Kranfährer</occupation>
+<residence><geo decls="#WGS">54.3227085 10.135555</geo>Kiel</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Arbeiter, Säufer</p>
+<p>Anstalt: <date from="1922" to="1940">1922-1940</date></p>
+<p>Brieftypen: pp, po, lebenslauf</p>
+</state>
+<trait><p>Progressive Paralyse, Größenideen (1922)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Besucherliste</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Besucherliste, Bericht über ein Gedicht von Liliencron
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham13925j08a.jpg" xml:id="image_036"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_036"/>
+<opener>
+<dateline><hi rendition="#r">24.X.29.</hi></dateline>
+</opener>
+<p>Die mir hier in Langenhorn besuchenden<lb break="yes"/>Personen waren: "14 Tage
+                nach Pfingsten 1922.<lb break="yes"/>sie sogenannte Göttin Hamonia
+                        <del><unclear>n</unclear></del> mit 3 Kindern.<lb break="yes"/>2 die
+                sogenannte Göttin Freia im September 22, 2 mal<lb break="yes"/>Oktober November
+                dezember, die Tochter der sogenannten<lb break="yes"/>Göttin Freia mit ihrem
+                Verlobten. 14 Tage vor Ostern<lb break="yes"/>1923 die sogenannte Göttin Hamonia
+                mit der Tochter<lb break="yes"/>der sogenannten Göttin <del>Ha</del> Freia. An
+                meinem<lb break="yes"/>Geburtsag am 18 Oktober 25., die Tochter der sogenannte<lb break="yes"/>Göttin Freia mit ihrem Verlobten. An zweiten<lb break="yes"/>Pfigsttage <del>27</del> 1927 der Sohn und die Tochter der<lb break="yes"/>biblischen <hi rendition="#i">Hagar (in</hi>
+<unclear>Gambur</unclear> der Film gespielt<lb break="yes"/>der Sohn der <hi rendition="#i">Hagar</hi> mit meine Bitte an die Kinder<lb break="yes"/>im Juli
+                1927. die Mutter der Kinder die biblische<lb break="yes"/><hi rendition="#i">Hagar</hi> in Begleitung ihres Sohnes und zweie ander<lb break="yes"/>Frauen.
+                die sogenannte Personen sind Familien<lb break="no"/>angehörige meiner gewesenen
+                Frau meine<lb break="yes"/>gewesene Frau ist die Nachkomme der deutschen<lb break="yes"/>Loreley. das Lied O Thäler weit, o Hoheen<lb break="yes"/>weißt
+                auf meine Person hin: da draußen<lb break="yes"/>stets betrogen rauscht die
+                geschäftge Welt −<lb break="yes"/>bald werd ich dich verlassen fremd in die
+                Fremde<lb break="yes"/>gehn auf bunt bewegten Gassen des Lebens Schauspiel<lb break="yes"/>sehr: Ebenfalls das <hi rendition="#i">Detlef v. Liliencron</hi>sche
+                Gedicht.<lb break="yes"/>aus Liliencrons Werken "An wen, du wenn<lb break="yes"/>ich dich weißte, wovon ich dich kannte der du kämpfen<lb break="yes"/>mußt um
+                dein Stück Brot täglich stündlich, dich dem<lb break="yes"/>die zum Narren halten
+                den sie für Wahnsinnig<lb break="yes"/>halten " lägest du mich wie ein Hund an der
+                Kette"<lb break="yes"/>u. s. w. das volle Gedicht habe ich im Jahr 1922 Herrn<lb break="yes"/><hi rendition="#i">Dr <surname>B.</surname></hi> zur Verfügung
+                gestellt<lb break="yes"/><hi rendition="#c"><hi rendition="#i">C.
+                            <surname>J.</surname></hi></hi>
+</p>
+</body>
+</text>
+</TEI>

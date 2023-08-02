@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham19976a05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>19976</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">August Wilhelm <surname>A.</surname></persName>
+<date type="sent">28.06.1935</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: n.a.</persName>
+<settlement type="sent">Strecknitz-Lübeck</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham19976a">
+<persName>
+<forename>August Wilhelm</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1938"/>
+<occupation>Schmied, Handelsmann</occupation>
+<residence><geo decls="#WGS">54.1948456 9.0929015</geo>Heide in Holstein</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: geschieden</p>
+<p>Eltern: Vater: Schuhmacher</p>
+<p>Anstalt: <date from="1933" to="1935">1933-35</date></p>
+<p>Brieftypen: pp, po, ap, Lebenslauf</p>
+</state>
+<trait><p>Psychopathie (1933), chronische Manie, Debilität (1938)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Mögliche Verlegung und Wille zur Arbeit
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham19976a05a.jpg" xml:id="image_027"/>
+<graphic mimeType="image/jpg" url="ham19976a05b.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="ham19976a05c.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_027"/>
+<opener>
+<dateline><hi rendition="#c">Strecknitz − Lübeck<lb break="yes"/>28. Juni 35.</hi></dateline>
+<salute><hi rendition="#c">Weerther Herr <hi rendition="#i">Dr</hi>.</hi></salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#u">29.6.35</hi> <hi rendition="#i">j. Kol. III.</hi></add></p>
+<p>Könte ich nicht, wenn es Ihnen<lb break="yes"/>möglich, Auf den schn<unclear>e
+                        <del>l</del>l</unclear>ster<lb break="yes"/>wage, an die <w>körpe rliche</w><lb break="yes"/>Arbeit kommen. Ich bin von<lb break="yes"/>Beruf <hi rendition="#u">Schmied:</hi><lb break="yes"/>Habe in meinen Leben, auch<lb break="yes"/>schon öfters,
+                landwirtschaft<lb break="no"/>liche arbeiten <w>ge macht</w>.<lb break="yes"/>Der
+                Ober-Pfleger. In Lan<lb break="no"/>genhorn, <w>Mämne r</w>-Haus, N<hi rendition="#sup"><hi rendition="#u">o</hi></hi>. 19.<lb break="yes"/>Herr
+                        <surname>K.</surname>.<lb break="yes"/>Sagte mir,
+                vor Haus 19.<lb break="yes"/>Wie ich schon, in mein Zeug<lb break="yes"/>war.
+                    <surname>A.</surname>, du wirst<lb break="yes"/>es gut kriegen.<lb break="yes"/>Die Anstalt-Strecknitz, hat<lb break="yes"/>Hier angefragt, ob wir </p>
+<pb facs="#image_028"/>
+<p>wir einen Schmied hätten.<lb break="yes"/>Als solcher, kommst du jetz<lb break="yes"/>hin?<lb break="yes"/>Blos Herr Dr: an die körper<lb break="no"/>liche Arbeit.<lb break="yes"/>Müssiggang war wohl noch<lb break="yes"/>immer?
+                Aller Laster Anfang. </p>
+<p>In <w>La n ge n horn</w>, habe ich bis<lb break="yes"/>zum letzten Tag, <w>ge arbeitet</w>.<lb break="yes"/>Im Himweis, auf diesen Herr<lb break="yes"/>Dr.<lb break="yes"/><w>Bi tte</w> ich Ihnen höflichst.<lb break="yes"/>Mir, meine <w>Bi tte</w> zu gewähren.<lb break="yes"/><seg ana="#salute">Mit deutschen Gruß<lb break="yes"/><hi rendition="#c">Heil Hittler.<lb break="yes"/><w>Achtu ngsvoll</w></hi></seg></p>
+<p><hi rendition="#c"><seg ana="#signed">Wilhelm <surname>A.</surname></seg></hi></p>
+<pb facs="#image_029"/>
+<p>An<lb break="yes"/>Herrn<lb break="yes"/><hi rendition="#i">Dr</hi>. <surname>G.</surname><lb break="yes"/><hi rendition="#c"><hi rendition="#u">Hier!</hi></hi>
+</p>
+<p><add place="above"><add hand="arzt"><hi rendition="#u"><surname>A.</surname><lb break="yes"/>z. kkblatt</hi></add></add></p>
+</body>
+</text>
+</TEI>

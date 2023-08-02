@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham15908s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>15908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Arthur Max Julius <surname>S.</surname></persName>
+<date type="sent">ca. 1925-38</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname/></persName>
+<settlement type="sent"/>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham15908s">
+<persName>
+<forename>Arthur Max Julius</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1893"/>
+<death cert="unknown"/>
+<occupation>Hafenarbeiter</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>geb. Hamburg, zuvor Staatskrankenanstalt Friedrichsberg, zuvor obdachlos</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Arbeiter</p>
+<p>Anstalt: <date from="1925" to="1938">1925-27;1932-38</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>degen. Geistesschwäche, Morphinismus (1925), Alkoholismus, Psychopathie (1932)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="minor" scribe="patient"/>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notizbuch</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Lebensgeschichte einer englischen Frau im Workhouse Welfare, die ins Drogenmilieu abgerutscht ist
+                    kein Bezug zu Patient, in dessen Notizbuch die Aufzeichnungen sind
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham15908s05a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="ham15908s05b.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="ham15908s05c.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="ham15908s05d.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><add hand="arzt">8/</add></p>
+<p><handShift medium="pencil" scribe="patient"/><hi rendition="#c"><hi rendition="#i">Arthur <surname>S.</surname></hi></hi></p>
+<pb facs="#image_010"/>
+<p><handShift medium="pencil" scribe="patient"/><foreign xml:lang="eng"><hi rendition="#i"><hi rendition="#c"><hi rendition="#u">How I came back from
+                                the drug<lb break="yes"/>slavery</hi></hi><lb break="yes"/>One would'nt expect to find the<lb break="yes"/>former
+                        daughter-in-law of a United<lb break="yes"/>States Senator and the wife of
+                        an<lb break="yes"/>army officer here in the women's<lb break="yes"/>workhouse at (Wefare Island). Some<lb break="no"/>times as I sit upstairs,
+                        looking through<lb break="yes"/>the bars to the river, all the scenes<lb break="yes"/>in my crazy-quilt life grow and<lb break="yes"/>fade away
+                        before my eyes. I thing of<lb break="yes"/>the years I spent in
+                        (New-England)<lb break="yes"/>with my sea-captain father; <del>M</del> my<lb break="yes"/>student days at (Ward-Belmont); of my<lb break="yes"/>garden debut at the winter garden; of<lb break="yes"/>months spent in an
+                        army post in the<lb break="yes"/>Philippines; and then of the last three<lb break="yes"/>years, which I don't want to remember<lb break="yes"/>but which crowding upon my mind. </hi><lb break="yes"/><add place="bottom">1</add>
+<pb facs="#image_011"/>I was looked in the prison under the<lb break="yes"/>name of (Helene <surname>S.</surname>.) That isn't my<lb break="yes"/>name, but then it doesn't matter<lb break="yes"/>what label one is arrested
+                    under.<lb break="yes"/>On the stage I was known as (Helene<lb break="yes"/>French; my present married name<lb break="yes"/>is (Mrs Samuel Walker) Both
+                    stand<lb break="yes"/>personalities which aren't real any<lb break="no"/>more
+                    which passed on progressive<lb break="yes"/>death known in the drug habit.<lb break="yes"/>There was every reason why I have<lb break="yes"/>a happy life
+                    Certainly I had all<lb break="yes"/>the raw-material for it. I had good<lb break="yes"/>home surrounding; I had educational<lb break="yes"/>advantages; and married well.<lb break="yes"/>Bceause an army doctor in the<lb break="yes"/>Philippines preferred to keep me<lb break="yes"/>quit all
+                    day rather than to have<lb break="yes"/><unclear reason="faded"/> walk in the
+                    humid afternoon<lb break="yes"/>I'm here on (Welfare Inland) with<lb break="yes"/><add place="bottom"><hi rendition="#c">2</hi></add><pb facs="#image_012"/> just 1<del>3</del> to my name and with<lb break="yes"/>four months in the workhouse<lb break="yes"/>ahead of me. I don't who
+                    originated<lb break="yes"/>the Idea that the way down is smooth<lb break="yes"/>and rapid. Maybe it is sometimes, but<lb break="yes"/>it can be just as slow
+                    and rocky<lb break="yes"/>as any climb to the top: Self-respect<lb break="yes"/>doesn't go at once it is torn away<lb break="yes"/>as slowly and painfully as
+                    the flai<lb break="no"/>ing of human skin. Every bit down<lb break="yes"/>it
+                    made on bleeding fat. I know,<lb break="yes"/>because I've been over every inch<lb break="yes"/>of the way from the time when I<lb break="yes"/>was
+                    horribly enhanced of having<lb break="yes"/>formed the habit to the day when<lb break="yes"/>I was slinging through the city,<lb break="yes"/>the prey
+                    of anybody who could<lb break="yes"/>help me get the 18<unclear/> a day ne<lb break="no"/>cessary for my drugs. Just<lb break="yes"/>imagine! The doctor
+                    at (Welfare<lb break="yes"/><add place="bottom"><hi rendition="#c">3</hi></add></foreign></p>
+</body>
+</text>
+</TEI>

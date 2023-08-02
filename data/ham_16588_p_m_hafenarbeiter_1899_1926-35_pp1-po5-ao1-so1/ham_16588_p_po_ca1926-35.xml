@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16588p01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16588</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>P.</surname></persName>
+<date type="sent">ca1926-35</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname/></persName>
+<settlement type="sent"/>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16588p">
+<persName>
+<forename>Heinrich</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1899"/>
+<death cert="unknown"/>
+<occupation>Hafenarbeiter, zuvor Packer</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: Vater: Arbeiter</p>
+<p>Anstalt: <date from="1926" to="1935">1926-35</date></p>
+<p>Brieftypen: pp, po, ao, lebenslauf</p>
+</state>
+<trait><p>angeborener Schwachsinn (1934)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>offizieller Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Patient teilt dem Arzt mit, auf welchen Stationen er war; außerdem erzählt
+                    er von seinem freien Ausgang/Urlaub. </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16588p01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="ham16588p01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="ham16588p01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<salute>Werther Herr Oberarzt</salute>
+</opener>
+<p><add hand="arzt" place="top">17./S. 32</add></p>
+<p>Bitte Ihn folgendes mitteilen zu dürfen, ich werde am 15.<lb break="yes"/>November 1926 in der Staatskrankenanstalt Langenhorn<lb break="yes"/>überwiesen M.
+                H. 18. Ich betächtigte mich sofort in<lb break="yes"/>der Mohrflechterei. Ich wurde
+                nach 2 Jahren 4 Monaten<lb break="yes"/>nach M. H. 15 verlegt, und bekam
+                    Beschäftigung<lb break="yes"/>in der Küche. Ich verblieb 2 Jahre in M. 15.<lb break="yes"/>und habe mich stets gut geführt was sie,<lb break="yes"/>Ihn Herr
+                Oberarzt bestätigen können.<lb break="yes"/>Späterhin wurde ich in der
+                    Lungenabteilung<lb break="yes"/>in der Küche beschäftigt,<lb break="yes"/>bis
+                zur Aufgabe des Hauses verblieb ich<lb break="yes"/>da. Dann kam ich nach dem
+                Landhaus M.7.<lb break="yes"/>und habe meine Arbeit da verrichtet,<lb break="yes"/>daraus ersehen Herr Oberarzt das ich<lb break="yes"/>stets zur Zerfriedenheit der
+                Anstalt gearbeit<lb break="yes"/>habe, und nie <w>un
+                    rechtes</w> begangen habe.<lb break="yes"/>Nun werde ich Herrn Oberarzt der
+                Wahrheit ge<lb break="no"/>mäß die Sachlage schildern die ich begangen<lb break="yes"/>habe, seit 2 Jahren hatte ich Sonntagsurlaub,
+            
+            <pb facs="#image_002"/>
+               und bekam die Woche 50 Pf. Fahrgeld<lb break="yes"/>womit ich nach Hamburg fuhr.
+                    Meine<lb break="yes"/>Angehürigen waren leider alle arbeits<lb break="no"/>los
+                folgedessen konnten sie mir nichts<lb break="yes"/>geben, nun <del>lerete</del>
+                lernte ich bei meinen<lb break="yes"/>letzten urlaub ein Mädel kennen dieselbe<lb break="yes"/>lud mir ein mit ihr <w>aus zugehen</w> wo
+                    ich<lb break="yes"/>mich auf einließ. Ich hatte seit ein viertel<del>,</del><lb break="yes"/>Jahr kein Geschlechtigen verkehr mehr<lb break="yes"/>da wahr der
+                drang so groß, das ich<lb break="yes"/>das Geld nahm und mit dem Mädel<lb break="yes"/>ausging. Da ich mich freiwillig der<lb break="yes"/>Behörde stellte
+                und auf anregen meinen<lb break="yes"/>Angehürigen und aus eigener Interesse<lb break="yes"/>den Brief schrieb.</p>
+<p><seg ana="#salute"><hi rendition="#c">Hiermit verbleibe ich ihr</hi><lb break="yes"/>getreuer
+                Patient</seg><lb break="yes"/><seg ana="#signed">Hennrich <surname>P.</surname>.</seg></p>
+<pb facs="#image_003"/>
+<p><add hand="arzt" place="top"><surname>P.</surname> M. 18.</add></p>
+<p><add hand="arzt" place="top">J. V M, Q</add></p>
+<p>Herrn</p>
+<p><hi rendition="#c">Docktor</hi></p>
+<p><hi rendition="#r"><surname>Q.</surname></hi></p>
+<p><hi rendition="#r">M. H. 18.</hi>
+</p>
+</body>
+</text>
+</TEI>

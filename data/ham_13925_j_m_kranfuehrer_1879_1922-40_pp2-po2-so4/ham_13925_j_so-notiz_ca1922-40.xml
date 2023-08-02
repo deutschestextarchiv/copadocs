@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham13925j04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>13925</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl Franz Heinrich <surname>J.</surname></persName>
+<date type="sent">ca1922-40</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname/></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham13925j">
+<persName>
+<forename>Karl Franz Heinrich</forename>
+<surname>J.</surname>
+</persName>
+<birth when="1879"/>
+<death cert="unknown"/>
+<occupation>Krankführer</occupation>
+<residence><geo decls="#WGS">54.3227085 10.135555</geo>Kiel</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Arbeiter, Säufer</p>
+<p>Anstalt: <date from="1922" to="1940">1922-1940</date></p>
+<p>Brieftypen: pp, po, lebenslauf</p>
+</state>
+<trait><p>Progressive Paralyse, Größenideen (1922)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>Notiz</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> lose Ansammlung von Sprüchen </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham13925j04.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<p>
+<hi rendition="#i">Kieler Sprott is half verrott</hi><lb break="yes"/><hi rendition="#i">Kopp met Steert is ok nichs wert!!!</hi></p>
+<milestone rendition="#hr" unit="section"/>
+<p>Die Pflicht ist das <w>Er haben ste</w><lb break="yes"/>Treue ist die erste
+                Pflicht !!!</p>
+<milestone rendition="#hr" unit="section"/>
+<p>Liebe deinen Nächsten als dich selbst</p>
+<milestone rendition="#hr" unit="section"/>
+<p>Ohne Fleiß, kein Preiß!</p>
+<milestone rendition="#hr" unit="section"/>
+<p>Ehre sei Gott in der Höhe, und Friede auf<lb break="yes"/>Erden und den Menschen ein<lb break="yes"/><w>Wohl ge fallen</w>!!!</p>
+<milestone rendition="#hr" unit="section"/>
+<p>Der Kauz der auf Minervas <w>Schultern</w> sitzt,<lb break="yes"/>Kann Göttern
+                wohl und <w>Men schen</w> nützen,<lb break="yes"/>die Weisen haben dich beschützt<lb break="yes"/>Ob sie es weiter tun wolln wir mal sehen!!!</p>
+<milestone rendition="#hr" unit="section"/>
+<p>Solln wir uns an die Schälle
+                    binden,<lb break="yes"/>Auf die <w>Ge burt</w> uns <w>hinge ste llt</w>?<lb break="yes"/>Ist in der weiten Gotteswelt<lb break="yes"/>Nicht unsre Heimat wo
+                wir Schänheit finden?</p>
+<milestone rendition="#hr" unit="section"/>
+</body>
+</text>
+</TEI>

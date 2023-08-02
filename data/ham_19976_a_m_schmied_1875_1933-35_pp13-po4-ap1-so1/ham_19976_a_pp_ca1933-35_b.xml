@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham19976a17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>19976</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">August Wilhelm <surname>A.</surname></persName>
+<date type="sent">ca1933-35</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham19976a">
+<persName>
+<forename>August Wilhelm</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1938"/>
+<occupation>Schmied, Handelsmann</occupation>
+<residence><geo decls="#WGS">54.1948456 9.0929015</geo>Heide in Holstein</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: geschieden</p>
+<p>Eltern: Vater: Schuhmacher</p>
+<p>Anstalt: <date from="1933" to="1935">1933-35</date></p>
+<p>Brieftypen: pp, po, ap, Lebenslauf</p>
+</state>
+<trait><p>Psychopathie (1933), chronische Manie, Debilität (1938)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Notizen auf einer Karte, Aufzählung von Namen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham19976a17a.jpg" xml:id="image_063"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_063"/>
+<p>Ou tänzer u frau. Hartwig <surname>K.</surname><lb break="yes"/>u seine Helena: Johannes <surname>E.</surname>, hier, in<lb break="yes"/>Wandsbeck soll auch gestorben<lb break="yes"/>sein. Johann
+                    <surname>T.</surname><lb break="yes"/>aus Österborstel auch.<lb break="yes"/>Ein edler feiner Mann.<lb break="yes"/>Wie geht in der<lb break="yes"/>Heimath! In Vieh<lb break="yes"/><hi rendition="#u">Handel?</hi>
+<hi rendition="#u">Pferden?</hi><lb break="yes"/><hi rendition="#u">u</hi>
+</p>
+<p>Max <surname>T.</surname> unverwüstlich u fleißig mit Gott<lb break="no"/>gesegneten Humor. Wilh. <surname>W.</surname> der <hi rendition="#u">Alte</hi><lb break="yes"/>mit all seine Plagen dasselbe. Hut, ab vor<lb break="yes"/>beiden.
+                <space/> Joh. <surname>B.</surname> u ferdinand<lb break="yes"/>nebst Gefreiter
+                    Her<lb break="no"/>mann <surname>T.</surname> mit<lb break="yes"/>seine Anna<lb break="yes"/>geb. <surname>K.</surname>.<lb break="yes"/>Gruß an<lb break="yes"/>Karl<lb break="yes"/><surname>T.</surname> u<lb break="yes"/>familie!<lb break="yes"/>Johanes<lb break="yes"/><surname>L.</surname>.</p>
+<p><handShift medium="pencil" scribe="patient"/>Vor allen<lb break="yes"/>Dingen, grüse<lb break="yes"/>Weisse u Jakob<lb break="yes"/><surname>A.</surname> u
+                familien. Ich <w>li ge</w> augen<lb break="no"/>blicklich. Ins <w>K ran ken haus</w>
+                −<lb break="yes"/>Langenhorn. <seg ana="#salute">Mit Gruß.</seg><lb break="yes"/><seg ana="#signed">Wilh. <surname>A.</surname>.</seg></p>
+<p><surname>f.</surname><lb break="yes"/>Hallo. Dörpsee <unclear>se</unclear><lb break="yes"/>Tellingstedt.<lb break="yes"/>Detleff <hi rendition="#u"><surname>W.</surname></hi>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham18626d04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>18626</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Otto <surname>D.</surname></persName>
+<date type="sent">01.07.1930</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: Gerhard <surname><!--Nachname--></surname></persName>
+<settlement type="sent"/>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham18626d">
+<persName>
+<forename>Otto</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1903"/>
+<death cert="unknown"/>
+<occupation>Kaufmann im Im- und Exportgeschäft</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1930" to="1931">1930-31</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Schizophrenie, Depression im Wechsel mit Lebhaftigkeit, [Suizidalität] (1930), Dementia praecox (1917)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Verweis auf ein künftiges Gespräch
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham18626d04a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="ham18626d04b.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<salute><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Lieber Gerhard</hi></hi></hi></salute>
+<dateline><hi rendition="#r"><hi rendition="#i">1. Juli 1930<lb break="yes"/>gegen
+                            1/2 I mittags.</hi></hi></dateline>
+</opener>
+<p><hi rendition="#i">Von Herrn <surname>B.</surname> bis<lb break="yes"/>31.
+                    Juli</hi>
+<hi rendition="#i">beurlaubt</hi>.<lb break="yes"/><hi rendition="#i">Friedrichsberg
+                    &amp; <w>Langen<lb break="no"/>horn</w> nicht möglich<lb break="yes"/>da
+                    geistig &amp; körperlich<lb break="yes"/>(vor Gesundheit stark war)<lb break="yes"/>wie er sagt; aber<lb break="yes"/>Sanatorium im Harz<lb break="yes"/><unclear>auf A. O. Kr. Karton</unclear></hi>
+</p>
+<p><add place="margin"><add hand="arzt" place="margin"><hi rendition="#i">(B3 Lütrow <hi rendition="#u">2619</hi></hi></add></add></p>
+<pb facs="#image_013"/>
+<p><hi rendition="#i">Wie denkt Ihr<lb break="yes"/>darüber?<lb break="yes"/>Erwarte mich<lb break="yes"/>bitte erst gegen<lb break="yes"/>1/2 7 7 liebe<lb break="yes"/>Mutter, ich<lb break="yes"/>muß noch alles<lb break="yes"/>wieder gerade<lb break="yes"/>kriegen Du<lb break="yes"/>weißt ja, um<lb break="yes"/>welche Angele<lb break="no"/>genheiten es<lb break="yes"/>sich
+                    handelt<lb break="yes"/>Bei <unclear>Vernimb</unclear> werde<lb break="yes"/>ist wohl gleich<lb break="yes"/>etwas essen <unclear/></hi>
+</p>
+<p><add place="margin"><hi rendition="#i">ich kann es ja, kann ... alles Weiter<lb break="yes"/>mündlich heute Abend <unclear>aus sehr glücklich<lb break="yes"/>aus</unclear></hi></add></p>
+<p><add place="margin"><add hand="arzt"><hi rendition="#i">Kidrandstr. 55<lb break="yes"/>B3 Lütrow 0992</hi></add></add></p>
+</body>
+</text>
+</TEI>

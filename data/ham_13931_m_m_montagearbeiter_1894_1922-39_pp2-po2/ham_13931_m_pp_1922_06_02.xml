@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham13931m01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>13931</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Willy Georg <surname>M.</surname></persName>
+<date type="sent">02.06.1922</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: A. <surname>M.</surname></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham13931m">
+<persName>
+<forename>Willy Georg</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1894"/>
+<death cert="unknown"/>
+<occupation>Montagearbeiter</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand:ledig</p>
+<p>Eltern: Bäcker</p>
+<p>Anstalt: <date from="1922" to="1939">1922-23;1938-39</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Manische Erregtheit (1923), Periodische Manie (1938)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Pat. hat hohlen Zahn
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham13931m01a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="ham13931m01b.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#r"><hi rendition="#i">K.S. <surname>M.</surname><lb break="yes"/>2 VI 22.</hi></hi></add></dateline>
+<salute/>
+</opener>
+<p><hi rendition="#i">Frau<lb break="yes"/><hi rendition="#c">A.
+                            <surname>M.</surname></hi><lb break="yes"/><hi rendition="#r">Hamburg 23.<lb break="yes"/>Menkerallee-<unclear reason="overwriting">3M.ptr.
+                    b.</unclear></hi></hi>
+</p>
+<pb facs="#image_009"/>
+<p><hi rendition="#i"><hi rendition="#c">Ich habe einen holen Zahn.</hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Willy. </seg></hi></hi>
+</p>
+<pb facs="#image_009"/>
+<p><unclear>Abs</unclear>
+<hi rendition="#i">W. S. </hi><surname><hi rendition="#i">M.</hi></surname><hi rendition="#i">.</hi><lb break="yes"/><hi rendition="#i">Bad Elderum.</hi>
+</p>
+</body>
+</text>
+</TEI>

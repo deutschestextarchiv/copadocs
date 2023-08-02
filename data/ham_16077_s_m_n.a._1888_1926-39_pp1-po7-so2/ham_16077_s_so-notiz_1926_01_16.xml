@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16077s07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16077</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Albert Otto Heinrich <surname>S.</surname></persName>
+<date type="sent">16.01.1926</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16077s">
+<persName>
+<forename>Albert Otto Heinrich</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1888"/>
+<death cert="unknown"/>
+<occupation>n.a.</occupation>
+<residence><geo decls="#WGS">52.4438008 10.0078364</geo>Burgdorf, Region Hannover</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1926" to="1939">1926-1939</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Dementia paranoides, Wahnideen, Halluzination (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notiz</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Beschreibung des Gewichtsmobiles
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16077s07a.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<p><add place="above"><add hand="arzt"><hi rendition="#i"><surname>S.</surname></hi></add></add></p>
+<p><seg ana="#pic">Zeichnung eines Gewichtsmobile</seg>
+<hi rendition="#c">Gewichts-Mobile</hi><lb break="yes"/>Es handelt sich darum um das Werk in Bewe<lb break="no"/>gung zu
+                bringen zum steckrad von Maschine<lb break="yes"/>2 Gewichte gehn oben <w>zu
+                    gleich</w> runter<lb break="yes"/><w>gegen über</w> die Gewichte <w>gegen
+                    über</w> um<lb break="no"/>gleich hoch und zwar in doppelter Schnelligkeit<lb break="yes"/>schaltete durch hebel um und seitlich Kugelloch<lb break="yes"/>räder die da doppelschnelligkeit laufen in<lb break="yes"/>Führung des ganzn
+                Werkes </p>
+<p><add place="bottom"><add hand="arzt"><hi rendition="#u">16 I.26.</hi></add></add></p>
+</body>
+</text>
+</TEI>

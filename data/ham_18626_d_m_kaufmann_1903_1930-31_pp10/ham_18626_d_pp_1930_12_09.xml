@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham18626d02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>18626</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Otto <surname>D.</surname></persName>
+<date type="sent">09.12.1930</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern, Brüder: Ferdinand, Werner, Gerhard <surname>D.</surname></persName>
+<settlement type="sent">Hamburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham18626d">
+<persName>
+<forename>Otto</forename>
+<surname>D.</surname>
+</persName>
+<birth when="1903"/>
+<death cert="unknown"/>
+<occupation>Kaufmann im Im- und Exportgeschäft</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1930" to="1931">1930-31</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Schizophrenie, Depression im Wechsel mit Lebhaftigkeit, [Suizidalität] (1930), Dementia praecox (1917)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon_red" scope="minor" scribe="arzt"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient bittet seine Eltern um seine Entlassung und seine Brüder für ihn ein gutes Wort einzulegen. Anderfalls wolle er keine Besuch mehr.
+                    Er streitet die Vorwürfe (sexuelle Übergriffe) gegen ihn ab.
+                    Sein körperlicher Gesundheitszustand (Asthma) hat sich verbessert.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham18626d02a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="ham18626d02b.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="ham18626d02c.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="ham18626d02d.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r">Hamburg, 9. XII. 30</hi></dateline>
+<salute><hi rendition="#c">Liebe Eltern!</hi></salute>
+</opener>
+<p><space/> <hi rendition="#i">Als Weihnachtsgeschenk wünsche</hi><lb break="yes"/><hi rendition="#i">ich mir Freiheit, Entlassung; - - - </hi></p>
+<p><hi rendition="#i">In wenigen Wochen bin ich ½ Jahr</hi><lb break="yes"/><hi rendition="#i">interniert &amp; mit Urlaub kann ich ja</hi><lb break="yes"/><hi rendition="#i">doch nicht rechnen. Und was habe</hi><lb break="yes"/><hi rendition="#i">ich verbrochen? Eine reine Unvorsichtig</hi><lb break="no"/><hi rendition="#i">keit. Dem Brotmädchen, das mir ein</hi><lb break="yes"/><hi rendition="#i">Kaiserbrot gab, habe ich auf etwas un</hi><lb break="no"/><hi rendition="#i">statthafte Art gedankt. Ein anderer</hi><lb break="yes"/><hi rendition="#i">Fall! Eine kleine Zwölfjährige pflückt</hi><lb break="yes"/><hi rendition="#i">Blumen. Ich trete neben sie &amp; will ihr</hi><lb break="yes"/><hi rendition="#i">helfen. Was wird mir zur Last gelegt?</hi><lb break="yes"/><hi rendition="#i">Ich hätte sie unsittlich berührt. !!</hi><lb break="yes"/><hi rendition="#i">Na, das liegt ja alles schon 4 Monate</hi><lb break="yes"/><hi rendition="#i">zurück.</hi></p>
+<p><space/> <hi rendition="#i">Könnte Ihr Euch wohl entschließen,</hi><lb break="yes"/><hi rendition="#i">mir die </hi><hi rendition="#i">Freude</hi><hi rendition="#i"> zu breiten? Ich hoffe</hi><lb break="yes"/><hi rendition="#i">doch, denn Weihnachten ist doch etwas </hi><lb break="yes"/><hi rendition="#i">Besonders. Mit meinem </hi><seg ana="#med"><hi rendition="#i">Asthma</hi></seg><hi rendition="#i"> geht </hi><pb facs="#image_008"/><hi rendition="#i"> es jetzt schon wesentlich besser, konstanter.</hi><lb break="yes"/><hi rendition="#i">Schon 3 Wochen bin ich auf. </hi><seg ana="#med"><hi rendition="#i">Husten</hi></seg><hi rendition="#i"> hat auch</hi><lb break="yes"/><hi rendition="#i">nachgelassen.</hi></p>
+<p><space/> <seg ana="#inst"><hi rendition="#i">Sonntag hatte ich keinen Besuch
+                        &amp;</hi><lb break="yes"/><hi rendition="#i">aus diesem Grunde eine ganze
+                        Woche mor</hi><lb break="no"/><hi rendition="#i">gens nichts
+                    Süßes.</hi></seg><hi rendition="#i"> Das ist aber belanglos. - </hi><lb break="yes"/><hi rendition="#i">Sollte das halbe Jahr noch nicht genug</hi><lb break="yes"/><hi rendition="#i">sein &amp; ich verlebe Weihnachten hier,
+                    so</hi><lb break="yes"/><hi rendition="#i">kann ich nur wiederholen, seht
+                    von</hi><lb break="yes"/><hi rendition="#i">jeglichem Besuch ab. Ich würde
+                    doch</hi><lb break="yes"/><hi rendition="#i">nicht in Besuchs-Laune
+                sein.</hi></p>
+<p><space/> <hi rendition="#i">Ich hoffe, ja ich rechne also vor</hi><lb break="no"/><hi rendition="#i">läufig mit Weihnachten-Entlassung.</hi><lb break="yes"/><space/> <seg ana="#salute"><hi rendition="#i">In diesem Sinne mit
+                        herzlichem</hi></seg><lb break="yes"/><seg ana="#salute"><hi rendition="#c"><hi rendition="#i">Gruß</hi></hi></seg><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Euer </hi><seg ana="#signed"><hi rendition="#i">Otto</hi></seg></hi></p>
+<p><space/> <hi rendition="#i">Liebe Brüder Werner &amp; Gerhard!</hi><lb break="yes"/><hi rendition="#i">Nur eine Bitte. Legt für mich 1 </hi><lb break="yes"/><hi rendition="#i">gutes Wort ein, daß ich nach 1/2 jährigem</hi>
+<pb facs="#image_009"/><hi rendition="#i">Interniertsein am Feste des Gebens &amp;
+                    Bekom̄ens </hi><lb break="yes"/><hi rendition="#i">endlich die schöne
+                    Freiheit wieder </hi><lb break="yes"/><hi rendition="#i"> erringe.</hi></p>
+<p><space/> <seg ana="#salute"><hi rendition="#i">Euch im Voraus bestens dankend
+                    </hi></seg><lb break="yes"/><seg ana="#salute"><hi rendition="#i">für Eure
+                        Intervention, viele Grüße</hi></seg><hi rendition="#i"> </hi><lb break="yes"/><seg ana="#salute"><hi rendition="#i">auch für Schägerin Ella &amp; Nichte
+                        Irmgard,</hi></seg><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Euer Bruder
+                    Otto.</hi></seg></hi></p>
+<pb facs="#image_010"/>
+<p><hi rendition="#i">Familie </hi><lb break="yes"/><add hand="arzt"><hi rendition="#i">KU. Maus</hi></add><hi rendition="#i"> </hi><lb break="yes"/><add hand="arzt"><surname><hi rendition="#i">D.</hi></surname><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">M 16</hi></add><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Ferd. Dankwarth</hi></hi><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i"> </hi><hi rendition="#r"><hi rendition="#u"><hi rendition="#i">Hamburg 22</hi></hi></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Heitmannstr. 8
+                p.</hi></hi></p>
+<p><hi rendition="#i">Abs.: Otto </hi><surname><hi rendition="#i">D.</hi></surname><hi rendition="#i">, z. Zt. Langenhorn. M. 16</hi></p>
+</body>
+</text>
+</TEI>

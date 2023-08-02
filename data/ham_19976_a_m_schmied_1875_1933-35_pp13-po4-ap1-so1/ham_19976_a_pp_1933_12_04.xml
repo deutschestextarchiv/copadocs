@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham19976a10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>19976</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">August Wilhelm <surname>A.</surname></persName>
+<date type="sent">04.12.1933</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: Ernst <surname>H.</surname></persName>
+<settlement type="sent">Hamburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham19976a">
+<persName>
+<forename>August Wilhelm</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1938"/>
+<occupation>Schmied, Handelsmann</occupation>
+<residence><geo decls="#WGS">54.1948456 9.0929015</geo>Heide in Holstein</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: geschieden</p>
+<p>Eltern: Vater: Schuhmacher</p>
+<p>Anstalt: <date from="1933" to="1935">1933-35</date></p>
+<p>Brieftypen: pp, po, ap, Lebenslauf</p>
+</state>
+<trait><p>Psychopathie (1933), chronische Manie, Debilität (1938)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Klage über verstorbene Geschwister
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham19976a10a.jpg" xml:id="image_047"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_047"/>
+<opener>
+<dateline><hi rendition="#r">Hamburg, den 4.12.33.</hi></dateline>
+<salute><hi rendition="#c">Lieber Ernst sowie Hermiene u<lb break="yes"/>Kinder!</hi></salute>
+</opener>
+<p>Bald in zwei Jahren, haben wir uns,<lb break="yes"/>nicht mehr gesehen. In der
+                Zeit habe<lb break="yes"/>ich, einen <hi rendition="#u" style="arzt">Bruder</hi> u die <hi rendition="#u" style="arzt">Schwester</hi> ver<lb break="no"/>loren. <hi rendition="#u"><surname>A.</surname></hi>, gieb es wohl in<lb break="yes"/>meine
+                Heimath, nicht mehr. Außer Ge<lb break="no"/>org <surname>S.</surname> seine Frau,
+                vom Landweg?<lb break="yes"/>Wie ist's möglich. Solch Geschäft: Am<lb break="yes"/>Markt. Na, es war nicht, das <hi rendition="#u">Vater<lb break="no"/>haus</hi>?
+                Gruß an Ernst <surname>E.</surname> u Frau.<lb break="yes"/><seg ana="#salute">Herzliche frühliche u vergnügte feiertage<lb break="yes"/>wünschend verbleibe
+                    ich Euer Freund<lb break="yes"/>Grüß Hugo <surname>T.</surname>. Und Euern
+                    Vater<lb break="yes"/>Jakob Kampfgenosse 70-71:</seg>
+</p>
+<p><add place="margin">An<lb break="yes"/><space/> Herrn<lb break="yes"/><hi rendition="#i">Ernst <surname>H.</surname></hi> u familie<lb break="yes"/>Bier-Verlag<lb break="yes"/><hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#i">Heide</hi> . Holstein<lb break="yes"/>Norder-Str. <hi rendition="#i">N<hi rendition="#sup"><hi rendition="#u">o</hi></hi>.</hi> 24.</add></p>
+<p><add hand="arzt"><surname>A.</surname><lb break="yes"/><hi rendition="#i">M.</hi> 18.</add></p>
+</body>
+</text>
+</TEI>

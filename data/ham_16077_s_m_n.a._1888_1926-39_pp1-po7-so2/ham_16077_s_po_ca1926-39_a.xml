@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16077s03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16077</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Albert Otto Heinrich <surname>S.</surname></persName>
+<date type="sent">ca1926-39</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16077s">
+<persName>
+<forename>Albert Otto Heinrich</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1888"/>
+<death cert="unknown"/>
+<occupation>n.a.</occupation>
+<residence><geo decls="#WGS">52.4438008 10.0078364</geo>Burgdorf, Region Hannover</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1926" to="1939">1926-1939</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Dementia paranoides, Wahnideen, Halluzination (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Unzusammenhängender Bericht, evtl. Warnung an Helgoland
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16077s03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="ham16077s03b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<p>Eilbrief<lb break="yes"/>in Hamburg Langenhorn und Krankenhauser<lb break="yes"/>Apoteken ist Elektrische Licht Feuer Rohr<lb break="yes"/>und in Helgoland ist
+                Roter Fettkaltstein<lb break="yes"/>geht ganz Seitlich Fernwelt zu Melde<lb break="yes"/>hiermit Helgoland und Welt daß <hi rendition="#i">Scharf</hi><lb break="yes"/>mit Granaten Helgoland und verschieden<lb break="yes"/>andere
+                Gegent zusammen in Blutlache<lb break="yes"/>Gegenden geschossen werden Gründe<lb break="yes"/>Mord ist Mord und Mord wird<lb break="yes"/>schonen Sport genannt
+                Kuhe Ochsen Pferde<lb break="yes"/>werden geschlachen und Menschen in Verst<lb break="yes"/><unclear>gesarb</unclear> schmeckt fein und <unclear>Nein</unclear><lb break="yes"/>wird doch Helgoland wissen 1914, 1915, 1916<lb break="yes"/>1917,
+                1918 wurde gemordet und <hi rendition="#i">Albert</hi><lb break="yes"/>Mordet <del>k</del> Bevöllkerung Helgoland Fernwelt<lb break="yes"/>ist hiermit geschrieben Hauser werden auch Umgeschosse<lb break="yes"/>zertrümmert also Öffentlich Blutschlachten Menschen<lb break="yes"/>Bevollkerung
+                Krieg, Frech muß mann sei<lb break="yes"/>Kirchen und Gebäude an <hi rendition="#i">Albert <surname>S.</surname></hi><lb break="yes"/>sshacher<lb break="yes"/><unclear>Stohrlade Werft</unclear><hi rendition="#c">senden</hi>
+</p>
+<pb facs="#image_008"/>
+<p>Eilbrief<lb break="yes"/><hi rendition="#i">Helgoland</hi> Inseln<lb break="yes"/>und Fernseitlich Bevollkerung<lb break="yes"/>Uber Hamburg Hafener Elbestromm<lb break="yes"/>Dampferpost diesen Brief senden </p>
+<p><add place="above"><add hand="arzt">K<hi rendition="#u">Sch</hi></add></add></p>
+</body>
+</text>
+</TEI>

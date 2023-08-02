@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham20206f02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>20206</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Emanuel <surname>F.</surname></persName>
+<date type="sent">10.01.1934</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager: Johann <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Hamburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham20206f">
+<persName>
+<forename>Emanuel</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1877"/>
+<death when="1940"/>
+<occupation>Schmied</occupation>
+<residence><geo decls="#WGS">50.2132854 18.7789532</geo>Chudow</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: <!--Familienstand--></p>
+<p>Eltern: <!--Beruf/unehelich/Vermögen--></p>
+<p>Anstalt: <date from="1933" to="1940">1933-40</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Progressive Paralyse, Alkoholpsychose (1933), Halluzination, Größenideen (1934)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Aufforderung, die Schwester solle sich das Leben nehmen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham20206f02a.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#i">Hamburg</hi>, den 10.1.34</dateline>
+<salute>Lieber Schwager Johann!</salute>
+</opener>
+<p><add hand="arzt" place="above"><surname><hi rendition="#i">F.</hi></surname></add></p>
+<p>Teile Dir hierdurch mit daß ich<lb break="yes"/>Deine Frau auffordere sich<lb break="yes"/>sofort das Leben zu
+                    nehmen<lb break="yes"/>Es ist meine Schwester<lb break="yes"/><add place="margin">fühterliher Tod</add> <seg ana="#salute">es zeichne<lb break="yes"/>Mit Gruß</seg><lb break="yes"/><add><w>Sie</w><w>soll</w>
+                sofort das <unclear>?</unclear> Leben <unclear>sch erf</unclear> werde ich sie
+                        einen</add><lb break="yes"/><seg ana="#signed">Dein Schwager<lb break="yes"/>Emanuel</seg></p>
+</body>
+</text>
+</TEI>

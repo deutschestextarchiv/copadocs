@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham17233m02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>17233</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: Ernst <surname>M.</surname></persName>
+<date type="sent">24.03.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: Ella <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Neugersdorf</settlement>
+<settlement type="received">Staatskrankenanstalt Friedrichsberg</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham17233m">
+<persName>
+<forename>Reinhold</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1880"/>
+<death when="1945"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">50.9541558 14.650553</geo>Leutersdorf</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: <!--Beruf/unehelich/Vermögen--></p>
+<p>Anstalt: <date from="1928" to="1945">1928-32;1935-45</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>[Epilepsie] (1913), Vergiftungsideen (1929)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte an Bekannte, nach dem Sohn (liegt in Hamburg im Krankenhaus) zu sehen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham17233m02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="ham17233m02b.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r">Neugersdorf den 24.3.1927.</hi></dateline>
+<salute><hi rendition="#c">Liebe Ella.</hi></salute>
+</opener>
+<p>Ich habe ein großes anligen an dich,<lb break="yes"/>Wir haben jezt nachricht aus
+                    Hamburg<lb break="yes"/>bekom̄en aus den Krankenhauße<lb break="yes"/>da
+                licht unser Sohn den wir nicht<lb break="yes"/>wusten ob er noch lebt, er hat
+                    schon<lb break="yes"/>seid Juni 1926 dort krank gelegen<lb break="yes"/>vor
+                einichen Tagen haben wir erst<lb break="yes"/>Nachricht bekom̄en, und da ich
+                    mit<lb break="yes"/>deiner Mutter darüber geschbrochen<lb break="yes"/>habe, so
+                will ich dich nun frachen<lb break="yes"/>ob du nicht so gut wilst sein und<lb break="yes"/>uns diesen großen gefallen nur<lb break="yes"/>wen du es kannst und
+                    bei H. <surname>B.</surname><lb break="yes"/>dir die erlaubnis geben. wir werden<lb break="yes"/>dir es schbäter einmal gleich machen<lb break="yes"/>Nun liebe Ella wen du mit in
+                    wirst<lb break="yes"/>schbrechen frache in warum er uns<lb break="yes"/>nicht
+                selber schreibt, das du von<lb break="yes"/>seinen Eltern geschikt bist kanst du<lb break="yes"/>ihn sachen oder wen er sonst ein<lb break="yes"/>betirfnis hat ob
+                er von uns wil<lb break="yes"/>was haben zu Essen oder irchend was.</p>
+<pb facs="#image_006"/>
+<p><seg ana="#salute">Viele Grüße vous. und deiner</seg><lb break="yes"/><hi rendition="#r">Mutter</hi><lb break="yes"/><seg ana="#signed">Hochachtungs vol
+                    Famillie <surname>M.</surname>.</seg></p>
+<p>Adrese ist<lb break="yes"/>Staatskrankenanstalt<lb break="yes"/>Friedrichsberg<lb break="yes"/>Hamburg 22 Pavillon 7 unten.</p>
+<p>Adr. Ernst <surname>M.</surname><lb break="yes"/>Neugersdorf<lb break="yes"/>Fichtestr. 21</p>
+<p><add place="margin">Wir lassen unsern Sohn schön Grüßen</add></p>
+</body>
+</text>
+</TEI>

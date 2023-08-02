@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham15401s07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>15401</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Walter <surname>S.</surname></persName>
+<date type="sent">28.04.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.</persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham15401s">
+<persName>
+<forename>Walter</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1902"/>
+<death cert="unknown"/>
+<occupation>Handlungsgehilfe</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater Schuhmacher</p>
+<p>Anstalt: <date from="1924" to="1930">1924-1930</date></p>
+<p>Brieftypen: pp, Lebenslauf</p>
+</state>
+<trait><p>Haftpsychose, Wahnvostellungen (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Lebenslauf</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er berichtet von seinem Leben, seit er im August 1928 aus der Anstalt entlassen wurde.
+                    Er wurde krank, erhielt den Haftbefehl und trat im Dezember 28 seine Strafe an. 
+                    Nachdem er sich weigerte, die geforderte Arbeit zu verrichten, kam er in Arrest und trat in einen Hungerstreik.
+                    Der Arzt Dr. Matthey unterstützt ihn, v.a. auch gegen die "Beamten", die mit den Insassen der Anstalt sehr schlecht umgehen und anscheinend 
+                    nur von Dr. Matthey in Schach gehalten werden können.
+                    Nach der Entlassung aus Mattheys Lazarett gab es einen Streit mit einem Beamten, woraufhin er wieder weiterverlegt wurde.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham15401s07a.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="ham15401s07b.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><add hand="arzt" place="top"><hi rendition="#r"><hi rendition="#i"><surname>S.</surname> 28/4.29.</hi></hi></add></dateline>
+<salute/>
+</opener>
+<p><hi rendition="#i">Forts<del>i</del>etzung meines Lebenslaufes, .<lb break="yes"/><space/> Walther <surname>S.</surname> geb. am 18.XII. 02. in
+                    Hamburg.</hi><lb break="yes"/><space/> Habe die Zeit vom 11. Februar 28. bis zum 16. August 28.
+                hier in der<lb break="yes"/>Staatskrankenanstalt Langenhorn verbragt. Wurde am 16.
+                August 28.<lb break="yes"/>entlassen, und ging zu meinem Eltern zurück. Auch trat
+                ich bei meinem<lb break="yes"/>Vater in Arbeit. Erkrankte am 27.8.28. an
+                <seg ana="#med">Lungenkatarrh</seg>, sodaß ich vom<lb break="yes"/>Arzt, krank und arbeitsunfähig
+                geschrieben wurde. Die Krankheit hielt<lb break="yes"/>bis auf weiteres an. −
+                Ich verkaufte da meine noch aus der früheren<lb break="yes"/>Ehe stammenden Sachen.
+                Der Grund war deswegen, nicht an meiner<lb break="yes"/>früheren unglücklichen Ehe
+                immer erinnert zu werden. Wie ich die<lb break="yes"/>Anklageschrift meiner
+                Strafsachen bekam, ist es doch wohl nach menschlichen<lb break="yes"/>Ermessen wohl
+                zu verstehen, wenn man da kopflos wird. Es kam nun<lb break="yes"/>vor, daß ich
+                auch in den Wirtschaften ging um einmal eine andere<lb break="yes"/>Stimmung zu
+                bekommen. Damit ist aber immerhin nicht gesagt, und<lb break="yes"/>möchte nicht
+                den anschein erwecken, daß ich viel getrunken habe, dazu<lb break="yes"/>bin ich
+                nicht der Mann der viel ab kann. Wenn ich 3 Congnak und<lb break="yes"/>3 Glas Bier
+                zu mir genommen habe, so war das der Höchstmaß was ich<lb break="yes"/>getrunken
+                habe. Ich verbrachte meine Zeit belanglos, bis ich den<lb break="yes"/>Bescheit
+                bekam mich zu stelln um meine Strafe anzutreten. Darauf<lb break="yes"/>habe ich
+                mich am 4. Dezember 28. gestellt und meine Strafe angetreten.<lb break="yes"/>Kam
+                aber gleich in Verwahrungs-Arrest weil ich nicht die Arbeit<lb break="yes"/>verrichten wollte die mir angewiesen wurde. Daß ich die Arbeit<lb break="yes"/>verweigert habe kam daher, <seg ana="#med">ich bin Lungenleiden</seg> und sollte auf<lb break="yes"/>einem Saal wo Tau gezupft wird, es ist nur Staub und Dreck dort<lb break="yes"/>vorhanden. Um meine Gesundheit halber, habe ich die Arbeit verwei<lb break="no"/>gert bin auch garnicht erst im Saal reingegangen, sondern bra<del>ch</del>gten<lb break="yes"/>mich im Arrest. Daraufhin habe ich das Essen u. Trinken verweigert<lb break="yes"/>anzunehmen. So blieb ich dann paar Tage ohne Essen u. Trinken<lb break="yes"/>im Arrest und kam dann zu Herrn <hi rendition="#i">Dr.
+                    Matthey</hi> ins Lazarett.<lb break="yes"/>Hatte des öffteren mit dem Beamten
+                streit, es kommt auch viel daher,<lb break="yes"/>daß ich die Uniform nicht vor
+                meinen Augen sehen kann. Auch<lb break="yes"/>verstehen die Beamten gut kranke
+                Leute zu schikanieren um das<lb break="yes"/>Leben ein schwer zu machen. Ich habe
+                nicht die Natur frech zu sein,<lb break="yes"/>aber ich möchte auch von dem Beamten
+                in Ruhe gelassen werden. </p>
+<pb facs="#image_016"/>
+<p>Dieses war aber nicht der Fall, sondern tri<del>tt</del>ngten ein wo sie konnten.<lb break="yes"/>Auch können die alten Beamten sich in das neue Strafrechtswesen<lb break="yes"/>nicht reinfinden und denken es muß immer noch so sein wie<lb break="yes"/>vor dem Kriege. Es wird ja oft von dem Beamten gesagt, ja,<lb break="yes"/>wenn euer Herr <hi rendition="#i">Dr. Matthey</hi> nicht mehr da
+                ist, dann wolln wir<lb break="yes"/>euch <add place="above">schon</add> kriegen.
+                Dann befinden sich hier im Lazarett keine Nerven<lb break="no"/>kranke mehr. Leider
+                können die Herrn Beamten nicht so wie sie<lb break="yes"/>wohl gerne möchten. Gott
+                sei Dank ist Herr <hi rendition="#i">Dr. Matthey</hi> noch da,<lb break="yes"/>wo
+                sich jeder Vertrau<add place="above">n</add>svoll an ihm wenden kann. Sollte Herr<lb break="yes"/><hi rendition="#i">Dr. Matthey</hi> mal nicht mehr da sein, dann
+                bedaure ich jeden Nerven<lb break="no"/>kranken, der sich in der Anstalt befindet.
+                Dieses ist der einzigste<lb break="yes"/>Wunsch von dem Beamten, was sie sich
+                wünschen. Hoffentlich haben<lb break="yes"/>sie kein Glück damit. − So
+                verbragte ich <del>ich</del> die Zeit vom<lb break="yes"/>ungefähr den 10. Dezember
+                    <add place="above">28.</add> bis zum 20. April<del>l</del> 29 im Lazarett bei<lb break="yes"/>Herrn <hi rendition="#i">Dr. Matthey</hi>. Wurde ja auch am 20
+                April 29 hier her<lb break="yes"/>überführt. Ich habe zu Herrn <hi rendition="#i">Dr. Matthey</hi> gesagt, daß ich die<lb break="yes"/>Uniform von dem Beamten
+                nicht mehr sehen kann u. das ich<lb break="yes"/>sie hasse. Hatte am 20.4. morgens
+                mit dem Beamten streit<lb break="yes"/>und kam in Geldschrank worauf Herr <hi rendition="#i">Dr. Matthey</hi> mich hier<lb break="yes"/>her schickte.<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Walther <surname>S.</surname></hi></seg></hi></p>
+</body>
+</text>
+</TEI>

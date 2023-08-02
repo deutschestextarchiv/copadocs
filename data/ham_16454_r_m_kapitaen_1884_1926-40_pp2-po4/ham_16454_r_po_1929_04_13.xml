@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16454r01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16454</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>R.</surname></persName>
+<date type="sent">13.04.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Dr. Schafer</persName>
+<settlement type="sent"/>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16454r">
+<persName>
+<forename>Karl</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1884"/>
+<death when="1940"/>
+<occupation>Kapitän</occupation>
+<residence><geo decls="#WGS">54.3188928 8.9437049</geo>Tönning</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Trinker</p>
+<p>Anstalt: <date from="1926" to="1940">1926-1940</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>chronische Paranoia, Verfolgungsideen, Beeinträchtigungsideen (1919)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er protestiert gegen die Öffnung seiner Post durch den Arzt und kündigt an, bereits geöffnete Briefe nicht mehr anzunehmen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16454r01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#i"><hi rendition="#u">Herrn Prof. Dr. Schafer</hi></hi></salute>
+</opener>
+<p><hi rendition="#i"><add hand="arzt" place="margin">Zu KS<lb break="yes"/><surname>R.</surname></add><lb break="yes"/>Ich setze Sie hiermit in Kenntniss<lb break="yes"/>dass
+                    sämtliche Briefe <seg ana="#cens">welche von Ihnen<lb break="yes"/>wiederrechtlich geöffnet werden</seg> soweit<lb break="yes"/>Dieselben
+                    meinen Namen &amp; Adrss. tragen<lb break="yes"/>von mir in Zukunft nicht mehr
+                    angenommen<lb break="yes"/>werden. <seg ana="#signed">C<surname>R.</surname></seg>
+</hi><lb break="yes"/>Abs. <hi rendition="#i">Capt. <surname>R.</surname> M./H.
+                    9.</hi></p>
+<p><add place="bottom"><hi rendition="#r"><hi rendition="#i"><hi rendition="#u" style="arzt">13./ April 1929.</hi></hi></hi></add></p>
+</body>
+</text>
+</TEI>

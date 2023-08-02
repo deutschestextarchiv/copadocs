@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16454r06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16454</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Karl <surname>R.</surname></persName>
+<date type="sent">28.08.1933</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwester: Lenchen <surname>A.</surname></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16454r">
+<persName>
+<forename>Karl</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1884"/>
+<death when="1940"/>
+<occupation>Kapitän</occupation>
+<residence><geo decls="#WGS">54.3188928 8.9437049</geo>Tönning</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Trinker</p>
+<p>Anstalt: <date from="1926" to="1940">1926-1940</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>chronische Paranoia, Verfolgungsideen, Beeinträchtigungsideen (1919)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="typewriter" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="arzt"/>
+<handNote medium="pencil" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Er beschwert sich über die Behandlung, durch die er schon 24 Kilo verloren hat, und über die Mitpatienten, die er als kriminell ansieht.
+                   Er berichtet von der Misshandlung seiner persönlichen Gegenstände durch die Anstalt und Insassen und bittet um neue Seife.
+                   Im Gegensatz zu ihm hat einer der Ärzte deutlich zugenommen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16454r06a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="ham16454r06b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">den </hi><hi rendition="#u" style="arzt2"><hi rendition="#i">28. August
+                    1933.</hi></hi></hi></dateline>
+<salute><foreign xml:lang="engl"><hi rendition="#i">My dear
+                        sister!</hi></foreign></salute>
+</opener>
+<p><add hand="arzt" place="top"><hi rendition="#c"><hi rendition="#u"><hi rendition="#i">Abschrift</hi></hi></hi><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">Absender: Pat. </hi><surname><hi rendition="#i">R.</hi></surname><hi rendition="#i">. </hi><lb break="yes"/><hi rendition="#i">Empfänger: Frau Lenchen </hi><surname><hi rendition="#i">A.</hi></surname><hi rendition="#i">, Helgoland,
+                        Treppenstr.</hi></add><lb break="yes"/><add hand="arzt2" place="top"><hi rendition="#r"><hi rendition="#i">Wgn ungenügenden </hi><unclear><hi rendition="#i">Inhalten</hi></unclear><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">zur KS</hi><lb break="yes"/><unclear/></hi></add></p>
+<p><space/> <hi rendition="#i">Heute ist Montag, August 28. u. Deine Karte soeben dan</hi><lb break="no"/><hi rendition="#i">kend aber beschmiert erhalten. Freute mich von Dir
+                    zu hören. Mir </hi><lb break="yes"/><hi rendition="#i">gehts gesundheitlich sehr
+                    schlecht. Mein Körpergewicht beträgt </hi><lb break="yes"/><hi rendition="#i">47)
+                    siebenundvierzig Kilo. Bisherige Gewichtsabnahme 24 Kilo. </hi><lb break="yes"/><hi rendition="#i">Die Folgen </hi><seg ana="#inst"><hi rendition="#i">hiesiger
+                        6jähriger Mißhandlung</hi></seg><hi rendition="#i">. Seit 3 Jahren keinen
+                    </hi><lb break="yes"/><hi rendition="#i">Schlaf, keine Verdauung. Immer kalt etc.
+                    Die </hi><foreign xml:lang="engl"><hi rendition="#i">Criminal</hi></foreign><hi rendition="#i"> Elemente </hi><lb break="yes"/><hi rendition="#i">sind wie immer
+                    stark vertreten. </hi><hi rendition="#u" style="arzt2"><hi rendition="#i">Darunter war einer, der kaum 25 </hi><lb break="yes"/><hi rendition="#i">Jahre alt sein konnte.</hi></hi><hi rendition="#i"> Hatte seine </hi><hi rendition="#u" style="arzt2"><hi rendition="#i">eigene</hi><del><hi rendition="#i">n</hi></del><hi rendition="#i"> Mutter
+                    ermordet</hi></hi><hi rendition="#i">. Ihr </hi><lb break="yes"/><hi rendition="#i">das letzte Geld, 50 Mark geraubt und verjubelt. Seit
+                    Unterzeichnung </hi><lb break="yes"/><foreign xml:lang="engl"><hi rendition="#i">of the Peace treaty</hi></foreign><hi rendition="#i"> ruft man in
+                    Deutschland: </hi><foreign xml:lang="fr"><hi rendition="#i">"La paix mal
+                        propse"</hi></foreign><hi rendition="#i">. </hi><lb break="yes"/><hi rendition="#i">Daran anschließend fühlt man sich veranlaßt auf die kommenden
+                    </hi><lb break="yes"/><hi rendition="#i">Rächer hin zu weisen. Ich für mich und
+                    rufe nicht: </hi><foreign xml:lang="lat"><hi rendition="#i">"Memores estote
+                        </hi><lb break="yes"/><hi rendition="#i">inimicy nostris ex ossibus
+                        ultor."</hi></foreign><hi rendition="#i"> Bin fest überzeugt für solche
+                    </hi><lb break="yes"/><hi rendition="#i">Scheusale unhuman Monster ist alles
+                    stets da. Das Rennen im to</hi><lb break="no"/><hi rendition="#i">ten Kreise
+                    nimmt seinen Fortgang mit dem Rufe: </hi><foreign xml:lang="fr"><hi rendition="#i">"Allons entfants </hi><lb break="yes"/><hi rendition="#i">de la
+                        Patrie."</hi></foreign><hi rendition="#i"> Um im geeigneten Moment mit:
+                    </hi><foreign xml:lang="fr"><hi rendition="#i">"Aux armes bitioyens. </hi><lb break="yes"/><hi rendition="#i">Formes les battaillions"</hi></foreign><hi rendition="#i"> vertauscht zu werden. Datt sieht ja kee</hi><lb break="no"/><hi rendition="#i">ner war die Antwort als ich mich weigerte ein mit Blutexcremente
+                    </hi><lb break="yes"/><hi rendition="#i">Überreste besudeltes Hemd an zu nehmen.
+                    Betreffende Hemd ist das </hi><lb break="yes"/><hi rendition="#i">einzigste
+                    Bekleidungsstück welches ich seit Jahren an Unterwäsche </hi><lb break="yes"/><hi rendition="#i">trage. Wird wöchentl. einmal gewechselt. Juni, July, August
+                    habe </hi><lb break="yes"/><hi rendition="#i">ich barfuß in den Schuhen gelaufen,
+                    wegen der kalten Füße mehrere </hi><lb break="yes"/><hi rendition="#i">Male
+                    versuchte eine dieser Pestnelken die von den </hi><foreign xml:lang="engl"><hi rendition="#i">criminals</hi></foreign><hi rendition="#i"> be</hi><lb break="no"/><hi rendition="#i">nutzten Teller mir ungereinigt für Weiterbenutzung
+                    aufzuzwingen. </hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u"><hi rendition="#i">War</hi></hi></hi></p>
+<pb facs="#image_012"/>
+<p><hi rendition="#i">War tief beleidigt, wie er bei mir keinen Erfolg hatte. Während
+                    </hi><lb break="yes"/><hi rendition="#i">die </hi><seg ana="#inst"><foreign xml:lang="engl"><hi rendition="#i">criminals</hi></foreign></seg><hi rendition="#i"> enttäuschte Gesichter machten. Der neue Kalender </hi><lb break="yes"/><hi rendition="#i">hatte einen Liebhaber gefunden. Heute Morgen nach
+                    2tägiger Abwese</hi><lb break="no"/><hi rendition="#i">heit hatte ihn einer
+                    dieser Pestnelken zusammengeknüllt zwischen </hi><lb break="yes"/><hi rendition="#i">den Gurten des Bettes eingeklemmt. Die Umhüllung dünner weißer
+                    </hi><lb break="yes"/><hi rendition="#i">Beutel total beschmiert. Für Mitte
+                    September nicht später gebrauc<unclear reason="damage"/>
+</hi><lb break="yes"/><hi rendition="#i">1 St. echte gut parfümierte Toilettenseife.
+                    Mit Beginn des Monats </hi><lb break="yes"/><hi rendition="#i">November erneut 1
+                    St. gut parfümierte Badeseife. Die Seife hat </hi><lb break="yes"/><hi rendition="#i">bisher meinen Beifall gefunden. Sonst will, brauch ich hierher
+                    </hi><lb break="yes"/><hi rendition="#i">nichts. Wird, soweit es nicht gestohlen,
+                    ungeniesbar gemacht. </hi><lb break="yes"/><hi rendition="#i">Im Gegensatz zu
+                    mir, </hi><hi rendition="#u" style="arzt2"><hi rendition="#i">der hier seit 2
+                        Jahren Gastrolle gebende </hi><lb break="yes"/><hi rendition="#i">Arzt Dr.
+                        Knigge. Als dürrer, klappriger Geselle fing er hier an, </hi><lb break="yes"/><hi rendition="#i">um jetzt mit einem Bürgermeister </hi><foreign xml:lang="engl"><hi rendition="#i">Belly</hi></foreign><hi rendition="#i"> zu
+                        protzen.</hi></hi><hi rendition="#i"> Wünsche Dir </hi><lb break="yes"/><hi rendition="#i">alles Gute. Bedanke mich für mir bis dato entgegengebrachte Ges.
+                    </hi><lb break="yes"/><hi rendition="#i">Liebe. Laß Dir Deine Arbeit nicht
+                    verdrießen. Grüße bitte bekann<unclear reason="damage"/>
+</hi><lb break="yes"/><hi rendition="#i">Helg.. Charly wünsche gute Besserung. Sonst
+                    nichts von Belang. </hi><lb break="yes"/><hi rendition="#i">Die mir hier
+                    beigebrachte </hi><hi rendition="#u" style="arzt2"><hi rendition="#i">innere
+                        Verletzung ist sehr schwer</hi></hi><hi rendition="#i">. Abe<unclear reason="damage"/>
+</hi><lb break="yes"/><hi rendition="#i">auch dieser Schmerz geht vorüber. </hi><seg ana="#salute"><hi rendition="#i">Herzliche Grüße für Dich </hi><foreign xml:lang="fran"><hi rendition="#i">mon c<unclear reason="damage"/></hi></foreign></seg><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Carl.</hi></hi><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">Mit Deinem Schreiben bin ich zufrieden. </hi><lb break="yes"/><hi rendition="#i">Motto; Der Erde Herrlichkeiten mir </hi><lb break="yes"/><space/> <hi rendition="#i">Das Himmelreich "Dir".</hi></p>
+</body>
+</text>
+</TEI>

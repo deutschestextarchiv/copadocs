@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham17233m13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>17233</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Reinhold <surname>M.</surname></persName>
+<date type="sent">15.05.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: Claus
+                    <surname>M.</surname></persName>
+<settlement type="sent">Friedrichsberg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham17233m">
+<persName>
+<forename>Reinhold</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1880"/>
+<death when="1945"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">50.9541558 14.650553</geo>Leutersdorf</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: <!--Beruf/unehelich/Vermögen--></p>
+<p>Anstalt: <date from="1928" to="1945">1928-32;1935-45</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait>
+<p>[Epilepsie] (1913), Vergiftungsideen (1929)</p>
+</trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Bitte um Besuch, Bericht über bisherige Arbeit </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham17233m13a.jpg" xml:id="image_034"/>
+<graphic mimeType="image/jpg" url="ham17233m13b.jpg" xml:id="image_035"/>
+<graphic mimeType="image/jpg" url="ham17233m13c.jpg" xml:id="image_036"/>
+<graphic mimeType="image/jpg" url="ham17233m13d.jpg" xml:id="image_037"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_034"/>
+<opener>
+<dateline><hi rendition="#r">Fridrichsberg den 15/5.27</hi></dateline>
+<salute><hi rendition="#c">Herrn Claus <surname>M.</surname>:</hi><lb break="yes"/>Lieber Clans</salute>
+</opener>
+<p>ich befinde mich schon<lb break="yes"/><hi rendition="#u" style="arzt">über 1
+                    Jahr im hießigen Kranken<lb break="no"/>haus und Irrenanstald und <seg ana="#med">fühle<lb break="yes"/>mich vollständig gesund</seg> und</hi>
+<w>arbeits<lb break="no"/>fähig</w>, da ich bei Dir, und auch im<lb break="yes"/>Dorfe schon gearbeitet, und Du mich<lb break="yes"/>doch kennst, und du mir im
+                August<lb break="yes"/>1925, wo du mich am Kornscharg<lb break="yes"/>Bahnhof
+                brachtest, angeboten hast<lb break="yes"/>einen meiner. Schuppen zu <pb facs="#image_035"/>baden, und im Dorfe noch<lb break="yes"/>mehr arbeit ist,
+                und in A<del>f</del>lfstett<lb break="yes"/>bei Hermann Mohrmann auch schon<lb break="yes"/>gearbeitet, habe ich habe ja nimals<lb break="yes"/>gewußt was
+                meine von mir<lb break="yes"/>wollte, nun bin ich erst gleich<lb break="yes"/>geworden, darein machte ich doch<lb break="yes"/>doch herzlich bitten vo du doch
+                jede<lb break="yes"/>Woche nach Hamburg kom̄st<lb break="yes"/>mich doch
+                diese Woche mal zu<lb break="yes"/>besuchen </p>
+<pb facs="#image_036"/>
+<p><seg ana="#salute">Herzlichen Gruß</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Reinhold <hi rendition="#i"><surname>M.</surname></hi></seg><lb break="yes"/>Mauregeselle</hi><lb break="yes"/>Adrß <w>Staatskranken Anstalt</w><lb break="yes"/><hi rendition="#c">Hamburg Fridrichsberg<lb break="yes"/>Haus 7
+                    unten</hi>
+</p>
+<p>du mus dich beim Portir melden<lb break="yes"/>und eine Besuchskarte ausstellen<lb break="yes"/>lassen komst jeder Tageszeit<lb break="yes"/><hi rendition="#r">herein</hi></p>
+<pb facs="#image_037"/>
+<p><hi rendition="#i">Herrn<lb break="yes"/><hi rendition="#c">Claus Mangels</hi></hi><lb break="yes"/><hi rendition="#c">Landwirth<lb break="yes"/>in <hi rendition="#u">Abbenseth</hi><lb break="yes"/>Kris Bremerförde</hi>
+</p>
+<p><add place="margin"><add hand="arzt">zur<lb break="yes"/>Akte<lb break="yes"/>16.V.27</add></add></p>
+<p><hi rendition="#i"><hi rendition="#u"><surname>M.</surname> R.</hi></hi></p><p>Abs Reinhold <surname><hi rendition="#i">M.</hi></surname> Fridrichsbg Haus 7</p>
+</body>
+</text>
+</TEI>

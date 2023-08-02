@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16077s08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16077</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Albert Otto Heinrich <surname>S.</surname></persName>
+<date type="sent">ca1926-39</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16077s">
+<persName>
+<forename>Albert Otto Heinrich</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1888"/>
+<death cert="unknown"/>
+<occupation>n.a.</occupation>
+<residence><geo decls="#WGS">52.4438008 10.0078364</geo>Burgdorf, Region Hannover</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1926" to="1939">1926-1939</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Dementia paranoides, Wahnideen, Halluzination (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notiz</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Der Schreiber erzählt von einer Pistole, die er zerstört hat und mit der angeblich schon früher Überfälle verübt wurden.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16077s08a.jpg" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<p><hi rendition="#r">2 durch meine Person vernichtete <w>Radio Pistole</w></hi><lb break="yes"/>die neben Radiostücke <w>an zogen</w><lb break="yes"/>aber Funkspruch
+                nicht entstand<lb break="yes"/>sondern gegen Abend kreiselwelle<lb break="yes"/>ins Erdinnere ging nach meiner<lb break="yes"/>Vermutung trotzdem nebenbei noch<lb break="yes"/>Hauptbestandteile in Erdinnere sein<lb break="yes"/>müssen,
+                weil die Horrorgestalten diese<lb break="yes"/>Waffe aufgepaßt haben und auch
+                dieselbe<lb break="yes"/>durch <unclear>Söldlinge, Fauter</unclear> nachgejagt
+                haben </p>
+<p><seg ana="#pic">Bild 1: Bild von Revolver</seg></p>
+<p><hi rendition="#c">Bild. 1.</hi><lb break="yes"/>habe diese von einen Buchdrucker<lb break="yes"/>namens <hi rendition="#i"><surname>M.</surname></hi> in der Kakaofabrik<lb break="yes"/>erstanden für 500 <hi rendition="#i">Mark</hi> der nachdem<lb break="yes"/>ins
+                Ausland wanderte aber wo ich<lb break="yes"/>diese Sache entdeckte von Radar von<lb break="yes"/>einen Buchdrucker von Verband nach<lb break="yes"/>gejagt
+                wurde, da ich damals arbeitslos<lb break="yes"/>war und dieser Gehilfe in Nebenraum<lb break="yes"/>des Hauptberau in Gewerkschaftshaus des <w>Buch dru<lb break="no"/>kerverband</w> seine Unterstützung erhalten hatt<lb break="yes"/>Außerdem jagte diese Pistole eine <hi rendition="#i">Marine</hi><lb break="yes"/>Soldat nach, Jungjohann der damals drausn<lb break="yes"/>wohnte
+                mus auch drinen verwickelt sein<lb break="yes"/>dieser Jungjohann der neben mir
+                gewohnt<lb break="yes"/>hat, mus damals maskirt sein mit 2 Gehilfen<lb break="yes"/>trug einen ausgeschnitten Backenbart, im Gang<lb break="yes"/>hatte ich diesen
+                erkannt </p>
+<p><seg ana="#pic">Bild 2: Bild von Pistole</seg></p>
+<p><hi rendition="#c">Bild 2.</hi><lb break="yes"/>Eine Pistole meines Bruders<lb break="yes"/>gekauft in einen
+                Waffenladen<lb break="yes"/>ohne daß er es wußte, was<lb break="yes"/>diese
+                Pistole bedeutet betreffs Radar<lb break="yes"/>versendet in Kolshorner Moor durch<lb break="yes"/>einen Rutengänger und <w>Wasserloch<lb break="yes"/>sucher</w> <hi rendition="#i"><surname>M.</surname> Hannover</hi>, diese wurde<lb break="yes"/>versendet auch meinen Brief den ich<lb break="yes"/>damals ihm
+                sandte <hi rendition="#i">Aug. <surname>S.</surname></hi><lb break="yes"/>Elektriker Burgdorf <hi rendition="#i">b C</hi>e<hi rendition="#i">lle Hannove</hi><lb break="yes"/><hi rendition="#c">Kreisstadt.</hi>
+</p>
+<p><add place="margin"><hi rendition="#u"><hi rendition="#i">Me<del>s</del>chanismu</hi>ß</hi><lb break="yes"/>der Abdrücker <w>vor lader</w><lb break="yes"/><w>so</w><w>genau</w> kann ich mir<lb break="yes"/>dieselbe nicht entsinnen<lb break="yes"/>sondern muß beifügen<lb break="yes"/>daß dieselbe wo er bei
+                    mir<lb break="yes"/>zum Besuchst weilte Westlich<lb break="yes"/>eine
+                    Schwefelwolke von Himmelszelt<lb break="yes"/>entstandt und wie ich den Arzt<lb break="yes"/>erzählte bebend mein Bruder Funkspruch<lb break="yes"/>entstandt </add></p>
+<p><add place="above"><add hand="arzt"><hi rendition="#i"><hi rendition="#u"><surname>S.</surname></hi></hi></add></add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham13931m03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>13931</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Willy Georg <surname>M.</surname></persName>
+<date type="sent">10.05.1922</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion: n.a. <surname/></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham13931m">
+<persName>
+<forename>Willy Georg</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1894"/>
+<death cert="unknown"/>
+<occupation>Montagearbeiter</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand:ledig</p>
+<p>Eltern: Bäcker</p>
+<p>Anstalt: <date from="1922" to="1939">1922-23;1938-39</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Manische Erregtheit (1923), Periodische Manie (1938)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er bittet die Direktion darum, sich umfassend bei seiner Familie über ihn zu informieren.
+                    Er fühlt sich schlecht in der Anstalt und möchte, dass man sich für ihn einsetzt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham13931m03a01.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="ham13931m03a02.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="ham13931m03a03.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<pb facs="#image_006"/>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i"><hi rendition="#u" style="arzt"><surname>M.</surname>. 10/5. 22.</hi> <add hand="arzt">V. 5.</add></hi></hi></dateline>
+<salute/>
+</opener>
+<p><hi rendition="#i">Hiermit bitte ich nochmals<lb break="yes"/>die Direktion von
+                        Langen<lb break="no"/>horn, genaue Auskunft über<lb break="yes"/>meine
+                    Person einziehen zu<lb break="yes"/>wollen. I. Bei meiner Groß<lb break="no"/>mutter Frau <surname>D.</surname><lb break="yes"/>Mandl-Stift. Hbg Richard<lb break="yes"/><unclear reason="damage"/> sowie meinen Eltern<lb break="yes"/><unclear reason="damage"/> Geschwistern Menkes<lb break="no"/><unclear reason="damage"/> 35. ptr. Was meine<lb break="yes"/><unclear reason="damage">Kra</unclear>nkheit anbetrift, so ist<lb break="yes"/><unclear reason="damage">F</unclear><hi rendition="#u" style="arzt">reiheitsdrang</hi>, woran<lb break="yes"/><unclear reason="damage">i</unclear>ch zu leiden habe, ich<lb break="yes"/><unclear reason="damage">weiß</unclear> genau was ich mache.<lb break="yes"/><unclear reason="damage"/>
+fühle ich mich leben<lb break="no"/><unclear reason="damage">ig</unclear> begraben, es liegt in<lb break="yes"/><unclear reason="damage"/> Macht hier ein zu<lb break="yes"/><unclear reason="damage"/>fen, können Sie es nicht,<lb break="yes"/>werde ich mein
+                        eige<lb break="no"/>nes ich ein Ende machen.<lb break="yes"/><seg ana="#salute">Hochachtungsvoll.</seg>
+<seg ana="#signed">W. G. <hi rendition="#u" style="arzt"><surname>M.</surname></hi></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

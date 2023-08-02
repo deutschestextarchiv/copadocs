@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16524a08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16524</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Walter <surname>A.</surname></persName>
+<date type="sent">ca1926</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Freund: Franz <surname/></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16524a">
+<persName>
+<forename>Walter</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1895"/>
+<death cert="unknown"/>
+<occupation>Tischler</occupation>
+<residence><geo decls="#WGS">53.58646755 9.777669726868917</geo>Altona/Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1926" to="1926">1926</date></p>
+<p>Brieftypen: po (Lebenslauf), pp</p>
+</state>
+<trait><p>Imbezillität, Debilität, epileptische Veranlagung (1926)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Beschreibung des nackten Körpers und der Kleidung einer Frau (Schwester?)
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16524a08a.jpg" xml:id="image_023"/>
+<graphic mimeType="image/jpg" url="ham16524a08b.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_023"/>
+<p>Blaue Augen<lb break="yes"/>und ganz<lb break="yes"/>schmale Hand<lb break="yes"/>das glaubst du<lb break="yes"/><w>gar</w><w>niht</w> Franz<lb break="yes"/>wie kleine<lb break="yes"/>Füsse und<lb break="yes"/>Hände Sie hat.<lb break="yes"/>Sie hat son lan<lb break="no"/>ges Haar, es<lb break="yes"/>geht bis in die<lb break="yes"/>Knie. O
+                ich wolte<lb break="yes"/>Du könntes Sie<lb break="yes"/>mal sehn. <hi rendition="#i">Der</hi><lb break="yes"/>Pastor von Kirch<lb break="no"/>werder, glaub<lb break="yes"/>Ich will ichr <w>schü,<lb break="no"/>ter</w> heiraten.<lb break="yes"/>Dieser Pastor<lb break="yes"/>ist früher Kandi<lb break="no"/>dat
+                in tübersen<lb break="yes"/>gewesen, der<lb break="yes"/>ist noch ledig.<lb break="yes"/>Aber meine<lb break="yes"/>Mutter hat zum<lb break="yes"/>Pastor
+                    gesagt<lb break="yes"/>Hoffnung läst niht<lb break="yes"/>zu Schande werden.<lb break="yes"/>Sie währe <w>vor<lb break="no"/>läufig</w> noch ein<lb break="yes"/>Kind. Lieber Freund<lb break="yes"/>dich alles nähere<lb break="yes"/>erzählen
+                    würde<lb break="yes"/>ich 10 lange Sei<lb break="no"/>ten zu gebrau<lb break="no"/>chen, das kann ich<lb break="yes"/>mit den besten<lb break="yes"/>Willen niht.</p>
+<pb facs="#image_024"/>
+<p> Sie hat volle<lb break="yes"/>Brüste ganz<lb break="yes"/>Fest, und ihre<lb break="yes"/>Hüften sind<lb break="yes"/>so komisch<lb break="yes"/>das kann
+                    ich<lb break="yes"/>dir weiter niht<lb break="yes"/>beschreiben.<lb break="yes"/>So ganz rein<lb break="yes"/>geht es da.<lb break="yes"/>ichr Schuhgröße<lb break="yes"/>ist 35. Zen. t. m.<lb break="yes"/>sie hat ein ganz<lb break="yes"/>kleines Gesicht<lb break="yes"/></p>
+<p>Ach so du wol<lb break="no"/>tes noch ichr<lb break="yes"/><w>Hemd</w><w>wissen</w><lb break="yes"/>wie lang es ist,<lb break="yes"/>das Nachthemd ist<lb break="yes"/>ganz lang.<lb break="yes"/>Aber ichr <w>Tag<lb break="no"/>Hemd</w> geht<lb break="yes"/>etwas über<lb break="yes"/>die Knie.<lb break="yes"/>O sie
+                    bekommmt<lb break="yes"/>heute auch noch<lb break="yes"/>böß haue von<lb break="yes"/>meine Mutter<lb break="yes"/>Sie wird in alter<lb break="yes"/><w>zurüt geßetzt</w><lb break="yes"/></p>
+<p><seg ana="#salute"><hi rendition="#i">Das</hi> war alles</seg>
+<seg ana="#signed"><hi rendition="#i"><lb break="yes"/>D. F. Walter.</hi></seg></p>
+</body>
+</text>
+</TEI>

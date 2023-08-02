@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham17233m11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>17233</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Reinhold <surname>M.</surname></persName>
+<date type="sent">19.04.1926</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Staatsanwaltschaft: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Hamburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham17233m">
+<persName>
+<forename>Reinhold</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1880"/>
+<death when="1945"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">50.9541558 14.650553</geo>Leutersdorf</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: <!--Beruf/unehelich/Vermögen--></p>
+<p>Anstalt: <date from="1928" to="1945">1928-32;1935-45</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>[Epilepsie] (1913), Vergiftungsideen (1929)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ballpoint" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Über die Ankunft in der Anstalt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham17233m11a.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="ham17233m11b.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_028"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Hamburg</hi> den 19/4.26</hi></dateline>
+<salute>An die Staatsanwaltschaft<lb break="yes"/><space/> zu <hi rendition="#i">Hamburg</hi></salute>
+</opener>
+<p>Bitte die Staatsanwaltschaft um<lb break="yes"/>meine Befreiung aus hießiger<lb break="yes"/>Irrenanstalt.
+                    </p><p>Unterzeichneter <del>bittet</del> wurde am 21/6.26<lb break="yes"/>von der Polizeivache, (Stadthaus) vegen<lb break="yes"/>Wiederstand festgenom̄en, und hir<lb break="yes"/>in ein festes Haus gebracht, <seg ana="#med">wo ich<lb break="yes"/>schreklichen Torturen unterworfen bin</seg>.
+                    </p><p><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Reinhold <hi rendition="#i"><surname>M.</surname></hi></seg><lb break="yes"/>Maurergeselle</hi><lb break="yes"/>zur Zt. StaatskrankenAnstalt Fridrichsberg<lb break="yes"/><hi rendition="#r">Haus 7 unten</hi>
+</p>
+<pb facs="#image_029"/>
+<p>An<lb break="yes"/><hi rendition="#c">die<lb break="yes"/>Staats-Anwaltschaft</hi>
+</p>
+<p><add place="margin"><add hand="arzt"><hi rendition="#u">zur Akte</hi>19.IV 27<lb break="yes"/><unclear/></add></add></p>
+<p><hi rendition="#c">zu <hi rendition="#i">Hamburg</hi><lb break="yes"/>Justizgebeude<lb break="yes"/>vor den Holstenplatz</hi></p>
+<p><add place="margin">Abs. <hi rendition="#i">R. <surname>M.</surname></hi> Fridrichsbg Haus 7 unten</add></p>
+</body>
+</text>
+</TEI>

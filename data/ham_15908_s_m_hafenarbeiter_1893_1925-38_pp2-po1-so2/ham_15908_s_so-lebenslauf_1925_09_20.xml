@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham15908s01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>15908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Arthur Max Julius <surname>S.</surname></persName>
+<date type="sent">20.09.1925</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname/></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham15908s">
+<persName>
+<forename>Arthur Max Julius</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1893"/>
+<death cert="unknown"/>
+<occupation>Hafenarbeiter</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>geb. Hamburg, zuvor Staatskrankenanstalt Friedrichsberg, zuvor obdachlos</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Arbeiter</p>
+<p>Anstalt: <date from="1925" to="1938">1925-27;1932-38</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>degen. Geistesschwäche, Morphinismus (1925), Alkoholismus, Psychopathie (1932)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Lebenslauf</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Geboren und Volksschule in Hamburg, nach Konfirmation als Matrose unterwegs in der Welt, Rückkehr nach Hamburg und Morphinsucht, 
+                    Einweisung zur Entwöhnung durch die Eltern, Verlegung nach Langenhorn
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham15908s01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><add hand="arzt" place="top">4 <hi rendition="#r">20.9.25.</hi></add></p>
+<p><hi rendition="#c">Mein Lebenslauf.</hi><lb break="yes"/>Ergebenst unterzeichneter Arthur Max Julius
+                    <surname>S.</surname>, geb. 9.1.093.<lb break="yes"/>Zu Hamburg wo ich
+                auch 8 Jahre die Volksschule besuchte und aus<lb break="yes"/>der 2. Klasse
+                entlassen wurde. Nach meiner Konfirmation ging<lb break="yes"/>ich zur See, nach
+                der ich schon als Knabe große Sehnsucht hatte.<lb break="yes"/>Und zwar fuhr ich
+                als Matrose auf Segelschiffen verschiedener<lb break="yes"/>Nationalitäten. 1920
+                kehrte ich von Amerika nach Hamburg zurück,<lb break="yes"/>um die Heimat und meine
+                Eltern wieder einmal zu besuchen.<lb break="yes"/>Durch die tollen Zustände, die
+                hier herrschten, eignete ich mir die<lb break="yes"/>allgemeine und schädliche
+                Leidenschaft des <w>Morphium spritzens</w> an,<lb break="yes"/>von der ich nicht wieder
+                loskommen konnte. Damit ich<lb break="yes"/>nicht ganz zu Grunde gehen sollte,
+                ließen meine Eltern mich<lb break="yes"/>192<unclear>5</unclear> in die Heilanstalt
+                Friedrichsberg bringen, um eine<lb break="yes"/>Entwöhnungskur an mir vornehmen zu
+                lassen. Von wo aus<lb break="yes"/>ich nach 3 monatlichem Aufenthalt, nach der
+                Staatskrankenanstalt<lb break="yes"/>Langenhorn überführt wurde. Und wo ich mich
+                jetzt noch befinde<lb break="yes"/>und jeden Tag die Stunde meiner Entlassung
+                erwarte.<lb break="yes"/><hi rendition="#c"><seg ana="#signed"><hi rendition="#i">Arthur <surname>S.</surname>.</hi></seg></hi></p>
+</body>
+</text>
+</TEI>

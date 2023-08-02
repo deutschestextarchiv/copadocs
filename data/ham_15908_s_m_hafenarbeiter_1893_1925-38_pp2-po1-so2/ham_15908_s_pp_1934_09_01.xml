@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham15908s02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>15908</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Arthur Max Julius <surname>S.</surname></persName>
+<date type="sent">01.09.1934</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Bruder: Karl <surname>S.</surname></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham15908s">
+<persName>
+<forename>Arthur Max Julius</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1893"/>
+<death cert="unknown"/>
+<occupation>Hafenarbeiter</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>geb. Hamburg, zuvor Staatskrankenanstalt Friedrichsberg, zuvor obdachlos</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Arbeiter</p>
+<p>Anstalt: <date from="1925" to="1938">1925-27;1932-38</date></p>
+<p>Brieftypen: pp, po, so</p>
+</state>
+<trait><p>degen. Geistesschwäche, Morphinismus (1925), Alkoholismus, Psychopathie (1932)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Er beschwert sich, dass er noch keine Antwort auf den letzten Brief erhalten hat, weiß aber von einem anderen Brief, dass
+                    dieser erst gar nicht übermittelt wurde.
+                    Er gibt ein Gespräch mit dem Arzt wortwörtlich wieder, in dem er die Befragung abbricht und auf seinen Vormund verweist.
+                    Er bittet seinen Bruder um Alltagsgegenstände, die er in der Anstalt nicht bekommt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham15908s02a.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="ham15908s02b.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="ham15908s02c.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r">Langenhorn, 1.9.034.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#u">Mein lieber Bruder!</hi></hi></salute>
+</opener>
+<p>Bereits Wochen sind vergangen, du versprachst mir,<lb break="yes"/>so bald <hi rendition="#i">w</hi>ie möglich zu schreiben, zu <hi rendition="#i">w</hi>elchem
+                    Z<hi rendition="#i">w</hi>eck<lb break="yes"/>weißt du genau, tue es nun
+                unverzüglich. "<hi rendition="#i">W</hi>illy<lb break="yes"/>in
+                    <unclear>Ertin</unclear>" hab' ich benachrichtigt, <seg ana="#cens">trotz meines
+                    vielen<lb break="yes"/>bittens, wurde der Brief nicht befördert, aber was<lb break="yes"/>soll ich dagegen tun</seg>. Du kannst Ihn davon in<lb break="yes"/>Kenntnis setzen, und bitte Ihn, zu ant<hi rendition="#i">w</hi>orten.<lb break="yes"/>Nun mußt ich dir folgende Geschichte erzählen,<lb break="yes"/>die sich zugetragen hat. A. <surname>S.</surname> hat mich
+                wieder<lb break="yes"/>einmal <unclear>von</unclear>gehabt, das 6 mal im Jahr! Ich
+                bin aber<lb break="yes"/>nur deswegen hineingegangen, ich <hi rendition="#i">w</hi>ollte was hören,<lb break="yes"/>warum ist dir klar?!! Daraufhin wurde ich
+                stutzig<lb break="yes"/>und brach die Behandlung kurzerhand ab. Also, nehm<lb break="yes"/>Sie Platz, "Herr <surname>S.</surname>", Sie <hi rendition="#i">w</hi>aren damals nervös,<lb break="yes"/>ich, nicht im geringsten, Tausend
+                Mark Belohnun<unclear>g</unclear><lb break="yes"/>demjenigen der mich, aus der Ruhe bringt.</p>
+<pb facs="#image_003"/>
+<p>Weiter sagt der Arzt, was war es denn, "faulheit"<lb break="yes"/>nein, das
+                bringt die Zeit mit sich, wenn man<lb break="yes"/>30 Monate unschuldig eingesperrt
+                ist, da war<lb break="yes"/>ich wohl etwas niedergeschlagen,
+                ist ja auch zu verstehen.<lb break="yes"/>Übrigens was <hi rendition="#i">w</hi>ollen Sie von mir, warum wollen Sie<lb break="yes"/>mit mir verhandeln, ich
+                verweigere die Aussage, das<lb break="yes"/>tut nicht gut meint der Arzt, das weiß
+                ich am<lb break="yes"/>besten Wenn Sie mit mir verhandeln wollen, dann<lb break="yes"/>müssen <add place="above">Sie</add> mir vor allen Dingen, die
+                Bemündigung<lb break="yes"/>wieder geben, alles andere machen Sie mit dem<lb break="yes"/>Vormund ab. Ich erhob mich, verließ das Zimmer,<lb break="yes"/>und sagte, auf Wiedersehen. Um die Lippen des<lb break="yes"/>Arztes spielte ein
+                zynisches Lächeln. Wenn der Arzt<lb break="yes"/>meint genügen Beweise gesammelt zu
+                haben, meimt,<lb break="yes"/>wegen hoffentlich geht es bald los, mit dem Termin.<lb break="yes"/>Zum Schluß mein lieber Bruder! alles ist knapp<lb break="yes"/>schicke Tabak, Kautabak Zeitschriften, wie du weißt<lb break="yes"/>kriegen wir
+                fast gar nichts mehr, trotz der Arbeit.<lb break="yes"/>Sonst alles beim alten.
+                Grüße zu hause.<lb break="yes"/><seg ana="#salute">Es grüßt dich herzlich dein
+                    Bruder</seg>,<lb break="yes"/><hi rendition="#r"><hi rendition="#i"><seg ana="#signed">Arthur</seg></hi></hi></p>
+<pb facs="#image_004"/>
+<p><add hand="arzt" place="top"><hi rendition="#r">16.19<lb break="yes"/><surname>S.</surname><lb break="yes"/>Arthur<lb break="yes"/><unclear>3</unclear>.IX.34.</hi></add></p>
+<p><hi rendition="#i">Herrn<lb break="yes"/><hi rendition="#c"><add hand="arzt">zur kr.
+                        </add></hi></hi><hi rendition="#c"><add hand="arzt">h</add></hi><hi rendition="#i"><hi rendition="#c"><add hand="arzt">esch.<lb break="yes"/>4.IX.34
+                            kR</add><lb break="yes"/>Karl <surname>S.</surname><lb break="yes"/><hi rendition="#u">Kiel</hi><lb break="yes"/>Ring<unclear>str</unclear>
+<hi rendition="#i">W. 38</hi></hi></hi></p>
+</body>
+</text>
+</TEI>

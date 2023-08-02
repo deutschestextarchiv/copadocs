@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham20206f05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>20206</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Emanuel <surname>F.</surname></persName>
+<date type="sent">29.04.1936</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Arzt: Dr. Kerl</persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham20206f">
+<persName>
+<forename>Emanuel</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1877"/>
+<death when="1940"/>
+<occupation>Schmied</occupation>
+<residence><geo decls="#WGS">50.2132854 18.7789532</geo>Chudow</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: <!--Familienstand--></p>
+<p>Eltern: <!--Beruf/unehelich/Vermögen--></p>
+<p>Anstalt: <date from="1933" to="1940">1933-1940</date></p>
+<p>Brieftypen: po,pp</p>
+</state>
+<trait><p>Progressive Paralyse, Alkoholpsychose (1933), Halluzination, Größenideen (1934)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Bitte um Verlegung in ein anderes Haus
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham20206f05a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="ham20206f05b.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="ham20206f05c.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Langenhorn</hi>, den 29. April
+                        1936.</hi></dateline>
+<salute><hi rendition="#c">Geehrter Herr Dr. Kerb!</hi><add hand="arzt" place="margin"><hi rendition="#i">Kr. Akte</hi></add></salute>
+</opener>
+<p>
+<space/> Ich Endesunterschriebener, erlaube ich mir Ihnen nach<lb break="yes"/>stehende, gehorsame Bitte zu unterbreiten und begründe<lb break="yes"/>dieselbe
+                folgendermaßen: </p>
+<p><space/> Am 1. September v. Js. bin ich aus dem freien Haus 7<lb break="yes"/>nach
+                dem Abämmerhaus 3 (Krankenstation) ohne rechtmä<lb break="no"/>ßigen Grund verlegt
+                worden. Ungefähr 2 Wochen vor<lb break="yes"/>Ostern d. Js. habe ich Herrn <hi rendition="#i">Dr</hi>. um Terrainfreiheit gebe<lb break="no"/>ten und habe bis
+                jetzt keine diesbezügliche Antwort<lb break="yes"/>auf meine Bitte erhalten. Mein
+                behandelnder Arzt Herr<lb break="yes"/><hi rendition="#i">Dr. Knigge</hi> hat mich
+                vorriges Jahr im Juli im Gebäu<lb break="no"/>de angehalten und sein Erstaunen
+                darüber ausgedrückt<lb break="yes"/>daß ich noch nicht entlassen wäre. Kurz vor
+                Weihnachten<lb break="yes"/>v. Js. habe ich mit Ihnen Geehrter Herr <hi rendition="#i">Doctor</hi> über die<lb break="no"/>sen Fall Rücksprache gehalten,
+                jedoch mit dem nega<lb break="no"/>tiven Ergebnis, daß ich hier zeitlebens in dieser
+                Anstalt<lb break="yes"/>zubringen müßte, da meine Nerven durch die überstan<lb break="no"/>dene Kur gelitten hätten. Durch welches Resultat<lb break="yes"/>Sie Geehrter Herr <hi rendition="#i">Dr</hi>. zu diesem Urteil gelangt sind,<lb break="yes"/>ist für mich ein Rätsel, da Sie mich außer einer ein<lb break="no"/>maligen Behandlung und zwar <add place="above">nur</add>eines Verpassens von<lb break="yes"/>einer Brille weiter nicht behandelt, vor allen Dingen<lb break="yes"/>eines Nervenleidens wegen. </p>
+<p><space/> Bemerken will ich noch, daß ich 55 Jahre alt ge<lb break="no"/>worden bin,
+                ehe mein Krankheitsfall eingetreten ist,<lb break="yes"/>kein Sittenverbrechen,
+                keinen Raub, Mord, Betrug oder<lb break="yes"/>andere Vergehen begangen habe und
+                meine Krank<lb break="no"/>heit nur <hi rendition="#u" style="arzt">durch die
+                    erlittenen, viehischen Mißhandlun<lb break="no"/>gen, von Seiten der
+                    Polizeibeamten und Hilfsbeam<lb break="no"/>ten ausgebrochen ist, deren Folgen
+                    ich noch heute trag</hi><lb break="yes"/>Zu alle dem bin ich seit dem 1. September mei<lb break="no"/>ner
+                persönlichen Freiheit beraubt und alle meine<lb break="yes"/>Einwundungen sind
+                fruchtlos verlaufen. </p>
+<p>Hinzufügen will ich noch, daß ich mich nach Ablauf <pb facs="#image_010"/>meiner
+                Krankheit <hi rendition="#u" style="arzt">im̄ er ruhig verhalten und</hi>
+                die<lb break="yes"/>mir obliegenden Arbeiten zur vollen Zufriedenheit<lb break="yes"/>des beaufsichtigenden Personals ausgeführt habe.<lb break="yes"/>Aus diesem Grunde bitte ich: </p>
+<p><hi rendition="#r">Den mir widerrechtlich aufgezwungenen Frei<lb break="no"/>heitsentzug aufzuheben oder mich nach ein<lb break="no"/>nem anderen Haus
+                    unter Leitung eines an<lb break="no"/>deren Arztes verlegen zu wollen.</hi>
+</p>
+<p><hi rendition="#r"><seg ana="#salute">Achtungsvoll</seg></hi></p>
+<p><hi rendition="#r"><seg ana="#signed">Emanuel <hi rendition="#i"><surname>F.</surname></hi><lb break="yes"/>Schmid.</seg></hi></p>
+<pb facs="#image_011"/>
+<p><hi rendition="#c"><hi rendition="#i"> An </hi><lb break="yes"/><hi rendition="#i">Herrn Dr. Kerb</hi></hi><lb break="yes"/><hi rendition="#r">Hier!</hi></p>
+</body>
+</text>
+</TEI>

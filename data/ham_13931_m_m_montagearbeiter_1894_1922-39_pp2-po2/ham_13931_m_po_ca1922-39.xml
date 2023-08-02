@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham13931m02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>13931</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Willy Georg <surname>M.</surname></persName>
+<date type="sent">ca1922-39</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion: n.a. <surname/></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham13931m">
+<persName>
+<forename>Willy Georg</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1894"/>
+<death cert="unknown"/>
+<occupation>Montagearbeiter</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand:ledig</p>
+<p>Eltern: Bäcker</p>
+<p>Anstalt: <date from="1922" to="1939">1922-23;1938-39</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Manische Erregtheit (1923), Periodische Manie (1938)
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Pat. bedankt sich für eine Bescheinigung und beschwert sich, dass sein Eigentum verschwunden ist, bzw. verkauft wurde.
+                    Er wurde nur falsch eingeschätzt, weil er bei der Einweisung absichtlich falsche Angaben gemacht hat.
+                    Als Zeichen seines Guten Willens schiebt er die Schuld an seiner Situation nicht mehr auf die Angehörigen bzw. "Feinde", die ihn
+                    hingebracht haben, sondern den Staat im Allgemeinen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham13931m02a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="ham13931m02b.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#i"><hi rendition="#c">Sehr geehrte Direktion!</hi></hi></salute>
+</opener>
+<p><hi rendition="#i">Habe die Bescheininung über meine<lb break="yes"/>Effekten dankend
+                    erhalten, Selbiger<lb break="yes"/>stim̄t ganz genau. Es ist bereits<lb break="yes"/>das <w>dritte</w><w>mal</w>, daß meine notwendig<lb break="no"/>sten<del>s</del>
+<del>Di</del>Sachen, die man zum Leben<lb break="yes"/>gebraucht abhanden
+                    gekom̄en sind,<lb break="yes"/>nebst Wertsachen, welher Andenken<lb break="yes"/>von meinen gefallenen Bruder waren,<lb break="yes"/>selbige
+                    bestanden aus. 1. 14 K. Siegelring<lb break="yes"/>mit roten Stein. 1 Silberne
+                    Uhr<lb break="yes"/>nebst Kette, welche ohne mein Wissen<lb break="yes"/>verauktioniert und das Geld für<lb break="yes"/>Gerichtskosten beschlagnahmt
+                    ist,<lb break="yes"/>Entbehrung ist das Menschlich-Leben,<lb break="yes"/>folglich kann ich noch sehr wol von<lb break="yes"/>meinen Effekten
+                    entbehren. Ich habe<lb break="yes"/>eine sehr bittere Lebens-Schule<lb break="yes"/>durchgemacht und dadurch sehr<lb break="yes"/>stark geworden.
+                    Ich habe hier<lb break="yes"/>bei meiner Einlieferung, einige <pb facs="#image_011"/>wissentliche Angaben gemacht hab<lb break="yes"/>die ich
+                    genau wußte, dadurch b<lb break="yes"/>ich gänzlich falsch Beurteilt<lb break="yes"/>worden. Vorläufig bitte ich, die<lb break="yes"/>folgenden
+                    Sachen zu verkaufen.<lb break="yes"/>1. Überzieher.<lb break="yes"/>1. bl.
+                    Anzug.<lb break="yes"/>1. p. Schnürstiefel.<lb break="yes"/>1. 〃 neue
+                    Hosenträger.<lb break="yes"/>1. Brieftasche. || ein Wildleder
+                    Portemonai<lb break="yes"/><hi rendition="#r">fehl</hi></hi><lb break="yes"/><milestone rendition="#hr" unit="section"/></p>
+<p><hi rendition="#i">Wieweit ich vorgeschritten bin, bewei<lb break="no"/>se ich
+                    hiermit, dass ich meine<lb break="yes"/>bittersten Feinde, die Hand gebe<lb break="yes"/>und sage lieber Freund Sie kön<lb break="no"/>nen nichts dafür,
+                    daß Sie so sind,<lb break="yes"/>Schuld an Allen - Übel, ist Preu<lb break="no"/>sen und Polen-Staat. Mein Ich<lb break="yes"/>ist ein nichts. Wenn Ihnen mein<lb break="yes"/>Wohlwollen nahe liegt, so bitte ich er<lb break="no"/>kundigungen bei meiner Großmutter<lb break="yes"/>Frau
+                        <surname>D.</surname>, Magdl-Stift, Richard<lb break="yes"/>Hamburg,
+                    einzuziehen. <seg ana="#salute">Hochachtungsvo<unclear reason="damage">ll</unclear></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">W.
+                                <surname>M.</surname>.</seg></hi></hi></p>
+</body>
+</text>
+</TEI>

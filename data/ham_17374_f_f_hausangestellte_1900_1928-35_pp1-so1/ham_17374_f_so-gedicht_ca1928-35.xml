@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham17374f01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>17374</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Auguste Hermine <surname>F.</surname></persName>
+<persName type="addressee">n.a.</persName>
+<date type="sent">ca1928-35</date>
+<date type="received">n.a.</date>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="ham17374f">
+<persName>
+<forename>Auguste Hermine</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1900"/>
+<death cert="unknown"/>
+<occupation>Hausangestellte</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1928" to="1935">1928-35</date></p>
+<p>Brieftypen: pp, Gedicht</p>
+</state>
+<trait><p>Schizophrenie (1928)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Gedicht</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Klage darüber, dass sie trotz Arbeit im Irrenhaus ist
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham17374f01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<p><add hand="arzt">z. <hi rendition="#i">Krank</hi>. Gesch. <hi rendition="#u"><surname><hi rendition="#i">F.</hi></surname></hi></add><hi rendition="#u"> </hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Ich
+                        bin Köksch</hi></hi><lb break="yes"/><hi rendition="#i">Dreizehn Jahre hab
+                    ich meine Arbeit sehr geliebt!</hi><lb break="yes"/><hi rendition="#i">drum bin
+                    ich meiner Arbeit gern geübt.</hi><lb break="yes"/><hi rendition="#i">Was hat die
+                    Arbeit mir zum Dank erfolgt?</hi><lb break="yes"/><hi rendition="#i">man hat mich
+                    in ein Irrenhaus gerollt.</hi></p>
+<p><space/> <hi rendition="#i">Im Irrenhaus hab ich auch sehr viel gelernt,</hi><lb break="yes"/><space/> <hi rendition="#i">in dem man mich drei Jahre
+                    eingesperrt.</hi><lb break="yes"/><hi rendition="#i">Ich hoffe das es bleit beim
+                    alten,</hi><lb break="yes"/><hi rendition="#i">Madam wird ihr Versprechen
+                    halten,</hi><lb break="yes"/><hi rendition="#i">daß ich später auch einmal
+                    </hi><lb break="yes"/><hi rendition="#i">ihre Köksch sein darf.</hi></p>
+<p><hi rendition="#i">Na dat is en schön Geschicht.</hi><lb break="yes"/><hi rendition="#i">Wat hätt mi al min Arbeit nützt,</hi><lb break="yes"/><hi rendition="#i">wat nützt mi dat ick waschen kann,</hi><lb break="yes"/><hi rendition="#i">wat nützt mi dat ick schür’n kann,</hi><lb break="yes"/><hi rendition="#i">wat nützt mi dat ick plätten kann,</hi><lb break="yes"/><hi rendition="#i">wat nützt mi dat ick koken kann.</hi><lb break="yes"/><hi rendition="#i">Wat nützt mi al mien Kökschentüch</hi><lb break="yes"/><hi rendition="#i">ick bün padü</hi><lb break="yes"/><hi rendition="#i">veel verdent
+                    häv ick nich</hi><lb break="yes"/><hi rendition="#i">iek bin im Irrenhaus dat is
+                    verflixt</hi><lb break="yes"/><hi rendition="#c"><hi rendition="#u"><seg ana="#signed"><hi rendition="#i">Auguste </hi><surname><hi rendition="#i">F.</hi></surname></seg></hi></hi></p>
+</body>
+</text>
+</TEI>

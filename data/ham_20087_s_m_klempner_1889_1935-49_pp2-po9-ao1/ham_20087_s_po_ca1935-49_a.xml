@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham20087s07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>20087</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Friedrich Wilhelm <surname>S.</surname></persName>
+<date type="sent">ca. 1935-49</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.<surname/></persName>
+<settlement type="sent">Hamburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham20087s">
+<persName>
+<forename>Friedrich Wilhelm</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1889"/>
+<death cert="unknown"/>
+<occupation>Klempner</occupation>
+<residence><geo decls="#WGS">53.0264709 18.6334589</geo>Thorn-Mocker</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet, geschieden</p>
+<p>Eltern: Vater: Zimmermann</p>
+<p>Anstalt: <date from="1935" to="1945">1935-45</date></p>
+<p>Brieftypen: po, pp, ao</p>
+</state>
+<trait><p>Schizophrenie (1935), Dementia paranoides (1939), Verfolgungsideen (1935-49)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>Der Patient lehnt gerichtliches Urteil ab und zeigt sich mit der Scheidung von seiner Frau einverstanden.</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham20087s07a.jpg" xml:id="image_049"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_049"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#i">Ich Friedrich Wilhelm </hi><surname><hi rendition="#i">S.</hi></surname><hi rendition="#i"> geb. d. 7.4.1889.</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">zu Thorn-Mocker. Westpr.</hi></hi></p>
+<p><hi rendition="#i"> Bin mit einer Ehescheidung meiner Ehefrau!</hi><lb break="yes"/><hi rendition="#i"> Anna </hi><surname><hi rendition="#i">S.</hi></surname><hi rendition="#i"> geb. </hi><surname><hi rendition="#i">K.</hi></surname><hi rendition="#i"> geschiedene </hi><surname><hi rendition="#i">K.</hi></surname><hi rendition="#i"> einverstanden!</hi></p>
+<p><hi rendition="#i">In Abwesenheit einer gerichtlichen Verhandelung meiner</hi><lb break="yes"/><hi rendition="#i">Person, lehne ich jedes gerichtliche Urtheil ab.
+                </hi></p>
+<p><hi rendition="#i">Schon aus dem Grunde, da meine angebliche Geisteskrankheit</hi><lb break="yes"/><hi rendition="#i">seiner Zeit vorgeschoben wurde.</hi></p>
+<p><hi rendition="#i">Auserdem bin ich in der Lage da meine Frau, im Jahre</hi><lb break="yes"/><hi rendition="#i">1932/33 Ehebruch getrieben hat, welches auch
+                    durch Zeugen</hi><lb break="yes"/><hi rendition="#i">bewisen werden kan.</hi></p>
+<p><space/> <seg ana="#signed"><hi rendition="#i">Friedrich Wilhelm </hi></seg><surname><hi rendition="#i">S.</hi></surname><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#c"><hi rendition="#i">zur zeit A.K.L. Hamburg.</hi></hi></p>
+<p><hi rendition="#i">Hamburg d. 12.4.1998. </hi></p>
+</body>
+</text>
+</TEI>

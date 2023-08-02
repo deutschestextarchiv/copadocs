@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham17233m05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>17233</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: Ernst <surname>M.</surname></persName>
+<date type="sent">02.04.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktion: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Neugersdorf</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham17233m">
+<persName>
+<forename>Reinhold</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1880"/>
+<death when="1945"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">50.9541558 14.650553</geo>Leutersdorf</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: <!--Beruf/unehelich/Vermögen--></p>
+<p>Anstalt: <date from="1928" to="1945">1928-32;1935-45</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>[Epilepsie] (1913), Vergiftungsideen (1929)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Auskunft über das Befinden des Sohnes
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham17233m05a.jpg" xml:id="image_013"/>
+<graphic mimeType="image/jpg" url="ham17233m05b.jpg" xml:id="image_014"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#r">Neugersdorf d. 2.4.28.</hi></dateline>
+<salute>An die<lb break="yes"/>Direktion der Staatskrankenanstalt<lb break="yes"/><hi rendition="#c">Langenhorn</hi></salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#u"><del>4</del>5</hi></add></p>
+<p>Anbei senden wir unseren Sohn<lb break="yes"/>Reinhold <surname>M.</surname>
+                ein Paket und<lb break="yes"/>bitten ihn selbiges zu übergeben.<lb break="yes"/>Er
+                wurde am 29. Febr. d. Jhr.<lb break="yes"/>von der Staatskrankenanstalt<lb break="yes"/>Friedrichsberg nach Langenhorn verlegt.<lb break="yes"/>(Pat-Nr.
+                58285 Tagebuh Nr. 16871 )<lb break="yes"/>Gleichzeitig bitten wir uns doch einmal<lb break="yes"/>Nachricht von unseren Sohn zu geben<lb break="yes"/>wie es um
+                    ih<del>m</del>n aussieht. Er schrieb<lb break="yes"/>uns <w>un längst</w>
+                einmal von einer Loch<lb break="yes"/>im Kopfe und möchten wir gern<lb break="yes"/>wissen ob er wirklich eins hat. </p>
+<pb facs="#image_014"/>
+<p>Senden Sie uns deshalb bitte einmal<lb break="yes"/>Nachricht von unsen Sohn und ob er<lb break="yes"/>könnte noch einmal gesund werden.
+                </p>
+<p><hi rendition="#c">Hochachtungsvoll<lb break="yes"/>Ernst
+                        <surname>M.</surname><lb break="yes"/>Neugersdorf i/Sar.<lb break="yes"/>Fühtestraße 21.</hi><lb break="yes"/><add hand="arzt">Am <hi rendition="#sup">10</hi>/4 28 an <hi rendition="#i"><surname>M.</surname></hi><lb break="yes"/><hi rendition="#c">abgesandt.<lb break="yes"/>E</hi></add></p>
+</body>
+</text>
+</TEI>

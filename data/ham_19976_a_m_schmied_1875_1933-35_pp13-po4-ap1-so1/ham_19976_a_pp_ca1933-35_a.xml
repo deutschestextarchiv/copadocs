@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham19976a15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>19976</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">August Wilhelm <surname>A.</surname></persName>
+<date type="sent">ca1933-35</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Schwager/Schwägerin: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent"><!--Schreibort--></settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham19976a">
+<persName>
+<forename>August Wilhelm</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1938"/>
+<occupation>Schmied, Handelsmann</occupation>
+<residence><geo decls="#WGS">54.1948456 9.0929015</geo>Heide in Holstein</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: geschieden</p>
+<p>Eltern: Vater: Schuhmacher</p>
+<p>Anstalt: <date from="1933" to="1935">1933-35</date></p>
+<p>Brieftypen: pp, po, ap, Lebenslauf</p>
+</state>
+<trait><p>Psychopathie (1933), chronische Manie, Debilität (1938)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Übermittlung der Adresse des Bruders
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham19976a15a.jpg" xml:id="image_054"/>
+<graphic mimeType="image/jpg" url="ham19976a15b.jpg" xml:id="image_055"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_054"/>
+<p>Schreibe mir bitte, die Adr. meines<lb break="yes"/>Bruders. In Calefornien!<lb break="yes"/>Wie du sagtest in Heide. Wo wir<lb break="yes"/>uns, zuletzt gesehen.<lb break="yes"/>Ich bleibe immer derselbe.<lb break="yes"/>Oder der Alte. Davor sei Gott.
+                </p>
+<pb facs="#image_055"/>
+<p>Meine Adr. ist.<lb break="yes"/>Staats-Krankenhaus-Langenhorn-<lb break="yes"/><hi rendition="#c">Hamburg:<lb break="yes"/>M. <hi rendition="#i">N<hi rendition="#sup"><hi rendition="#u">o</hi></hi>.</hi> 18.</hi><lb break="yes"/><seg ana="#salute">Mit herzlichen Gruß.</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Dein Schwager<lb break="yes"/>Wilhelm <surname>A.</surname>.</seg></hi>
+</p>
+</body>
+</text>
+</TEI>

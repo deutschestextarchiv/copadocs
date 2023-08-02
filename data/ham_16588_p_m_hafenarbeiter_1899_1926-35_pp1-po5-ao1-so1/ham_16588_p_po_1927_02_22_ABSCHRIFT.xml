@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16588p07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16588</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>P.</surname></persName>
+<date type="sent">22.02.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: n.a. <surname>S.</surname></persName>
+<settlement type="sent">Hamburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16588p">
+<persName>
+<forename>Heinrich</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1899"/>
+<death cert="unknown"/>
+<occupation>Hafenarbeiter, zuvor Packer</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: Vater: Arbeiter</p>
+<p>Anstalt: <date from="1926" to="1935">1926-35</date></p>
+<p>Brieftypen: pp, po, ao, lebenslauf</p>
+</state>
+<trait><p>angeborener Schwachsinn (1934)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient bittet um seine Entlassung und verspricht, ein geordnetes Leben zu führen.
+                    Der Arzt empfiehlt eine Entlassung jedoch nicht.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16588p07.jpg" xml:id="image_022"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Hamburg</hi> 22. 2. 27.</hi></dateline>
+<salute><hi rendition="#c">Werther Herr!</hi></salute>
+</opener>
+<p><add place="above"><hi rendition="#u"><hi rendition="#i"><surname>P.</surname></hi></hi>
+<hi rendition="#c"><hi rendition="#u">Abschrift.</hi></hi><lb break="yes"/><hi rendition="#c">Adresse: Herrn <hi rendition="#i"><surname>S.</surname></hi>, <hi rendition="#i">Hamburg</hi>
+                        33, <hi rendition="#i">Krögersweg 8<hi rendition="#sup">II.</hi>
+                        l.</hi></hi></add>
+</p>
+<p><space/> Möchte Sie bitten, mich diese Tage mal zu<lb break="yes"/>besuchen und mit
+                Herrn Oberarzt dr. <hi rendition="#i">Sierau</hi> über meine<lb break="yes"/>Verlegung sprechen. Wie mir von Herrn dr. <hi rendition="#i">Kirschbaum</hi><lb break="yes"/>gesagt wurde, so wie ich einen Vormund habe steht meiner<lb break="yes"/>Entlassung nichts mehr im Wege. Ich bin bereits seit 19 <hi rendition="#i">Monate </hi><lb break="yes"/>in der Anstalt habe mich immer gut
+                geführt, vonseiten des<lb break="yes"/>Gerichts wurde mir mitgeteilt und von der
+                Polizeibehörde<lb break="yes"/>das sie gegen meine Entlassung nichts <w>ein zu
+                    wenden</w><lb break="yes"/>haben. Ich möchte gerne wieder ein geregeltes Leben führen<lb break="yes"/>und meine Arbeit <w>nach gehen</w>. Ich kann bei meinem<lb break="yes"/>Vater wohnen und mein Bruder würde mir sofort bei<lb break="yes"/><hi rendition="#i">Bischoff</hi> &amp; <hi rendition="#i">Rodatz</hi> anhelfen.
+                Ich habe meine ganzen<lb break="yes"/>Fehler eingesehen was ich für eine Dummheit
+                gemacht<lb break="yes"/>habe, ich würde nie wieder Dummheiten machen und<lb break="yes"/>meiner Arbeit nachgehen. <seg ana="#salute">Nun will ich Schließen
+                    in<lb break="yes"/>Hoffnung daß Sie meiner Bitte gewähren. </seg><lb break="yes"/><hi rendition="#r"><seg ana="#salute">Hochachtungsvoll</seg><lb break="yes"/><seg ana="#signed">gez. Heinrich <hi rendition="#i"><surname>P.</surname></hi></seg>.</hi></p>
+<p><hi rendition="#r">Es empfiehlt sich nicht, der Entlassungsfrage</hi><lb break="yes"/>näher zu treten.<lb break="yes"/><space/> bgl. 24. II. 27. <hi rendition="#r">gez. <hi rendition="#i">Dr. Sierau<lb break="yes"/>Oberarzt.</hi></hi></p>
+</body>
+</text>
+</TEI>

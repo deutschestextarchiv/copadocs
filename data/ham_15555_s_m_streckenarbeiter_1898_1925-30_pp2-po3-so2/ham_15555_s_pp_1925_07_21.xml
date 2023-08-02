@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham15555s06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>15555</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Erich <surname>S.</surname></persName>
+<date type="sent">21.07.1925</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: Otto <surname>S.</surname></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham15555s">
+<persName>
+<forename>Erich</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1898"/>
+<death cert="unknown"/>
+<occupation>Streckenarbeiter; Schiffer</occupation>
+<residence><geo decls="#WGS">53.0791965 18.2246086</geo>Schulitz</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1925" to="1930">1925-30</date></p>
+<p>Brieftypen: pp, po, Notiz</p>
+</state>
+<trait><p>angeborener Schwachsinn (1918), debiler Psychopath, evtl. hysterische Anfälle (1925)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Besuch, Tabak und Zigaretten; außerdem Bitte um einen mit Gift getränkten Kuchen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham15555s06a.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#c">Langenhorn d. <hi rendition="#u" style="arzt">21.7.1925</hi></hi></dateline>
+<salute><hi rendition="#c">Liebe Eltern!</hi></salute>
+</opener>
+<p>Ich bin immer noch in Langen<lb break="no"/>chorn und es geht mir ganz<lb break="yes"/>gut. hoffentlich habe Ich bald<lb break="yes"/>Termin damit ich
+                bald nach Hause<lb break="yes"/>Kanne. Ho<del>lt</del>ffentlich besucht Jchr mich<lb break="yes"/>bald, bringt mir Tabak, Zigarretten<lb break="yes"/><unclear reason="damage">P</unclear>apier und Kautabak mit, Ichr müßt<lb break="yes"/>mir einen Kuchen backen mit<lb break="yes"/><unclear reason="damage">d</unclear>
+                Menschengift <del>g</del> drin, den will ich<lb break="yes"/>essen dann bin ich
+                tot, </p>
+<p><hi rendition="#c">herzlichen Gruß</hi><lb break="yes"/>Euer Sohn Emil</p>
+<p><add place="above"><add hand="arzt">K. S Stange<lb break="yes"/>51</add></add></p>
+</body>
+</text>
+</TEI>

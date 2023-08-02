@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16588p05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16588</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>P.</surname></persName>
+<date type="sent">03.01.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname/></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16588p">
+<persName>
+<forename>Heinrich</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1899"/>
+<death cert="unknown"/>
+<occupation>Hafenarbeiter, zuvor Packer</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: Vater: Arbeiter</p>
+<p>Anstalt: <date from="1926" to="1935">1926-35</date></p>
+<p>Brieftypen: pp, po, ao, lebenslauf</p>
+</state>
+<trait><p>angeborener Schwachsinn (1934)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet um eine Untersuchung wegen körperlicher Beschwerden (Herzklopfen, Hitze, Schlaflosigkeit).
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16588p05a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="ham16588p05b.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#u">3.I. 27.</hi></hi></dateline>
+<salute><space/> Werther Herr Oberartz</salute>
+</opener>
+<p> M<unclear>ö</unclear>chte Sie Bitten zwecks Untersuchung<lb break="yes"/>Ich
+                habe häufig starkes <w>Herz klopfen</w><lb break="yes"/><w>auf steigende</w> Hitze und kann<lb break="yes"/>nachts nicht
+                schlafen. Habe einen<lb break="yes"/>schlechten Stuhlgang. In friedrichsberg<lb break="yes"/>habe ich mich häufig <del>von</del> den Pulsschlag<lb break="yes"/>zählen lassen. Es war <del><unclear>vorn</unclear></del> immer zwischen<lb break="yes"/><hi rendition="#r">90 + 100</hi></p>
+<pb facs="#image_018"/>
+<p> Nun möchte ich sie doch Bitten<lb break="yes"/>um <w>fest zu stellen</w> ob ich einen<lb break="yes"/>Herzfehler habe. Auch nach
+                dem<lb break="yes"/>Mittagsessen habe ich immer starke<lb break="yes"/>Herztätigkeit.<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Hochachtungsvoll</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#u">Heinrich
+                                <surname>P.</surname></hi></seg></hi></p>
+</body>
+</text>
+</TEI>

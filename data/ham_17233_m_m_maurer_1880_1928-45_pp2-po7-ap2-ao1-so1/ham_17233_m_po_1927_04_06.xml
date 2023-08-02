@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham17233m14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>17233</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Reinhold <surname>M.</surname></persName>
+<date type="sent">06.04.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Vormundschaftsbehörde: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Friedrichsberg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham17233m">
+<persName>
+<forename>Reinhold</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1880"/>
+<death when="1945"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">50.9541558 14.650553</geo>Leutersdorf</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: <!--Beruf/unehelich/Vermögen--></p>
+<p>Anstalt: <date from="1928" to="1945">1928-32;1935-45</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>[Epilepsie] (1913), Vergiftungsideen (1929)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Ernennung eines anderen Pflegers
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham17233m14a.jpg" xml:id="image_038"/>
+<graphic mimeType="image/jpg" url="ham17233m14b.jpg" xml:id="image_039"/>
+<graphic mimeType="image/jpg" url="ham17233m14c.jpg" xml:id="image_040"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_038"/>
+<opener>
+<dateline><hi rendition="#r">Friedrichsberg d 6/4 27</hi></dateline>
+<salute><hi rendition="#c">An die Vormundschaftsbehörde<lb break="yes"/>zu <hi rendition="#i">Hamburg</hi></hi></salute>
+</opener>
+<p><add hand="arzt">Geschäftl. <hi rendition="#i">No</hi>: M. 8937.</add></p>
+<p>Auf ein Schreiben Ihrerstets vom 11/2.27.<lb break="yes"/>wurde zu meine Pfleger
+                Herr Verwaltungs<lb break="no"/>Obersekretär Bruno Ludwig <surname>K.</surname>,<lb break="yes"/>Hamburg, Hasselbrooßstr. 109, I ernannt,<lb break="yes"/>der
+                mich aber auf <w>3 maliges</w> Schreiben<lb break="yes"/>weder besucht, noch benachrichtige hat<lb break="yes"/>und ich mich in
+                    hie<del>ß</del>siger Anstalt <seg ana="#med">gesund<lb break="yes"/>und
+                    arbeitsfähig</seg> befinde, und mich<lb break="yes"/>nicht auf Staatskosten
+                    ver<unclear>p</unclear>flegen<lb break="yes"/>lassen möchte, so bitte ich um<lb break="yes"/>ernennung eines anderen Pflegers </p>
+<p><add place="margin"><hi rendition="#u">bitte wenden</hi></add></p>
+<p><add hand="arzt" place="top">Der Pfleger war<lb break="yes"/><hi rendition="#u">hier, als Pat.</hi><lb break="yes"/>im<hi rendition="#u"> schwer
+                            gestörten<lb break="yes"/>Zustande war</hi><lb break="yes"/><unclear>dr<surname>K.</surname></unclear></add></p>
+<pb facs="#image_039"/>
+<p><seg ana="#salute">Hochachtungsvoll</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Reinhold <hi rendition="#i"><surname>M.</surname></hi></seg><lb break="yes"/>Maurergeselle</hi><lb break="yes"/>Staatskrankenanstalt Fridrichsberg<lb break="yes"/><hi rendition="#r">Haus 7 unten</hi>
+</p>
+<pb facs="#image_040"/>
+<p>An die Vormundschaftsbehörde<lb break="yes"/><hi rendition="#c">zu<lb break="yes"/><hi rendition="#i"><hi rendition="#u">Hamburg 36</hi></hi><lb break="yes"/>Dammtorwall 41. III Obergeschoß</hi>
+</p> <p>Abs. R. <surname><hi rendition="#i">M.</hi></surname> Haus 7 unten</p>
+</body>
+</text>
+</TEI>

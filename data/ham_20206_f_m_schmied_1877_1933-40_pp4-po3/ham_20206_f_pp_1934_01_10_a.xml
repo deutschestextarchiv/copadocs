@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham20206f01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>20206</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Emanuel <surname>F.</surname></persName>
+<date type="sent">10.01.1934</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: Emil <surname>F.</surname></persName>
+<settlement type="sent">Hamburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham20206f">
+<persName>
+<forename>Emanuel</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1877"/>
+<death when="1940"/>
+<occupation>Schmied</occupation>
+<residence><geo decls="#WGS">50.2132854 18.7789532</geo>Chudow</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: <!--Familienstand--></p>
+<p>Eltern: <!--Beruf/unehelich/Vermögen--></p>
+<p>Anstalt: <date from="1933" to="1940">1933-40</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Progressive Paralyse, Alkoholpsychose (1933), Halluzination, Größenideen (1934)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Aufforderung, jemand solle sich das Leben nehmen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham20206f01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#i">Hamburg</hi>, den 10.1.34</dateline>
+<salute>Herr Emil <surname>F.</surname></salute>
+</opener>
+<p>es wird am besten <add place="margin">sein</add><lb break="yes"/>Ich thele Dir
+                Hierdurch mit<lb break="yes"/><w>und</w><w>fordere</w> nach Empfang dieses<lb break="yes"/>Schreibens dessofort das Leben<lb break="yes"/>zu nehmen wenn du Heihlungg<lb break="yes"/>Art und Weise ist<lb break="yes"/>mir egal <unclear>?
+                    wahr</unclear><lb break="yes"/>ich glaube es </p>
+</body>
+</text>
+</TEI>

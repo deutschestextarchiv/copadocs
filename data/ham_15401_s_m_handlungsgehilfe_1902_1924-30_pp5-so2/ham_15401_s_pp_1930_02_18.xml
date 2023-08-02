@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham15401s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>15401</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Walter <surname>S.</surname></persName>
+<date type="sent">18.02.1930</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Eltern: n.a. <surname>S.</surname></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham15401s">
+<persName>
+<forename>Walter</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1902"/>
+<death cert="unknown"/>
+<occupation>Handlungsgehilfe</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater Schuhmacher</p>
+<p>Anstalt: <date from="1924" to="1930">1924-1930</date></p>
+<p>Brieftypen: pp, Lebenslauf</p>
+</state>
+<trait><p>Haftpsychose, Wahnvostellungen (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient beschwert sich über das Anstaltsessen, die Strafen, die für Beschwerden verhängt werden, und das Festgehaltensein in der Anstalt. 
+                    Er bittet den Vater, sich für seine Verlegung in das Gefängnis einzusetzen.
+                    Er bemerkt, dass er sich in seinen Äußerungen zurückhält, da er die Zensur des Briefes fürchtet.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham15401s05a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="ham15401s05b.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="ham15401s05c.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="ham15401s05d.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="ham15401s05e.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Geschrieben, d. 18. 2.
+                        30.</hi></hi></dateline>
+<salute><space/> Liebe Eltern!</salute>
+</opener>
+<p><space/> <hi rendition="#i">Habe Euer Besuch am Sonntag schwer vermißt, da
+                    meine</hi><lb break="yes"/><hi rendition="#i">Lebensmittel alle sind. Ich habe
+                    hier schon was bestellt, welches</hi><lb break="yes"/><hi rendition="#i">ich aber
+                    erst am Mittwoch bekomme. − Leider muß ich mein</hi><lb break="yes"/><hi rendition="#i">Spargeld anbrechen, da ich sonst trocken u.
+                    Margariene-Brot</hi><lb break="yes"/><add hand="arzt">! </add><hi rendition="#i">essen − und </hi><hi rendition="#u" style="arzt"><hi rendition="#i">hungern muß</hi></hi><hi rendition="#i">. − Lieber
+                    Vater, liege seit Sonnabend,</hi><lb break="yes"/><hi rendition="#i">d. 15. ds.
+                    Mts. zu ungerecht im Bett. Grund wie folgt:<lb break="yes"/>Ich beschwerte mich am Sonnabend-Mittag über das Essen,</hi><lb break="yes"/><hi rendition="#i">da wir sehr oft trock'ne Kartoffeln zu Mittag
+                    bekommen.</hi><lb break="yes"/><hi rendition="#i">Wenn da auch Bohnen,
+                    Steckrüben, Wurzeln oder Kohl zu gibt</hi><lb break="yes"/><hi rendition="#i">ist
+                    es bitter wenig, wo unsere kleine Leni bestimmt nicht</hi><lb break="yes"/><hi rendition="#i">mit zufrieden wäre, auch fehlt daran die Zubereitung.<lb break="yes"/>Denkt Euch, liebe Eltern, </hi><seg ana="#inst"><hi rendition="#i">morgens gibt es 2 Scheiben Brot mit</hi><lb break="yes"/><hi rendition="#i">dünn Margariene aufgestrichen, da muß jeder bis 12 Uhr</hi><lb break="yes"/><hi rendition="#i">Mittag mit auskommen. Dann denkt Euch zu Mittag
+                        die</hi><lb break="yes"/><hi rendition="#i">trocknen Kartoffeln mit etwas
+                        Gemüse wo ich nicht einmal</hi><lb break="yes"/><hi rendition="#i">halb von
+                        satt werde, es gibt auch noch ein Becher voll Suppe,</hi></seg><lb break="yes"/><hi rendition="#i">wenn die Ärzte es Suppe nennen, </hi><hi rendition="#u" style="arzt"><hi rendition="#i">ich wenigstens
+                        nicht</hi></hi><hi rendition="#i">. </hi><add hand="arzt">! </add><lb break="yes"/>Von Euch würde sie
+                    keiner essen. <seg ana="#inst"><hi rendition="#i">Abend gibt es 2
+                        Scheiben</hi><lb break="yes"/><hi rendition="#i">Brot, wieder mit Margariene.
+                        Dieses ist die Tages-Portion</hi><lb break="yes"/><hi rendition="#i">in der
+                        St. K. A. Langenhorn.</hi></seg><hi rendition="#i"> − Ich bin nicht alleine
+                    da,</hi><lb break="yes"/><hi rendition="#i">der über das Essen klagt, viele von
+                    meinem Mitpatienten</hi><lb break="yes"/><hi rendition="#i">beklagen sich auch.
+                    Außer die schwer Kranken, die davon</hi><lb break="yes"/><hi rendition="#i">nichts mehr wissen was sie essen. − Einer von meinem</hi></p>
+<pb facs="#image_010"/>
+<p>
+<add place="above"><hi rendition="#i">II</hi></add><hi rendition="#i"> Mitpatienten
+                    beschwerte sich auch, </hi><seg ana="#inst"><hi rendition="#i">er hat sich
+                        sehr</hi><lb break="yes"/><hi rendition="#i">darüber aufgeregt und flog auf
+                        Anordnung des Ober</hi><lb break="no"/><hi rendition="#i">arztes in die
+                        Zelle, wo man </hi><seg ana="#med"><hi rendition="#i">Tobsüchtige</hi></seg><hi rendition="#i"> und</hi><lb break="yes"/><hi rendition="#i">gemeingefährliche − Ausbrecher einsperrt. − So eine
+                        feste</hi><lb break="yes"/><hi rendition="#i">Zelle wie hier, gibt es nicht
+                        einmal im Zuchthaus. Dieses</hi><lb break="yes"/><hi rendition="#i">wird als
+                        Erschreckungsmittel, damit andere Patienten still</hi><lb break="yes"/><hi rendition="#i">schweigensollen, angewandt.</hi></seg><hi rendition="#i"> − Ich
+                    liege wo ich mich</hi><lb break="yes"/><hi rendition="#i">körperlich gesund fühle
+                    unschuldig im Bett. Ich bitte Dich</hi><lb break="yes"/><hi rendition="#i">lieber
+                    Vater, schritte zu unter-nehmen, wie man ein deshalb</hi><lb break="yes"/><hi rendition="#i">als Strafe ins Bett legt. Der Körper hat keine Bewegung
+                    und</hi><lb break="yes"/><hi rendition="#i">was das Schlimmste ist,
+                        kein</hi><del><hi rendition="#i">e</hi></del><hi rendition="#i"> bischen
+                    frische Luft. </hi><seg ana="#inst"><hi rendition="#i">Ich liege</hi><lb break="yes"/><hi rendition="#i">hier in einer Zelle, die vom Wachsaal abgeht.
+                        Die Fenstern</hi><lb break="yes"/><hi rendition="#i">schwer vergittert, erst
+                        kommen dicke Scheiben mit Eisen</hi><lb break="yes"/><hi rendition="#i">eingefaßt, dann kommt das Eisengitter und dann noch mal</hi><lb break="yes"/><hi rendition="#i">ein Fenster. Es ist oben am Fenster eine Luftklappe,
+                        wenn</hi><lb break="yes"/><hi rendition="#i">die aber auf ist, ist es hier
+                        kalt drinn, daß man friert.</hi></seg><lb break="yes"/><hi rendition="#i">Bis
+                    jetzt habe ich immer noch meinen Mund gehalten,</hi><lb break="yes"/><hi rendition="#i">aber wenn ich nicht satt zu essen habe, muß ich mich</hi><lb break="yes"/><hi rendition="#i">währen. Lieber Vater, wo ist dieses angebracht,
+                    wenn man</hi><lb break="yes"/><hi rendition="#i">sich über das Essen beschwert,
+                    daß man als Strafe ins</hi><lb break="yes"/><hi rendition="#i">Bett fliegt, wo
+                    ich mich körperlich gesund fühle, − wo</hi><lb break="yes"/><hi rendition="#i">mir jeder Arzt draußen sagt, daß ich viel frische Luft</hi><lb break="yes"/><hi rendition="#i">haben muß. Hier in der St. K. A. Langenhorn wird mit</hi><lb break="yes"/><hi rendition="#i">die Luft entzogen. Ich bin groß m 1,82, wiege 65
+                    Kilo</hi><lb break="yes"/><hi rendition="#i">sehr viel unterm Gewicht was ein
+                    normaler Mensch</hi><lb break="yes"/><hi rendition="#i">haben soll. Wenn ich Euch
+                    liebe Eltern nicht hätte. </hi>
+<pb facs="#image_011"/><hi rendition="#i">wo würde
+                    ich sonst mit meinem Gewicht bleiben, </hi><add place="top"><hi rendition="#i">III</hi></add><lb break="yes"/><hi rendition="#i">wenn ich die Fettigkeiten
+                    nicht hätte. − Ich habe kein</hi><lb break="yes"/><hi rendition="#i">Verlangen
+                    danach, hier zu sein. Habe Herrn Dr. Lierau</hi><lb break="yes"/><hi rendition="#i">wiederholt gebeten mich nach Fuhlsbüttel zu schicken, da</hi><lb break="yes"/><hi rendition="#i">ich mich <del>G</del>gesund und
+                    <del>H</del>haftfähig fühle, bekam aber zur</hi><lb break="yes"/><hi rendition="#i">Antwort, daß ich noch zu lange hätte, es war das</hi><lb break="yes"/><hi rendition="#i">letzte mal wie ich es sagte, wo ich 2 Monate
+                    noch</hi><lb break="yes"/><hi rendition="#i">nach hatte. Auf dem Termin ist aber
+                    nicht gesagt</hi><lb break="yes"/><hi rendition="#i">worden, ich sei nicht
+                    Haftfähig und 1 Jahr 9 Monate</hi><lb break="yes"/><hi rendition="#i">Gef. sei zu
+                    viel. Wie reimt sich dieses dann zusammen?</hi><lb break="yes"/><hi rendition="#i">Ich bitte Dich lieber Vater, trotztalledem wo ich blos</hi><lb break="yes"/><hi rendition="#i">noch 48 Tage habe, dafür einzutreten, daß
+                    ich</hi><lb break="yes"/><hi rendition="#i">zurück nach Fu. komme. Wie ich dir,
+                    lieber Vater</hi><lb break="yes"/><hi rendition="#i">ja auch schon erzählt habe,
+                    sagte Herr Oberarzt</hi><lb break="yes"/><hi rendition="#i">mal zu mir, wie ich
+                    zu ihm sagte, ich möchte aus</hi><lb break="yes"/><hi rendition="#i">der
+                    Scheiderei raus, − besorgen sie mir ersatz</hi><lb break="yes"/><hi rendition="#i">für sie. Daraus ist zu ersehen, daß ich blos</hi><lb break="yes"/><hi rendition="#i">wegen die Arbeit hier </hi><w><hi rendition="#i">fest
+                        gehalten</hi></w><hi rendition="#i"> werde. Darum</hi><lb break="yes"/><hi rendition="#i">bitte ich Dich eine Beschwerde an die Direktion</hi><lb break="yes"/><hi rendition="#i">zu schreiben, wenn das nichts hilft, bleibt Dir
+                    eine</hi><lb break="yes"/><hi rendition="#i">Beschwerde an das </hi><hi rendition="#u" style="arzt"><hi rendition="#i">Gesundheitsamt Hbg.</hi></hi><hi rendition="#i"> offen,</hi><lb break="yes"/><hi rendition="#i">wo Du persönlich <w>hin gehen</w> kannst. es sind ja</hi><lb break="yes"/><hi rendition="#i">blos 5 Minuten von Dir zu Hause entfernt.<lb break="yes"/>Lieber Vater, hier drinn bin ich machtlos, schreibe</hi><lb break="yes"/><hi rendition="#i">ich von hier aus, an </hi><hi rendition="#u" style="arzt"><hi rendition="#i">Gesundheitsamt, schikaniert</hi></hi><hi rendition="#i"> </hi><add hand="arzt">!!</add><lb break="yes"/><hi rendition="#i">man mich hier noch mehr. Oder es wird ein
+                    Schreiben </hi>
+<pb facs="#image_012"/>
+<add place="above">IV</add>
+<hi rendition="#i">beigelegt, − Quärolant und wer weiß sonst noch was.</hi><lb break="yes"/><hi rendition="#i">Auch Herr </hi><surname><hi rendition="#i">B.</hi></surname><hi rendition="#i"> hat mich schon oft bedroht
+                            und</hi><lb break="yes"/><add hand="arzt" place="margin">? </add><hi rendition="#i"> auch andere </hi><hi rendition="#u" style="arzt"><hi rendition="#i">geschlagen</hi></hi><hi rendition="#i">, nie habe ich etwas
+                    gesagt, da</hi><lb break="yes"/><hi rendition="#i">man sonst die Hölle auf Erden
+                    hätte wie man so</hi><lb break="yes"/><hi rendition="#i">sagt. Vor kurzen hat er
+                    zu mir gesagt, halten</hi><lb break="yes"/><hi rendition="#i">sie ihre Schnauze
+                    </hi><seg ana="#cens"><hi rendition="#i">und noch mehr ich will es </hi><w><hi rendition="#i">gar</hi></w><w><hi rendition="#i">nicht</hi></w><lb break="yes"/><hi rendition="#i">schreiben, da ich sonst befürchten muß, daß dieser</hi><lb break="yes"/><hi rendition="#i">Brief nicht abgeht.</hi></seg><hi rendition="#i"> Ich habe genug Zeugen, die es</hi><lb break="yes"/><hi rendition="#i">gehört haben. Sprachlos waren meine Mitpatienten</hi><lb break="yes"/><hi rendition="#i">wie ich zu Bett mußte, sagt einer was, geht
+                    es</hi><lb break="yes"/><hi rendition="#i">ihm nicht besser. Dieses sind die
+                    Erziehungsmethoden</hi><lb break="yes"/><hi rendition="#i">die hier angewandt
+                    werden. Da jeder weiß, daß</hi><lb break="yes"/><hi rendition="#i">er sein Mund
+                    halten muß, sonst halten sie ihm</hi><lb break="yes"/><hi rendition="#i">immer
+                    länger fest. Hat einer keine Angehörige</hi><lb break="yes"/><hi rendition="#i">der ist zu bedauern und muß schmachten. </hi><hi rendition="#u" style="arzt"><hi rendition="#i">Nie,</hi><lb break="yes"/><hi rendition="#i">werde ich
+                        dieses Haus wieder betreten</hi></hi><hi rendition="#i">, ich danke</hi><lb break="yes"/><hi rendition="#i">Gott wenn ich erst draußen bin und nichts
+                    mehr</hi><lb break="yes"/><hi rendition="#i">höre und sehe von diesem Elend.
+                    Bitte Euch,</hi><lb break="yes"/><hi rendition="#i">liebe Eltern mich gleich nach
+                    Empfang dieses Briefes</hi><lb break="yes"/><hi rendition="#i">zu besuchen, da
+                    ich gerne mit Euch sprechen</hi><lb break="yes"/><hi rendition="#i">möchte.
+                    </hi><seg ana="#cens"><hi rendition="#i">Ich kann nicht alles so schreiben, wie
+                        ich</hi><lb break="yes"/><hi rendition="#i">wohl gerne möchte, sonst geht der
+                        Brief nicht ab.</hi></seg><lb break="yes"/><seg ana="#salute"><hi rendition="#i">Bis dahin seit recht vielmals gegrüßt von Eurem</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Sohne</hi></hi><hi rendition="#i"> </hi><seg ana="#signed"><hi rendition="#i">Walter</hi></seg><hi rendition="#i">.</hi></seg></p>
+<pb facs="#image_013"/>
+<p><add hand="arzt"><hi rendition="#c">18. II. 30</hi></add><lb break="yes"/><add hand="arzt"><hi rendition="#r"><surname><hi rendition="#i">S.</hi></surname><lb break="yes"/><unclear>M.</unclear>
+                    18.</hi></add><lb break="yes"/>Familie<lb break="yes"/><add hand="arzt"><hi rendition="#c">ganz ungehöriger Brief<lb break="yes"/>voller
+                    falsher</hi></add><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Hermann
+                            <surname>S.</surname></hi><lb break="yes"/><add hand="arzt"><hi rendition="#c">Beschuldigungen</hi></add><lb break="yes"/><hi rendition="#i">Hamburg 15.</hi><lb break="yes"/><add hand="arzt"><hi rendition="#r"><unclear/></hi></add><lb break="yes"/><hi rendition="#i"><add hand="arzt">3. <unclear>Ri</unclear></add> Albertstr. </hi>16 <hi rendition="#sup">III.</hi></hi></p>
+<p><hi rendition="#i">Abs: W. </hi><surname><hi rendition="#i">S.</hi></surname><hi rendition="#i"> St. 12. A. Langenhorn M. H</hi>. 18.</p>
+</body>
+</text>
+</TEI>

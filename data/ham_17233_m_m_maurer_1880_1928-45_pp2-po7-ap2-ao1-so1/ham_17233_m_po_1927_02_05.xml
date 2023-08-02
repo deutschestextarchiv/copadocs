@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham17233m09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>17233</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Reinhold <surname>M.</surname></persName>
+<date type="sent">05.02.1927</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Direktor: <!--Vorname--> <surname>W.</surname></persName>
+<settlement type="sent">Friedrichsberg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham17233m">
+<persName>
+<forename>Reinhold</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1880"/>
+<death when="1945"/>
+<occupation>Maurer</occupation>
+<residence><geo decls="#WGS">50.9541558 14.650553</geo>Leutersdorf</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: <!--Beruf/unehelich/Vermögen--></p>
+<p>Anstalt: <date from="1928" to="1945">1928-32;1935-45</date></p>
+<p>Brieftypen: pp, po, ap</p>
+</state>
+<trait><p>[Epilepsie] (1913), Vergiftungsideen (1929)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offiziell Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Einsicht in Akten
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham17233m09a.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="ham17233m09b.jpg" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Friedrichsberg</hi> d 5/2 27</hi></dateline>
+<salute><hi rendition="#c">Herr Direktor Provessor <hi rendition="#i"><surname>W.</surname></hi></hi></salute>
+</opener>
+<p>Befinde mich schon seit 21/6 26 in hiesiger<lb break="yes"/>Anstalt, wo ich
+                meines erachtens doch nun<lb break="yes"/>entlassen werden könnte, so bitte ich
+                Herrn<lb break="yes"/>Provessor doch mal Einsicht in meine Akten zu<lb break="yes"/>nehmen, und um eine wl. Besprechung bitten<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvoll</seg>
+<seg ana="#signed">Reinhold <hi rendition="#i"><surname>M.</surname></hi></seg><lb break="yes"/>Haus. 7</hi>
+</p>
+<pb facs="#image_023"/>
+<p>Herrn Provessor<lb break="yes"/><hi rendition="#c"><hi rendition="#i"><surname>W.</surname></hi><lb break="yes"/>Hier</hi>
+</p>
+<p><add hand="arzt">zur<lb break="yes"/><hi rendition="#u">Akte</hi><lb break="yes"/><hi rendition="#i">Reinhol</hi>d<lb break="yes"/><hi rendition="#u"><hi rendition="#i"><surname>M.</surname></hi></hi></add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham15401s02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>15401</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Walter <surname>S.</surname></persName>
+<date type="sent">21.5.1928</date>
+<date type="received">n.a.</date>
+<persName type="addressee">n.a.: Minna <surname>S.</surname></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham15401s">
+<persName>
+<forename>Walter</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1902"/>
+<death cert="unknown"/>
+<occupation>Handlungsgehilfe</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater Schuhmacher</p>
+<p>Anstalt: <date from="1924" to="1930">1924-1930</date></p>
+<p>Brieftypen: pp, Lebenslauf</p>
+</state>
+<trait><p>Haftpsychose, Wahnvostellungen (1924)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt1"/>
+<handNote medium="crayon" scope="minor" scribe="arzt2"/>
+</handNotes>
+<textDesc>
+<channel/>
+<constitution/>
+<derivation/>
+<domain>privater Brief</domain>
+<factuality/>
+<interaction/>
+<preparedness/>
+<purpose> Glückwunsch zur Geburt der Tochter und Grüße zu Pfingsten </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham15401s02a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="ham15401s02b.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Langenhorn</hi>, <hi rendition="#i">d</hi>. 21. 5. 28.</hi></dateline>
+<salute><hi rendition="#c">Liebe Minna!</hi></salute>
+</opener>
+<p><hi rendition="#c">Habe von meinen Angehörigen zu<lb break="yes"/>hören bekommen,
+                    daß du von einem<lb break="yes"/>gesunden Mädel entbunden bist. Hierzu<lb break="yes"/>meinen herzlichsten Glückwunsch und<lb break="yes"/>nebenbei
+                    recht fröhliche Pfingsten.</hi><lb break="yes"/><hi rendition="#r"><seg ana="#salute">Mit Gruß dein</seg><space/> </hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Walther</hi></seg>.</hi></p>
+<p><hi rendition="#i">Abs.: Walter
+                            <surname>S.</surname> Staatskrankenanstalt</hi><lb break="yes"/><hi rendition="#i"><hi rendition="#r">Langenhorn
+                M.H.18.</hi></hi></p>
+<pb facs="#image_012"/>
+<p><add hand="arzt1" place="margin"><hi rendition="#r"><surname>S.</surname><lb break="yes"/>7.18.</hi></add><lb break="yes"/></p>
+<p>Frau</p>
+<p><add hand="arzt2">Unzulässig;<lb break="yes"/><unclear>Ged gu</unclear> der <unclear>Hogensorte</unclear>.<lb break="yes"/>21. 5. 28 <hi rendition="#sup">.</hi></add></p>
+<p><hi rendition="#i">Minna <surname>S.</surname></hi><lb break="yes"/><hi rendition="#i">pr.
+                    Adr. Buchholtz.</hi><lb break="yes"/><hi rendition="#i">Hamburg
+                    26.</hi><lb break="yes"/><hi rendition="#i">Borstelmannsweg</hi>
+                162 <hi rendition="#sup">I</hi><lb break="yes"/></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16077s04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16077</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Albert Otto Heinrich <surname>S.</surname></persName>
+<date type="sent">31.10.1930</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Amtsgericht: <!--Vorname--> <surname><!--Nachname--></surname></persName>
+<settlement type="sent">Hamburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16077s">
+<persName>
+<forename>Albert Otto Heinrich</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1888"/>
+<death cert="unknown"/>
+<occupation>n.a.</occupation>
+<residence><geo decls="#WGS">52.4438008 10.0078364</geo>Burgdorf, Region Hannover</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1926" to="1939">1926-1939</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Dementia paranoides, Wahnideen, Halluzination (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Über Fabrik und Schifffahrt
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16077s04a.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><hi rendition="#r">Hamburg, den 31. Oktober 1930</hi></dateline>
+<salute><hi rendition="#c">An Amtsgericht</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Burgdorf</hi> bei <hi rendition="#i">C</hi>elle</hi></salute>
+</opener>
+<p><add hand="arzt" place="top"><hi rendition="#i"><surname>S.</surname></hi></add></p>
+<p>Bitte diesen Brief abstempel<lb break="yes"/>Gerichtsstempel <hi rendition="#i">Burgdorf</hi>, mit den<lb break="yes"/>Vermerk da die Burgdorfer Fabrike Nebst<lb break="yes"/><w>Kirchen Orgel</w>, Nebst Herrn Pape,
+                und der<lb break="yes"/>Pfaffe als Gefangene zu Burgdorfer<lb break="yes"/>Fabrk
+                gehort die <unclear>Conchel</unclear> pas <hi rendition="#i">Schiff</hi> abgebend
+                partir<lb break="yes"/>sein soll, Rote Abstempel von Schiffahrt<lb break="yes"/><hi rendition="#i">S</hi>eine Einfanger der Arzte und Oberpfleger<lb break="yes"/>nebst <hi rendition="#i">Pfleger</hi> und <hi rendition="#i">Schwestern</hi> der Krankenhause<lb break="yes"/>und gemein Schwester durch
+                    <hi rendition="#i">Seel</hi>eit<lb break="yes"/><hi rendition="#i">Schi</hi>ffahrt Leinen, <add place="above">ich</add> Brief, weiter Beforderung<lb break="yes"/>zur <w>Entgegen nahme</w> dieser Art
+                    <unclear>Mannir</unclear><lb break="yes"/>also von seeleit entgegen Empfag nehme<lb break="yes"/>und Eiligst
+                in Ausland weiter Tieren<lb break="yes"/>abzutransportiern Hauptsachlich Langenhorn<lb break="yes"/>Anstalt bei <hi rendition="#i">Hamburg</hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Albert
+                                <surname>S.</surname>
+                    Stahl<unclear>fürst</unclear></hi><lb break="yes"/>Oberstdorf Fabrik Alster<unclear><lb break="yes"/>Nebelhornzeug</unclear></seg></hi>
+</p>
+<p><add place="margin">Grundhafte Behandlung</add></p>
+</body>
+</text>
+</TEI>

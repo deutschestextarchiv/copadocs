@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16588p03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16588</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Heinrich <surname>P.</surname></persName>
+<date type="sent">12.03.1929</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberarzt: n.a. <surname/></persName>
+<settlement type="sent"/>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16588p">
+<persName>
+<forename>Heinrich</forename>
+<surname>P.</surname>
+</persName>
+<birth when="1899"/>
+<death cert="unknown"/>
+<occupation>Hafenarbeiter, zuvor Packer</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: Vater: Arbeiter</p>
+<p>Anstalt: <date from="1926" to="1935">1926-35</date></p>
+<p>Brieftypen: pp, po, ao, lebenslauf</p>
+</state>
+<trait><p>angeborener Schwachsinn (1934)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Verlegung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16588p03a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="ham16588p03b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline><add hand="arzt"><surname>P.</surname> 12.3.29.</add></dateline>
+<salute>Werther Herr</salute>
+</opener>
+<p>Oberarzt möchte sie höflich<lb break="yes"/>bitten um meine verlegung<lb break="yes"/>da ich doch am 13.3.29.<lb break="yes"/>28 Monate hier bin und
+                    habe<lb break="yes"/>doch immer gearbeitet und mich gut<lb break="yes"/>geführt.
+                Da ich doch schon seid 1922<lb break="yes"/>auf Pfaraghraf 51. frei gesprochen<lb break="yes"/>bin und nun schon bald 6 jahre<lb break="yes"/>in der Anstalt bin.
+                Das eine<lb break="yes"/>kann <hi rendition="#sup">ich</hi> sie versichern Herr
+                    Oberarzt<lb break="yes"/>das ich mich in den 28 Monaten<lb break="yes"/>gebessert habe und nicht wieder<lb break="yes"/>in meinen alten Lebenswandel<lb break="yes"/>zurük fallen werde, ich werde<lb break="yes"/>sie zeigen das sie
+                sich nicht in<lb break="yes"/>meine Person getäuscht haben.<lb break="yes"/>Betreffs
+                meiner Strafsache bin<lb break="yes"/>ich für ein fall bestraft und<lb break="yes"/>zwei fälle auf Grund meiner vorstrafen.</p>
+<pb facs="#image_010"/>
+<p>Meines erachten nach Herr Ober<lb break="no"/>arzt habe ich doch keine schwere<lb break="yes"/>Straftat begangen dafür habe<lb break="yes"/>ich schwer gebüßt.
+                Meine Ange<lb break="no"/>hörigen nehmen mich sofort auf<lb break="yes"/>wo ich doch
+                auch lange in Ha<lb break="no"/>fen gearbeitet habe ist es mir<lb break="yes"/>ein
+                leichtes wieder arbeit zu<lb break="yes"/>bekommen. Da ich für Sie Herr<lb break="yes"/>Oberarzt eine große verehrung<lb break="yes"/>hege möchte ich sie
+                höflich bitten<lb break="yes"/>zwecks einer besprechung nach vorne<lb break="yes"/>zu holen da ich mich sie gegen über<lb break="yes"/>mal aus sprechen kann. <seg ana="#salute">In
+                    der<lb break="yes"/>Hoffnung das sie meinen<lb break="yes"/>Wunsch<del>e</del>
+                    erfüllen verbleibe<lb break="yes"/>ich ihr getreuer Patient</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r">Heinrich
+                    <surname>P.</surname>.</hi></seg>
+</p>
+</body>
+</text>
+</TEI>

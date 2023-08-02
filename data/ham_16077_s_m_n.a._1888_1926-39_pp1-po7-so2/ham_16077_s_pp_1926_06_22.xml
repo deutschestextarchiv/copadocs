@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham16077s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>16077</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Albert Otto Heinrich <surname>S.</surname></persName>
+<date type="sent">22.06.1926</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: Dorette <surname>S.</surname></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham16077s">
+<persName>
+<forename>Albert Otto Heinrich</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1888"/>
+<death cert="unknown"/>
+<occupation>n.a.</occupation>
+<residence><geo decls="#WGS">52.4438008 10.0078364</geo>Burgdorf, Region Hannover</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1926" to="1939">1926-1939</date></p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Dementia paranoides, Wahnideen, Halluzination (1930)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="major" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Formulierung einer Bitte
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham16077s05a.jpg" xml:id="image_010"/>
+<graphic mimeType="image/jpg" url="ham16077s05b.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><hi rendition="#r">Hamburg <unclear reason="damage">Langenhorn</unclear><lb break="yes"/>den <hi rendition="#u" style="arzt">22 Juni 1926</hi></hi></dateline>
+<salute><hi rendition="#c">Liebe <hi rendition="#i">Dorette</hi>!</hi></salute>
+</opener>
+<p>Möchte dir einige Zeile<lb break="yes"/>senden betreffs Erfüllen einer<lb break="yes"/>Bitte. um dieselbe mir zu erfüllen,<lb break="yes"/>Es wird
+                versucht mir den <hi rendition="#i">Kautabak</hi><lb break="yes"/><w>weg zu drücken</w>, und <hi rendition="#i">Martha</hi> hat in<lb break="yes"/>dieser Hinsicht nicht Ihre Pflicht<lb break="yes"/>erfüllt bitt dir deshalb zu Frau<lb break="yes"/><surname>G.</surname> früher Fraulein <surname>B.</surname>?<lb break="yes"/>um dort ein Päckchen <w>zu recht</w> zu
+                mache<lb break="yes"/>Schwarzenkrause di Startohle Sort<lb break="yes"/>Bitte auch
+                ein Herzlichsten Grus bestelle<lb break="yes"/>auch bitte ich, daß ich Sie Herzlich
+                frage<lb break="yes"/>tut, ob Sie betreffs Nadersteinwall<lb break="yes"/>Aufklärung bekomen hat, wurde<lb break="yes"/>mir sehr freuen antwort zu erhofen<lb break="yes"/><seg ana="#salute">Vile Herzlihe Grüse dein dich Ewig
+                        liebender</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Albert</hi></seg></hi>
+</p>
+<p><add place="margin"><unclear reason="damage">dr.</unclear> Langenhorn<lb break="yes"/><unclear reason="damage">Anstalt</unclear><hi rendition="#i">
+                        Hamburg-Langenhorn H9.</hi></add></p>
+<p><add place="margin">Mündlich mehr<lb break="yes"/>wen ich entlassen bin</add></p>
+<pb facs="#image_011"/>
+<p>Frau <hi rendition="#i">Dorette <surname>S.</surname></hi><lb break="yes"/>früher <hi rendition="#i">Adr. Heinrich <surname>S.</surname><lb break="yes"/>Uhrmacher<lb break="yes"/>Burgdorf <hi rendition="#sup">b</hi>/ Celle<lb break="yes"/>Sackstraße 1.</hi>
+</p>
+<p><add place="margin">Abs. <hi rendition="#i">Alb. <surname>S.</surname>Langenhorn<lb break="yes"/>Anstalt H9 Hamburg-Langenhorn</hi></add></p>
+<p><add hand="arzt" place="margin"><surname><hi rendition="#i">S.</hi> 16.9</surname></add></p>
+<p><add hand="arzt" place="margin"><hi rendition="#i">K S.</hi></add></p>
+</body>
+</text>
+</TEI>

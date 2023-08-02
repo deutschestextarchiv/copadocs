@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham20206f07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>20206</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Emanuel <surname>F.</surname></persName>
+<date type="sent">16.12.1934</date>
+<date type="received">n.a.</date>
+<persName type="addressee"><!--Beziehung-->: Emil <surname>F.</surname></persName>
+<settlement type="sent">Hamburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham20206f">
+<persName>
+<forename>Emanuel</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1877"/>
+<death when="1940"/>
+<occupation>Schmied</occupation>
+<residence><geo decls="#WGS">50.2132854 18.7789532</geo>Chudow</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: n.a.</p>
+<p>Eltern: n.a.</p>
+<p>Anstalt: <date from="1933" to="1940">1933-1940</date></p>
+<p>Brieftypen: po,pp</p>
+</state>
+<trait><p>Progressive Paralyse, Alkoholpsychose (1933), Halluzination, Größenideen (1934)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="typewriter" scope="minor" scribe="arzt"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                 Postkarte, durch die der Patient seinen Bruder auffordert, sich das Leben zu nehmen. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham20206f07a.jpg" xml:id="image_017"/>
+<graphic mimeType="image/jpg" url="ham20206f07b.jpg" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline><add hand="arzt" place="top">v.33!</add><lb break="yes"/><hi rendition="#c"><hi rendition="#i">Hamburg</hi> den 16.12.34.</hi></dateline>
+<salute><hi rendition="#c">Herrn Emil <surname>F.</surname></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Chndow</hi></hi></salute>
+</opener>
+<p> Ich fordere Sie hiermit auf sich<lb break="yes"/>als Verbrecher sofort das Leben<lb break="yes"/>zu nehmen. Sie tragen die<lb break="yes"/>Folgen selbst <w>zu zu schreiben</w><lb break="yes"/>Sie haben die Tochter eines </p>
+<pb facs="#image_018"/>
+<p>
+<handShift medium="ink" scribe="arzt"/><add place="margin"><surname>F.</surname><lb break="yes"/>19 I.34.</add><handShift medium="pencil" scribe="patient"/><lb break="yes"/>Schwerver<lb break="no"/>brechers<lb break="yes"/>geehelicht<lb break="yes"/>wegen lumpigter<lb break="yes"/>3
+                Tausent Thaler<lb break="yes"/>Es würde Ihnen<lb break="yes"/>väterlicherseits sowie<lb break="yes"/>mütterlicherseits<lb break="yes"/>immer dir abge<lb break="no"/>raten die Ehe<lb break="yes"/>einzugehen<lb break="yes"/>Mein Bruder bist<lb break="yes"/>Du <seg ana="#salute"><unclear>reiche</unclear> zu Ihr.<lb break="yes"/>weit Gruß </seg><lb break="yes"/><seg ana="#signed">E
+                        <surname>F.</surname></seg><lb break="yes"/>Schmied.<lb break="yes"/>Herrn Gastwirt<lb break="yes"/>Emil <surname>F.</surname><lb break="yes"/>in Chndow<lb break="yes"/><hi rendition="#r">Krn. <hi rendition="#i">Hinden</hi><lb break="no"/><hi rendition="#i">burg</hi> 19</hi></p>
+</body>
+</text>
+</TEI>

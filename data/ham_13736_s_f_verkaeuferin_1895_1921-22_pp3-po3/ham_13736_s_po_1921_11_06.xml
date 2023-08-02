@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham13736s05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>13736</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Emma Trina Hermine <surname>S.</surname></persName>
+<date type="sent">06.11.1921</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Rechtsanwalt: <!--Vorname--> <surname>H.</surname></persName>
+<settlement type="sent">Hamburg</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="f" xml:id="ham13736s">
+<persName>
+<forename>Emma Trina Hermine</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1895"/>
+<death cert="unknown"/>
+<occupation>Verkäuferin</occupation>
+<residence><geo decls="#WGS">53.550341 10.000654</geo>Hamburg</residence>
+<faith>n.a.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Trinker, litt an Säuferwahnsinn</p>
+<p>Anstalt: <date from="1921" to="1922">1921-22</date></p>
+<p>Brieftypen: ap, po, pp</p>
+</state>
+<trait><p>Basedowsche Erkrankung, Hysterie, Tobsucht (1921)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Vernehmung eines Zeugen in einem Tatbestand
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham13736s05a.jpg" xml:id="image_011"/>
+<graphic mimeType="image/jpg" url="ham13736s05b.jpg" xml:id="image_012"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Hamburg</hi> den 6 <hi rendition="#i">November</hi><lb break="yes"/><hi rendition="#i"><hi rendition="#u" style="arzt">Emma <surname>S.</surname></hi></hi></hi></dateline>
+<salute><hi rendition="#i">Herrn Dr. <surname>H.</surname>!</hi></salute>
+</opener>
+<p><hi rendition="#i">I</hi>h<hi rendition="#i">ren Brief er</hi>h<hi rendition="#i">alten. Teil</hi>e<hi rendition="#i"> I</hi>hnen mit, dasz<lb break="yes"/>ich
+                in <hi rendition="#i">Langenhorn bin. Bitte Herrn D<hi rendition="#u">r</hi>.<lb break="yes"/><surname>H.</surname></hi> sich sofort bei der <hi rendition="#i">Staatsanwalt</hi><lb break="no"/>sch<hi rendition="#i">aft</hi> zu
+                erkundigen ob der <hi rendition="#i">Herr <surname>B.</surname></hi><lb break="yes"/>Blücherstr. 19 der mich zu meinen <hi rendition="#i">Straftaten</hi><lb break="yes"/><hi rendition="#i">a</hi>ngeh<hi rendition="#i">a</hi>lten h<hi rendition="#i">at</hi>, schon <hi rendition="#i">vernomm</hi>en ist. Ich<lb break="yes"/>werde wegen den <hi rendition="#i">Herrn</hi> doch nicht so sehr
+                leiden.<lb break="yes"/>Auch schreiben <hi rendition="#i">Sie bitt</hi>e sofort an
+                meine<lb break="yes"/><hi rendition="#i">Schwester</hi>, dasz sie mich <hi rendition="#u">sofort</hi> hier besuchen<lb break="yes"/>soll, gleich welchen
+                    <hi rendition="#i">Tag</hi> dann werde ich<lb break="yes"/>es Ihr sagen, dasz
+                sie sof<hi rendition="#i">ort</hi> zu Ihnen geht,<lb break="yes"/>und mit Ihnen
+                bestimmt, Rücksprache<lb break="yes"/>nim̄t. Wenn <hi rendition="#i">Herr
+                        <surname>B.</surname></hi> auch<lb break="yes"/>im̄<hi rendition="#i">er</hi> sagt zu mir, er würde mich<lb break="yes"/>tot m<hi rendition="#i">a</hi>chen, wenn ich alles sage, deshalb<lb break="yes"/>sage ich
+                es jetzt doch, lange genug habe<lb break="yes"/>ich geschwiegen.
+                        <del><unclear>Ich</unclear></del> Ich habe es <hi rendition="#i">Unter</hi><lb break="no"/>suchungs<hi rendition="#i">richter</hi>
+<hi rendition="#i">G.</hi> schon gesagt. </p><p><add place="top"><hi rendition="#i">Adr. Herrn Dr. M. </hi><surname><hi rendition="#i">H.</hi></surname><hi rendition="#i"> Rechts<hi rendition="#u">anwalt</hi>
+</hi><lb break="yes"/><hi rendition="#i">Hamburg Kaiser Wilhelmstr. 23/
+                            </hi><unclear><hi rendition="#i">31.</hi></unclear></add></p>
+<pb facs="#image_012"/>
+<p>Bei der ersten <hi rendition="#i">ver</hi>nehmung von einen<lb break="yes"/><hi rendition="#i">Beamten</hi>, h<hi rendition="#i">at</hi> er schon etwas
+                eingestanden.<lb break="yes"/>der Untersuchungsricht<hi rendition="#i">er</hi>
+                möchte Ihn <hi rendition="#i">aber</hi><lb break="yes"/>bitte selbst <hi rendition="#i">ver</hi>nehmen, dan̄ gesteht
+                er auch<lb break="yes"/>Alles ein, das er mich dazu angehalten hat,<lb break="yes"/>und auch alles bekom̄en hat. <hi rendition="#i">Herr<lb break="yes"/><surname>B.</surname></hi> hat kürzlich gesagt, er wollte<lb break="yes"/>wieder nach finnland, wo <hi rendition="#i">er</hi> früher <hi rendition="#i">war</hi>.<lb break="yes"/><hi rendition="#i">Mic</hi>h sp<hi rendition="#i">ert</hi> die <hi rendition="#i">Poli</hi>z<hi rendition="#i">ei</hi>
+                ein, <hi rendition="#i">aber der</hi>
+<hi rendition="#i">Herr<lb break="yes"/><surname>B.</surname></hi>, der schon
+                etwas selbst einge<lb break="no"/>standen hat, ohne dem ich etwas gesagt<lb break="yes"/>habe, der wird nicht mal von der <hi rendition="#i">Staat</hi>s<lb break="no"/><hi rendition="#i">anwalt</hi>sch<hi rendition="#i">aft</hi>
+<hi rendition="#i">ver</hi>nom̄en und <hi rendition="#i">frei</hi>e B<hi rendition="#i">a</hi>hn<lb break="yes"/>gelaszen das er ins Ausl<hi rendition="#i">a</hi>nd kann.<lb break="yes"/><hi rendition="#i">Bitt</hi>e <hi rendition="#i">Herrn Dr. <surname>H.</surname></hi> sofort der <hi rendition="#i">Staat</hi>s<lb break="no"/>wanwaltschaft mitzuteilen, das <hi rendition="#i">Herr B.</hi> sofort<lb break="yes"/><hi rendition="#u"><hi rendition="#i">ver</hi>nom̄en <hi rendition="#i">wir</hi>d</hi>. Auch
+                das er mich stets<lb break="yes"/>geschlagen hat, wenn ich nichts geben<lb break="yes"/>kon̄te, und nicht so wollte wie er.<lb break="yes"/><hi rendition="#i">Schreiben Sie bitte</hi> meine <hi rendition="#i">Schw</hi>est<hi rendition="#i">er</hi>
+<hi rendition="#u">sofort</hi><lb break="yes"/>das sie zu mir kom̄t. Emma <surname>S.</surname><lb break="yes"/>Werde dan̄ bestim̄t sofort von meine<lb break="yes"/><hi rendition="#i">Schw</hi>est<hi rendition="#i">er</hi> alles bei Ihnen regln
+                laszen. </p>
+</body>
+</text>
+</TEI>

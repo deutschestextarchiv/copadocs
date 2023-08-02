@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="ham19976a09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Stephanie Kamm</name>
+<name>Corinna Köhler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Staatsarchiv Hamburg</repository>
+<collection>Patientenakten</collection>
+<idno>19976</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">August Wilhelm <surname>A.</surname></persName>
+<date type="sent">04.12.1933</date>
+<date type="received">n.a.</date>
+<persName type="addressee">Oberwärter: <!--Vorname--> <surname>R.</surname></persName>
+<settlement type="sent">Langenhorn</settlement>
+<settlement type="received"/>
+</creation>
+<particDesc>
+<person sex="m" xml:id="ham19976a">
+<persName>
+<forename>August Wilhelm</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1875"/>
+<death when="1938"/>
+<occupation>Schmied, Handelsmann</occupation>
+<residence><geo decls="#WGS">54.1948456 9.0929015</geo>Heide in Holstein</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: geschieden</p>
+<p>Eltern: Vater: Schuhmacher</p>
+<p>Anstalt: <date from="1933" to="1935">1933-35</date></p>
+<p>Brieftypen: pp, po, ap, Lebenslauf</p>
+</state>
+<trait><p>Psychopathie (1933), chronische Manie, Debilität (1938)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<textClass>
+<catRef target="gen:CORRESPONDENCE"/>
+</textClass>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bitte um Aufbewahrung eines persönlichen Gegenstandes
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="ham19976a09a.jpg" xml:id="image_042"/>
+<graphic mimeType="image/jpg" url="ham19976a09b.jpg" xml:id="image_043"/>
+<graphic mimeType="image/jpg" url="ham19976a09c.jpg" xml:id="image_044"/>
+<graphic mimeType="image/jpg" url="ham19976a09d.jpg" xml:id="image_045"/>
+<graphic mimeType="image/jpg" url="ham19976a09e.jpg" xml:id="image_046"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_042"/>
+<opener>
+<dateline><hi rendition="#r">Staatskrankenhaus-Langen</hi><lb break="no"/>horn!
+                        <hi rendition="#i"><hi rendition="#u">Hamburg</hi></hi> 4.12.33.</dateline>
+<salute>Geehrter Herr <surname>R.</surname>!</salute>
+</opener>
+<p>Sind Sie bitte, nicht so gut u er<lb break="no"/>weisen mir eine Gefälligkeit?<lb break="yes"/>Ich habe nämlich, denselben Tag.<lb break="yes"/>Wie ich von
+                Ihnen <w>wegg kam</w><lb break="yes"/>heute vor 14 Tagen. Auf Ihre Sta<lb break="no"/>tion. Saal, <hi rendition="#i">N<hi rendition="#sup"><hi rendition="#u">o</hi></hi>.</hi> 9. Dem Herrn<lb break="yes"/><hi rendition="#u"><surname>W.</surname></hi>. Den Schreiber, bei Herrn<lb break="yes"/><surname>f.</surname>. Solch großer stattlicher Mann,<lb break="yes"/>in
+                meinen Jahren? Den Personen<lb break="no"/>Namen, weiß ich nicht einmal?<lb break="yes"/>Mein seidenes Halstuch, ein großes<lb break="yes"/>graues Tuch,
+                zum waschen, da gelassen<lb break="yes"/>u nehmen es bitte an sich.<lb break="yes"/>Denn ist es schon sicher. Vor Walde<lb break="no"/></p>
+<pb break="no" facs="#image_043"/>
+<p>mar. Habe ich durchaus keine Ban<lb break="no"/>ge, daß es mir <w>wegg kommt</w>.<lb break="yes"/>Aber wie leicht, treten in farmsen,<lb break="yes"/>Veränderungen
+                ein? Stimmt's?<lb break="yes"/>Ich liege hier schon, im zweiten <hi rendition="#u">Haus</hi>.<lb break="yes"/>Erst <hi rendition="#i">N<hi rendition="#sup"><hi rendition="#u">o</hi></hi>.</hi> M. 9.<lb break="yes"/>In 3 Wochen, Herr <surname>R.</surname>, haben<lb break="yes"/>u feiern wir Christen <hi rendition="#u">Weihnachten</hi>!<lb break="yes"/>Einer helfe u trage, des Andern<lb break="yes"/>Last? <seg ana="#salute">Schönen
+                    Gruß.</seg><lb break="yes"/>Am Betriebs-Sekretär, Herrn<lb break="yes"/><surname>L.</surname>, Küchen-Chef Herrn<lb break="yes"/><surname>S.</surname>. Herrn feldmeister<lb break="yes"/><surname>B.</surname>, sowie Herrn<lb break="yes"/><surname>W.</surname>. Sowie den Herrn<lb break="yes"/><surname>H.</surname>, unter Herrn <hi rendition="#u"><surname>f.</surname></hi>.<lb break="yes"/>früher bei Villeroy u
+                Boch.<lb break="yes"/>Rödingsmarkt <hi rendition="#i">N<hi rendition="#sup"><hi rendition="#u">o</hi></hi>.</hi> 75-79.<lb break="yes"/>Hallo! <hi rendition="#i"><hi rendition="#u">Hamburg!</hi></hi><lb break="yes"/><hi rendition="#r">thätig</hi>
+</p>
+<pb facs="#image_044"/>
+<p>Glück u frieden!<lb break="yes"/>Dem <hi rendition="#u">beschieden</hi>, der es
+                würdig ist?<lb break="yes"/>Wenn das Ende, vom Leben gut<lb break="yes"/>ist. Dann
+                ist, das ganze Leben gut<lb break="yes"/>gewesen. Ihnen brauche ich, nichts er<lb break="no"/>zählen u vormachen.<lb break="yes"/>Herrn <hi rendition="#u">Oberwachtmeister</hi><lb break="yes"/><hi rendition="#c"><surname>L.</surname>, kenne ich ja</hi><lb break="yes"/>schon. Von Berensch-Arensch her!<lb break="yes"/>Im Jahre 27. Den
+                Tag nach Buß-<lb break="yes"/>u Bettag. Die <hi rendition="#u">Zeit</hi> geht <hi rendition="#u">hin</hi>.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Achtungsvoll</seg><lb break="yes"/><seg ana="#signed">Wilhelm <surname>A.</surname></seg><lb break="yes"/>Patient</hi><lb break="yes"/>M. <hi rendition="#i">N<hi rendition="#sup"><hi rendition="#u">o</hi></hi>.</hi> 18<lb break="yes"/>Staatskrankenhaus-<hi rendition="#u">Langenhorn</hi><lb break="yes"/><hi rendition="#c">Halloh: <hi rendition="#i">Hamburg!</hi></hi>
+</p>
+<pb facs="#image_045"/>
+<p><seg ana="#salute">Ihnen u sämtlichen genanten Herren<lb break="yes"/>mit familien.
+                    Ein fröhliches u ver<lb break="no"/>gnügtes Weihnachtsfest wünschend</seg><lb break="yes"/><hi rendition="#c">d. O.</hi><lb break="yes"/>Hallo, mit u für<lb break="yes"/>Adolf Hittler, aus reinen Her<lb break="no"/>zen. Es lebe, die Arbeit: </p>
+<pb facs="#image_046"/>
+<p>An<lb break="yes"/><space/> Herrn <hi rendition="#u">Wohlgeboren</hi><lb break="yes"/><hi rendition="#c">Ober-Wärter<lb break="yes"/><hi rendition="#u">Rehberg</hi></hi><lb break="yes"/>Zweigstelle<lb break="yes"/>Versorgungsheim <hi rendition="#i"><hi rendition="#u">Farmsen</hi></hi>!<lb break="yes"/>August-Krogmann-Str <hi rendition="#i">N<hi rendition="#sup"><hi rendition="#u">o</hi></hi>.</hi> ? </p>
+<p><add hand="arzt"><surname>A.</surname><lb break="yes"/><hi rendition="#i">M.</hi> 18.</add></p>
+<p><add place="above">Abs. Wilhelm <surname>A.</surname><lb break="yes"/>M. <hi rendition="#i">N<hi rendition="#sup"><hi rendition="#u">o</hi></hi>.</hi> 18<lb break="yes"/>Staatskrankenhaus-<lb break="yes"/>Langenhorn<lb break="yes"/><hi rendition="#i"><hi rendition="#u">Hamburg!</hi></hi></add></p>
+</body>
+</text>
+</TEI>
