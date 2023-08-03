@@ -569,8 +569,12 @@ $( function () {
   })
 
   // open record
-  $(document).on('click', 'a.copa-record', function () {
-    showRecord( $(this) )
+  $(document).on('click', 'a.copa-record', function (e) {
+    let el = $(this)
+    if ( e.ctrlKey )
+      window.open(base + 'patientenakten.html#' + encodeURIComponent(el.data('institution')) + '-' + encodeURIComponent(el.data('record')), '_blank')
+    else
+      showRecord( el )
     return false
   })
 
@@ -752,25 +756,14 @@ $( function () {
     if ( ds && de )
       qf += ` #asc_date[${ds},${de}]`
 
-    // context
-    let cntxt = searchParams.get('cntxt')
-    if ( cntxt )
-      $('#cntxt').val(cntxt)
+    // texttype
+    let texttype = searchParams.get('texttype')
+    if ( texttype )
+      $('#texttype').val(texttype)
 
-    cntxt = $('#cntxt').val()
-    if ( cntxt )
-      qf += ` #cntxt ${cntxt}`
-
-    // within
-    let within = searchParams.get('within')
-    if ( within )
-      $('#within').val(within)
-
-    within = $('#within').val()
-    if ( within == 'sep' )
-      qf += ` #${within}`
-    else if ( within == 'file' )
-      qf += ' #within file'
+    texttype = $('#texttype').val()
+    if (texttype)
+      qf += ` #has[texttype,${texttype}]`
 
     // console.log('DDC query:', qf)
 
@@ -799,6 +792,8 @@ $( function () {
       url: dstar,
       data: { q: qf, fmt: 'json', limit: limit, start: start },
     }).done( function (data) {
+      let hint = '<div class="mb-2 text-center form-text">Hinweis: Wenn möglich, wird bei Klick auf einen Treffer im Zieldokument zum Anfang des Treffersatzes gesprungen.</div>'
+
       let head = '<div class="result-head mb-2 text-center">'
       if ( data.nhits_ )
         head += `${parseInt(data.start) + 1}–${data.end_} von ${data.nhits_} Treffern`
@@ -876,32 +871,42 @@ $( function () {
         let fragment = h.ctx_[1].map( (k,i) => (i!=0 && k.ws==1 ? ' ' : '') + _h(k.w) ).slice(0, 3).join('')
         let div = `
 <div class="hit mb-3">
-  <div class="hit-bibl">
-    <span class="hit-no">${parseInt(data.start) + i + 1}.</span>
-    <a href="articles/${_u(_h(h.meta_.basename.replace(/\.orig$/,'')))}.html#:~:text=${_u(_h(fragment))}">${_h(h.meta_.bibl)}</a>
+  <div class="hit-bibl bg-secondary-subtle">
+    <span class="hit-no pe-1">[${parseInt(data.start) + i + 1}]</span>
+    <a href="${base}${(_h(h.meta_.file_.replace(/.*?\/([^\/]+\/[^\/]+)\.ddc\.xml$/,'$1')))}.html#:~:text=${_u(_h(fragment))}">${_h(h.meta_.bibl.replace(/\s\[[^\]]+\]$/,''))}</a>
+    [<abbr title="${_h(textTypes[h.meta_.texttype])}" data-bs-toggle="tooltip">${_h(h.meta_.texttype)}</abbr>]
   </div>
 `
 
-        if ( within != 'file' ) {
-          div += `
-  <div class="hit-text">
-    ${ ctx_before }
-    ${ h.ctx_[1].map( (k,i) => (i!=0 && k.ws==1 ? ' ' : '') + (k.hl_==1 ? '<b>' : '') + _h(k.w) + (k.hl_==1 ? '</b>' : '') ).join('') }
-    ${ ctx_after }
-  </div>
-          `
-        }
+        div += `
+<div class="hit-text">
+  ${ ctx_before }
+  ${ h.ctx_[1].map( (k,i) => (i!=0 && (k.ws==1 || h.ctx_[1].filter((w) => w.ws==1).length==0) ? ' ' : '') + (k.hl_==1 ? '<b>' : '') + _h(k.w) + (k.hl_==1 ? '</b>' : '') ).join('') }
+  ${ ctx_after }
+</div>
+        `
 
         div += `
 </div>`
         hits.push( div)
       })
       $('#search-in-progress').hide()
-      $('#results').html( head + (data.nhits_ ? pager : '') + hits.join('') + (data.nhits_ ? pager : '') )
+      $('#results').html( hint + head + (data.nhits_ ? pager : '') + hits.join('') + (data.nhits_ ? pager : '') )
+
+      // initialize bootstrap’s tooltips
+      const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+      const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
     }).fail( function (a, b, c) {
       $('#search-in-progress').hide()
       let msg = a.responseText.match(/<pre>(.*?)<\/pre>/s)
-      $('#search-error').html( msg[1] ).show()
+      $('#search-error').html(
+        $('<div/>').attr({
+          "class": "alert alert-danger",
+          "role": "alert"
+        }).html( 'Ein Fehler ist aufgetreten:<br/><br/>'
+               + $('<code/>').html(msg[1]).prop('outerHTML')
+        ).prop('outerHTML')
+      ).show()
     })
   }
 

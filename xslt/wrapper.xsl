@@ -142,9 +142,9 @@
               </ul>
             </li>
           </ul>
-          <form class="d-flex mb-1 me-5" role="search">
-            <input class="form-control me-2" type="search" placeholder="Suche" aria-label="Search" disabled="disabled"/>
-            <button class="btn btn-outline-success" type="submit" disabled="disabled">Suche</button>
+          <form class="d-flex mb-1 me-5" role="search" action="{$base}suche.html">
+            <input class="form-control me-2" name="q" id="q-wrapper" type="search" placeholder="Suche" aria-label="Search"/>
+            <button class="btn btn-outline-success" type="submit">Suche</button>
           </form>
         </div>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
