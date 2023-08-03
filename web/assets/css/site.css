@@ -120,7 +120,7 @@ a.btn:hover { text-decoration:none }
   .footer-col img { width:80% }
 }
 
-#record-list td:has(img) { padding:0; vertical-align:middle; text-align:center; cursor:help }
+#record-list td:has(img) { height:30px; padding:0; vertical-align:middle; text-align:center; cursor:help }
 #copa-record-publications { display:none }
 
 /* documentation */

@@ -532,18 +532,35 @@ $( function () {
         }
       },
       {
+        "className": "text-nowrap",
         "render": function (data, type, row) {
           let xrefKey = `${row[fields.institutionShort]}-${row[fields.record]}`.replace(/\s.*/, '')
           if ( crossRefs.records[xrefKey] ) {
             let ret = ''
+            let sheetsSeen = 0
             Object.keys(crossRefs.records[xrefKey]).forEach( (x,i) => {
-              let img = $('<img/>').attr({
-                "src": crossRefs.bibl[x].icon,
-                "alt": crossRefs.bibl[x].full,
-                "title": `Weiterführende Informationen in ${crossRefs.bibl[x].short} vorhanden. Öffnen Sie die Patientenakte, um die einzelnen Verweise nutzen zu können.`,
-                "data-bs-toggle": "tooltip",
-              })
-              ret += img.prop('outerHTML')
+              if ( crossRefs.bibl[x].icon ) {
+                let img = $('<img/>').attr({
+                  "src": crossRefs.bibl[x].icon,
+                  "alt": crossRefs.bibl[x].full,
+                  "title": `Weiterführende Informationen in ${crossRefs.bibl[x].short} vorhanden. Öffnen Sie die Patientenakte, um die einzelnen Verweise nutzen zu können.`,
+                  "data-bs-toggle": "tooltip",
+                })
+                ret += img.prop('outerHTML')
+              }
+              else {
+                if ( !sheetsSeen ) {
+                  let img = $('<img/>').attr({
+                    "src": 'assets/images/sheets.png',
+                    "alt": crossRefs.bibl[x].full,
+                    "title": `Weiterführende Informationen in Publikationen vorhanden. Öffnen Sie die Patientenakte, um die einzelnen Verweise nutzen zu können.`,
+                    "data-bs-toggle": "tooltip",
+                    "style": "height:30px"
+                  })
+                  ret += img.prop('outerHTML')
+                  sheetsSeen++
+                }
+              }
             })
             return ret
           }
@@ -587,15 +604,27 @@ $( function () {
       let ret = $('<ul/>')
 
       Object.keys(crossRefs.records[xrefKey]).forEach( (x,i) => {
-        let item = $('<li/>').html(
-          crossRefs.bibl[x].full.replace(/\.$/, ', S. ')
-        + crossRefs.records[xrefKey][x].map(
-            (page) => $('<a/>').attr({
-              "href": crossRefs.bibl[x].pdf + '#page=' + (page + crossRefs.bibl[x].pdfOffset),
+        let li = $('<li/>')
+        let item
+        if ( crossRefs.records[xrefKey][x].length ) {
+          item = li.html(
+            crossRefs.bibl[x].full.replace(/\.$/, ', S. ')
+          + crossRefs.records[xrefKey][x].map(
+              (page) => $('<a/>').attr({
+                "href": crossRefs.bibl[x].pdf + '#page=' + (parseInt(page.toString().replace(/^(\d+).*/,'$1')) + crossRefs.bibl[x].pdfOffset),
+                "target": "_blank"
+              }).html(page).prop('outerHTML')
+            ).join(', ') + '.'
+          )
+        }
+        else {
+          item = li.html(
+            crossRefs.bibl[x].full + ' ' + $('<a/>').attr({
+              "href": crossRefs.bibl[x].pdf,
               "target": "_blank"
-            }).html(page).prop('outerHTML')
-          ).join(', ') + '.'
-        )
+            }).html('🔗').prop('outerHTML')
+          )
+        }
         ret.append(item)
       })
       $('#copa-record-publications td').html( ret.prop('outerHTML') )
