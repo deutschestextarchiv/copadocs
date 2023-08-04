@@ -155,6 +155,7 @@
         </a>
       </div>
     </nav>
+  </xsl:template>
 
   <xsl:template name="site-footer">
     <footer class="footer mt-auto mt-5 py-3 bg-white">
