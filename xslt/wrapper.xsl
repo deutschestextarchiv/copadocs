@@ -156,7 +156,7 @@
       </div>
     </nav>
 
-    <div class="container">
+   <!--    <div class="container">
       <div class="row">
         <div class="col mt-2">
           <div class="alert alert-danger d-flex align-items-center" role="alert">
@@ -172,7 +172,7 @@
         </div>
       </div>
     </div>
-  </xsl:template>
+  </xsl:template> -->
 
   <xsl:template name="site-footer">
     <footer class="footer mt-auto mt-5 py-3 bg-white">
