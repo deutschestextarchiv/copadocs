@@ -70,7 +70,8 @@ $( function () {
       let facsimile = el.data('facsimile')
       let href = window.location.href
       let dir  = href.substring(0, href.lastIndexOf('/')).replace(/.*\//,'')
-      let src  = `${imgBase}/${dir}/${facsimile}`
+      let src      = `${imgBase}data/${dir}/${facsimile}`
+      let srcThumb = `${imgBase}data_tn/${dir}/${facsimile}`
 
       let windowWidth = $(window).width()
       let offset = windowWidth < 836 ? 160 : windowWidth < 1265 ? 220 : 320;
@@ -79,7 +80,7 @@ $( function () {
       return `<a data-fancybox="gallery-text" data-caption="Seite ${n}" href="${src}" target="_blank" title="Faksimile im Vollbild anzeigen">[Seite ${n}]</a>
               <figure class="tei-side-figure" style="margin-left:${marginLeft}px">
                 <a data-fancybox="gallery-side" data-caption="Faksimile ${facs}" href="${src}" target="_blank" title="Faksimile im Vollbild anzeigen">
-                  <img src="${src}" class="figure-img img-fluid rounded"/>
+                  <img src="${srcThumb}" class="figure-img img-fluid rounded"/>
                 </a>
                 <figcaption class="figure-caption">Faksimile ${facs}</figcaption>
               </figure>`
@@ -639,16 +640,21 @@ $( function () {
     $('#copa-folder-img img').remove()
     let folderImg = $('<img/>').attr({
       "id":    "copa-folder-img",
-      "src":   `https://kaskade.dwds.de/~wiegand/copadocs/folder/${record[fields.patientId]}.jpg`,
+      "src":   `${imgBase}folder_tn/${record[fields.patientId]}.jpg`,
       "style": "width:200px",
       "alt":   "Deckel der Patientenakte",
       "title": "Deckel der Patientenakte",
-      "data-bs-toggle": "tooltip",
-      "data-fancybox": "gallery"
+      "data-bs-toggle": "tooltip"
     }).on('error', function () {
       $('#copa-folder-placeholder').show()
     }).on('load', function() {
-      $('#copa-folder-img').html( folderImg.prop('outerHTML') )
+      $('#copa-folder-img').html(
+        $('<a/>').attr({
+          "href": `${imgBase}folder/${record[fields.patientId]}.jpg`,
+          "data-fancybox": "gallery",
+          "data-caption": "Deckel der Patientenakte"
+        }).append(folderImg)
+      )
       $('#copa-folder-placeholder').hide()
       initTooltips()
     })
@@ -810,7 +816,7 @@ $( function () {
       return url.toString()
     }
 
-    let dstar = 'https://kaskade.dwds.de/dstar/copadocs/dstar.perl' // does not exist yet
+    let dstar = 'https://kaskade.dwds.de/dstar/copadocs/dstar.perl'
     $.ajax({
       url: dstar,
       data: { q: qf, fmt: 'json', limit: limit, start: start },

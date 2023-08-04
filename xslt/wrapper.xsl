@@ -6,7 +6,7 @@
   <xsl:output method="html"/>
 
   <xsl:param name="base" select="'http://localhost/copadocs/'"/>
-  <xsl:param name="img-base" select="'https://kaskade.dwds.de/~wiegand/copadocs/data/'"/>
+  <xsl:param name="img-base" select="'https://kaskade.dwds.de/~wiegand/copadocs/'"/>
   <xsl:param name="page"/>
 
   <!-- <!DOCTYPE html> declaration -->
