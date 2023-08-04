@@ -124,6 +124,8 @@ $( function () {
         line_length += width
       }
     })
+    if ( line_max_length < 300 )
+      line_max_length = 300
     let line_avg = line_length/line_cnt
     $('.tei-body .tei-head, .tei-body [data-rendition="#c"], .tei-body .tei-pb').css({ 'width': line_max_length + 'px' })
     $('.tei-body [data-rendition~="#r"]').css({ 'margin-right': ($('.tei-body').width() - line_max_length) + 'px' })
