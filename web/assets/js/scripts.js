@@ -138,6 +138,7 @@ $( function () {
     'institution',
     'record',
     'patient',
+    'patientId',
     'sex',
     'parents',
     'birthDate',
@@ -634,6 +635,24 @@ $( function () {
       $('#copa-record-publications').hide()
     }
 
+    // folder image
+    $('#copa-folder-img img').remove()
+    let folderImg = $('<img/>').attr({
+      "id":    "copa-folder-img",
+      "src":   `https://kaskade.dwds.de/~wiegand/copadocs/folder/${record[fields.patientId]}.jpg`,
+      "style": "width:200px",
+      "alt":   "Deckel der Patientenakte",
+      "title": "Deckel der Patientenakte",
+      "data-bs-toggle": "tooltip",
+      "data-fancybox": "gallery"
+    }).on('error', function () {
+      $('#copa-folder-placeholder').show()
+    }).on('load', function() {
+      $('#copa-folder-img').html( folderImg.prop('outerHTML') )
+      $('#copa-folder-placeholder').hide()
+      initTooltips()
+    })
+
     history.pushState({ "foo": "bar"}, "Detailansicht Patientenakte" )
     document.location.hash = el.attr('href')
 
@@ -725,10 +744,14 @@ $( function () {
     $('html, body').animate({scrollTop: '0px'}, 100)
   })
 
-  // initialize bootstrap’s tooltips
+  initTooltips()
+})
+
+// initialize bootstrap’s tooltips
+function initTooltips () {
   const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
   const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
-})
+}
 
 $( function () {
   // search
@@ -894,8 +917,7 @@ $( function () {
       $('#results').html( hint + head + (data.nhits_ ? pager : '') + hits.join('') + (data.nhits_ ? pager : '') )
 
       // initialize bootstrap’s tooltips
-      const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
-      const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
+      initTooltips()
     }).fail( function (a, b, c) {
       $('#search-in-progress').hide()
       let msg = a.responseText.match(/<pre>(.*?)<\/pre>/s)

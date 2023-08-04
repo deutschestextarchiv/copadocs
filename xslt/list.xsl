@@ -42,6 +42,10 @@
     <xsl:value-of select="normalize-space(concat(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:forename, ' ', /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:persName/t:surname))"/>
     <xsl:text>&#x9;</xsl:text>
 
+    <!-- patient ID -->
+    <xsl:value-of select="/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/@xml:id"/>
+    <xsl:text>&#x9;</xsl:text>
+
     <!-- sex -->
     <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/@sex)"/>
     <xsl:text>&#x9;</xsl:text>
