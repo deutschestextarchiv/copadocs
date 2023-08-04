@@ -528,6 +528,88 @@
 
   <hr/>
 
+  <h2>Technische Implementation</h2>
+
+  <h3>Minimalistische Voraussetzungen</h3>
+  <p>
+    Der technische Ansatz der Präsentation der Edition und aller Begleittexte
+    hat zum Ziel, mit möglichst wenig Voraussetzungen aus den vorhandenen XML-Daten
+    eine komplett lauffähige Webseite zu erstellen, für deren Hosting kein
+    weiterer Software-Stack (außer einem Webserver) nötig ist. Für das Erstellen
+    der für die Tabellen und Aktenansichten nötigen Datenexzerpte, sowie für die
+    Generierung der HTML-Ansichten der einzelnen Dokumente sowie der Begleittexte,
+    sind lediglich die beiden Tools <code><a href="https://jqlang.github.io/jq/" target="_blank">jq</a></code>
+    und <code><a href="http://xmlsoft.org/xslt/xsltproc.html" target="_blank">xsltproc</a></code>
+    Voraussetzung.
+  </p>
+
+  <h3>TEI-Transformation</h3>
+  <p>
+    Die Transformation der einzelnen Texte aus XML in eine HTML-Ansicht mithilfe
+    von <abbr title="Extensible Stylesheet Language Transformations" data-bs-toggle="tooltip">XSLT</abbr>
+    1.0 erfolgt vollständig über die Konvertierung von XML-Elementen in das
+    HTML-Element <code>&lt;span&gt;</code> mit entsprechenden <code>@data</code>-Attributen:
+  </p>
+
+  <pre class="mx-5"><code class="language-xml">
+&lt;!-- TEI text elements --&gt;
+&lt;xsl:template match="/t:TEI/t:text//t:*"&gt;
+  &lt;span class="tei-{local-name(.)}"&gt;
+    &lt;xsl:call-template name="set-data-attributes"/&gt;
+    &lt;xsl:apply-templates/&gt;
+  &lt;/span&gt;
+&lt;/xsl:template&gt;
+
+&lt;!-- data attributes --&gt;
+&lt;xsl:template name="set-data-attributes"&gt;
+  &lt;xsl:for-each select="@*"&gt;
+    &lt;xsl:call-template name="data-attribute"&gt;
+      &lt;xsl:with-param name="name" select="name(current())"/&gt;
+      &lt;xsl:with-param name="value" select="current()"/&gt;
+    &lt;/xsl:call-template&gt;
+  &lt;/xsl:for-each&gt;
+&lt;/xsl:template&gt;
+
+&lt;!-- single data attribute --&gt;
+&lt;xsl:template name="data-attribute"&gt;
+  &lt;xsl:param name="name"/&gt;
+  &lt;xsl:param name="value"/&gt;
+  &lt;xsl:attribute name="data-{translate($name, ':', '-')}"&gt;
+    &lt;xsl:value-of select="$value"/&gt;
+  &lt;/xsl:attribute&gt;
+&lt;/xsl:template&gt;</code></pre>
+
+  <p>
+    Die ausschließliche Verwendung von <code>&lt;span&gt;</code>-Elementen hat den
+    positiven Nebeneffekt, dass stets valides HTML produziert wird. Die Gestaltung der
+    einzelnen Textelemente wird <a href="https://github.com/deutschestextarchiv/copadocs/blob/main/web/assets/css/tei.css"
+    target="_blank">mit wenigen Zeilen <abbr title="Cascading Stylesheets" data-bs-toggle="tooltip">CSS</abbr></a>
+    realisiert. Besondere Effekte wie die Einbindung der Faksimilebilder und eine
+    Verfeinerung der Textdarstellung v. a. bzgl. rechtsbündigem und zentriertem
+    Text werden mit Javascript umgesetzt.
+    Dabei ist der gesamte Quellcode dieser Webseite öffentlich und kann
+    für ähnlich ansetzende Projekte unter der Lizenz
+    <a href="https://github.com/deutschestextarchiv/copadocs/blob/main/LICENSE.md" target="_blank">CC BY-SA 4.0</a>
+    nachgenutzt werden.
+  </p>
+
+  <p>
+    Die Auslieferung der generierten Webseite benötigt nur einen Webserver. Alle für den
+    Betrieb nötigen Dateien, Schriften und Bibliotheken werden im Paket mitgeliefert,
+    aufwendige Rechenzeit für Server entfällt. Damit folgt das Projekt den Zielen der
+    <a href="https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition" target="_blank">Digital
+    Humanities Climate Coalition</a> für einen nachhaltigeren und bewussteren Umgang
+    mit den begrenzten Ressourcen aus Sicht der Digital Humanities.
+  </p>
+
+  <!-- fw: https://endings.uvic.ca/compliance.html wäre auch noch nett, da fehlen aber noch ein paar Kleinigkeiten zu -->
+
+<link rel="stylesheet" href="assets/highlight/intellij-light.min.css"/>
+<script src="assets/highlight/highlight.min.js"></script>
+<script>hljs.highlightAll();</script>
+
+  <hr/>
+
   <h2>Nachnutzung</h2>
   <p>
     <img src="assets/logos/cc-by-sa.svg" style="float:right; height:70px; margin:0 0 10px 10px" alt="Logo CC BY-SA 4.0"/>
