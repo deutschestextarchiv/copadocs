@@ -63,8 +63,8 @@ body { font-family:"PT Sans",sans-serif; background:linear-gradient(to bottom, #
 
 footer { border-top:1px solid #ccc }
 h1 { font-weight:bold; border-bottom:1px solid #ddd; margin-bottom:20px; text-align:center }
-h2 { font-weight:normal; margin-bottom:20px }
-h3 { font-weight:bold; font-size:19pt }
+h2 { font-weight:normal; margin-bottom:20px; text-align:center }
+h3 { font-weight:bold; font-size:19pt; text-align:center }
 abbr { text-decoration-style:dotted; cursor:help }
 blockquote { border-left:5px solid #ddd; margin-left:3rem; padding-left:1rem }
 .blockquote-footer { text-align:right }
@@ -92,10 +92,14 @@ blockquote { border-left:5px solid #ddd; margin-left:3rem; padding-left:1rem }
 .nav-item a.dropdown-item.active { color:#fff !important; background:var(--base-color) !important }
 .nav-link:active, .nav-link.active { border-radius:4px }
 
-/* paging */
+/* datatables paging */
 .paginate_button a { color:var(--base-color) !important }
 .paginate_button.active a { background:var(--base-color) !important; border-color:var(--base-color) !important; color:#fff !important }
 .pagination a, .dataTables_info, .dataTables_length, .dataTables_filter { font-size:10pt !important }
+
+/* bootstrap paging */
+.active>.page-link { background-color:var(--base-color); border-color:var(--base-color) }
+.page-link, .page-link:hover { color:var(--base-color); text-decoration:none }
 
 /* links and buttons */
 a { color:var(--base-color); text-decoration:none }
@@ -120,7 +124,7 @@ a.btn:hover { text-decoration:none }
   .footer-col img { width:80% }
 }
 
-#record-list td:has(img) { padding:0; vertical-align:middle; text-align:center; cursor:help }
+#record-list td:has(img) { height:30px; padding:0; vertical-align:middle; text-align:center; cursor:help }
 #copa-record-publications { display:none }
 
 /* documentation */
@@ -137,3 +141,5 @@ table.copa-tags > tbody > tr > td > table > tbody > tr > td:nth-child(1) { width
 table.copa-tags > tbody > tr > td > table > tbody > tr > td:nth-child(2) { width:25% }
 table.copa-tags > tbody > tr > td > table > tbody > tr > td:nth-child(3) td:nth-child(1) { width:30% }
 table.copa-tags code { white-space:pre-wrap }
+
+table.copa-search-help td:first-child { font-family:monospace; font-size:11pt; white-space:nowrap; padding-right:20px }

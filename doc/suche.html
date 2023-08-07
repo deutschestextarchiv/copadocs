@@ -1,0 +1,38 @@
+<section>
+  <h1>Suche in CoPaDocs</h1>
+
+  <form method="get" action="suche.html">
+    <div class="input-group mb-3">
+      <span class="input-group-text">Suchanfrage</span>
+      <input name="q" id="q" class="form-control"/>
+      <span class="input-group-text"><a href="suche-hilfe.html">Hilfe</a></span>
+    </div>
+    <div class="input-group mb-3">
+      <span class="input-group-text">Dokumenttyp</span>
+      <select class="form-control" name="texttype" id="texttype">
+        <option value="">alle</option>
+        <option value="pp">Patientenbrief (privat)</option>
+        <option value="po">Patientenbrief (offiziell)</option>
+        <option value="so">sonstiger Patiententext</option>
+        <option value="ap">Angehörigenbrief (privat)</option>
+        <option value="ao">Angehörigenbrief (offiziell)</option>    
+      </select>
+      <span class="input-group-text">Start</span>
+      <input type="number" class="form-control" min="1834" max="1957" name="ds" id="ds" value="1834"/>
+      <span class="input-group-text">Ende</span>
+      <input type="number" class="form-control" min="1834" max="1957" name="de" id="de" value="1957"/>
+    </div>
+    <div class="text-center">
+      <button type="submit" class="btn btn-primary">suchen</button>
+      <a class="btn btn-default bg-secondary-subtle" href="suche.html">zurücksetzen</a>
+    </div>
+  </form>
+
+  <hr/>
+
+  <div id="results"></div>
+  <div id="search-error" class="p-3" style="display:none"></div>
+  <div id="search-in-progress" style="display:none">
+    <p class="text-center">Bitte warten Sie einen Moment, die Ergebnisse werden geladen …</p>
+  </div>
+</section>

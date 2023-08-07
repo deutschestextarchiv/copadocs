@@ -70,7 +70,8 @@ $( function () {
       let facsimile = el.data('facsimile')
       let href = window.location.href
       let dir  = href.substring(0, href.lastIndexOf('/')).replace(/.*\//,'')
-      let src  = `${imgBase}/${dir}/${facsimile}`
+      let src      = `${imgBase}data/${dir}/${facsimile}`
+      let srcThumb = `${imgBase}data_tn/${dir}/${facsimile}`
 
       let windowWidth = $(window).width()
       let offset = windowWidth < 836 ? 160 : windowWidth < 1265 ? 220 : 320;
@@ -79,7 +80,7 @@ $( function () {
       return `<a data-fancybox="gallery-text" data-caption="Seite ${n}" href="${src}" target="_blank" title="Faksimile im Vollbild anzeigen">[Seite ${n}]</a>
               <figure class="tei-side-figure" style="margin-left:${marginLeft}px">
                 <a data-fancybox="gallery-side" data-caption="Faksimile ${facs}" href="${src}" target="_blank" title="Faksimile im Vollbild anzeigen">
-                  <img src="${src}" class="figure-img img-fluid rounded"/>
+                  <img src="${srcThumb}" class="figure-img img-fluid rounded"/>
                 </a>
                 <figcaption class="figure-caption">Faksimile ${facs}</figcaption>
               </figure>`
@@ -123,11 +124,10 @@ $( function () {
         line_length += width
       }
     })
+    if ( line_max_length < 300 )
+      line_max_length = 300
     let line_avg = line_length/line_cnt
-    if ( line_avg < 300 )
-      $('.tei-body .tei-head, .tei-body [data-rendition="#c"], .tei-body .tei-pb').css({ 'width': '60%' })
-    else if ( line_avg < 400 )
-      $('.tei-body .tei-head, .tei-body [data-rendition="#c"], .tei-body .tei-pb').css({ 'width': '70%' })
+    $('.tei-body .tei-head, .tei-body [data-rendition="#c"], .tei-body .tei-pb').css({ 'width': line_max_length + 'px' })
     $('.tei-body [data-rendition~="#r"]').css({ 'margin-right': ($('.tei-body').width() - line_max_length) + 'px' })
   }
 
@@ -141,6 +141,7 @@ $( function () {
     'institution',
     'record',
     'patient',
+    'patientId',
     'sex',
     'parents',
     'birthDate',
@@ -532,18 +533,35 @@ $( function () {
         }
       },
       {
+        "className": "text-nowrap",
         "render": function (data, type, row) {
           let xrefKey = `${row[fields.institutionShort]}-${row[fields.record]}`.replace(/\s.*/, '')
           if ( crossRefs.records[xrefKey] ) {
             let ret = ''
+            let sheetsSeen = 0
             Object.keys(crossRefs.records[xrefKey]).forEach( (x,i) => {
-              let img = $('<img/>').attr({
-                "src": crossRefs.bibl[x].icon,
-                "alt": crossRefs.bibl[x].full,
-                "title": `Weiterführende Informationen in ${crossRefs.bibl[x].short} vorhanden. Öffnen Sie die Patientenakte, um die einzelnen Verweise nutzen zu können.`,
-                "data-bs-toggle": "tooltip",
-              })
-              ret += img.prop('outerHTML')
+              if ( crossRefs.bibl[x].icon ) {
+                let img = $('<img/>').attr({
+                  "src": crossRefs.bibl[x].icon,
+                  "alt": crossRefs.bibl[x].full,
+                  "title": `Weiterführende Informationen in ${crossRefs.bibl[x].short} vorhanden. Öffnen Sie die Patientenakte, um die einzelnen Verweise nutzen zu können.`,
+                  "data-bs-toggle": "tooltip",
+                })
+                ret += img.prop('outerHTML')
+              }
+              else {
+                if ( !sheetsSeen ) {
+                  let img = $('<img/>').attr({
+                    "src": 'assets/images/sheets.png',
+                    "alt": crossRefs.bibl[x].full,
+                    "title": `Weiterführende Informationen in Publikationen vorhanden. Öffnen Sie die Patientenakte, um die einzelnen Verweise nutzen zu können.`,
+                    "data-bs-toggle": "tooltip",
+                    "style": "height:30px"
+                  })
+                  ret += img.prop('outerHTML')
+                  sheetsSeen++
+                }
+              }
             })
             return ret
           }
@@ -555,8 +573,12 @@ $( function () {
   })
 
   // open record
-  $(document).on('click', 'a.copa-record', function () {
-    showRecord( $(this) )
+  $(document).on('click', 'a.copa-record', function (e) {
+    let el = $(this)
+    if ( e.ctrlKey )
+      window.open(base + 'patientenakten.html#' + encodeURIComponent(el.data('institution')) + '-' + encodeURIComponent(el.data('record')), '_blank')
+    else
+      showRecord( el )
     return false
   })
 
@@ -587,15 +609,27 @@ $( function () {
       let ret = $('<ul/>')
 
       Object.keys(crossRefs.records[xrefKey]).forEach( (x,i) => {
-        let item = $('<li/>').html(
-          crossRefs.bibl[x].full.replace(/\.$/, ', S. ')
-        + crossRefs.records[xrefKey][x].map(
-            (page) => $('<a/>').attr({
-              "href": crossRefs.bibl[x].pdf + '#page=' + (page + crossRefs.bibl[x].pdfOffset),
+        let li = $('<li/>')
+        let item
+        if ( crossRefs.records[xrefKey][x].length ) {
+          item = li.html(
+            crossRefs.bibl[x].full.replace(/\.$/, ', S. ')
+          + crossRefs.records[xrefKey][x].map(
+              (page) => $('<a/>').attr({
+                "href": crossRefs.bibl[x].pdf + '#page=' + (parseInt(page.toString().replace(/^(\d+).*/,'$1')) + crossRefs.bibl[x].pdfOffset),
+                "target": "_blank"
+              }).html(page).prop('outerHTML')
+            ).join(', ') + '.'
+          )
+        }
+        else {
+          item = li.html(
+            crossRefs.bibl[x].full + ' ' + $('<a/>').attr({
+              "href": crossRefs.bibl[x].pdf,
               "target": "_blank"
-            }).html(page).prop('outerHTML')
-          ).join(', ') + '.'
-        )
+            }).html('🔗').prop('outerHTML')
+          )
+        }
         ret.append(item)
       })
       $('#copa-record-publications td').html( ret.prop('outerHTML') )
@@ -603,6 +637,29 @@ $( function () {
     else {
       $('#copa-record-publications').hide()
     }
+
+    // folder image
+    $('#copa-folder-img img').remove()
+    let folderImg = $('<img/>').attr({
+      "id":    "copa-folder-img",
+      "src":   `${imgBase}folder_tn/${record[fields.patientId]}.jpg`,
+      "style": "width:200px",
+      "alt":   "Deckel der Patientenakte",
+      "title": "Deckel der Patientenakte",
+      "data-bs-toggle": "tooltip"
+    }).on('error', function () {
+      $('#copa-folder-placeholder').show()
+    }).on('load', function() {
+      $('#copa-folder-img').html(
+        $('<a/>').attr({
+          "href": `${imgBase}folder/${record[fields.patientId]}.jpg`,
+          "data-fancybox": "gallery",
+          "data-caption": "Deckel der Patientenakte"
+        }).append(folderImg)
+      )
+      $('#copa-folder-placeholder').hide()
+      initTooltips()
+    })
 
     history.pushState({ "foo": "bar"}, "Detailansicht Patientenakte" )
     document.location.hash = el.attr('href')
@@ -695,10 +752,14 @@ $( function () {
     $('html, body').animate({scrollTop: '0px'}, 100)
   })
 
-  // initialize bootstrap’s tooltips
+  initTooltips()
+})
+
+// initialize bootstrap’s tooltips
+function initTooltips () {
   const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
   const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
-})
+}
 
 $( function () {
   // search
@@ -726,25 +787,14 @@ $( function () {
     if ( ds && de )
       qf += ` #asc_date[${ds},${de}]`
 
-    // context
-    let cntxt = searchParams.get('cntxt')
-    if ( cntxt )
-      $('#cntxt').val(cntxt)
+    // texttype
+    let texttype = searchParams.get('texttype')
+    if ( texttype )
+      $('#texttype').val(texttype)
 
-    cntxt = $('#cntxt').val()
-    if ( cntxt )
-      qf += ` #cntxt ${cntxt}`
-
-    // within
-    let within = searchParams.get('within')
-    if ( within )
-      $('#within').val(within)
-
-    within = $('#within').val()
-    if ( within == 'sep' )
-      qf += ` #${within}`
-    else if ( within == 'file' )
-      qf += ' #within file'
+    texttype = $('#texttype').val()
+    if (texttype)
+      qf += ` #has[texttype,${texttype}]`
 
     // console.log('DDC query:', qf)
 
@@ -768,11 +818,13 @@ $( function () {
       return url.toString()
     }
 
-    let dstar = 'https://kaskade.dwds.de/dstar/copadocs/dstar.perl' // does not exist yet
+    let dstar = 'https://kaskade.dwds.de/dstar/copadocs/dstar.perl'
     $.ajax({
       url: dstar,
       data: { q: qf, fmt: 'json', limit: limit, start: start },
     }).done( function (data) {
+      let hint = '<div class="mb-2 text-center form-text">Hinweis: Wenn möglich, wird bei Klick auf einen Treffer im Zieldokument zum Anfang des Treffersatzes gesprungen.</div>'
+
       let head = '<div class="result-head mb-2 text-center">'
       if ( data.nhits_ )
         head += `${parseInt(data.start) + 1}–${data.end_} von ${data.nhits_} Treffern`
@@ -850,32 +902,41 @@ $( function () {
         let fragment = h.ctx_[1].map( (k,i) => (i!=0 && k.ws==1 ? ' ' : '') + _h(k.w) ).slice(0, 3).join('')
         let div = `
 <div class="hit mb-3">
-  <div class="hit-bibl">
-    <span class="hit-no">${parseInt(data.start) + i + 1}.</span>
-    <a href="articles/${_u(_h(h.meta_.basename.replace(/\.orig$/,'')))}.html#:~:text=${_u(_h(fragment))}">${_h(h.meta_.bibl)}</a>
+  <div class="hit-bibl bg-secondary-subtle">
+    <span class="hit-no pe-1">[${parseInt(data.start) + i + 1}]</span>
+    <a href="${base}${(_h(h.meta_.file_.replace(/.*?\/([^\/]+\/[^\/]+)\.ddc\.xml$/,'$1')))}.html#:~:text=${_u(_h(fragment))}">${_h(h.meta_.bibl.replace(/\s\[[^\]]+\]$/,''))}</a>
+    [<abbr title="${_h(textTypes[h.meta_.texttype])}" data-bs-toggle="tooltip">${_h(h.meta_.texttype)}</abbr>]
   </div>
 `
 
-        if ( within != 'file' ) {
-          div += `
-  <div class="hit-text">
-    ${ ctx_before }
-    ${ h.ctx_[1].map( (k,i) => (i!=0 && k.ws==1 ? ' ' : '') + (k.hl_==1 ? '<b>' : '') + _h(k.w) + (k.hl_==1 ? '</b>' : '') ).join('') }
-    ${ ctx_after }
-  </div>
-          `
-        }
+        div += `
+<div class="hit-text">
+  ${ ctx_before }
+  ${ h.ctx_[1].map( (k,i) => (i!=0 && (k.ws==1 || h.ctx_[1].filter((w) => w.ws==1).length==0) ? ' ' : '') + (k.hl_==1 ? '<b>' : '') + _h(k.w) + (k.hl_==1 ? '</b>' : '') ).join('') }
+  ${ ctx_after }
+</div>
+        `
 
         div += `
 </div>`
         hits.push( div)
       })
       $('#search-in-progress').hide()
-      $('#results').html( head + (data.nhits_ ? pager : '') + hits.join('') + (data.nhits_ ? pager : '') )
+      $('#results').html( hint + head + (data.nhits_ ? pager : '') + hits.join('') + (data.nhits_ ? pager : '') )
+
+      // initialize bootstrap’s tooltips
+      initTooltips()
     }).fail( function (a, b, c) {
       $('#search-in-progress').hide()
       let msg = a.responseText.match(/<pre>(.*?)<\/pre>/s)
-      $('#search-error').html( msg[1] ).show()
+      $('#search-error').html(
+        $('<div/>').attr({
+          "class": "alert alert-danger",
+          "role": "alert"
+        }).html( 'Ein Fehler ist aufgetreten:<br/><br/>'
+               + $('<code/>').html(msg[1]).prop('outerHTML')
+        ).prop('outerHTML')
+      ).show()
     })
   }
 
