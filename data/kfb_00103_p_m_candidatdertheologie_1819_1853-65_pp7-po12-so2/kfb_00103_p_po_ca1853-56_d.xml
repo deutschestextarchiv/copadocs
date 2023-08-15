@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="kfb103p21" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="kfb103p16" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -28,9 +28,9 @@
 <profileDesc>
 <creation>
 <persName type="sender">Kaspar <surname>P.</surname></persName>
-<date type="sent" when="1855-11-01">01.11.1855</date>
+<date notAfter="1865" notBefore="1853" type="sent">ca. 1853–65</date>
 <date type="received">k. A.</date>
-<persName type="addressee">nicht zutreffend</persName>
+<persName type="addressee">k. A.</persName>
 <settlement type="sent">k. A.</settlement>
 <settlement type="received">k. A.</settlement>
 </creation>
@@ -46,8 +46,8 @@
 <state>
 <p>Familienstand: ledig</p>
 <p>Eltern: Bauern</p>
-<p>Anstalt: <date from="1853" to="1865">1853–65</date></p><p>Verpflegungsklasse: 3</p>
-<p>Brieftypen: pp: 7, po: 12, so: 2</p>
+<p>Anstalt: <date from="1853-06-04" to="1856">04.06.1853–1856</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 7, po: 12</p>
 </state>
 <trait><p>Geistesstörung, Ruhelosigkeit (1853)</p></trait>
 </person>
@@ -55,33 +55,36 @@
 <langUsage>
 <language ident="de"/>
 </langUsage> <handNotes>
-<handNote medium="ink" scope="sole" scribe="patient"/>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
 </handNotes>
 <textDesc>
 <channel/><constitution/><derivation/>
-<domain>musikalische Unterhaltung</domain>
+<domain>offizieller Brief</domain>
 <factuality/><interaction/><preparedness/>
 <purpose>
-                    Niederschrift eines Musikprogramms.
+                    Patient bittet um Verlegung.
                 </purpose>
 </textDesc>
 </profileDesc>
 </teiHeader>
 <facsimile xml:base="f/">
-<graphic mimeType="image/jpeg" url="kfb103p21a.jpg" xml:id="image_045"/>
+<graphic mimeType="image/jpeg" url="kfb103p16a.jpg" xml:id="image_035"/>
 </facsimile>
 <text>
 <body>
-<pb facs="#image_045"/>
+<pb facs="#image_035"/>
 <opener>
-<dateline><hi rendition="#i"><hi rendition="#c"><hi rendition="#u">Musikalische Abendunterhaltung</hi></hi></hi><lb break="yes"/><hi rendition="#c">Am <hi rendition="#u">1. <hi rendition="#i">November</hi></hi> 1855</hi></dateline>
-<salute/>
+<dateline/>
+<salute><hi rendition="#c">Tl. G. G. V.</hi></salute>
 </opener>
-<p>
-<hi rendition="#c"><hi rendition="#i">Quartett von Beethofen.<lb break="yes"/>Sommernacht, Duett, für Sopran &amp; Alt<lb break="yes"/>Jägerslust,
-                        Männerquartett<lb break="yes"/>Laendler für 2 Zithern &amp; Quittare<lb break="yes"/>Zecherswunsch von Schröter.<lb break="yes"/>Quintett aus
-                        Maritana.<lb break="yes"/><milestone rendition="#hr" unit="section"/><lb break="yes"/>Anfang 7 Uhr. </hi></hi>
-</p>
+<p><hi rendition="#i">Tacite inter nos!</hi><lb break="yes"/><hi rendition="#i">Iterum</hi> bitte ich drin<lb break="no"/>gendst
+                um Verlegung!<lb break="yes"/>Es scheint nur als sei<lb break="yes"/>ich in der
+                jetzigen Schlaf<lb break="no"/>stelle/ meinen Feinden er<lb break="no"/>wünscht/ so
+                ganz gelegen<lb break="yes"/>zu magischen Operationen<lb break="yes"/>in die Mitte
+                genom̄en;<lb break="yes"/>nur v. d. Seite der Kirche<lb break="yes"/>frei!
+                − Eine umsichtige<lb break="yes"/>Dire<hi rendition="#i">c</hi>tion wird
+                wissen,<lb break="yes"/>wenn es dieser Tage galt!<lb break="yes"/><seg ana="#curse">Pfui Teufel</seg>, der
+                    Grau<lb break="no"/>samkeiten! </p>
 </body>
 </text>
 </TEI>
