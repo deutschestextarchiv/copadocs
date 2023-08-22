@@ -110,13 +110,6 @@
             </table>
           </td>
         </tr>
-        <!-- fw: nur in kfb_02229_w_m_zeichner_1880_1905-18_pp4-ap1-ao1/kfb_02229_w_pp_1905_12_14.xml, da ohne Inhalt
-        <tr>
-          <td>desc</td>
-          <td></td>
-          <td></td>
-        </tr>
-        -->
         <tr>
           <td>emph</td>
           <td>Hervorhebung</td>
@@ -221,11 +214,6 @@
                 </tr>
               </thead>
               <tbody>
-                <tr>
-                  <td>@ana</td>
-                  <td></td>
-                  <td></td>
-                </tr>
                 <tr>
                   <td>@hand</td>
                   <td>nur in Verbindung mit <code>@rendition="#u"</code>: Hand des Unterstreichenden</td>
@@ -399,20 +387,40 @@
               <tbody>
                 <tr>
                   <td>@ana</td>
-                  <td></td>
-                  <td></td>
+                  <td>inhaltliche Annotation</td>
+                  <td>
+                  <!--  <table class="table table-sm">
+                      <tr>
+                        <td>"cens"</td>
+                        <td>Bezüge zur Briefzensur</td>
+                      </tr>
+                      <tr>
+                        <td>"curse"</td>
+                        <td>Schimpfwort</td>
+                      </tr>
+                      <tr>
+                        <td>"inst"</td>
+                        <td>Bezüge zur Institution, Mitpatienten etc.</td>
+                      </tr>
+                      <tr>
+                        <td>"med"</td>
+                        <td>Bezüge zu Medizin, Behandlung</td>
+                      </tr>
+                      <tr>
+                        <td>"metaling"</td>
+                        <td>metalinguistische Kommentare</td>
+                      </tr>
+                      <tr>
+                        <td>"pic"</td>
+                        <td>Zeichnung bzw. Symbol</td>
+                      </tr>
+                   </table> -->
+                  </td>
                 </tr>
               </tbody>
             </table>
           </td>
         </tr>
-        <!-- fw: nur in kfb_02229_w_m_zeichner_1880_1905-18_pp4-ap1-ao1/kfb_02229_w_pp_1905_12_14.xml, da ohne Inhalt
-        <tr>
-          <td>signatures</td>
-          <td></td>
-          <td></td>
-        </tr>
-        -->
         <tr>
           <td>space</td>
           <td>horizontaler Leerraum</td>
@@ -520,7 +528,7 @@
         <p>Dieses <span data-rendition="#sub">Wort</span> ist tiefgestellt.</p>
         <p>Dieses <span data-rendition="#sup">Wort</span> ist hochgestellt.</p>
         <p>Dieses <span data-rendition="#u">Wort</span> ist unterstrichen.</p>
-        <p>Eine Klinik liegt in <span class="tei-placeName">Kaufbeuren</span>.</p>
+        <p>Eine Klinik liegt in <span class="tei-placeName">Münster</span> (nur bei westfälischen Patientenbriefen annotiert).</p>
         <p><span class="tei-surname">M.</span> ist ein abgekürzter Nachname.</p>
       </div>
     </div>
@@ -536,8 +544,8 @@
     hat zum Ziel, mit möglichst wenig Voraussetzungen aus den vorhandenen XML-Daten
     eine komplett lauffähige Webseite zu erstellen, für deren Hosting kein
     weiterer Software-Stack (außer einem Webserver) nötig ist. Für das Erstellen
-    der für die Tabellen und Aktenansichten nötigen Datenexzerpte, sowie für die
-    Generierung der HTML-Ansichten der einzelnen Dokumente sowie der Begleittexte,
+    der für die Tabellen und Aktenansichten nötigen Datenexzerpte sowie für die
+    Generierung der HTML-Ansichten der einzelnen Dokumente und Begleittexte
     sind lediglich die beiden Tools <code><a href="https://jqlang.github.io/jq/" target="_blank">jq</a></code>
     und <code><a href="http://xmlsoft.org/xslt/xsltproc.html" target="_blank">xsltproc</a></code>
     Voraussetzung.

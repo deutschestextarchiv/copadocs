@@ -150,8 +150,8 @@
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <a class="navbar-brand" href="https://www.deutschestextarchiv.de/" target="_blank">
-          <img src="{$base}assets/logos/dta.svg" height="50" title="Deutsches Textarchiv" alt="Logo Deutsches Textarchiv" data-bs-toggle="tooltip" data-bs-placement="right"/>
+        <a class="navbar-brand" href="https://www.dwds.de/d/korpora/copadocs" target="_blank">
+          <img src="{$base}assets/logos/dwds.svg" height="50" title="Digitales Wörterbuch der deutschen Sprache " alt="Logo DWDS" data-bs-toggle="tooltip" data-bs-placement="right"/>
         </a>
       </div>
     </nav>
