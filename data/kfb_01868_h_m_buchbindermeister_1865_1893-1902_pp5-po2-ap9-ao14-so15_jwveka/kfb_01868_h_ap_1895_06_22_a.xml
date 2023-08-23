@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h27" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Therese <surname>H.</surname></persName>
+<date type="sent" when="1895-06-22">22.06.1895</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Johann Baptist <surname>H.</surname></persName>
+<settlement type="sent">Wemding</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gratuliert dem Patienten zum Namensfest und richtet Grüße aus. 
+                    Erzählt von den Fortschritten der gemeinsamen Tochter.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1868h27a.jpg" xml:id="image_112"/>
+<graphic mimeType="image/jpeg" url="kfb1868h27b.jpg" xml:id="image_113"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_112"/>
+<opener>
+<dateline><hi rendition="#r">Wemding, den 22. Juni <hi rendition="#sub">1895</hi></hi></dateline>
+<salute><hi rendition="#c">Mein lieber Baptist!</hi></salute>
+</opener>
+<p><space/> Leider muß ich schon zum<lb break="yes"/><w>dritten</w><w>male</w>, meine Namens<lb break="no"/>fest-Glückwünsche, zu Dir<lb break="yes"/>in die weite Ferne senden<lb break="yes"/>u. ist uns im̄er noch nicht gegön̄t<lb break="yes"/>Dein schönes Namensfest bei<lb break="no"/>sam̄en im lieben Heim, feiern<lb break="yes"/>zu dürfen. Ich wünsche Dir von<lb break="yes"/>ganzem Herzen
+                nur das eine,<lb break="yes"/>die Gesundheit. Bete mit mir<lb break="yes"/>zum
+                lieben Gott, besonders an<lb break="yes"/>Deinem Namensfest, Er möge<lb break="yes"/>Dich recht bald be<del>r</del>freien von<lb break="yes"/>Deinem Leiden u.
+                recht gesund<lb break="yes"/>heimkehren lassen zu mir u. <pb facs="#image_113"/>zu
+                Deinem netten Thereschen.<lb break="yes"/>Du wirst staunen, wen̄ Du sie<lb break="yes"/>siehst, wie wacker sie schon gewor<lb break="no"/>den ist. Sie
+                kan̄ Dir schon die<lb break="yes"/>schönsten Verschen sagen. Meine<lb break="yes"/>Eltern! <surname>F.</surname>! Karl! Leon<lb break="no"/>hart
+                u. An̄a wünschen Dir auch<lb break="yes"/>Alles Gute u. Gesundheit. </p><p>Beiliegende Kleinigkeit,<lb break="yes"/>Kuchen, Kirschen u. Würstchen<lb break="yes"/>lasse
+                Dir recht schmecken u.<lb break="yes"/>erfreue mich doch auch einmal<lb break="yes"/>mit einem Briefe, wie es Dir<lb break="yes"/>geht. <seg ana="#salute">Zum Schlusse sei recht viel<lb break="no"/>mals gegrüßt von Deiner<lb break="yes"/><hi rendition="#r">schwer geprüften Gattin</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Therese
+                            <surname>H.</surname>.</seg></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h14" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Therese <surname>H.</surname></persName>
+<date type="sent" when="1894-10-12">12.10.1894</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Arzt</persName>
+<settlement type="sent">Wemding</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Die Ehefrau erkundigt sich nach ihrem Mann.
+                   Der Arzt antwortet, dass es keine Besserung gibt und wohl auch nicht geben wird.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1868h14a.jpg" xml:id="image_050"/>
+<graphic mimeType="image/jpg" url="kfb1868h14b.jpg" xml:id="image_051"/>
+<graphic mimeType="image/jpg" url="kfb1868h14c.jpg" xml:id="image_052"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_050"/>
+<opener>
+<dateline><hi rendition="#r">Wemding, den 12. Okt. 94.</hi></dateline>
+<salute>Sehr geehrtester Herr Doktor!</salute>
+</opener>
+<p><space/> Da ich schon so lange kein<lb break="yes"/>Lebzeichen von meinem
+                Man̄e<lb break="yes"/>erf<del>u</del><add>a</add>h<del>r</del><add>en</add> läßt es mir keine Ruhe<lb break="yes"/>mehr, bis ich wieder von dem<lb break="yes"/>Befinden meines
+                Gatten etwas<lb break="yes"/>zu hören bekom̄e. Möchte Sie<lb break="yes"/>deßhalb recht vielmals bitten,<lb break="yes"/>mir wieder mitzuteilen wie<lb break="yes"/>es Ihm geht, ob den̄ noch gar<lb break="yes"/>nicht besser,
+                u. ob Er gar nicht<lb break="yes"/>zu mir u. meinem Kinde heim<lb break="yes"/>gehen möchte. Lassen Sie Ihn recht<lb break="yes"/>recht viele Grüße von mir
+                entrichten <pb facs="#image_051"/>u. er soll mir doch nur ein paar<lb break="yes"/>Zeilen selbst schreiben, das er<lb break="yes"/>vielleicht doch thun würde,
+                wen̄<lb break="yes"/>Herr Doktor die Güte hätte u.<lb break="yes"/>würden
+                meinem Man̄e ein wenig<lb break="yes"/>zureden. Für Alles danke ich<lb break="yes"/>Ihnen recht vielmals u. <seg ana="#salute">freundlichst<lb break="yes"/>grüßent in aller<lb break="yes"/><hi rendition="#c">Hochachtung</hi></seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Therese
+                            <surname>H.</surname></seg></hi><lb break="yes"/><hi rendition="#r">Buchbindersgattin</hi></p>
+<pb facs="#image_052"/>
+<p><add hand="arzt">beantw<hi rendition="#u">.</hi> d. 14/ 10. 94.<lb break="yes"/><space/> keine Besserung, die<lb break="yes"/>überhaupt nicht mehr zu<lb break="yes"/>erwarten ist.</add></p>
+<p><add hand="arzt">Will nicht schreiben, be<lb break="no"/>ruft sich auf seine frühen<lb break="yes"/>verfaßten Schreibereien.<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><unclear/></seg>.</hi></add></p>
+</body>
+</text>
+</TEI>

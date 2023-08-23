@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Therese <surname>H.</surname></persName>
+<date type="sent" when="1893-05-02">02.05.1893</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">Wemding</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Ehefrau des Patienten fragt nach dessen Zustand.
+                    Der Arzt antwortet und beschreibt die Wahnvorstellungen des Patienten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1868h08a.jpg" xml:id="image_034"/>
+<graphic mimeType="image/jpg" url="kfb1868h08b.jpg" xml:id="image_035"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_034"/>
+<opener>
+<dateline><hi rendition="#r">Wemding, den 2. Mai 1893</hi></dateline>
+<salute><hi rendition="#r">Sehr geehrtester Herr Direktor!</hi></salute>
+</opener>
+<p><space/> Für die freundliche Mitteilung,<lb break="yes"/>Danke ich von ganzen
+                Herzen recht<lb break="yes"/>vielmals. Ich lebe im̄er in Unruhe<lb break="yes"/>wie das Befinden, meines lb. Man̄es<lb break="yes"/>jetzt
+                sein wird u. möchte Sie bitten<lb break="yes"/>mit Benützung der Briefmarke nur ein<lb break="yes"/>klein wenig von demselben mit<del>t</del>zuteilen.<lb break="yes"/>Wen̄ Sie erlauben, so bitte ich meinen Gatten<lb break="yes"/>bestens zu grüßen. <seg ana="#salute">Nochmals dankent<lb break="yes"/>für alles
+                unterzeichnet sich<lb break="yes"/><hi rendition="#c">Hochachtent</hi></seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Therese <surname>H.</surname></seg><lb break="yes"/>Buchbindersgattin.</hi></p>
+<pb facs="#image_035"/>
+<p><add hand="arzt">Verhält sich seit der in der zweiten<lb break="yes"/>Woche
+                    seines Hierseins stattgefundenen<lb break="yes"/>Aufregung, die einige Tage
+                    dauerte<lb break="yes"/>ruhig. Er verkehrt mit niemand, <del>und</del><lb break="yes"/>beschäftigt sich in der letzten Zeit viel<lb break="yes"/>mit
+                    Lesen, hört beständig Stim̄en,<lb break="yes"/>die
+                        über ihn und seine Verhältnisse<lb break="yes"/>sprechen, hört sich öfters
+                        zurufen, daß<lb break="yes"/><del>er nicht mehr</del> Staat u. Kirche
+                        wünsche<lb break="yes"/>er solle nicht mehr mit seiner Frau<lb break="yes"/>sondern mit anderen Frauenzim̄ern<lb break="yes"/>geschlechtlichen
+                        Umgang pflegen, meint,<lb break="yes"/>daß jedermann ihn verachte.
+                    der<lb break="yes"/>Schlaf ist in der ersten Hälfte der<lb break="yes"/>Nacht
+                    gut, in der zweiten mehrfach<lb break="yes"/>gestört.<lb break="yes"/><hi rendition="#c">3.V.93.</hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">D<hi rendition="#sup">r</hi>
+<hi rendition="#i">Koehler</hi>.</seg></hi></add></p>
+</body>
+</text>
+</TEI>

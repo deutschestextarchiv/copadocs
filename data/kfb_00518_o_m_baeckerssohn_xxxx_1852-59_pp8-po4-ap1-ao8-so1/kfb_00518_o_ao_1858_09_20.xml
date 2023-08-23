@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb518o18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>518</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Anna <surname>O.</surname></persName>
+<date type="sent" when="1858-09-20">20.09.1858</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">Mering</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb518o">
+<persName>
+<forename>Franz</forename>
+<surname>O.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Bäckerssohn</occupation>
+<residence><geo decls="#WGS">48.2667 10.9833</geo>Mering, Friedberg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bäcker</p>
+<p>Anstalt: <date from="1853" to="1859">1853-59</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Kaufs- und Spekulationsmanie, Geistesverwirrung (1858-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Hat Sehnsucht nach ihrem Sohn und würde diesen gerne in der Anstalt besuchen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb518o18.JPG" xml:id="image_043"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_043"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Mering den</hi> 20<hi rendition="#sup">ten</hi>
+<hi rendition="#i">September</hi> 1858</hi></dateline>
+<salute><hi rendition="#c">Geehrtester Herr<hi rendition="#i">
+                        Direcktor</hi>!</hi></salute>
+</opener>
+<p>Jch hoffe Sie werden es mir nicht ungütig nehmen<lb break="yes"/>wen̄ ich
+                Jhnen mit einige Zeilen belästigen werde.<lb break="yes"/>Da ich Jhnen ersuchen
+                werde ob man meinen<lb break="yes"/>Sohne Franz nicht einmal einen Besuch erlaubt
+                wäre<lb break="yes"/>um mündlich mit Jhm mehreres zu sprechen., </p><p>denn wen̄ man̄ lange nicht mehr beisam̄en ist<lb break="yes"/>so sehnt man
+                sich desto eher darnach um gesund<lb break="yes"/>u. glücklich einander zu treffen!
+                Jch muß daher<lb break="yes"/>Jhre Güte in Anspruch nehmen u. hoffe dabei<lb break="yes"/>mir eine baldige Antwort zu benachrichten.<lb break="yes"/><seg ana="#salute">Es
+                verbleibt in ehrfurchtvoller Hochachtung<lb break="yes"/><hi rendition="#c">D<unclear/></hi><lb break="yes"/><hi rendition="#r">ergeben</hi></seg><hi rendition="#r"><seg ana="#signed"> An̄a Maria<lb break="yes"/><surname>O.</surname></seg><lb break="yes"/>Bäckerswittwe.</hi></p><p><add hand="arzt">d. 22 <hi rendition="#i">Septbr</hi> 58<lb break="yes"/>habe <del>nichts</del>
+<add place="above"><unclear/></add> gegen den Besuch;<lb break="yes"/>da er
+                    aber in letzter Zt wieder<lb break="yes"/>aufgeregter u. namentlich gegen<lb break="yes"/>Sie <add place="above"><unclear/></add>gebracht ist, so würden<lb break="yes"/>Sie gut thun, noch einige<lb break="yes"/>Wochen zu
+                    warten, u. dan̄<lb break="yes"/>noch einmal anzufragen </add></p>
+</body>
+</text>
+</TEI>

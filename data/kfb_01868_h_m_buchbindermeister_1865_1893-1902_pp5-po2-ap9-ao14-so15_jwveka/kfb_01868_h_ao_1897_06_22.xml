@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Therese <surname>B.</surname></persName>
+<date type="sent" when="1897-06-22">22.06.1897</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">Höchstädt</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin fragt nach dem Zustand ihres Bruders und ob ein Besuch möglich ist.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1868h20a.jpg" xml:id="image_080"/>
+<graphic mimeType="image/jpg" url="kfb1868h20b.jpg" xml:id="image_081"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_080"/>
+<opener>
+<dateline><hi rendition="#c"><hi rendition="#i">Höchstädt den 22. Juni 1897.</hi></hi></dateline>
+<salute>Sehr Geehrter Herr Direktor.</salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#i">Rsp.</hi> 24. 6 .97. <space/> Will weder vom<lb break="yes"/>Briefe noch von einem besuche<lb break="yes"/>etwas wissen.
+                    Ganz unverändert.</add></p>
+<p><space/> Erlaube ich mir, einige<lb break="yes"/>Zeilen an Sie zu richten;<lb break="yes"/>nämlich ich möchte mich doch<lb break="yes"/>erkundigen wie es
+                meinem<lb break="yes"/>Bruder <hi rendition="#i">J. B.
+                    <surname>H.</surname></hi> geht.<lb break="yes"/>So schwer es mir auf dem
+                Herzen<lb break="yes"/>liegt, daß ich so nachläßig bin,<lb break="yes"/>öfters
+                    <w>nach zu fragen</w> wie es<lb break="yes"/>meinem Bruder geht, so bitte<lb break="yes"/>ich Sie Geehrter Herr Direktor<lb break="yes"/>es nicht übel
+                aufzunehmen.</p>
+<p>Ich glaube daß er an diesem<lb break="yes"/>Briefchen freute hat, d.h. wen̄
+                er <pb facs="#image_081"/>noch einige Gesunde Augenblicke<lb break="yes"/>hat. Nun
+                möchte meine besorgte<lb break="yes"/>Mutter nebst Schwester in besuchen<lb break="yes"/>letztere hat er seit 10 Jahren nicht<lb break="yes"/>mehr gesehen,
+                vielleicht würde<lb break="yes"/>es in Ihm eine änderung sein.<lb break="yes"/>Mit
+                der bitte daß Herr Direktor<lb break="yes"/>mir eine gewährende Antwort<lb break="yes"/>über das befinden meines Un<lb break="no"/>glücklichen Bruders
+                ertheilt<lb break="yes"/><hi rendition="#c">zeichnet</hi><lb break="yes"/><hi rendition="#r"><seg ana="#salute">Achtungsvollst</seg><lb break="yes"/>Frau <seg ana="#signed">Therese <surname>B.</surname></seg><lb break="yes"/>Höchstädt a/ Donau</hi></p>
+</body>
+</text>
+</TEI>

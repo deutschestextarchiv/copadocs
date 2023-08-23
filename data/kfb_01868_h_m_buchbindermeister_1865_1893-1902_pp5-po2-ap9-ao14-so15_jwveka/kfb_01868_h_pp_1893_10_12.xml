@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann Baptist <surname>H.</surname></persName>
+<date type="sent" when="1893-10-12">12.10.1893</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Ehefrau: Therese <surname>H.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="hand2"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient verkündet seiner Frau, sich eine Konkubine zu nehmen.
+                    Er vermisst sie und sehnt sich nach Hause.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1868h06a.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpg" url="kfb1868h06b.jpg" xml:id="image_029"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_028"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren, den <del hand="hand2">15. Sept.</del></hi><add hand="hand2" place="above">12. Okt.</add><lb break="yes"/>1893</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Liebe Frau!</hi></hi></salute>
+</opener>
+<p><hi rendition="#i">Du</hi> wirst sehr überrascht sein, bin<lb break="yes"/>jedoch
+                überzeugt auch erfreut, endlich<lb break="yes"/>einen Brief von mir zu besitzen.<lb break="yes"/>Ich will Dich durchaus nicht betrü<lb break="no"/>ben, finde
+                mich jedoch veranlaßt<lb break="yes"/>trotz meiner Liebe zu Dir und eben<lb break="yes"/>wegen derselben eine Concubine<lb break="yes"/>zu nehmen. Ich weiß
+                Du <del>hättest</del><lb break="yes"/>hast mir dieß längst verziehen, da<lb break="yes"/>dies die Folgen
+                meines Hierseins<lb break="yes"/>unbedingt sein müssen.</p>
+<pb facs="#image_029"/>
+<p>Ich habe Hoffnung nun baldig<add>!?</add><lb break="yes"/>heim zu kom̄en u. habe auch or<lb break="no"/>dentliche
+                Sehnsucht Dich u. unser<lb break="yes"/>liebes Kind in die Arme drücken.<lb break="yes"/><seg ana="#salute">Sei Du und alle, Deine Eltern<lb break="yes"/>und Geschwistert nun gegrüßt, besonders<lb break="yes"/>Du<lb break="yes"/><hi rendition="#r">von Deinem <hi rendition="#i">Gatten </hi></hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">J. B. <surname>H.</surname></hi></seg></hi></p>
+</body>
+</text>
+</TEI>

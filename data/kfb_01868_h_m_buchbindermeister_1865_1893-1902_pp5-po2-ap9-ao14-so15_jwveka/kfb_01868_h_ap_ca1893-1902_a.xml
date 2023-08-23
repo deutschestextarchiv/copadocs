@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Theodor <surname>H.</surname></persName>
+<date notAfter="1902" notBefore="1893" type="sent">ca. 1893-1902</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Schwägerin?: Therese</persName>
+<settlement type="sent">k. A.</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="bruder"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Bruder erkundigt sich bei seiner Schwester nach der Behandlung des Patienten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1868h01.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Liebe Theres</hi>.</hi></salute>
+</opener>
+<p>Gruß mit Gott:/ Deine Zeilhen habe ich erhalten, aber
+                trotzdem<lb break="yes"/>ich mich eigens über das Krankenwärterpersonal bei Dir<lb break="yes"/>erkundigte vielmehr über die Behandlungsweise die Sie<lb break="yes"/>Baptist gewähren gabst Du mir keinen Bescheid darüber<lb break="yes"/>Ist es so recht od. darf ich Ihn in diese Weise fortschicken.<lb break="yes"/>Wie geht es Vater? Mutter? was ist mit Hugo geworden.<lb break="yes"/><seg ana="#salute">Indem ich Euch Alle recht hrzl. Grüße<lb break="yes"/><hi rendition="#r">Eur lieb. <hi rendition="#i">Sohn u. Bruder</hi></hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Th. <hi rendition="#i"><surname>H.</surname></hi></seg></hi></p>
+</body>
+</text>
+</TEI>

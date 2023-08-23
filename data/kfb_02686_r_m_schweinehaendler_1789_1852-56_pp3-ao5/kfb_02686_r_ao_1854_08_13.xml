@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2686r08" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2686</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Anna <surname>R.</surname></persName>
+<date type="sent" when="1854-08-13">13.08.1854</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">Haidhausen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2686r">
+<persName>
+<forename>Simon</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1789"/>
+<death cert="unknown"/>
+<occupation>Schweinehändler, früher Maurer</occupation>
+<residence><geo decls="#WGS">48.1326627 11.6011221</geo>Haidhausen, Au</residence>
+<faith>k. A.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: k. A.</p>
+<p>Anstalt: <date from="1852" to="1856">1852-56</date></p><p>Verpflegungsklasse: k.A</p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Delirium tremens (1852)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erkundigt sich nach dem Befinden ihres Mannes und bedauert, ihn aus finanziellen 
+                    Gründen (aktuell) nicht besuchen zu können.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb2686r08a.JPG" xml:id="image_021"/>
+<graphic mimeType="image/jpeg" url="kfb2686r08b.JPG" xml:id="image_022"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline><hi rendition="#r">Haidhausen den 13 August<lb break="yes"/>1854</hi></dateline>
+<salute><hi rendition="#r">Eüer Wohlgeboren Herr Direktor</hi></salute>
+</opener>
+<p>Sie werden verzeihen, da ich Sie <del>werde</del><lb break="yes"/>mit einen Briefe belästige. Da schon<lb break="yes"/><w>ein
+                    einhalbes</w> Mon̄at seit dem<lb break="yes"/>Quartal verfloßen, und ich
+                im̄er<lb break="yes"/>vergebens auf eine<del><unclear/></del> Antwort warte,<lb break="yes"/>so wende ich mich mit der Bitte an<lb break="yes"/>Sie, mir
+                Nachricht zu ertheilen, wie<lb break="yes"/>es mit meinen Man̄ mit
+                Nam̄en<lb break="yes"/>Simon <surname>R.</surname> steht. Längst wäre es<lb break="yes"/>mein Wunsch <w>hinuber zu reisen</w>,<lb break="yes"/>allein
+                die Reise ist mir zu kostbar<lb break="yes"/>den̄ ich kann mir nicht mehr so
+                viel<lb break="yes"/>verdienen. Sollte aber der Fall<lb break="yes"/>sein, daß
+                mein Mann erkrankt,<lb break="yes"/>D oder gar dem sterben nahe sei,<lb break="yes"/>so werde ich  trachten, so viel mir <pb facs="#image_022"/>nur
+                möglich ist, <w>hinüber zu<lb break="no"/>reisen</w>. Schließlich widerhohle ich
+                die<lb break="yes"/>Bitte, mich nicht mer länger in der<lb break="yes"/>Angst zu
+                laßen, sondern so bald<lb break="yes"/>es Ihnen möglich ist zu schreiben.<lb break="yes"/><seg ana="#salute">In der sichern Hofnung, einer baldigen<lb break="yes"/>Antwort entgegen sehen zu dürfen,<lb break="yes"/>verbleibe
+                    ich unter aller<lb break="yes"/><hi rendition="#c">Hochachtung Ihre
+                        ergebene</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Anna
+                        <surname>R.</surname>.</seg></hi></p><p>Die Adreße bitte ich gefälligst zu<lb break="yes"/>machen, An̄a <surname>R.</surname>
+                in der untern<lb break="yes"/>Feldgaße <hi rendition="#i">N</hi> 141 in
+                            Haidhausen.</p><p><add hand="arzt">d. 16 Aug. 1854.<lb break="yes"/>Jhrem Man̄ geht es ganz gut; er ist,
+                    seitdem<lb break="yes"/>Sie ihn besucht haben so ruhig u. zufrieden<lb break="yes"/>wie noch nie, und hat keinerlei Anlaß zur<lb break="yes"/>Klage mehr gegeben, <add place="above">sieht auch ganz gut aus.</add>wüscht
+                    aber freilich<lb break="yes"/>daß man ihn wieder nach Hause lasse. </add></p>
+</body>
+</text>
+</TEI>

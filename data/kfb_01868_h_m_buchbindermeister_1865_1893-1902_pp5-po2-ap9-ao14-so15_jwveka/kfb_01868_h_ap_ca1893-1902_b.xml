@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h32" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Therese <surname>H.</surname></persName>
+<date notAfter="1902" notBefore="1893" type="sent">ca. 1893-1902</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Johann Baptist <surname>H.</surname></persName>
+<settlement type="sent">k. A.</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Grüßt den Patienten und schickt ihm Kuchen und Würstchen. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1868h32.jpg" xml:id="image_129"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_129"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber Baptist!</hi></salute>
+</opener>
+<p>H<unclear>ier</unclear> überschicke ich Dir bei Deinem<lb break="yes"/>lb.
+                Schwesterlein ein Stückchen<lb break="yes"/>Kuchen u. einige Würstchen, laße<lb break="yes"/><del>S</del>sie Dir recht gut schmecken u. sei<lb break="yes"/>recht vielmals gegrüßt von Deiner<lb break="yes"/>treuen Gattin, die Dir nur
+                im̄er<lb break="yes"/>zuruft !− Kom̄ bald gesund<lb break="yes"/>zu mir u. zu Deinem guten<lb break="yes"/>Kinde! <w>noch mals</w> <seg ana="#salute">viele Grüße<lb break="yes"/>von Hugo Thereschen u. von
+                        Dei<unclear reason="damage"/><lb break="yes"/><hi rendition="#c">betrübten Gattin </hi></seg><hi rendition="#c"><seg ana="#signed">Therese</seg></hi><lb break="yes"/><seg ana="#signed"><hi rendition="#r"><surname>H.</surname>.</hi></seg></p>
+</body>
+</text>
+</TEI>

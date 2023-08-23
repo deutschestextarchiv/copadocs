@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1623g22" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1623</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johannes <surname>G.</surname></persName>
+<date type="sent" when="1883-01-01">01.01.1883</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Vater u. Geschwister: k. A. <surname>G.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1623g">
+<persName>
+<forename>Johannes</forename>
+<surname>G.</surname>
+</persName>
+<birth when="1851"/>
+<death when="1905"/>
+<occupation>Zimmergeselle</occupation>
+<residence><geo decls="#WGS">48.4613104 10.1908503</geo>Riedheim, Günzburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Söldner</p>
+<p>Anstalt: <date from="1874" to="1905">1874-1905</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, Lebenslauf, Liedertafel</p>
+</state>
+<trait><p>Manie, Tobsucht, Halluzination (religiös) (1874)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+<handNote medium="ink" scope="minor" scribe="buergermeister"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                   Patient schreibt Neujahrsgrüße an seine Verwandtschaft. 
+                   Er erzählt, dass der Aufenthalt in der Anstalt ihm gut getan hätte, 
+                   es ihm nun jedoch wieder besser gehe und bittet daher, seine Entlassung zu veranlassen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1623g22a.JPG" xml:id="image_069"/>
+<graphic mimeType="image/jpeg" url="kfb1623g22b.JPG" xml:id="image_070"/>
+<graphic mimeType="image/jpeg" url="kfb1623g22c.JPG" xml:id="image_071"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_069"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Irsee</hi> den 1<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Ianuar
+                    1883.</hi></dateline>
+<salute><hi rendition="#c">Lieber Vater u Geschwister!</hi></salute>
+</opener>
+<p><add hand="arzt"><add place="top"><del>29/</del> 30/</add></add>
+</p><p>Ich wünsche Euch zum neüen Iahr<lb break="yes"/>Glück und Gesundheit, und theile<lb break="yes"/>Euch dabei mit, daß es bei mir<lb break="yes"/>jetzt wieder gut geht. <seg ana="#med">Die
+                aufgeregten<lb break="yes"/>Zustände u Irsinn</seg> sind nun wieder<lb break="yes"/>Gott
+                    sey Dank vorüber. Die Arbeit<lb break="yes"/>geht wieder gut, u ich möchte dich<lb break="yes"/>lieber Bruder darum bitten, mich<lb break="yes"/>wieder nach Haus
+                zu hohlen. </p><p>Die großen Sorgen für mich u Euch<lb break="yes"/>sind eine Last; Die Verpflegung<lb break="yes"/>in der Anstalt war sehr nothwendig<lb break="yes"/>für meinen
+                Zustand, jetzt würde es<lb break="yes"/>sich draußen wieder gut thun. </p>
+<pb facs="#image_070"/>
+<p>Die kleine Elisabeth liebe Schwägerin<lb break="yes"/>wird jetzt vieles reden
+                kön̄en u<lb break="yes"/>auch gehen, welches Euch freuen<lb break="yes"/>wird. Lieber Bruder du hast<lb break="yes"/>vieles mit mir <add place="above">zu</add> sorgen, u wirst<lb break="yes"/>Dir fast nicht zu rathen wissen.<lb break="yes"/>Der Herr Hofrath u Herr <hi rendition="#i">Dr</hi>: werden<lb break="yes"/>mich, wenn du den Vetter Bürgerm<unclear/><lb break="yes"/>schreiben läßt, mich wieder entlassen.<lb break="yes"/><seg ana="#salute">Ich grüße
+                Euch herzlig<lb break="yes"/><hi rendition="#c">Euer</hi><lb break="yes"/><hi rendition="#r">dankbarer </hi></seg><hi rendition="#r"><seg ana="#signed">Iohannes<lb break="yes"/><surname>G.</surname></seg></hi></p><p><add hand="arzt"><add place="bottom"><surname>G.</surname> ist ruhig, mehr zur Schwermuth<lb break="yes"/>geneigt, wie es früher nach der Aufregung<lb break="yes"/>stets der Fall war.<lb break="yes"/><hi rendition="#r"><unclear/></hi></add></add></p>
+<pb facs="#image_071"/>
+<p><hi rendition="#c">An </hi><lb break="yes"/><hi rendition="#r">Matthäus
+                        <surname>G.</surname><lb break="yes"/>in Riedheim<lb break="yes"/>Post Leipheim</hi>
+</p><p><add hand="arzt"><add place="top">31/<lb break="yes"/><hi rendition="#i">pr</hi> 9. I
+                    8<unclear>3</unclear>.</add></add></p>
+<p><add hand="buergermeister"><hi rendition="#r"><hi rendition="#i">Riedheim</hi>, 6.
+                        Januar 1882.</hi><lb break="yes"/><hi rendition="#c">Sehr geehrter Herr <hi rendition="#i">Direktor</hi>!</hi><lb break="yes"/>Sollte sich das Befinden des <surname>G.</surname>,
+                    soweit<lb break="yes"/>gebessert haben, daß er entlassungsfähig ist,<lb break="yes"/>so bitte ich, <hi rendition="#i">Sie</hi>, denselben heimreisen
+                    zu lassen,<lb break="yes"/>oder falls er Begleitung nötig hat, dies gefäl<lb break="no"/>ligst mitzuteilen, damit sein Bruder ihn ab<lb break="no"/>holen
+                    kann.<lb break="yes"/><hi rendition="#c" xml:id="seg_x4t_cjr_lyb">Hochachtungsvollst!</hi></add>
+</p><p><add hand="arzt"><hi rendition="#r"><surname>Z.</surname> Bürgmstr</hi></add></p><p><add hand="arzt"><hi rendition="#i">N</hi><hi rendition="#sup"><hi rendition="#i">o</hi></hi>
+                    203)</add></p><p><add hand="arzt">An H. Bürgermeister<lb break="yes"/><space/> in <hi rendition="#i">Riedheim</hi> </add></p><p><add hand="arzt"><hi rendition="#r">Kaufbeuren 10. Jan. 1883.<lb break="yes"/><surname><hi rendition="#i">G.</hi></surname> ist <add place="above">zur
+                            Zeit</add> soweit gebessert,<lb break="yes"/>daß man ihn entlassen kan.
+                        Allein<lb break="yes"/>die Beschaffenheit seiner Krankheit<lb break="yes"/>ist bekan̄termassen der Art, daß er<lb break="yes"/>über kurz oder lang
+                        wieder in eine<lb break="yes"/>Periode der Aufregung kom̄en wird.<lb break="yes"/>Für die Periode d. Ruhe + <add place="margin">+ wie sie
+                                gegenwärtig vorhandn ist</add> kan̄ man<lb break="yes"/>ihn zu Hause
+                            verpflegen. Sie müssen<lb break="yes"/>aber d
+                                <surname><hi rendition="#i">G.</hi></surname> abholen lassen<lb break="yes"/><unclear>N</unclear>.<lb break="yes"/></hi></add></p>
+</body>
+</text>
+</TEI>

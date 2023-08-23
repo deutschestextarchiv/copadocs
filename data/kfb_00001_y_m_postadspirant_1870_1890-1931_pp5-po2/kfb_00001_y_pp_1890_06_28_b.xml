@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1y05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>Y.</surname></persName>
+<date type="sent" when="1890-06-28">28.06.1890</date>
+<date type="received">k. A.</date>
+<persName type="addressee">ehemaliger Kamerad: Franz</persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1y">
+<persName>
+<forename>Ludwig</forename>
+<surname>Y.</surname>
+</persName>
+<birth when="1870"/>
+<death cert="unknown"/>
+<occupation>Postadspirant</occupation>
+<residence><geo decls="#WGS">47.7750654 10.6170847</geo>Markt Oberdorf, geb. Schongau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Rentbeamter</p>
+<p>Anstalt: <date from="1890" to="1931">1890-1931</date></p><p>Verpflegungsklasse: 2</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Dementia präcox (1926)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber erkundigt sich nach verschiedenen Aktivitäten und Bekannten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1y05a.JPG" xml:id="image_017"/>
+<graphic mimeType="image/jpeg" url="kfb1y05b.JPG" xml:id="image_018"/>
+<graphic mimeType="image/jpeg" url="kfb1y05c.jpg" xml:id="image_019"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_017"/>
+<opener>
+<dateline><hi rendition="#r">Kaufbeuren, den 28.6.90. </hi></dateline>
+<salute>/: An<lb break="yes"/><space/> Herren Franz<lb break="yes"/><space/>
+                    Student<lb break="yes"/><hi rendition="#c">in </hi><lb break="yes"/><hi rendition="#r">Hall (Innsbruck)<lb break="yes"/>Abzugeben: Herren Lehrer. :/
+                        </hi><lb break="yes"/><hi rendition="#c">Herr Oberklassist. </hi></salute>
+</opener>
+<p>Heuer wird das Schlußexamen<lb break="yes"/>herannahen. Viel Glück und<lb break="yes"/>Heil. Hast Du viele Parthien<lb break="yes"/>gemacht. Habt Ihr
+                auch Eisstöcke<lb break="yes"/>für das Eisschieben im Winter<lb break="yes"/>und
+                einen Platz dazu.<lb break="yes"/>Hat Dein Bruder absolviert. <pb facs="#image_018"/>Sehr gerne hätte ich damals den<lb break="yes"/><unclear>Enlz</unclear>berg
+                bestiegen mit Euch<lb break="yes"/>drei Brüdern, Schwester Sophie,<lb break="yes"/>Herrn und Frau Lehrer.<lb break="yes"/>Habt Ihr die Familie
+                    <surname>S.</surname><lb break="yes"/>in Kempten besucht.<lb break="yes"/>Eine famose Gegend besitzt Ihr<lb break="yes"/>auf Eurem Gute.<lb break="yes"/>Vielleicht führt uns das<lb break="yes"/>Schicksal noch zusammen.<lb break="yes"/>Was thut deine
+                    Schnitzerei<lb break="no"/>kunst. <pb facs="#image_019"/>Hat Dein jüngster
+                Bruder die<lb break="yes"/>Prüfung bestanden von der<lb break="yes"/>5
+                Lateinschule.<lb break="yes"/>Wie gefiel Dir und Deiner<lb break="yes"/>Familie
+                der Armin <surname>P.</surname> im<lb break="yes"/>Benehmen und Aufführen<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Unter Wiedersehen<lb break="yes"/>Dein<lb break="yes"/>Kamerad von damals </seg><lb break="yes"/><seg ana="#signed">Ludwig <surname><hi rendition="#i">Y.</hi></surname></seg><lb break="yes"/>k. b. Postadspirant<lb break="yes"/>in </hi><lb break="yes"/><hi rendition="#r">Traunstein.</hi><lb break="yes"/>Antwort </p>
+</body>
+</text>
+</TEI>

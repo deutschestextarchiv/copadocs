@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb3m03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>3</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: Joh. <surname>M.</surname></persName>
+<date type="sent" when="1850-05-17">17.05.1850</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: Dr. k. A. <surname>H.</surname></persName>
+<settlement type="sent">Erlangen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb3m">
+<persName>
+<forename>Johanna</forename>
+<surname>M.</surname>
+</persName>
+<birth when="1815"/>
+<death cert="unknown"/>
+<occupation>Optikertochter</occupation>
+<residence><geo decls="#WGS">49.5928616 11.0056</geo>Erlangen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Optiker</p>
+<p>Anstalt: <date from="1850" to="1850">1850</date></p><p>Verpflegungsklasse: k.A</p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Melancholie, Seelenstörung (1850)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="vater"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber übersendet Gegenstände an die Patientin und bittet um Nachricht.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb3m03a.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpeg" url="kfb3m03b.jpg" xml:id="image_009"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><hi rendition="#r">Erlangen d: 17<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> <hi rendition="#i">Mai</hi> 1850.</hi></dateline>
+<salute><hi rendition="#c">Werthester Herr <hi rendition="#i">Dr</hi>: Hagen!</hi></salute>
+</opener>
+<p>Anliegend übersenden wir für Johanna mit den herzlichsten<lb break="yes"/>Grüßen
+                u. den besten Wünschen begleitet:<lb break="yes"/>2 Oberröcke, einen
+                Son̄enschirm nebst einigen Äpfeln u. Brod.<lb break="yes"/>Jndem wir Jhnen
+                für gehabte Mühe herzlich danken,<lb break="yes"/>u. gewiß überzeugt sind, daß Sie
+                Verehrtester Alles<lb break="yes"/>aufbieten werden um sie uns wieder zu geben,
+                erlauben<lb break="yes"/>wir uns von Zeit zu Zeit<unclear>,</unclear> wenn es Jhnen
+                möglich ist um gütige<lb break="yes"/>Nachrichten, da wir jede Mittheilung mit
+                Freuden entgegen<lb break="no"/>sehen, u. uns vielen Trost gewährt. </p>
+<p>Herr <hi rendition="#i">Dr. <surname>H.</surname></hi> wollte so gerne 2 Briefe
+                (einen an Johanna)<lb break="yes"/>mitsenden, wurde aber leider jeden Tag, durch
+                die Krankheit<lb break="yes"/>des Hrn. Prof: <surname>F.</surname>
+                verhindert, daher die lange Verzögerung.<lb break="yes"/><seg ana="#salute">Hochachtungsvoll<lb break="yes"/><hi rendition="#c">Ihr </hi><lb break="yes"/><hi rendition="#r">ergebenster. </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Joh:
+                            <surname>M.</surname></hi></seg>. </hi></p>
+<p>m Die Empfangsbescheinigung<lb break="yes"/>bitte nur gefäll: zu unterlaßen.</p>
+<pb facs="#image_009"/>
+<p>
+<hi rendition="#c">S<hi rendition="#sup">r</hi> Wohlgeboren
+                    </hi><lb break="yes"/>Herrn Vorstand <hi rendition="#i">Dr</hi>: Hagen </p>
+</body>
+</text>
+</TEI>

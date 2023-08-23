@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Therese <surname>H.</surname></persName>
+<date type="sent" when="1894-03-04">04.03.1894</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Arzt</persName>
+<settlement type="sent">Wemding</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Ehefrau wundert sich über die Verlegung des Patienten nach Irsee und fragt nach den Gründen.
+                    Sie fragt, ob ein Besuch mit ihrem Kind möglich ist.
+                    Der Arzt erklärt die Verlegung und rät von einem Besuch ab.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1868h15a.jpg" xml:id="image_053"/>
+<graphic mimeType="image/jpg" url="kfb1868h15b.jpg" xml:id="image_054"/>
+<graphic mimeType="image/jpg" url="kfb1868h15c.jpg" xml:id="image_055"/>
+<graphic mimeType="image/jpg" url="kfb1868h15d.jpg" xml:id="image_056"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_053"/>
+<opener>
+<dateline><hi rendition="#r">Wemding, den 4 März 1894</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Sehr geehrtester Herr<lb break="yes"/>Doktor!</hi></hi></salute>
+</opener>
+<p><space/> Sie werden mir erlauben,<lb break="yes"/>daß ich wiederum nach dem<lb break="yes"/>Befinden meines lb. Man̄es<lb break="yes"/>anfrage. Auch
+                möchte ich Ihnen<lb break="yes"/>recht vielmals danken, für die<lb break="yes"/>gütige Nachricht, die Sie mir<lb break="yes"/>so schnell zugesendet haben.<lb break="yes"/>Letztere beunruhigt mich mit<lb break="yes"/>dem Gedanken, warum
+                den mein<lb break="yes"/>Gatte nach Irrsee verbracht<lb break="yes"/>wurde, ob
+                vieleicht dort eine <pb facs="#image_054"/>niederere Abtheilung sei<lb break="yes"/>od. sich gar seine Krankheit<lb break="yes"/>verschlim̄erte. Es tat mir<lb break="yes"/>sehr wehe, da ich mi<del>ch</del><add>r</add> jetzt<lb break="yes"/>nicht mehr die Räume
+                der<lb break="yes"/>Anstalt in welcher mein Gatte<lb break="yes"/>verweilt, vor
+                Augen stellen<lb break="yes"/>kan̄. Ich hätte deßhalb nochmals<lb break="yes"/>den Wunsch u. die herzliche Bitte,<lb break="yes"/>nach Ostern mit
+                meinem Kinde,<lb break="yes"/>den lb. Vater besuchen zu dürfen.<lb break="yes"/>Vielleicht wen̄ er sein liebes<lb break="yes"/>Kind zu sehen
+                bekom̄t, das jetzt<lb break="yes"/>1½ Jahr alt wird u. recht nett u.
+                munter<lb break="yes"/>ist, daß dieses zu einer Besserrung<lb break="yes"/>beitragt. Bitte um Mitteilung, <pb facs="#image_055"/>ob uns solches gestattet
+                wird.<lb break="yes"/>Auch bitte ich, meinem Man̄e<lb break="yes"/>in
+                meinem Namen herzl. zu<lb break="yes"/>grüßen. <seg ana="#salute">Nochmal für Ihre<lb break="yes"/>Güte Dankent unterzeichnet<lb break="yes"/>sich<lb break="yes"/><hi rendition="#r">Sie Hochachtent grüßent</hi></seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Therese
+                            <surname>H.</surname></seg><lb break="yes"/>Buchbindersgattin.</hi></p>
+<pb facs="#image_056"/>
+<p><add hand="arzt">beantw. 6.3.94.<lb break="yes"/>Zustand nicht verändert.
+                    Be<lb break="no"/>fangen in den alten Wahn<lb break="no"/>ideen.</add></p>
+<p><add hand="arzt">Nach <hi rendition="#i">Irsee</hi> übergeführt, weil un<lb break="no"/>heilbar.</add></p>
+<p><add hand="arzt">Behandlung und Verpflegung<lb break="yes"/>werden in <hi rendition="#i">Kaufb.</hi> u. <hi rendition="#i">Irsee</hi><lb break="yes"/>Nach gleichen Principien geleitet<lb break="yes"/>deshalb
+                    Besorgnis überflüssig.<lb break="yes"/>Von Besuch mit Kind ist vorläufig<lb break="yes"/>noch abzurathen.<lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Wiemann</hi></seg></hi></add></p>
+</body>
+</text>
+</TEI>

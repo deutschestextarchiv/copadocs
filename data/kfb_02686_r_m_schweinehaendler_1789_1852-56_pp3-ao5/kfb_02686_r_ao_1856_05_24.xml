@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2686r04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2686</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Anna <surname>R.</surname></persName>
+<date type="sent" when="1856-05-24">24.05.1856</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">Haidhausen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2686r">
+<persName>
+<forename>Simon</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1789"/>
+<death cert="unknown"/>
+<occupation>Schweinehändler, früher Maurer</occupation>
+<residence><geo decls="#WGS">48.1326627 11.6011221</geo>Haidhausen, Au</residence>
+<faith>k. A.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: k. A.</p>
+<p>Anstalt: <date from="1852" to="1856">1852-56</date></p><p>Verpflegungsklasse: k.A</p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Delirium tremens (1852)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin schildert die Schwierigkeiten, die sie mit ihrem Mann hatte, und möchte ihn nicht wieder bei sich haben.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb2686r04a.JPG" xml:id="image_012"/>
+<graphic mimeType="image/jpeg" url="kfb2686r04b.JPG" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><hi rendition="#r">Vorstadt Haidhausen den 24 May 1856.</hi></dateline>
+<salute><hi rendition="#c">Äuer Wohlgebohren Hr. Direktor! </hi></salute>
+</opener>
+<p>Hier überschücke ich die noch übrigen <w>Kleidungs<lb break="no"/>stücke</w> des
+                Simon <surname>R.</surname>; Sie <add place="above">dürfen</add> durchaus<lb break="yes"/>auf sein Begeren nicht achten, den so lang<lb break="yes"/>ich
+                lebe darf er mir nicht mer in's Haus.<lb break="yes"/>Als er die acht Tage hier
+                war, richtete er zu<lb break="yes"/>grunde, was nur möglich war, er fur Fiaker,<lb break="yes"/>von einem Wirts-Hause in das Andere ja<lb break="yes"/>sogar zum
+                Wein̄e; und zuletzt bildete er sich<lb break="yes"/>ein, er <del>kun</del>
+                kan̄ mich nicht mer brauchen,<lb break="yes"/>und mus also ein anderes Weib
+                haben. <del><unclear>er</unclear></del><lb break="yes"/>Ist frage ich <add place="above">daß</add> eine narheit? ich war ja
+                    d<unclear>a</unclear>s<lb break="yes"/>Leben niccht sicher. vor Bosheit
+                kon̄te des nachts<lb break="yes"/>niccht mer in der Wohnug sein und meine<lb break="yes"/>Liegerstätte war der Schweinstal. Mann<lb break="yes"/>hörte
+                nichts als ich laß mich von ihr scheiden,<lb break="yes"/>sie ist mir zu alt.
+                − <del><unclear>Nin</unclear> alles genau</del>
+<pb facs="#image_013"/><del>schrei</del> er lärmte so viel Tag u nacht im<lb break="yes"/>Haus, daß mir zwei Wohnungen aufgesagt<lb break="yes"/>wurden; mit
+                einen Worte es war nicht mer zum<lb break="yes"/>aushalten. Meine Sache ist also
+                alles abgesch<unclear>ügt</unclear><lb break="yes"/>und es mus für im bezahlt werden u mir<lb break="yes"/>darf er
+                nicht mer komen. zuletzt sagte er<lb break="yes"/>moch ich wollte Dir gerne den
+                Hals zudrücken<lb break="yes"/>allein du erbarmst mich doch noch − −
+                    <seg ana="#salute">Ich<lb break="yes"/>schlüße also mein schreiben mit
+                    benetzten<lb break="yes"/>Augen<lb break="yes"/><space/> und nene mich
+                    achtungsfol<lb break="yes"/><hi rendition="#r">Ihre ergebenste Din̄erin
+                    </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Ana
+                            <surname>R.</surname>
+</seg></hi></p>
+<p>einen Grus an<lb break="yes"/>meinen Mann. </p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Sophie <surname>H.</surname></persName>
+<date type="sent" when="1899-06-21">21.06.1899</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Bruder: Johann Baptist <surname>H.</surname></persName>
+<settlement type="sent">Paris</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin gratuliert ihrem Bruder zum Namenstag und erkundigt sich nach seinem Befinden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1868h05a.jpg" xml:id="image_024"/>
+<graphic mimeType="image/jpg" url="kfb1868h05b.jpg" xml:id="image_025"/>
+<graphic mimeType="image/jpg" url="kfb1868h05c.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="kfb1868h05d.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_024"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Paris <foreign xml:lang="frz">le</foreign></hi> 21. <hi rendition="#i">Juni<lb break="yes"/>− 99.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Mein lieber Bruder
+                        Baptist!</hi></hi></salute>
+</opener>
+<p><add place="top"><hi rendition="#i">I. M. I.</hi></add></p>
+<p><add hand="arzt" place="top">Vom Empfänger gelesen u.<lb break="yes"/>unbeantwortet zurückgegeben<unclear>;</unclear><lb break="yes"/>Nachricht erteilt 2.<hi rendition="#sup">t</hi> Juli 99
+                    − dJ.</add></p>
+<p><space/> Obwohl Du lieber Bruder mir<lb break="yes"/>niemals antworten willst,
+                wen̄ ich<lb break="yes"/>Dir schreibe, so will ich doch Deinen<lb break="yes"/>Namenstag nicht vorbeigehen lassen,<lb break="yes"/>um Dir meine
+                in̄igsten Glückwünsche<lb break="yes"/>von Paris aus zu senden.</p>
+<p><space/> Ich will besonders an Deinem<lb break="yes"/>Namenstage zum lieben Gott
+                unserm<lb break="yes"/>Vater recht beten und ihn bitten,<lb break="yes"/>er möge
+                Deine und meine Wünsche<lb break="yes"/>erfüllen; er möge sich Deiner erbarmen<lb break="yes"/>und Dein Leiden lieber Bruder lindern, <pb facs="#image_025"/>oder
+                dich bald von dieser Krankheit<lb break="yes"/>befreien.</p>
+<p><space/> Ich bin recht in Sorgen wegen<lb break="yes"/>Dir, den̄ die arme
+                Mutter schrieb mir<lb break="yes"/>Du habest noch eine andre Krankheit<lb break="yes"/>ich möchte Dir schreiben und Dir etwas<lb break="yes"/>schicken
+                für Linderung. Ich kann<lb break="yes"/>Dir aber nichts schicken noch einen<lb break="yes"/>Arzt fragen wenn ich nicht weiß<lb break="yes"/>was Dir fehlt.
+                Mutter sagte, du<lb break="yes"/>möchtest Ihr wißen lassen, wen̄ du<lb break="yes"/>krank wärest, käme sie Dich zu holen,<lb break="yes"/>um Dich zu
+                pflegen, den bedenke,<lb break="yes"/>das ein armes Mutterherz noch<lb break="yes"/>für Dich schlägt u. Dich liebt.</p>
+<p><space/> Darum lieber Baptist sei<del>n</del><lb break="yes"/>unbesorgt, und laß recht bald<lb break="yes"/><add place="bottom">Deine Briefe be<del>l</del>kom̄en wir gewiß<lb break="yes"/>sobald du uns
+                    schreibst, sei außer Sorge.</add>
+<pb facs="#image_026"/>etwas von Dir hören.<lb break="yes"/>Auch ich werde für Dich
+                tun was<lb break="yes"/>ich kan̄,<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Deine</hi><lb break="yes"/><hi rendition="#r"><w>Dich</w><w>liebende<del>n</del></w> Schwester </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Sophie
+                        <surname>H.</surname></hi></seg></hi><lb break="yes"/><hi rendition="#i"><foreign xml:lang="frz">chez Monsieur
+                            <surname>K.</surname><lb break="yes"/><hi rendition="#r">53 rue de Vaugirard<lb break="yes"/>Paris</hi></foreign></hi></p>
+<pb facs="#image_027"/>
+<p><hi rendition="#r"><hi rendition="#i">Herrn J. B. <surname>H.</surname><lb break="yes"/>in der Heil u. Pflege<lb break="no"/>Anstalt in<lb break="yes"/>Irsee</hi></hi><lb break="yes"/><hi rendition="#i"><foreign xml:lang="frz">Bavière</foreign></hi></p>
+</body>
+</text>
+</TEI>

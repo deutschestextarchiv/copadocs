@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb518o17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>518</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Anna <surname>O.</surname></persName>
+<date type="sent" when="1858-04-30">30.04.1858</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">Mering</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb518o">
+<persName>
+<forename>Franz</forename>
+<surname>O.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Bäckerssohn</occupation>
+<residence><geo decls="#WGS">48.2667 10.9833</geo>Mering, Friedberg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bäcker</p>
+<p>Anstalt: <date from="1853" to="1859">1853-59</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Kaufs- und Spekulationsmanie, Geistesverwirrung (1858-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet, ihren Sohn erneut in der Anstalt aufzunehmen, da seine 
+                    Krankheit zurückgekehrt sei. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb518o17.JPG" xml:id="image_042"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_042"/>
+<opener>
+<dateline><hi rendition="#r">Mering den 30 <hi rendition="#i">April</hi>
+                        1858</hi></dateline>
+<salute><hi rendition="#c">Hochgeehrtester Herr <hi rendition="#i">Direktor</hi>!</hi></salute>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#r"><hi rendition="#i">praef</hi>.
+                            2 <hi rendition="#i">May</hi> 58</hi></add></add>
+</p><p>Es ist nun schon zwei Jahre daß mein<lb break="yes"/>Sohn Franz bei Jhnen entlassen wurde,<lb break="yes"/>Aber jetzt wieder in seine alte Krankheit<lb break="yes"/>gefallen
+                ist, so bitte ich Jhnen wen̄ er kom̄t<lb break="yes"/>ihn
+                    aufzunehmen<unclear>.</unclear> Daß übrige wird Alles<lb break="yes"/>wie
+                jedesmal ihn gehörger Pünktlichkeit<lb break="yes"/>kom̄en. Er fuhr nach
+                Augsburg von da nach<lb break="yes"/>Pforzheim von da geht er nach Jrrsee<lb break="yes"/>zum Hl. <hi rendition="#i">Direktor</hi> ich bitte u ersuche<lb break="yes"/>Sie nochmal in anzuneh<unclear>em</unclear> den̄ er ist<lb break="yes"/>fast
+                geisteskrank − daß Übrige wird<lb break="yes"/>Alles geschickt werden was
+                verlangt<lb break="yes"/>wird <seg ana="#salute">Es verbleibt<lb break="yes"/><hi rendition="#c">Eure</hi><lb break="yes"/><hi rendition="#r">ergebene</hi></seg><hi rendition="#r"><seg ana="#signed"> An̄a<lb break="yes"/><surname>O.</surname></seg><lb break="yes"/>Bäckerswittwe von Mering</hi></p>
+</body>
+</text>
+</TEI>

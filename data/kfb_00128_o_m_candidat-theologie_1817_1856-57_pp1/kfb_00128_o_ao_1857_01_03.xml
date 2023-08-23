@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb128o03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>128</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: k. A. <surname>O.</surname></persName>
+<date type="sent" when="1857-01-03">03.01.1857</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">Zirndorf</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb128o">
+<persName>
+<forename>Adolph</forename>
+<surname>O.</surname>
+</persName>
+<birth when="1817"/>
+<death cert="unknown"/>
+<occupation>Candidat der Theologie</occupation>
+<residence><geo decls="#WGS">49.432019 10.956027785813669</geo>Zirndorf, Nürnberg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Prot. Decan des 1. Pfarramts zu Zirndorf</p>
+<p>Anstalt: <date from="1856" to="1857">1856-1857</date></p><p>Verpflegungsklasse: 1</p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Hypochondria melancholiia</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="vater"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich für die bisherige Behandlung seines Sohnes und richtet Neujahrsgrüße an den Direktor.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb128o03a.JPG" xml:id="image_003"/>
+<graphic mimeType="image/jpeg" url="kfb128o03b.JPG" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Zirndorf d 3<hi rendition="#sup">te</hi> Jan. 57.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">P.P</hi>.<lb break="yes"/>Hochverehrtester Herr
+                        Director!</hi></salute>
+</opener>
+<p>Empfangen Sie meinen herzlichen Dank<lb break="yes"/>für die mir von Ihnen bei
+                vielen Ge<lb break="no"/>schäften gütig gemachten Mittheilungen<lb break="yes"/>über das Befinden meines in̄igs<unclear>t</unclear>gelieb<lb break="no"/>ten Sohnes Adolph; ja herzlichen Dank über<lb break="no"/>haupt für alle ihre
+                bisherige Mühe und<lb break="yes"/>Sorgfalt, die Sie unter Gottes gnadenreichen<lb break="yes"/>Segen demselben so über alle Erwartung<lb break="yes"/>erfolgreich
+                zugewendet haben. Mögen alle<lb break="yes"/>schönen Hoffnungen mit ihm; der solche
+                jetzt<lb break="yes"/>selbst im höhern Grade blicken läßt,<lb break="yes"/>nach
+                Möglichkeit in Erfüllung gehen. Der<lb break="yes"/>Cur werde keine Zeit verkürzt.
+                Jch werde<lb break="yes"/>mich aber selbst kaum ken̄en, wen̄ ich<lb break="yes"/>erlebe, ihn zu sehen, heiter und gesprächig<lb break="yes"/>als
+                der er mir öfters in den Jahren<lb break="yes"/>seines Krankseyns im Traume
+                erschienen<lb break="yes"/>ist mich erfreuend, aber dan̄ natürlich <pb facs="#image_004"/>betrübend in der Wirklichkeit des<lb break="yes"/>Lebens. </p><p>Und nun meine besten Wünsche zu<lb break="yes"/>dem angetretenen Jahre, das Sie mit<lb break="yes"/>neuer Kraft und aller Freudigkeit<lb break="yes"/>beglüken
+                möge!</p><p>Meinen Sohn zur Fortdauer Ihrer güti<lb break="no"/>gen Sorgfalt und mich Ihrem Wohl<lb break="no"/>wollen angelegentlich empfehlend,<lb break="yes"/><seg ana="#salute">mit
+                ausgezeichneter Hochachtung<lb break="yes"/><hi rendition="#c">Jhr</hi><lb break="yes"/><hi rendition="#r">ergebenster</hi></seg><hi rendition="#r"><seg ana="#signed">
+<surname>O.</surname>,</seg><lb break="yes"/>Decan.</hi></p>
+</body>
+</text>
+</TEI>

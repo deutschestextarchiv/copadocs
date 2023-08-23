@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb370f03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>/</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>370</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Notburga <surname>F.</surname></persName>
+<date type="sent" when="1858-06-11">11.06.1858</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Verwaltung: k. A.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb370f">
+<persName>
+<forename>Maria</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1840"/>
+<death cert="unknown"/>
+<occupation>Steinmetztochter</occupation>
+<residence><geo decls="#WGS">48.125183 11.5857141</geo>Au Vorstadt, München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Steinmetz</p>
+<p>Anstalt: <date from="1858" to="1859">1858-59</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Geisteskrankheit (1858-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schickt ihrer Tochter Kleidung zu und bittet um einen Brief der Patientin, sobald diese schreiben dürfe.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb370f03.JPG" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r">Minchen den 8 Juni</hi></dateline>
+<salute><hi rendition="#c">Hochverärthe Irsse Ferwaltung</hi></salute>
+</opener>
+<p><add place="top"><hi rendition="#u">7.</hi></add></p>
+<p><add hand="arzt"><hi rendition="#r"><hi rendition="#i">praef.</hi> 11. <hi rendition="#i">Juny</hi> 1858<lb break="yes"/><hi rendition="#i">EN</hi><hi rendition="#sup"><hi rendition="#i">o</hi></hi>
+                    2139</hi></add></p>
+<p>Die traurig Muder von der Maria, <surname>F.</surname><lb break="yes"/>Bide tringend um eine Gute behantlung<lb break="yes"/>das Sie
+                Wider Gesund wirt und ich s<unclear>c</unclear>hige<lb break="yes"/>ihr jezt was
+                ich habe, und herzlich wan̄<lb break="yes"/>Es beser Geth das Sie mir
+                Schr<unclear>e</unclear>iben darf<lb break="yes"/>wan̄ es sein darf es Bidet Die Thrau<unclear/><lb break="yes"/><hi rendition="#c">Muder Notburga, <surname>F.</surname> Steinmez, Frau<lb break="yes"/>von der Vorstadt Au bey Minchen </hi></p><p>Leg bei<lb break="yes"/>1 Hut<lb break="yes"/>2 Sacktuchen<lb break="yes"/>2 Halstucher<lb break="yes"/>1 Kleid<lb break="yes"/>2 Unterröcke<lb break="yes"/>1 p
+                Stiefeletten<lb break="yes"/>1 Schürz<lb break="yes"/>1 Hemd<lb break="yes"/>1
+                Gebetbuch<lb break="yes"/>1 p Ohrenringe<lb break="yes"/>1 Säckchen</p> <p><add hand="arzt"><add place="bottom"><unclear><hi rendition="#i">f</hi></unclear><hi rendition="#i">iat</hi><unclear>Empfangs</unclear> Anzeige u. Vorlage<lb break="yes"/><hi rendition="#i">facta</hi>
+<space/>
+<unclear/></add></add></p>
+</body>
+</text>
+</TEI>

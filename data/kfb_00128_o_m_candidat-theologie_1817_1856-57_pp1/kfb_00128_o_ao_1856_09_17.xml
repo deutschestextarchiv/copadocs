@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb128o04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>128</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: k. A. <surname>O.</surname></persName>
+<date type="sent" when="1856-09-17">17.09.1856</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Arzt: k. A.</persName>
+<settlement type="sent">Zirndorf</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb128o">
+<persName>
+<forename>Adolph</forename>
+<surname>O.</surname>
+</persName>
+<birth when="1817"/>
+<death cert="unknown"/>
+<occupation>Candidat der Theologie</occupation>
+<residence><geo decls="#WGS">49.432019 10.956027785813669</geo>Zirndorf, Nürnberg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Prot. Decan des 1. Pfarramts zu Zirndorf</p>
+<p>Anstalt: <date from="1856" to="1857">1856-1857</date></p><p>Verpflegungsklasse: 1</p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Hypochondria melancholiia</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bedankt sich für die Auskunft über das Befinden seines Sohnes. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb128o04.JPG" xml:id="image_005"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r">Zirndorf d 17<hi rendition="#sup">te</hi> Sept. 56</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">P.P</hi><lb break="yes"/>Hochzuverehrender Herr Doctor.</hi></salute>
+</opener>
+<p>Für Dero gütiges Belgleitungsschreiben des Briefes meines Sohnes<lb break="yes"/>bin <add place="above">ich</add> Jhnen sehr verbindlichen Dank schuldig. Daß die
+                    seith<unclear>er</unclear>igen so<lb break="yes"/>ganz erwünschten Nachrichten
+                über den Gesundheitszustand des Pfleglings<lb break="yes"/>durch Dero ärztliche
+                Einstim̄ung Bestätigung erhielten hat meinem<lb break="yes"/>gerührten
+                Herzen neue Freude gegeben. Es wird ja nun doch noch mit<lb break="yes"/>Gottes
+                Segen der letzte Rest des geheimen Übels sich h<unclear>e</unclear>ben lassen! Ihrer<lb break="yes"/>und des verehrtesten Herrn Directors
+                    fernerer gütigen und erfolg<lb break="no"/>reichen Obhut und
+                Fürsorge sey Alles vertrauensvoll empfohlen.<lb break="yes"/>Meinen Sohn in eine
+                    2<hi rendition="#sup">te</hi> Classe zu bringen, wie er wünscht, wäre freilich<lb break="yes"/>eine große Erleichterung für mich. Da Sie selbst es nicht
+                störend<lb break="yes"/>für die Cur erachten, so muß ich besonders in
+                Berücksichtigung meiner<lb break="yes"/>übrigen nicht geringen Familienbedürfnisse
+                darum bitten. </p><p>Noch ersuche ich Sie, mich dem verehrbarsten Herrn Director <hi rendition="#i">Dr</hi>. Hagen<lb break="yes"/>angelegentlich zu empfehlen und Wohldemselben meine frohe Theil<lb break="no"/>nahme an seiner Wiedergenesung zu versichern, der ich mit auf<lb break="no"/>richtiger Hochachtung zu verharren die Jhre habe<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Euer Hochwohlgeboren</hi><lb break="yes"/><hi rendition="#r">ergebenster</hi></seg><hi rendition="#r"><seg ana="#signed">
+<surname>O.</surname>, </seg>Decan</hi></p><p><add hand="arzt">d. 31 Debr 56:<lb break="yes"/>zum Brief:<lb break="yes"/>Alle Spuren von
+                    Ermüdung<lb break="yes"/>nach der Arbeit u. <unclear/><lb break="yes"/>müssen erst verschwunden sein<lb break="yes"/>vor der
+                    Entlassg. Zuletzt <unclear/><lb break="yes"/>Predigen u R<unclear/></add></p>
+</body>
+</text>
+</TEI>

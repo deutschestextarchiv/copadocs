@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Therese <surname>H.</surname></persName>
+<date type="sent" when="1899-01-04">04.01.1899</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">Wemding</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sie erkundigt sich nach dem Zustand ihres Mannes, berichtet von sich selbst und bittet, ihm Bier zu besorgen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1868h11a.jpg" xml:id="image_043"/>
+<graphic mimeType="image/jpg" url="kfb1868h11b.jpg" xml:id="image_044"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_043"/>
+<opener>
+<dateline><hi rendition="#r">Wemding, den 4. Jän̄er 99.</hi></dateline>
+<salute>Sehr verehrtester Herr Direktor!</salute>
+</opener>
+<p><space/> Sie werden mir erlauben,<lb break="yes"/>wen̄ ich mich nach so
+                langen,<lb break="yes"/>mit Geduld ertragenen Hoffen,<lb break="yes"/>wider nach
+                dem Befinden meines<lb break="yes"/>Man̄es des I. B.
+                    <surname>H.</surname> Buchbinder<lb break="yes"/>erkundige. Wie ich sehe,
+                werde<lb break="yes"/>ich zuletzt doch Ihren Worten<lb break="yes"/>(er sei
+                unheilbar) glauben müssen<lb break="yes"/>was für mich der größte Schicksals<lb break="no"/>schlag ist, der mich hätte je treffen<lb break="yes"/>kön̄en. Statt Freude, ist mir nur<lb break="yes"/>Leid u.
+                    Thränen beschieden. Gott<lb break="yes"/>sei Dank, daß ich gesund bin u.<lb break="yes"/>mein Kind, das jetzt in die Schule <pb facs="#image_044"/>geht,
+                ernähren u. mein Geschäft<lb break="yes"/>unterhalten kan̄.</p>
+<p>Zum Jahreswechsel wünsche<lb break="yes"/>ich Ihnen Alles erdenkliche<lb break="yes"/>Gute, u. meinen lb. Man̄e<lb break="yes"/>die Gesundheit!
+                nebst vielen<lb break="yes"/>Grüßen. Ich behielt noch einige alte<lb break="yes"/>Kleidungsstücke von Ihm zurück,<lb break="yes"/>solte er <del>S</del>sie
+                brauchen, so würde<lb break="yes"/>ich es ein wenig herichten u. an<lb break="yes"/>Sie wehrtester Herr Direktor<lb break="yes"/>übersenden. Bitte von beiliegende<lb break="yes"/>Marken <add place="above">2 M.</add> meinen Man̄e Bier<lb break="yes"/>u. dgl. zukom̄en zu lassen, u.<lb break="yes"/>eine für
+                mich zu einer kleinen<lb break="yes"/>Mitteilung verwenden zu<lb break="yes"/>wollen. Danke Ihnen recht viel<lb break="no"/>mals im voraus u. <seg ana="#salute">grüße Sie<lb break="yes"/>freundlichst<lb break="yes"/><hi rendition="#c">ergebene</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Therese
+                            <surname>H.</surname></seg></hi><lb break="yes"/>Buchbindersgattin.</p>
+</body>
+</text>
+</TEI>

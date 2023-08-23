@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h28" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Hugo</persName>
+<date type="sent" when="1895-06-22">22.06.1895</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Johann Baptist <surname>H.</surname></persName>
+<settlement type="sent">Wemding</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="bruder"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+Gratuliert dem Patienten zum Namenstag und hofft auf dessen baldige Entlassung aus der Anstalt.
+</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1868h28a.jpg" xml:id="image_114"/>
+<graphic mimeType="image/jpeg" url="kfb1868h28b.jpg" xml:id="image_115"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_114"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c"><hi rendition="#i">Mein lieber Bruder Baptist!</hi></hi></salute>
+</opener>
+<p>Anschließend diesem zu Deinem<lb break="yes"/>werthen <hi rendition="#i">N</hi>amenstag meine
+                    wohl<lb break="no"/>gemeinten, brüderlichen Glück- &amp; Se<lb break="no"/>genswünsche. Gesundheit &amp; Ge<del>s</del>nesung<lb break="yes"/>Deines Leidens
+                ist wohl Dein &amp; unser<lb break="yes"/>Aller Wunsch, den wir an diesem Tage<lb break="yes"/>dir senden kön̄en. Wie du siehst, muß<lb break="yes"/>ich
+                noch im̄er Deiner lieben kleinen<lb break="yes"/>Familie als
+                    <unclear>Nährv</unclear>ater dienen &amp;<lb break="yes"/>wären wohl ich wie
+                Deine lieben Eltern<lb break="yes"/>sehnlichster Wunsch mich <hi rendition="#u">Jhrer</hi>
+<hi rendition="#i">S</hi>tütze<lb break="yes"/>wieder eimal verwenden zu<lb break="yes"/>kön̄en. Ich bin bis heute im̄er<lb break="yes"/>noch
+                dem <hi rendition="#i">Militär</hi> zurückgestellt<lb break="yes"/>wegen <hi rendition="#i">R</hi>eklamation Deiner <pb break="no" facs="#image_115"/>halber
+                &amp; erwarte jeden Tag<lb break="yes"/>meine Entlassung
+                    desselbe<unclear>n</unclear>. </p><p>Wir hoffen nun Alle eimal<lb break="yes"/>auf baldige Genesung &amp; <hi rendition="#i">R</hi>ückkehr<lb break="yes"/><hi rendition="#c">zu Deinen Lieben Allen!</hi></p><p><seg ana="#salute">unter vielen herzlichen Grüßen<lb break="yes"/>besonders Deines
+                    wohlmeinen<unclear>d</unclear>sten<lb break="yes"/><hi rendition="#c">Bruders</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Hugo</hi>.</seg></hi></p>
+</body>
+</text>
+</TEI>

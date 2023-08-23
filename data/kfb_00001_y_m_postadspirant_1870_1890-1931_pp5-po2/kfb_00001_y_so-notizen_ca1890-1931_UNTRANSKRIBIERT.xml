@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1y07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ludwig <surname>Y.</surname></persName>
+<date notAfter="1931" notBefore="1890" type="sent">ca. 1890-1931</date>
+<date type="received">k. A.</date>
+<persName type="addressee">k. A.: k. A.</persName>
+<settlement type="sent">k. A.</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1y">
+<persName>
+<forename>Ludwig</forename>
+<surname>Y.</surname>
+</persName>
+<birth when="1870"/>
+<death cert="unknown"/>
+<occupation>Postadspirant</occupation>
+<residence><geo decls="#WGS">47.7750654 10.6170847</geo>Markt Oberdorf, geb. Schongau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Rentbeamter</p>
+<p>Anstalt: <date from="1890" to="1931">1890-1931</date></p><p>Verpflegungsklasse: 2</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Dementia präcox (1926)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Notizen</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Notizen und Zeichnungen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1y07a.jpg" xml:id="image_028"/>
+<graphic mimeType="image/jpeg" url="kfb1y07b.jpg" xml:id="image_029"/>
+<graphic mimeType="image/jpeg" url="kfb1y07c.jpg" xml:id="image_030"/>
+<graphic mimeType="image/jpeg" url="kfb1y07d.jpg" xml:id="image_031"/>
+<graphic mimeType="image/jpeg" url="kfb1y07e.jpg" xml:id="image_032"/>
+<graphic mimeType="image/jpeg" url="kfb1y07f.jpg" xml:id="image_033"/>
+<graphic mimeType="image/jpeg" url="kfb1y07g.jpg" xml:id="image_034"/>
+<graphic mimeType="image/jpeg" url="kfb1y07h.jpg" xml:id="image_035"/>
+<graphic mimeType="image/jpeg" url="kfb1y07i.jpg" xml:id="image_036"/>
+<graphic mimeType="image/jpeg" url="kfb1y07j.jpg" xml:id="image_037"/>
+<graphic mimeType="image/jpeg" url="kfb1y07k.jpg" xml:id="image_038"/>
+<graphic mimeType="image/jpeg" url="kfb1y07l.jpg" xml:id="image_039"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_028"/>
+<opener>
+<dateline>Datum 2171891</dateline>
+<salute/>
+</opener>
+<p>[Notizen]
+                </p>
+<pb facs="#image_029"/>
+<p>[Notizen]</p>
+<pb facs="#image_030"/>
+<p> [Notizen und Zeichnungen]</p>
+<pb facs="#image_031"/>
+<p>[Notizen und Zeichnungen]</p>
+<pb facs="#image_032"/>
+<p> [Notizen und Zeichnungen]</p>
+<pb facs="#image_033"/>
+<p>[Notizen und Zeichnungen]</p>
+<pb facs="#image_034"/>
+<p>[Notizen und Zeichnungen]</p>
+<pb facs="#image_035"/>
+<p>[Notizen und Zeichnungen]</p>
+<pb facs="#image_036"/>
+<p>[Notizen und Zeichnungen]</p>
+<pb facs="#image_037"/>
+<p>[Notizen und Zeichnungen]</p>
+<pb facs="#image_038"/>
+<p>[Notizen und Zeichnungen]</p>
+<pb facs="#image_039"/>
+<p>[Notizen und Zeichnungen]</p>
+</body>
+</text>
+</TEI>

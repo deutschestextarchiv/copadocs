@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: J. B. <surname>H.</surname></persName>
+<date type="sent" when="1894-07-29">29.07.1894</date>
+<date type="received" when="1894-07-30">30.07.1894</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">Höchstädt a. D. </settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Vater des Patienten erkundigt sich nach dessen Zustand und fragt, ob ein Besuch sinnvoll sei.
+                    Der Arzt antwortet und beschreibt den Zustand.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1868h09a.jpg" xml:id="image_036"/>
+<graphic mimeType="image/jpg" url="kfb1868h09b.jpg" xml:id="image_037"/>
+<graphic mimeType="image/jpg" url="kfb1868h09c.jpg" xml:id="image_038"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_036"/>
+<opener>
+<dateline><hi rendition="#r">Höchstädt <hi rendition="#i">a/<hi rendition="#sub">D.</hi></hi> den 29<hi rendition="#sup">ten</hi> Juli 1894.<lb break="yes"/><add hand="arzt"><unclear>per.</unclear> 30/<hi rendition="#sub">7</hi>
+                        94</add></hi>
+</dateline>
+<salute><hi rendition="#i">Hochverehrtester Herr Director!</hi></salute>
+</opener>
+<p><space/> Wohl kön̄te es mir recht in Uebel<lb break="yes"/>genom̄en werden, mich so wen̄ig um meinen<lb break="yes"/>Sohn <hi rendition="#i">Joh. </hi>Bapt. <surname>H.</surname> zu erkundigen.</p>
+<p><space/> Allein Nachrichten von meiner Schwieger<lb break="no"/>tochter aus Wemding,
+                dan̄ Mittheilungen<lb break="yes"/>durch Herrn Stadtschreiber in Höchstädt
+                    be<lb break="no"/>sagen mir, daß es nichts helfe wen̄ ich<lb break="yes"/>auch hinginge um ihn zu besuchen.</p>
+<p><space/> Um aber meinem sehnsüchtigen Drange<lb break="yes"/>nach Pflichterfüllung
+                zu genügen möchte ich<lb break="yes"/><hi rendition="#i">Euer Hochwohlgeboren</hi>
+                ersuchen, ge<lb break="no"/>fällige Mitteilung über seinen gegenwärt<lb break="no"/>igen Zustand mitzuteilen, sowie um Ihre<lb break="yes"/>gütige Ansicht, ob ich
+                etwas erzwecke zu<lb break="yes"/>seiner Besserung, wen̄ ich ihn persönlich<lb break="yes"/>besuchen würde. </p>
+<pb facs="#image_037"/>
+<p><space/> Eine Zwecklose Reise dorthin<lb break="yes"/>möchte ich doch nicht
+                unternehmen,<lb break="yes"/>zudem ich niht weis, ob es für seinen<lb break="yes"/>Zustand gut erscheine.</p>
+<p><space/>
+<seg ana="#salute">Mit der Bitte um gütige Nachricht<lb break="yes"/>zeichnet in
+                    aller Hochachtung.<lb break="yes"/><hi rendition="#c">Ergebenster</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">J. B.
+                                <surname>H.</surname></hi></seg><lb break="yes"/><hi rendition="#u">Buchbinder</hi></hi></p>
+<pb facs="#image_038"/>
+<p><add hand="arzt">31/<hi rendition="#u">7. 1894</hi> beantw: Keine Verän<lb break="no"/>derung. Pat. glaubt sich immer<lb break="yes"/>magnetisch
+                    beeinflußt, hyp<del>m</del>notisirt,<lb break="yes"/>steht in Magnetischem
+                    Rapport<lb break="yes"/>mit Referenten, hält sich für<lb break="yes"/>gesund
+                    und verlangt nach Hause.<lb break="yes"/>Er ist immer <del>s</del> unzufrieden<lb break="yes"/>nur mürrisch, beklagt sich<lb break="yes"/><del>n</del>bei
+                    jeder Visite über die Be<lb break="no"/>einflussungen, denen er ausgesetzt<lb break="yes"/>sei, über die "<hi rendition="#u">Andäppung</hi>"<lb break="yes"/><hi rendition="#i">etc.</hi></add></p>
+<p><add hand="arzt"><unclear>Ein</unclear> Besuch wird ganz ohne Einfluß<lb break="yes"/>auf die Erkrankung sein. Wahr<lb break="no"/>scheinlich wird dadurch die Un<lb break="no"/>zufriedenheit des Pat.
+                    <unclear>sich</unclear><lb break="yes"/>steigern. <space/> <seg ana="#signed"><unclear/>.</seg></add></p>
+</body>
+</text>
+</TEI>

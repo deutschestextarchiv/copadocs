@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb128o02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>128</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Vater: k. A. <surname>O.</surname></persName>
+<date type="sent" when="1857-04-15">15.04.1857</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">Zirndorf</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb128o">
+<persName>
+<forename>Adolph</forename>
+<surname>O.</surname>
+</persName>
+<birth when="1817"/>
+<death cert="unknown"/>
+<occupation>Candidat der Theologie</occupation>
+<residence><geo decls="#WGS">49.432019 10.956027785813669</geo>Zirndorf, Nürnberg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Prot. Decan des 1. Pfarramts zu Zirndorf</p>
+<p>Anstalt: <date from="1856" to="1857">1856-1857</date></p><p>Verpflegungsklasse: 1</p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Hypochondria melancholiia</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="vater"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sorgt sich um den körperlichen Zustand seines Sohnes und bittet daher den Direktor, 
+                    auf seine Einschätzung schriftlich einzugehen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb128o02.JPG" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r">Zirndorf d 15<hi rendition="#sup">te</hi> April 1857.</hi></dateline>
+<salute><hi rendition="#c">Hochwohlgeborener,<lb break="yes"/>Hochzuverehrender Herr Director!</hi></salute>
+</opener>
+<p>Jhre Güte wird es entschuldigen, wenn ich mir erlaube, Sie in Ihren<lb break="yes"/>vielen Geschäften mit einigen Zeilen zu belästigen. Mein Sohn
+                Adolph<lb break="yes"/>hat in seinem letzten Briefe das ihm von mir und mehr noch
+                von Ver<lb break="no"/>wandten zugemuthete Examen in einer Weise abgelehnt, daß ich,<lb break="yes"/>wenigstens für meine Person, wen̄ andere auch anderer
+                Ansicht sind,<lb break="yes"/>unmöglich weiter in ihn zu dringen wagen will, und
+                also ruhig auf<lb break="yes"/>eine Gott gebe beßere Zeit warten. Mir scheint jetzt
+                mehr die Besorgniß<lb break="yes"/>mangelnder körperlicher Kraft als mangelnder
+                Ken̄tniße dem lei<lb break="no"/>denden das Examen fürchten zu laßen und
+                daher ersuche ich Euer x<lb break="yes"/>nur um kurze gütige Notiz, ob wirklich, so
+                weit dieß wenigstens<lb break="yes"/>möglich ist, eine Körperschwäche in dem Grade
+                vorhanden sey, daß<lb break="yes"/>man ein Examen nicht verlangen darf; ja mit
+                solchem Verlangen<lb break="yes"/>selbst die Übel nur vermehren könnte.</p><p><seg ana="#salute">Mich hiebei zu schätzbarster Wohlgewogenheit angelegentlich em<lb break="no"/>pfehlend, habe ich
+                die Ehre in vollster Hochachtung zu verharren<lb break="yes"/><hi rendition="#c">Euer Hochwohlgeboren</hi><lb break="yes"/><hi rendition="#r">ergebenster</hi></seg><hi rendition="#r"><seg ana="signed">
+<surname>O.</surname>, Decan</seg></hi></p><p><add place="bottom">Wird es wohl räthlich<lb break="yes"/>seyn, den Sohn seiner Zeit<lb break="yes"/>nach vollendeter Cur in<lb break="yes"/>die alten Verhältniße
+                    des<lb break="yes"/>elterlichen Hauses, wie er hofft u<lb break="yes"/>wünscht, eintreten zu laßen? </add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Johann Baptist <surname>H.</surname></persName>
+<date type="sent" when="1893">17.xx.1893</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Ehefrau: Therese <surname>H.</surname></persName>
+<settlement type="sent">Kaufbeuren</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient vermisst seine Familie und hofft, bald wieder bei seiner Frau zu sein.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1868h02a.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="kfb1868h02b.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpg" url="kfb1868h02c.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_002"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kaufbeuren, den</hi> 17.<hi rendition="#i"><unclear>A</unclear>pr</hi>.<lb break="yes"/>1893.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Innigsgeliebte
+                    Theres</hi>!</hi></salute>
+</opener>
+<p><hi rendition="#i">D</hi>as Heimweh nach Dir, nach<lb break="yes"/>meinem lieben Kinde, hätte<lb break="yes"/>mir längst die Feder in
+                die<lb break="yes"/>Hand gedrückt, wen̄ ich eine<lb break="yes"/>gehabt
+                hätte. Unendlich freuten<lb break="yes"/>mich Deine lieben
+                    Zeilen<lb break="yes"/>und geben mir doppelte<lb break="yes"/>Veranlassung, Dir meinen<lb break="yes"/>wahren Seelenzustand zu of<lb break="no"/>fenbaren, den Schmerz von<lb break="yes"/>Deiner Liebe, aus Deinen<lb break="yes"/>Armen geschieden zu sein.<lb break="yes"/>Verzeihe mir liebe <hi rendition="#i">Theres.<lb break="yes"/>liebes Weib,</hi> Dir so viel <pb facs="#image_003"/>Schmerz und Kumer ver<lb break="no"/>ursacht zu haben, es
+                wahr<lb break="yes"/>nicht mein Wille. Ich<lb break="yes"/>schwöre Dir von Neuem<lb break="yes"/>treue Liebe bis zum Grabe<lb break="yes"/>mit dein Wunsche, Du<lb break="yes"/>möchtest das Deinige<lb break="yes"/>thun unsere
+                Tren̄ung zu<lb break="yes"/>verkürzen, unser Glück zu<lb break="yes"/>festigen, − mit einem Worte<lb break="yes"/>mich in Deine Arme zu hohlen.<lb break="yes"/><seg ana="#salute">In dieser Hoffnung, die<lb break="yes"/>mein einziger Trost ist,<lb break="yes"/>verbleibt
+                    in aufrichtiger<lb break="yes"/>Liebe<lb break="yes"/><hi rendition="#c"><hi rendition="#i">Dein</hi></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Gatte </hi></hi></seg><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><seg ana="#signed">Baptist.</seg></hi></hi>
+</p>
+<pb facs="#image_004"/>
+<p>Viele Grüße an meinen<lb break="yes"/>Bruder Hugo, Deine Eltern<lb break="yes"/>und
+                        <surname><hi rendition="#i">F.</hi></surname>s. </p>
+</body>
+</text>
+</TEI>

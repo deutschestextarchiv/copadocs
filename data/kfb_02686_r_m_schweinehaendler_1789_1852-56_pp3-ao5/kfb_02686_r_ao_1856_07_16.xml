@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb2686r07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>2686</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Anna <surname>R.</surname></persName>
+<date type="sent" when="1856-07-16">16.07.1856</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">Haidhausen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb2686r">
+<persName>
+<forename>Simon</forename>
+<surname>R.</surname>
+</persName>
+<birth when="1789"/>
+<death cert="unknown"/>
+<occupation>Schweinehändler, früher Maurer</occupation>
+<residence><geo decls="#WGS">48.1326627 11.6011221</geo>Haidhausen, Au</residence>
+<faith>k. A.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: k. A.</p>
+<p>Anstalt: <date from="1852" to="1856">1852-56</date></p><p>Verpflegungsklasse: k.A</p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Delirium tremens (1852)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Fragt nach dem aktuellen Zustand ihres Mannes und bedauert, dessen Versorgung in der 
+                    Anstalt nicht mehr zahlen zu können.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb2686r07a.JPG" xml:id="image_019"/>
+<graphic mimeType="image/jpeg" url="kfb2686r07b.JPG" xml:id="image_020"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_019"/>
+<opener>
+<dateline><hi rendition="#r">Vorstadt Haidhausen den 16 Juli 1856.</hi></dateline>
+<salute><hi rendition="#c"><del>E</del>Aüer Wohlgebohren Herr Direktor!</hi></salute>
+</opener>
+<p><add hand="arzt"><add place="top">d. 20 Juli. Kein Anfall mehr ganz gut<lb break="yes"/>d. 28 Febr 56 Auch seitdem keinen Anfall mehr; steht der
+                        Frau frei<lb break="yes"/>seinem Wunsch <unclear/> be<unclear/>
+<unclear/>, einen Versuch mit ihm zuhause zu machen.</add></add></p>
+<p>Überzeigt von Jhrer Gütte und Menschenfreindlichkeit,<lb break="yes"/>bin ich so
+                frei, Sie mit einigen Zeillen zu beläßtigen.<lb break="yes"/>Da ich jetzt so in
+                Verlegenheit und nicht mer<lb break="yes"/>im Stande bin, für meinen Mann Simon
+                    <surname>R.</surname><lb break="yes"/>zu bezahlen und auch öfters schon gehört habe, daß der<lb break="no"/>selbe in die Irrenverwaltung Giesing kom̄e, aber<lb break="yes"/>noch nichts bestimtes weis, deßhalb ersuche ich Euer<lb break="yes"/>Wohlgebohren, mir einige Zeillen zu schreiben<lb break="yes"/>wie
+                es mit meinen Mann aussiht, ob noch imer<lb break="yes"/>daßselber oder gar noch
+                schlechter ist.− </p><p>Indem ich Sie dringent bitte, mir sobald wie<lb break="yes"/>möglich eine Antwort zu schreiben,
+                schlüße ich mein<lb break="yes"/><del>s</del> Briefchen und <seg ana="#salute">nenne mich achtungsvoll<lb break="yes"/><hi rendition="#c">Ihre ergebenste</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">An̄a
+                            <surname>R.</surname></seg>.</hi></p><p>Ich bitte die Adresse<lb break="yes"/>zu machen, Hr. David <surname>R.</surname>
+<surname>N.</surname><lb break="yes"/><hi rendition="#c">Zimmermeister in Haidhausen</hi></p>
+<pb facs="#image_020"/>
+<p><hi rendition="#c">Sr Wohlgebohren</hi><lb break="yes"/>Herrn Direktor in der Kgl.<lb break="yes"/><hi rendition="#c">Irrenverwaltung Irrsee</hi><lb break="yes"/><hi rendition="#r">bei Kaufbayern.</hi></p><p><add place="margin"><hi rendition="#u">frango</hi></add></p>
+</body>
+</text>
+</TEI>

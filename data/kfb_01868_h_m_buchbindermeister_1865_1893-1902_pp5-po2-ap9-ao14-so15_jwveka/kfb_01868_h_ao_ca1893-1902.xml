@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Therese <surname>H.</surname></persName>
+<date notAfter="1902" notBefore="1893" type="sent">ca. 1893-1902</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Arzt</persName>
+<settlement type="sent">k. A.</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="ehefrau"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin bittet darum, ihrem Mann einen Brief zu übergeben, und um Informationen zu seinem Befinden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1868h17.jpg" xml:id="image_073"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_073"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Sehr geehrter Herr Doktor!</hi></salute>
+</opener>
+<p><space/> Erlaube mir, Ihnen <del>er</del>freundlichst<lb break="yes"/>zu bitten,
+                beiliegenden Brief<lb break="yes"/>meinem Man̄e zu seinem Namen<lb break="no"/>feste zu übergeben u <add place="above">Ihn</add> von den<lb break="yes"/>Briefmarken etwas Bier u. d. gl.<lb break="yes"/>zukom̄en
+                zu lassen. Auch bitte ich<lb break="yes"/>Sie recht vielmals um eine kleine<lb break="yes"/>Mitteilung, wie es mit seinem<lb break="yes"/>Befinden ist,
+                    <del>u.</del> was er auf dem<lb break="yes"/>Brief <del>f</del> sagt u. ob sich
+                die Krank<lb break="no"/>heit im̄er noch nicht bessert. <seg ana="#salute">Ihnen<lb break="yes"/>bestens Dankent u. frdl. grüßent</seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Therese
+                            <surname>H.</surname></seg></hi><lb break="yes"/><hi rendition="#r">Buchbindersgattin.</hi></p>
+</body>
+</text>
+</TEI>

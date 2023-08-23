@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb427m02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Angela Hofmann</name>
+<name>Markus Schiegg</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>427</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Louise <surname>M.</surname></persName>
+<date type="sent" when="1859-08-14">14.08.1859</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Baron: k. A. von <surname>T.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb427m">
+<persName>
+<forename>Louise</forename> <surname>M.</surname></persName>
+<birth when="1815"/>
+<death cert="unknown"/>
+<occupation>Privatiersfrau</occupation>
+<residence><geo decls="#WGS">48.1700887 11.5884858</geo>Schwabing, München</residence>
+<faith>k. A.</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: niederer Stand</p>
+<p>Anstalt: <date from="1853" to="1859">1853–1859</date></p><p>Verpflegungsklasse: 1</p>
+<p>Brieftypen: pp: 6, po: 4, ao: 1</p>
+</state>
+<trait><p>Geisteskrankheit, fixe Ideen, Angst (1853-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage> <handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Verzweiflung, Bitte um Beistand, war krank wegen Intrigen von Verwanten, will ihr Vermögen nicht ihrem Mann sondern Schwager hinterlassen
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb427m02a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpeg" url="kfb427m02b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpeg" url="kfb427m02c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Irsee d. 14. August 1859.</hi></dateline>
+<salute><space/> Verehrter Herr Baron!</salute>
+</opener>
+<p>Mit der größten Verzweiflung meines Herzens<lb break="yes"/>ergreife ich
+                    die Feder um Sie unterthänygst zu<lb break="yes"/>bitten hirher zu
+                kom̄en um mir beizustehen<lb break="yes"/>von dieser grausam̄en Lage,
+                in die mich<lb break="yes"/>mein 5 jähriger <w>Haus arzt</w> Herr Docktor<lb break="yes"/><surname>S.</surname> ge<del>r</del>bracht hat, ich bin
+                    keine<lb break="yes"/>Mörderin und verdiene gewiß kein solches<lb break="yes"/>Haus, mein Geist war krank, und zerüttet<lb break="yes"/>wie sie selbst sahen aber
+                es war Folge<lb break="yes"/>fürchterlicher Intrigen von meinen <w>Gott<lb break="no"/>losen</w> Verwanden ich möchte Ihnen mein <pb facs="#image_002"/> gequältes Herz <w>aus schütten</w>, vor meine<lb break="yes"/>Augen brechen, sollten Sie aber für<lb break="yes"/>die arme
+                Wahrlich keinen Funken<lb break="yes"/>Miedleit mehr haben, so bitte ich Sie<lb break="yes"/>flehentlich einen andern Anwalt zu<lb break="yes"/>schicken der
+                mich als Man̄ <add place="above">noch</add> von Ehre<lb break="yes"/>handelt.
+                    <seg ana="#salute">Ich zeichne Hochachtungstvollst</seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Louise</hi> <surname>M.</surname></seg></hi></p>
+<p>Sie
+                    ken̄en meine glänzende Verhältniße<lb break="yes"/>in die ich lebte, und
+                    will mein Vermögen<lb break="yes"/>nicht <surname>M.</surname>
+                    lassen sondern meinen<lb break="yes"/>Erwürdigen Herrn Schwager Baron<lb break="yes"/>von <surname>W.</surname></p>
+<pb facs="#image_003"/>
+<p>An Herrn Staats Anwalt<lb break="yes"/>Baron von <surname>T.</surname></p>
+<p><hi rendition="#c">in</hi></p>
+<p><hi rendition="#r">München.</hi>
+</p>
+</body>
+</text>
+</TEI>

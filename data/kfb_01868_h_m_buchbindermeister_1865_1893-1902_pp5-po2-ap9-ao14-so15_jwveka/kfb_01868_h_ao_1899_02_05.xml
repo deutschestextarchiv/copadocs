@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h19" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ehefrau: Therese <surname>H.</surname></persName>
+<date type="sent" when="1899-02-05">05.02.1899</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">Wemding</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="ehefrau"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+<handNote medium="print" scope="minor" scribe="vordruck"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Ehefrau hat einen Brief geschickt, auf den sie bisher keine Antwort erhalten hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1868h19a.jpg" xml:id="image_078"/>
+<graphic mimeType="image/jpg" url="kfb1868h19b.jpg" xml:id="image_079"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_078"/>
+<opener>
+<dateline>Wemding, den 5. Februar 1899.</dateline>
+<salute><hi rendition="#r">Sehr geehrtester Herr Direktor!</hi></salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#i"><hi rendition="#u">Rsp.</hi></hi> 7.II.99<lb break="yes"/><hi rendition="#u">2 <hi rendition="#i">M. </hi>10</hi>
+                        seinerzeit <hi rendition="#u">erhalten</hi> u. Nachricht gegeben.<lb break="yes"/><hi rendition="#r">d7.</hi></add><lb break="yes"/>Schon vorigen Monat fragte ich in einen<lb break="yes"/>Briefe,
+                dem ich 2 M. 10 dt. beilegte, an,<lb break="yes"/>wie es mit dem Befinden meines<lb break="yes"/>Man̄es, des Buchbinders I. B.
+                    <surname>H.</surname>,<lb break="yes"/>geht. u. habe noch keine Nachricht
+                erhalten.<lb break="yes"/>Bitte Sie wehrtester Herr D. mich nicht<lb break="yes"/>länger noch warten zu lassen, wäre sehr<lb break="yes"/><hi rendition="#r">dankbar
+                    u. <seg ana="#salute">zeichnet</seg></hi><lb break="yes"/><hi rendition="#c"><seg ana="#salute">achtungsvollst</seg> <seg ana="#signed">Therese <surname>H.</surname></seg></hi></p>
+<pb facs="#image_079"/>
+<p><add hand="vordruck">An</add><lb break="yes"/><space/> Die Direktion der Heil u.<lb break="yes"/><hi rendition="#c">Pflegeanstalt</hi><lb break="yes"/><hi rendition="#r"><add hand="vordruck">in</add> Irsee bei<lb break="yes"/>Kaufbeuren</hi></p>
+</body>
+</text>
+</TEI>

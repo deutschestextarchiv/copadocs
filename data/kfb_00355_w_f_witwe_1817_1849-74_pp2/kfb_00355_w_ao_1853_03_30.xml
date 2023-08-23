@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb355w03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>355</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Onkel: Joh. Ulrich <surname>L.</surname></persName>
+<date type="sent" when="1853-03-30">30.03.1853</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A. <surname>H.</surname></persName>
+<settlement type="sent">k. A.</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb355w">
+<persName>
+<forename>Maria</forename>
+<surname>W.</surname>
+</persName>
+<birth when="1817"/>
+<death when="1874"/>
+<occupation>Witwe</occupation>
+<residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: verheiratet, Witwe</p>
+<p>Eltern: k. A.</p>
+<p>Anstalt: <date from="1849" to="1874">1849-74</date></p>
+<p>Brieftypen: pp</p><p>Verpflegungsklasse: 3</p>
+</state>
+<trait><p>Fixe Idee, Geistesstörung mit Tollheit (1849)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="onkel"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Gibt an, aufgrund eines noch andauernden Fußleidens die Patientin nicht abholen zu können. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb355w03a.JPG" xml:id="image_005"/>
+<graphic mimeType="image/jpeg" url="kfb355w03b.JPG" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<dateline><hi rendition="#r"><unclear reason="damage"/>en d<unclear><hi rendition="#sub">er</hi></unclear> 30<hi rendition="#sup"><hi rendition="#u">te</hi></hi> März 1853</hi></dateline>
+<salute><space/> E<unclear>wr</unclear> Wohlgebo<unclear reason="damage"/>en</salute>
+<p>Da ich von meiner Schwester der <w>Eisenhändlers Wit<hi rendition="#u">we</hi></w><lb break="yes"/>Maria <surname>W.</surname> gebeten wurde ihre Tochter Maria aus<lb break="yes"/>dortiger <del>A</del>Heilanstalt
+                    abz<del>a</del>uholen, kon̄te ich diesem<lb break="yes"/>Wunsche meiner Schwester bis heute noch nicht entsprechen<lb break="yes"/>da mich ein Fuß übel nöthigte, das Zim̄er zu hüten<lb break="yes"/>das warscheinlich noch 14 Tage andauern kan̄, aus<lb break="yes"/>welchem Grunde meine Schwester sich nun veran<lb break="no"/>laßt
+                sieht, ihre Tochter Maria noch bis Ende <hi rendition="#i">Aprill</hi><lb break="yes"/>in Jhrer Anstalt zu belaßen, bis zu welcher Zeit<lb break="yes"/>ich sie dan̄ abholen, u die betref<unclear>f</unclear>enden Ver<unclear>fp</unclear>legungs<lb break="no"/>kosten <hi rendition="#i">pr Aprill</hi> werde,
+                insoferne es nicht absolut<lb break="yes"/>nothwendig ist, das diese Kosten jetzt
+                gleich einge<lb break="no"/>sendet werden, dan̄ haben die Güte es entweder
+                mir<lb break="yes"/>oder meiner Frau Schwester anzuzeigen.</p><p><seg ana="#salute"><hi rendition="#c">Mit vorzüglicher Hochachtung zeichnet</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Joh Ulrich
+                                </hi><surname><hi rendition="#i">L.</hi></surname></seg><lb break="yes"/><hi rendition="#i">Privatier</hi></hi></p>
+<pb facs="#image_006"/>
+<p><hi rendition="#c">An</hi><lb break="yes"/>Jhro Wohlgebohren <hi rendition="#i">Herrn</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Director Hagen</hi> in der </hi><lb break="yes"/><hi rendition="#c">Jrrenanstalt zu </hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i">Irrsee</hi></hi>
+</p>
+</body>
+</text>
+</TEI>

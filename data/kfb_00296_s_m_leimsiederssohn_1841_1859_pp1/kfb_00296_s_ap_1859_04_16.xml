@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb296s02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>296</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: k. A.</persName>
+<date type="sent" when="1859-04-16">16.04.1859</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Bruder: Johann <surname>S.</surname></persName>
+<settlement type="sent">Krumbach</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb296s">
+<persName>
+<forename>Johann</forename>
+<surname>S.</surname>
+</persName>
+<birth when="1841"/>
+<death cert="unknown"/>
+<occupation>Leimsiederssohn</occupation>
+<residence><geo decls="#WGS">48.2433959 10.3634009</geo>Krumbach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Leimsieder</p>
+<p>Anstalt: <date from="1859" to="1859">1859</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschung (1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schickt dem Patienten Essen und Kleidung zu, jedoch nicht alles, was er verlange.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb296s02.JPG" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline><hi rendition="#r">Krumbach 16 April 1859.</hi></dateline>
+<salute><space/> Lieber Johan!</salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#r"><hi rendition="#i">pr</hi>. 19 <hi rendition="#i">April</hi> 59<lb break="yes"/><surname><hi rendition="#i">S.</hi></surname></hi></add></p>
+<p>Durch den Matheus <surname>W.</surname> von W<unclear>altenweiler</unclear><lb break="yes"/>theilen wir dir einige kleingkeiten als Osterspeise<lb break="yes"/>so <unclear>wie</unclear> auch den Rok.</p><p><hi rendition="#r">Was den Leim betrift, das sind meine<lb break="yes"/></hi>sachen wo dich
+                nichts angehen. dan schriebst du von<lb break="yes"/>Feuertags-Stiefel und Hemder
+                die man dir schiken<lb break="yes"/>solle finde es nicht nothwendig, wan̄
+                sie sollten <w>zer<lb break="no"/>rissen</w> sien so kan̄st du selbe flicken
+                lassen.</p><p><hi rendition="#r">Was deine Dum̄e Einbildungen von der<lb break="yes"/></hi>Baaße
+                Kreszens betrift da bist du gantz irrig daran<lb break="yes"/>du bist selber ganz
+                schuld. doch genug davon. </p><p><hi rendition="#r">Mit dem abhollen wird es mitte Mai werden<lb break="yes"/><seg ana="#salute">Grüße dich vielmahl</seg>
+                    sam̄t Senzi</hi></p><p><add hand="arzt"><add place="bottom">1 Rock<lb break="yes"/>1 Sacktuch<lb break="yes"/>Eßwaren<lb break="yes"/>sind mitgekom̄en<lb break="yes"/>welche
+                        bestättigt u<lb break="yes"/>dem Hl. <surname>R.</surname> über<lb break="no"/>geben wurden<lb break="yes"/><unclear><surname>M.</surname></unclear> 59<lb break="yes"/>Gr.</add></add></p>
+</body>
+</text>
+</TEI>

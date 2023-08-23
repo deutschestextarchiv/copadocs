@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1868h04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Judith Willberg</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1868</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Sophie <surname>H.</surname></persName>
+<date type="sent" when="1899-06-23">23.06.1899</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor</persName>
+<settlement type="sent">Paris</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1868h">
+<persName>
+<forename>Johann Baptist</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1865"/>
+<death when="1902"/>
+<occupation>Buchbindermeister</occupation>
+<residence><geo decls="#WGS">48.614051849999996 10.565301247055906</geo>Hochstädt, Dillingen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Buchbinder</p>
+<p>Anstalt: <date from="1893" to="1902">1893-1902</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po, ap, ao</p>
+</state>
+<trait><p>"Hallucinant 1. Ranges, speciell Gehörs- und Gefühlshallucinant" (27.8.1893)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="schwester"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Schreiberin erkundigt sich nach dem Befinden ihres Bruders.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="kfb1868h04a.jpg" xml:id="image_021"/>
+<graphic mimeType="image/jpg" url="kfb1868h04b.jpg" xml:id="image_022"/>
+<graphic mimeType="image/jpg" url="kfb1868h04c.jpg" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_021"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Paris <foreign xml:lang="frz">le</foreign> 23. <foreign xml:lang="frz">Juin</foreign><lb break="yes"/>99.</hi></hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Eeuer
+                    Wohlgeboren!</hi></hi></salute>
+</opener>
+<p><space/> Leider erhielt ich von meiner<lb break="yes"/><hi rendition="#i">M</hi>utter die Nachricht, daß mein<lb break="yes"/>Bruder Baptist
+                    <surname>H.</surname> Buchbinder<lb break="yes"/>von Wemding sehr viel
+                leidet, an<lb break="yes"/>was und welcher Art die Krankheit<lb break="yes"/>ist
+                weiß ich nicht.</p>
+<p><space/> Meine <hi rendition="#i">M</hi>utter sagte mir ich<lb break="yes"/>kön̄te vielleicht in <w>irgend einer</w><lb break="yes"/>Art für meinen Bruder eine Erleich<del>t</del><lb break="no"/>terung sein, weßhalb ich Sie geehrter<lb break="yes"/>Herr bitte, mir mitteilen
+                zu lassen<lb break="yes"/>wie es meinem armen Bruder geht, <pb facs="#image_022"/>was für eine Krankheit er hat,<lb break="yes"/>und inwieferne ich ihm helfen
+                kön̄te.<lb break="yes"/>Ich schickte heute nämlich einen<lb break="yes"/>Brief an <del>i</del>meinen armen Bruder ab,<lb break="yes"/>aber ich hoffe doch
+                einige Zeilchen<lb break="yes"/>von ihm erhalten zu kön̄en, wofür<lb break="yes"/>ich Ihnen sehr dankbar wäre, wen̄<lb break="yes"/>Sie mir
+                selbe übermitteln kön̄te.</p>
+<p><space/> Sollte er mir nicht schreiben wollen,<lb break="yes"/>so bitte ich Sie
+                dennoch mir nähere<lb break="yes"/>Nachricht über seinen traurigen<lb break="yes"/>Zustand geben zu wollen, ich werde<lb break="yes"/>Ihnen gewiß erken̄tlich
+                dafür sein.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Hochachtungsvollst</seg></hi><lb break="yes"/><hi rendition="#r">unterzeichnet<lb break="yes"/><seg ana="#signed"><hi rendition="#i">Sophie
+                <surname>H.</surname></hi></seg></hi></p>
+<pb facs="#image_023"/>
+<p><hi rendition="#i">An die verehrliche <w>Kreisirren<lb break="no"/><hi rendition="#c">Anstalt</hi></w>
+<hi rendition="#c">in</hi><lb break="yes"/><hi rendition="#r">Irrsee</hi></hi><lb break="yes"/><add place="margin"><foreign xml:lang="frz"><hi rendition="#i">Bavière</hi></foreign></add></p>
+</body>
+</text>
+</TEI>

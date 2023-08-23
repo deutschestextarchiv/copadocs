@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb518o19" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>/</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>518</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>O.</surname></persName>
+<date type="sent" when="1853-06-05">05.06.1853</date>
+<date type="received">k. A.</date>
+<persName type="addressee">k. A.: k. A. <surname>K.</surname></persName>
+<settlement type="sent">Mering</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb518o">
+<persName>
+<forename>Franz</forename>
+<surname>O.</surname>
+</persName>
+<birth cert="unknown"/>
+<death cert="unknown"/>
+<occupation>Bäckerssohn</occupation>
+<residence><geo decls="#WGS">48.2667 10.9833</geo>Mering, Friedberg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Bäcker</p>
+<p>Anstalt: <date from="1853" to="1859">1853-59</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp, po</p>
+</state>
+<trait><p>Kaufs- und Spekulationsmanie, Geistesverwirrung (1858-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schreibt, vom Adressaten eine "Hausstiege" und einen "Saubärn" bekommen zu haben und möchte nun 
+                    einen "Pferdbaren" haben.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb518o19a.JPG" xml:id="image_045"/>
+<graphic mimeType="image/jpeg" url="kfb518o19b.JPG" xml:id="image_046"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_045"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Mering</hi>
+<unclear><hi rendition="#i">den</hi></unclear> 5<hi rendition="#sup"><hi rendition="#u">te</hi></hi>
+<hi rendition="#i">Juny</hi> 1853.</hi></dateline>
+<salute>Geehrter Herr <surname>K.</surname>!!</salute>
+</opener>
+<p>Jch hoffe mein Schreiben wird Jhnen<lb break="yes"/>in bestem Wohlsein
+                antreffen. Sie<lb break="yes"/>werden sich erin̄ern kön̄en, daß ich<lb break="yes"/>Herr <surname><hi rendition="#i">O.</hi></surname>
+<hi rendition="#i">Baeckermeister</hi> von<lb break="yes"/>Mering, so wie auch Herr
+                    <surname>F.</surname><lb break="yes"/>nämlich vor 2 Jahre, da habe ich von Jhnen<lb break="yes"/>Saubärn, sowie eine Hausstiege, nun ja<lb break="yes"/>muß ich Jhnen
+                benachrichten daß ich<lb break="yes"/>mit der Stiege zufrieden bin, aber mit<lb break="yes"/>die Saubärn gar nicht, weil sie nicht<lb break="yes"/>bassen,
+                den̄ ich habe mich nichts darum<lb break="yes"/>beküm̄ert, weil es
+                der Betz schon ab<lb break="no"/>gemessen hat.</p>
+<pb facs="#image_046"/>
+<p>Also muß ich <unclear reason="damage">J</unclear>hnen schreiben, daß ich<lb break="yes"/>wieder einen Pferdbaren brauche,<lb break="yes"/>er muß 22 Sch
+                lang sein, von der bes<del><unclear>h</unclear>t</del>en<lb break="yes"/>Sorten
+                sein, er muß auch geschliffen<lb break="yes"/>werden, ganz famos und schön muß<lb break="yes"/>er dastehen, den ich werde ihn selbst<lb break="yes"/>abhohlen wan
+                er fertig ist, sobald<lb break="yes"/>er färtig ist an mir zu schrieben, aber<lb break="yes"/>einwenig einen billigen Preis,<lb break="yes"/>weil ich sonst
+                nicht Zufrieden sein<lb break="yes"/>kan̄. <seg ana="#salute">Jch schlüsse
+                    mein Schreiben<lb break="yes"/>in vielen Grüßen und verbleibe<lb break="yes"/>mit Achtung<lb break="yes"/><hi rendition="#c">Euer</hi><lb break="yes"/><hi rendition="#r">aufrichtigster Freund</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Franz Joseph
+                                </hi><surname><hi rendition="#i">O.</hi></surname></seg><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">Baeckermaister</hi></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb416e04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Vera Schiller</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>416</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Clara</persName>
+<date type="sent" when="1859-01-18">18.01.1859</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Moritz von <surname>E.</surname></persName>
+<settlement type="sent">k. A.</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb416e">
+<persName>
+<forename>Moritz von</forename><surname>E.</surname>
+</persName>
+<birth when="1805"/>
+<death cert="unknown"/>
+<occupation>Königl. Postoffizial beim Oberpostamt Augsburg (pensioniert)</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: k. A.</p>
+<p>Eltern: k. A.</p>
+<p>Anstalt: <date from="1858" to="1859">1858-1859</date></p><p>Verpflegungsklasse: 2</p>
+<p>Brieftypen: pp, ap, ao</p>
+</state>
+<trait><p>Gehörstäuschung</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="mutter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet ihren Sohn um finanzielle Unterstützung.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb416e04a.JPG" xml:id="image_009"/>
+<graphic mimeType="image/jpeg" url="kfb416e04b.JPG" xml:id="image_010"/>
+<graphic mimeType="image/jpeg" url="kfb416e04c.JPG" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber Moriz!</hi></salute>
+</opener>
+<p><add place="top"><hi rendition="#c">- 5 -</hi></add>
+</p><p>Mit banger Sehnsucht habe ich bis heute<lb break="yes"/>vergebens auf die Erfühlung meiner<lb break="yes"/>Bitte gehof<unclear>f</unclear>t um mir zu helfen mit<lb break="yes"/>zehen Gulden, die du lieber Moriz<lb break="yes"/>durchaus nicht
+                verliehren sollst<lb break="yes"/>sondern gleich nach Empfang<lb break="yes"/>meiner Pension mit Abzug der<lb break="yes"/>kleinen Ausl<add place="above">a</add>ge von <unclear>11</unclear> f 54 <unclear>kr</unclear>:<lb break="yes"/>rückerhalten sollst − ich bitte dich<lb break="yes"/>daher wiederhollt mir
+                selbe umgeh<lb break="no"/>end von deiner Kasse zusenden<lb break="yes"/>da wir leider von der k: Post kei<lb break="no"/>ne Nachnahme
+                erhalten kon̄en.<lb break="yes"/>Ohne deiner Hilfe lieber
+                    Sohn<unclear>?</unclear><lb break="yes"/>wäre ich in die traurigste Lage<lb break="yes"/>versetzt. Betrübe
+                dich daher nicht <pb facs="#image_010"/>lieber Moriz, hof<unclear>f</unclear>endlich
+                wird es Gott<lb break="yes"/>bald ändern. Von meiner Schwes<lb break="no"/>ter habe
+                ich dir unendlichen Danke<lb break="yes"/>zu sagen für die große Wohlthat<lb break="yes"/>die du ihr erwiesen hast. Zu der<lb break="yes"/>angenehmen
+                Hofnung daß es mit<lb break="yes"/>deiner Gesundheit täglich besser<lb break="yes"/>gehe, grüßen wir dich herzlich<lb break="yes"/>und <seg ana="#salute">bin stets<lb break="yes"/><hi rendition="#c">Deine</hi><lb break="yes"/><hi rendition="#r">dich liebend<lb break="yes"/>Dankbare
+                    </hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#salute">Mutter</seg>
+<seg ana="#signed">Clara</seg></hi>
+</p><p>den 18<hi rendition="#sup"><hi rendition="#u">ten</hi></hi><lb break="yes"/>d. M:</p>
+<pb facs="#image_011"/>
+</body>
+</text>
+</TEI>

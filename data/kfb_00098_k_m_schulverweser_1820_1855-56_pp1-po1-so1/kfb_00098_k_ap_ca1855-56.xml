@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb98k04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Katharina Gunkler-Frank</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>98</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Pauline <surname>K.</surname></persName>
+<date notAfter="1856" notBefore="1855" type="sent">ca. 1855-56</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Bruder: Ulrich <surname>K.</surname></persName>
+<settlement type="sent">k. A.</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb98k">
+<persName>
+<forename>Ulrich</forename>
+<surname>K.</surname>
+</persName>
+<birth when="1820"/>
+<death cert="unknown"/>
+<occupation>Schulverweser</occupation>
+<residence><geo decls="#WGS">47.8824831 10.4563073</geo>Heißen, Obergünzburg; Geburtsort: Osterzell</residence>
+<faith>k. A.</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Lehrer</p>
+<p>Anstalt: <date from="1855" to="1856">1855-1856</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp,po</p>
+</state>
+<trait><p>Geisteskrankheit (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="schwester"/>
+<handNote medium="ink" scope="minor" scribe="unbekannt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Bittet ihren Bruder, ihr möglichst bald Klamotten, die sie noch bei ihm habe, zuzusenden.
+                    Wegen der Arbeit und einem Umzug könne sie diese momentan nicht persönlich abholen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb98k04a.JPG" xml:id="image_013"/>
+<graphic mimeType="image/jpeg" url="kfb98k04b.JPG" xml:id="image_014"/>
+<graphic mimeType="image/jpeg" url="kfb98k04c.JPG" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_013"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber Bruder</hi></salute>
+</opener>
+<p>Sei so gut u. schücke mir meine<lb break="yes"/>Kleid u. alles waß ich bei dir
+                hab ich<lb break="yes"/>brauch es zu notwing aber Augenblicklich<lb break="yes"/>ich hab zu vill Arbeit u. kan̄ jetz<lb break="yes"/>micht zu dir
+                kom̄en weill mir auch<lb break="yes"/>jetz auszihen in ein̄e ander<lb break="yes"/>Wohnung deinen Gulden schücke<lb break="yes"/>ich dir wie ich
+                wieder mer Geld<lb break="yes"/>hab ich wuß jetz den Zims bezalen<lb break="yes"/>u. das auszihen ich bite dich schücke<lb break="yes"/>mir die Sache so balt wie
+                möglich<lb break="yes"/>ich hab kein Kleid zum anzihen<lb break="yes"/>Pack es in
+                Papir u. schücke es<lb break="yes"/>mir du braucst<lb break="yes"/>es nicht
+                    <w>zu</w><w>bezahlen</w><lb break="yes"/>auf der Post schücke<lb break="yes"/>es so. </p><p><hi rendition="#r">ich schreib dir balt wieder<lb break="yes"/>wan ich mer Zeit hab <seg ana="#salute">es<lb break="yes"/>grüß dich <w>Herz lich</w> deine<lb break="yes"/><space/> Schwester</seg>
+<seg ana="#signed">Pauline</seg></hi>
+</p>
+<pb facs="#image_014"/>
+<p>An<lb break="yes"/>Frälein Pauline <surname>K.</surname>.<lb break="yes"/><del><unclear>Loißen</unclear></del>
+<w><add place="below">Louißen</add> Straße</w> <hi rendition="#i">N</hi>. 1. Parter<lb break="yes"/><hi rendition="#r">in<lb break="yes"/><space/> München</hi></p><p><hi rendition="#c">An</hi><lb break="yes"/>Frälein Pauline <surname>K.</surname><lb break="yes"/><w>Louißen Straße</w>
+<hi rendition="#i">N</hi>1 Parter<lb break="yes"/><hi rendition="#r">in<lb break="yes"/><space/> München</hi></p>
+<pb facs="#image_015"/>
+<p><hi rendition="#r">S<hi rendition="#sup"><hi rendition="#u">r</hi></hi>
+                    Wohlgeboren</hi><lb break="yes"/>dem Herrn <hi rendition="#i">Ulrich </hi><surname><hi rendition="#i">K.</hi></surname><lb break="yes"/>Lehrer in Haißen<lb break="yes"/><hi rendition="#c">bey</hi><lb break="yes"/><hi rendition="#u">Post Günzach.</hi>
+<space/>
+<hi rendition="#r"><del style="unbekannt"><hi rendition="#u">Obergünzburg</hi></del> <add hand="unbekannt"><add place="below"><foreign xml:lang="lat"> <hi rendition="#i">Vertatur</hi></foreign></add></add></hi>
+</p><p><add hand="unbekannt"><add place="margin">Kam
+                    <unclear/>
+<unclear/> dß. wegen<lb break="yes"/>Krankheits-
+                    <unclear>Um</unclear>stände in<lb break="yes"/>die Jrrenanstalt nach<lb break="yes"/>Jrrsee bei Kaufbeuren<lb break="yes"/><hi rendition="#u"><surname><unclear>S.</unclear></surname></hi></add></add></p>
+</body>
+</text>
+</TEI>

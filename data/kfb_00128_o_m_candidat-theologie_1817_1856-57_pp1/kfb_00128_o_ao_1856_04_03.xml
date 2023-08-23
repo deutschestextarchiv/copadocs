@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb128o05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>128</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: k. A. <surname>O.</surname></persName>
+<date type="sent" when="1856-04-03">03.04.1856</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">Augsburg</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb128o">
+<persName>
+<forename>Adolph</forename>
+<surname>O.</surname>
+</persName>
+<birth when="1817"/>
+<death cert="unknown"/>
+<occupation>Candidat der Theologie</occupation>
+<residence><geo decls="#WGS">49.432019 10.956027785813669</geo>Zirndorf, Nürnberg</residence>
+<faith>protestantisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Prot. Decan des 1. Pfarramts zu Zirndorf</p>
+<p>Anstalt: <date from="1856" to="1857">1856-1857</date></p><p>Verpflegungsklasse: 1</p>
+<p>Brieftypen: pp, ao</p>
+</state>
+<trait><p>Hypochondria melancholiia</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink_black" scope="minor" scribe="arzt"/>
+<handNote medium="ink_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Da der Regierungsrath die Aufnahme des Bruders bereits bewillige, erfragt der Schreiber die 
+                    Entscheidung des Direktors.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb128o05a.JPG" xml:id="image_006"/>
+<graphic mimeType="image/jpeg" url="kfb128o05b.JPG" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_006"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Hochwohlgeborner Herr Direktor,<lb break="yes"/>Hochgeehrtester Herr!</hi></salute>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#c">1/</hi></add></add></p><p><add hand="arzt"><add place="top"><hi rendition="#i">N</hi><hi rendition="#sup"><hi rendition="#i">o</hi></hi> 1680 <unclear>Beil</unclear>
+                    V.</add></add></p><p><add hand="arzt"><add place="top"><hi rendition="#c">Ad 16782</hi></add></add></p>
+<p><space/> In Folge des gütigen Rathes Ew Hochwohlgeboren<lb break="yes"/>habe ich
+                mich persönlich an den Herr Regierungsrath <surname>K.</surname><lb break="yes"/>dahier gewendet und in Betreff der Aufnahme meines<lb break="yes"/>Bruders in das Institut Anfrage gestellt.<lb break="yes"/>Ich erhielt den
+                Bescheid, daß wen̄ Ew. Hochwohlgeboren<lb break="yes"/>diese Aufnahme für
+                möglich erklärten und gütigst<lb break="yes"/>gewährten, die k. Regierung dawider
+                nichts<lb break="yes"/>haben werde. </p><p>Es ergeht deßhalb von dem Unterzeichneten<lb break="yes"/>das Gesuch an Ew. Hochwohlgeboren,
+                dieselben<lb break="yes"/>wollten mir gütigst ein Entscheidung deßhalb<lb break="yes"/><w>zu kom̄en</w> lassen, damit wir unserseits die </p><p><add hand="arzt"><add place="margin"><hi rendition="#i">E N</hi><hi rendition="#sup"><hi rendition="#i"><hi rendition="#u">o</hi></hi></hi> 1564</add></add></p><p><add hand="arzt"><add place="bottom">d. 4 Apr. 56.<lb break="yes"/>Infolge der in Jhre <unclear/>
+<del>erhalten</del>
+<del>erhalten</del>
+<add place="above">empfangen</add> enthalten<lb break="yes"/>Zu<unclear/>
+<del>b<unclear/></del> des Hr Reg<unclear/>. <surname>K.</surname>
+                        benachrichten ist <unclear/><lb break="yes"/><unclear/>, das die Überbring Jhres <unclear/>
+<unclear/> stattfindet<lb break="yes"/>k<unclear/>. be<unclear/><lb break="yes"/><space/> M<unclear/></add></add><pb facs="#image_007"/>so
+                dringend nothwendige Angelegenheit an <unclear/><lb break="yes"/>ins Reine bringen
+                konnen. </p><p>Das noch fehlende Zeugniß wird mit dem <unclear/><lb break="yes"/>selbst nachfolgen. Für die
+                gütige so schleunige <unclear/><lb break="yes"/>wartung meine<del>s</del>r erstern Zuschrift erstat<unclear/><lb break="yes"/>meinen verbindlichsten Dank, wie ich mich<lb break="yes"/>für das
+                mangelnde Datum in derselben zu <unclear/><lb break="no"/>schuldigen u Ew Hochw.
+                gehorsamst zu <del>z</del> danken,<lb break="yes"/>daß Dieselben meinen Fehler so
+                freundlich <unclear/><lb break="no"/>schädlich gemacht haben.</p><p><hi rendition="#c">Mit vollkom̄enster Hochachtung</hi><lb break="yes"/><hi rendition="#r">Ew. Hochwohlgeborn<lb break="yes"/>E<unclear/>. <surname>O.</surname> R. Profess<unclear/></hi></p><p>Augsburg den 3<hi rendition="#sup">t</hi> Ap.<lb break="yes"/><space/> 1856.</p>
+</body>
+</text>
+</TEI>

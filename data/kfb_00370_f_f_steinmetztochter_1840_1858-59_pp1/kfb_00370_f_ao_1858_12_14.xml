@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb370f02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>/</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>370</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Mutter: Notburga <surname>F.</surname></persName>
+<date type="sent" when="1858-12-14">14.12.1858</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">München</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb370f">
+<persName>
+<forename>Maria</forename>
+<surname>F.</surname>
+</persName>
+<birth when="1840"/>
+<death cert="unknown"/>
+<occupation>Steinmetztochter</occupation>
+<residence><geo decls="#WGS">48.125183 11.5857141</geo>Au Vorstadt, München</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Steinmetz</p>
+<p>Anstalt: <date from="1858" to="1859">1858-59</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp</p>
+</state>
+<trait><p>Geisteskrankheit (1858-1859)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="mutter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erfragt, wann die Patientin abgeholt werden kann. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb370f02a.JPG" xml:id="image_003"/>
+<graphic mimeType="image/jpeg" url="kfb370f02b.JPG" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<dateline><hi rendition="#r">Minchen den 14 Dezm<unclear>r</unclear></hi></dateline>
+<salute><hi rendition="#c">Hochgertester Herr Direktor</hi></salute>
+</opener>
+<p>Sie werden mir verzein das ich es<lb break="yes"/><unclear>neei</unclear>cht
+                recht verste was mir für einen<lb break="yes"/><unclear>erschlus</unclear> fasen sol, Sie werden
+                    Verz<unclear>ei</unclear><lb break="yes"/>das ich Inen meinen Endschlus schreibe<lb break="yes"/>so wie ich
+                    es verste Gerster Herr Direktor<lb break="yes"/>mir haben ihr den <surname>M.</surname> ny
+                    <del><unclear/></del>verbodn<lb break="yes"/>und Sie auch
+                    <unclear>neei</unclear>cht <w>auf Gehalten</w>. bis<lb break="yes"/>das die
+                Krankheit Gekomm ist u lasen<lb break="yes"/>ihr wider den Vryen wielen, lib ist es<lb break="yes"/>uns <unclear>nee</unclear>icht weill Er Järlich 72 <hi rendition="#i">fl</hi> für<lb break="yes"/>2 Ki<unclear>n</unclear>der bezalen mus und kein vermegen<lb break="yes"/>hat und
+                das versted Sie jezt <unclear>ne</unclear>icht. − </p>
+<pb facs="#image_004"/>
+<p>Gerster Herr Direktor ich bid Sie recht<lb break="yes"/>Herzlich um ob Sie den
+                    <surname>M.</surname> Wiell<lb break="yes"/>und wan̄ wan̄ Sie abholen Darf, − </p><p>in des Enpfilt Sie <w>Hochachtuns<lb break="no"/><hi rendition="#r">Voll</hi></w> <hi rendition="#r">Notburga
+                        <surname>F.</surname></hi></p><p><add hand="arzt">d. 29<hi rendition="#i"> Dcbr</hi> 1858- 3. Brief.<lb break="yes"/>kan̄ jetzt
+                    jederzeit abgeholt<lb break="yes"/>werden. </add></p><p><hi rendition="#c">An<lb break="yes"/>Hochgeerthen Wollgebo<unclear/><lb break="yes"/>Hern Hern
+                    Direktorr</hi></p>
+</body>
+</text>
+</TEI>
