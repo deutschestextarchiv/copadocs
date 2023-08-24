@@ -158,7 +158,7 @@
               <xsl:value-of select="t:birth/@when"/>
             </xsl:when>
             <xsl:otherwise>
-              <xsl:value-of select="normalize-space(concat(t:birth/@notBefore, '/', t:birth/@notAfter)/>))"/>
+              <xsl:value-of select="normalize-space(concat(t:birth/@notBefore, '/', t:birth/@notAfter)))"/>
             </xsl:otherwise>
           </xsl:choose></td>
       </tr>
