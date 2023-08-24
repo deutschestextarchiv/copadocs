@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb694v15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>694</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Tochter: Sophie <surname>V.</surname></persName>
+<date type="sent" when="1873-06-17">17.06.1873</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Verwaltung: k. A. </persName>
+<settlement type="sent">Ichenhausen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb694v">
+<persName>
+<forename>Jakob</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1811"/>
+<death when="1873-08-30"/>
+<occupation>Melber</occupation>
+<residence><geo decls="#WGS">48.3712746 10.3071082</geo>Ichenhausen, Günzburg</residence>
+<faith>jüdisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Wirt</p>
+<p>Anstalt: <date from="1866-04-08" to="1873-08-30">1866-73</date></p>
+<p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 1, po: 1, ap: 2, ao: 11</p>
+</state>
+<trait><p>Wahnsinn, Geistesstörung, [Gewalttätigkeit] (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="tochter"/>
+<handNote medium="pencil" scope="minor" scribe="unbekannt"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schickt dem Patienten Kaffeebrot, Wurst und Tabak.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb694v15.JPG" xml:id="image_030"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_030"/>
+<opener>
+<salute><hi rendition="#r"><hi rendition="#i">An die Verehrliche
+                        Verwaltung</hi></hi></salute>
+<dateline><hi rendition="#r">Ichenhausen den 17 Iuni <hi rendition="#u">187</hi>3.</hi></dateline>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#c"><hi rendition="#u">12</hi></hi></add></add></p>
+<p>Übersende anbei etwas Kaffebrod,<lb break="yes"/>Würst, &amp; Tabak, &amp;
+                ersuche Sie<lb break="yes"/>freundlichst dies, meinen l. Vater<lb break="yes"/>zu
+                übergeben.,  </p><p>Durch herrn <surname>S.</surname> brachte in<lb break="yes"/>Erfahrung, daß es mit dem
+                Leiden<lb break="yes"/>bei meinen l. Vater <unclear reason="rubbing">etwas</unclear><lb break="yes"/>besser geht, &amp; will daher hoffen dies<lb break="yes"/>in bälde
+                von Ihnen selbst zu erfahren.</p><p><seg ana="#salute"><hi rendition="#r">Es zeichnet sich mit <hi rendition="#u">Aller</hi></hi><lb break="yes"/><hi rendition="#c">Hochachtung</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#i">Sophie
+                                </hi><surname><hi rendition="#i">V.</hi></surname></seg></hi></p><p><add place="bottom">Porto 3 xr<lb break="yes"/>Vorm. das Paquet war schlecht verpack und<lb break="yes"/>wurde vom Bahnamt Augsburg frisch<lb break="yes"/>gepack,
+                    wofür 3 xr. Nachnahme erhoben<lb break="yes"/>wurden. </add></p>
+</body>
+</text>
+</TEI>

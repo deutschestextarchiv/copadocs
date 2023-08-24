@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb694v06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>694</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: H. R. <surname>V.</surname></persName>
+<date type="sent" when="1866-03-08">08.03.1866</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Verwaltung: k. A. </persName>
+<settlement type="sent">Ichenhausen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb694v">
+<persName>
+<forename>Jakob</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1811"/>
+<death when="1873-08-30"/>
+<occupation>Melber</occupation>
+<residence><geo decls="#WGS">48.3712746 10.3071082</geo>Ichenhausen, Günzburg</residence>
+<faith>jüdisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Wirt</p>
+<p>Anstalt: <date from="1866-04-08" to="1873-08-30">1866-73</date></p>
+<p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 1, po: 1, ap: 2, ao: 11</p>
+</state>
+<trait><p>Wahnsinn, Geistesstörung, [Gewalttätigkeit] (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Da Herr V. das Leben seiner Familie gefährde, werde sein Bruder zunächst zur Polizei gehen. 
+                    Rechne jedoch damit, dass er in die Anstalt verbracht werden müsse. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb694v06a.JPG" xml:id="image_016"/>
+<graphic mimeType="image/jpeg" url="kfb694v06b.JPG" xml:id="image_017"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_016"/>
+<opener>
+<salute><hi rendition="#c"><hi rendition="#i">Konigl. Verwaltung der
+                                <w>Kreis-Irren Anstalt</w> für </hi><lb break="yes"/><hi rendition="#i">Schwaben &amp; Neuburg in Irsee</hi>.</hi></salute>
+<dateline><hi rendition="#r"><hi rendition="#i">Jchenhausen</hi> den 8<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+<hi rendition="#i">Maerz</hi>
+<hi rendition="#u">1866</hi></hi></dateline>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#r"><hi rendition="#i">pr</hi>. 9
+                            Maerz 1866.<lb break="yes"/><hi rendition="#i">E N</hi>
+                    1333</hi></add></add></p>
+<p><hi rendition="#r">Der <hi rendition="#i">M</hi>elber Jakob
+                        <surname>V.</surname> von hier zeigt schon</hi><lb break="yes"/>einige Jahre Spuren der Geisteskrankheit, und<lb break="yes"/>nachdem dieser seinen ganzes Vermögen durch<lb break="yes"/>solche Spekulationen
+                verloren hat, zeigt er<lb break="yes"/>sich nunmehr gegen seine Frau und Kin<lb break="no"/>der so gefährlich, daß das Aeußerste zu befürchten<lb break="yes"/>steht. </p><p><hi rendition="#r">Als Bruder habe ich also demnächst Sorge zu tra</hi><lb break="no"/>gen, daß
+                diesem vorgebeugt w<del>e</del>ird<del>e</del>, werde mich<lb break="yes"/>demnach
+                in nächster Zeit mit der k.<hi rendition="#i"> Districts-Poli</hi><lb break="no"/><hi rendition="#i">zei-Behörde</hi> darüber in Benehmen setzen, &amp;<lb break="yes"/>wird wohl kein anderer Ausweg bleiben,<lb break="yes"/>als ihn in der k.
+                Kreis-Jrren-Anstalt unterzu<lb break="no"/>bringen zu suchen. </p><p><hi rendition="#r">Da durch den kranken selbst die Familie</hi><lb break="yes"/>ganz <w>herunter gekom̄en</w> ist, so wird für ihn<lb break="yes"/>nur die letzte Klasse ermöglicht werden, und<lb break="yes"/>bitte
+                gehorsamst zu berichten was für ihn in<lb break="yes"/>der Anstalt erforderlich
+                ist, damit die Nebenreich<lb break="no"/>nisse auf das Geringste ermäßigt werden
+                    kön̄en.</p><p><hi rendition="#r">Unter der Vorspiegelung, es stehe in Kaufbeuer<unclear/><lb break="yes"/></hi>ein <w>Quantum Haber</w> zum Verkaufe kön̄te er leich<unclear/><lb break="yes"/>dahin gebracht werden; wie es sich aber von dort na<unclear/>
+<pb facs="#image_017"/><hi rendition="#r">Jrsee verhalten wird, kan̄ ich nicht
+                    voraussagen, </hi><lb break="yes"/>bitte daher um gütigsten Rath darüber, den̄ ich selbst<lb break="yes"/>kan̄ nicht mit ihm <add place="above">reisen</add>, weil er
+                mich durchaus in seiner<lb break="yes"/>Nähe nicht dultet.</p><p><hi rendition="#r">Einer gefälligen Antwort entgegen </hi><lb break="no"/>sehend <seg ana="salute">geharret in
+                aller Hochachtung &amp; Verehrung<lb break="yes"/><hi rendition="#c">Einer konigl
+                    Verwaltung der <del>k</del>K. <w>Kreis<lb break="no"/>Jrren-Anstalt</w> für Schwaben &amp; Neuburg<lb break="yes"/>gehorsamster</hi></seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">H. R.
+                            <surname>V.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

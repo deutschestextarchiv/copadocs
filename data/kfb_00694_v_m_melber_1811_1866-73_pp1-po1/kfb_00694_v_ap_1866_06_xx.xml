@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb694v03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>694</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Tochter: Helene</persName>
+<date type="sent" when="1866-06">xx.06.1866</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Vater: Jakob <surname>V.</surname></persName>
+<settlement type="sent">Ichenhausen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb694v">
+<persName>
+<forename>Jakob</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1811"/>
+<death when="1873-08-30"/>
+<occupation>Melber</occupation>
+<residence><geo decls="#WGS">48.3712746 10.3071082</geo>Ichenhausen, Günzburg</residence>
+<faith>jüdisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Wirt</p>
+<p>Anstalt: <date from="1866-04-08" to="1873-08-30">1866-73</date></p>
+<p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 1, po: 1, ap: 2, ao: 11</p>
+</state>
+<trait><p>Wahnsinn, Geistesstörung, [Gewalttätigkeit] (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="tochter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erzählt, dass sie mit ihrer Arbeit und ihrem Verdienst sehr zufrieden sei. 
+                    Freut sich über die Briefe des Patienten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb694v03.JPG" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_010"/>
+<opener>
+<dateline><hi rendition="#r">Ichenhausen den <space/> Juni 1866</hi></dateline>
+<salute><hi rendition="#c">Lieber Vater!</hi></salute>
+</opener>
+<p>Wie sehr mich deine l Briefe im̄er<lb break="yes"/>freuen kanst du dir denken
+                besonders<lb break="yes"/>dein gutes Wohlsein daraus zu
+                <del><unclear/></del>entnehmen<lb break="yes"/>du must dich halt in Gottes nahmen<lb break="yes"/>noch ein wenich Gedulden bis die sache<lb break="yes"/>vollens
+                im Reinen ist, dan̄ kom̄t so bald<lb break="yes"/>wie möglich
+                    eine<del>r</del>s hinauf u holt dich.<lb break="yes"/>was meinerseits anbelangt
+                kan ich dir<lb break="yes"/>Gottlob das beste versichern ich bin sehr<lb break="yes"/><del>G</del>gern in minen Dinst u bin zufrieden<lb break="yes"/>mit meine verdinst es tragt mir m<del><unclear>i</unclear></del>ehr als<lb break="yes"/>ich ausgemacht habe, ich habe schon über<lb break="yes"/>5 fl
+                bekom̄en wo kein er dafon ausge<del><unclear/></del>macht<lb break="yes"/>ist, ich bin so gerne da wie ich b<del><unclear>a</unclear></del>eim<lb break="yes"/><surname>K.</surname> gewesen bin, <seg ana="#salute">Es
+                    schließet mit<lb break="yes"/>den Wunsche wohl zu leben u
+                            <del><unclear>g</unclear></del>recht bald<lb break="yes"/>wieder mit
+                    einen guten Brief erfreut zu<lb break="yes"/>werden <del>deine</del><lb break="yes"/><hi rendition="#c">Deine treue
+                        <del><unclear>H</unclear></del>Tochter</hi></seg><lb break="yes"/><hi rendition="#c"><seg ana="#signed">Helene</seg></hi>
+</p>
+</body>
+</text>
+</TEI>

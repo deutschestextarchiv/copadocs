@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb694v10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>694</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Tochter: Emilie <surname>V.</surname></persName>
+<date type="sent" when="1873-04-28">28.04.1873</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Verwaltung: k. A. </persName>
+<settlement type="sent">Ichenhausen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb694v">
+<persName>
+<forename>Jakob</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1811"/>
+<death when="1873-08-30"/>
+<occupation>Melber</occupation>
+<residence><geo decls="#WGS">48.3712746 10.3071082</geo>Ichenhausen, Günzburg</residence>
+<faith>jüdisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Wirt</p>
+<p>Anstalt: <date from="1866-04-08" to="1873-08-30">1866-73</date></p>
+<p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 1, po: 1, ap: 2, ao: 11</p>
+</state>
+<trait><p>Wahnsinn, Geistesstörung, [Gewalttätigkeit] (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="tochter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Erkundigt sich nach dem Befinden des Patienten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb694v10.JPG" xml:id="image_023"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_023"/>
+<opener>
+<salute><hi rendition="#r">An die Königl Verwaltung<lb break="yes"/>Irsee</hi></salute>
+<dateline><hi rendition="#r">Ichenhausen den 28.4.73</hi></dateline>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#u">10</hi></add></add></p>
+<p>Ich möchte Sie Freundlichst bitten<lb break="yes"/>über das befinden meines <add place="above">l</add> Vaters<lb break="yes"/>Nachricht zu ertheilen  </p><p><hi rendition="#c"><seg ana="#salute">Es Zeichnet mit aller<lb break="yes"/>Hochachtung</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Emilie <surname>V.</surname></seg></hi></p><p><add hand="arzt"><hi rendition="#i">Sonntag</hi>. 30/4.74<lb break="yes"/><hi rendition="#i">ad
+                        acta </hi><surname><hi rendition="#i">V.</hi></surname><lb break="yes"/><space/>
+<unclear>DU.</unclear></add></p>
+</body>
+</text>
+</TEI>

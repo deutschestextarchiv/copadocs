@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb694v09" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>694</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Tochter: Emilie <surname>V.</surname></persName>
+<date type="sent" when="1873-03-17">17.03.1873</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Verwaltung: k. A. </persName>
+<settlement type="sent">Ichenhausen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb694v">
+<persName>
+<forename>Jakob</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1811"/>
+<death when="1873-08-30"/>
+<occupation>Melber</occupation>
+<residence><geo decls="#WGS">48.3712746 10.3071082</geo>Ichenhausen, Günzburg</residence>
+<faith>jüdisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Wirt</p>
+<p>Anstalt: <date from="1866-04-08" to="1873-08-30">1866-73</date></p>
+<p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 1, po: 1, ap: 2, ao: 11</p>
+</state>
+<trait><p>Wahnsinn, Geistesstörung, [Gewalttätigkeit] (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="tochter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schickt ihrem Vater verschiedene Dinge zu (aufgelistet) und erkundigt sich nach dessen Befinden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb694v09.JPG" xml:id="image_022"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_022"/>
+<opener>
+<salute><hi rendition="#r">An die Vererliche Verwaltung</hi></salute>
+<dateline><hi rendition="#c">Ichenhausen den 17.3.73</hi></dateline>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#c">5/</hi></add></add></p><p><add hand="arzt"><add place="top"><hi rendition="#c"><hi rendition="#i">praes</hi>. 18 <hi rendition="#i">Mrz N</hi><hi rendition="#sup"><hi rendition="#i">o</hi></hi> 958.</hi></add></add>
+</p><p>Beifolgent sende die Efekten vir<lb break="yes"/>meinen Vater, ware mir sehr Er<lb break="no"/>wünscht Sie mit der bitte belästigen<lb break="yes"/>zu dürfen, mit der
+                    Empfangsan<lb break="no"/>zeige zu bemerken wie sich mein<lb break="yes"/>l.
+                Vater befindet &amp; überhaupt verhält,<lb break="yes"/>Erlaube mir sogleich etwas
+                Marken<lb break="yes"/>beizulegen damit Sie uns die<lb break="yes"/>Briefe frco
+                zusenden könen.</p><p><hi rendition="#c"><seg ana="#salute">Es Zeichnet mit Aller<lb break="yes"/>Hochachtung</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed">Emilie <surname>V.</surname></seg></hi></p><p><add hand="arzt">anhergelangt:<lb break="yes"/>4 Hemden <space/> 1 Chemisett<lb break="yes"/>1 Unterhose <space/>
+                2 Halsbinden<lb break="yes"/>5 pr Socken <space/> 1 Rock<lb break="yes"/>2 Hosen
+                <space/> 2 Hauben<lb break="yes"/>2 Westen <space/> 5 Sacktücher<lb break="yes"/><hi rendition="#c">Tabak u</hi><lb break="yes"/>Dreißig Kreuzer in Marken<lb break="yes"/><add hand="arzt"><hi rendition="#c"><hi rendition="#i">eodem</hi></hi><lb break="yes"/><hi rendition="#r">Empfangsanzeige<lb break="yes"/><unclear>Wdm</unclear></hi></add></add></p><p><add hand="arzt"><add place="margin"><unclear>N</unclear></add> Der Zustand des Kranken ist<lb break="yes"/>noch unverändert<lb break="yes"/><hi rendition="#r"><unclear/>.</hi>
+</add></p>
+</body>
+</text>
+</TEI>

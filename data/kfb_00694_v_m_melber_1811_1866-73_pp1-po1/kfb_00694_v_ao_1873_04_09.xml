@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb694v13" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>694</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Tochter: Sophie <surname>V.</surname></persName>
+<date type="sent" when="1873-04-09">09.04.1873</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Verwaltung: k. A. </persName>
+<settlement type="sent">Ichenhausen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb694v">
+<persName>
+<forename>Jakob</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1811"/>
+<death when="1873-08-30"/>
+<occupation>Melber</occupation>
+<residence><geo decls="#WGS">48.3712746 10.3071082</geo>Ichenhausen, Günzburg</residence>
+<faith>jüdisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Wirt</p>
+<p>Anstalt: <date from="1866-04-08" to="1873-08-30">1866-73</date></p>
+<p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 1, po: 1, ap: 2, ao: 11</p>
+</state>
+<trait><p>Wahnsinn, Geistesstörung, [Gewalttätigkeit] (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="tochter"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Schickt dem Patienten einige Dinge zu. Fragt nach dem Erhalt der Briefmarken, um die 
+                    Briefe von der Anstalt zu bezahlen und erkundigt sich nach dem Befinden des Patienten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb694v13a.JPG" xml:id="image_027"/>
+<graphic mimeType="image/jpeg" url="kfb694v13b.JPG" xml:id="image_028"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_027"/>
+<opener>
+<salute><hi rendition="#r">A<hi rendition="#i">n die Verehrliche Verwaltung</hi>
+                            in<hi rendition="#i"> Irrsse.</hi></hi></salute>
+<dateline><hi rendition="#c">Ichenhausen den 9.4.73</hi></dateline>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#c">9.</hi></add></add></p><p><add hand="arzt"><hi rendition="#r"><hi rendition="#i">pr</hi>. 10 Apri. 73 <hi rendition="#i">N</hi><hi rendition="#sup"><hi rendition="#i">o</hi></hi>
+                    1177</hi></add></p>
+<p>Erlaube mir Sie mit der Bitte zu beläßtigen<lb break="yes"/>meinen l. Vater
+                inliegendes gereichtes<lb break="yes"/>Fleisch &amp; Osternbrod zu übergeben,<lb break="yes"/>sowie auch noch ein <hi rendition="#u">paar</hi> Stiefel<lb break="yes"/><hi rendition="#u">&amp; Schuhe</hi> die er wahrscheinlich noch
+                benöthigt.<lb break="yes"/>Bei unserer jüngsten Absendung mit den<lb break="yes"/><hi rendition="#i">Evecten</hi> sendeten wir für 30 xr Briefmarken<lb break="yes"/>mit der Bitte an uns die Briefe <hi rendition="#u"><hi rendition="#i">frco</hi></hi> zu senden,<lb break="yes"/>welches bei erhalt
+                des letzern Briefes jedoch<lb break="yes"/>nicht der Fall war, sind selbe vieleicht<lb break="yes"/>verloren gegangen?</p><p>Ich ersuche Sie schließlich recht freundlichst<lb break="yes"/>uns recht bald Bericht über das
+                Befinden<lb break="yes"/>meines L. Vaters Nachricht zu geben.</p><p><hi rendition="#c"><seg ana="#salute">Es zeichnet sich mit Aller<lb break="yes"/>Hochachtung</seg></hi><lb break="yes"/><hi rendition="#c"><seg ana="#signed"><hi rendition="#i">S.
+                                </hi><surname><hi rendition="#i">V.</hi></surname>.</seg></hi></p><p><add hand="arzt"><add place="bottom"><hi rendition="#i">eodem </hi><lb break="yes"/></add>Mark
+                    Empfangsanzeige<lb break="yes"/>mit dem Bemerken, daß die<lb break="yes"/>Marken nicht verloren<lb break="yes"/>gingen, deren Benutzung aber vergessen
+                    wurde<lb break="yes"/><unclear>fact </unclear></add></p>
+<pb facs="#image_028"/>
+<p><add hand="arzt">Jn dem Zustand des Kranken ist<lb break="yes"/>noch keine
+                    Besserung. Patient<lb break="yes"/>bisweilen noch recht erregt, glaubt<lb break="yes"/>ungeheuer viel Geld zu haben, Fabriken<lb break="yes"/>zu
+                    bestizen, mit dem Kaiser von Rußland<lb break="yes"/>sehr vertraut zu sein <hi rendition="#i">etc</hi>: körperlich<lb break="yes"/>ist er wohl auf.
+                    DU</add>
+</p><p><add hand="arzt"><hi rendition="#r">Am 15/IV 73</hi><lb break="yes"/><hi rendition="#i">N</hi><hi rendition="#sup"><hi rendition="#i">o</hi></hi> 1229<lb break="yes"/>Herr
+                        <surname>V.</surname> wünscht noch mehr Fleisch<lb break="yes"/>von
+                    Hause zu erhalten, u da derselbe z. Z.<lb break="yes"/>von dem hier ihm zu
+                    reichenden Fleische nichts<lb break="yes"/>genießt, ersucht man, ihm solches zu
+                    senden<lb break="yes"/><unclear>fact DU.</unclear></add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb694v07" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Regina Meyer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>694</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: H. R. <surname>V.</surname></persName>
+<date type="sent" when="1866-04-08">08.04.1866</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Verwaltung: k. A. </persName>
+<settlement type="sent">Ichenhausen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb694v">
+<persName>
+<forename>Jakob</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1811"/>
+<death when="1873-08-30"/>
+<occupation>Melber</occupation>
+<residence><geo decls="#WGS">48.3712746 10.3071082</geo>Ichenhausen, Günzburg</residence>
+<faith>jüdisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Wirt</p>
+<p>Anstalt: <date from="1866-04-08" to="1873-08-30">1866-73</date></p>
+<p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 1, po: 1, ap: 2, ao: 11</p>
+</state>
+<trait><p>Wahnsinn, Geistesstörung, [Gewalttätigkeit] (1866)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="bruder"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Informiert darüber, dass der Patient mit Begleitung in der Anstalt erscheine und sowohl Kleidung wie 
+                    auch der Betrag zur Unterbringung mitgegeben wurde. 
+                    Zudem habe der Patient selbst noch Geld bei sich, das ihm abgenommen werden soll.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb694v07.JPG" xml:id="image_018"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_018"/>
+<opener>
+<salute><hi rendition="#c"><hi rendition="#i">Königl. Verwaltung der </hi><w><hi rendition="#i">Kreis-Irren Anstalt</hi></w><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">Irsee </hi></hi></salute>
+<dateline><hi rendition="#r"><hi rendition="#i">Jchenhausen</hi> den 8<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+<hi rendition="#i">Apr</hi>.<lb break="yes"/>1866</hi></dateline>
+</opener>
+<p><add hand="arzt"><add place="top"><hi rendition="#c">11</hi></add></add></p>
+<p><add hand="arzt"><add place="top"><hi rendition="#r"><hi rendition="#i">prs. am </hi>8
+                                <hi rendition="#i">April</hi> 1866<lb break="yes"/><hi rendition="#i">ad acta</hi>
+<hi rendition="#sup"><hi rendition="#i">E N</hi> 1582</hi>
+</hi></add></add></p><p><add hand="arzt"><add place="margin"><unclear/><unclear>richt</unclear> des hier berührten<lb break="yes"/><unclear/>des siehe das Aufnahms<lb break="no"/>Protokoll<lb break="yes"/><unclear>W</unclear></add></add></p>
+<p><hi rendition="#r">Durch Herrn <hi rendition="#i">Bader</hi>
+<surname><hi rendition="#i">B.</hi></surname> dahier<lb break="yes"/></hi>erfolgt, gemäß Anzeige, der <hi rendition="#i">Transport</hi> des Gei<lb break="no"/>steskranken <add place="above"><hi rendition="#i">Jacob
+                            </hi><surname><hi rendition="#i">V.</hi></surname></add>von hier, und
+                finden sich in<lb break="yes"/>dessen Begleitung auch nachträglich mehrere<lb break="yes"/>Kleidungsstücke pp zu dessen Bequemlichkeit,<lb break="yes"/>bitte
+                dieselbe, gleich den schon früher ange<lb break="no"/>sandten im Verzeichnisse
+                aufzunehmen.<lb break="yes"/>Den vierteljährigen Verpflegungskostenbe<lb break="no"/>trag <hi rendition="#i">pr</hi><unclear><hi rendition="#i">o</hi></unclear><hi rendition="#i"> </hi><unclear>4</unclear>0 f. 57 wird eine k. Verwaltung<lb break="yes"/>aus dem <hi rendition="#i">Paq</hi>uete mit den erforderlichen Effecten<lb break="yes"/>ebenfalls entnom̄en haben.</p><p><hi rendition="#r"><surname>V.</surname> führt noch Geld und zwar</hi><lb break="yes"/>einen doppelten Friedrichsd d'or und Münze bei<lb break="yes"/>sich, und bitte ergebenst dieses demselben ab<lb break="no"/>zunehmen, den Betrag
+                auf den Transportschein<lb break="yes"/>zu bemerken und dem Begleiter Herrn
+                    <surname>B.</surname><lb break="yes"/>zu übergeben.</p><p><seg ana="#salute"><hi rendition="#c">Mit aller Achtung und Verehrung<lb break="yes"/>Euer k.
+                        Verwaltung der Kreis-Jrren-Anstalt</hi><lb break="yes"/><hi rendition="#r">ganz ergebenster</hi></seg><lb break="yes"/><hi rendition="#r"><seg ana="#signed">H. R.
+                            <surname>V.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>
