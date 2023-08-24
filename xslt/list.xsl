@@ -60,19 +60,7 @@
     <xsl:text>&#x9;</xsl:text>
 
     <!-- birth date -->
-    <xsl:choose>
-            </xsl:when>
-            <xsl:when test="birth[@cert='when']">
-              <xsl:value-of select="t:birth/@when"/>
-            </xsl:when>
-            <xsl:otherwise>
-              <!--<xsl:value-of select="t:birth/@notBefore"/>
-              <xsl:text>/</xsl:text>
-              <xsl:value-of select="t:birth/@notAfter"/>-->
-              <xsl:value-of select="normalize-space(concat(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:birth/@notBefore, ' ', /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:birth/@notAfter))"/>
-            </xsl:otherwise>
-          </xsl:choose>
-    <!--<xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:birth/@when)"/>-->
+    <xsl:value-of select="normalize-space(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:birth/@when)"/>
     <xsl:text>&#x9;</xsl:text>
 
     <!-- entry date -->
