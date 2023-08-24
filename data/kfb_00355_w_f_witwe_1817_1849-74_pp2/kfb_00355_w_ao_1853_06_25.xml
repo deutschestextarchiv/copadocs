@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="kfb74b01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0"> <!--Kenn-Nummer des Briefs:Ortskürzel&Aktennummer&Nachnamekürzel&Briefe durchnummerieren-->
+<TEI xml:id="kfb355w04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0"> <!--Kenn-Nummer des Briefs:Ortskürzel&Aktennummer&Nachnamekürzel&Briefe durchnummerieren-->
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>Patientenbrief</title>
 <editor>
 <name>Regina Meyer</name>
-<name>/</name>
+<name>Vera Schiller</name>
+<name>Markus Schiegg</name>
 </editor>
 </titleStmt>
 <publicationStmt>
@@ -42,14 +43,14 @@
 </persName>
 <birth when="1817-10-21"/>
 <death when="1874"/>
-<occupation>Witwe</occupation>
+<occupation>Eisenhändlerstochter</occupation>
 <residence><geo decls="#WGS">47.7267063 10.3168835</geo>Kempten</residence>
 <faith>protestantisch</faith>
 <state>
 <p>Familienstand: verheiratet, Witwe</p>
-<p>Eltern: k. A.</p>
+<p>Eltern: Eisenhändler</p>
 <p>Anstalt: <date from="1849" to="1874-01-15">1849–15.01.1874</date></p>
-<p>Brieftypen: pp</p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 2, ao: 2</p><p>Verpflegungsklasse: 3</p>
 </state>
 <trait><p>Fixe Idee, Geistesstörung mit Tollheit (1849)</p></trait>
 </person>
@@ -79,7 +80,7 @@
 <body>
 <pb facs="#image_007"/>
 <opener>
-<dateline><hi rendition="#r">Kem̄pten d<unclear><hi rendition="#sub">en</hi></unclear> 25<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+<dateline><hi rendition="#r">Kem̄pten d 25<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
 <hi rendition="#i">Juny</hi> 1853</hi></dateline>
 <salute><space/>Ewer Wohlgeboren</salute>
 </opener>
@@ -89,11 +90,11 @@
                 zimlich<lb break="yes"/><del><unclear>g</unclear></del>beßer geworden, so muß ich
                 also nun Jhren Wunsch<lb break="yes"/><add place="inline">zu</add> erfüllen,
                     <del>und</del> Sie hiermit aufs freundlichste ersuchen<lb break="yes"/>ihre
-                Sachen bis d<unclear><hi rendition="#sub">en</hi></unclear> 30<hi rendition="#sup"><hi rendition="#i"><hi rendition="#u">ten</hi></hi></hi> dies
+                Sachen bis d 30<hi rendition="#sup"><hi rendition="#i"><hi rendition="#u">ten</hi></hi></hi> dies
                     <w>zusam̄en zu richten</w>, da<lb break="yes"/>ich sie bis dahin abholen
                 werde, ist noch etwas au<del>z<unclear/></del>szu<lb break="no"/>gleichen, so werde
                 ich bey meiner <w>Ankunft</w><w>alles</w>
-<unclear>meiner</unclear><lb break="yes"/>bringen, </p><p><hi rendition="#r"><seg ana="#salute">zeichn<del>t</del>et mit vorzüglicher Hochachtung</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Joh Ulrich
+in reine<lb break="yes"/>bringen, </p><p><hi rendition="#r"><seg ana="#salute">zeichn<del>t</del>et mit vorzüglicher Hochachtung</seg><lb break="yes"/><seg ana="#signed"><hi rendition="#i">Joh Ulrich
                                 </hi><surname><hi rendition="#i">L.</hi></surname></seg><hi rendition="#i"> </hi><lb break="yes"/><space/>
 <hi rendition="#i">Privatier</hi></hi></p>
 <pb facs="#image_008"/>
