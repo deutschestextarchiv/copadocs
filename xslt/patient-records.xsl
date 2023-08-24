@@ -34,9 +34,10 @@
               <xsl:value-of select="t:birth/@when"/>
             </xsl:when>
             <xsl:otherwise>
-              <xsl:value-of select="t:birth/@notBefore"/>
+              <!--<xsl:value-of select="t:birth/@notBefore"/>
               <xsl:text>/</xsl:text>
-              <xsl:value-of select="t:birth/@notAfter"/>
+              <xsl:value-of select="t:birth/@notAfter"/>-->
+              <xsl:value-of select="normalize-space(concat(/t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:birth/@notBefore, ' ', /t:TEI/t:teiHeader/t:profileDesc/t:particDesc/t:person[1]/t:birth/@notAfter))"/>
             </xsl:otherwise>
           </xsl:choose>
     <xsl:text>&#x9;</xsl:text>
