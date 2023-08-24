@@ -150,7 +150,16 @@
       </tr>
       <tr>
         <th>geboren</th>
-        <td><xsl:value-of select="t:birth/@when"/></td>
+        <td>
+        <xsl:choose>
+            <xsl:when test="t:birth[@cert='unknown']">
+              <i>unbekannt</i>
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:value-of select="t:birth/@when"/>
+            </xsl:otherwise>
+          </xsl:choose>
+        </td>
       </tr>
       <tr>
         <th>gestorben</th>
