@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1483z11" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1483</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Michael <surname>Z.</surname></persName>
+<date notAfter="1911" notBefore="1906" type="sent">ca. 1906–11</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1483z">
+<persName>
+<forename>Michael</forename> <surname>Z.</surname></persName>
+<birth when="1887-03-17"/>
+<death when="1911-11-29"/>
+<occupation>Dienstknecht, Taglöhner, Bettler</occupation>
+<residence><geo decls="#WGS">47.7633615 10.376461</geo>Haldenwang, Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Taglöhner</p>
+<p>Anstalt: <date from="1906-02-28" to="1911-11-29">28.02.1906–29.11.1911</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 2, po: 11, so: 2</p>
+</state>
+<trait><p>[Halluzination] (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage> <handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet darum, einen von ihm verfassten Brief an den Bürgermeister seiner Heimatgemeinde zu schicken. 
+                    Er ist zwar der Meinung, dass er den Brief anständig geschrieben hat, entschuldigt sich aber für mögliche Fehler und seine Schrift.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1483z11a.jpg" xml:id="image_029"/>
+<graphic mimeType="image/jpeg" url="kfb1483z11b.jpg" xml:id="image_030"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_029"/>
+<opener>
+<salute>Hochgeehrter Herr Direktor!</salute>
+</opener>
+<p>
+<seg ana="#metaling">Möchte. Sie hiemit ersuchen,<lb break="yes"/>den geschriebenen
+                    Brief nach<lb break="yes"/>Ihren Gutachten abzuschiken<lb break="yes"/>an den
+                        Bürgermeister<lb break="yes"/>meiner Gemeinde in<lb break="yes"/>Haldenwang, Post dort<lb break="no"/>selbst. Da ich Ansicht bin<lb break="yes"/>den Brief a<del>ä</del>nständig ge<lb break="no"/>schrieben zu haben.
+                        Aller<pb break="no" facs="#image_030"/> dings <del>habe</del> kön̄en
+                        Sie<lb break="yes"/>manchen Fehler bemerk<lb break="no"/>en u. daß ich
+                    keine schöne<lb break="yes"/>Handschrift besitze möchten<lb break="yes"/>Sie
+                    mir nicht für übel<lb break="yes"/>nehmen da ich</seg></p>
+</body>
+</text>
+</TEI>

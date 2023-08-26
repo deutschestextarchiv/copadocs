@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1145l12" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1145</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ignaz <surname>L.</surname></persName>
+<date type="sent" when="1867-08-19">19.08.1867</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Sohn: Max <surname>L.</surname></persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1145l">
+<persName>
+<forename>Ignaz</forename> <surname>L.</surname></persName>
+<birth when="1820"/>
+<death when="1874"/>
+<occupation>Kreis-Kassa-Controlleur</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Hofmusikus und Musikleherer</p>
+<p>Anstalt: <date from="1866-10-12" to="1869-09-07">12.10.1866–07.09.1869</date></p><p>Verpflegungsklasse: 2</p>
+<p>Brieftypen: pp: 2, po: 16, ao: 1</p>
+</state>
+<trait><p>Hypochondrie (1865),  Trunksucht (1867)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage> <handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber bittet seinen Sohn, ihm dabei zu helfen, möglichst schnell aus der Anstalt entlassen zu werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1145l12a.jpg" xml:id="image_031"/>
+<graphic mimeType="image/jpeg" url="kfb1145l12b.jpg" xml:id="image_032"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_031"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Lieber <hi rendition="#i">Max</hi>!</hi>
+</salute>
+</opener>
+<p> Wenn das sich verwirklichen soll − was du − nach deinem<lb break="yes"/>Briefe − erhofft − so helfe schnell − daß ich fortkom̄e.<lb break="yes"/>Der Aufenthalt dahier ist kein <hi rendition="#i">Paradies</hi>.
+                Andererseits<lb break="yes"/>muß ich in eine Beschäftigung und ich habe meinen<lb break="yes"/>Plan − der sich später nicht mehr realisiren läßt.<lb break="yes"/>Ebenso für <hi rendition="#i">Marie</hi>. </p>
+<p>Dieses sind meine lezten Zeilen −<lb break="yes"/>Abholen kannst ja du mich
+                − wenn HE <hi rendition="#i"><surname>M.</surname></hi><lb break="yes"/>nicht will. </p>
+<p>An deinem <w>Geburts Tag</w> möchte ich zu Hause seyn.<lb break="yes"/>Alles
+                Gewonnene steht in Frage − dauert die Sache<lb break="yes"/>nur noch ein paar
+                Wochen.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Herzlichst</seg></hi><lb break="yes"/><hi rendition="#r"><hi rendition="#u"><unclear>dein</unclear>
+<seg ana="#signed">Vater </seg></hi></hi><lb break="yes"/><hi rendition="#u"><hi rendition="#i">Irsee</hi> d. 19/<hi rendition="#sub">8</hi>
+                    67</hi>
+</p>
+<pb facs="#image_032"/>
+<p><hi rendition="#c">Herrn </hi><lb break="yes"/><hi rendition="#i">Max <hi rendition="#u"><surname>L.</surname></hi></hi> Forst. <hi rendition="#i">Candidat</hi>.<lb break="yes"/>z. Z. <unclear>E. An.</unclear> q
+                Kreis. Kaßa <hi rendition="#i">Contr. <surname>L.</surname></hi><lb break="yes"/><hi rendition="#c"><hi rendition="#u">Wertachbrucker Thor
+                        </hi><lb break="yes"/>Regenbogen</hi><lb break="yes"/><hi rendition="#r"><hi rendition="#i"><hi rendition="#u">Augsburg</hi></hi>.</hi>
+</p>
+</body>
+</text>
+</TEI>

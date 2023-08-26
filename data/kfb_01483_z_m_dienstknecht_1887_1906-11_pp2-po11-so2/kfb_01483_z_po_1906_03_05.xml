@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1483z02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1483</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Michael <surname>Z.</surname></persName>
+<date type="sent" when="1906-03-05">05.03.1906</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1483z">
+<persName>
+<forename>Michael</forename> <surname>Z.</surname></persName>
+<birth when="1887-03-17"/>
+<death when="1911-11-29"/>
+<occupation>Dienstknecht, Taglöhner, Bettler</occupation>
+<residence><geo decls="#WGS">47.7633615 10.376461</geo>Haldenwang, Kempten</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Taglöhner</p>
+<p>Anstalt: <date from="1906-02-28" to="1911-11-29">28.02.1906–29.11.1911</date></p><p>Verpflegungsklasse: 3</p>
+<p>Brieftypen: pp: 2, po: 11, so: 2</p>
+</state>
+<trait><p>[Halluzination] (1906)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage> <handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Schreiber äußert Unverständnis darüber, dass er in der Anstalt ist, und gibt seinem Vater die Schuld daran. Dieser soll auch für die Unterbringung seiner
+                    Schwester in der Anstalt verantwortlich sein. Diese belastet den Schreiber sehr und er hofft, dass sie beide entlassen werden können.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1483z02a.jpg" xml:id="image_003"/>
+<graphic mimeType="image/jpeg" url="kfb1483z02b.jpg" xml:id="image_004"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_003"/>
+<opener>
+<salute><hi rendition="#u">Hochverehrter Herr Dierektor</hi></salute>
+<dateline><hi rendition="#u">(in königlicher Heil und Pflege<lb break="no"/>Anstalt bei Kaufbeuren!)</hi></dateline>
+</opener>
+<p>
+<add hand="arzt"><hi rendition="#i"><surname>Z.</surname></hi>. 5.III.06.</add><lb break="yes"/>Da Ich ich mir selbst erlaube<lb break="yes"/>An Sie zu schreiben
+                mit der<lb break="yes"/>Bitte mir freundlichst dieses<lb break="yes"/>Gesuch nicht
+                abzuschlagen; ins<lb break="no"/>besondere mir mit behi<del>f</del>lf<lb break="no"/>lich zu sein. Sie haben ja<lb break="yes"/>doch verlangt von mir zu wi<lb break="no"/>ssen <hi rendition="#u">und möchte von wissen<lb break="yes"/>lassen daß ich selbst nicht ver<lb break="no"/>stehen
+                    kan̄n werden man</hi><lb break="yes"/>mich hieher gelassen hat. <seg ana="#inst">Ins<lb break="no"/>besondere kan̄ ich überhaupts<lb break="yes"/>nicht begreifen das Recht erhält<lb break="yes"/>mich in ein
+                    Irrenhaus zu be<lb break="no"/>finden. und damit will ich<lb break="yes"/>dem
+                        <hi rendition="#u">Vater ganz einzig die Schuld<lb break="yes"/>aufweisen.</hi></seg> Ich möchte noch be<lb break="no"/><pb break="no" facs="#image_004"/> sonders betonen was für eine<lb break="yes"/>Unglückslast <del>au</del> mir aufgelegt<lb break="yes"/>worden ist. Von inigem
+                    <seg ana="#med">Seelen<lb break="no"/>schmerz</seg>
+                geächrt habe<del>n</del> ich erfahren,<lb break="yes"/>daß meine liebe Schwester
+                    auf<lb break="yes"/>Schuld meines Vaters hier unter<lb break="no"/>gebracht
+                worden ist. <hi hand="arzt" rendition="#u">Auf baldige<lb break="yes"/>Entlassung möchte ich funkionieren</hi><lb break="yes"/>daß ich und meine
+                Schwest so Gott<lb break="yes"/>will entlassen werden können<lb break="yes"/>möchte. Wen̄ erlaubt werden kann<lb break="yes"/>werde ich auch meine
+                    <add>Schwester</add> den allgenmi<lb break="no"/>nen Verhältnissen in
+                Ken̄tniß per<lb break="yes"/>Schrift setzen lassen. In geduld<lb break="no"/>igster Verharrung auf baldigste<lb break="yes"/>vollständige Genesung meiner<lb break="yes"/>selbst und mein Schwester <seg ana="#salute">grüße ich<lb break="yes"/><del>Alb</del> Alle jene die zu diesen Gunsten<lb break="yes"/>urteilen u. danke
+                        Ihnen <w>aufs</w><w>herzlichste</w></seg><lb break="yes"/><seg ana="#signed"><hi rendition="#r">Michael <surname>Z.</surname></hi></seg></p>
+</body>
+</text>
+</TEI>

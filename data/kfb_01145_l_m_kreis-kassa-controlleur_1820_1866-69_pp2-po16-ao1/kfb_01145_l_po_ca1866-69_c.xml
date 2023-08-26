@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb1145l17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Katharina Gunkler</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>1145</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Ignaz <surname>L.</surname></persName>
+<date notAfter="1869" notBefore="1866" type="sent">ca. 1866–69</date>
+<date type="received">k. A.</date>
+<persName type="addressee">k. A.</persName>
+<settlement type="sent">Irsee</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="kfb1145l">
+<persName>
+<forename>Ignaz</forename> <surname>L.</surname></persName>
+<birth when="1820"/>
+<death when="1874"/>
+<occupation>Kreis-Kassa-Controlleur</occupation>
+<residence><geo decls="#WGS">48.3668041 10.8986971</geo>Augsburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Hofmusikus und Musikleherer</p>
+<p>Anstalt: <date from="1866-10-12" to="1869-09-07">12.10.1866–07.09.1869</date></p><p>Verpflegungsklasse: 2</p>
+<p>Brieftypen: pp: 2, po: 16, ao: 1</p>
+</state>
+<trait><p>Hypochondrie (1865),  Trunksucht (1867)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage> <handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Notizen über seine Krankengeschichte und Organisatorisches
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb1145l17.jpg" xml:id="image_042"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_042"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><unclear>Nach</unclear> einer − im allgem Krankenhauße u <hi rendition="#i">München</hi> durchgemachte schwere<lb break="yes"/><del>und schmerz</del>
+                Erkrankung <unclear>Mitt, Auge als Kranalgrant</unclear> für meine wege<lb break="yes"/>kommen − wurde <del>war</del> − wußten es wäre nach 4
+                tägiger Berufung − mit<lb break="yes"/>Hilfe des <hi rendition="#i">Policey</hi>
+<unclear>geluge</unclear> in meiner behausung aufgenommen zu<lb break="yes"/>werden
+                einige Tag <unclear>wünsche von</unclear> HE <unclear>Curssairten</unclear>
+<hi rendition="#i"><surname>M.</surname></hi> die<lb break="yes"/>Eröffung daß er
+                als <hi rendition="#i">Curator</hi> für mich aufgestellt sey −<lb break="yes"/>Aus von gegeber Andeutung konnte ich schließen − daß d Anwesen von<lb break="yes"/>Geistes Krankheit die Ursache dieser Maaßregel sey von − um
+                daß. </p>
+</body>
+</text>
+</TEI>
