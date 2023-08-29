@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb846h20" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability>
+    <licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+        <p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+    </licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>846</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Angehöriger: Georg <surname>R.</surname></persName>
+<date type="sent" when="1855-06-25">25.06.1855</date>
+    <date type="received" when="1855-06-28">28.06.1855</date>
+<persName type="addressee">Verwaltung: k. A.</persName>
+<settlement type="sent">Rennertshofen</settlement>
+<settlement type="received"></settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb846h">
+<persName>
+<forename>Karolina</forename>
+<surname>H.</surname>
+</persName>
+    <birth when="1816-11-30"/>
+<death when="1888"/>
+<occupation>Schäfflerstochter</occupation>
+<residence><geo decls="#WGS">48.7564558 11.0494652</geo>Rennertshofen, Monheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schäffler</p>
+    <p>Anstalt: <date from="1855-04-25" to="1888-06-07">25.04.1855–07.06.1888</date></p>
+    <p>Verpflegungsklasse: 3</p>
+    <p>Brieftypen: pp: 4, po: 2, ap: 1, ao: 15</p>
+</state>
+<trait><p>Geisteskrankheit, Verrücktheit, geistig-körperliche Müdigkeit (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+    <handNote medium="ink" scope="major" scribe="angehöriger"/>
+    <handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>Sendet Quartalsgeld und bittet um Meldung, sollte etwas fehlen.</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+
+    <graphic xml:id="image_043" url="kfb846h20a.jpg" mimeType="image/jpeg"/>
+
+    </facsimile>
+<text>
+<body>
+<pb facs="#image_043"/>
+<opener>
+    <dateline><hi rendition="#r">Ren&#x0304;ertshofen, den 25<hi rendition="#sup"><hi rendition="#u"
+                                >t</hi></hi> Juni 1855</hi><lb break="yes"/><hi rendition="#r"><add hand="arzt"><hi rendition="#i">praes 28
+                                Juny 1855<lb break="yes"/>476 &#8722;<lb break="yes"/>E
+                                    <del>N</del><hi rendition="#sup">o</hi> 1751
+                    </hi></add></hi></dateline>
+    <salute><space/> Einer Hoch-Geertesten Verwaltung Irsee!</salute>
+</opener>
+    <p>Hier übersende ich Unterzeichneter das erforderliche<lb break="yes"/><w>Quartal Geld</w>,
+                für die Karolina <surname>H.</surname>, welches<lb break="yes"/>ich
+                nach der Rechnung des vorigen so finde, sollte<lb break="yes"/>etwas daran fellen,
+                so bitte ich Unterthänigst an der<lb break="yes"/>Quittung es zu bemerken dan wird
+                es sogleich nach<lb break="yes"/>geschikt werden, oder das künftige Quartal darauf<lb break="no"/>bezahlt wir bitten auch zu gleicher Zeit ein<lb break="yes"
+                />wenig Nachricht von der Karolina.</p>
+    <p>Mit Aller Hoch-Achtung untergebner.<lb break="yes"/><hi rendition="#r"><seg ana="signed">Georg <surname>R.</surname> Maurermeister</seg></hi>.</p>
+    <p><add hand="arzt"><hi rendition="#r"><hi rendition="#u">Eodem</hi><lb break="yes"/>fiat
+                        Quittung ueber<lb break="yes"/>fl 36. 30 xr pro HG.<lb break="yes"
+                        /><unclear/> u. 18 x D <unclear/> noch Geld mit<lb break="yes"/>fact dem
+                        bemerken dass der Q. Btg um<lb break="yes"/><hi rendition="#u"
+                            >Vorlage.</hi>
+                        <unclear>L. 36.10. noch iffort.<lb break="yes"/>M <lb break="yes"/>Obige
+                            1840 ad Depositem<lb break="yes"/>genom&#x0304;en</unclear><lb break="yes"/>Eodem<lb break="yes"/><seg ana="#signed">MM</seg></hi></add></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb846h19" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+    <name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+    <availability>
+        <licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+            <p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+        </licence>
+    </availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>846</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Dr. <surname>H.</surname></persName>
+    <date type="sent" when="1855-09-25">25.09.1855</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Director: k. A.</persName>
+<settlement type="sent">Wengen</settlement>
+<settlement type="received"></settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb846h">
+<persName>
+<forename>Karolina</forename>
+<surname>H.</surname>
+</persName>
+    <birth when="1816-11-30"/>
+<death when="1888"/>
+<occupation>Schäfflerstochter</occupation>
+<residence><geo decls="#WGS">48.7564558 11.0494652</geo>Rennertshofen, Monheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schäffler</p>
+    <p>Anstalt: <date from="1855-04-25" to="1888-06-07">25.04.1855–07.06.1888</date></p>
+    <p>Verpflegungsklasse: 3</p>
+    <p>Brieftypen: pp: 4, po: 2, ap: 1, ao: 15</p>
+</state>
+<trait><p>Geisteskrankheit, Verrücktheit, geistig-körperliche Müdigkeit (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+    <language ident="de"/>
+</langUsage>
+<handNotes>
+    <handNote medium="ink" scope="major" scribe="bruder"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>Erkundigt sich nach der Patientin und nach deren Prognose. Sollte letztere negativ sein, so möchte er zur Entlastung seiner Eltern aus finanziellen Gründen einen Freiplatz für die Patientin erwirken.</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+    <graphic xml:id="image_041" url="kfb846h19a.jpg" mimeType="image/jpeg"/>
+    <graphic xml:id="image_042" url="kfb846h19b.jpg" mimeType="image/jpeg"/>
+    </facsimile>
+<text>
+<body>
+<pb facs="#image_041"/>
+<opener>
+<dateline></dateline>
+    <salute><hi rendition="#c">Hochwohlgeborner, Hochgeehrter<lb break="yes"/>Herr <hi
+                            rendition="#i">Director!</hi></hi></salute>
+</opener>
+<p>Der Unterzeichnete gibt sich die Ehre Ew. Hochwohlgeboren zu<lb break="yes"/>schreiben und sich
+                zu erkundigen, wie es der <hi rendition="#i">Karolina
+                    <surname>H.</surname></hi><lb break="yes"/>von Rennertshofen im Institute ergeht; ob ferner Ew.
+                Hochwohlgeboren<lb break="yes"/>sie für heilbar oder unheilbar erkläre? </p>
+    <p>Im letzteren Falle wage ich die Bitte auszusprechen, mir gütigst<lb break="yes"/>einen Weg
+                zu zeigen, auf dem ich vielleicht einen Freiplatz<lb break="yes"/>für dieselbe
+                erwirken könnte. Ihr Vermögen geht allmählig<lb break="yes"/>zu Ende und meine
+                Eltern und Geschwisterte hegen die größte<lb break="yes"/>Besorgniß, die Karolina
+                werde ihnen dann wieder zur Last<lb break="yes"/>fallen und aller damit verbundener
+                Schrecken, Sorge und Angst.<lb break="yes"/>Ich scheue keine Anstrengung um meine
+                Eltern von dieser Sorge<lb break="yes"/>zu befreien, und wiederhole deßhalb meine
+                oben ausgesprochene<lb break="yes"/>Bitte. <pb facs="#image_042"/>In der
+                Ueberzeugung, Ew. Hochwohlgeboren werden mich gütigst<lb break="yes"/>entschuldigen, bitte ich die Versicherung meiner Hochachtung<lb break="yes"
+                />entgegen zu nehmen, mit der ich bin<lb break="yes"/><hi rendition="#c">Ew.
+                    Hochwohlgeboren.</hi><lb break="yes"/>Wengen den 25<hi rendition="#sup">te</hi>
+                <hi rendition="#i">Septbr 1885.</hi>
+                <hi rendition="#r">ergebenster<lb break="yes"/><hi rendition="#i">D<hi
+                            rendition="#sup">r</hi>
+                        <surname>H.</surname> prkt. Arzt</hi></hi>
+            </p>
+</body>
+</text>
+</TEI>

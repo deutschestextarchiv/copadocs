@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb846h17" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+    <name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+    <availability>
+        <licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+            <p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+        </licence>
+    </availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>846</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Katharina <surname>S.</surname></persName>
+    <date type="sent" when="1876-03-02">02.03.1876</date>
+    <date type="received" when="1876-03-03">03.03.1876</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">Rennertshofen</settlement>
+<settlement type="received"></settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb846h">
+<persName>
+<forename>Karolina</forename>
+<surname>H.</surname>
+</persName>
+    <birth when="1816-11-30"/>
+<death when="1888"/>
+<occupation>Schäfflerstochter</occupation>
+<residence><geo decls="#WGS">48.7564558 11.0494652</geo>Rennertshofen, Monheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schäffler</p>
+    <p>Anstalt: <date from="1855-04-25" to="1888-06-07">25.04.1855–07.06.1888</date></p>
+    <p>Verpflegungsklasse: 3</p>
+    <p>Brieftypen: pp: 4, po: 2, ap: 1, ao: 15</p>
+</state>
+<trait><p>Geisteskrankheit, Verrücktheit, geistig-körperliche Müdigkeit (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+    <language ident="de"/>
+</langUsage>
+<handNotes>
+    <handNote medium="ink" scope="major" scribe="schwester"/>
+    <handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>Dankt für einen Brief des Direktors und schickt ein Weihnachtsgeschenk für ihre Schwester mit. Hätte der Schwester auch selbst gerne geschrieben, weiß aber nicht, was sie ihr schreiben könne.</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+    <graphic mimeType="image/jpeg" url="kfb846h17a.jpg" xml:id="image_036"/>
+    <graphic mimeType="image/jpeg" url="kfb846h17b.jpg" xml:id="image_037"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_036"/>
+<opener>
+<dateline><hi rendition="#r"><add hand="arzt">praes: 3<hi rendition="#sup">te</hi>
+                            <del>Febr</del> März 1876<lb break="yes"/>N<hi rendition="#sup"><hi
+                                    rendition="#u">o</hi></hi> 865</add><lb break="yes"/>Ren&#x0304;ertshofen 2/3 76.</hi></dateline>
+    <salute>Hochzuverehrenter Hrr. Direcktor!</salute>
+</opener>
+<p><space/> Ihr mir zugeschicktes werthestes Brief<lb break="no"/>chen, hat mich getröstet, &amp;
+                ville Freude ge<lb break="no"/>macht. Ich danke Ihnen von in&#x0304;ersten grunde<lb break="yes"/>meines Herzens für Ihre Liebe <del>&amp;</del> Güte,<lb
+                    break="yes"/>&amp;. Mühe, die ich Ihnen verursacht habe, zu<lb break="no"/>mal
+                da ich weis, wie Ihre Güte im&#x0304;er in<lb break="yes"/>Anspruch genohmen ist.
+                Anliegend erhalten<lb break="yes"/>Sie das kleine <hi rendition="#i"
+                >C</hi>hristkindle, mit der Bitte<lb break="yes"/>selbes meiner armen Schwester zu
+                übergeben </p>
+    <p><add hand="arzt">hiehergelangt<lb break="yes"/>1 Jacke <space/>
+                    <hi rendition="itaic">eodem<lb break="yes"/>2 Tüchl u <space/> Empfangsanzeige<lb
+                            break="yes"/>Eßwaaren <space/> Briefbeischluß Wd<lb break="yes"/>fiat
+                            <hi rendition="#u">Briefpapier</hi></hi>
+                    <hi rendition="#i">N.</hi></add>
+                <pb facs="#image_037"/>&amp; ihr recht ville herzliche Grüße <w>zu</w><w>sagen</w>.<lb break="yes"/>Ich hätte ihr selbst geschrieben, aber was kan<lb break="yes"
+                />ich ihr schreiben! als das sie auf meiner Seele lastet<lb break="yes"/>früh mein
+                erster &amp; abens mein letzter Gedanke.<lb break="yes"/>dies ist ein allergrößtes
+                Familien-Unglück.</p>
+    <p>Mein Wunsch wäre, das wenige soll sie in guten<lb break="yes"/>Tagen empfangen,
+                    <del>möchte</del>, weil Sie so gütig mir sagten<lb break="yes"/>das sie gerade
+                ruhige Tage hat, aber die Zeit ist sehr<lb break="yes"/>kurz, so kan sie schon
+                wider anders sein.</p>
+    <p>Schlieslich widerholle ich nochmal meinen in&#x0304;igsten<lb break="yes"/>Dank für Ihre
+                Güte &amp; freundliches Wohlwollen<lb break="yes"/>&amp; unter herzlichster
+                Begrüßung von mir &amp;<lb break="yes"/>meinen Man&#x0304; nen&#x0304;e ich mich
+                Hochachtungsvollst<lb break="yes"/><hi rendition="#r">ergebenste
+                        dankschuldig<unclear reason="damage"/><lb break="yes"/><seg ana="#sigend">Kath. <surname>S.</surname><lb break="yes"/>gb. <surname>H.</surname></seg></hi>
+            </p>
+    <p>Das Kistchen darf nicht<lb break="yes"/>Retour geschickt werden</p>
+</body>
+</text>
+</TEI>

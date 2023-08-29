@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb846h15" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+    <name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+    <availability>
+        <licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+            <p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+        </licence>
+    </availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>846</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Schwester: Katharina <surname>S.</surname></persName>
+    <date type="sent" when="1863-10-20">20.10.1863</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Verwalter: k. A.</persName>
+<settlement type="sent">Rennertshofen</settlement>
+<settlement type="received"></settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb846h">
+<persName>
+<forename>Karolina</forename>
+<surname>H.</surname>
+</persName>
+    <birth when="1816-11-30"/>
+<death when="1888"/>
+<occupation>Schäfflerstochter</occupation>
+<residence><geo decls="#WGS">48.7564558 11.0494652</geo>Rennertshofen, Monheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schäffler</p>
+    <p>Anstalt: <date from="1855-04-25" to="1888-06-07">25.04.1855–07.06.1888</date></p>
+    <p>Verpflegungsklasse: 3</p>
+    <p>Brieftypen: pp: 4, po: 2, ap: 1, ao: 15</p>
+</state>
+<trait><p>Geisteskrankheit, Verrücktheit, geistig-körperliche Müdigkeit (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+    <language ident="de"/>
+</langUsage>
+<handNotes>
+    <handNote medium="ink" scope="major" scribe="schwester"/>
+    <handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>Schickt der Schwester Obst und Esswaren und bittet bei der Verwaltung um Abgabe dieser.</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpeg" url="kfb846h15.jpg" xml:id="image_033"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_033"/>
+<opener>
+<dateline></dateline>
+    <salute><hi rendition="#c">Vilgeehrter Hrr: Verwalter!</hi></salute>
+</opener>
+<p><add hand="arzt"><hi rendition="#u">333</hi>.</add></p>
+    <p>Hier überschicke ich meiner Schwester wider<lb break="yes"/>etwas obst u. Esswaren, haben
+                Sie wider die<lb break="yes"/>Güte, ihr selbes zu übergeben, u. mir die<lb
+                    break="yes"/>Schachtl wider Retour zu besorgen.<lb break="yes"/><seg
+                    ana="#salute">Recht bitend Grüße ich Ihnen herzlich in aller<lb break="yes"
+                    />Hochachtung <hi rendition="#r">ergebenste</hi></seg><lb break="yes"/>Renertshofen 20.10.63 <hi rendition="#r"><seg ana="#signed"
+                        >Katharina <surname>S.</surname><lb break="yes"/>geb. <surname>H.</surname></seg></hi></p>
+    <p><add hand="arzt">Obst gleich<lb break="yes"/>abzuholen <unclear/></add></p>
+</body>
+</text>
+</TEI>

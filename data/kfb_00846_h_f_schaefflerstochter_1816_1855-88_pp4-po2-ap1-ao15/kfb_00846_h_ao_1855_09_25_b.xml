@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="kfb846h21" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+    <name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+    <availability>
+        <licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+            <p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+        </licence>
+    </availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv des Bezirkskrankenhauses Kaufbeuren</repository>
+<collection>Patientenakten</collection>
+<idno>846</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Bruder: Dr. <surname>H.</surname></persName>
+    <date type="sent" when="1855-09-25">25.09.1855</date>
+    <date type="received"  when="1855-09-27">27.09.1855</date>
+<persName type="addressee">Verwalter: k. a.</persName>
+<settlement type="sent">Wengen</settlement>
+<settlement type="received"></settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="kfb846h">
+<persName>
+<forename>Karolina</forename>
+<surname>H.</surname>
+</persName>
+    <birth when="1816-11-30"/>
+<death when="1888"/>
+<occupation>Schäfflerstochter</occupation>
+<residence><geo decls="#WGS">48.7564558 11.0494652</geo>Rennertshofen, Monheim</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Schäffler</p>
+    <p>Anstalt: <date from="1855-04-25" to="1888-06-07">25.04.1855–07.06.1888</date></p>
+    <p>Verpflegungsklasse: 3</p>
+    <p>Brieftypen: pp: 4, po: 2, ap: 1, ao: 15</p>
+</state>
+<trait><p>Geisteskrankheit, Verrücktheit, geistig-körperliche Müdigkeit (1855)</p></trait>
+</person>
+</particDesc>
+<langUsage>
+    <language ident="de"/>
+</langUsage>
+<handNotes>
+    <handNote medium="ink" scope="major" scribe="bruder"/>
+    <handNote medium="ink" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>Übersendet Geld und erkundigt sich erneut, wie er für Patientin einen Freiplatz bekommen könne.</purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+    <graphic xml:id="image_044" url="kfb846h21a.jpg" mimeType="image/jpeg"/>
+    <graphic xml:id="image_045" url="kfb846h21b.jpg" mimeType="image/jpeg"/>
+    </facsimile>
+<text>
+<body>
+<pb facs="#image_044"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#c"><hi rendition="#u">13 </hi></hi><hi rendition="#r"
+                                ><hi rendition="#i">praef: 27: Septbr 1855<lb break="yes"/>praef: 27
+                                Septbr 1855<lb break="yes"/>17<lb break="yes"/>E <del>N</del><hi
+                                    rendition="#sup"><hi rendition="#u">o</hi></hi>
+                            2287</hi></hi></add></dateline>
+    <salute><hi rendition="#c">Wohlgeborner, hochgeehrter<lb break="yes"/>Herr Verwalter!</hi></salute>
+</opener>
+    <p>Der Unterzeichnete erlaubt sich Ew. Wohlgeboren<lb break="yes"/>in Beilage "vierzig Gulden"
+                als Kostgeld<lb break="yes"/>und den Ueberrest etwa als <hi rendition="#i"
+                    >Depositum</hi>, für<lb break="yes"/>die in der kgl Irrenanstalt sich
+                befindende<lb break="yes"/><hi rendition="#i">Karolina
+                    <surname>H.</surname></hi> von Rennertshofen<lb break="yes"/>zu
+                schicken. Ich habe an Herrn <hi rendition="#i">Director</hi> die<lb break="yes"/>Bitte gestellt, mir einen Weg zu zeigen,<lb break="yes"/>auf dem ich vielleicht
+                für die genannte <hi rendition="#i">Karolina</hi><lb break="yes"/>einen Freiplatz erwirken könnte. Diese näm&#x0304;<lb break="no"
+                />liche Bitte stelle ich an Ew. Wohlgeboren,<lb break="yes"/>mir anzugeben, ob ich bei der <hi rendition="#i">kgl Regierung,</hi><lb break="yes"/><hi rendition="#i">kgl Ministerium</hi> oder bei S<hi
+                    rendition="#u">r</hi>. Majestät ein<unclear>e</unclear>
+                <pb facs="#image_045"/>Bittgesuche einreichen soll und welche
+                    Zeugniss<unclear>e</unclear><lb break="yes"/>ich hiezu nöthig haben dürfte.</p>
+    <p>Mögen Ew. Wohlgeboren diese Bitte gütigst<lb break="yes"/>berücksichtigen und die
+                Versicherung meine<lb break="yes"/>Hochachtung entgegen nehmen, mit der ich<lb break="yes"/>bin <hi rendition="#c">Ew. Wohlgeboren</hi><lb break="yes"/><hi rendition="#r">ergebenster<lb break="yes"/><seg ana="#signed"
+                            ><hi rendition="#i">D<hi rendition="#sup">r</hi>
+                            <surname>H.</surname> prkt
+                    <unclear>Arzt</unclear></hi></seg></hi></p>
+    <p>Bitte beiliegenden Brief gütigst<lb break="yes"/>zu übergeben.</p>
+    <p><hi rendition="#i">Wengen den 25<hi rendition="#sup">te</hi> Septbr 1855.</hi>
+    </p>
+</body>
+</text>
+</TEI>
