@@ -151,7 +151,7 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="https://www.dwds.de/d/korpora/copadocs" target="_blank">
-          <img src="{$base}assets/logos/dwds.svg" height="50" title="Digitales Wörterbuch der deutschen Sprache " alt="Logo DWDS" data-bs-toggle="tooltip" data-bs-placement="right"/>
+          <img src="{$base}assets/logos/dwds.svg" height="50" title="Digitales Wörterbuch der deutschen Sprache" alt="Logo DWDS" data-bs-toggle="tooltip" data-bs-placement="right"/>
         </a>
       </div>
     </nav>
