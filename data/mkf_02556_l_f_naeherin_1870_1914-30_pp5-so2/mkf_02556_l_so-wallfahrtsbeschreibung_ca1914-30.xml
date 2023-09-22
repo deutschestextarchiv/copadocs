@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf2556l03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Corinna Köhler</name>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>2556</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kreszenz <surname>L.</surname></persName>
+<date notAfter="1930" notBefore="1914" type="sent">ca. 1914-30</date>
+<date type="received">k. A.</date>
+<persName type="addressee">k. A. </persName>
+<settlement type="sent">k. A.</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mkf2556l">
+<persName>
+<forename>Kreszenz</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1870-07-14"/>
+<death cert="unknown"/>
+<occupation>Näherin, Bäckersfrau</occupation>
+<residence><geo decls="#WGS">48.825216 12.7697186</geo>Loh (Gemeinde Stephansposching), Hunderdorf, Stadtamhof</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: getrennt lebend</p>
+<p>Eltern: k. A.</p>
+<p>Anstalt: <date from="1914-02-16" to="1930-08-29">16.02.1914–29.08.1930</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: pp: 5, so: 2</p>
+</state>
+<trait><p>Man. depr.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>Wahlfahrtsbeschreibung</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin beschreibt die Wahlfahrt in Loh.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf2556l03a.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="mkf2556l03b.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_009"/>
+<opener>
+<dateline/>
+<salute/>
+</opener>
+<p><hi rendition="#c">Weitere Beschreibung</hi><lb break="yes"/>über die Wahlfart Lohe
+                im<lb break="yes"/>Jahre 1705 war in Irlbach ein<lb break="yes"/>Graf Sigfrid
+                welcher keine<lb break="yes"/>Religion hatte da seine Gem<lb break="yes"/>Gemahlin
+                Elisabeth v. Thüringen<lb break="yes"/>war sehr from̄ und gottesfürtig<lb break="yes"/>hatte so lange gebettet um seinr<lb break="yes"/>Gemahl zur
+                Bekehrung zu bringen.<lb break="yes"/>dieß liegt niedergeschriben in<lb break="yes"/>Lohe Man bekom̄t zu kaufen.<lb break="yes"/>derer Beschreibung lautet.
+                    Graf<lb break="yes"/>Siegfrid gebrauchte die Worte<lb break="yes"/>Ich glaube
+                nichts müste der Hrrgott<lb break="yes"/>mir mit Bart erscheinen,<lb break="yes"/><hi rendition="#c">erscheinen!</hi><pb facs="#image_010"/>Und wirklich in der
+                    Nähe<lb break="yes"/>der Kirche liegt eine Weiher<lb break="yes"/>der damals <w>aus getroknet</w> war.<lb break="yes"/>da lag ein
+                Gruzifix mit<lb break="yes"/>Vollbart. Und heute noch wird<lb break="yes"/>dieser
+                Wahlfartsort weit<lb break="yes"/>und breit bekan̄t besucht.<lb break="yes"/>Es komen jährlich 72 Kreuz<lb break="no"/>züge hin u der Weltheiland<lb break="yes"/>trägt heute noch seinen Vollbart.<lb break="yes"/>am 3. <hi rendition="#i">M</hi>ai Kreuzersuchung da wird<lb break="yes"/>der Bart
+                abgeschnitten zur Ueber<lb break="no"/>zeugung u bis inn nägsten Jahre<lb break="yes"/>ist der Bart wieder gewachsen<lb break="yes"/>dieß ist das
+                    <w>Gottes Wunder</w><lb break="yes"/>der Wahlfart. </p>
+</body>
+</text>
+</TEI>

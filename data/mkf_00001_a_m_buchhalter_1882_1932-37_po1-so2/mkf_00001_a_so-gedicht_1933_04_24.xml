@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf1a03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>1</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>A.</surname></persName>
+<date type="sent" when="1933-04-24">24.04.1933</date>
+<date type="received">k. A.</date>
+<persName type="addressee">k. A.</persName>
+<settlement type="sent">k. A.</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mkf1a">
+<persName>
+<forename>Franz</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1882-12-30"/>
+<death when="1937"/>
+<occupation>Buchhalter</occupation>
+<residence><geo decls="#WGS">49.8452797 9.6067197</geo>Marktheidenfeld, Würzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Schneider</p>
+<p>Anstalt: <date from="1932-10-03" to="1937-05-17">03.10.1932–17.05.1937</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: po: 1, so: 2</p>
+</state>
+<trait><p>Genuine Epilepsie</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient lobt die Anstalt in einem Gedicht.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf1a03a.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_008"/>
+<opener>
+<dateline><hi rendition="#r"><add hand="arzt"><hi rendition="#i"><surname>A.</surname>. 24.4.33</hi></add></hi></dateline>
+<salute/>
+</opener>
+<p><hi rendition="#c"><hi rendition="#i"><hi rendition="#u">Das
+                    Beste</hi></hi></hi>. </p>
+<p>Nach <hi rendition="#i">Niederbayern</hi> steckt man den<lb break="yes"/>Für den ists
+                in <hi rendition="#i">Werneck</hi> zu schön<lb break="yes"/>Sei Anfäll' die kuriert
+                man nicht<lb break="yes"/>So wenig wie n' Schuster's Gicht<lb break="yes"/>Packt
+                den man nicht ganz zart wohl an<lb break="yes"/>dann schimpft er, was er schimpfen
+                kann<lb break="yes"/><unclear>Uzt</unclear> man "Je krüm̄er desto
+                schlimmer",<lb break="yes"/>A' Krummer der weiß des ja immer,<lb break="yes"/>Dem
+                droht er a gleich mit Gericht,<lb break="yes"/>So was die Herren liebten nicht.</p>
+<p>Doch anders kam's als wie sie dachten,<lb break="yes"/>die <hi rendition="#i">Deggendorfer</hi> anfangs lachten,<lb break="yes"/>Ich
+                wurde gsund nach kurzer Zeit,<lb break="yes"/>Heimat jetzt bist
+                mir nicht mehr weit.<lb break="yes"/>der <hi rendition="#i">Niederbayer</hi> ist
+                nicht zart,<lb break="yes"/>Gut und gmacht
+                nach seiner Art,<lb break="yes"/>Ein jeder wird als Mensch behandelt,<lb break="yes"/>der hier in diesen Hallen wandelt,<lb break="yes"/>das zarte
+                Kitzeln liebt er nicht,<lb break="yes"/>die Führung, die fällt ins Gewicht.</p>
+<p>Die Suppe ist ja gut gesalzen,<lb break="yes"/>die Kost auch kräftig, man muß
+                    sch<unclear>na</unclear>lzen,<lb break="yes"/>Hätt' ich nicht Frau und Kind zu
+                Haus,<lb break="yes"/>Ich hielte hier mei' Lebtag aus.<lb break="yes"/>Man singt
+                zwar hier nicht viele Lieder,<lb break="yes"/>Als Franke wünscht man's immer
+                wieder,<lb break="yes"/>Ob arm, ob reich, ob gut, ob schlecht,<lb break="yes"/>der
+                    <hi rendition="#i">Niederbayer</hi> ist gerecht.<lb break="yes"/>drum Achtung
+                rufe ich jetzt noch,<lb break="yes"/>Gleichheit, die liebt ein jeder doch. </p>
+<p><hi rendition="#r">Fr. <hi rendition="#i"><surname>A.</surname>.</hi></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf1686h06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>1686</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>H.</surname></persName>
+<date type="sent" when="1943-09-11">11.09.1943</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">k. A.</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mkf1686h">
+<persName>
+<forename>Maria</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1896-08-25"/>
+<death when="1968"/>
+<occupation>Biermädchen</occupation>
+<residence><geo decls="#WGS">48.3311028 12.4610568</geo>Hinkerding, Wolfsegg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: k. A.</p>
+<p>Anstalt: <date from="1916-11-25" to="1968-10-29">25.11.1916–29.10.1968</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: pp: 4, po: 12</p>
+</state>
+<trait><p>Dementia praecox
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil_blue" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patientin bittet den Direktor bei der Suche einer Arbeitsstelle außerhalb der Anstalt um Hilfe.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf1686h06a.jpg" xml:id="image_014"/>
+<graphic mimeType="image/jpg" url="mkf1686h06b.jpg" xml:id="image_015"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_014"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Werter Herr Direktor!</hi></salute>
+</opener>
+<p>Bitte Herrn Direktor um Entschuldigung daß<lb break="yes"/>ich Sie mit einigen
+                Zeilen belästige. Ersuche<lb break="yes"/>Herrn Direktor um baldige Entlassung.<lb break="yes"/>Hier läßt man ja doch niemand aufkom̄en.<lb break="yes"/>Wo
+                anderes werden die Kranken auch an<lb break="no"/>gestellt u. finde es nicht ganz
+                recht nur<lb break="yes"/>im̄er einen Pudel zu machen u. andere<lb break="yes"/>daß Brod verdienen helfen. Daß ist eben<lb break="yes"/>daß
+                traurig, was wir tun nichts ist, wen̄<lb break="yes"/>es noch so gut &amp;
+                Gewissenhaft gemeint ist.<lb break="yes"/>Tue die Arbeit schon 7. Jahre &amp; habe
+                mir sicher<lb break="yes"/>in keiner Weise etwas zu schulden
+                <unclear>ko</unclear>m̄en<lb break="yes"/>laßen. Man ist einen zur guter
+                letzt<lb break="yes"/>um die Arbeit auch noch neidig wo draußen<lb break="yes"/>die Arbeitskräfte so gesucht werden. Warum<lb break="yes"/>soll ich den hier als
+                Kranke im̄er eine Gesunde<lb break="yes"/>ersetzen, u. werde es draußen
+                zeigen daß ich<lb break="yes"/>die Arbeit gut mache. Man soll auch den </p>
+<pb facs="#image_015"/>
+<p> armen Menschen wieder empor helfen. Bitte Herrn<lb break="yes"/>Direktor sobald
+                wie möglich von Arbeitsamt<lb break="yes"/>als Hausmädchen in ein Krankenhaus o.<lb break="yes"/><w>irgend wo</w> eine Stelle zu übermitteln es<lb break="yes"/>gibt doch wo anders auch Arbeit nicht blos<lb break="yes"/>in München. Arbeite
+                ganz gerne u. will mir<lb break="yes"/>jetzt einmal mein Brod selbst verdienen.
+                Hier<lb break="yes"/><unclear>Kön̄t</unclear> ich es ja <add place="above">vor</add> Neid nicht aushalten. Bitte<lb break="yes"/>Herrn Direktor mir zu
+                helfen den wen̄<lb break="yes"/>Sie nicht helfen kön̄en wer den
+                sonst.<lb break="yes"/><hi rendition="#c"><seg ana="#salute">Heil
+                    Hitler</seg></hi><lb break="yes"/><hi rendition="#r"><seg ana="#signed"><hi rendition="#u"><surname>H.</surname></hi>
+<unclear>Maria</unclear></seg></hi>
+</p>
+<p><add hand="arzt"><unclear/> Kr. <unclear>Gesch.</unclear></add></p>
+</body>
+</text>
+</TEI>

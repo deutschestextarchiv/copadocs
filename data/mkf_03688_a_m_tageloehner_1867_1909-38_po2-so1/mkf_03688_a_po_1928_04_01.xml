@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf3688a01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>3688</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>A.</surname></persName>
+<date type="sent" when="1928-04-01">01.04.1928</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Staatsanwaltschaft München: k. A.</persName>
+<settlement type="sent">Mainkofen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mkf3688a">
+<persName>
+<forename>Josef</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1867-03-15"/>
+<death when="1938"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.543476 12.2642709</geo>Adlkofen
+                        </residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Söldner, in Anstalt in Straubing als Geisteskranker gestorben
+                        </p>
+<p>Anstalt: <date from="1909-01-08" to="1938-08-15">08.01.1909–15.08.1938</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: po: 2, so: 1</p>
+</state>
+<trait><p>Schizophrenie
+                        </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="crayon" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient wendet sich mit einer offenbar unzusammenhängenden Geschichte aus seiner Vergangenheit an die Staatsanwaltschaft München.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf3688a01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="mkf3688a01b.jpg" xml:id="image_002"/>
+<graphic mimeType="image/jpg" url="mkf3688a01c.jpg" xml:id="image_003"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline>Mainkofen den 1.4.28</dateline>
+<salute>An die Staatsanwaltschaft<lb break="yes"/><space/> München</salute>
+</opener>
+<p>Wegen der Bedränger Karl <surname>B.</surname><lb break="yes"/>u. Sohn Apoteker in München </p>
+<p>Im Jahre 1891 schickte man mich in<lb break="yes"/>die Rosenapoteke um mich als
+                Ausgeher<lb break="yes"/>anwerben <w>zu</w><w>laßen</w>. Am nächsten Morgen<lb break="yes"/>schickte
+                man mich die Stelle <w>anzu dreten</w><lb break="yes"/>Am <unclear reason="rubbing"/> Morgen wurde ich schon<lb break="yes"/>Basch empfangen mit den Worten<lb break="yes"/>hast du was in der
+                Nase weil du so<lb break="yes"/>früh komst. Ich gab zur Antwort<lb break="yes"/>Mein Bruder hat mich geschickt zur<lb break="yes"/>Arbeit. Schlafen mußt ich im
+                    <pb facs="#image_002"/>Laubotarium wo mi ein<lb break="yes"/>Verdachtiger
+                Geruch anwiederte<lb break="yes"/>Auch die <w>Abort grube</w> mußte ich<lb break="yes"/>Aufrieren Der Abort war weg<lb break="yes"/>gerißen die Öffnung
+                war erweitert<lb break="yes"/>so mußte ich den Instalater holen<lb break="yes"/>um
+                in wieder neu zu machen<lb break="yes"/>Möchte der Herr Staatsanwalt zu<lb break="yes"/>mir komen die Sache wird leichter<lb break="yes"/>zum richten sein </p><p>Man komt eben so oft auf<lb break="yes"/>schleichwegen um
+                alles zuzudeken </p>
+<p>Unterschrift<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Josef
+                            <surname>A.</surname>
+</seg>
+</hi><lb break="yes"/>zur Zeit in Mainkofen</p>
+<pb facs="#image_003"/>
+<p><hi rendition="#c">An die</hi><lb break="yes"/><w>Staatsanwalt schaft</w><lb break="yes"/><hi rendition="#c">München<lb break="yes"/>Post München</hi><lb break="yes"/>frei</p>
+<p><add hand="arzt">1.IV.28. <hi rendition="#r"><surname><hi rendition="#i">A.</hi></surname></hi><lb break="yes"/>Zur
+                    Krankheitsgeschichte<lb break="yes"/><hi rendition="#c"><surname><hi rendition="#i">A.</hi></surname><lb break="yes"/><hi rendition="#u">wichtig!</hi></hi></add>
+</p>
+</body>
+</text>
+</TEI>

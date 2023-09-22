@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf1686h16" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>1686</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>H.</surname></persName>
+<date type="sent" when="1917-08-19">19.08.1917</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Eltern: k. A.</persName>
+<settlement type="sent">Deggendorf</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mkf1686h">
+<persName>
+<forename>Maria</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1896-08-25"/>
+<death when="1968"/>
+<occupation>Biermädchen</occupation>
+<residence><geo decls="#WGS">48.3311028 12.4610568</geo>Hinkerding, Wolfsegg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: k. A.</p>
+<p>Anstalt: <date from="1916-11-25" to="1968-10-29">25.11.1916–29.10.1968</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: pp: 4, po: 12</p>
+</state>
+<trait><p>Dementia praecox
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Sehr schlecht leserliche Mitteilung an die Eltern der Patientin, vermutlich über den eigenen Gesundheitsstand.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf1686h16a.jpg" xml:id="image_044"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_044"/>
+<opener>
+<dateline>Deggendorf der 19 Aug. 17.</dateline>
+<salute>Liebe Eltern !</salute>
+</opener>
+<p> dein Brief mit Freud<lb break="no"/>den. <unclear>ge </unclear>Hoffe daß es es<lb break="yes"/>gut geht. Habe imer sehr<lb break="yes"/>Durst u. Fiud mir <unclear/><lb break="yes"/>zu schicken. Ich eich<unclear> mehr</unclear><lb break="yes"/>schreiben<lb break="yes"/><hi rendition="#r"><seg ana="#salute">Seid herzlich <unclear>Gegrüßt</unclear></seg><lb break="yes"/>von <hi rendition="#i">D</hi><unclear/>
+<seg ana="#signed">Ma<unclear>ria</unclear></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

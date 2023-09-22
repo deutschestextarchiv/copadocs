@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf1686h05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>1686</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>H.</surname></persName>
+<date type="sent" when="1942-02-09">09.02.1942</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">k. A.</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mkf1686h">
+<persName>
+<forename>Maria</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1896-08-25"/>
+<death when="1968"/>
+<occupation>Biermädchen</occupation>
+<residence><geo decls="#WGS">48.3311028 12.4610568</geo>Hinkerding, Wolfsegg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: k. A.</p>
+<p>Anstalt: <date from="1916-11-25" to="1968-10-29">25.11.1916–29.10.1968</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: pp: 4, po: 12</p>
+</state>
+<trait><p>Dementia praecox
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil_red" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patientin bittet mit der Begründung, sie sei arbeitsfähig und habe sich nichts zu Schulden kommen lassen, um Entlassung
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf1686h05a.jpg" xml:id="image_012"/>
+<graphic mimeType="image/jpg" url="mkf1686h05b.jpg" xml:id="image_013"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_012"/>
+<opener>
+<dateline><add hand="arzt"><hi rendition="#r">9.2.42</hi></add></dateline>
+<salute><hi rendition="#c">"Sehr geehrter Herr Direcktor!</hi></salute>
+</opener>
+<p>Bitte Herrn Direcktor um Entschuldigung<lb break="yes"/>daß ich Sie mit einigen
+                Zeilen belästige.<lb break="yes"/>Ersuche um die Entlassung wen̄ ich nicht<lb break="yes"/>in die Familienpflege kom̄e. Verrichte selb<lb break="no"/>ständig Haus &amp; Zim̄erarbeit. Was habe ich den<lb break="yes"/>hier noch zu suchen? War zwei Jahe bei Herrn<lb break="yes"/>Direcktor Reis habe keine Ratscherei und auch<lb break="yes"/>in der Arbeit in
+                keiner weise was zu schul<lb break="no"/>den kom̄ laßen &amp; auch hier
+                nicht. Man soll<lb break="yes"/>auch den Kranken ihre Arbeit mehr schätzen.<lb break="yes"/>Herr Direcktor daß dürfen Sie mir nicht<lb break="yes"/>verübeln
+                &amp; nachtragen was ich Ihnen dort<lb break="no"/>mals gesagt − daß
+                stam̄t nicht von mir<lb break="yes"/>sondern die
+                    <surname>H.</surname> hat es im Zim̄er dro<lb break="no"/>ben öfentlich erzählt. Mir hat man die gan<lb break="no"/>ze Schuld hinauf
+                geschoben &amp; bei dieser ist es </p>
+<pb facs="#image_013"/>
+<p> vertuscht worden − Bin mit der ganzen Sache<lb break="yes"/>mitgekom̄en − der <surname>H.</surname> bin ich in
+                keiner<lb break="yes"/>Weise neidig um die Arbeit was man im̄er gleich<lb break="yes"/>hören muß; Aber daß braucht es nicht kein Mensch<lb break="yes"/>läßt sich unschuldig anschuldigen. Es ist nicht<lb break="yes"/>schön daß alte
+                im̄er wieder auftischen aber<lb break="yes"/>ich muß den ungerecht ist nicht
+                recht da ich<lb break="yes"/>von der ganzen Sache nichts gewußt &amp; werde<lb break="yes"/>seid dieser Zeit schief angeschaut. Einen macht<lb break="no"/>losen Menschen kan̄ man leicht drücken.<lb break="yes"/>Bitte Herrn
+                Direcktor um baldige Ver<lb break="yes"/>änderung. </p>
+<p><hi rendition="#r"><seg ana="#salute">Heil Hitler</seg><lb break="yes"/>Patientin<lb break="yes"/><seg ana="#signed"><surname>H.</surname> Maria.</seg></hi></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf987v04" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Corinna Köhler</name>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>987</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>V.</surname></persName>
+<date notAfter="1933" notBefore="1932" type="sent">ca. 1932-33</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Anstaltspersonal: k. A. </persName>
+<settlement type="sent">Mainkofen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mkf987v">
+<persName>
+<forename>Maria</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1887-01-07"/>
+<death cert="unknown"/>
+<occupation>Landwirtswitwe</occupation>
+<residence><geo decls="#WGS">48.4719089 13.4231837</geo>Niederschärding, Passau</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verwitwet</p>
+<p>Eltern: Vater: Gütler</p>
+<p>Anstalt: <date from="1932-09-03" to="1933-04-10">03.09.1932–10.04.1933</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: po: 4</p>
+</state>
+<trait><p>Klimakterische Depression</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieler Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin beschreibt ihre Zuneigung zum Anstaltspersonal in einem Vergleich zu Jesus und Veronika.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf987v04a.jpg" xml:id="image_011"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_011"/>
+<opener>
+<dateline/>
+<salute>Sehr geerhter u<del>r</del>nd <w>liebe<del>fo</del> volste</w><lb break="yes"/>Direktion Ärzte Schwester</salute>
+</opener>
+<p>Ihr seid mir die Stufe im<lb break="yes"/>Kreuzweg <hi rendition="#i">N</hi> 6 ich die
+                    Ver<lb break="no"/>ronika Ihr der liebe Heiland<lb break="yes"/>tief trügt Ihr
+                das Bildniß der<lb break="yes"/>Liebe in mein Herz aber ich muß<lb break="yes"/>wandeln die 2te Jesu nimt das<lb break="yes"/>Kreuz auf seine Schuldern<lb break="yes"/>Ich bitte Euch von Herzen verzeihet<lb break="yes"/>mir der liebe
+                Got <w>sol</w><w>für</w> Euerer<lb break="yes"/>Liebe z<del>n</del>u uns alles
+                    vergelten<lb break="yes"/><seg ana="#salute">Ein iniges Vergelts Gott</seg></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf3688a02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Erlangen</repository>
+<collection>Patientenakten</collection>
+<idno>3688</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>A.</surname></persName>
+<date type="sent" when="1909-05-26">26.05.1909</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Königliche Regierung Niederbayerns: k. A.</persName>
+<settlement type="sent">Deggendorf</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mkf3688a">
+<persName>
+<forename>Josef</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1867-03-15"/>
+<death when="1938"/>
+<occupation>Tagelöhner</occupation>
+<residence><geo decls="#WGS">48.543476 12.2642709</geo>Adlkofen
+                    </residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Söldner, in Anstalt in Straubing als Geisteskranker gestorben
+                        </p>
+<p>Anstalt: <date from="1909-01-08" to="1938-08-15">08.01.1909–15.08.1938</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: po: 2, so: 1</p>
+</state>
+<trait><p>Schizophrenie
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient versucht die Regierung von seiner Entlassung aus der Anstalt zu überzeigen, da er sonst keine Familienmitglieder hat, die ihm in dieser Angelegenheit helfen könnten.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf3688a02a.jpg" xml:id="image_004"/>
+<graphic mimeType="image/jpg" url="mkf3688a02b.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="mkf3688a02c.jpg" xml:id="image_006"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_004"/>
+<opener>
+<dateline>Deggendorf, den 26.5.09</dateline>
+<salute><hi rendition="#c">An die Kgl</hi><lb break="yes"/>Regirung Niederbayern</salute>
+</opener>
+<p>Bettreff:<lb break="yes"/>Des Josef <surname>A.</surname> Taglöhner, welcher
+                    <add place="below">wegen</add><lb break="yes"/><hi rendition="#u" style="arzt">Eingeben von Reitzmittel</hi> zur
+                Zeit<lb break="yes"/>in der Heil u Pflege Anstalt <w>unter<lb break="no"/>gebracht</w> ist möchte Nachsuchen um <w>frei<lb break="no"/>laßung</w>
+</p>
+<p>Indem ich mich schon fünf Monate<lb break="yes"/>hier befinde ohne weiterer
+                Aufklärung,<lb break="yes"/>wie lange ich unter den Mauern noch<lb break="yes"/>sein muß. Mir wurde im Februar mit<lb break="no"/>getheilt, daß die Regierung es
+                ablehne mich<lb break="yes"/>auf freien Fuß zu setzen. Ich möchte wohl <pb facs="#image_005"/>denken, daß man mich <del>un</del>gerechter<lb break="yes"/>Weise, nicht so lange einsperen kan in dem<lb break="yes"/><hi rendition="#u" style="arzt">mein Lebenslauf nur gute Führung</hi>
+<add place="above"><add hand="arzt">Logik!</add></add>
+<w>auf<lb break="no"/>weist</w>. Eigentlich kan ich blos denken,<lb break="yes"/>daß man mich gezwungener Weise zu<lb break="yes"/><hi rendition="#u" style="arzt">einem Eheprecher richten will</hi>, das, was ich<lb break="yes"/>lebent nicht gedulde. Habe ich als anständiger<lb break="yes"/>Mensch nicht das
+                Recht, solche <hi rendition="#u" style="arzt">Schweinereien</hi><lb break="yes"/>zur Anzeige zu bringen; weil die Staats<lb break="no"/>anwaltschaft
+                mich <hi rendition="#u" style="arzt">wegen Beleidigung</hi><lb break="yes"/>in die Anstalt verbrachte, und später<lb break="yes"/>durch den
+                Herrn Direktor der Heil und<lb break="yes"/>Pflegeanstalt bekant geben ließ, jetzt<lb break="yes"/>könen sie schauen, wie Sie raus komen.<lb break="yes"/>Ich
+                habe keine Verwante, welche mir<lb break="yes"/>in diesem Falle zu hilfe komen.<lb break="yes"/>Volgedesen wende ich mich an die Kgl <pb facs="#image_006"/>Regirung, um diese Mittel und<lb break="yes"/>Wege <w>zu</w><w>machen</w>, daß die Sklaverei<lb break="yes"/>ein baldiges Ende nimt </p>
+<p><hi rendition="#c"><seg ana="#salute">Dieß<lb break="yes"/>Unterzeichnet<lb break="yes"/>Achtungsvoll </seg><lb break="yes"/><seg ana="#signed">Josef <surname>A.</surname></seg></hi></p>
+</body>
+</text>
+</TEI>

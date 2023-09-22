@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf1035a01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>1035</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Josef <surname>A.</surname></persName>
+<date type="sent" when="1922-05-29">29.05.1922</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">Mainkofen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mkf1035a">
+<persName>
+<forename>Josef</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1886-03-16"/>
+<death cert="unknown"/>
+<occupation>Machinist</occupation>
+<residence><geo decls="#WGS">48.8012394 11.8062344</geo>Pfalsau, Oberulrain (Kelheim)
+                    </residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: k. A.</p>
+<p>Anstalt: <date from="1920-07-23" to="1932-09-17">23.07.1920–17.09.1932</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: po: 2, ao: 1</p>
+</state>
+<trait><p>Psychopathie</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient bittet den Direktor der Anstalt um Ausgang, um Berufliches klären zu können.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf1035a01a.jpg" xml:id="image_001"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#r">Mainkofen d 29 Mai 1922.</hi></dateline>
+<salute>Sehr geehrter Herr direktor!</salute>
+</opener>
+<p><space/> Ersuche Sie geheflichst um<lb break="yes"/>Ausgang für heute nachmittag
+                oder<lb break="yes"/>am Mittwoch nachmittag. Wäre also,<lb break="yes"/>entweder
+                für heute den 29. oder am<lb break="yes"/>30. Mai. Grund: Will mit
+                    <surname>S.</surname><lb break="yes"/>nochmal rücksprache nehmen ob ich mih<lb break="yes"/>sicher
+                verlaßen kann und ob <surname>G.</surname><lb break="yes"/>Ihm schon geschrieben hat. Denn sollte<lb break="yes"/><surname>G.</surname> mit diesen Verhältnißen nicht zu<lb break="no"/>frieden sein; so hätte ich noch was beßres<lb break="yes"/>in Aussicht. Möchte
+                mich eben noch um<lb break="yes"/>dieses erkundigen. Muß erst fragen, wie<lb break="yes"/>der herr heißt, soll so auch in Holzschweig sein.<lb break="yes"/>Mache ja vorher keinen Gebrauch, ist nur zur<lb break="yes"/>Sicherung, fals die
+                Sache Stocken sollte? Übrigens<lb break="yes"/>verständige ich Sie nach erkundigung
+                und<lb break="yes"/>gehorche ihren Befehlen, wie Sie es für guthalten.<lb break="yes"/>Habe nähmlich gehört, <surname>S.</surname> soll<lb break="yes"/>mit familie mit sein Kindern hübsch streitig<lb break="yes"/>sein.
+                    <hi rendition="#u">Grund deßen</hi> will ich nochmal nachsehen<lb break="yes"/>und bitte Sie geheflichst um Genehmigung<lb break="yes"/>damit wir uns
+                gegenseitig klar sind über alles,<lb break="yes"/>denn nachher wäre es zu späht.
+                Und will eine sichere<lb break="yes"/>Stellung, daß ich bleiben kann für dieses <hi rendition="#i">J</hi>ahr ganz.<lb break="yes"/>Nachher läßt sich nichts mehr
+                regeln wenn ich dort<lb break="yes"/>bin in Stellung. Die zweite Stelle sollen auch<lb break="yes"/>keine dienstboten haben, als ich.<lb break="yes"/><seg ana="#salute">Achtungsvollst </seg><lb break="yes"/><hi rendition="#c"><hi rendition="#i"><seg ana="#signed">Josef
+                    <surname>A.</surname></seg></hi></hi>
+</p>
+</body>
+</text>
+</TEI>

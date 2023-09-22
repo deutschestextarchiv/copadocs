@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf702a18" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Adolf <surname>A.</surname></persName>
+<date type="sent" when="1927-03-03">03.03.1927</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Rechtsanwalt: J. <surname>S.</surname></persName>
+<settlement type="sent">Mainkofen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mkf702a">
+<persName>
+<forename>Adolf</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1889-08-31"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">48.8819801 12.569716</geo>Straubing</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Viehkastrant</p>
+<p>Anstalt: <date from="1926-08-14" to="1954-07-04">14.08.1926–04.07.1954</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: pp: 3, po: 17, ao: 2</p>
+</state>
+<trait><p>Schizophrenie
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="arzt"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient fordert eine Untersuchung durch unabhängige Ärzte im Beisein des Rechtsanwalts.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf702a18a.jpg" xml:id="image_049"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_049"/>
+<opener>
+<dateline><hi rendition="#r"><add hand="arzt"><hi rendition="#u"><unclear>6</unclear></hi></add><lb break="yes"/><hi rendition="#i">Mainkofen 3.III 1927</hi></hi></dateline>
+<salute><hi rendition="#i">Herrn Rechtanwalt J. <surname>S.</surname><lb break="yes"/><hi rendition="#r">Straubing Ndb.<lb break="yes"/>Ludwigsplatz</hi></hi></salute>
+</opener>
+<p>Anbei lege ich nochmas einen Teil meines<lb break="yes"/>Lebenslauf bei.<lb break="yes"/>Ersuche Sie höflich daß Sie den Antrag<lb break="yes"/>Stellen
+                sollen. Weil mich die <hi rendition="#i">Herrn<lb break="yes"/>Arzte</hi> von <hi rendition="#i">Mainkofen</hi> nicht Entlassen<lb break="yes"/>wollen. <hi rendition="#i">D</hi>aß mich <hi rendition="#i">Ärzte</hi> von <hi rendition="#i">Straubing</hi><lb break="yes"/>u. solche welche mich während meiner<lb break="yes"/>Militärzeit
+                Untersucht hatten. Herbei<lb break="yes"/>gezogen werten. Zur genauen Körper<lb break="no"/>lichen Untersuchung. Den Sie Wissen doch,<lb break="yes"/>daß <hi rendition="#u">ich</hi> Unschuldig nach <hi rendition="#i">Mainkofen Inter<lb break="no"/>nirt</hi> wurde. Um die Verbreiter Falscher<lb break="yes"/>Gerüchte nicht Aufzukom̄en. Wollen die<lb break="no"/>selben jetzt den
+                Grund allein Eifersucht<lb break="yes"/>Angeben. Die Kosten haben welche<lb break="yes"/>sich Erwachsen die Urheber u Verbreiter<lb break="yes"/><hi rendition="#i">Herr Heinerich <surname>S.</surname> Herr Apothecker<lb break="yes"/>Hern Sanitätsrat <surname>L.</surname> u s.w.</hi> zu<lb break="yes"/>tragen <hi rendition="#i">D</hi>a <hi rendition="#u">ich</hi> mir
+                in keiner Weisse<lb break="yes"/><hi rendition="#u">nichts</hi> zu Schulden
+                kom̄en ließ. Be<lb break="no"/>städigen durch Aussagen Tausender<lb break="yes"/>Zeugen. Meine Untersuchung soll in<lb break="yes"/>beisein Ihrer
+                Person in <hi rendition="#i">München</hi>
+<hi rendition="#i">oder</hi><lb break="yes"/><hi rendition="#i">Nürnberg</hi> Stattfinden u.sw.<lb break="yes"/><hi rendition="#i"><hi rendition="#c"><seg ana="#salute">Achtungsvollst</seg><lb break="yes"/><seg ana="#signed">Adolf
+                                <surname>A.</surname></seg></hi><lb break="yes"/>Kaufmann Reste u. Partiewarengeschäft<lb break="yes"/>Straubing Ndb. Frauenhoferstr 15 Laden<lb break="yes"/>Fürstenstrasse 2
+                    Wohnung Rgb II Stock<lb break="yes"/>z.Zt Patien Mainkofen<lb break="yes"/>Bau
+                        <hi rendition="#u">9</hi> − Abteilung 9</hi></p>
+</body>
+</text>
+</TEI>

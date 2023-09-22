@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf14v03" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Corinna Köhler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>14</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabeth <surname>V.</surname></persName>
+<date type="sent" when="1923-01-04">4.1.1923</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Schwester und Mutter: Franziska und Kreszenz <surname>V.</surname></persName>
+<settlement type="sent">Mainkofen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mkf14v">
+<persName>
+<forename>Elisabeth</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1873-02-26"/>
+<death cert="unknown"/>
+<occupation>Ladnerin, Näherin</occupation>
+<residence><geo decls="#WGS">48.4026264 13.3888101</geo>Hartkirchen, Bad Griesbach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Tagelöhner</p>
+<p>Anstalt: <date from="1910-09-14" to="1939-06-26">14.09.1910–26.06.1939</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: pp: 5, po: 3</p>
+</state>
+<trait><p>Schizophrenie</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain> privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin bedankt sich für die Paktete und die Nachrichten, wünscht ihrer Mutter und der Schwester ein gutes neues Jahr und hofft darauf, bald nach Hause zu kommen. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf14v03a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="mkf14v03b.jpg" xml:id="image_008"/>
+<graphic mimeType="image/jpg" url="mkf14v03c.jpg" xml:id="image_009"/>
+<graphic mimeType="image/jpg" url="mkf14v03d.jpg" xml:id="image_010"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Kh. A. Anstalt 4. Januar<lb break="yes"/>1923.</hi></hi></dateline>
+<salute><hi rendition="#i">Liebe gute Schwester!<lb break="yes"/>Liebe gute Mutter!</hi></salute>
+</opener>
+<p>Wan <w>wird</w><w>es</w> über mie ergehem<lb break="yes"/>Vergangnes Jahr deine
+                    Pakete<lb break="yes"/>empfangen. Der großen Teu<lb break="no"/>rung ist ma
+                ausgsetzt. Habt<lb break="yes"/>mie wieder beschenkt. Hab<lb break="yes"/>Dir
+                im̄er Letern geschickt.−<lb break="yes"/>. Liebe Schwester der
+                    Mutter<lb break="yes"/>kan die Zeit eine Bußzeit sein.<lb break="yes"/>Ich
+                kom̄e bald. Ich muß halt<lb break="yes"/>im̄er mich vertrösten; man<lb break="yes"/>macht die Zeit vom Jam̄er,<lb break="yes"/>ist halt der Wille Gottes<lb break="yes"/>mich nicht zu
+                    verlassen.<lb break="yes"/>Ich sage Dir Vergelte Gott<pb facs="#image_008"/>für
+                all. Dir lb. Schwester<lb break="yes"/>und lb. Mutter ist alles der<lb break="yes"/>Liebe des Herrn empfohlen.<lb break="yes"/>Ich höre Dich im̄er j. kurz
+                    und<lb break="yes"/>gut stets auf geschickten<lb break="yes"/>Zettel von Dir. u.
+                so wahr<lb break="yes"/>es der lb. Gott weiß ist es<lb break="yes"/>ein Kreuz, s
+                Gute Geld hat<lb break="yes"/>mich gefreut. s gibt halt<lb break="yes"/>im̄er
+                    auszustehn,<lb break="yes"/>Ich wünsche Euch ein guts<lb break="yes"/>Jahr. hat
+                sich gar vieles<lb break="yes"/>gebirgt. Die hlg. Messe<lb break="yes"/>von Wunden.
+                So ein<lb break="yes"/>Haus <del>wie</del> ist wert.<lb break="yes"/>Liebe
+                    Schwester und Mutter<lb break="yes"/>unter Thränen viele Grüße<lb break="yes"/>an
+                    <surname>R.</surname> und <surname>N.</surname>.−</p><pb facs="#image_009"/><p><hi rendition="#i"><hi rendition="#c">Frl. Franziska
+                            <surname>V.</surname><lb break="yes"/>Pocking</hi><lb break="yes"/><hi rendition="#r">Hs. Nr. 17 ½</hi><lb break="yes"/><hi rendition="#c">Rothal Niederbayern.</hi><lb break="yes"/><hi rendition="#u">frei</hi>.</hi><pb facs="#image_010"/></p>
+<p>kommenden Febr.<lb break="yes"/>am 25.<lb break="yes"/><hi rendition="#r">bitte ich<lb break="yes"/>zum 50. Geburtsfest</hi></p>
+</body>
+</text>
+</TEI>

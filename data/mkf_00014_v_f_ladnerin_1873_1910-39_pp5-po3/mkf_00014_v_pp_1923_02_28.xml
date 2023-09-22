@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf14v05" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Corinna Köhler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>14</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Elisabeth <surname>V.</surname></persName>
+<date type="sent" when="1923-02-28">28.2.1923</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Schwester und Mutter: Pat und Kreszenz <surname>V.</surname></persName>
+<settlement type="sent">Mainkofen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mkf14v">
+<persName>
+<forename>Elisabeth</forename>
+<surname>V.</surname>
+</persName>
+<birth when="1873-02-26"/>
+<death cert="unknown"/>
+<occupation>Ladnerin, Näherin</occupation>
+<residence><geo decls="#WGS">48.4026264 13.3888101</geo>Hartkirchen, Bad Griesbach</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: Vater: Tagelöhner</p>
+<p>Anstalt: <date from="1910-09-14" to="1939-06-26">14.09.1910–26.06.1939</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: pp: 5, po: 3</p>
+</state>
+<trait><p>Schizophrenie</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin bedankt sich für das Paket und das Geld. Sie berichtet vom Tod des Anstaltspaters und bittet darum, sofort abgeholt zu werden.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf14v05a.jpg" xml:id="image_015"/>
+<graphic mimeType="image/jpg" url="mkf14v05b.jpg" xml:id="image_016"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_015"/>
+<opener>
+<dateline><hi rendition="#r">Anstalt, den 28. Febr. 1923.</hi></dateline>
+<salute><hi rendition="#c"><hi rendition="#i">Lieber Pat!<lb break="yes"/>Liebe
+                        Mutter</hi>!</hi></salute>
+</opener>
+<p>Ich wiederhole heute zum letzten<lb break="yes"/>Besuch; da ich so lange nicht<lb break="yes"/>schreiben kon̄te. Wartete auf<lb break="yes"/>das
+    Versprechen zu holen heim.<lb break="yes"/>Das Geld freute mich schon so<lb break="yes"/>lieb. Gelt guter Hr <surname><unclear>B.</unclear></surname><lb break="yes"/> ich bin jetzt die ganze Elisabeth.<lb break="yes"/>Weißt wa ich dir erzählte −<lb break="yes"/>erichtete war mir ungemein<lb break="yes"/>hart. Wollte Dir auch das<lb break="yes"/>Paket loben. Liebe
+                    Leut<lb break="yes"/>das stim̄t nicht überein.<lb break="yes"/>Die
+                Spererei ist ungenü<lb break="no"/>gend. Die lb. Schwester hat<lb break="yes"/><add place="bottom">I. muß jetzt alls auf Sie halten,</add><pb facs="#image_016"/>am
+                21. Februar mit einem<lb break="yes"/>Paket erfreut u. lauter fri<lb break="no"/>sche. Am 25. Febr. hatte das<lb break="yes"/>50. Geburts. Ich hoffte dieser<lb break="yes"/>Zeit mich zu entledigen.<lb break="yes"/>Ja lb. Schwester hast mich
+                    recht<lb break="yes"/>erfreut für alls herzlich Ver<lb break="no"/>gelte Gott.
+                    Und du lb. Mutter<lb break="yes"/>Deine Thränen wollte Euch<lb break="yes"/>vergelten gern bete alle<lb break="yes"/>Tage zu Euch. So einen <w>Hand<lb break="no"/>Druck</w> darf ma nicht verwech<lb break="no"/>seln. Ich bitte
+                hole mich sofort.<lb break="yes"/>Sontag abend 6 Uhr ist unser<lb break="yes"/>Anstalt Herr Pater Cyprian<lb break="yes"/>im Alter von 81 Jahren
+                    <unclear>m</unclear><lb break="yes"/>Herrn gestorben; <seg ana="#salute">Recht viele<lb break="yes"/>Grüße an die Alle u. warte<lb break="yes"/>freudi Sie bald zu sehen</seg>
+<seg ana="#signed">Elise <surname>V.</surname>.</seg></p>
+</body>
+</text>
+</TEI>

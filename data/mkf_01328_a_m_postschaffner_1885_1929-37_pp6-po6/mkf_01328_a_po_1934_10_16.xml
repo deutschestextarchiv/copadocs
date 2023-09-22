@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf1328a06" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Corinna Köhler</name>
+<name>Monika Foldenauer</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>1328</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Otto <surname>A.</surname></persName>
+<date type="sent" when="1934-10-16">16.10.1934</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Anstaltsdirektion: k. A. </persName>
+<settlement type="sent">Mainkofen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mkf1328a">
+<persName>
+<forename>Otto</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1885-06-09"/>
+<death cert="unknown"/>
+<occupation>Postschaffner</occupation>
+<residence><geo decls="#WGS">48.9186153 13.080915</geo>Bischofsmais, Regen</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet, getrennt lebend</p>
+<p>Eltern: Vater: Schreinermeister</p>
+<p>Anstalt: <date from="1929-06-11" to="1937-06-07">11.06.1929–07.06.1937</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: pp: 6, po: 6</p>
+</state>
+<trait><p>Schizophrenie</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Der Patient bittet die Direktion der Anstalt um rechtliche Unterstützung bei seinem Vorhaben, sich scheiden zu lassen und das Sorgerecht für den Sohn zu erhalten, und ebenfalls um seine Entlassung aus der Anstalt.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf1328a06a.jpg" xml:id="image_023"/>
+<graphic mimeType="image/jpg" url="mkf1328a06b.jpg" xml:id="image_024"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_023"/>
+<opener>
+<dateline>Mainkofen, den 16. 10. 34.</dateline>
+<salute>An Direktion der Heil u Pflgst.<lb break="yes"/><hi rendition="#c">Mainkofen!</hi></salute>
+</opener>
+<p>Unterzeichneter richtet an die<lb break="yes"/>löbliche Direktion der Anstalt die<lb break="yes"/>ergebene Bitte, mir den Gesetzlichen<lb break="yes"/>Rechtsschutz, zur Klage auf<lb break="yes"/>Ehescheidung angedeihen zu lassen.<lb break="yes"/>Grund dazu gibt die Veralassung<lb break="yes"/>das mir der
+                verheiratete Säger<lb break="yes"/>Josef <surname>S.</surname> in Regen, bei<lb break="yes"/>einem seiner Besuche mir<lb break="yes"/>gegen Handschlag
+                    versicherte<pb facs="#image_024"/>das er zum ersten mal am 31<lb break="yes"/>Juli 1929 u. später wiederholt<lb break="yes"/>Geschlechtligen Umgang ge<lb break="no"/>pflogen hat mit meiner Frau.<lb break="yes"/>Dieselbe hat es mir auf
+                    vorhalt<lb break="yes"/>selbst gestanden, was sie heute<lb break="yes"/>leugnet.
+                Bitte um Vereidigung<lb break="yes"/>meiner Frau u. des Herrn J.
+                    <surname>S.</surname><lb break="yes"/>wegen Klage auf Ehescheidung<lb break="yes"/>durchzuführen. Da aus unserer<lb break="yes"/>Ehe nur Sohn
+                    hervorgegangen,<lb break="yes"/>erhebe ich um denselben die<lb break="yes"/>vollen Rechtsansprüche. Ferner<lb break="yes"/>Bitte ich Herrn Direktor der
+                    Anstalt<lb break="yes"/>um baldige Entlassung.<lb break="yes"/><seg ana="#salute"><hi rendition="#c">Achtungsvolst<lb break="yes"/><seg ana="#signed">Otto <surname>A.</surname></seg> Postschaffner a.
+                        D.</hi></seg></p>
+</body>
+</text>
+</TEI>

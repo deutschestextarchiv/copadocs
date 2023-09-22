@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf1686h10" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Sabrina Freund</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>1686</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Maria <surname>H.</surname></persName>
+<date notAfter="1968" notBefore="1916" type="sent">1916-68</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">k. A.</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mkf1686h">
+<persName>
+<forename>Maria</forename>
+<surname>H.</surname>
+</persName>
+<birth when="1896-08-25"/>
+<death when="1968"/>
+<occupation>Biermädchen</occupation>
+<residence><geo decls="#WGS">48.3311028 12.4610568</geo>Hinkerding, Wolfsegg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: ledig</p>
+<p>Eltern: k. A.</p>
+<p>Anstalt: <date from="1916-11-25" to="1968-10-29">25.11.1916–29.10.1968</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: pp: 4, po: 12</p>
+</state>
+<trait><p>Dementia praecox
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patientin bittet um die Verlegung einer Mitpatientin oder alternativ die eigene Entlassung aus der Anstalt. 
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf1686h10a.jpg" xml:id="image_026"/>
+<graphic mimeType="image/jpg" url="mkf1686h10b.jpg" xml:id="image_027"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_026"/>
+<opener>
+<dateline/>
+<salute><hi rendition="#c">Whl. Herrn Direcktor.</hi></salute>
+</opener>
+<p> Erlaube mir einen Neu<hi rendition="#i">jahrswunsch</hi>.<lb break="yes"/>Bitte
+                diese Mordskandidatin <surname>S.</surname><lb break="yes"/>von Bau 2 zu entfernen. Oder bitte<lb break="yes"/>Herrn Direcktor
+                wen̄ ich nur ungezo<lb break="no"/>gen zu Entlassen wo ich Behandelt aber<lb break="yes"/>nicht blutig Mißhandelt werde, Lass<lb break="yes"/>mich in der
+                Heil u Pflege nicht blutig<lb break="yes"/>Mißhandeln wen̄ ich auch blos ein<lb break="yes"/>armes schlichtes Mädchen bin wen̄<lb break="yes"/>ich
+                Straffällig bin gibt es ein Gericht<lb break="yes"/>fürchte mir nicht davor den̄ ich habe ein<lb break="yes"/>reines Gewissen. Habe niemand </p>
+<pb facs="#image_027"/>
+<p> ermordert weder Brandgestiftet noch gestohlen,<lb break="yes"/>die Haupsache
+                ist das ich es beschwören kan̄<lb break="yes"/>diese Mißhandlung, die
+                    <surname>S.</surname> Mord<lb break="no"/>kandidatin hat jetzt auch
+                Gottes Hand<lb break="yes"/>gezuft. Den Ungerecht ist nicht <unclear/>cht.<lb break="yes"/>dieser Reht das Zuchthaus noch offen,<lb break="yes"/>kan̄
+                schon verzeihen, aber nie <hi rendition="#u">ver<lb break="no"/>gessen</hi>.
+                Wen̄ es Euch nur ein Vergnügen<lb break="yes"/>macht mich zu Mißhandeln u
+                mich<lb break="yes"/>verblöden wollt dan̄ nur zu. Gott<lb break="yes"/>findet euch alle wen̄ ich mir sonst in<lb break="yes"/>der Verzweiflung
+                was tue kön̄en<lb break="yes"/>es andere verantworten. </p>
+</body>
+</text>
+</TEI>

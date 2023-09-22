@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf1a02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>1</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Franz <surname>A.</surname></persName>
+<date type="sent" when="1932-10-12">12.10.1932</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktion: k. A.</persName>
+<settlement type="sent">Deggendorf</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mkf1a">
+<persName>
+<forename>Franz</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1882-12-30"/>
+<death when="1937"/>
+<occupation>Buchhalter</occupation>
+<residence><geo decls="#WGS">49.8452797 9.6067197</geo>Marktheidenfeld, Würzburg</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Schneider</p>
+<p>Anstalt: <date from="1932-10-03" to="1937-05-17">03.10.1932–17.05.1937</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: po: 1, so: 2</p>
+</state>
+<trait><p>Genuine Epilepsie</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="pencil" scope="major" scribe="patient"/>
+<handNote medium="pencil" scope="minor" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Patient zählt in Form eines Lebenslaufes seine verschiedenen Anstellungen auf und erläutert, unter welchen Umständen sich sein Krankheitsbild entwickelt hat.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf1a02a.jpg" xml:id="image_005"/>
+<graphic mimeType="image/jpg" url="mkf1a02b.jpg" xml:id="image_006"/>
+<graphic mimeType="image/jpg" url="mkf1a02c.jpg" xml:id="image_007"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_005"/>
+<opener>
+<dateline><hi rendition="#r"><hi rendition="#i">Deggendorf</hi>, den 12. Oktober 1932.<lb break="yes"/><add hand="arzt"><surname><hi rendition="#i">G.</hi></surname></add></hi></dateline>
+<salute>An<lb break="yes"/><space/> die Direktion der Heil- u. Pflegeanstalt.<lb break="yes"/><hi rendition="#c"><hi rendition="#i"><hi rendition="#u">Deggendorf</hi></hi></hi>.<lb break="yes"/><unclear>⏐</unclear></salute>
+</opener>
+<p><space/> Betreff: Lebenslauf des Patienten Franz <hi rendition="#i"><surname>A.</surname></hi><lb break="yes"/><hi rendition="#c">von <hi rendition="#i">Würzburg</hi></hi><lb break="yes"/>Der unterzeichnete Franz <hi rendition="#i"><surname>A.</surname></hi> ist geboren am<lb break="yes"/>30. Dezember 1882
+                als Sohn der Schneidermeisters<lb break="no"/>eheleute Johann u. Maria <hi rendition="#i"><surname>A.</surname></hi>, letztere eine<lb break="yes"/>geborene <hi rendition="#i"><surname>F.</surname></hi> in <hi rendition="#i">Marktheidenfeld</hi>, Ufr., besuchte die<lb break="yes"/>dortige Volksschule
+                u. 2½ Jahre die Präparandenschule in<lb break="yes"/><hi rendition="#i">Lohr
+                        <hi rendition="#sup">a</hi> Main</hi>. Dann war er bis 1. Januar 1900
+                Schreiber<lb break="yes"/>bei Herrn Gerichtsvollzieher <hi rendition="#i"><surname>L.</surname></hi> in <hi rendition="#i">Marktheidenfeld</hi><lb break="yes"/>Infolge Verstaatlichung der Gerichtsvollzieher mußte er<lb break="yes"/>dann als Izipient am Amtsgerichte daselbst eintre<lb break="no"/>ten u. wurde in allen Sparten dieser Behörde ausge<lb break="no"/>bildet. Vom 1.
+                August 1902 bis 1. April 1905, dann bis<lb break="yes"/>1. Oktober 1906 u. von da
+                bis 1. April 1908 war er<lb break="yes"/>als Gerichtsschreibergehilfe beim
+                Amtsgerichte <hi rendition="#i">Neun<lb break="no"/>burg <unclear>Wald</unclear>,
+                    Bamberg </hi> u <hi rendition="#i">Schweinfurt</hi>
+<hi rendition="#sup">a</hi> M; Grundbuchan<lb break="no"/>legung in Stellung, Da
+                ich die letzte Zeit am Amts<lb break="no"/>gerichte <hi rendition="#i">Schweinfurt</hi> bei der Grundbuchanlegung <unclear>Land</unclear><lb break="yes"/>verwendet wurde u. wir durchschnittlich wöchentlich<lb break="yes"/>außer Gehalt − monatlich <hi rendition="#i">Mk</hi>. 83,50 − 3
+                Tagesdiäten von<lb break="yes"/>je <hi rendition="#i">Mk. 6,− bezogen, fiel es
+                    mir schwer infolge Beendi<lb break="no"/>gung der Grundbuchanlegung</hi>
+<unclear>Land</unclear> mit meinem Ge<lb break="no"/>halt allein auszukom̄en; als mir
+                Stelle als Buchhalter<lb break="yes"/>bei Herrn Rechtsanwalt <hi rendition="#i"><surname>H.</surname></hi> in <hi rendition="#i">Würzbug</hi> an </p>
+<pb break="no" facs="#image_006"/>
+<p>(burg) geboten wurde, kündigte ich meine Stelle im<lb break="yes"/>Staatsdienst
+                u. trat als Rechtsanwaltsbuchhalter ein<lb break="yes"/>wo ich bis 1. Oktober 1909
+                verblieb. da ich inzwischen<lb break="yes"/>die Buchführung erlernt hatte, war ich
+                von da bis 1.<lb break="yes"/>Dezember 1910 als Buchhalter bei der Weinhhandlung<lb break="yes"/>Fritz <surname><hi rendition="#i">H.</hi></surname> in
+                    <hi rendition="#i">Würzburg</hi>, Allenstraße 6, dann bis<lb break="yes"/>1.
+                April 1912 als Abteilungsbuchhalter bei der Schnell<lb break="no"/>pressenfabrik <hi rendition="#i"><surname>K.</surname> &amp; <surname>B.</surname></hi> in
+                    <hi rendition="#i">Zell</hi>
+<hi rendition="#sup">a</hi>M. u. dann bis<lb break="yes"/>Kriegsausbruch bei der
+                Weihnhandlung Ludwig <hi rendition="#i"><surname>H.</surname></hi> in<lb break="yes"/><hi rendition="#i">Würzburg</hi> in Stellung. Infolge Ekels zog ich
+                mir als<lb break="yes"/>Militärkrankenwärter die epileptifamischen Anfälle<lb break="yes"/>im Barackenlazarett Würzburg, Schottenanger zu u. wur<lb break="no"/>dann zur Führung der Krankenpapiere im Res. Lazarett<lb break="yes"/><hi rendition="#i">Zollerschule</hi>, Abteilungsarzt Staabsarzt <hi rendition="#i">Dr.
+                    Geigel</hi>, dann<lb break="yes"/>beim Rekrutendepot u. bei der 3. Kompagnie
+                als Kon<lb break="no"/>pagnieschreiber u. bis Oktober 1919 bei der Kanzlei<lb break="yes"/>der Abwiklungsstelle der 3. Kompagnie des
+                <unclear>Ldstrm</unclear>. Es.<lb break="yes"/>Betl. Mf. I verwendet. da ich nach
+                Entlassung vom Mi<lb break="no"/>litär meinen Beruf nicht mehr ausüben konnte, fing<lb break="yes"/>ich einen Handel mit Eier u. Butter an. Im August<lb break="yes"/>1927 kam ich dann nach Erhebung von Versorgungsan<lb break="no"/>sprüchen, die aber abgewießen wurden mit der Begründung<lb break="yes"/>das
+                Leiden wäre doch gekom̄en u nicht auf den Krieg zu<lb break="no"/>rückzuführen, nachdem ich nicht im Schützengraben war u.<lb break="yes"/>keinen
+                Kopfschuß bekom̄en hätte, auf eigenen Antrag in<lb break="yes"/>die
+                pysiatiatische Klinik vormals <hi rendition="#i">Ruger</hi> in <hi rendition="#i">Würzburg</hi> u.<lb break="yes"/>dann am 1. November 1927 in der Heil- und
+                Pflegeanstalt<lb break="yes"/><hi rendition="#i">Werneck</hi>. Seit dieser Zeit kann
+                ich für meine Frau u.<lb break="yes"/>meine 2 Kinder nicht mehr sorgen. Ich wäre
+                aus die<lb break="no"/>sem Grunde sehr dankbar, wenn ich eine entsprechen<lb break="no"/>de momentane Beschäftigung beköm̄en könnte, um dan̄<lb break="yes"/>nach meiner Heilung, was sicher in absehbarer Zeit<lb break="yes"/>bei Vermeidung von unnötigen Aufregungen erfolgt,<lb break="yes"/>wieder als Buchhalter in Stellung gehen zu kön̄en.<lb break="yes"/>Zum Beweise
+                meiner Fähigkeiten werde ich auf<lb break="yes"/>Anordnung meine Zeugnisse vorlegen
+                u. geht auch<lb break="yes"/>daraus schon hervor, daß noch im verangenen Jahre </p>
+<pb facs="#image_007"/>
+<p>
+<hi rendition="#i">Würzburger</hi> Geschäftsleute mich behufs
+                Erledigung schrift<lb break="no"/>licher Arbeit in der Heil- u. Pflegeanstalt <hi rendition="#i">Werneck</hi> be<lb break="no"/>suchen wollten, was aber von der
+                direktion abge<lb break="no"/>wiesen wurde.<lb break="yes"/><hi rendition="#c"><seg ana="#signed">Franz <hi rendition="#i"><surname>A.</surname>.</hi></seg></hi>
+</p>
+</body>
+</text>
+</TEI>

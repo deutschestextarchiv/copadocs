@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf702a01" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Vera Schiller</name>
+<name>Katharina Gunkler</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>702</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Adolf <surname>A.</surname></persName>
+<date type="sent" when="1959-05-11">11.05.1959</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Direktor: k. A.</persName>
+<settlement type="sent">Straubing</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="m" xml:id="mkf702a">
+<persName>
+<forename>Adolf</forename>
+<surname>A.</surname>
+</persName>
+<birth when="1889-08-31"/>
+<death cert="unknown"/>
+<occupation>Kaufmann</occupation>
+<residence><geo decls="#WGS">48.8819801 12.569716</geo>Straubing</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: verheiratet</p>
+<p>Eltern: Vater: Viehkastrant</p>
+<p>Anstalt: <date from="1926-08-14" to="1954-07-04">14.08.1926–04.07.1954</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: pp: 3, po: 17, ao: 2</p>
+</state>
+<trait><p>Schizophrenie
+                    </p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="ink" scope="sole" scribe="verwandter"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>offizieller Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Ein vermutlicher Angehöriger des Patienten, der aber dessen Namen trägt, teilt der Direktion mit, nach Amerika gehen zu dürfen.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf702a01a.jpg" xml:id="image_001"/>
+<graphic mimeType="image/jpg" url="mkf702a01b.jpg" xml:id="image_002"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_001"/>
+<opener>
+<dateline><hi rendition="#i">Ort und Datum des Poststempels. Ar Aron Arol.<lb break="yes"/><hi rendition="#r"><foreign xml:lang="engl">Germany<lb break="yes"/>International
+                            Red Gross<lb break="yes"/>Justice</foreign><lb break="yes"/>München, Moskau
+                            Warschau<lb break="yes"/>Washington Zürich den Haag<lb break="yes"/>Oslo!</hi></hi></dateline>
+<salute><hi rendition="#i">Sehr geehrter Herr Direktor!</hi></salute>
+</opener>
+<p><hi rendition="#i">Gott sei Dank ist es so weit das ich nicht mehr<lb break="yes"/>Straubing und Unmenschlichkeits Deutschland<lb break="yes"/>bleiben brauche.
+                    Der Bundespräsident hat<lb break="yes"/>schon für Juli 1959 sein Amt zur.<lb break="yes"/>Verfügung gestellt. Der Bundeskanzler<lb break="yes"/>ebenfalls für 29. September 1959. Weil sie<lb break="yes"/>müßen weil der
+                    Internationale Vertrag<lb break="yes"/>nicht eingehalten wurde und die<lb break="yes"/>Koch die Schuldigen sind im Offiziermord<lb break="yes"/>im
+                    Wäldchen von Katyn in Polen. Die<lb break="yes"/>kommen auch zu Ihnen mit den<lb break="yes"/>Tschechen und Sowietrussen schon<lb break="yes"/>sehr
+                    bald. Den ich darf nach Amerika<lb break="yes"/>fahren und brauche mit
+                    Amerikaner<lb break="yes"/>nicht mehr in Deutschland bleiben.</hi>
+</p>
+<pb facs="#image_002"/>
+<p><hi rendition="#i"><del> Nicht mehr<lb break="yes"/>in Deutschland!<lb break="yes"/>amerikanischer<lb break="yes"/>Ehrenbürger<lb break="yes"/>in U.S.A.</del></hi>
+</p>
+<p><hi rendition="#i">Den was die für mich<lb break="yes"/>sind Dasselbige was<lb break="yes"/>Hitler und sein<lb break="yes"/>zerbrochenes Regime<lb break="yes"/>für mich und menschlichen<lb break="yes"/>Nationen waren.<lb break="yes"/>Und die den Toten alten<lb break="yes"/><surname>A.</surname> weggeräumt.<lb break="yes"/><hi rendition="#i">haben die können zu </hi><lb break="yes"/><hi rendition="#i">Hermann Göring
+                        genau </hi><lb break="yes"/><hi rendition="#i">so und seinem Strick mit
+                        </hi><lb break="yes"/><hi rendition="#i">dem erhängt wurde Grüß </hi><lb break="yes"/><hi rendition="#i">Gott sagen. Und Herr </hi><unclear><hi rendition="#i"><surname>H.</surname></hi></unclear><hi rendition="#i"> </hi><lb break="yes"/><hi rendition="#i">kann sich in Spandau </hi><lb break="yes"/><hi rendition="#i">eingraben laßen </hi><unclear/></hi></p>
+<p><hi rendition="#i">An die<lb break="yes"/>Direktion der<lb break="yes"/>Heil und
+                    Pflegeanstalt<lb break="yes"/>Mainkofen<lb break="yes"/>Landkreis −<lb break="yes"/>Deggendorf</hi></p>
+</body>
+</text>
+</TEI>

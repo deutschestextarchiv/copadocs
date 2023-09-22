@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="mkf2556l02" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Patientenbrief</title>
+<editor>
+<name>Corinna Köhler</name>
+<name>Monika Foldenauer</name>
+<name>Markus Schiegg</name>
+</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Copadocs</authority>
+<availability><licence target="http://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p>
+</licence></availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository>Archiv der Heil- und Pflegeanstalt Mainkofen</repository>
+<collection>Patientenakten</collection>
+<idno>2556</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<persName type="sender">Kreszenz <surname>L.</surname></persName>
+<date type="sent" when="1928-11-22">22.11.1928</date>
+<date type="received">k. A.</date>
+<persName type="addressee">Tochter: Zenzi <surname>L.</surname></persName>
+<settlement type="sent">Mainkofen</settlement>
+<settlement type="received">k. A.</settlement>
+</creation>
+<particDesc>
+<person sex="f" xml:id="mkf2556l">
+<persName>
+<forename>Kreszenz</forename>
+<surname>L.</surname>
+</persName>
+<birth when="1870-07-14"/>
+<death cert="unknown"/>
+<occupation>Näherin, Bäckersfrau</occupation>
+<residence><geo decls="#WGS">48.825216 12.7697186</geo>Loh (Gemeinde Stephansposching), Hunderdorf, Stadtamhof</residence>
+<faith>katholisch</faith>
+<state>
+<p>Familienstand: getrennt lebend</p>
+<p>Eltern: k. A.</p>
+<p>Anstalt: <date from="1914-02-16" to="1930-08-29">16.02.1914–29.08.1930</date></p> <p>Verpflegungsklasse: k. A.</p>
+<p>Brieftypen: pp: 5, so: 2</p>
+</state>
+<trait><p>Man. depr.</p></trait>
+</person>
+</particDesc>
+<langUsage>
+<language ident="de"/>
+</langUsage>
+<handNotes>
+<handNote medium="pencil" scope="sole" scribe="patient"/>
+</handNotes>
+<textDesc>
+<channel/><constitution/><derivation/>
+<domain>privater Brief</domain>
+<factuality/><interaction/><preparedness/>
+<purpose>
+                    Die Patientin erkundigt sich nach der Familie und weshalb diese sich nicht meldet.
+                </purpose>
+</textDesc>
+</profileDesc>
+</teiHeader>
+<facsimile xml:base="f/">
+<graphic mimeType="image/jpg" url="mkf2556l02a.jpg" xml:id="image_007"/>
+<graphic mimeType="image/jpg" url="mkf2556l02b.jpg" xml:id="image_008"/>
+</facsimile>
+<text>
+<body>
+<pb facs="#image_007"/>
+<opener>
+<dateline><hi rendition="#i">M</hi>ankofen 22. Nov 1928.</dateline>
+<salute>Liebste Zenzi!</salute>
+</opener>
+<p>Zu deinen Namenstag meine<lb break="yes"/>besten Glückwensche. Ich habe dir<lb break="yes"/>schon öfters seit Pfingstens geschriben<lb break="yes"/>erhielt
+                keine Anwort. Seit Ihr<lb break="yes"/>Alle krank weil Ihr nicht hören<lb break="yes"/>läst, Bitte den Nazl schreibe<lb break="yes"/>Er soll sich eine
+                    Schiffskarte<lb break="yes"/>schauen u soll nach Amerika<lb break="yes"/>fahren
+                auf 5 Jahre da kan er<lb break="yes"/>sich mehr <del>Er</del>sparen. Wen Er im<lb break="yes"/>Frankreich schon seit 4 <w>Geschäfts<lb break="no"/>führer</w> ist
+                dan̄ wird Er im<lb break="yes"/>Amerika auch eine sollche Stelle<lb break="yes"/>finden; schreibe Ihm ich habe sein<pb facs="#image_008"/>Adrese
+                verloren. Schreibe mir<lb break="yes"/>doch ein Brieflen. Warum<lb break="yes"/>ist
+                dein Vatr ganze <unclear>J</unclear>ahr nicht<lb break="yes"/>geschrieben und auch
+                    nicht<lb break="yes"/>hergefahren; Er wird halt<lb break="yes"/>nicht <w>aus
+                    können</w>.. Teile dir<lb break="yes"/>mit daß die Sophie gestorben<lb break="yes"/>ist. Bringe deine Namenstag<lb break="yes"/>gut eine u schike
+                darfst auch<lb break="yes"/>Weihnachten nichts. <seg ana="#salute">Viele Grüße<lb break="yes"/>an deinen Bruder Nazl an<lb break="yes"/>deinen Man̄.
+                        <del>Po</del> Bleibet gesund<lb break="yes"/>Alle mitsam deinen lb.
+                        Man̄.<lb break="yes"/>bestens grüssent verbleibe<lb break="yes"/><hi rendition="#r">ich</hi>
+<seg ana="#signed"><hi rendition="#i">M</hi>. K.
+                        <surname>L.</surname></seg></seg>
+</p>
+</body>
+</text>
+</TEI>
