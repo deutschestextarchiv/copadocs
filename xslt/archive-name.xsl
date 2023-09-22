@@ -21,6 +21,9 @@
     <xsl:when test="$code='lip'">
       <xsl:text>LWL-Archivamt für Westfalen, Münster (Best. 656: Lippstadt)</xsl:text>
     </xsl:when>
+    <xsl:when test="$code='mkf'">
+      <xsl:text>Archiv des Bezirksklinikums Mainkofen</xsl:text>
+    </xsl:when>
     <xsl:when test="$code='mrs'">
       <xsl:text>LWL-Archivamt für Westfalen, Münster (Best. 657: Marsberg)</xsl:text>
     </xsl:when>
