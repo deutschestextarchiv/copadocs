@@ -205,6 +205,25 @@
     <script src="{$base}assets/datatables/datatables.min.js"></script>
     <script src="{$base}assets/datatables/natural.js"></script>
     <script src="{$base}assets/fancybox/fancybox.umd.js"></script>
+
+    <!-- Matomo -->
+    <script>
+      var _paq = window._paq = window._paq || [];
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="https://stats.dwds.de/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '5']);
+        _paq.push(['enableLinkTracking']);
+        _paq.push(['trackPageView']);
+        _paq.push(['trackVisibleContentImpressions']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <noscript><p><img src="https://stats.dwds.de/matomo.php?idsite=5&amp;rec=1" style="border:0"/></p></noscript>
+    <!-- End Matomo Code -->
   </xsl:template>
 
 </xsl:stylesheet>
