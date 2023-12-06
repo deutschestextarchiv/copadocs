@@ -10,6 +10,8 @@ except for third party web libraries, like jQuery, Bootstrap, Datatables,
 and others, which are part of this repository to provide a complete package
 for serving a static website in compliance with the GDPR.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10276397.svg)](https://doi.org/10.5281/zenodo.10276397)
+
 ## Preview via GitHub Pages
 
 A preview is available at https://deutschestextarchiv.github.io/copadocs/.
