@@ -818,7 +818,7 @@ $( function () {
       return url.toString()
     }
 
-    let dstar = 'https://kaskade.dwds.de/dstar/copadocs/dstar.perl'
+    let dstar = 'https://ddc.dwds.de/dstar/copadocs/dstar.perl'
     $.ajax({
       url: dstar,
       data: { q: qf, fmt: 'json', limit: limit, start: start },
