@@ -181,7 +181,7 @@
                 <a href="https://hison.org/" target="_blank"><img src="{$base}assets/logos/hison.jpg" title="Historical Sociolinguistics Network" alt="Logo Historical Sociolinguistics Network" data-bs-toggle="tooltip"/></a>
               </div>
               <div class="footer-col">
-                <a href="https://www.bbaw.de/" target="_blank"><img src="{$base}assets/logos/bbaw.svg" title="Berlin-Brandenburgische Akademie der Wissenschaften" alt="Logo Berlin-Brandenburgische Akademie der Wissenschaften" data-bs-toggle="tooltip"/></a>
+                <a href="https://www.bbaw.de/" target="_blank"><img src="{$base}assets/logos/bbaw.png" title="Berlin-Brandenburgische Akademie der Wissenschaften" alt="Logo Berlin-Brandenburgische Akademie der Wissenschaften" data-bs-toggle="tooltip"/></a>
               </div>
               <div class="footer-col">
                 <a href="https://www.text-plus.org/" target="_blank"><img src="{$base}assets/logos/text-plus-logo.svg" style="height:70px" title="NFDI-Konsortium Text+" alt="Logo NFDI-Konsortium Text+" data-bs-toggle="tooltip"/></a>
