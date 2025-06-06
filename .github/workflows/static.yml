@@ -38,7 +38,7 @@ jobs:
       - name: Run XSLT pipeline
         run: WEB_BASE=https://deutschestextarchiv.github.io/copadocs/ ./build.sh
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
           path: './web'
